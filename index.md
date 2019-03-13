@@ -18,13 +18,7 @@ An alternative craft beer hall of fame
 
 
 ## On Tap
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+[Welcome](/_posts/welcome.md)
 
 ### Is there a way to objectively determine the best beer?
 [The Hall of Taps gives us that answer.](about.md)
