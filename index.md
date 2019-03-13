@@ -14,27 +14,20 @@ An alternative craft beer hall of fame
 {% endfor %}
 </ul>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## On Tap
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
-1. Numbered
-2. List
+### Is there a way to objectively determine the best beer?
+[The Hall of Taps gives us that answer.](about.md)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AdamMcIntosh/halloftaps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> We look at all the beers 
+> people are drinking and quantify which ones are the best. 
+> Just because a million people have checked-in Bells Two-Hearted Ale 
+> that doesn't mean there isn't a better beer with only one hundred check-ins.
