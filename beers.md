@@ -1,4 +1,4 @@
-table style="width:100%">
+<table style="width:100%">
   <tr>
     <th>Beer </th>
     <th>Style</th>
@@ -8,13 +8,13 @@ table style="width:100%">
     <th>Hall Rating</th>
   </tr>
   {% for member in site.data.beers %}
-  <tr>
+ <tr>
   <td>{{ member.BeerName }}</td>
   <td>{{ member.BeerStyle }}</td>
   <td>{{ member.BreweryName }}</td>
   <td>{{ member.BeerAbv }}</td>
   <td>{{ member.BeerIbu }}</td>
   <td>{{ member.HallRating }}</td>
-  </tr>
+  </tr> 
   {% endfor %}
 </table>
