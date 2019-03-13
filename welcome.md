@@ -1,5 +1,7 @@
 
 # Welcome to the Hall of Taps
+
+
 [Home](index.md) |
 **Welcome**, to what I believe is the third iteration
 of the Hall of Taps. You can view all the beers and their
