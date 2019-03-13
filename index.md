@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to the Hall of Taps
 
-You can use the [editor on GitHub](https://github.com/AdamMcIntosh/halloftaps/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+An alternative craft beer hall of fame
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## 2019 Hall Nominees Preview
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
