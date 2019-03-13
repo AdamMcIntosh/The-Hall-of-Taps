@@ -18,7 +18,7 @@ An alternative craft beer hall of fame
 
 
 ## On Tap
-[Welcome](/_posts/welcome.md)
+[Welcome](_posts/welcome.md)
 
 ### Is there a way to objectively determine the best beer?
 [The Hall of Taps gives us that answer.](about.md)
