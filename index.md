@@ -2,7 +2,7 @@
 
 An alternative craft beer hall of fame
 
-[Rated Beers](beers.md) [Breweries With Rated Beers](breweries.md)
+[Rated Beers](beers.md) |  [Breweries With Rated Beers](breweries.md)
 
 ## 2019 Hall Nominees Preview
 
