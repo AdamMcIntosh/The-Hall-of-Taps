@@ -8,13 +8,13 @@
     <th>Hall Rating</th>
   </tr>
   {% for member in site.data.beers %}
-<!--  <tr>
+ <tr>
   <td>{{ member.BeerName }}</td>
   <td>{{ member.BeerStyle }}</td>
   <td>{{ member.BreweryName }}</td>
   <td>{{ member.BeerAbv }}</td>
   <td>{{ member.BeerIbu }}</td>
   <td>{{ member.HallRating }}</td>
-  </tr> -->
+  </tr> 
   {% endfor %}
 </table>
