@@ -1,6 +1,4 @@
-
 # Welcome to the Hall of Taps
-
 
 [Home](index.md) |
 **Welcome**, to what I believe is the third iteration
