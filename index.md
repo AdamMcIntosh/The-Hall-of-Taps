@@ -25,7 +25,7 @@ An alternative craft beer hall of fame
 </ul>
 
 ### Is there a way to objectively determine the best beer?
-[The Hall of Taps gives us that answer.] (/about.md)
+[The Hall of Taps gives us that answer.](about.md)
 
 > We look at all the beers 
 > people are drinking and quantify which ones are the best. 
