@@ -4,10 +4,15 @@ An alternative craft beer hall of fame
 
 ## 2019 Hall Nominees Preview
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+<ul>
+{% for member in site.data.preview %}
+  <li>
+    <a href="">
+      {{ member.BeerName }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
 
 # Header 1
 ## Header 2
