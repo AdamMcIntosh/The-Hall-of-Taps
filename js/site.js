@@ -14,7 +14,7 @@
         .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load preview')); })
         .then(function (data) {
           listEl.innerHTML = data.map(function (m) {
-            var href = (m.BeerID != null || m.BID != null) ? 'beer.html?id=' + encodeURIComponent(m.BeerID != null ? m.BeerID : m.BID) : 'beers.html';
+            var href = (m.BID != null) ? 'beer.html#' + encodeURIComponent(m.BID) : 'beers.html';
             return '<li><a href="' + href + '">' + escapeHtml(m.BeerName) + '</a></li>';
           }).join('');
         })
@@ -31,7 +31,7 @@
         .then(function (data) {
           var slice = data.slice(0, limit);
           tbodyEl.innerHTML = slice.map(function (m, i) {
-            var href = (m.BeerID != null || m.BID != null) ? 'beer.html?id=' + encodeURIComponent(m.BeerID != null ? m.BeerID : m.BID) : 'beers.html';
+            var href = (m.BID != null) ? 'beer.html#' + encodeURIComponent(m.BID) : 'beers.html';
             return '<tr><td>' + (i + 1) + '</td><td><a href="' + href + '">' + escapeHtml(m.BeerName) + '</a></td><td>' + (m.HallRating != null ? m.HallRating : '') + '</td></tr>';
           }).join('');
         })
@@ -46,7 +46,7 @@
       tableEl.innerHTML = '<tr><td colspan="6" class="loading">Loading beers…</td></tr>';
       if (paginationEl) paginationEl.innerHTML = '';
       loadChunked(tableEl, paginationEl, 'beers', pageSize, 6, function (m) {
-        var beerLink = (m.BeerID != null) ? 'beer.html?id=' + encodeURIComponent(m.BeerID) : 'beers.html';
+        var beerLink = (m.BID != null) ? 'beer.html#' + encodeURIComponent(m.BID) : 'beers.html';
         return '<tr><td><a href="' + beerLink + '">' + escapeHtml(m.BeerName) + '</a></td><td>' + escapeHtml(m.BeerStyle || '') +
           '</td><td>' + escapeHtml(m.BreweryName || '') + '</td><td>' + (m.BeerAbv != null ? m.BeerAbv : '') +
           '</td><td>' + (m.BeerIbu != null ? m.BeerIbu : '') + '</td><td>' + (m.HallRating != null ? m.HallRating : '') + '</td></tr>';
