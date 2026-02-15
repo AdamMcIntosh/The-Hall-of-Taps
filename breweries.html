@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Breweries With Rated Beers – Hall of Taps</title>
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+  <div class="wrap">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="beers.html">Rated Beers</a>
+      <a href="breweries.html">Breweries With Rated Beers</a>
+      <a href="welcome.html">Welcome</a>
+      <a href="about.html">About</a>
+    </nav>
+
+    <h1 class="page-title">Breweries With Rated Beers</h1>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Brewery</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Country</th>
+          </tr>
+        </thead>
+        <tbody id="breweries-table">
+          <tr><td colspan="4" class="loading">Loading…</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div id="breweries-pagination"></div>
+  </div>
+  <script src="js/site.js"></script>
+  <script>
+    if (window.HallOfTaps) HallOfTaps.loadBreweries(document.getElementById('breweries-table'), document.getElementById('breweries-pagination'));
+  </script>
+</body>
+</html>
