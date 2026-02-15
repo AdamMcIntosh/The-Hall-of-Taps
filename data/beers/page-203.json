@@ -4,6 +4,7 @@
     "BeerName": "Hercule Stout",
     "BeerStyle": "Stout - Belgian",
     "BreweryName": "Brasserie des Légendes",
+    "Origin": "Ath, Région Wallonne Belgium",
     "BeerAbv": "9",
     "BeerIbu": "36",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Hares To Ya Cream Ale",
     "BeerStyle": "Cream Ale",
     "BreweryName": "Heady Hollow Brewing Company",
+    "Origin": "Fishers, IN United States",
     "BeerAbv": "5.25",
     "BeerIbu": "14",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Mango Greenbelt Squeeze",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Wicks Brewing",
+    "Origin": "Riverside, CA United States",
     "BeerAbv": "6.5",
     "BeerIbu": "36",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Entire Butt",
     "BeerStyle": "Porter - English",
     "BreweryName": "Salopian Brewery",
+    "Origin": "Shrewsbury, Shropshire England",
     "BeerAbv": "4.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Locomotive Black IPA",
     "BeerStyle": "IPA - Black / Cascadian Dark Ale",
     "BreweryName": "Mad Anthony Brewing Company",
+    "Origin": "Fort Wayne, IN United States",
     "BeerAbv": "7.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Mexican Lager",
     "BeerStyle": "Lager - Mexican",
     "BreweryName": "Clairvoyant Brewing",
+    "Origin": "Boise, ID United States",
     "BeerAbv": "3.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Lagers",
     "BeerStyle": "Lager - American Light",
     "BreweryName": "Hungry Brew Hops",
+    "Origin": "Newmarket, ON Canada",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Glühkriek",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Brouwerij Liefmans",
+    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
     "BeerAbv": "6",
     "BeerIbu": "13",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Dank IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Good People Brewing Company",
+    "Origin": "Birmingham, AL United States",
     "BeerAbv": "6",
     "BeerIbu": "40",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "High Roller Idaho 7 Dry Hopped",
     "BeerStyle": "IPA - American",
     "BreweryName": "Big Boss Brewing Company",
+    "Origin": "Raleigh, NC United States",
     "BeerAbv": "6.75",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Elizabethan Ale",
     "BeerStyle": "Barleywine - English",
     "BreweryName": "Harvey's Brewery",
+    "Origin": "Lewes, East Sussex England",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Travelin' Man Batch 26",
     "BeerStyle": "IPA - American",
     "BreweryName": "Adelbert's Brewery",
+    "Origin": "Austin, TX United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Special Edition - Small Batch - Bourbon BA Tripel",
     "BeerStyle": "Belgian Tripel",
     "BreweryName": "Cloudwater Brew Co.",
+    "Origin": "Manchester, Greater Manchester England",
     "BeerAbv": "10",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Don't Be A Richard",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Dempsey's Brewery, Pub & Restaurant",
+    "Origin": "Watertown, SD United States",
     "BeerAbv": "5.6",
     "BeerIbu": "58",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Belikin Stout",
     "BeerStyle": "Stout - Other",
     "BreweryName": "Belize Brewing Company",
+    "Origin": "Belize City, Belize District Belize",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Nimbus Watermelon Cucumber Lemon",
     "BeerStyle": "IPA - American",
     "BreweryName": "Hailstorm Brewing Co.",
+    "Origin": "Tinley Park, IL United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Session Amber Amarillo",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Thirsty Dog Brewing Company",
+    "Origin": "Akron, OH United States",
     "BeerAbv": "5.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Release Me",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Cascade Brewing",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "7.6",
     "BeerIbu": "44",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "DAB Traditional",
     "BeerStyle": "Brown Ale - English",
     "BreweryName": "Dortmunder Actien-Brauerei",
+    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Coconut Cream Pie",
     "BeerStyle": "Cream Ale",
     "BreweryName": "Wolf's Ridge Brewing",
+    "Origin": "Columbus, OH United States",
     "BeerAbv": "5",
     "BeerIbu": "14",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Classic Lime",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Wild Basin Hard Seltzer",
+    "Origin": "Longmont, CO United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Straight Danksta Mack",
     "BeerStyle": "Homebrew, IPA - American",
     "BreweryName": "Laine And Grant",
+    "Origin": "United States",
     "BeerAbv": "7.2",
     "BeerIbu": "50",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Golden Pheasant",
     "BeerStyle": "Pilsner - Czech / Bohemian",
     "BreweryName": "Heineken Slovensko",
+    "Origin": "Hurbanovo, Nitriansky kraj Slovakia",
     "BeerAbv": "4.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Princess Peach",
     "BeerStyle": "Sour - Berliner Weisse",
     "BreweryName": "Castleburg Brewery",
+    "Origin": "Richmond, VA United States",
     "BeerAbv": "3.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Smoke On the Porter",
     "BeerStyle": "Smoked Beer",
     "BreweryName": "U.S Brewing Company",
+    "Origin": null,
     "BeerAbv": "4.6",
     "BeerIbu": "0",
     "HallRating": null

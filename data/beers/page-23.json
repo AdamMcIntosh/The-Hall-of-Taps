@@ -4,6 +4,7 @@
     "BeerName": "Blackshale Rattlejack",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Lincoln Green",
+    "Origin": "Nottingham, Nottinghamshire England",
     "BeerAbv": "5.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Blonde",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Brewery Creek",
+    "Origin": "Mineral Point, WI United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "BBA Bob BarrelWine 4.0",
     "BeerStyle": "Barleywine - American",
     "BreweryName": "Local Craft Beer (LCB)",
+    "Origin": "Tehachapi, CA United States",
     "BeerAbv": "11.5",
     "BeerIbu": "70",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Pardon Me Porter",
     "BeerStyle": "Porter - American",
     "BreweryName": "Third Base Brewery",
+    "Origin": "Cedar Rapids, IA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Wild Ale No. 2",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Seren Brewing Company",
+    "Origin": "Rosebush, Pembrokeshire Wales",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Vestbrygg Cerveza Hjemmebrygg",
     "BeerStyle": "Homebrew, Lager - American",
     "BreweryName": "Kirkebirkeland ølkjeller",
+    "Origin": "Norway",
     "BeerAbv": "5.8",
     "BeerIbu": "15",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "OHM",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "In Peccatum Craft Beer",
+    "Origin": "San Cibrao das Viñas, Galicia Spain",
     "BeerAbv": "6",
     "BeerIbu": "53",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Achel Extra Bruin (De 3 Wijzen) (2019)",
     "BeerStyle": "Belgian Quadrupel",
     "BreweryName": "De Achelse Kluis",
+    "Origin": "Hamont-Achel, Vlaams Gewest Belgium",
     "BeerAbv": "9.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Storm Ale",
     "BeerStyle": "Brown Ale - American",
     "BreweryName": "Thunderhead Brewing",
+    "Origin": "Kearney, NE United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Mango IPA",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Бiiрландзiя (Биирландзия)",
+    "Origin": "Belarus",
     "BeerAbv": "8.2",
     "BeerIbu": "65",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Session IPA",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Beer N' Brew",
+    "Origin": "Brazil",
     "BeerAbv": "3.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Autumn Strong Lager",
     "BeerStyle": "Märzen",
     "BreweryName": "Thunderhead Brewing",
+    "Origin": "Kearney, NE United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Milkshake DIPA",
     "BeerStyle": "IPA - Imperial / Double Milkshake",
     "BreweryName": "Artisan Brew",
+    "Origin": "Smolensk, Smolenskaya oblast' Russia",
     "BeerAbv": "7",
     "BeerIbu": "40",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Orval (1983)",
     "BeerStyle": "Pale Ale - Belgian",
     "BreweryName": "Brasserie d'Orval",
+    "Origin": "Florenville, Région Wallonne Belgium",
     "BeerAbv": "6.2",
     "BeerIbu": "36",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "American Wheat",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
     "BreweryName": "Thunderhead Brewing",
+    "Origin": "Kearney, NE United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Chinook Amber",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Thunderhead Brewing",
+    "Origin": "Kearney, NE United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Shyness Is Nice DDH Tart IPA",
     "BeerStyle": "IPA - Sour",
     "BreweryName": "SingleCut Beersmiths",
+    "Origin": "Astoria, NY United States",
     "BeerAbv": "4.8",
     "BeerIbu": "40",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Adventure 329",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Fourpure Brewing Co",
+    "Origin": "London, Greater London England",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Pilot Wheat G",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
     "BreweryName": "Lord Hobo Brewing Co.",
+    "Origin": "Woburn, MA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Eigenberg Smoked Porter",
     "BeerStyle": "Smoked Beer",
     "BreweryName": "Thunderhead Brewing",
+    "Origin": "Kearney, NE United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "The Porskær",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Crafted By",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Guinea Pig Amber Ale",
     "BeerStyle": "Homebrew, Red Ale - American Amber / Red",
     "BreweryName": "Copper Eagle Brewing",
+    "Origin": "United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Kanoe Kölsch",
     "BeerStyle": "Kölsch",
     "BreweryName": "Tomfoolery Brewing",
+    "Origin": "Hammonton, NJ United States",
     "BeerAbv": "5.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "La Barbe Ambrée",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Vignobles Fabien Castaing",
+    "Origin": "Cunèges, Nouvelle-Aquitaine France",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Copper Wheat",
     "BeerStyle": "Homebrew, Wheat Beer - American Pale Wheat",
     "BreweryName": "Copper Eagle Brewing",
+    "Origin": "United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null

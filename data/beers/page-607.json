@@ -4,6 +4,7 @@
     "BeerName": "River Beer",
     "BeerStyle": "Shandy / Radler",
     "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
     "BeerAbv": "3.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Purple Nurple",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Taos Mesa Brewing",
+    "Origin": "Taos, NM United States",
     "BeerAbv": "7",
     "BeerIbu": "20",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Cream Ale",
     "BeerStyle": "Cream Ale",
     "BreweryName": "Daugh FER",
+    "Origin": "Mexico",
     "BeerAbv": "4.6",
     "BeerIbu": "20",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Mingle (August 2022)",
     "BeerStyle": "IPA - American",
     "BreweryName": "Badlands Brewing Company",
+    "Origin": "Caledon, ON Canada",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Grunzstoff",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "Bierverein Jens+itzer",
+    "Origin": "Jens, Bern Switzerland",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Mousserande äppeldryck",
     "BeerStyle": "Non-Alcoholic - Cider / Perry",
     "BreweryName": "Kiviks Musteri",
+    "Origin": "Kivik, Skåne län Sweden",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Ease the Sheets",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Fair Winds Brewing Company",
+    "Origin": "Lorton, VA United States",
     "BeerAbv": "9",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Orange Floaties Creamsicle Ale",
     "BeerStyle": "Wheat Beer - Other",
     "BreweryName": "Salty Oak Brewing Company",
+    "Origin": "Panama City, FL United States",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "White Peach Hard Seltzer",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Michaux Brewing Company",
+    "Origin": "Waynesboro, PA United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Barrel Aged Rebellion Irish Red",
     "BeerStyle": "Red Ale - Irish",
     "BreweryName": "Olde Bedford Brewing Company",
+    "Origin": "Bedford, PA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Hazy Sun Rye",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Mamut Cervecería",
+    "Origin": "Tijuana, Baja California Mexico",
     "BeerAbv": "7",
     "BeerIbu": "57",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Watermelon Mojito Hard Seltzer",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Michaux Brewing Company",
+    "Origin": "Waynesboro, PA United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Bourbon Barrel-aged Cake Eater (2022)",
     "BeerStyle": "Stout - Imperial / Double Oatmeal",
     "BreweryName": "O.H.S.O. Brewery",
+    "Origin": "Phoenix, AZ United States",
     "BeerAbv": "16",
     "BeerIbu": "31",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Peach Milkshake Ipa",
     "BeerStyle": "IPA - Milkshake",
     "BreweryName": "Analog Brewing Company",
+    "Origin": "Edmonton, AB Canada",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Con Vince Me",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Bierverein Jens+itzer",
+    "Origin": "Jens, Bern Switzerland",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Schöffenhofer Bananen Weizen",
     "BeerStyle": "Wheat Beer - Other",
     "BreweryName": "Radeberger Gruppe",
+    "Origin": "Frankfurt am Main, Hessen Germany",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "In Another Castle - Boss Monster Edition",
     "BeerStyle": "IPA - Imperial / Double Milkshake",
     "BreweryName": "Analog Brewing Company",
+    "Origin": "Edmonton, AB Canada",
     "BeerAbv": "8.4",
     "BeerIbu": "50",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Grape Jelly Sour",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Red Dragon Brewery",
+    "Origin": "Fredericksburg, VA United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Bit O’ Honey",
     "BeerStyle": "Homebrew, Porter - American",
     "BreweryName": "Double DeeZaster",
+    "Origin": "United States",
     "BeerAbv": "4.8",
     "BeerIbu": "26",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "PC Pale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "MickDuff’s Brewing Company",
+    "Origin": "Sandpoint, ID United States",
     "BeerAbv": "5.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "I Wanna Be Your Dog",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Brasserie Marzou",
+    "Origin": "France",
     "BeerAbv": "5.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "3 доби Київське Пшеничне",
     "BeerStyle": "Wheat Beer - Other",
     "BreweryName": "Obolon (Оболонь)",
+    "Origin": "Kyiv, Ukraine",
     "BeerAbv": "5.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Norma Jean",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "2nd Bay Brewing Co",
+    "Origin": "Fruit Cove, FL United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Meander Mosaic",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Michaux Brewing Company",
+    "Origin": "Waynesboro, PA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Heart of Cold",
     "BeerStyle": "IPA - Cold",
     "BreweryName": "Arbor Ales",
+    "Origin": "Bristol, Bristol City England",
     "BeerAbv": "6.2",
     "BeerIbu": "0",
     "HallRating": null

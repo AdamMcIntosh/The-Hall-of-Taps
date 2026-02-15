@@ -4,6 +4,7 @@
     "BeerName": "Lottie",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Fair Isle Brewing",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Crimson",
     "BeerStyle": "Sour - Flanders Red Ale",
     "BreweryName": "Launch Pad Brewery",
+    "Origin": "Aurora, CO United States",
     "BeerAbv": "6.6",
     "BeerIbu": "14",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Night Swim",
     "BeerStyle": "Kvass",
     "BreweryName": "Fonta Flora Brewery",
+    "Origin": "Nebo, NC United States",
     "BeerAbv": "3.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Abjo",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "La Troisieme Jumelle",
+    "Origin": "France",
     "BeerAbv": "6.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Midnight",
     "BeerStyle": "IPA - American",
     "BreweryName": "Zer09 Cervejas Artesanais - Espaço 09",
+    "Origin": "Rio de Janeiro, Brazil",
     "BeerAbv": "7",
     "BeerIbu": "56",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Disparu Mais Toujours Là",
     "BeerStyle": "Wild Ale - American",
     "BreweryName": "Messorem",
+    "Origin": "Montreal, QC Canada",
     "BeerAbv": "6.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Cerveza De Luna",
     "BeerStyle": "Lager - Mexican",
     "BreweryName": "Molson Coors Canada",
+    "Origin": "Toronto, ON Canada",
     "BeerAbv": "4",
     "BeerIbu": "10",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Crispy",
     "BeerStyle": "Lager - Japanese Rice",
     "BreweryName": "The Shop Beer Co.",
+    "Origin": "Tempe, AZ United States",
     "BeerAbv": "5.5",
     "BeerIbu": "10",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Trade Street Blend #10",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Ballast Point Brewing Company",
+    "Origin": "San Diego, CA United States",
     "BeerAbv": "11",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Pale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Femø Bryghus",
+    "Origin": "Denmark",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Sea Quench Ale (2022)",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
     "BeerAbv": "4.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Freestyle Sandbox Vol.2",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "West Coast Brewing",
+    "Origin": "Shizuoka, Japan",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Leosaurus Sour",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Phillips Brewing & Malting Co.",
+    "Origin": "Victoria, BC Canada",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "#105 Ljus Pilsner",
     "BeerStyle": "Homebrew, Pilsner - German",
     "BreweryName": "Bryggeri Österhög",
+    "Origin": "Sweden",
     "BeerAbv": "5.4",
     "BeerIbu": "35",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Drunk Thor",
     "BeerStyle": "Homebrew, IPA - New England / Hazy",
     "BreweryName": "Eugenius Brewery",
+    "Origin": "United States",
     "BeerAbv": "6.7",
     "BeerIbu": "123",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Sqweezin' Season",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "10 Barrel Brewing Co.",
+    "Origin": "Bend, OR United States",
     "BeerAbv": "5.7",
     "BeerIbu": "20",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Star Party Session",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Other Half Brewing Co.",
+    "Origin": "Brooklyn, NY United States",
     "BeerAbv": "4.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Oktoberfest",
     "BeerStyle": "Märzen",
     "BreweryName": "Schell’s Brewery",
+    "Origin": "New Ulm, MN United States",
     "BeerAbv": "5.8",
     "BeerIbu": "20",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Voodoo RIS (2021) Allbeers Edition",
     "BeerStyle": "Stout - Russian Imperial",
     "BreweryName": "DASH Brewing Co.",
+    "Origin": "Paranaguá, Paraná Brazil",
     "BeerAbv": "12.5",
     "BeerIbu": "90",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Ship Bottom Mexican Stout Spicy Version",
     "BeerStyle": "Stout - Other",
     "BreweryName": "Ship Bottom Brewery",
+    "Origin": "Beach Haven, NJ United States",
     "BeerAbv": "9",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Dirty Play Stout",
     "BeerStyle": "Stout - American",
     "BreweryName": "Chillhops Brewing Co.",
+    "Origin": "Seosan City, 충청남도 South Korea",
     "BeerAbv": "6.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Alimaña",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Eremita - Cervecería Ermitaña",
+    "Origin": "San Rafael, San José Costa Rica",
     "BeerAbv": "4",
     "BeerIbu": "30",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Nelson Sauvin Saison Smash",
     "BeerStyle": "Belgian Blonde",
     "BreweryName": "Local Relic Artisan Ales",
+    "Origin": "Colorado Springs, CO United States",
     "BeerAbv": "6.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Birdfish Laboratory IPA -El Dorado",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "BIRDFISH BREWING CO.",
+    "Origin": "Columbiana, OH United States",
     "BeerAbv": "5.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Gucci Cowboy",
     "BeerStyle": "Pilsner - Italian",
     "BreweryName": "Gallant Fox Brewing Co",
+    "Origin": "Louisville, KY United States",
     "BeerAbv": "5.8",
     "BeerIbu": "0",
     "HallRating": null

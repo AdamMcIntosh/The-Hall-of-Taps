@@ -4,6 +4,7 @@
     "BeerName": "Blanche Neige Et Les Sept Fraises",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Saint-Houblon - La Microbrasserie",
+    "Origin": "Montréal, QC Canada",
     "BeerAbv": "4.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "I Got A Bone To Pick",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Rivington Brewing Co",
+    "Origin": "Rivington, Lancashire England",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Wilk Lemon Gose",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "Browar Wilk",
+    "Origin": "Poland",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Sommertid",
     "BeerStyle": "Homebrew, Sour - Fruited",
     "BreweryName": "Drøye Bakker Mikrobrygg",
+    "Origin": "Norway",
     "BeerAbv": "5.2",
     "BeerIbu": "7",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "What're You In A Rush For, Son?",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Rivington Brewing Co",
+    "Origin": "Rivington, Lancashire England",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Apricot Seltzer",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Peoria Artisan Brewery",
+    "Origin": "Peoria, AZ United States",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Coconut Pastry Stout",
     "BeerStyle": "Stout - Pastry",
     "BreweryName": "Seeker Brewing",
+    "Origin": "Unanderra, New South Wales Australia",
     "BeerAbv": "8.6",
     "BeerIbu": "20",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Lighthouse",
     "BeerStyle": "Lager - American Light",
     "BreweryName": "Invisible Man Brewing",
+    "Origin": "Greensburg, PA United States",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Tête De Pioche 432 (Ekuanot, Idaho #7)",
     "BeerStyle": "IPA - American",
     "BreweryName": "Le Prospecteur",
+    "Origin": "Val-d'Or, QC Canada",
     "BeerAbv": "6",
     "BeerIbu": "53",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Fine Fleur (Session Ale) Calypso",
     "BeerStyle": "IPA - Session",
     "BreweryName": "100 Watt Brewery",
+    "Origin": "Eindhoven, Noord-Brabant Netherlands",
     "BeerAbv": "4",
     "BeerIbu": "23",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "50H!3 Cream Ale",
     "BeerStyle": "Cream Ale",
     "BreweryName": "Chehalem Valley Brewing Company",
+    "Origin": "Newberg, OR United States",
     "BeerAbv": "5",
     "BeerIbu": "30",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Kona Winds Gose",
     "BeerStyle": "Sour - Other Gose",
     "BreweryName": "Waikiki Brewing Company",
+    "Origin": "Honolulu, HI United States",
     "BeerAbv": "6.1",
     "BeerIbu": "10",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Hallonveteöl",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Rågö Mikrobryggeri",
+    "Origin": "Loftahammar, Kalmar län Sweden",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Prototype Wheat",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
     "BreweryName": "Tradesman Brewing Company",
+    "Origin": "Charleston, SC United States",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Plum Passion",
     "BeerStyle": "RTD - Other",
     "BreweryName": "Ruzzo",
+    "Origin": "Damascus, OR United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Blanche - Mosaic Hull Melon",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Brasserie de la Vallée du Giffre",
+    "Origin": "Verchaix, Auvergne-Rhône-Alpes France",
     "BeerAbv": "3.8",
     "BeerIbu": "15",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Elderflower/Lemon Berliner Weisse",
     "BeerStyle": "Sour - Fruited Berliner Weisse",
     "BreweryName": "Rocky Point Brewery",
+    "Origin": "Åsa, Hallands län Sweden",
     "BeerAbv": "5",
     "BeerIbu": "7",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Hefepils",
     "BeerStyle": "Homebrew, Pilsner - German",
     "BreweryName": "Kronbräu",
+    "Origin": "Germany",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Block Party",
     "BeerStyle": "Pilsner - Italian",
     "BreweryName": "Wolf's Ridge Brewing",
+    "Origin": "Columbus, OH United States",
     "BeerAbv": "5.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Work Wives Hazy IPA",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Bucketty's Brewing Co.",
+    "Origin": "Brookvale, New South Wales Australia",
     "BeerAbv": "5.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "This One",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Homestead Beer Company",
+    "Origin": "Heath, OH United States",
     "BeerAbv": "6.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Bötch Job",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "The Goat Brewing Co.",
+    "Origin": "Lees Summit, MO United States",
     "BeerAbv": "5.5",
     "BeerIbu": "25",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "True Potential",
     "BeerStyle": "Pale Ale - Other",
     "BreweryName": "Northern Alchemy",
+    "Origin": "Newcastle upon Tyne, Tyne and Wear England",
     "BeerAbv": "4.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Dr. GuGo",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "SIMA brewing",
+    "Origin": "Budapest, Közép-Magyarország Hungary",
     "BeerAbv": "3.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Serpent Deflector",
     "BeerStyle": "IPA - Triple",
     "BreweryName": "Strangebird",
+    "Origin": "Rochester, NY United States",
     "BeerAbv": "10",
     "BeerIbu": "70",
     "HallRating": null

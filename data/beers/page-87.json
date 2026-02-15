@@ -4,6 +4,7 @@
     "BeerName": "Prime Time Pale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Big Time Brewing Company",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "4.5",
     "BeerIbu": "30",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Skipper Hell",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "Skipper Bier",
+    "Origin": "Gerzensee, Bern Switzerland",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Meh Reddish Ambery Thing",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Flying Bike Cooperative Brewery",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "5.7",
     "BeerIbu": "30",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Old Rip Oatmeal Stout",
     "BeerStyle": "Stout - Oatmeal",
     "BreweryName": "Big Time Brewing Company",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "7.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Scarlet Fire IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Big Time Brewing Company",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "6.3",
     "BeerIbu": "65",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Binary B10nde",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Umunhum Brewing",
+    "Origin": "San Jose, CA United States",
     "BeerAbv": "6",
     "BeerIbu": "23",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Galaxy Single Hop Pale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Boundary Bay Brewery",
+    "Origin": "Bellingham, WA United States",
     "BeerAbv": "6.4",
     "BeerIbu": "40",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "The Immortal IPA",
     "BeerStyle": "IPA - English",
     "BreweryName": "Elysian Brewing Company",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "6.3",
     "BeerIbu": "54",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Whoville Weizenbock",
     "BeerStyle": "Bock - Weizenbock",
     "BreweryName": "Elysian Brewing Company",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "6.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Waka Pineapple Milkshake IPA",
     "BeerStyle": "IPA - Milkshake",
     "BreweryName": "Rebrew",
+    "Origin": "Brovary, Kyivs'ka oblast Ukraine",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Warminster Special Bitter",
     "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
     "BreweryName": "Elysian Brewing Company",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "3.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Shuckers Spring Ale",
     "BeerStyle": "Pale Ale - Belgian",
     "BreweryName": "Pleasure House Brewing",
+    "Origin": "Virginia Beach, VA United States",
     "BeerAbv": "5.9",
     "BeerIbu": "26",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "AK-47 Malt Liquor",
     "BeerStyle": "Malt Liquor",
     "BreweryName": "Elysian Brewing Company",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Omakase Series: Anago",
     "BeerStyle": "Pale Ale - New England / Hazy",
     "BreweryName": "Beer Lab Hawaii",
+    "Origin": "Honolulu, HI United States",
     "BeerAbv": "6.2",
     "BeerIbu": "27",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Foster's Lager",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Carlton & United Breweries",
+    "Origin": "Abbotsford, Victoria Australia",
     "BeerAbv": "4",
     "BeerIbu": "12",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Chief Vanilla Porter",
     "BeerStyle": "Porter - American",
     "BreweryName": "Old Firehouse Brewery",
+    "Origin": "Williamsburg, OH United States",
     "BeerAbv": "6.5",
     "BeerIbu": "36",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Coffee McCocoface",
     "BeerStyle": "Brown Ale - Imperial / Double",
     "BreweryName": "Bådin Bryggeri",
+    "Origin": "Bodø, Nordland Norway",
     "BeerAbv": "7.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Avatar Jasmine IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Elysian Brewing Company",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "6.3",
     "BeerIbu": "45",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Rev Sesh Session IPA Batch 1",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Revelation Craft Brewing Company",
+    "Origin": "Rehoboth Beach, DE United States",
     "BeerAbv": "5.1",
     "BeerIbu": "39",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Kawena (Mango)",
     "BeerStyle": "Wild Ale - American",
     "BreweryName": "Lanikai Brewing Company",
+    "Origin": "Kailua, HI United States",
     "BeerAbv": "5.5",
     "BeerIbu": "12",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Elysian Fields Pale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Elysian Brewing Company",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Strassen Kopf",
     "BeerStyle": "Wild Ale - American",
     "BreweryName": "New Braunfels Brewing Company",
+    "Origin": "New Braunfels, TX United States",
     "BeerAbv": "6.5",
     "BeerIbu": "35",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Powell Blvd",
     "BeerStyle": "IPA - American",
     "BreweryName": "Brewery 26",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "6.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Zephyrus Pilsner",
     "BeerStyle": "Pilsner - German",
     "BreweryName": "Elysian Brewing Company",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "4.7",
     "BeerIbu": "38",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Horval Et Labora",
     "BeerStyle": "Homebrew, Pale Ale - Belgian",
     "BreweryName": "Birrificio il Vicolo",
+    "Origin": "Italy",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null

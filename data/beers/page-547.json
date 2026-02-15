@@ -4,6 +4,7 @@
     "BeerName": "Blonde Bunzing",
     "BeerStyle": "Homebrew, Belgian Blonde",
     "BreweryName": "Het Molletje",
+    "Origin": "Netherlands",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Triptych Series Brown Ale",
     "BeerStyle": "Brown Ale - American",
     "BreweryName": "Banter Brewing Company",
+    "Origin": "Springfield, MO United States",
     "BeerAbv": "5.5",
     "BeerIbu": "26",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Exilis Urwaga",
     "BeerStyle": "Sour - Berliner Weisse",
     "BreweryName": "OEC Brewing (Ordinem Ecentrici Coctores)",
+    "Origin": "Oxford, CT United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Neapolitan",
     "BeerStyle": "Cider - Other Fruit",
     "BreweryName": "Bog Turtle Brewery",
+    "Origin": "Rising Sun, MD United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "2XDrip",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Commonwealth Brewing Company",
+    "Origin": "Virginia Beach, VA United States",
     "BeerAbv": "8.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Yankee",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Timothy's – Le Brasseur du Pape",
+    "Origin": "Eguisheim, Grand Est France",
     "BeerAbv": "5.6",
     "BeerIbu": "41",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "BARREL AGED PROJECT #02",
     "BeerStyle": "Barleywine - Other",
     "BreweryName": "Brouwerij EemBier",
+    "Origin": "Amersfoort, Utrecht Netherlands",
     "BeerAbv": "12",
     "BeerIbu": "35",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Pittinger Pils",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Spar Österreich",
+    "Origin": "Austria",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "French 75",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "Camden Town Brewery",
+    "Origin": "Enfield, Greater London England",
     "BeerAbv": "5.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "La Goudale Ambrée",
     "BeerStyle": "Red Ale - Ambrée",
     "BreweryName": "Brasserie Goudale",
+    "Origin": "Arques, Hauts-de-France France",
     "BeerAbv": "7.2",
     "BeerIbu": "27",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "London Winter Olde Ale",
     "BeerStyle": "Old / Stock Ale",
     "BreweryName": "Beachcrest Brewing Company",
+    "Origin": "Gleneden Beach, OR United States",
     "BeerAbv": "7",
     "BeerIbu": "58",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "51 Ice Limão",
     "BeerStyle": "Other",
     "BreweryName": "Companhia Muller De Bebidas",
+    "Origin": null,
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Sham Lager",
     "BeerStyle": "Lager - American",
     "BreweryName": "Hunsfos Bryggeri",
+    "Origin": "Vennesla, Agder Norway",
     "BeerAbv": "4.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "5 Weight IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Blackrocks Brewery",
+    "Origin": "Marquette, MI United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Cream Ale",
     "BeerStyle": "Cream Ale",
     "BreweryName": "Lone Oak Farm Brewing Co.",
+    "Origin": "Olney, MD United States",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "283 Ole I Tåkeheimen",
     "BeerStyle": "Homebrew, Pale Ale - Other",
     "BreweryName": "Skaret Brewing",
+    "Origin": "Norway",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Black Cat Milk Porter",
     "BeerStyle": "Porter - American",
     "BreweryName": "Niantic Public House & Brewery",
+    "Origin": "Niantic, CT United States",
     "BeerAbv": "6.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Haze of the Rings",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Mirror Twin Brewing",
+    "Origin": "Lexington, KY United States",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "What's Sleep?",
     "BeerStyle": "IPA - Triple New England / Hazy",
     "BreweryName": "Monkish Brewing Co.",
+    "Origin": "Torrance, CA United States",
     "BeerAbv": "10.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Zed's At the Fiesta Chiles Lima Y Sal Marina",
     "BeerStyle": "Spiced / Herbed Beer",
     "BreweryName": "Zed's Beer - Bado Brewing",
+    "Origin": "Marlton, NJ United States",
     "BeerAbv": "5",
     "BeerIbu": "20",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "KangaBrew",
     "BeerStyle": "Pale Ale - Australian",
     "BreweryName": "Elusive Brewing",
+    "Origin": "Wokingham, Berkshire England",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Dona Beth - Super Mãe",
     "BeerStyle": "Homebrew, Pale Ale - American",
     "BreweryName": "Twins's Dad",
+    "Origin": "Brazil",
     "BeerAbv": "6",
     "BeerIbu": "35",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Hazy State",
     "BeerStyle": "IPA - Session New England / Hazy",
     "BreweryName": "Collective Arts Brewing",
+    "Origin": "Hamilton, ON Canada",
     "BeerAbv": "4.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Märzen",
     "BeerStyle": "Märzen",
     "BreweryName": "Ahoi Hill",
+    "Origin": "Otelfingen, Zürich Switzerland",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Oatmeal Cookie Imperial",
     "BeerStyle": "Stout - Imperial / Double Pastry",
     "BreweryName": "Struggle Street Brewing Company",
+    "Origin": "Beaumont, TX United States",
     "BeerAbv": "11.2",
     "BeerIbu": "0",
     "HallRating": null

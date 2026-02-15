@@ -4,6 +4,7 @@
     "BeerName": "Rotating Hazy IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Kings Brewing Company",
+    "Origin": "Upland, CA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "KILTKINNY",
     "BeerStyle": "Homebrew, Red Ale - Irish",
     "BreweryName": "Kilted Bees",
+    "Origin": "United States",
     "BeerAbv": "5",
     "BeerIbu": "30",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Birds Fly South Saison",
     "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
     "BreweryName": "Anthony C Homebrew",
+    "Origin": "United States",
     "BeerAbv": "6.4",
     "BeerIbu": "20",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "The Empire Kveiks Back (2022-07)",
     "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
     "BreweryName": "Milky Road Homebrew",
+    "Origin": "Netherlands",
     "BeerAbv": "7.7",
     "BeerIbu": "28",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Křupavý 12°",
     "BeerStyle": "Pilsner - Czech / Bohemian",
     "BreweryName": "Twin Elephant Brewing Company",
+    "Origin": "Chatham Borough, NJ United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "POG Sour",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Common Language Brewing",
+    "Origin": "Spokane, WA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Galaxy Summer Pale",
     "BeerStyle": "Pale Ale - English",
     "BreweryName": "Ossett Brewery",
+    "Origin": "Ossett, West Yorkshire England",
     "BeerAbv": "3.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Altered Realms",
     "BeerStyle": "IPA - American",
     "BreweryName": "ForeLand Beer",
+    "Origin": "McMinnville, OR United States",
     "BeerAbv": "6.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Sendit",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "3rd Barrel Brewery",
+    "Origin": "Shimane, Japan",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Hazy Situation IPA",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Lena Brewing Company",
+    "Origin": "Lena, IL United States",
     "BeerAbv": "5.7",
     "BeerIbu": "43",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Watercolors - Apricot, Cherry, Tangerine, Blueberry, Marshmallow And Milk Sugar",
     "BeerStyle": "Sour - Smoothie / Pastry",
     "BreweryName": "Skygazer Brewing Company",
+    "Origin": "North Haven, CT United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Peach Punk Sour",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "CSA",
+    "Origin": "Salinas, CA United States",
     "BeerAbv": "7.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Hibiscus Ginger",
     "BeerStyle": "Cider - Other Fruit",
     "BreweryName": "Shuswap Cider Co",
+    "Origin": "Salmon Arm, BC Canada",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "High Noon Flavors",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "E. & J. Gallo Winery",
+    "Origin": null,
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Berliner Weisse",
     "BeerStyle": "Sour - Berliner Weisse",
     "BreweryName": "5 Rights Brewing",
+    "Origin": "Marysville, WA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Sindicato Cervecero",
     "BeerStyle": "Pilsner - Italian",
     "BreweryName": "Cervecería de Colima",
+    "Origin": "Cuauhtémoc, Colima Mexico",
     "BeerAbv": "5.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Black Ribes",
     "BeerStyle": "Brown Ale - Other",
     "BreweryName": "3 Brasseurs | 3 Brewers Canada (officiel)",
+    "Origin": "Montreal, QC Canada",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Kitchen Sink Stout, With Becherovka",
     "BeerStyle": "Homebrew, Stout - Other",
     "BreweryName": "Hooker Brewing By Frank Walshton",
+    "Origin": "United States",
     "BeerAbv": "6.2",
     "BeerIbu": "10",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Utepils",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Grans Bryggeri",
+    "Origin": "Sandefjord, Vestfold Norway",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Macorix Lemonlime",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Macorix",
+    "Origin": null,
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Agent X014",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Artillery Brewing Company",
+    "Origin": "West Chester, PA United States",
     "BeerAbv": "4.7",
     "BeerIbu": "25",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "La Saint-Sau",
     "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
     "BreweryName": "Shawbridge - Microbrasserie et Charcuteries",
+    "Origin": "Prévost, QC Canada",
     "BeerAbv": "5.3",
     "BeerIbu": "20",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Hero Dirt",
     "BeerStyle": "Brown Ale - American",
     "BreweryName": "Vail Brewing Company",
+    "Origin": "Avon, CO United States",
     "BeerAbv": "5.7",
     "BeerIbu": "35",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Cherri Cola",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Malty National Brewing",
+    "Origin": "Regina, SK Canada",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Blueberry Blackberry Raspberry Lemonade",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Dewey Beer Company",
+    "Origin": "Dewey Beach, DE United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null

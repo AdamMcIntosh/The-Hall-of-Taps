@@ -4,6 +4,7 @@
     "BeerName": "Mexi-Kali",
     "BeerStyle": "Lager - Mexican",
     "BreweryName": "Shoes & Brews",
+    "Origin": "Longmont, CO United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Goliath",
     "BeerStyle": "IPA - English",
     "BreweryName": "Salamander Brewing Company",
+    "Origin": "Bradford, West Yorkshire England",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Sister Ada",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Laughing Monk Brewing",
+    "Origin": "San Francisco, CA United States",
     "BeerAbv": "6.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Little Chef",
     "BeerStyle": "Pale Ale - New England / Hazy",
     "BreweryName": "Cloudwater Brew Co.",
+    "Origin": "Manchester, Greater Manchester England",
     "BeerAbv": "3.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Pure Ideology",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Roughtail Brewing Company",
+    "Origin": "Oklahoma City, OK United States",
     "BeerAbv": "6.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "L'Absinthe Blonde",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Brasserie Terra Comtix",
+    "Origin": "Mamirolle, Bourgogne-Franche-Comté France",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Puma Granite Mole Lasses",
     "BeerStyle": "Homebrew, Sour - Fruited",
     "BreweryName": "People's Factory Of Beer, Munitions And Tractors",
+    "Origin": "England",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Thirst Responders Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Bucket Brigade Brewery",
+    "Origin": "Cape May, NJ United States",
     "BeerAbv": "5.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Zumbräu Pils 12 2021",
     "BeerStyle": "Pilsner - German",
     "BreweryName": "Zombräu",
+    "Origin": "Mirskofen, Bayern Germany",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Blank Stares Bright German Lager",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "Front Street Brewery",
+    "Origin": "Wilmington, NC United States",
     "BeerAbv": "5.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Lost Pharaoh",
     "BeerStyle": "Farmhouse Ale - Grisette",
     "BreweryName": "Remnant Brewing",
+    "Origin": "Somerville, MA United States",
     "BeerAbv": "4.8",
     "BeerIbu": "27",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Toucana",
     "BeerStyle": "Cider - Other Fruit",
     "BreweryName": "Starcut Ciders",
+    "Origin": "Bellaire, MI United States",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Blackberry Country Slushie",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Muckraker Beermaker",
+    "Origin": "Vernon Township, NJ United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Matrix",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Birra Flea",
+    "Origin": "Gualdo Tadino, Umbria Italy",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Very Merry Party Carrot & Mango",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Pivovar Antoš",
+    "Origin": "Slaný 1, Středočeský kraj Czech Republic",
     "BeerAbv": "4.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Balaton",
     "BeerStyle": "Mead - Melomel",
     "BreweryName": "Second City Meadery",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "12",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Rehböckli",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Brau-Schüür",
+    "Origin": "Switzerland",
     "BeerAbv": "5",
     "BeerIbu": "12",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Cowboy Culture",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "Roosevelt Brewing Company",
+    "Origin": "Portales, NM United States",
     "BeerAbv": "5",
     "BeerIbu": "18",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Evans Flight",
     "BeerStyle": "Other",
     "BreweryName": "Evans Brewing Co.",
+    "Origin": "Corona, CA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "When The Haze Clears",
     "BeerStyle": "IPA - American",
     "BreweryName": "Icarus Brewing",
+    "Origin": "Brick Township, NJ United States",
     "BeerAbv": "6.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Big Chef",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Cloudwater Brew Co.",
+    "Origin": "Manchester, Greater Manchester England",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Brother Garcia",
     "BeerStyle": "IPA - American",
     "BreweryName": "Laughing Monk Brewing",
+    "Origin": "San Francisco, CA United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Lemon Brew",
     "BeerStyle": "Cider - Other Fruit",
     "BreweryName": "Bundaberg",
+    "Origin": null,
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Pulp",
     "BeerStyle": "Pale Ale - New England / Hazy",
     "BreweryName": "RaR Brewing",
+    "Origin": "Cambridge, MD United States",
     "BeerAbv": "6.2",
     "BeerIbu": "65",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Eye Opener Coffee Porter",
     "BeerStyle": "Porter - Coffee",
     "BreweryName": "Wild Ride Brewing",
+    "Origin": "Redmond, OR United States",
     "BeerAbv": "5.5",
     "BeerIbu": "20",
     "HallRating": null

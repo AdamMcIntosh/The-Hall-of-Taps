@@ -4,6 +4,7 @@
     "BeerName": "Eddi Wu",
     "BeerStyle": "IPA - American",
     "BreweryName": "BrewsLi - Der Biermacher",
+    "Origin": "Munich, Bayern Germany",
     "BeerAbv": "6.7",
     "BeerIbu": "48",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Pulp Patriot V4: Single Hop Double IPA",
     "BeerStyle": "IPA - Imperial / Double Milkshake",
     "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
     "BeerAbv": "9.5",
     "BeerIbu": "10",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "River Red Ale",
     "BeerStyle": "Red Ale - Irish",
     "BreweryName": "The River Company Brewery",
+    "Origin": "Radford, VA United States",
     "BeerAbv": "4.7",
     "BeerIbu": "17",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Uno Mas",
     "BeerStyle": "Lager - American",
     "BreweryName": "Hoppers Grill & Brewing Co.",
+    "Origin": "Midvale, UT United States",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Fridl Wang",
     "BeerStyle": "Pilsner - Imperial / Double",
     "BreweryName": "BrewsLi - Der Biermacher",
+    "Origin": "Munich, Bayern Germany",
     "BeerAbv": "6.6",
     "BeerIbu": "40",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Gigi Hui",
     "BeerStyle": "Pale Ale - Other",
     "BreweryName": "BrewsLi - Der Biermacher",
+    "Origin": "Munich, Bayern Germany",
     "BeerAbv": "4.8",
     "BeerIbu": "29",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Belgian Sour On Whiskey Oak Chips",
     "BeerStyle": "Homebrew, Sour - Other",
     "BreweryName": "Two Dirty Beards Brewgarage",
+    "Origin": "Ellicott City, MD United States",
     "BeerAbv": "5.4",
     "BeerIbu": "18",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Creekside Amber Ale",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Jarre Creek Ranch Brewing",
+    "Origin": "Castle Rock, CO United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Rauchbier",
     "BeerStyle": "Rauchbier",
     "BreweryName": "The Bier Library Brewery & Kitchen",
+    "Origin": "Bengaluru, Karnataka India",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Brau-Blume ESB",
     "BeerStyle": "Homebrew, Bitter - Session / Ordinary",
     "BreweryName": "Braw-Blume",
+    "Origin": "Brazil",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Dead Horse Premium Amber Ale",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Moab Brewery",
+    "Origin": "Moab, UT United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Fuldt Flor",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Ølsnedkeren",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
     "BeerAbv": "6.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Chazz Cat Rye",
     "BeerStyle": "Rye Beer",
     "BreweryName": "Mountain Sun Pubs & Breweries",
+    "Origin": "Boulder, CO United States",
     "BeerAbv": "6.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Peter, Peter, Porter Eater",
     "BeerStyle": "Porter - English",
     "BreweryName": "Moon Dog Craft Brewery",
+    "Origin": "Abbotsford, Victoria Australia",
     "BeerAbv": "6.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Bagge In Bottle",
     "BeerStyle": "Bitter - Session / Ordinary",
     "BreweryName": "Folkared 15",
+    "Origin": "Långås, Hallands län Sweden",
     "BeerAbv": "3.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Winter Warlock Oatmeal Stout",
     "BeerStyle": "Stout - Oatmeal",
     "BreweryName": "Bristol Brewing Company",
+    "Origin": "Colorado Springs, CO United States",
     "BeerAbv": "6",
     "BeerIbu": "26",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "IPA - Mono Citra",
     "BeerStyle": "IPA - American",
     "BreweryName": "Limbik Co.",
+    "Origin": "Spain",
     "BeerAbv": "5.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Trappist Blend",
     "BeerStyle": "Belgian Dubbel",
     "BreweryName": "Brother Davos",
+    "Origin": null,
     "BeerAbv": "7",
     "BeerIbu": "30",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Plaza Porter",
     "BeerStyle": "Porter - American",
     "BreweryName": "Blue Corn Cafe and Brewery",
+    "Origin": "Santa Fe, NM United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Monstrous Mash (2016)",
     "BeerStyle": "Homebrew, Pumpkin / Yam Beer",
     "BreweryName": "Hobbitfu Brewing",
+    "Origin": "Saint John, NB Canada",
     "BeerAbv": "9",
     "BeerIbu": "36",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Lager",
     "BeerStyle": "Pilsner - German",
     "BreweryName": "Legend Beer",
+    "Origin": "Đống Đa, Hà Nội Vietnam",
     "BeerAbv": "4.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Tatonka® Stout",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "BJ’s Restaurant & Brewhouse",
+    "Origin": "Huntington Beach, CA United States",
     "BeerAbv": "8.5",
     "BeerIbu": "50",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Hoptimus Dry-Hopped With Zythos Hops",
     "BeerStyle": "IPA - American",
     "BreweryName": "New Albanian Brewing Company",
+    "Origin": "New Albany, IN United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Session IPA",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Limbik Co.",
+    "Origin": "Spain",
     "BeerAbv": "4.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Blind Side Pale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Blicks Brewing",
+    "Origin": "Colorado Springs, CO United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null

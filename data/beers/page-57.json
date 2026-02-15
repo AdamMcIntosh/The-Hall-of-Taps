@@ -4,6 +4,7 @@
     "BeerName": "OH, That’s Good!",
     "BeerStyle": "Homebrew, Kölsch",
     "BreweryName": "IBrewalot",
+    "Origin": "United States",
     "BeerAbv": "5",
     "BeerIbu": "20",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Belgian Tripel",
     "BeerStyle": "Belgian Tripel",
     "BreweryName": "Faultline Brewing Company",
+    "Origin": "Sunnyvale, CA United States",
     "BeerAbv": "9",
     "BeerIbu": "35",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "First Time Around",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Asbury Park Brewery",
+    "Origin": "Asbury Park, NJ United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Candy Gram For Mongo",
     "BeerStyle": "Belgian Dubbel",
     "BreweryName": "The Brewerie at Union Station",
+    "Origin": "Erie, PA United States",
     "BeerAbv": "7.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Belgian Abbey",
     "BeerStyle": "Belgian Strong Dark Ale",
     "BreweryName": "Faultline Brewing Company",
+    "Origin": "Sunnyvale, CA United States",
     "BeerAbv": "7",
     "BeerIbu": "26",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Sidecar Amber Ale (w/ Magnum Hops)",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Sierra Nevada Brewing Co.",
+    "Origin": "Chico, CA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Stout",
     "BeerStyle": "Stout - Irish Dry",
     "BreweryName": "Faultline Brewing Company",
+    "Origin": "Sunnyvale, CA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Blonde Ale",
     "BeerStyle": "Blonde Ale",
     "BreweryName": "Hannut",
+    "Origin": null,
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Strawberry Daiquiri Double FroYo 2019",
     "BeerStyle": "IPA - Imperial / Double Milkshake",
     "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
     "BeerAbv": "8",
     "BeerIbu": "30",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Pale Ale",
     "BeerStyle": "Pale Ale - English",
     "BreweryName": "Faultline Brewing Company",
+    "Origin": "Sunnyvale, CA United States",
     "BeerAbv": "5.1",
     "BeerIbu": "30",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Fuzzy Navel Double FroYo 2019",
     "BeerStyle": "IPA - Imperial / Double Milkshake",
     "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
     "BeerAbv": "8",
     "BeerIbu": "30",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Best Bitter",
     "BeerStyle": "Bitter - Best",
     "BreweryName": "Faultline Brewing Company",
+    "Origin": "Sunnyvale, CA United States",
     "BeerAbv": "5.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Capt. Biggles Extra-Special Bitter",
     "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
     "BreweryName": "Uncle Buck's Brewery & Steakhouse",
+    "Origin": "Grapevine, TX United States",
     "BeerAbv": "5.3",
     "BeerIbu": "18",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Orange Creamsicle",
     "BeerStyle": "Homebrew, Sour - Fruited",
     "BreweryName": "Balcony Boys Brewing",
+    "Origin": "Dover, DE United States",
     "BeerAbv": "4.1",
     "BeerIbu": "5",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Hefe Weizen",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Faultline Brewing Company",
+    "Origin": "Sunnyvale, CA United States",
     "BeerAbv": "5.2",
     "BeerIbu": "14",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Saved By the Bell (ma)",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Wild Rose Brewery",
+    "Origin": "Calgary, AB Canada",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Danger Ale",
     "BeerStyle": "Homebrew, Pale Ale - Other",
     "BreweryName": "Basement Brewing",
+    "Origin": "Ireland",
     "BeerAbv": "4.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Pilsner",
     "BeerStyle": "Pilsner - Czech / Bohemian",
     "BreweryName": "Faultline Brewing Company",
+    "Origin": "Sunnyvale, CA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "32",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Kölsch",
     "BeerStyle": "Kölsch",
     "BreweryName": "Faultline Brewing Company",
+    "Origin": "Sunnyvale, CA United States",
     "BeerAbv": "5",
     "BeerIbu": "21",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Grapefruit IPA",
     "BeerStyle": "Homebrew, IPA - American",
     "BreweryName": "Regan's Homebrew",
+    "Origin": "United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Mai Tai Double FroYo 2019",
     "BeerStyle": "IPA - Imperial / Double Milkshake",
     "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
     "BeerAbv": "8",
     "BeerIbu": "30",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Harvest Ale (Matured In Lagavulin Whisky Casks) (2005)",
     "BeerStyle": "Barleywine - English",
     "BreweryName": "J.W. Lees & Co.",
+    "Origin": "Middleton, Greater Manchester England",
     "BeerAbv": "11.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Capitan Canes Honey",
     "BeerStyle": "Honey Beer",
     "BreweryName": "Capitan Canes",
+    "Origin": "Argentina",
     "BeerAbv": "5.7",
     "BeerIbu": "16",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Harvest Ale (Matured in Calvados Casks) (2005)",
     "BeerStyle": "Barleywine - English",
     "BreweryName": "J.W. Lees & Co.",
+    "Origin": "Middleton, Greater Manchester England",
     "BeerAbv": "11.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Strawberry Wheat",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
     "BreweryName": "Buon Appetito Ristorante",
+    "Origin": "Spring Grove, PA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null

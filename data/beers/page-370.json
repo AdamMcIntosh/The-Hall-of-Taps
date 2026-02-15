@@ -4,6 +4,7 @@
     "BeerName": "Weihnachtsbier",
     "BeerStyle": "Lager - Winter",
     "BreweryName": "Handwerksbrauerei Rottmersleben",
+    "Origin": "Germany",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Mango Beer Slushy",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Dionysus Brewing Company",
+    "Origin": "Bakersfield, CA United States",
     "BeerAbv": "5",
     "BeerIbu": "2",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Bareksten Rhubarb",
     "BeerStyle": "Other",
     "BreweryName": "7 Fjell Bryggeri",
+    "Origin": "Bønes, Vestland Norway",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Luppolipa",
     "BeerStyle": "IPA - American",
     "BreweryName": "Birrificio Leumann",
+    "Origin": "Collegno, Piemonte Italy",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Cask NEIPA",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Habitat Brew Co",
+    "Origin": "England",
     "BeerAbv": "6",
     "BeerIbu": "10",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Champagnerweizen-Orangenbock (2021)",
     "BeerStyle": "Homebrew, Bock - Weizendoppelbock",
     "BreweryName": "Dycki's Homebrew",
+    "Origin": "Germany",
     "BeerAbv": "10",
     "BeerIbu": "20",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Lake Haze - Caliente",
     "BeerStyle": "Homebrew, IPA - New England / Hazy",
     "BreweryName": "Lakeside Craftworks",
+    "Origin": "United States",
     "BeerAbv": "6.2",
     "BeerIbu": "30",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Double Tree Red Apple",
     "BeerStyle": "Cider - Sweet",
     "BreweryName": "Cider House",
+    "Origin": "Oktiabrskaya, Краснодарский край Russia",
     "BeerAbv": "5.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Matt Zigzag",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Madame Barrel",
+    "Origin": "Poznań, Wielkopolskie Poland",
     "BeerAbv": "7.5",
     "BeerIbu": "40",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Blonde Ale",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Labona Craft Brewery",
+    "Origin": "Grad Sveta Nedelja, Istarska županija Croatia",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Blue Raspberry Beer Slushy",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Dionysus Brewing Company",
+    "Origin": "Bakersfield, CA United States",
     "BeerAbv": "5",
     "BeerIbu": "2",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Cow-A-Bunga",
     "BeerStyle": "Stout - Milk / Sweet",
     "BreweryName": "Swell Beers",
+    "Origin": "Lincoln, NE United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Hazed And Confused",
     "BeerStyle": "IPA - American",
     "BreweryName": "Rock River Brewing Company",
+    "Origin": "Rock Rapids, IA United States",
     "BeerAbv": "7.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Kranige Rutte",
     "BeerStyle": "Belgian Tripel",
     "BreweryName": "Brouwerij EemBier",
+    "Origin": "Amersfoort, Utrecht Netherlands",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Vanzetti",
     "BeerStyle": "Pilsner - Italian",
     "BreweryName": "Democracy Brewing",
+    "Origin": "Boston, MA United States",
     "BeerAbv": "5.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Voor (2019)",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Tommie Sjef",
+    "Origin": "Den Helder, Noord-Holland Netherlands",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Hoppy Habanero Red IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Flying Boat Brewing Company",
+    "Origin": "St. Petersburg, FL United States",
     "BeerAbv": "4.5",
     "BeerIbu": "42",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Dry-Hopped Vienna Lager (2021)",
     "BeerStyle": "Homebrew, Lager - Vienna",
     "BreweryName": "Dycki's Homebrew",
+    "Origin": "Germany",
     "BeerAbv": "5.5",
     "BeerIbu": "30",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Klokhenne’s Weizen (2022)",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Mommeriete",
+    "Origin": "Gramsbergen, Overijssel Netherlands",
     "BeerAbv": "5.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Your Hazy Ways...Motueka, Nelson, and Simcoe",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Wise Man Brewing",
+    "Origin": "Winston Salem, NC United States",
     "BeerAbv": "7.1",
     "BeerIbu": "47",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Eclips",
     "BeerStyle": "Homebrew, IPA - Other",
     "BreweryName": "Hop & Friends Reuver",
+    "Origin": "Netherlands",
     "BeerAbv": "9.5",
     "BeerIbu": "29",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Vinte Vinte Um",
     "BeerStyle": "IPA - Milkshake",
     "BreweryName": "God Save The Beer.",
+    "Origin": "Curitiba, Paraná Brazil",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Self-taught",
     "BeerStyle": "Homebrew, IPA - New England / Hazy",
     "BreweryName": "Crack Of Dawn Brew Co.",
+    "Origin": "England",
     "BeerAbv": "6.3",
     "BeerIbu": "23",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Oatle De Boatle Wine",
     "BeerStyle": "Barleywine - English",
     "BreweryName": "Dickies Brewing",
+    "Origin": "Netherlands",
     "BeerAbv": "9.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "School Haze DDH IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Fort Myers Brewing Company",
+    "Origin": "Fort Myers, FL United States",
     "BeerAbv": "6.4",
     "BeerIbu": "0",
     "HallRating": null

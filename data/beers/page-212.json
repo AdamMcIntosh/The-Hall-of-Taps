@@ -4,6 +4,7 @@
     "BeerName": "Pils Lite",
     "BeerStyle": "Pilsner - Czech / Bohemian",
     "BreweryName": "Пивоварня Verzauberg",
+    "Origin": "Krasnodar, Краснодарский край Russia",
     "BeerAbv": "3.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Brandenburg Gate",
     "BeerStyle": "Sour - Berliner Weisse",
     "BreweryName": "Goose Island Brewhouse",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Mad Max",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Cinema Brewery",
+    "Origin": "Dnipro, Дніпропетровська область Ukraine",
     "BeerAbv": "6.7",
     "BeerIbu": "64",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Big Eye",
     "BeerStyle": "IPA - American",
     "BreweryName": "Ballast Point Brewing Company",
+    "Origin": "San Diego, CA United States",
     "BeerAbv": "7",
     "BeerIbu": "71",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Secret Ingredient Stout",
     "BeerStyle": "Stout - Other",
     "BreweryName": "Firefly Hollow Brewing Co.",
+    "Origin": "Bristol, CT United States",
     "BeerAbv": "4.6",
     "BeerIbu": "16",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Bedrocker Ginger",
     "BeerStyle": "Cider - Herbed / Spiced",
     "BreweryName": "The Naked Apple Beverage Co",
+    "Origin": "Karragullen, Western Australia Australia",
     "BeerAbv": "6.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Colorado Belle Dark",
     "BeerStyle": "Lager - Dark",
     "BreweryName": "Pints Brewery & Sports Bar (Colorado Belle Hotel & Casino)",
+    "Origin": "Laughlin, NV United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Scotch Ale (2016)",
     "BeerStyle": "Homebrew, Scotch Ale / Wee Heavy",
     "BreweryName": "Multimodal Brewing Company",
+    "Origin": "United States",
     "BeerAbv": "10",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Juleøl 2019",
     "BeerStyle": "Homebrew, Stout - Imperial / Double",
     "BreweryName": "Heitmann",
+    "Origin": "Norway",
     "BeerAbv": "11.1",
     "BeerIbu": "54",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Lincolnshire Mild",
     "BeerStyle": "Pale Ale - English",
     "BreweryName": "Beermann’s Brewery Co",
+    "Origin": "Lincoln, CA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Hacky Sack Sour",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Northwinds Brewery",
+    "Origin": "Collingwood, ON Canada",
     "BeerAbv": "4.5",
     "BeerIbu": "15",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Down the Line",
     "BeerStyle": "IPA - American",
     "BreweryName": "Rock Bottom Restaurant & Brewery",
+    "Origin": "Denver, CO United States",
     "BeerAbv": "7.3",
     "BeerIbu": "18",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Crispy Twist",
     "BeerStyle": "Homebrew, Wheat Beer - Other",
     "BreweryName": "Muilpeer",
+    "Origin": "Venlo, Limburg Netherlands",
     "BeerAbv": "5",
     "BeerIbu": "30",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Aztec Amaranth Ale",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Bulldog Brewing Co.",
+    "Origin": "Whiting, IN United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "War Bonds Breakfast Stout",
     "BeerStyle": "Stout - Oatmeal",
     "BreweryName": "Tattered Flag Brewery & Still Works",
+    "Origin": "Middletown, PA United States",
     "BeerAbv": "6",
     "BeerIbu": "31",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Red Lady Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Crested Butte Brewery &  Pub",
+    "Origin": "Englewood, CO United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Bychee Lychee",
     "BeerStyle": "Belgian Blonde",
     "BreweryName": "Wop’s Hops Brewing Company",
+    "Origin": "Sanford, FL United States",
     "BeerAbv": "6.3",
     "BeerIbu": "49",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Barrel Fermented Saison",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Örebro Brygghus",
+    "Origin": "Örebro, Örebro län Sweden",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Magnum Red",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Four Candles",
+    "Origin": "Broadstairs, Kent England",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "BrewDog VS Turning Point: Chip Hazard",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
     "BeerAbv": "5.7",
     "BeerIbu": "28",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Pick Axe IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Socorro Springs Brewing",
+    "Origin": "Socorro, NM United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Vanilla Coffee Stout",
     "BeerStyle": "Stout - Milk / Sweet",
     "BreweryName": "Big Muddy Brewing",
+    "Origin": "Murphysboro, IL United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Locale",
     "BeerStyle": "Pale Ale - New Zealand",
     "BreweryName": "Fork & Brewer",
+    "Origin": "Wellington City, Wellington New Zealand",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Porter",
     "BeerStyle": "Porter - American",
     "BreweryName": "Rivers Effortless Dining",
+    "Origin": null,
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Pennyrile Pale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "West Sixth Brewing",
+    "Origin": "Lexington, KY United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null

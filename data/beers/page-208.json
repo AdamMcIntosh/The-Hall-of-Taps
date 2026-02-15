@@ -4,6 +4,7 @@
     "BeerName": "Macleod Super Secret Test Batch #3",
     "BeerStyle": "IPA - American",
     "BreweryName": "MacLeod Ale Brewing Company",
+    "Origin": "Van Nuys, CA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Bearcat",
     "BeerStyle": "Altbier - Traditional",
     "BreweryName": "Boxing Bear Brewing Company",
+    "Origin": "Albuquerque, NM United States",
     "BeerAbv": "5.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Heart of Stone",
     "BeerStyle": "Wild Ale - American",
     "BreweryName": "Urban Family Brewing",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "1",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Young's Double Chocolate Stout",
     "BeerStyle": "Stout - Milk / Sweet",
     "BreweryName": "Eagle Brewery",
+    "Origin": "Bedford, England",
     "BeerAbv": "5.2",
     "BeerIbu": "25",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "English Special Bitter",
     "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
     "BreweryName": "Saint Francis University Brewery",
+    "Origin": "Loretto, PA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "35",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Kentucky Mule",
     "BeerStyle": "Gluten-Free",
     "BreweryName": "House Of Monaco",
+    "Origin": null,
     "BeerAbv": "9",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Aviator Doppelbock",
     "BeerStyle": "Bock - Doppelbock",
     "BreweryName": "Springfield Brewing Company",
+    "Origin": "Springfield, MO United States",
     "BeerAbv": "7.8",
     "BeerIbu": "35",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Swearwolves",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Oddwood Brewing",
+    "Origin": "Austin, TX United States",
     "BeerAbv": "6.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Smash",
     "BeerStyle": "IPA - American",
     "BreweryName": "Orlando Brewing",
+    "Origin": "Orlando, FL United States",
     "BeerAbv": "0",
     "BeerIbu": "53",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Bombardier Brown",
     "BeerStyle": "Brown Ale - English",
     "BreweryName": "Rocky River Brewing Company",
+    "Origin": "Cleveland, OH United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Barn Burnin' Ale",
     "BeerStyle": "Rye Beer",
     "BreweryName": "Screamin' Hill Brewery",
+    "Origin": "Cream Ridge, NJ United States",
     "BeerAbv": "5.2",
     "BeerIbu": "35",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "High Seas IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Michigan Brewing Company",
+    "Origin": "Lansing, MI United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Petit Rosé",
     "BeerStyle": "Belgian Blonde",
     "BreweryName": "Heretic Brewing Company",
+    "Origin": "Fairfield, CA United States",
     "BeerAbv": "5.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Grain 1st Anniversary",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Mispillion River Brewing Company",
+    "Origin": "Milford, DE United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Deluxe Cream Stout",
     "BeerStyle": "Stout - Milk / Sweet",
     "BreweryName": "McCoy’s Public House",
+    "Origin": "Kansas City, MO United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Casa Del Melocotón",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Rockwell Beer Co.",
+    "Origin": "St. Louis, MO United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Space Dust IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Elysian Brewing Company",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "8.2",
     "BeerIbu": "62",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Numazu Hazy IPA 2019 (沼津Hazy IPA 2019)",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Repubrew",
+    "Origin": "Numazu, Shizuoka Japan",
     "BeerAbv": "6.8",
     "BeerIbu": "35",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Point Defiance IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Harmon Brewing Company",
+    "Origin": "Tacoma, WA United States",
     "BeerAbv": "6.1",
     "BeerIbu": "70",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "SMaSH '16",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Hourglass Brewing",
+    "Origin": "Longwood, FL United States",
     "BeerAbv": "9.2",
     "BeerIbu": "29",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "95 Farmhouse IPA",
     "BeerStyle": "IPA - Farmhouse",
     "BreweryName": "Puerco Salvaje",
+    "Origin": "Mexicali, Baja California Mexico",
     "BeerAbv": "6.3",
     "BeerIbu": "35",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Steam Jack",
     "BeerStyle": "California Common",
     "BreweryName": "Crooked Can",
+    "Origin": "Winter Garden, FL United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Notch Eight",
     "BeerStyle": "IPA - American",
     "BreweryName": "Klamath Basin Brewing",
+    "Origin": "Klamath Falls, OR United States",
     "BeerAbv": "7.1",
     "BeerIbu": "62",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Freeman Estate White (2019)",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Barrique Brewing and Blending",
+    "Origin": "Nashville, TN United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Herzog HofBräu",
+    "Origin": "Wundschuh, Steiermark Austria",
     "BeerAbv": "6.3",
     "BeerIbu": "0",
     "HallRating": null

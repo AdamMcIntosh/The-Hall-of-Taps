@@ -4,6 +4,7 @@
     "BeerName": "Kölsch",
     "BeerStyle": "Kölsch",
     "BreweryName": "Schlafly - The Saint Louis Brewery",
+    "Origin": "Saint Louis, MO United States",
     "BeerAbv": "4.8",
     "BeerIbu": "25",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Sparrow",
     "BeerStyle": "Pilsner - German",
     "BreweryName": "North Brewing Company",
+    "Origin": "Dartmouth, NS Canada",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Burton Ale",
     "BeerStyle": "Homebrew, Bitter - Extra Special / Strong (ESB)",
     "BreweryName": "Appa's Own",
+    "Origin": "Australia",
     "BeerAbv": "5.5",
     "BeerIbu": "32",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "SunRye",
     "BeerStyle": "Rye Beer",
     "BreweryName": "Redhook Brewery",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Weiss Beer",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Crescent City Brewhouse",
+    "Origin": "New Orleans, LA United States",
     "BeerAbv": "5",
     "BeerIbu": "10",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Cinnamon Stout",
     "BeerStyle": "Homebrew, Stout - American",
     "BreweryName": "Kino Brewing",
+    "Origin": "United States",
     "BeerAbv": "7",
     "BeerIbu": "18",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Bohemian Bastard IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Three On A Bike Brewing Co.™",
+    "Origin": "50 Dang Thi Nhu Street, Thành phố Hồ Chí Minh Vietnam",
     "BeerAbv": "7.1",
     "BeerIbu": "37",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Black Forest",
     "BeerStyle": "Lager - Munich Dunkel",
     "BreweryName": "Crescent City Brewhouse",
+    "Origin": "New Orleans, LA United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Peanut Buddha & Jelly Stout",
     "BeerStyle": "Stout - Milk / Sweet",
     "BreweryName": "Brioux City Brewery",
+    "Origin": "Sioux City, IA United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Waitomo IPA",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Wishbone",
+    "Origin": "Keighley, West Yorkshire England",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Steam",
     "BeerStyle": "California Common",
     "BreweryName": "Crescent City Brewhouse",
+    "Origin": "New Orleans, LA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Sister Golden Hair",
     "BeerStyle": "Homebrew, Belgian Blonde",
     "BreweryName": "Verdugo Hills Brewing",
+    "Origin": "United States",
     "BeerAbv": "8.7",
     "BeerIbu": "24",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Red Stallion",
     "BeerStyle": "Lager - Vienna",
     "BreweryName": "Crescent City Brewhouse",
+    "Origin": "New Orleans, LA United States",
     "BeerAbv": "5.8",
     "BeerIbu": "25",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Santa’s Little Helper",
     "BeerStyle": "Homebrew, Brown Ale - Other",
     "BreweryName": "B And B Brewery",
+    "Origin": "United States",
     "BeerAbv": "5.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Pilsner",
     "BeerStyle": "Pilsner - German",
     "BreweryName": "Crescent City Brewhouse",
+    "Origin": "New Orleans, LA United States",
     "BeerAbv": "5",
     "BeerIbu": "39",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Kosmonavt IPA",
     "BeerStyle": "IPA - English",
     "BreweryName": "Three On A Bike Brewing Co.™",
+    "Origin": "50 Dang Thi Nhu Street, Thành phố Hồ Chí Minh Vietnam",
     "BeerAbv": "5.4",
     "BeerIbu": "42",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Black Wych",
     "BeerStyle": "Porter - English",
     "BreweryName": "Wychwood Brewery",
+    "Origin": "Witney, Oxfordshire England",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Trappist White Milkshake",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Bierbrouwerij De Koningshoeven",
+    "Origin": "Berkel-Enschot, Noord-Brabant Netherlands",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Nitro Dry Stout",
     "BeerStyle": "Stout - Irish Dry",
     "BreweryName": "Zeelandt Brewery",
+    "Origin": "Napier City, Hawke's Bay New Zealand",
     "BeerAbv": "4.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Abbey Road Belgian Ale",
     "BeerStyle": "Belgian Dubbel",
     "BreweryName": "Zea Rotisserie and Brewery",
+    "Origin": "Metairie, LA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Low Carb IPA",
     "BeerStyle": "Other",
     "BreweryName": "Reformation Brewery",
+    "Origin": "Canton, GA United States",
     "BeerAbv": "6.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Czysty Kwas",
     "BeerStyle": "Sour - Berliner Weisse",
     "BreweryName": "Browar Psotnik",
+    "Origin": "Krzywiń, Greater Poland Voivodeship Poland",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Blondie's Perfect Brew",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "Brasserie de Luxembourg Mousel-Diekirch",
+    "Origin": "Diekirch, Luxembourg",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Ginger Slap Spiced Ale",
     "BeerStyle": "Spiced / Herbed Beer",
     "BreweryName": "Zea Rotisserie and Brewery",
+    "Origin": "Metairie, LA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Z.P.A. India Pale Ale",
     "BeerStyle": "IPA - American",
     "BreweryName": "Zea Rotisserie and Brewery",
+    "Origin": "Metairie, LA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null

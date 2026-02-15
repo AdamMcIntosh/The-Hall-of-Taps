@@ -4,6 +4,7 @@
     "BeerName": "Kölsch",
     "BeerStyle": "Kölsch",
     "BreweryName": "Woodland Farms Brewery (Maine)",
+    "Origin": "Kittery, ME United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Skogsjakt",
     "BeerStyle": "Homebrew, Pilsner - Other",
     "BreweryName": "Lilla Fallemo",
+    "Origin": "Sweden",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Flannel Friday",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Harpoon Brewery",
+    "Origin": "Boston, MA United States",
     "BeerAbv": "5.7",
     "BeerIbu": "35",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Guava Papaya Summer Novella",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Forward Brewing",
+    "Origin": "Annapolis, MD United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "lager",
     "BeerStyle": "Homebrew, Pilsner - German",
     "BreweryName": "UCB",
+    "Origin": "Vissenbjerg, Region Syddanmark Denmark",
     "BeerAbv": "4.6",
     "BeerIbu": "20",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "'till the End",
     "BeerStyle": "IPA - American",
     "BreweryName": "Northway Brewing Co.",
+    "Origin": "Queensbury, NY United States",
     "BeerAbv": "7.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "GP Strawberry Basil Blonde",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Cold Break Brewing",
+    "Origin": "St. Catharines, ON Canada",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Duck Duck Grisette",
     "BeerStyle": "Farmhouse Ale - Grisette",
     "BreweryName": "Spiral Brewery",
+    "Origin": "Hastings, MN United States",
     "BeerAbv": "5.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Legend of the Bard",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Cervejaria Leuven",
+    "Origin": "Piracicaba, São Paulo Brazil",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Liquid Heat",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Noble Savage Brewing Company",
+    "Origin": "Glen Cove, NY United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Cap Light",
     "BeerStyle": "Lager - American",
     "BreweryName": "Capitol Bar&Brewery",
+    "Origin": "Socorro, NM United States",
     "BeerAbv": "4.2",
     "BeerIbu": "10",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Hopfengstopfts",
     "BeerStyle": "Kellerbier / Zwickelbier",
     "BreweryName": "Neufeldner BioBrauerei",
+    "Origin": "Neufelden, Oberösterreich Austria",
     "BeerAbv": "0",
     "BeerIbu": "5",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Lager",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Bunkhouse Bistro",
+    "Origin": "Belfast, Lisburn and Castlereagh Northern Ireland",
     "BeerAbv": "4.5",
     "BeerIbu": "2",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "The Lords Ale of Allegiance",
     "BeerStyle": "Belgian Strong Dark Ale",
     "BreweryName": "RT Rogers Brewing Co.",
+    "Origin": "Sierra Madre, CA United States",
     "BeerAbv": "8.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Vantage Points",
     "BeerStyle": "Homebrew, Sour - Fruited",
     "BreweryName": "Mycelium Beer Company",
+    "Origin": null,
     "BeerAbv": "6.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Pilsner Low Alcohol",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Dokkan Brugghús",
+    "Origin": "Ísafjörður, Ísafjarðarbær Iceland",
     "BeerAbv": "2.25",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Heedhunter",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "By The River Brew Co",
+    "Origin": "Gateshead, Tyne and Wear England",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Hazy Little Clouds",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Rustic Leaf Brewing Company",
+    "Origin": "Waterford, MI United States",
     "BeerAbv": "6.4",
     "BeerIbu": "25",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "DIPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Integrity Beer Company",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "7",
     "BeerIbu": "77",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Waves of Wheat Pineapple",
     "BeerStyle": "Wheat Beer - Other",
     "BreweryName": "Canned Heat Craft Beer Company",
+    "Origin": "Fall River, MA United States",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Sandy Beach",
     "BeerStyle": "Lager - Mexican",
     "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "L142 Cold Shot IPA",
     "BeerStyle": "IPA - Session",
     "BreweryName": "House Divided Brewery",
+    "Origin": "Ely, IA United States",
     "BeerAbv": "5.2",
     "BeerIbu": "35",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Copper Red Ale",
     "BeerStyle": "Red Ale - Other",
     "BreweryName": "Wimbledon Brewery",
+    "Origin": "London, Greater London England",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Digits Secured",
     "BeerStyle": "Homebrew, Sour - Fruited",
     "BreweryName": "Mycelium Beer Company",
+    "Origin": null,
     "BeerAbv": "5.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "TANGEWIT",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Way Beer",
+    "Origin": "Pinhais, Paraná Brazil",
     "BeerAbv": "5.1",
     "BeerIbu": "0",
     "HallRating": null

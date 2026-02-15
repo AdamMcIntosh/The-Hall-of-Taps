@@ -26,22 +26,118 @@
     </div>
     <div class="nav-divider"></div>
   </nav>
-  <div class="wrap">
-    <h1 class="page-title">Rated Beers</h1>
+  <div class="wrap beers-page">
+    <h1 class="visually-hidden">Rated Beers</h1>
+    <div class="filter-panel">
+      <div class="filter-tabs" role="tablist">
+        <button type="button" class="filter-tab filter-tab--active" role="tab" aria-selected="true" id="tab-filter">Filter Leaderboards</button>
+        <a href="#" class="filter-tab" role="tab" aria-selected="false" id="tab-compare">Compare Beers</a>
+      </div>
+      <div class="filter-form" aria-labelledby="tab-filter">
+        <div class="filter-row">
+          <label for="quick-search" class="filter-label">Quick Search</label>
+          <input type="text" id="quick-search" class="filter-input" placeholder="Search beers and breweries by name." aria-label="Quick search beers and breweries">
+        </div>
+        <div class="filter-row">
+          <label for="filter-breweries" class="filter-label">Breweries</label>
+          <input type="text" id="filter-breweries" class="filter-input" placeholder="e.g. The Alchemist, Tree House" aria-label="Filter by breweries">
+          <span class="filter-helper">View only beers from certain breweries. 20 max.</span>
+        </div>
+        <div class="filter-row">
+          <label for="filter-styles" class="filter-label">Styles</label>
+          <input type="text" id="filter-styles" class="filter-input" placeholder="e.g. IPA, Stout" aria-label="Filter by styles">
+          <span class="filter-helper">View only beers from certain styles. 20 max.</span>
+        </div>
+        <div class="filter-row filter-row--inline">
+          <div class="filter-group">
+            <label for="abv-min" class="filter-label">ABV</label>
+            <div class="filter-range">
+              <select id="abv-min" class="filter-select" aria-label="ABV minimum">
+                <option value="">Min</option>
+                <option value="0" selected>0.0</option>
+                <option value="3">3.0</option>
+                <option value="5">5.0</option>
+                <option value="7">7.0</option>
+                <option value="10">10.0</option>
+                <option value="15">15.0</option>
+                <option value="25">25.0</option>
+              </select>
+              <span class="filter-range-sep">–</span>
+              <select id="abv-max" class="filter-select" aria-label="ABV maximum">
+                <option value="">Max</option>
+                <option value="0">0.0</option>
+                <option value="3">3.0</option>
+                <option value="5">5.0</option>
+                <option value="7">7.0</option>
+                <option value="10">10.0</option>
+                <option value="15">15.0</option>
+                <option value="25" selected>25.0</option>
+              </select>
+            </div>
+          </div>
+          <div class="filter-group">
+            <label for="bar-min" class="filter-label">BAR</label>
+            <div class="filter-range">
+              <select id="bar-min" class="filter-select" aria-label="BAR minimum">
+                <option value="">Min</option>
+                <option value="-15" selected>-15.0</option>
+                <option value="0">0.0</option>
+                <option value="5">5.0</option>
+                <option value="10">10.0</option>
+                <option value="15">15.0</option>
+                <option value="19">19.0</option>
+              </select>
+              <span class="filter-range-sep">–</span>
+              <select id="bar-max" class="filter-select" aria-label="BAR maximum">
+                <option value="">Max</option>
+                <option value="-15">-15.0</option>
+                <option value="0">0.0</option>
+                <option value="5">5.0</option>
+                <option value="10">10.0</option>
+                <option value="15">15.0</option>
+                <option value="19" selected>19.0</option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div class="filter-row">
+          <label for="filter-popularity" class="filter-label">Popularity</label>
+          <select id="filter-popularity" class="filter-select" aria-label="Popularity">
+            <option value="all">All beers</option>
+          </select>
+          <span class="filter-helper">Toggle between popular beers and all beers.</span>
+        </div>
+        <div class="filter-row">
+          <label for="filter-regions" class="filter-label">Regions</label>
+          <select id="filter-regions" class="filter-select" aria-label="Regions">
+            <option value="">---</option>
+          </select>
+          <span class="filter-helper">View only beers brewed in a specific US region.</span>
+        </div>
+        <div class="filter-actions">
+          <button type="button" class="btn btn--primary" id="filter-apply" aria-label="Apply filters">
+            <span class="btn-icon" aria-hidden="true">&#9660;</span> Filter Leaderboards
+          </button>
+          <button type="button" class="btn btn--secondary" id="filter-reset">Reset</button>
+        </div>
+      </div>
+    </div>
     <div class="table-wrap">
-      <table>
+      <table class="beers-leaderboard-table">
         <thead>
           <tr>
+            <th class="beers-col-num">#</th>
             <th>Beer</th>
             <th>Style</th>
             <th>Brewery</th>
-            <th>ABV</th>
-            <th>IBU</th>
-            <th>Hall Rating</th>
+            <th>Origin</th>
+            <th class="beers-col-sort" data-sort="BeerAbv">ABV <span class="sort-indicator" aria-hidden="true"></span></th>
+            <th class="beers-col-sort" data-sort="StylePlus">Style+ <span class="sort-indicator" aria-hidden="true"></span></th>
+            <th class="beers-col-sort beers-col-bar" data-sort="HallRating">BAR <span class="sort-indicator" aria-hidden="true"></span><span class="col-filter-icon" aria-hidden="true">&#9776;</span></th>
           </tr>
         </thead>
         <tbody id="beers-table">
-          <tr><td colspan="6" class="loading">Loading…</td></tr>
+          <tr><td colspan="8" class="loading">Loading beers…</td></tr>
         </tbody>
       </table>
     </div>

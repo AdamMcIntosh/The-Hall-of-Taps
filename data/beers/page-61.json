@@ -4,6 +4,7 @@
     "BeerName": "Peach Saison",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "COOP Ale Works",
+    "Origin": "Oklahoma City, OK United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "DDH Sun Dogs",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Eastlake Craft Brewery",
+    "Origin": "Minneapolis, MN United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Riverbend Rye IPA",
     "BeerStyle": "IPA - Rye",
     "BreweryName": "Crafty Bastard Brewery",
+    "Origin": "Knoxville, TN United States",
     "BeerAbv": "6.8",
     "BeerIbu": "76",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Urthel Parlus Magnificum",
     "BeerStyle": "Belgian Strong Dark Ale",
     "BreweryName": "Microbrouwerij Urthel",
+    "Origin": "Ruiselede, Vlaams Gewest Belgium",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Cereal NHIPA",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "The Flying Goose Brew Pub",
+    "Origin": "New London, NH United States",
     "BeerAbv": "6.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Herb Garden",
     "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
     "BreweryName": "FAKE BrewCo",
+    "Origin": "United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Watou Tripel",
     "BeerStyle": "Belgian Tripel",
     "BreweryName": "Brouwerij St. Bernardus",
+    "Origin": "Poperinge, Vlaams Gewest Belgium",
     "BeerAbv": "7.5",
     "BeerIbu": "25",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Belgian-style Tripel",
     "BeerStyle": "Belgian Quadrupel",
     "BreweryName": "Dog Money Restaurant & Brewery",
+    "Origin": "Leesburg, VA United States",
     "BeerAbv": "8",
     "BeerIbu": "9",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Cavan",
     "BeerStyle": "Homebrew, Sour - Other",
     "BreweryName": "Pomplon Brewing Company",
+    "Origin": "United States",
     "BeerAbv": "2.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Matilda",
     "BeerStyle": "Pale Ale - Belgian",
     "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "7",
     "BeerIbu": "26",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "One Off Wednesday: Hopped Mooncusser",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Cape May Brewing Co.",
+    "Origin": "Cape May, NJ United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Ying + Yang",
     "BeerStyle": "Cider - Traditional / Apfelwein",
     "BreweryName": "BrewPop Brewery",
+    "Origin": "Auburndale, FL United States",
     "BeerAbv": "11",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Bud Light",
     "BeerStyle": "Lager - American Light",
     "BreweryName": "Anheuser-Busch",
+    "Origin": "St. Louis, MO United States",
     "BeerAbv": "4.2",
     "BeerIbu": "6",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Dog Money Hefeweizen",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Dog Money Restaurant & Brewery",
+    "Origin": "Leesburg, VA United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "House Lager",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "Jack’s Abby Craft Lagers",
+    "Origin": "Framingham, MA United States",
     "BeerAbv": "5.2",
     "BeerIbu": "18",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Imperial Stout",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Odell Brewing Co.",
+    "Origin": "Fort Collins, CO United States",
     "BeerAbv": "7.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "'Merica Wheat Ale",
     "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
     "BreweryName": "Goat Pants Brewery",
+    "Origin": "United States",
     "BeerAbv": "4.5",
     "BeerIbu": "28",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "EKU 28",
     "BeerStyle": "Bock - Doppelbock",
     "BreweryName": "Kulmbacher Brauerei",
+    "Origin": "Kulmbach, Bayern Germany",
     "BeerAbv": "11",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Nigel’s Best",
     "BeerStyle": "Bitter - Session / Ordinary",
     "BreweryName": "Walter Station Brewery",
+    "Origin": "Phoenix, AZ United States",
     "BeerAbv": "5.3",
     "BeerIbu": "39",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Kulmbacher Eisbock",
     "BeerStyle": "Bock - Eisbock",
     "BreweryName": "Kulmbacher Brauerei",
+    "Origin": "Kulmbach, Bayern Germany",
     "BeerAbv": "9.2",
     "BeerIbu": "40",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Warrior",
     "BeerStyle": "Homebrew, IPA - American",
     "BreweryName": "Nebula Brewing",
+    "Origin": "Niagara Falls, Ontario Canada",
     "BeerAbv": "6",
     "BeerIbu": "60",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Doppelbock Dunkel",
     "BeerStyle": "Bock - Doppelbock",
     "BreweryName": "Schloss Eggenberg",
+    "Origin": "Eggenberg, Oberösterreich Austria",
     "BeerAbv": "8.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Xalapa",
     "BeerStyle": "Spiced / Herbed Beer",
     "BreweryName": "One Well Brewing",
+    "Origin": "Kalamazoo, MI United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Cavan w/ Raspberries",
     "BeerStyle": "Homebrew, Sour - Fruited",
     "BreweryName": "Pomplon Brewing Company",
+    "Origin": "United States",
     "BeerAbv": "2.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Cru Cru Imperial Stout",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Casa Cervecera Cru Cru",
+    "Origin": "Ciudad de México, Mexico",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null

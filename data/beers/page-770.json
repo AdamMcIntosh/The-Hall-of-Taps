@@ -4,6 +4,7 @@
     "BeerName": "EPA NEIPA",
     "BeerStyle": "Homebrew, IPA - New England / Hazy",
     "BreweryName": "Lomma Brygghus",
+    "Origin": "Sweden",
     "BeerAbv": "7",
     "BeerIbu": "37",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Cold IPA",
     "BeerStyle": "IPA - Cold",
     "BreweryName": "Gubaha Brewery (Губахинская Пивоварня)",
+    "Origin": "Gubakha, Пермский край Russia",
     "BeerAbv": "4.5",
     "BeerIbu": "30",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "‘Ol Ball N’ Chain",
     "BeerStyle": "Wheat Beer - Other",
     "BreweryName": "No Clue Craft Brewery",
+    "Origin": "Rancho Cucamonga, CA United States",
     "BeerAbv": "6.3",
     "BeerIbu": "20",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "3X Amnésia Haze",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "All Grain Cervejaria",
+    "Origin": "Fortaleza, Ceará Brazil",
     "BeerAbv": "9.5",
     "BeerIbu": "85",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Mutual Orangement - Cara Cara Orange (2022)",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Rendezvous Junction Brewing Company",
+    "Origin": "Rogers, AR United States",
     "BeerAbv": "5.2",
     "BeerIbu": "35",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Blueberry Cobbler",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Crank Arm Brewing Company",
+    "Origin": "Raleigh, NC United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Son of Pagan",
     "BeerStyle": "Pale Ale - English",
     "BreweryName": "Bluntrock Brewery",
+    "Origin": "Wadebridge, Cornwall England",
     "BeerAbv": "3",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "L’Arras’in Triple Aux Fruits Rouges",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "L'ARRAS'IN",
+    "Origin": "Arras, Hauts-de-France France",
     "BeerAbv": "8.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Northern Spy",
     "BeerStyle": "Cider - Dry",
     "BreweryName": "Big Mountain Ciderworks",
+    "Origin": "Kalispell, MT United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Tropical State of Mind (v 3.0)- Apricot/Mango",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Oakland United Beerworks",
+    "Origin": "Oakland, CA United States",
     "BeerAbv": "6.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Tuesday Moon",
     "BeerStyle": "Stout - Oatmeal",
     "BreweryName": "Joyride Brewing Company",
+    "Origin": "Edgewater, CO United States",
     "BeerAbv": "4.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Death of the Sun (2019)",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Drake’s Brewing Company",
+    "Origin": "San Leandro, CA United States",
     "BeerAbv": "14.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Smoke At the Water",
     "BeerStyle": "Smoked Beer",
     "BreweryName": "Stadsbrouwerij Maastricht",
+    "Origin": "Maastricht, Limburg Netherlands",
     "BeerAbv": "5.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Sombra do Oceano",
     "BeerStyle": "Red Ale - Other",
     "BreweryName": "Cervejaria Maralto",
+    "Origin": "São Paulo, Brazil",
     "BeerAbv": "7.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Brotbier Sabro",
     "BeerStyle": "Homebrew, Pale Ale - Other",
     "BreweryName": "Braukunst Vorgebirge",
+    "Origin": "Bornheim, Nordrhein-Westfalen Germany",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Alfa Herfstbok",
     "BeerStyle": "Bock - Single / Traditional",
     "BreweryName": "Alfa Bierbrouwerij",
+    "Origin": "Schinnen, Limburg Netherlands",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Smoked Helles Lager",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "Marzoni's Brick Oven & Brewing Co",
+    "Origin": "Duncansville, PA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Sick Day",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "Backcountry Brewing",
+    "Origin": "United States",
     "BeerAbv": "5",
     "BeerIbu": "20",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Chopp de Vinho",
     "BeerStyle": "RTD - Wine Cocktail",
     "BreweryName": "Hettwer Bier",
+    "Origin": "Três de Maio, Rio Grande do Sul Brazil",
     "BeerAbv": "5.5",
     "BeerIbu": "15",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "La Léchouille",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Brasserie La Salopette",
+    "Origin": "Condom, Occitanie France",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Salty Caramel #58",
     "BeerStyle": "Homebrew, Stout - Pastry",
     "BreweryName": "B.R.A Brygg",
+    "Origin": "Norway",
     "BeerAbv": "12",
     "BeerIbu": "25",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "A Bit Nutty",
     "BeerStyle": "Porter - English",
     "BreweryName": "Lone Tree Brewing Company",
+    "Origin": "Lone Tree, CO United States",
     "BeerAbv": "5.7",
     "BeerIbu": "23",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Pilsen",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Cerveja Erlanger",
+    "Origin": "Lins, São Paulo Brazil",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Swimming Pool",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Brussels Beer Project",
+    "Origin": "Anderlecht, Bruxelles Belgium",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Snagglepuss",
     "BeerStyle": "Cider - Other Fruit",
     "BreweryName": "3 Gatos Brewery",
+    "Origin": "Wyoming, MI United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null

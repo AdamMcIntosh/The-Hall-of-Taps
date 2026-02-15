@@ -4,6 +4,7 @@
     "BeerName": "Jack",
     "BeerStyle": "Bitter - Best",
     "BreweryName": "Fjordfolk Mikrobryggeri",
+    "Origin": "Sandefjord, Vestfold Norway",
     "BeerAbv": "4.7",
     "BeerIbu": "30",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Polo",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "LauderAle",
+    "Origin": "Fort Lauderdale, FL United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Calville Blanc",
     "BeerStyle": "Cider - Traditional / Apfelwein",
     "BreweryName": "Yablo",
+    "Origin": "Ukraine",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Red Velvet Corazon",
     "BeerStyle": "Lager - Mexican",
     "BreweryName": "Birrificio Altotevere",
+    "Origin": "San Giustino, Umbria Italy",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Cruise Control",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Mountain Culture Beer Co.",
+    "Origin": "Emu Plains, New South Wales Australia",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Żeglarz Pils",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Browar Kazimierz",
+    "Origin": "Zakrzów, Małopolskie Poland",
     "BeerAbv": "4.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Fish Whistle",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "LauderAle",
+    "Origin": "Fort Lauderdale, FL United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Yummie Ice: Yas Please",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Long Live Beerworks",
+    "Origin": "Providence, RI United States",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Hazemuth",
     "BeerStyle": "Homebrew, IPA - New England / Hazy",
     "BreweryName": "Plattoon Brew",
+    "Origin": "Hollola, Etelä-Suomi Finland",
     "BeerAbv": "7.7",
     "BeerIbu": "112",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "The Overlook",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Mountain Culture Beer Co.",
+    "Origin": "Emu Plains, New South Wales Australia",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Chat Ouille Faits D'hivers",
     "BeerStyle": "Winter Ale",
     "BreweryName": "Chat Long",
+    "Origin": "Châlons-en-Champagne, Grand Est France",
     "BeerAbv": "0",
     "BeerIbu": "6",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Steady As She Goes",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "LauderAle",
+    "Origin": "Fort Lauderdale, FL United States",
     "BeerAbv": "6.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Alivaria Bezalkogolnoe (Аливария Безалкогольное)",
     "BeerStyle": "Non-Alcoholic - Lager",
     "BreweryName": "Пивоваренная компания «Аливария» (Alivaria Brewery)",
+    "Origin": "Minsk, Minsk Region Belarus",
     "BeerAbv": "0.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "NZ IPA",
     "BeerStyle": "IPA - New Zealand",
     "BreweryName": "Bucketty's Brewing Co.",
+    "Origin": "Brookvale, New South Wales Australia",
     "BeerAbv": "6.5",
     "BeerIbu": "55",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Groothuis Blond",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Eggens",
+    "Origin": "Groningen, Netherlands",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Faded Memories",
     "BeerStyle": "Red Ale - Imperial / Double",
     "BreweryName": "Bonehead Brewing",
+    "Origin": "Kensington, Victoria Australia",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Matkalaisen Mutka",
     "BeerStyle": "Homebrew, Pale Ale - American",
     "BreweryName": "Hammerpark Brewery",
+    "Origin": "Finland",
     "BeerAbv": "5.3",
     "BeerIbu": "41",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Idaho Pale Ale",
     "BeerStyle": "Homebrew, Pale Ale - American",
     "BreweryName": "Fake Brewers",
+    "Origin": "France",
     "BeerAbv": "5.3",
     "BeerIbu": "40",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Snow Covered Cloudberrys",
     "BeerStyle": "Homebrew, Sour - Fruited",
     "BreweryName": "Winterland HomeBrewery",
+    "Origin": "Luleå, Norrbottens län Sweden",
     "BeerAbv": "6.6",
     "BeerIbu": "2",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Stout",
     "BeerStyle": "Homebrew, Stout - Other",
     "BreweryName": "Otia’s Ezo Brewery",
+    "Origin": "Georgia",
     "BeerAbv": "8",
     "BeerIbu": "50",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Dry Stout Centennial Simcoe",
     "BeerStyle": "Stout - Irish Dry",
     "BreweryName": "The Kernel Brewery",
+    "Origin": "London, Greater London England",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Living the Dream",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Range Brewing",
+    "Origin": "Newstead, Queensland Australia",
     "BeerAbv": "6.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Batch No7",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Österlenbryggarna",
+    "Origin": "Tomelilla kommun, Skåne län Sweden",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Another Day In Paradise",
     "BeerStyle": "IPA - American",
     "BreweryName": "Range Brewing",
+    "Origin": "Newstead, Queensland Australia",
     "BeerAbv": "6.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Haze Against the Machine",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Cervecería Nómada",
+    "Origin": "Ciudad de México, Mexico",
     "BeerAbv": "8.5",
     "BeerIbu": "0",
     "HallRating": null

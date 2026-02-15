@@ -4,6 +4,7 @@
     "BeerName": "Pont-Pont Lager",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Chez Pont-Pont",
+    "Origin": "France",
     "BeerAbv": "4.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Friend of the Double",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Sailfish Brewing Company",
+    "Origin": "Fort Pierce, FL United States",
     "BeerAbv": "9.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Pale Ale (פייל אייל)",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Shapiro (שפירא)",
+    "Origin": "Bet Shemesh, Jerusalem District Israel",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "House Ale",
     "BeerStyle": "Scotch Ale / Wee Heavy",
     "BreweryName": "Traquair House Brewery",
+    "Origin": "Innerleithen, The Scottish Borders Scotland",
     "BeerAbv": "7.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Mt. Aeolia Grapefruit Saison",
     "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
     "BreweryName": "Loco Brewing",
+    "Origin": "Lawrence, KS United States",
     "BeerAbv": "4.5",
     "BeerIbu": "25",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Uhuu é Grajaú (7° Festival De Confrarias - 2019)",
     "BeerStyle": "Homebrew, IPA - Red",
     "BreweryName": "Confraria Grajaú",
+    "Origin": "Rio de Janeiro, Brazil",
     "BeerAbv": "5.8",
     "BeerIbu": "38",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "St. Andrews Amber Ale",
     "BeerStyle": "Bitter - Best",
     "BreweryName": "Belhaven Brewery",
+    "Origin": "Dunbar, East Lothian Scotland",
     "BeerAbv": "4.6",
     "BeerIbu": "29",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Hopfen Und Malz Quitte",
     "BeerStyle": "Pale Ale - Other",
     "BreweryName": "Hopfenundmalz",
+    "Origin": "Gossau, Sankt Gallen Switzerland",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "English Pale Ale",
     "BeerStyle": "Pale Ale - English",
     "BreweryName": "Wasser Brewing Company",
+    "Origin": "Greencastle, IN United States",
     "BeerAbv": "5.5",
     "BeerIbu": "36",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Scottish Ale",
     "BeerStyle": "Scottish Ale",
     "BreweryName": "Belhaven Brewery",
+    "Origin": "Dunbar, East Lothian Scotland",
     "BeerAbv": "5.2",
     "BeerIbu": "28",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Cherry Kriek",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Goose Island Brewhouse",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Patacones",
     "BeerStyle": "Homebrew, Cream Ale",
     "BreweryName": "Broken Tile Brewing",
+    "Origin": "Canada",
     "BeerAbv": "7.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Oak Aged Summertime Sourness",
     "BeerStyle": "Sour - Berliner Weisse",
     "BreweryName": "LauderAle",
+    "Origin": "Fort Lauderdale, FL United States",
     "BeerAbv": "3.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Soursmith Mango",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Arclight Brewing Company",
+    "Origin": "Watervliet, MI United States",
     "BeerAbv": "9",
     "BeerIbu": "5",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "XXX Porter",
     "BeerStyle": "Porter - American",
     "BreweryName": "Goose Island Brewhouse",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Pomègues été",
     "BeerStyle": "Wheat Beer - Other",
     "BreweryName": "Zoumai",
+    "Origin": "Marseille, Provence-Alpes-Côte d'Azur France",
     "BeerAbv": "4.5",
     "BeerIbu": "15",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "KSQ Denali IPA",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Victory Brewing Company",
+    "Origin": "Downingtown, PA United States",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Maduro",
     "BeerStyle": "Brown Ale - American",
     "BreweryName": "Goose Island Brewhouse",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "5.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "My Power, My Pleasure, My Pain",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Turning Point Beer",
+    "Origin": "Bedford, TX United States",
     "BeerAbv": "8.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Brouwsel één",
     "BeerStyle": "Homebrew, Lager - Amber / Red",
     "BreweryName": "KonijnBrew",
+    "Origin": "Netherlands",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Blueberry Creme Brulee",
     "BeerStyle": "IPA - Milkshake",
     "BreweryName": "105 West Brewing Company",
+    "Origin": "Castle Rock, CO United States",
     "BeerAbv": "8.8",
     "BeerIbu": "45",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Made in the Shade",
     "BeerStyle": "IPA - American",
     "BreweryName": "Broad Brook Brewing Company",
+    "Origin": "Suffield, CT United States",
     "BeerAbv": "6.5",
     "BeerIbu": "60",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Houblon D’Été (2019)",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Le Saint-Fût, microbrasserie coopérative",
+    "Origin": "Saint-Fulgence, QC Canada",
     "BeerAbv": "3.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "American Pale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Goose Island Brewhouse",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "PMD Mild Ale",
     "BeerStyle": "Mild - Other",
     "BreweryName": "Goose Island Brewhouse",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "3.4",
     "BeerIbu": "0",
     "HallRating": null

@@ -4,6 +4,7 @@
     "BeerName": "Belgian Dubbel",
     "BeerStyle": "Belgian Dubbel",
     "BreweryName": "Thunderhead Brewing",
+    "Origin": "Kearney, NE United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Sage & Thyme Saison",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "St. Pete Brewing Company",
+    "Origin": "St. Petersburg, FL United States",
     "BeerAbv": "6.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Hefeweizen",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Thunderhead Brewing",
+    "Origin": "Kearney, NE United States",
     "BeerAbv": "5.6",
     "BeerIbu": "12",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Fair Fare, an AJ's Collab",
     "BeerStyle": "Sour - Berliner Weisse",
     "BreweryName": "War Horse Brewing Company",
+    "Origin": "Geneva, NY United States",
     "BeerAbv": "4.5",
     "BeerIbu": "2",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Honey Lager",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Thunderhead Brewing",
+    "Origin": "Kearney, NE United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Myran",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Imperiebryggeriet",
+    "Origin": "Getinge, Hallands län Sweden",
     "BeerAbv": "10.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Can't We All Get Along",
     "BeerStyle": "Homebrew, IPA - Session",
     "BreweryName": "Johnson County Brewing Society",
+    "Origin": "Overland Park, KS United States",
     "BeerAbv": "5",
     "BeerIbu": "54",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Saison",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Thunderhead Brewing",
+    "Origin": "Kearney, NE United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Lake Åsnen Lager",
     "BeerStyle": "Lager - American",
     "BreweryName": "Brygghus 19",
+    "Origin": "Karlshamn, Blekinge län Sweden",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Double Enghien Brune",
     "BeerStyle": "Belgian Strong Dark Ale",
     "BreweryName": "Brasserie de Silly",
+    "Origin": "Silly, Région Wallonne Belgium",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Olicana",
     "BeerStyle": "Pale Ale - English",
     "BreweryName": "Binghams Brewery",
+    "Origin": "Ruscombe, Berkshire England",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Vlaskop",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Brouwerij Strubbe",
+    "Origin": "Ichtegem, Vlaams Gewest Belgium",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Lille Røde",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Lindheim Ølkompani",
+    "Origin": "Gvarv, Telemark Norway",
     "BeerAbv": "3.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Socale",
     "BeerStyle": "Bitter - Session / Ordinary",
     "BreweryName": "Southside Social",
+    "Origin": "Edinburgh, City of Edinburgh,Midlothian Scotland",
     "BeerAbv": "4.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Double Enghien Blonde",
     "BeerStyle": "Belgian Blonde",
     "BreweryName": "Brasserie de Silly",
+    "Origin": "Silly, Région Wallonne Belgium",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Brigosa",
     "BeerStyle": "Grape Ale - Italian",
     "BreweryName": "Birrificio Lambrate",
+    "Origin": "Milan, Lombardia Italy",
     "BeerAbv": "4.5",
     "BeerIbu": "10",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Black Douglas",
     "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
     "BreweryName": "Broughton Ales",
+    "Origin": "Broughton, The Scottish Borders Scotland",
     "BeerAbv": "5.2",
     "BeerIbu": "30",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Golden Ale",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Kakegawa Farm Brewing",
+    "Origin": "Kakegawa, Shizuoka Japan",
     "BeerAbv": "9",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "White Linen Wit",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Abita Brewing Company",
+    "Origin": "Abita Springs, LA United States",
     "BeerAbv": "5.2",
     "BeerIbu": "15",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "St.-Hermes",
     "BeerStyle": "Belgian Strong Golden Ale",
     "BreweryName": "Brouwerij Clarysse",
+    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Mandereen",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Stigbergets Bryggeri",
+    "Origin": "Gothenburg, Västra Götalands län Sweden",
     "BeerAbv": "4.5",
     "BeerIbu": "50",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Linthead Chocolate Porter",
     "BeerStyle": "Porter - American",
     "BreweryName": "Cabarrus Brewing Company",
+    "Origin": "Concord, NC United States",
     "BeerAbv": "6.9",
     "BeerIbu": "26",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Bucanero Fuerte / Cubanero Fuerte",
     "BeerStyle": "Lager - American",
     "BreweryName": "Cerveceria Bucanero",
+    "Origin": "Holguín, Cuba",
     "BeerAbv": "5.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Froggy Farmer",
     "BeerStyle": "Farmhouse Ale - Other",
     "BreweryName": "Frogg Brewing",
+    "Origin": "Swanzey, NH United States",
     "BeerAbv": "4.33",
     "BeerIbu": "22",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Grapefruit IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "1933 Brewing Company",
+    "Origin": "Fort Collins, CO United States",
     "BeerAbv": "6.6",
     "BeerIbu": "0",
     "HallRating": null

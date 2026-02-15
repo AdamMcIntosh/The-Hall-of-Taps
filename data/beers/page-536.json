@@ -4,6 +4,7 @@
     "BeerName": "Tactische Traktatie",
     "BeerStyle": "Homebrew, Belgian Tripel",
     "BreweryName": "Twee Brouwers",
+    "Origin": "Netherlands",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "West Coast Session",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Good People Brewing Company",
+    "Origin": "Birmingham, AL United States",
     "BeerAbv": "4.3",
     "BeerIbu": "25",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Blueberry Pie-Eyed",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Alter Brewing Company",
+    "Origin": "Downers Grove, IL United States",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "General Zima Russian Imperial Stout",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Great Baraboo Brewing Company",
+    "Origin": "Clinton Township, MI United States",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Way of Life",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Neighbourhood Brewing",
+    "Origin": "Penticton, BC Canada",
     "BeerAbv": "6.9",
     "BeerIbu": "55",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Don't Melt Me",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Ascension Brewing Company",
+    "Origin": "Novi, MI United States",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Trevor Troubles",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Pinthouse Brewing",
+    "Origin": "Austin, TX United States",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Maple McSwagger's Own",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Crooked Can Ohio",
+    "Origin": "Hilliard, OH United States",
     "BeerAbv": "6",
     "BeerIbu": "25",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Whiskey Highball",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Traverse City Whiskey Co.",
+    "Origin": null,
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "P3 German-Style Doppelbock",
     "BeerStyle": "Bock - Doppelbock",
     "BreweryName": "Phase Three Brewing",
+    "Origin": "Lake Zurich, IL United States",
     "BeerAbv": "8.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "East Coast IPA",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Harvest Moon Brewery (New Jersey)",
+    "Origin": "New Brunswick, NJ United States",
     "BeerAbv": "6.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "La Biere De La Maison De La Magie",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Brasserie Guillaume",
+    "Origin": "Cour-Cheverny, Centre-Val de Loire France",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Junges Europäisches Freibier",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "Meinel Bräu",
+    "Origin": "Hof, Bayern Germany",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Never Bet the Devil",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Ravenous Brewing Company",
+    "Origin": "Cumberland, RI United States",
     "BeerAbv": "10.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Aon de Mèrret Stoer",
     "BeerStyle": "Belgian Strong Golden Ale",
     "BreweryName": "Aon de Mèrret",
+    "Origin": "Maastricht, Limburg Netherlands",
     "BeerAbv": "7.8",
     "BeerIbu": "10",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Sun Swing",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Yellowhammer Brewing",
+    "Origin": "Huntsville, AL United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Nordic Yule",
     "BeerStyle": "Winter Ale",
     "BreweryName": "Nordic Brewpb",
+    "Origin": "Monticello, MN United States",
     "BeerAbv": "8.5",
     "BeerIbu": "30",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "ALL IN IPA",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Kahakka Brewery",
+    "Origin": "Kokkola, Keski-Pohjanmaa Finland",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Sure La Grève",
     "BeerStyle": "Sour - Fruited Berliner Weisse",
     "BreweryName": "Ras L'Bock",
+    "Origin": "Saint-Jean-Port-Joli, QC Canada",
     "BeerAbv": "4.5",
     "BeerIbu": "10",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Invisible Garden",
     "BeerStyle": "IPA - American",
     "BreweryName": "Monday Night Brewing",
+    "Origin": "Atlanta, GA United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Lentebier",
     "BeerStyle": "Homebrew, Bock - Hell / Maibock / Lentebock",
     "BreweryName": "Twee Brouwers",
+    "Origin": "Netherlands",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Bernstein Weizen",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Gosenschenke \"Ohne Bedenken\"",
+    "Origin": "Leipzig, Sachsen Germany",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Gooisch Grisette",
     "BeerStyle": "Farmhouse Ale - Grisette",
     "BreweryName": "Gooische Bierbrouwerij",
+    "Origin": "Hilversum, Noord-Holland Netherlands",
     "BeerAbv": "3.5",
     "BeerIbu": "30",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Ribes Kettle Sour",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "pHormula",
+    "Origin": "Kharkiv, Харківська область Ukraine",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Abbaye de St. Bertin",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Brasserie de Saint-Omer",
+    "Origin": "Saint-Omer, Hauts-de-France France",
     "BeerAbv": "6.2",
     "BeerIbu": "0",
     "HallRating": null

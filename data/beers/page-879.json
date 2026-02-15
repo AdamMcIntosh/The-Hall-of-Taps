@@ -4,6 +4,7 @@
     "BeerName": "Enenra Barrel-aged",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Stamm Brewing",
+    "Origin": "Krasnaya Pakhra, Moskva Russia",
     "BeerAbv": "13",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Elderflower IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Файне (Lemberger)",
+    "Origin": "Lviv, Львівська область Ukraine",
     "BeerAbv": "6",
     "BeerIbu": "55",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "La Saint Malo Blonde",
     "BeerStyle": "Belgian Blonde",
     "BreweryName": "Les Brassins de Saint-Malo",
+    "Origin": "Saint-Malo, Bretagne France",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Punke Monke",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Wico Street Beer Co.",
+    "Origin": "Baltimore, MD United States",
     "BeerAbv": "8.5",
     "BeerIbu": "70",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Fläder Lager",
     "BeerStyle": "Homebrew, Lager - Pale",
     "BreweryName": "Mossavägens Mikrobryggeri",
+    "Origin": "Sweden",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Kilju",
     "BeerStyle": "Spirit - Other",
     "BreweryName": "Savon Kyynel",
+    "Origin": "Finland",
     "BeerAbv": "14",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Elderflower IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Файне (Lemberger)",
+    "Origin": "Lviv, Львівська область Ukraine",
     "BeerAbv": "6",
     "BeerIbu": "55",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Goiabada Para Sobremesa",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Pantagruel",
+    "Origin": "Mesquita, Rio de Janeiro Brazil",
     "BeerAbv": "4.5",
     "BeerIbu": "6",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Razzmanian Devil",
     "BeerStyle": "Wheat Beer - Other",
     "BreweryName": "The Loramie Brewing Company",
+    "Origin": "Fort Loramie, OH United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Cashmere",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "La Turbulente",
+    "Origin": "La Turballe, Pays de la Loire France",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Krombacher Fassbrause Zitrone Naturtrüb",
     "BeerStyle": "Other",
     "BreweryName": "Krombacher Gruppe",
+    "Origin": "Kreuztal, Nordrhein-Westfalen Germany",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Goiabada Para Sobremesa",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Pantagruel",
+    "Origin": "Mesquita, Rio de Janeiro Brazil",
     "BeerAbv": "4.5",
     "BeerIbu": "6",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Peach/Plum Seltzer",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Four-Eyed Guys Brewing",
+    "Origin": "Spokane, WA United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "King Kölsch",
     "BeerStyle": "Kölsch",
     "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
     "BeerAbv": "5.2",
     "BeerIbu": "26",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Dunkel Roggen",
     "BeerStyle": "Historical Beer - Roggenbier",
     "BreweryName": "Urban Brewing",
+    "Origin": "Dublin, County Dublin Ireland",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Hazy Mode: DDH Local NEIPA",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Kyiv Local Brewery",
+    "Origin": "Kyiv, Київ Ukraine",
     "BeerAbv": "5",
     "BeerIbu": "20",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Dunkel Roggen",
     "BeerStyle": "Historical Beer - Roggenbier",
     "BreweryName": "Urban Brewing",
+    "Origin": "Dublin, County Dublin Ireland",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Heat Wave Bohemian Pilsner",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Mayday Brewery",
+    "Origin": "Murfreesboro, TN United States",
     "BeerAbv": "7.4",
     "BeerIbu": "42",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Islay Whisky Geuze (2022)",
     "BeerStyle": "Lambic - Gueuze",
     "BreweryName": "Publitasting",
+    "Origin": "Anzegem, Vlaams Gewest Belgium",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Fact Check",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "District 96 Beer Factory",
+    "Origin": "New City, NY United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Pineapple Coconut Splashdown",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "HopLore Brewing Company",
+    "Origin": "Leesburg, IN United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "La Stan’ Stout Chocolat-orange",
     "BeerStyle": "Stout - Other",
     "BreweryName": "Qualtech",
+    "Origin": "Vandœuvre-lès-Nancy, Grand Est France",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Kvass Okroshechny (Квас Окрошечный)",
     "BeerStyle": "Kvass",
     "BreweryName": "Orenburg Food Company (Оренбургская Пищевая Компания)",
+    "Origin": "Russia",
     "BeerAbv": "1.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Grapefruit Tangerine Seltzer",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Four-Eyed Guys Brewing",
+    "Origin": "Spokane, WA United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Buzz Darkbeer",
     "BeerStyle": "Stout - Milk / Sweet",
     "BreweryName": "London Road Brew House",
+    "Origin": "Southampton, England",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null

@@ -4,6 +4,7 @@
     "BeerName": "Oh How Witty",
     "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
     "BreweryName": "Brewed At Home!",
+    "Origin": "England",
     "BeerAbv": "3.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Tuborg Hard Seltzer White Peach",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Ringnes Bryggeri",
+    "Origin": "Oslo, Norway",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Trigonella",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Brasserie Grenaille",
+    "Origin": "Rosières-aux-Salines, Grand Est France",
     "BeerAbv": "6.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Mjöd",
     "BeerStyle": "Homebrew, Mead - Melomel",
     "BreweryName": "Lagerstedt, Blidkvist",
+    "Origin": "Sweden",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Bolinder Strands Krog Julöl",
     "BeerStyle": "Lager - Dark",
     "BreweryName": "Wermlands Brygghus",
+    "Origin": "Kristinehamn, Värmlands län Sweden",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Mirakel Van Sloten",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Brouwerij De 7 Deugden",
+    "Origin": "Amsterdam, Noord-Holland Netherlands",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Curly Chameleon - Cherry",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Baa Baa Brewhouse",
+    "Origin": "Brookshire, TX United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Eternal Mourning: Huell Melon",
     "BeerStyle": "IPA - Brett",
     "BreweryName": "DSSOLVR",
+    "Origin": "Asheville, NC United States",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Candy Shop",
     "BeerStyle": "IPA - Milkshake",
     "BreweryName": "Migration Brewing",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "6.6",
     "BeerIbu": "46",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Green's Free (2022-)",
     "BeerStyle": "Non-Alcoholic - Other",
     "BreweryName": "Kirin Brewery Company",
+    "Origin": "Nakano-ku, Tokyo Japan",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Aventinus Eisbock (TAP09)",
     "BeerStyle": "Bock - Eisbock",
     "BreweryName": "Schneider Weisse G. Schneider & Sohn",
+    "Origin": "Kelheim, Bayern Germany",
     "BeerAbv": "12",
     "BeerIbu": "15",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Kastanje (#2021)",
     "BeerStyle": "Homebrew, Sour - Other",
     "BreweryName": "Elixer",
+    "Origin": "Eelde, Drenthe Netherlands",
     "BeerAbv": "6.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "MightyAde",
     "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
     "BreweryName": "ScapeGoat Brewing Company",
+    "Origin": "United States",
     "BeerAbv": "10",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Dark Mild Ale",
     "BeerStyle": "Homebrew, Mild - Dark",
     "BreweryName": "Hjelle Nanobryggeri",
+    "Origin": "Norway",
     "BeerAbv": "3.8",
     "BeerIbu": "19",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "N’n Experimentele Hopper 29 Dec 2021",
     "BeerStyle": "Homebrew, Other",
     "BreweryName": "Brouwerij D'n Hopper",
+    "Origin": "Kaatsheuvel, Noord-Brabant Netherlands",
     "BeerAbv": "6.8",
     "BeerIbu": "18",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Blood Orange Mango Vodka Crush",
     "BeerStyle": "Malt Liquor",
     "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
     "BeerAbv": "7",
     "BeerIbu": "7",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Norge Rundt",
     "BeerStyle": "Sour - Traditional Gose",
     "BreweryName": "Beer Flag",
+    "Origin": "Møllergata, Oslo Norway",
     "BeerAbv": "4.7",
     "BeerIbu": "5",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Mash Makers - Cool Mint",
     "BeerStyle": "Stout - Milk / Sweet",
     "BreweryName": "3D Beer",
+    "Origin": "Hewish, Somerset England",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Sanchez, You Son of A B*tch",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Sick N Twisted Brewing",
+    "Origin": "Hill City, SD United States",
     "BeerAbv": "5.3",
     "BeerIbu": "20",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Both Sides of the Ditch",
     "BeerStyle": "Lager - IPL (India Pale Lager)",
     "BreweryName": "BentSpoke Brewing Co",
+    "Origin": "Braddon, Australian Capital Territory Australia",
     "BeerAbv": "6",
     "BeerIbu": "38",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Aero Plains Wingman Wheat",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
     "BreweryName": "Wichita Brewing Company",
+    "Origin": "Wichita, KS United States",
     "BeerAbv": "6.2",
     "BeerIbu": "18",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Coconut Abbey",
     "BeerStyle": "IPA - American",
     "BreweryName": "Transport Brewery",
+    "Origin": "Shawnee, KS United States",
     "BeerAbv": "6.5",
     "BeerIbu": "40",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Muda Bourbon/Maple Syrup BA (Silver Series)",
     "BeerStyle": "Stout - Imperial / Double Pastry",
     "BreweryName": "Pühaste Brewery",
+    "Origin": "Tartu, Tartu maakond Estonia",
     "BeerAbv": "12",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Hoegaarden Wit / Blanche 0,0%",
     "BeerStyle": "Non-Alcoholic - Wheat",
     "BreweryName": "Brouwerij Hoegaarden",
+    "Origin": "Hoegaarden, Vlaams Gewest Belgium",
     "BeerAbv": "0",
     "BeerIbu": "25",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Rosecco Barista",
     "BeerStyle": "Cider - Dry",
     "BreweryName": "Rosecker",
+    "Origin": "Germany",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null

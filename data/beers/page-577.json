@@ -4,6 +4,7 @@
     "BeerName": "Sinter Alt",
     "BeerStyle": "Altbier - Traditional",
     "BreweryName": "Rough Bier",
+    "Origin": "Germany",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Talkeetna Mule",
     "BeerStyle": "Flavored Malt Beverage",
     "BreweryName": "Denali Spirits",
+    "Origin": null,
     "BeerAbv": "12.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Amazônia Em Chamas!",
     "BeerStyle": "Spiced / Herbed Beer",
     "BreweryName": "Rock N' Bräu Cervejaria e Hidromelaria Artesanal",
+    "Origin": "Rio de Janeiro, Brazil",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Byron's White Peach Mexican Radler",
     "BeerStyle": "Shandy / Radler",
     "BreweryName": "Los Dos Potrillos Cerveceria",
+    "Origin": "Parker, CO United States",
     "BeerAbv": "5",
     "BeerIbu": "20",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Ivanjsko",
     "BeerStyle": "Kölsch",
     "BreweryName": "Krapinska Pivovara",
+    "Origin": "Gornje Jesenje, Krapinsko-zagorska županija Croatia",
     "BeerAbv": "4.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Laxer Vision",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Wander Brewing",
+    "Origin": "Bellingham, WA United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Strawberry Lime Gose",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "Kassik’s Brewery",
+    "Origin": "Kenai, AK United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Burden of Dreams",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Donut Island Brewing",
+    "Origin": "Lempäälä, Pirkanmaa Finland",
     "BeerAbv": "6.5",
     "BeerIbu": "42",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Aladdin",
     "BeerStyle": "IPA - American",
     "BreweryName": "Lovelady Brewing Company",
+    "Origin": "Henderson, NV United States",
     "BeerAbv": "7.5",
     "BeerIbu": "20",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Ol’ Red Dawg",
     "BeerStyle": "Homebrew, Red Ale - Irish",
     "BreweryName": "Rix Mix Brewery",
+    "Origin": "United States",
     "BeerAbv": "4.95",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Belgian IPA",
     "BeerStyle": "IPA - Belgian",
     "BreweryName": "Cadejo Brewing Company",
+    "Origin": "San Salvador, San Salvador Department El Salvador",
     "BeerAbv": "5.8",
     "BeerIbu": "53",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Super Human Cannonball",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Magic Rock Brewing",
+    "Origin": "Huddersfield, West Yorkshire England",
     "BeerAbv": "10",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Sorgin",
     "BeerStyle": "Homebrew, IPA - American",
     "BreweryName": "Carral Beer Factory",
+    "Origin": "Spain",
     "BeerAbv": "6",
     "BeerIbu": "69",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Lager",
     "BeerStyle": "Lager - American",
     "BreweryName": "Nevada Brew Works",
+    "Origin": "Las Vegas, NV United States",
     "BeerAbv": "5.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Cryo APA",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Bierwelle",
+    "Origin": "Chernihiv, Chernihiv Oblast Ukraine",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Rye Don’t You Stop Talking For A Minute",
     "BeerStyle": "Homebrew, IPA - Rye",
     "BreweryName": "Keeblers Clawson Awesome",
+    "Origin": "United States",
     "BeerAbv": "9.5",
     "BeerIbu": "51",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Part-Time Lager",
     "BeerStyle": "IPA - Cold",
     "BreweryName": "Hop Kotan Brewing",
+    "Origin": "Kamifurano, Hokkaido Japan",
     "BeerAbv": "6",
     "BeerIbu": "60",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Pink Lemonade Seltzer",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Upper Peninsula Brewing Company",
+    "Origin": "Negaunee, MI United States",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Friends Don’t Lie",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Barrel Theory Beer Company",
+    "Origin": "Saint Paul, MN United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "The Black Satellite / Porter",
     "BeerStyle": "Porter - Other",
     "BreweryName": "Pivovarenny Dom Bavaria (Пивоваренный Дом Бавария)",
+    "Origin": "Vladikavkaz, Respublika Severnaya Osetiya — Alaniya Russia",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Takin Coup à Boire",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Des Couzines",
+    "Origin": "France",
     "BeerAbv": "4.9",
     "BeerIbu": "40",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "WY SO SOUR",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Lander Brewing Company",
+    "Origin": "Lander, WY United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Saintange Biére",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Brasserie Des Cousins",
+    "Origin": "Saint-Dizant-du-Gua, Nouvelle-Aquitaine France",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Yet Another Eton Mess",
     "BeerStyle": "IPA - Milkshake",
     "BreweryName": "RedWillow Brewery",
+    "Origin": "Macclesfield, Cheshire East England",
     "BeerAbv": "6.5",
     "BeerIbu": "10",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Super SubLIME Gose",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "Eclipse Brewing",
+    "Origin": "Pennsauken Township, NJ United States",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null

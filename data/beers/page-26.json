@@ -4,6 +4,7 @@
     "BeerName": "Summer Sunset",
     "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
     "BreweryName": "CPatt Brew Co",
+    "Origin": null,
     "BeerAbv": "9",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Rye in Clover",
     "BeerStyle": "Red Ale - Irish",
     "BreweryName": "Sierra Nevada Brewing Co.",
+    "Origin": "Chico, CA United States",
     "BeerAbv": "5.2",
     "BeerIbu": "30",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Drunk In The Orchard Apple-Hefeweizen Shandy",
     "BeerStyle": "Homebrew, Shandy / Radler",
     "BreweryName": "Broken Robot Brewing Co.",
+    "Origin": "Lincoln, NE United States",
     "BeerAbv": "3.4",
     "BeerIbu": "11",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "English Mild",
     "BeerStyle": "Mild - Other",
     "BreweryName": "Back Road Brewery",
+    "Origin": "LaPorte, IN United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Rebel Spirit",
     "BeerStyle": "IPA - American",
     "BreweryName": "Jungle Brewery",
+    "Origin": "Yuzufovo, Minsk Region Belarus",
     "BeerAbv": "6.2",
     "BeerIbu": "40",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "B.T.W. IPA",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Bowigens Beer Company",
+    "Origin": "Casselberry, FL United States",
     "BeerAbv": "6",
     "BeerIbu": "49",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Belgian Tripel",
     "BeerStyle": "Belgian Tripel",
     "BreweryName": "Maumee Bay Brewing Company",
+    "Origin": "Toledo, OH United States",
     "BeerAbv": "9.2",
     "BeerIbu": "35",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Double IPA",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Tuckerman Brewing Company",
+    "Origin": "Conway, NH United States",
     "BeerAbv": "8.6",
     "BeerIbu": "82",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Gabby",
     "BeerStyle": "Cider - Dry",
     "BreweryName": "Orchard Girls",
+    "Origin": "Kingfield, ME United States",
     "BeerAbv": "6.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Just the Tip",
     "BeerStyle": "Homebrew, Historical Beer - Gruit / Ancient Herbed Ale",
     "BreweryName": "The Drew's Brews",
+    "Origin": "United States",
     "BeerAbv": "5.5",
     "BeerIbu": "45",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Artist Colony Ale",
     "BeerStyle": "Brown Ale - American",
     "BreweryName": "Stone City Brewing",
+    "Origin": "Solon, IA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Payuss Ishango",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Payuss",
+    "Origin": "France",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Bothfelder Spezial",
     "BeerStyle": "Lager - Munich Dunkel",
     "BreweryName": "Brauereiausschank Bothfeld Döbbecke",
+    "Origin": "Hanover, Niedersachsen Germany",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Guava Chili UFO",
     "BeerStyle": "Spiced / Herbed Beer",
     "BreweryName": "Harpoon Brewery",
+    "Origin": "Boston, MA United States",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Berghoff Oktoberfest",
     "BeerStyle": "Märzen",
     "BreweryName": "Berghoff Brewery, Inc.",
+    "Origin": "Stevens Point, WI United States",
     "BeerAbv": "5.9",
     "BeerIbu": "25",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Grape & Grain (2016)",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Raleigh Brewing Company",
+    "Origin": "Raleigh, NC United States",
     "BeerAbv": "9",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Original ESB",
     "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
     "BreweryName": "Crooked River Brewing",
+    "Origin": "Westlake, OH United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Light Rail",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Siding 14 Brewing Co",
+    "Origin": "Ponoka, AB Canada",
     "BeerAbv": "4",
     "BeerIbu": "37",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Now Or Never #2",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Blaker Brewing",
+    "Origin": "Ceres, CA United States",
     "BeerAbv": "8.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Itty Bitty Sticky Icky Session Wheat IPA",
     "BeerStyle": "Homebrew, IPA - Session",
     "BreweryName": "Broken Robot Brewing Co.",
+    "Origin": "Lincoln, NE United States",
     "BeerAbv": "4.2",
     "BeerIbu": "3",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Watermelon Wheat",
     "BeerStyle": "Homebrew, Fruit Beer",
     "BreweryName": "Loco Brewing",
+    "Origin": "Lawrence, KS United States",
     "BeerAbv": "5",
     "BeerIbu": "15",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "ESB",
     "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
     "BreweryName": "Hereford & Hops Restaurant & Brewpub",
+    "Origin": "Escanaba, MI United States",
     "BeerAbv": "5.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Imperial Passionfruit Radler",
     "BeerStyle": "Shandy / Radler",
     "BreweryName": "Hope Beer",
+    "Origin": "Kilbarrack, County Dublin Ireland",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Watermelon Wheat",
     "BeerStyle": "Homebrew, Fruit Beer",
     "BreweryName": "Loco Brewing",
+    "Origin": "Lawrence, KS United States",
     "BeerAbv": "5",
     "BeerIbu": "15",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "India Pale Ale",
     "BeerStyle": "IPA - English",
     "BreweryName": "Summit Brewing Company",
+    "Origin": "St. Paul, MN United States",
     "BeerAbv": "6.4",
     "BeerIbu": "65",
     "HallRating": null

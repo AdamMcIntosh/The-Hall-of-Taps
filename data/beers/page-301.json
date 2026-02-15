@@ -4,6 +4,7 @@
     "BeerName": "Flunk 3",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "Lagabière",
+    "Origin": "Saint-Jean-sur-Richelieu, QC Canada",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Alfa (Aλφα) Beer",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Athenian Brewery",
+    "Origin": "Greece",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "O'Hara's Irish Stout",
     "BeerStyle": "Stout - Irish Dry",
     "BreweryName": "O'Hara's Brewery",
+    "Origin": "Carlow, County Carlow Ireland",
     "BeerAbv": "4.3",
     "BeerIbu": "36",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Decadent Summer",
     "BeerStyle": "Stout - Other",
     "BreweryName": "Nano 108 Brewing Company",
+    "Origin": "Colorado Springs, CO United States",
     "BeerAbv": "5.3",
     "BeerIbu": "26",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Ivy League",
     "BeerStyle": "Cream Ale",
     "BreweryName": "Scale House Brewery",
+    "Origin": "Hector, NY United States",
     "BeerAbv": "6",
     "BeerIbu": "18",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Pearfection",
     "BeerStyle": "Mead - Melomel",
     "BreweryName": "Meridian Hive",
+    "Origin": "Taylor, TX United States",
     "BeerAbv": "11.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Four Stars",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Funk Factory Geuzeria",
+    "Origin": "Madison, WI United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Fresh Squeezed",
     "BeerStyle": "IPA - American",
     "BreweryName": "Deschutes Brewery",
+    "Origin": "Bend, OR United States",
     "BeerAbv": "6.4",
     "BeerIbu": "60",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "The Name Is Dalton",
     "BeerStyle": "Stout - White / Golden",
     "BreweryName": "South Bend Brew Werks",
+    "Origin": "South Bend, IN United States",
     "BeerAbv": "6.3",
     "BeerIbu": "31",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Brotha Bear's Stash",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Patuxent Brewing Co",
+    "Origin": "Waldorf, MD United States",
     "BeerAbv": "7.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "River Bend Brazil",
     "BeerStyle": "Stout - Coffee",
     "BreweryName": "River Bend Hop Farm and Brewery",
+    "Origin": "Newport, PA United States",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Black Operation",
     "BeerStyle": "Homebrew, Mead - Melomel",
     "BreweryName": "Victorious Brewing Co.",
+    "Origin": "Sweden",
     "BeerAbv": "13.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Table Beer: Summer Seasonal",
     "BeerStyle": "Table Beer",
     "BreweryName": "Brewhouse & Kitchen - Cheltenham",
+    "Origin": "Cheltenham, Gloucestershire England",
     "BeerAbv": "3",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Life Above - Hazy IPA",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Sunriver Brewing Company",
+    "Origin": "Sunriver, OR United States",
     "BeerAbv": "6.8",
     "BeerIbu": "40",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "El Chiringuito Lavagna",
     "BeerStyle": "IPA - Red",
     "BreweryName": "El Chiringuito",
+    "Origin": "Italy",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Streetgoat Amber",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Goat Patch Brewing Company",
+    "Origin": "Colorado Springs, CO United States",
     "BeerAbv": "6.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Milkshake IPA",
     "BeerStyle": "IPA - Milkshake",
     "BreweryName": "Browar Przystanek Tleń",
+    "Origin": "Tleń, Województwo kujawsko-pomorskie Poland",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Placebo Pils - Gluten Free",
     "BeerStyle": "Gluten-Free",
     "BreweryName": "Monday Night Brewing",
+    "Origin": "Atlanta, GA United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Elk River Ale",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Short’s Brewing Company",
+    "Origin": "Elk Rapids, MI United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Bunún Pilsner",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Fuego Brew Co.",
+    "Origin": "Savegre, Provincia de Puntarenas Costa Rica",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Chapéu de Couro",
     "BeerStyle": "IPA - Rye",
     "BreweryName": "Cordel Cerveja",
+    "Origin": "Natal, Rio Grande do Norte Brazil",
     "BeerAbv": "5.5",
     "BeerIbu": "31",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Beyond the Peel",
     "BeerStyle": "Homebrew, Pale Ale - American",
     "BreweryName": "Brookville Brewing Co",
+    "Origin": "United States",
     "BeerAbv": "5.6",
     "BeerIbu": "39",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Säuerlich Berliner Weisse",
     "BeerStyle": "Sour - Berliner Weisse",
     "BreweryName": "Bozeman Brewing Company",
+    "Origin": "Bozeman, MT United States",
     "BeerAbv": "4.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "That Was Then, This Is Now – West Coast IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Sunriver Brewing Company",
+    "Origin": "Sunriver, OR United States",
     "BeerAbv": "7",
     "BeerIbu": "72",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Aromatic Variance #2",
     "BeerStyle": "IPA - American",
     "BreweryName": "Crux Fermentation Project",
+    "Origin": "Bend, OR United States",
     "BeerAbv": "6.1",
     "BeerIbu": "50",
     "HallRating": null
