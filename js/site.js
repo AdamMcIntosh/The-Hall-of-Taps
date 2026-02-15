@@ -4,7 +4,7 @@
  */
 
 (function () {
-  const DATA = '_data';
+  const DATA = 'data';
   const DEFAULT_PAGE_SIZE = 25;
 
   window.HallOfTaps = {
