@@ -29,26 +29,22 @@
   <div class="wrap beers-page">
     <h1 class="visually-hidden">Rated Beers</h1>
     <div class="filter-panel">
-      <div class="filter-tabs" role="tablist">
-        <button type="button" class="filter-tab filter-tab--active" role="tab" aria-selected="true" id="tab-filter">Filter Leaderboards</button>
-        <a href="#" class="filter-tab" role="tab" aria-selected="false" id="tab-compare">Compare Beers</a>
-      </div>
-      <div class="filter-form" aria-labelledby="tab-filter">
-        <div class="filter-row">
-          <label for="quick-search" class="filter-label">Quick Search</label>
-          <input type="text" id="quick-search" class="filter-input" placeholder="Search beers and breweries by name." aria-label="Quick search beers and breweries">
+      <div class="filter-form">
+        <div class="filter-row filter-row--horizontal">
+          <div class="filter-group filter-group--equal">
+            <label for="quick-search" class="filter-label">Quick Search</label>
+            <input type="text" id="quick-search" class="filter-input" placeholder="Search beers and breweries by name" aria-label="Quick search beers and breweries">
+          </div>
+          <div class="filter-group filter-group--equal">
+            <label for="filter-breweries" class="filter-label">Breweries <span class="filter-label-hint">(20 max)</span></label>
+            <input type="text" id="filter-breweries" class="filter-input" placeholder="e.g. The Alchemist, Tree House" aria-label="Filter by breweries">
+          </div>
+          <div class="filter-group filter-group--equal">
+            <label for="filter-styles" class="filter-label">Styles <span class="filter-label-hint">(20 max)</span></label>
+            <input type="text" id="filter-styles" class="filter-input" placeholder="e.g. IPA, Stout" aria-label="Filter by styles">
+          </div>
         </div>
-        <div class="filter-row">
-          <label for="filter-breweries" class="filter-label">Breweries</label>
-          <input type="text" id="filter-breweries" class="filter-input" placeholder="e.g. The Alchemist, Tree House" aria-label="Filter by breweries">
-          <span class="filter-helper">View only beers from certain breweries. 20 max.</span>
-        </div>
-        <div class="filter-row">
-          <label for="filter-styles" class="filter-label">Styles</label>
-          <input type="text" id="filter-styles" class="filter-input" placeholder="e.g. IPA, Stout" aria-label="Filter by styles">
-          <span class="filter-helper">View only beers from certain styles. 20 max.</span>
-        </div>
-        <div class="filter-row filter-row--inline">
+        <div class="filter-row filter-row--horizontal">
           <div class="filter-group">
             <label for="abv-min" class="filter-label">ABV</label>
             <div class="filter-range">
@@ -99,26 +95,24 @@
               </select>
             </div>
           </div>
-        </div>
-        <div class="filter-row">
-          <label for="filter-popularity" class="filter-label">Popularity</label>
-          <select id="filter-popularity" class="filter-select" aria-label="Popularity">
-            <option value="all">All beers</option>
-          </select>
-          <span class="filter-helper">Toggle between popular beers and all beers.</span>
-        </div>
-        <div class="filter-row">
-          <label for="filter-regions" class="filter-label">Regions</label>
-          <select id="filter-regions" class="filter-select" aria-label="Regions">
-            <option value="">---</option>
-          </select>
-          <span class="filter-helper">View only beers brewed in a specific US region.</span>
-        </div>
-        <div class="filter-actions">
-          <button type="button" class="btn btn--primary" id="filter-apply" aria-label="Apply filters">
-            <span class="btn-icon" aria-hidden="true">&#9660;</span> Filter Leaderboards
-          </button>
-          <button type="button" class="btn btn--secondary" id="filter-reset">Reset</button>
+          <div class="filter-group">
+            <label for="filter-popularity" class="filter-label">Popularity</label>
+            <select id="filter-popularity" class="filter-select" aria-label="Popularity">
+              <option value="all">All beers</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label for="filter-regions" class="filter-label">Regions</label>
+            <select id="filter-regions" class="filter-select" aria-label="Regions">
+              <option value="">---</option>
+            </select>
+          </div>
+          <div class="filter-group filter-group--actions">
+            <button type="button" class="btn btn--primary btn--nowrap" id="filter-apply" aria-label="Apply filters">
+              <span class="btn-icon" aria-hidden="true">&#9660;</span> Filter Leaderboards
+            </button>
+            <button type="button" class="btn btn--secondary" id="filter-reset">Reset</button>
+          </div>
         </div>
       </div>
     </div>
