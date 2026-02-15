@@ -1,0 +1,11 @@
+{
+  "name": "hall-of-taps",
+  "private": true,
+  "scripts": {
+    "serve": "npx serve . -p 3000",
+    "build:data": "node scripts/export-from-db.js"
+  },
+  "devDependencies": {
+    "better-sqlite3": "^11.6.0"
+  }
+}
