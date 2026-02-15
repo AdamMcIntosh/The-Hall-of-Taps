@@ -90,7 +90,7 @@ function run() {
   // Beers: full list with style, brewery, ABV, IBU, Hall rating (alias TAP as HallRating if needed)
   const beersSql = `
    SELECT
-      b.BID AS BeerID,
+      b.BID,
       b.BeerName,
       b.BeerStyle AS BeerStyle,
       br.BreweryName,
@@ -130,11 +130,11 @@ function run() {
     writeChunked('beers', beers);
     writeChunked('breweries', breweries);
 
-    // Beer index for detail page lookups: BeerID -> { pageIndex, indexInPage }
+    // Beer index for detail page lookups: BID -> { pageIndex, indexInPage }
     const beerIndex = {};
     const pageSize = PAGE_SIZE;
     beers.forEach((row, i) => {
-      const id = row.BeerID;
+      const id = row.BID;
       if (id != null) {
         const pageIndex = Math.floor(i / pageSize);
         const indexInPage = i % pageSize;

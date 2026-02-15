@@ -34,8 +34,24 @@
   <script src="js/site.js"></script>
   <script>
     (function () {
-      var params = new URLSearchParams(window.location.search);
-      var id = params.get('id');
+      var id;
+      var hash = window.location.hash;
+      if (hash) {
+        hash = hash.slice(1).replace(/^\?/, '');
+        if (hash) {
+          var fromHash = new URLSearchParams(hash);
+          id = fromHash.get('id') || hash;
+        }
+      }
+      if (!id) {
+        var params = new URLSearchParams(window.location.search);
+        id = params.get('id');
+      }
+      if (!id) {
+        var pathname = window.location.pathname || '';
+        var pathMatch = pathname.match(/\/beer(?:\.html)?\/([^/?#]+)/);
+        if (pathMatch) id = pathMatch[1];
+      }
       var el = document.getElementById('beer-detail');
       if (id && window.HallOfTaps && window.HallOfTaps.loadBeerDetail) {
         window.HallOfTaps.loadBeerDetail(el, id);
