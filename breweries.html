@@ -7,15 +7,31 @@
   <link rel="stylesheet" href="css/site.css">
 </head>
 <body>
+  <header class="top-bar">
+    <div class="top-bar-inner">
+      <a href="about.html">About this site</a>
+    </div>
+  </header>
+  <nav class="main-nav">
+    <div class="nav-inner">
+      <a href="index.html" class="logo">Hall of Taps</a>
+      <ul class="nav-links">
+        <li><a href="beers.html">Rated Beers</a></li>
+        <li><a href="breweries.html">Breweries</a></li>
+        <li><a href="welcome.html">Welcome</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+      <div class="nav-right">
+        <form class="search-form" role="search" action="beers.html" method="get">
+          <label for="search-input" class="visually-hidden">Search beers and content</label>
+          <input type="search" id="search-input" name="q" placeholder="Search beers and content" aria-label="Search beers and content">
+          <button type="submit" class="search-btn" aria-label="Search"><span aria-hidden="true">&#8981;</span></button>
+        </form>
+      </div>
+    </div>
+    <div class="nav-divider"></div>
+  </nav>
   <div class="wrap">
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="beers.html">Rated Beers</a>
-      <a href="breweries.html">Breweries With Rated Beers</a>
-      <a href="welcome.html">Welcome</a>
-      <a href="about.html">About</a>
-    </nav>
-
     <h1 class="page-title">Breweries With Rated Beers</h1>
     <div class="table-wrap">
       <table>
