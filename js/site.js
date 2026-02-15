@@ -14,11 +14,27 @@
         .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load preview')); })
         .then(function (data) {
           listEl.innerHTML = data.map(function (m) {
-            return '<li><a href="#">' + escapeHtml(m.BeerName) + '</a></li>';
+            return '<li><a href="beers.html">' + escapeHtml(m.BeerName) + '</a></li>';
           }).join('');
         })
         .catch(function () {
           listEl.innerHTML = '<li class="error">Could not load preview data.</li>';
+        });
+    },
+
+    loadLeaderboard: function (tbodyEl, limit) {
+      if (!tbodyEl) return;
+      limit = limit || 12;
+      fetch(DATA + '/preview.json')
+        .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load preview')); })
+        .then(function (data) {
+          var slice = data.slice(0, limit);
+          tbodyEl.innerHTML = slice.map(function (m, i) {
+            return '<tr><td>' + (i + 1) + '</td><td><a href="beers.html">' + escapeHtml(m.BeerName) + '</a></td><td>' + (m.HallRating != null ? m.HallRating : '') + '</td></tr>';
+          }).join('');
+        })
+        .catch(function () {
+          tbodyEl.innerHTML = '<tr><td colspan="3" class="error">Could not load leaderboard.</td></tr>';
         });
     },
 
