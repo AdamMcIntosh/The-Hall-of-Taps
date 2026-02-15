@@ -55,6 +55,24 @@
       var sortDir = 1;
       var filters = { q: '', breweries: '', styles: '', abvMin: '0', abvMax: '25', barMin: '-15', barMax: '19' };
 
+      function loadBreweryDropdown() {
+        var sel = document.getElementById('filter-breweries');
+        if (!sel || sel.tagName !== 'SELECT') return;
+        fetch(DATA + '/breweries/names.json')
+          .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load brewery names')); })
+          .then(function (names) {
+            while (sel.options.length > 1) sel.remove(1);
+            names.forEach(function (name) {
+              var opt = document.createElement('option');
+              opt.value = name;
+              opt.textContent = name;
+              sel.appendChild(opt);
+            });
+          })
+          .catch(function () { /* ignore: dropdown stays with "All breweries" only */ });
+      }
+      loadBreweryDropdown();
+
       function beerRow(m, rowNum) {
         var beerLink = (m.BID != null) ? 'beer.html#' + encodeURIComponent(m.BID) : 'beers.html';
         var styleText = escapeHtml(m.BeerStyle || '');
@@ -65,7 +83,7 @@
 
       function applyFilters(chunk) {
         var q = (filters.q || '').toLowerCase();
-        var breweryTerms = (filters.breweries || '').toLowerCase().split(/,\s*/).filter(Boolean).slice(0, 20);
+        var breweryTerms = filters.breweries ? [filters.breweries.toLowerCase()] : [];
         var styleTerms = (filters.styles || '').toLowerCase().split(/,\s*/).filter(Boolean).slice(0, 20);
         var abvMin = filters.abvMin === '' ? -Infinity : parseFloat(filters.abvMin, 10);
         var abvMax = filters.abvMax === '' ? Infinity : parseFloat(filters.abvMax, 10);
@@ -80,7 +98,7 @@
           }
           if (breweryTerms.length) {
             var br = (m.BreweryName || '').toLowerCase();
-            if (!breweryTerms.some(function (t) { return br.indexOf(t) !== -1; })) return false;
+            if (!breweryTerms.some(function (t) { return br === t; })) return false;
           }
           if (styleTerms.length) {
             var st = (m.BeerStyle || '').toLowerCase();
@@ -171,7 +189,8 @@
         var btnReset = document.getElementById('filter-reset');
         function readFilters() {
           filters.q = quickSearch ? quickSearch.value.trim() : '';
-          filters.breweries = document.getElementById('filter-breweries') ? document.getElementById('filter-breweries').value.trim() : '';
+          var fb = document.getElementById('filter-breweries');
+          filters.breweries = fb && fb.value ? fb.value.trim() : '';
           filters.styles = document.getElementById('filter-styles') ? document.getElementById('filter-styles').value.trim() : '';
           filters.abvMin = abvMin ? abvMin.value : '';
           filters.abvMax = abvMax ? abvMax.value : '';
@@ -191,6 +210,8 @@
           renderChunk(currentChunk, currentStart);
         });
         if (quickSearch) quickSearch.addEventListener('input', function () { readFilters(); renderChunk(currentChunk, currentStart); });
+        var filterBreweries = document.getElementById('filter-breweries');
+        if (filterBreweries) filterBreweries.addEventListener('change', function () { readFilters(); renderChunk(currentChunk, currentStart); });
         if (abvMin) abvMin.addEventListener('change', function () { readFilters(); renderChunk(currentChunk, currentStart); });
         if (abvMax) abvMax.addEventListener('change', function () { readFilters(); renderChunk(currentChunk, currentStart); });
         if (barMin) barMin.addEventListener('change', function () { readFilters(); renderChunk(currentChunk, currentStart); });

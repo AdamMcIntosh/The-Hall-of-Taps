@@ -131,6 +131,18 @@ function run() {
     writeChunked('beers', beers);
     writeChunked('breweries', breweries);
 
+    // Brewery names list for filter dropdown (sorted, unique, non-empty)
+    const breweryNames = [...new Set(
+      breweries
+        .map((r) => r.BreweryName)
+        .filter((n) => n != null && String(n).trim() !== '')
+    )].sort((a, b) => String(a).localeCompare(String(b), 'en', { sensitivity: 'base' }));
+    fs.writeFileSync(
+      path.join(DATA_DIR, 'breweries', 'names.json'),
+      JSON.stringify(breweryNames, null, 0) + '\n',
+      { encoding: 'utf8' }
+    );
+
     // Beer index for detail page lookups: BID -> { pageIndex, indexInPage }
     const beerIndex = {};
     const pageSize = PAGE_SIZE;
@@ -148,12 +160,13 @@ function run() {
       { encoding: 'utf8' }
     );
 
-    console.log('Exported: preview.json (%d), beers (%d in %d pages), breweries (%d in %d pages)',
+    console.log('Exported: preview.json (%d), beers (%d in %d pages), breweries (%d in %d pages), brewery names (%d)',
       preview.length,
       beers.length,
       Math.ceil(beers.length / PAGE_SIZE),
       breweries.length,
-      Math.ceil(breweries.length / PAGE_SIZE));
+      Math.ceil(breweries.length / PAGE_SIZE),
+      breweryNames.length);
   } catch (err) {
     console.error('Export failed:', err.message);
     process.exit(1);

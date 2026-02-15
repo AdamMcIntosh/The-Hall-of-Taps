@@ -36,8 +36,11 @@
             <input type="text" id="quick-search" class="filter-input" placeholder="Search beers and breweries by name" aria-label="Quick search beers and breweries">
           </div>
           <div class="filter-group filter-group--equal">
-            <label for="filter-breweries" class="filter-label">Breweries <span class="filter-label-hint">(20 max)</span></label>
-            <input type="text" id="filter-breweries" class="filter-input" placeholder="e.g. The Alchemist, Tree House" aria-label="Filter by breweries">
+            <label for="filter-breweries" class="filter-label">Brewery</label>
+            <select id="filter-breweries" class="filter-select filter-select--brewery" aria-label="Filter by brewery">
+              <option value="">All breweries</option>
+              <!-- Populated from data/breweries/names.json -->
+            </select>
           </div>
           <div class="filter-group filter-group--equal">
             <label for="filter-styles" class="filter-label">Styles <span class="filter-label-hint">(20 max)</span></label>
