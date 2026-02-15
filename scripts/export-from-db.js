@@ -2,10 +2,14 @@
  * Export JSON data from the Hall of Taps SQLite DB.
  * Run after DB updates: npm run build:data
  *
+ * Output: data/preview.json (single file) and chunked data in data/beers/
+ * and data/breweries/ (page-0.json, page-1.json, ... + meta.json). The frontend
+ * fetches one page at a time to avoid loading huge JSON files.
+ *
  * Expects a SQLite DB in data/ (e.g. data/hall-of-taps.db). Edit the queries
- * below to match your schema (table/column names). Output keys must match
- * the site: BeerName, BeerStyle, BreweryName, BeerAbv, BeerIbu, HallRating;
- * BreweryName, City, BreweryState, country; BID, BeerName, HallRating, BeerID.
+ * below to match your schema. Output keys must match the site: BeerName,
+ * BeerStyle, BreweryName, BeerAbv, BeerIbu, HallRating; BreweryName, City,
+ * BreweryState, country; BID, BeerName, HallRating, BeerID.
  */
 
 const fs = require('fs');
@@ -14,6 +18,8 @@ const path = require('path');
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const DEFAULT_DB = path.join(DATA_DIR, 'hall-of-taps.db');
 const PREVIEW_LIMIT = 15;
+/** Chunk size for beers and breweries (must match frontend DEFAULT_PAGE_SIZE). */
+const PAGE_SIZE = 25;
 
 // Use DB path from env or default
 const dbPath = process.env.DB_PATH || process.env.HALL_OF_TAPS_DB || DEFAULT_DB;
@@ -26,6 +32,32 @@ function getDbPath() {
     process.exit(1);
   }
   return path.join(DATA_DIR, files[0]);
+}
+
+/**
+ * Write an array as chunked JSON: dir/page-0.json, dir/page-1.json, ... and dir/meta.json.
+ */
+function writeChunked(dirName, rows) {
+  const dir = path.join(DATA_DIR, dirName);
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+  const total = rows.length;
+  const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+  const meta = { total, pageSize: PAGE_SIZE, totalPages };
+  const jsonOpts = { encoding: 'utf8' };
+
+  fs.writeFileSync(path.join(dir, 'meta.json'), JSON.stringify(meta, null, 0) + '\n', jsonOpts);
+
+  for (let p = 0; p < totalPages; p++) {
+    const start = p * PAGE_SIZE;
+    const chunk = rows.slice(start, start + PAGE_SIZE);
+    fs.writeFileSync(
+      path.join(dir, 'page-' + p + '.json'),
+      JSON.stringify(chunk, null, 2) + '\n',
+      jsonOpts
+    );
+  }
 }
 
 function run() {
@@ -89,12 +121,20 @@ function run() {
     const breweries = breweriesStmt.all();
 
     const jsonOpts = { encoding: 'utf8' };
-    fs.writeFileSync(path.join(DATA_DIR, 'preview.json'), JSON.stringify(preview, null, 0) + '\n', jsonOpts);
-    fs.writeFileSync(path.join(DATA_DIR, 'beers.json'), JSON.stringify(beers, null, 2) + '\n', jsonOpts);
-    fs.writeFileSync(path.join(DATA_DIR, 'breweries.json'), JSON.stringify(breweries, null, 2) + '\n', jsonOpts);
 
-    console.log('Exported: preview.json (%d), beers.json (%d), breweries.json (%d)',
-      preview.length, beers.length, breweries.length);
+    // Single file for preview (small)
+    fs.writeFileSync(path.join(DATA_DIR, 'preview.json'), JSON.stringify(preview, null, 0) + '\n', jsonOpts);
+
+    // Chunked output: beers/page-0.json, beers/page-1.json, ... + beers/meta.json
+    writeChunked('beers', beers);
+    writeChunked('breweries', breweries);
+
+    console.log('Exported: preview.json (%d), beers (%d in %d pages), breweries (%d in %d pages)',
+      preview.length,
+      beers.length,
+      Math.ceil(beers.length / PAGE_SIZE),
+      breweries.length,
+      Math.ceil(breweries.length / PAGE_SIZE));
   } catch (err) {
     console.error('Export failed:', err.message);
     process.exit(1);
