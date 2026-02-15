@@ -529,3 +529,131 @@ ul.preview-list li {
 ul.preview-list a {
   color: var(--accent);
 }
+
+/* Beer detail page */
+.beer-detail-wrap {
+  max-width: 900px;
+}
+
+.beer-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.beer-label-triage {
+  flex-shrink: 0;
+}
+
+.beer-label-img {
+  display: block;
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  border-radius: 4px;
+  border: 1px solid var(--border-light);
+}
+
+.beer-label-placeholder {
+  display: block;
+  width: 80px;
+  height: 80px;
+  background: var(--border-light);
+  border-radius: 4px;
+  border: 1px solid var(--border);
+}
+
+.beer-title-block {
+  min-width: 0;
+}
+
+.beer-name {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin: 0 0 0.15em;
+  line-height: 1.2;
+  color: var(--text);
+}
+
+.beer-by {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.beer-by a {
+  color: var(--accent);
+}
+
+.beer-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  margin-bottom: 1.5rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+@media (max-width: 640px) {
+  .beer-stats {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.beer-stat {
+  padding: 0 1rem;
+  border-right: 1px solid var(--border-light);
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.beer-stat:last-child {
+  border-right: 0;
+}
+
+@media (max-width: 640px) {
+  .beer-stat:nth-child(2n) {
+    border-right: 0;
+  }
+}
+
+.beer-stat-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: var(--text-muted);
+}
+
+.beer-stat-value {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.beer-stat-desc {
+  font-size: 0.85rem;
+  color: var(--text-muted-light);
+}
+
+.beer-section {
+  margin-bottom: 1.5rem;
+}
+
+.beer-section-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0 0 0.35em;
+  color: var(--text);
+}
+
+.beer-section-desc {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  margin: 0;
+}
