@@ -74,9 +74,7 @@ function run() {
   const breweriesSql = `
     SELECT DISTINCT
       BreweryName,
-      City,
-      BreweryState,
-      country
+      Location
     FROM breweries
     ORDER BY BreweryName
   `;
