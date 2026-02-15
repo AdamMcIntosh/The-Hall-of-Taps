@@ -90,6 +90,7 @@ function run() {
   // Beers: full list with style, brewery, ABV, IBU, Hall rating (alias TAP as HallRating if needed)
   const beersSql = `
    SELECT
+      b.BID AS BeerID,
       b.BeerName,
       b.BeerStyle AS BeerStyle,
       br.BreweryName,
@@ -128,6 +129,23 @@ function run() {
     // Chunked output: beers/page-0.json, beers/page-1.json, ... + beers/meta.json
     writeChunked('beers', beers);
     writeChunked('breweries', breweries);
+
+    // Beer index for detail page lookups: BeerID -> { pageIndex, indexInPage }
+    const beerIndex = {};
+    const pageSize = PAGE_SIZE;
+    beers.forEach((row, i) => {
+      const id = row.BeerID;
+      if (id != null) {
+        const pageIndex = Math.floor(i / pageSize);
+        const indexInPage = i % pageSize;
+        beerIndex[id] = { pageIndex, indexInPage };
+      }
+    });
+    fs.writeFileSync(
+      path.join(DATA_DIR, 'beers', 'beer-index.json'),
+      JSON.stringify(beerIndex, null, 0) + '\n',
+      { encoding: 'utf8' }
+    );
 
     console.log('Exported: preview.json (%d), beers (%d in %d pages), breweries (%d in %d pages)',
       preview.length,
