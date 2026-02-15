@@ -43,18 +43,11 @@
       pageSize = pageSize || DEFAULT_PAGE_SIZE;
       tableEl.innerHTML = '<tr><td colspan="6" class="loading">Loading beers…</td></tr>';
       if (paginationEl) paginationEl.innerHTML = '';
-      fetch(DATA + '/beers.json')
-        .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load beers')); })
-        .then(function (data) {
-          renderPaginated(tableEl, paginationEl, data, pageSize, function (m) {
-            return '<tr><td>' + escapeHtml(m.BeerName) + '</td><td>' + escapeHtml(m.BeerStyle || '') +
-              '</td><td>' + escapeHtml(m.BreweryName || '') + '</td><td>' + (m.BeerAbv != null ? m.BeerAbv : '') +
-              '</td><td>' + (m.BeerIbu != null ? m.BeerIbu : '') + '</td><td>' + (m.HallRating != null ? m.HallRating : '') + '</td></tr>';
-          }, 6);
-        })
-        .catch(function () {
-          tableEl.innerHTML = '<tr><td colspan="6" class="error">Could not load beers data.</td></tr>';
-        });
+      loadChunked(tableEl, paginationEl, 'beers', pageSize, 6, function (m) {
+        return '<tr><td>' + escapeHtml(m.BeerName) + '</td><td>' + escapeHtml(m.BeerStyle || '') +
+          '</td><td>' + escapeHtml(m.BreweryName || '') + '</td><td>' + (m.BeerAbv != null ? m.BeerAbv : '') +
+          '</td><td>' + (m.BeerIbu != null ? m.BeerIbu : '') + '</td><td>' + (m.HallRating != null ? m.HallRating : '') + '</td></tr>';
+      });
     },
 
     loadBreweries: function (tableEl, paginationEl, pageSize) {
@@ -62,53 +55,62 @@
       pageSize = pageSize || DEFAULT_PAGE_SIZE;
       tableEl.innerHTML = '<tr><td colspan="4" class="loading">Loading breweries…</td></tr>';
       if (paginationEl) paginationEl.innerHTML = '';
-      fetch(DATA + '/breweries.json')
-        .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load breweries')); })
-        .then(function (data) {
-          renderPaginated(tableEl, paginationEl, data, pageSize, function (m) {
-            return '<tr><td>' + escapeHtml(m.BreweryName || '') + '</td><td>' + escapeHtml(m.City || '') +
-              '</td><td>' + escapeHtml(m.BreweryState || '') + '</td><td>' + escapeHtml(m.country || '') + '</td></tr>';
-          }, 4);
-        })
-        .catch(function () {
-          tableEl.innerHTML = '<tr><td colspan="4" class="error">Could not load breweries data.</td></tr>';
-        });
+      loadChunked(tableEl, paginationEl, 'breweries', pageSize, 4, function (m) {
+        return '<tr><td>' + escapeHtml(m.BreweryName || '') + '</td><td>' + escapeHtml(m.City || '') +
+          '</td><td>' + escapeHtml(m.BreweryState || '') + '</td><td>' + escapeHtml(m.country || '') + '</td></tr>';
+      });
     }
   };
 
-  function renderPaginated(tableEl, paginationEl, data, pageSize, rowFn, colspan) {
-    var total = data.length;
-    var totalPages = Math.max(1, Math.ceil(total / pageSize));
-    var currentPage = 1;
+  /**
+   * Load chunked data: fetch meta, then fetch one page at a time. Pagination loads only the requested page.
+   */
+  function loadChunked(tableEl, paginationEl, dir, pageSize, colspan, rowFn) {
+    fetch(DATA + '/' + dir + '/meta.json')
+      .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load ' + dir + ' meta')); })
+      .then(function (meta) {
+        var totalPages = meta.totalPages || 1;
+        var total = meta.total || 0;
+        var currentPage = 1;
 
-    function renderPage(page) {
-      currentPage = Math.max(1, Math.min(totalPages, page));
-      var start = (currentPage - 1) * pageSize;
-      var end = Math.min(start + pageSize, total);
-      var slice = data.slice(start, end);
-      tableEl.innerHTML = slice.map(rowFn).join('');
+        function fetchAndRender(page) {
+          var pageIndex = page - 1;
+          if (pageIndex < 0 || pageIndex >= totalPages) return;
+          currentPage = page;
+          tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="loading">Loading…</td></tr>';
+          fetch(DATA + '/' + dir + '/page-' + pageIndex + '.json')
+            .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load page')); })
+            .then(function (chunk) {
+              tableEl.innerHTML = chunk.map(rowFn).join('');
+              if (!paginationEl) return;
+              var start = (currentPage - 1) * pageSize;
+              var end = Math.min(start + chunk.length, total);
+              var prevDisabled = currentPage <= 1;
+              var nextDisabled = currentPage >= totalPages;
+              paginationEl.innerHTML =
+                '<div class="pagination">' +
+                '<button type="button" class="pagination-btn" data-page="prev" ' + (prevDisabled ? 'disabled' : '') + '>Previous</button>' +
+                '<span class="pagination-info">Page ' + currentPage + ' of ' + totalPages + ' <span class="pagination-range">(' + (total === 0 ? 0 : start + 1) + '–' + end + ' of ' + total + ')</span></span>' +
+                '<button type="button" class="pagination-btn" data-page="next" ' + (nextDisabled ? 'disabled' : '') + '>Next</button>' +
+                '</div>';
+              paginationEl.querySelectorAll('.pagination-btn').forEach(function (btn) {
+                btn.addEventListener('click', function () {
+                  if (this.disabled) return;
+                  var next = this.getAttribute('data-page') === 'next' ? currentPage + 1 : currentPage - 1;
+                  fetchAndRender(next);
+                });
+              });
+            })
+            .catch(function () {
+              tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="error">Could not load ' + dir + ' data.</td></tr>';
+            });
+        }
 
-      if (!paginationEl) return;
-      var prevDisabled = currentPage <= 1;
-      var nextDisabled = currentPage >= totalPages;
-      var from = total === 0 ? 0 : start + 1;
-      paginationEl.innerHTML =
-        '<div class="pagination">' +
-        '<button type="button" class="pagination-btn" data-page="prev" ' + (prevDisabled ? 'disabled' : '') + '>Previous</button>' +
-        '<span class="pagination-info">Page ' + currentPage + ' of ' + totalPages + ' <span class="pagination-range">(' + from + '–' + end + ' of ' + total + ')</span></span>' +
-        '<button type="button" class="pagination-btn" data-page="next" ' + (nextDisabled ? 'disabled' : '') + '>Next</button>' +
-        '</div>';
-
-      paginationEl.querySelectorAll('.pagination-btn').forEach(function (btn) {
-        btn.addEventListener('click', function () {
-          if (this.disabled) return;
-          var p = this.getAttribute('data-page') === 'next' ? currentPage + 1 : currentPage - 1;
-          renderPage(p);
-        });
+        fetchAndRender(1);
+      })
+      .catch(function () {
+        tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="error">Could not load ' + dir + ' data.</td></tr>';
       });
-    }
-
-    renderPage(1);
   }
 
   function escapeHtml(s) {

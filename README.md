@@ -16,7 +16,7 @@ Then open **http://localhost:3000** in your browser. The data will load from the
 
 ## Data: exporting from SQLite
 
-The site reads static JSON from `data/` (`beers.json`, `breweries.json`, `preview.json`). Those files are generated from a SQLite database in the **data** folder.
+The site reads static JSON from `data/`: **preview.json** (single file) and **chunked** data under `data/beers/` and `data/breweries/` (e.g. `page-0.json`, `page-1.json`, … plus `meta.json` for total/page count). The frontend fetches one page at a time. All of this is generated from a SQLite database in the **data** folder.
 
 - **Database:** Put your `.db` file in `data/` (e.g. `data/hall-of-taps.db`). The repo ignores `data/*.db`.
 - **Preview:** Not a fixed list—it’s the join of **beers** and **beer_info** sorted **desc by TAP**, exported as the top N (e.g. 15) so the leaderboard updates when ratings change.
