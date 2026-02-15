@@ -4,6 +4,7 @@
     "BeerName": "Oktoberfest",
     "BeerStyle": "Märzen",
     "BreweryName": "Sandlot Brewery",
+    "Origin": "Denver, CO United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Ølur Oldur Aleur",
     "BeerStyle": "Old / Stock Ale",
     "BreweryName": "7 Fjell Bryggeri",
+    "Origin": "Bønes, Vestland Norway",
     "BeerAbv": "8.5",
     "BeerIbu": "88",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Westeind Chimay Blauw (2019)",
     "BeerStyle": "Homebrew, Belgian Strong Dark Ale",
     "BreweryName": "Brouwerij Westeind",
+    "Origin": "Netherlands",
     "BeerAbv": "9",
     "BeerIbu": "35",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Barleywine",
     "BeerStyle": "Barleywine - American",
     "BreweryName": "Sandlot Brewery",
+    "Origin": "Denver, CO United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Buekorps Pale Ale",
     "BeerStyle": "Homebrew, Pale Ale - Belgian",
     "BreweryName": "Fc3",
+    "Origin": "Norway",
     "BeerAbv": "5.7",
     "BeerIbu": "35",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Deeper Water",
     "BeerStyle": "Stout - Milk / Sweet",
     "BreweryName": "Left Handed Giant",
+    "Origin": "Bristol, City of Bristol England",
     "BeerAbv": "5.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Oktoberfest",
     "BeerStyle": "Märzen",
     "BreweryName": "Tabernash Brewing",
+    "Origin": "Longmont, CO United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Brews Lee",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Blacks Brewing",
+    "Origin": "Kinsale, County Cork Ireland",
     "BeerAbv": "5",
     "BeerIbu": "70",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Mister Hoppy IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Wolf Tongue Brewery",
+    "Origin": "Nederland, CO United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Sun Hunter",
     "BeerStyle": "Homebrew, IPA - American",
     "BreweryName": "Pheasant Brewing",
+    "Origin": "United States",
     "BeerAbv": "6.2",
     "BeerIbu": "70",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Even Rats Need Roofs",
     "BeerStyle": "Homebrew, IPA - Imperial / Double",
     "BreweryName": "Barbrewery",
+    "Origin": "England",
     "BeerAbv": "10.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Hopyard IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Rockyard Brewing Company",
+    "Origin": "Castle Rock, CO United States",
     "BeerAbv": "7",
     "BeerIbu": "72",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Dry Hop Première",
     "BeerStyle": "Wild Ale - American",
     "BreweryName": "de Garde Brewing",
+    "Origin": "Tillamook, OR United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Oso Brew Co",
+    "Origin": "Madrid, Comunidad de Madrid Spain",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Paulaner Münchner Urtyp",
     "BeerStyle": "Lager - Dortmunder / Export",
     "BreweryName": "Paulaner Brauerei",
+    "Origin": "Munich, Bayern Germany",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Tiramisu Doppelbock",
     "BeerStyle": "Bock - Doppelbock",
     "BreweryName": "Danny Boy Beer Works",
+    "Origin": "Carmel, IN United States",
     "BeerAbv": "7",
     "BeerIbu": "20",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Reserva Especialidades 1897",
     "BeerStyle": "Lager - Strong",
     "BreweryName": "Groupe des Boissons du Maroc",
+    "Origin": "Casablanca, Casablanca-Settat Morocco",
     "BeerAbv": "7.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Gueuze",
     "BeerStyle": "Lambic - Gueuze",
     "BreweryName": "Belle-Vue",
+    "Origin": "Leeuw-Saint-Pierre, Région Flamande Belgium",
     "BeerAbv": "5.5",
     "BeerIbu": "5",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Persian Lime Berliner Weiss",
     "BeerStyle": "Sour - Fruited Berliner Weisse",
     "BreweryName": "Two Roads Brewing Company",
+    "Origin": "Stratford, CT United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Brain Damage",
     "BeerStyle": "Old / Stock Ale",
     "BreweryName": "Golden City Brewery",
+    "Origin": "Golden, CO United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Royal Ionian Pink Grapefruit Bergamot",
     "BeerStyle": "Non-Alcoholic - Other",
     "BreweryName": "Corfu Microbrewery",
+    "Origin": "Corfu, Πελοπόννησος, Δυτική Ελλάδα και Ιόνιο Greece",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Irish Stout",
     "BeerStyle": "Stout - American",
     "BreweryName": "Tower Hill Brewery",
+    "Origin": "Chalfont, PA United States",
     "BeerAbv": "4",
     "BeerIbu": "35",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Young's Old Nick",
     "BeerStyle": "Barleywine - English",
     "BreweryName": "Eagle Brewery",
+    "Origin": "Bedford, England",
     "BeerAbv": "7.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Super Natural ESB",
     "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
     "BreweryName": "Hawks Brewing",
+    "Origin": "Roseburg, OR United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Bandit",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Pivovara Maximus",
+    "Origin": "Zagreb, Grad Zagreb Croatia",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null

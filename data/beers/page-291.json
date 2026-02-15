@@ -4,6 +4,7 @@
     "BeerName": "High Society (P.X. Sherry)",
     "BeerStyle": "Barleywine - American",
     "BreweryName": "Bluejacket",
+    "Origin": "Washington, DC United States",
     "BeerAbv": "13.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Four Sheets Cream Ale",
     "BeerStyle": "Lager - American",
     "BreweryName": "Golden Gate Park Brewery",
+    "Origin": null,
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Historical East India Pale Ale With Brettanomyces",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Zebulon Artisan Ales",
+    "Origin": "Weaverville, NC United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Collab Piggy X LIC Beer Project",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "The Piggy Brewing Company",
+    "Origin": "Liverdun, Grand Est France",
     "BeerAbv": "8.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Four Saints Omie Dry Hopped W/ Mosaic",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Four Saints Brewing Company",
+    "Origin": "Asheboro, NC United States",
     "BeerAbv": "4.1",
     "BeerIbu": "22",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Golden-Amber Lager",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Bad Frog Brewery Company",
+    "Origin": "Rose City, MI United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Black Storm",
     "BeerStyle": "Homebrew, IPA - Black / Cascadian Dark Ale",
     "BreweryName": "Nuclear Storm Brewing Company",
+    "Origin": "New Cumberland, PA United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Thun Trail Pale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Oakbrook Brewing Company",
+    "Origin": "Reading, PA United States",
     "BeerAbv": "6.3",
     "BeerIbu": "40",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Gray Whale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Pacific Coast Brewing Company",
+    "Origin": "Oakland, CA United States",
     "BeerAbv": "5.8",
     "BeerIbu": "45",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Orkan",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Agerörs Kustbryggeri",
+    "Origin": "Falkenberg, Hallands län Sweden",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Holiday Scottish Strong Ale",
     "BeerStyle": "Scottish Ale",
     "BreweryName": "Pacific Coast Brewing Company",
+    "Origin": "Oakland, CA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Série Boisée - Carrick 2015",
     "BeerStyle": "Scotch Ale / Wee Heavy",
     "BreweryName": "Microbrasserie Le Naufrageur",
+    "Origin": "Carleton-sur-Mer, QC Canada",
     "BeerAbv": "10",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Ipa Summer Ala Kjeller",
     "BeerStyle": "Homebrew, IPA - Farmhouse",
     "BreweryName": "Karly Skaars Vei Brygghus",
+    "Origin": "Norway",
     "BeerAbv": "5",
     "BeerIbu": "22",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Grozet",
     "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
     "BreweryName": "Williams Brothers Brewing Co.",
+    "Origin": "Kelliebank, Clackmannanshire Scotland",
     "BeerAbv": "5",
     "BeerIbu": "12",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Hog Wild IPA From the Wood On 'EKG'",
     "BeerStyle": "IPA - English",
     "BreweryName": "Hogshead Brewery",
+    "Origin": "Denver, CO United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "5,000 Year Ale",
     "BeerStyle": "Barleywine - American",
     "BreweryName": "Pyramid Brewing Co.",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "9.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Pumpkin Ale",
     "BeerStyle": "Homebrew, Spiced / Herbed Beer",
     "BreweryName": "Turk's Head Brew Works",
+    "Origin": "West Chester, PA United States",
     "BeerAbv": "5.4",
     "BeerIbu": "15",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Barrel Aged Fruited Sour",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Zebulon Artisan Ales",
+    "Origin": "Weaverville, NC United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Edomae",
     "BeerStyle": "Pilsner - Czech / Bohemian",
     "BreweryName": "Asahi Breweries",
+    "Origin": "Sumida-ku, Tokyo Japan",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Blackout Maple Syrup",
     "BeerStyle": "Stout - Imperial / Double Pastry",
     "BreweryName": "Manchester Bier",
+    "Origin": "Juiz de Fora, Minas Gerais Brazil",
     "BeerAbv": "11",
     "BeerIbu": "58",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Frekke Småtøs",
     "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
     "BreweryName": "Livdekrona Brugghus",
+    "Origin": "Norway",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Drawbridge Blonde",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Hale's Ales Brewery and Taproom",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "4.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Belgian Tripel",
     "BeerStyle": "Belgian Tripel",
     "BreweryName": "Townies Brewery",
+    "Origin": "Ann Arbor, MI United States",
     "BeerAbv": "9.9",
     "BeerIbu": "32",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Trinity Divide",
     "BeerStyle": "IPA - English",
     "BreweryName": "Siskiyou Brew Works",
+    "Origin": "McCloud, CA United States",
     "BeerAbv": "6.6",
     "BeerIbu": "62",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "India Ale",
     "BeerStyle": "IPA - English",
     "BreweryName": "Samuel Smith",
+    "Origin": "Tadcaster, North Yorkshire England",
     "BeerAbv": "5",
     "BeerIbu": "46",
     "HallRating": null

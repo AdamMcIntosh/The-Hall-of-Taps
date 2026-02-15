@@ -43,14 +43,171 @@
     loadBeers: function (tableEl, paginationEl, pageSize) {
       if (!tableEl) return;
       pageSize = pageSize || DEFAULT_PAGE_SIZE;
-      tableEl.innerHTML = '<tr><td colspan="6" class="loading">Loading beers…</td></tr>';
+      var colspan = 8;
+      tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="loading">Loading beers…</td></tr>';
       if (paginationEl) paginationEl.innerHTML = '';
-      loadChunked(tableEl, paginationEl, 'beers', pageSize, 6, function (m) {
+      var currentChunk = [];
+      var currentStart = 0;
+      var currentPage = 1;
+      var totalPages = 1;
+      var total = 0;
+      var sortKey = null;
+      var sortDir = 1;
+      var filters = { q: '', breweries: '', styles: '', abvMin: '0', abvMax: '25', barMin: '-15', barMax: '19' };
+
+      function beerRow(m, rowNum) {
         var beerLink = (m.BID != null) ? 'beer.html#' + encodeURIComponent(m.BID) : 'beers.html';
-        return '<tr><td><a href="' + beerLink + '">' + escapeHtml(m.BeerName) + '</a></td><td>' + escapeHtml(m.BeerStyle || '') +
-          '</td><td>' + escapeHtml(m.BreweryName || '') + '</td><td>' + (m.BeerAbv != null ? m.BeerAbv : '') +
-          '</td><td>' + (m.BeerIbu != null ? m.BeerIbu : '') + '</td><td>' + (m.HallRating != null ? m.HallRating : '') + '</td></tr>';
-      });
+        var styleText = escapeHtml(m.BeerStyle || '');
+        var breweryText = escapeHtml(m.BreweryName || '');
+        var originText = escapeHtml(m.Origin || m.BreweryLocation || '');
+        return '<tr><td class="beers-col-num">' + rowNum + '</td><td><a href="' + beerLink + '">' + escapeHtml(m.BeerName || '') + '</a></td><td><a href="beers.html">' + styleText + '</a></td><td><a href="breweries.html">' + breweryText + '</a></td><td><a href="beers.html">' + originText + '</a></td><td>' + (m.BeerAbv != null && m.BeerAbv !== '' ? m.BeerAbv : '—') + '</td><td>—</td><td>' + (m.HallRating != null && m.HallRating !== '' ? m.HallRating : '—') + '</td></tr>';
+      }
+
+      function applyFilters(chunk) {
+        var q = (filters.q || '').toLowerCase();
+        var breweryTerms = (filters.breweries || '').toLowerCase().split(/,\s*/).filter(Boolean).slice(0, 20);
+        var styleTerms = (filters.styles || '').toLowerCase().split(/,\s*/).filter(Boolean).slice(0, 20);
+        var abvMin = filters.abvMin === '' ? -Infinity : parseFloat(filters.abvMin, 10);
+        var abvMax = filters.abvMax === '' ? Infinity : parseFloat(filters.abvMax, 10);
+        var barMin = filters.barMin === '' ? -Infinity : parseFloat(filters.barMin, 10);
+        var barMax = filters.barMax === '' ? Infinity : parseFloat(filters.barMax, 10);
+        return chunk.filter(function (m) {
+          if (q) {
+            var name = (m.BeerName || '').toLowerCase();
+            var brewery = (m.BreweryName || '').toLowerCase();
+            var style = (m.BeerStyle || '').toLowerCase();
+            if (name.indexOf(q) === -1 && brewery.indexOf(q) === -1 && style.indexOf(q) === -1) return false;
+          }
+          if (breweryTerms.length) {
+            var br = (m.BreweryName || '').toLowerCase();
+            if (!breweryTerms.some(function (t) { return br.indexOf(t) !== -1; })) return false;
+          }
+          if (styleTerms.length) {
+            var st = (m.BeerStyle || '').toLowerCase();
+            if (!styleTerms.some(function (t) { return st.indexOf(t) !== -1; })) return false;
+          }
+          var abv = m.BeerAbv != null && m.BeerAbv !== '' ? parseFloat(m.BeerAbv, 10) : null;
+          if (abv != null && (abv < abvMin || abv > abvMax)) return false;
+          var bar = m.HallRating != null && m.HallRating !== '' ? parseFloat(m.HallRating, 10) : null;
+          if (bar != null && (bar < barMin || bar > barMax)) return false;
+          return true;
+        });
+      }
+
+      function compare(a, b) {
+        var va = a[sortKey];
+        var vb = b[sortKey];
+        if (sortKey === 'HallRating' || sortKey === 'BeerAbv') {
+          va = va != null && va !== '' ? parseFloat(va, 10) : -Infinity;
+          vb = vb != null && vb !== '' ? parseFloat(vb, 10) : -Infinity;
+        } else {
+          va = (va != null ? String(va) : '').toLowerCase();
+          vb = (vb != null ? String(vb) : '').toLowerCase();
+        }
+        if (va < vb) return -sortDir;
+        if (va > vb) return sortDir;
+        return 0;
+      }
+
+      function renderChunk(chunk, start) {
+        var filtered = applyFilters(chunk);
+        if (sortKey) filtered = filtered.slice().sort(compare);
+        tableEl.innerHTML = filtered.map(function (m, i) { return beerRow(m, start + i + 1); }).join('');
+      }
+
+      function fetchAndRender(page) {
+        var pageIndex = page - 1;
+        if (pageIndex < 0 || pageIndex >= totalPages) return;
+        currentPage = page;
+        currentStart = (page - 1) * pageSize;
+        tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="loading">Loading…</td></tr>';
+        fetch(DATA + '/beers/page-' + pageIndex + '.json')
+          .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load page')); })
+          .then(function (chunk) {
+            currentChunk = chunk;
+            renderChunk(chunk, currentStart);
+            if (!paginationEl) return;
+            var end = Math.min(currentStart + chunk.length, total);
+            var prevDisabled = currentPage <= 1;
+            var nextDisabled = currentPage >= totalPages;
+            paginationEl.innerHTML =
+              '<div class="pagination">' +
+              '<button type="button" class="pagination-btn" data-page="prev" ' + (prevDisabled ? 'disabled' : '') + '>Previous</button>' +
+              '<span class="pagination-info">Page ' + currentPage + ' of ' + totalPages + ' <span class="pagination-range">(' + (total === 0 ? 0 : currentStart + 1) + '–' + end + ' of ' + total + ')</span></span>' +
+              '<button type="button" class="pagination-btn" data-page="next" ' + (nextDisabled ? 'disabled' : '') + '>Next</button>' +
+              '</div>';
+            paginationEl.querySelectorAll('.pagination-btn').forEach(function (btn) {
+              btn.addEventListener('click', function () {
+                if (this.disabled) return;
+                var next = this.getAttribute('data-page') === 'next' ? currentPage + 1 : currentPage - 1;
+                fetchAndRender(next);
+              });
+            });
+          })
+          .catch(function () {
+            tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="error">Could not load beers data.</td></tr>';
+          });
+      }
+
+      function bindSortAndFilter() {
+        var sortHeaders = tableEl.closest('table') && tableEl.closest('table').querySelectorAll('.beers-col-sort');
+        if (sortHeaders && sortHeaders.length) {
+          sortHeaders.forEach(function (th) {
+            th.addEventListener('click', function () {
+              var key = this.getAttribute('data-sort');
+              if (key === 'StylePlus') return;
+              sortDir = sortKey === key ? -sortDir : 1;
+              sortKey = key;
+              renderChunk(currentChunk, currentStart);
+            });
+          });
+        }
+        var quickSearch = document.getElementById('quick-search');
+        var abvMin = document.getElementById('abv-min');
+        var abvMax = document.getElementById('abv-max');
+        var barMin = document.getElementById('bar-min');
+        var barMax = document.getElementById('bar-max');
+        var btnApply = document.getElementById('filter-apply');
+        var btnReset = document.getElementById('filter-reset');
+        function readFilters() {
+          filters.q = quickSearch ? quickSearch.value.trim() : '';
+          filters.breweries = document.getElementById('filter-breweries') ? document.getElementById('filter-breweries').value.trim() : '';
+          filters.styles = document.getElementById('filter-styles') ? document.getElementById('filter-styles').value.trim() : '';
+          filters.abvMin = abvMin ? abvMin.value : '';
+          filters.abvMax = abvMax ? abvMax.value : '';
+          filters.barMin = barMin ? barMin.value : '';
+          filters.barMax = barMax ? barMax.value : '';
+        }
+        if (btnApply) btnApply.addEventListener('click', function () { readFilters(); renderChunk(currentChunk, currentStart); });
+        if (btnReset) btnReset.addEventListener('click', function () {
+          if (quickSearch) quickSearch.value = '';
+          var fb = document.getElementById('filter-breweries'); if (fb) fb.value = '';
+          var fs = document.getElementById('filter-styles'); if (fs) fs.value = '';
+          if (abvMin) abvMin.value = '0';
+          if (abvMax) abvMax.value = '25';
+          if (barMin) barMin.value = '-15';
+          if (barMax) barMax.value = '19';
+          readFilters();
+          renderChunk(currentChunk, currentStart);
+        });
+        if (quickSearch) quickSearch.addEventListener('input', function () { readFilters(); renderChunk(currentChunk, currentStart); });
+        if (abvMin) abvMin.addEventListener('change', function () { readFilters(); renderChunk(currentChunk, currentStart); });
+        if (abvMax) abvMax.addEventListener('change', function () { readFilters(); renderChunk(currentChunk, currentStart); });
+        if (barMin) barMin.addEventListener('change', function () { readFilters(); renderChunk(currentChunk, currentStart); });
+        if (barMax) barMax.addEventListener('change', function () { readFilters(); renderChunk(currentChunk, currentStart); });
+      }
+
+      fetch(DATA + '/beers/meta.json')
+        .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load beers meta')); })
+        .then(function (meta) {
+          totalPages = meta.totalPages || 1;
+          total = meta.total || 0;
+          fetchAndRender(1);
+          bindSortAndFilter();
+        })
+        .catch(function () {
+          tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="error">Could not load beers data.</td></tr>';
+        });
     },
 
     loadBeerDetail: function (containerEl, beerId) {

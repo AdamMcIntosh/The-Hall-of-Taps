@@ -4,6 +4,7 @@
     "BeerName": "Blueberry Sage",
     "BeerStyle": "Mead - Melomel",
     "BreweryName": "Big Lost Meadery",
+    "Origin": "Gillette, WY United States",
     "BeerAbv": "18",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "CRAZY CIDER DRY",
     "BeerStyle": "Cider - Dry",
     "BreweryName": "CRAZY CIDER",
+    "Origin": "Japan",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Akatosh",
     "BeerStyle": "Mead - Other",
     "BreweryName": "Yorwick Brew",
+    "Origin": "Yekaterinburg, Sverdlovsk Oblast Russia",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Motivated Thought",
     "BeerStyle": "Pilsner - German",
     "BreweryName": "Poor House Brewing Company",
+    "Origin": "San Diego, CA United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Nuttin’ But Hazel",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Unbranded Brewing Company",
+    "Origin": "Hialeah, FL United States",
     "BeerAbv": "11.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Paese Lager",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Birra AnimA",
+    "Origin": "Roccasparvera, Piemonte Italy",
     "BeerAbv": "4.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Lęborskie Pils",
     "BeerStyle": "Pilsner - Czech / Bohemian",
     "BreweryName": "AleBrowar",
+    "Origin": "Lębork, Pomeranian Voivodeship Poland",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Pitch Side",
     "BeerStyle": "IPA - American",
     "BreweryName": "Open Air",
+    "Origin": "Kobe, Hyogo Japan",
     "BeerAbv": "5.5",
     "BeerIbu": "70",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Brain Freeze",
     "BeerStyle": "IPA - Milkshake",
     "BreweryName": "Maquoketa Brewing",
+    "Origin": "Maquoketa, IA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "In the Dunkel",
     "BeerStyle": "Lager - Munich Dunkel",
     "BreweryName": "SevenDaze",
+    "Origin": "Singapore",
     "BeerAbv": "4.6",
     "BeerIbu": "15",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Кукумба",
     "BeerStyle": "Sour - Tomato / Vegetable Gose",
     "BreweryName": "O²xygen",
+    "Origin": "Rivne, Рівненська область Ukraine",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Gatty Seasonal Strawberry-Lemon",
     "BeerStyle": "Shandy / Radler",
     "BreweryName": "Gatlinburg Brewing Company",
+    "Origin": "Gatlinburg, TN United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Okse Kebab",
     "BeerStyle": "Traditional Ale",
     "BreweryName": "Shawarma Mesteren",
+    "Origin": null,
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Foraged Thorns",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Mount Gretna Craft Brewery",
+    "Origin": "Palmyra, PA United States",
     "BeerAbv": "6.1",
     "BeerIbu": "15",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Bridge",
     "BeerStyle": "Kölsch",
     "BreweryName": "Noble Stein Brewing Company",
+    "Origin": "Indiana, PA United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "B.A.N.A.N.A.S.",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Twin Span Brewing",
+    "Origin": "Bettendorf, IA United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Cydr Lodowy z Pigwą 2019",
     "BeerStyle": "Cider - Ice",
     "BreweryName": "Cydr Chyliczki",
+    "Origin": "Chyliczki, Masovian Voivodeship Poland",
     "BeerAbv": "15",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Haksen Gose - 白扇ゴーゼ",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "Matsuri Brewing",
+    "Origin": "Chiba, Japan",
     "BeerAbv": "5.5",
     "BeerIbu": "12",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Back To Black",
     "BeerStyle": "Stout - Other",
     "BreweryName": "Caos Brewing Co.",
+    "Origin": "Medellín, Antioquia Colombia",
     "BeerAbv": "6.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Birra Bionda Matta Bio",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Bisbino",
+    "Origin": "Sagno, Ticino Switzerland",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Királyka",
     "BeerStyle": "Pilsner - German",
     "BreweryName": "ŐriBird Sörfőzde",
+    "Origin": "Hungary",
     "BeerAbv": "5.5",
     "BeerIbu": "26",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "ESB 2022",
     "BeerStyle": "Homebrew, Pale Ale - American",
     "BreweryName": "Gannon Brewery",
+    "Origin": "United States",
     "BeerAbv": "5",
     "BeerIbu": "30",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "AK 47 Session IPA",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Capitão Barley",
+    "Origin": "São Paulo, Brazil",
     "BeerAbv": "4.5",
     "BeerIbu": "35",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Complicated Airflow (2022)",
     "BeerStyle": "IPA - American",
     "BreweryName": "Badlands Brewing Company",
+    "Origin": "Caledon, ON Canada",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Purpo Ale Fruit Beer",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Birra Artigianale Di Sicilia",
+    "Origin": "Italy",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null

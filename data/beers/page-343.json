@@ -4,6 +4,7 @@
     "BeerName": "Homemade Honey Stout",
     "BeerStyle": "Homebrew, Stout - Oatmeal",
     "BreweryName": "Homebrew",
+    "Origin": "Other",
     "BeerAbv": "11.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Watermelon Cara High",
     "BeerStyle": "Cider - Sweet",
     "BreweryName": "Jobertus",
+    "Origin": null,
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Pallières",
     "BeerStyle": "Pale Ale - English",
     "BreweryName": "Aquae Maltae",
+    "Origin": "Aix-en-Provence, Provence-Alpes-Côte d'Azur France",
     "BeerAbv": "5.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "#111 Turbo Mango Berliner Weisse",
     "BeerStyle": "Homebrew, Sour - Fruited Berliner Weisse",
     "BreweryName": "Hoppy Pony",
+    "Origin": "Poland",
     "BeerAbv": "3.4",
     "BeerIbu": "8",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Clifford the Big Red Double IPA",
     "BeerStyle": "IPA - Red",
     "BreweryName": "2 Brothers Brewery",
+    "Origin": "Melbourne, Victoria Australia",
     "BeerAbv": "8",
     "BeerIbu": "90",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Barrel-Aged Imperial Stout (3 Year Anniversary)",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Line Creek Brewing Co.",
+    "Origin": "Peachtree City, GA United States",
     "BeerAbv": "10",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Fresh Malt",
     "BeerStyle": "Non-Alcoholic - Other",
     "BreweryName": "Nestville Taberna",
+    "Origin": "Hniezdne, Prešovský kraj Slovakia",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Burial Beer Co Ipa",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Burial Beer Co.",
+    "Origin": "Asheville, NC United States",
     "BeerAbv": "8.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Spumante Brut Rosé",
     "BeerStyle": "Other",
     "BreweryName": "Muddy York Brewing Co.",
+    "Origin": "Whitchurch-Stouffville, ON Canada",
     "BeerAbv": "9",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Aroma Sider Frå Hardanger - red label (2019)",
     "BeerStyle": "Cider - Traditional / Apfelwein",
     "BreweryName": "Sjuragarden",
+    "Origin": "Norheimsund, Hordaland Norway",
     "BeerAbv": "9",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Belgian Quadrupel batch #3 aged in bourbon barrels",
     "BeerStyle": "Belgian Quadrupel",
     "BreweryName": "Salden's Brewery",
+    "Origin": "Tula, Тульская Область Russia",
     "BeerAbv": "16.5",
     "BeerIbu": "20",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "The Seventeen",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Wren House Brewing Company",
+    "Origin": "Phoenix, AZ United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Strawberries On A Summer Evening",
     "BeerStyle": "Homebrew, Wheat Beer - Other",
     "BreweryName": "Cedar Rapids Brewing Society",
+    "Origin": "United States",
     "BeerAbv": "5.85",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Discovery Sider Frå Hardanger (2019)",
     "BeerStyle": "Cider - Traditional / Apfelwein",
     "BreweryName": "Sjuragarden",
+    "Origin": "Norheimsund, Hordaland Norway",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Wedge (2021)",
     "BeerStyle": "Kölsch",
     "BreweryName": "Fernson Brewing Company",
+    "Origin": "Sioux Falls, SD United States",
     "BeerAbv": "4.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Discovery Sider Frå Hardanger (2018)",
     "BeerStyle": "Cider - Traditional / Apfelwein",
     "BreweryName": "Sjuragarden",
+    "Origin": "Norheimsund, Hordaland Norway",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Play",
     "BeerStyle": "IPA - American",
     "BreweryName": "AleSmith Brewing Company",
+    "Origin": "San Diego, CA United States",
     "BeerAbv": "6.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Aroma Sider Frå Hardanger - yellow label (2019)",
     "BeerStyle": "Cider - Traditional / Apfelwein",
     "BreweryName": "Sjuragarden",
+    "Origin": "Norheimsund, Hordaland Norway",
     "BeerAbv": "9.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Summer West Coast Pils",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Offshoot Beer Co.",
+    "Origin": "Placentia, CA United States",
     "BeerAbv": "5.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Whitstable Bay Black Stout",
     "BeerStyle": "Stout - Oyster",
     "BreweryName": "Shepherd Neame",
+    "Origin": "Faversham, Kent England",
     "BeerAbv": "4.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "La Paumée Cuvée Du Père Noël",
     "BeerStyle": "Lager - Amber / Red",
     "BreweryName": "Brasserie artisanale La Lorraine Perdue",
+    "Origin": "Vézelise, Grand Est France",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Mayday",
     "BeerStyle": "IPA - American",
     "BreweryName": "Escape Brewing Company",
+    "Origin": "Trinity, FL United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Sixth Cycle",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Burial Beer Co.",
+    "Origin": "Asheville, NC United States",
     "BeerAbv": "8.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Aligned Lemonade Hard Seltzer By Revision",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Revision Brewing Company",
+    "Origin": "Sparks, NV United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Brut Indy Pale",
     "BeerStyle": "IPA - Brut",
     "BreweryName": "CoolHead Brew",
+    "Origin": "Helsinki, Uusimaa Finland",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null

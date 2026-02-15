@@ -4,6 +4,7 @@
     "BeerName": "Hacha Stout",
     "BeerStyle": "Stout - American",
     "BreweryName": "Cerveza Artesanal Elfo",
+    "Origin": "Ciudad de México, Mexico",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Strawberry Mint Wit",
     "BeerStyle": "Wheat Beer - Other",
     "BreweryName": "Old Louisville Brewery",
+    "Origin": "Louisville, KY United States",
     "BeerAbv": "5.3",
     "BeerIbu": "19",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Oktoberfest",
     "BeerStyle": "Homebrew, Märzen",
     "BreweryName": "Parting Waters Brewing",
+    "Origin": "United States",
     "BeerAbv": "7.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Womp Womp",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Neon Raptor Brewing Co.",
+    "Origin": "Nottingham, England",
     "BeerAbv": "5",
     "BeerIbu": "40",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Pilsner Shandy",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Five Dimes Brewery",
+    "Origin": "Westwood, NJ United States",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Lychee Sea Salt (荔枝海盐)",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "叁金叁精酿 (Sanjinsan)",
+    "Origin": "Bei Jing Shi, China / People's Republic of China",
     "BeerAbv": "2.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Fruit Tree - Gooseberry & Elderflower",
     "BeerStyle": "Mead - Melomel",
     "BreweryName": "Lost Verses Meadery",
+    "Origin": "Salford, Greater Manchester England",
     "BeerAbv": "14",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Between Days",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "GlassHouse Beer Co",
+    "Origin": "Birmingham, West Midlands England",
     "BeerAbv": "5.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Hann's American Light Lager",
     "BeerStyle": "Lager - American",
     "BreweryName": "Swing Barrel Brewing Co.",
+    "Origin": "Moorhead, MN United States",
     "BeerAbv": "5",
     "BeerIbu": "9",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Fee Or Tees",
     "BeerStyle": "Homebrew, Cider - Sweet",
     "BreweryName": "Ganz Anders Brau",
+    "Origin": "Sweden",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "BUF IPA",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Resurgence Brewing Company",
+    "Origin": "Buffalo, NY United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Master of Poppets",
     "BeerStyle": "Barleywine - Other",
     "BreweryName": "Leviathan Brewing",
+    "Origin": "Birmingham, West Midlands England",
     "BeerAbv": "13.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Orange Blossom Mead",
     "BeerStyle": "Homebrew, Mead - Other",
     "BreweryName": "Dancing Kilt Brewing",
+    "Origin": "United States",
     "BeerAbv": "8.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Rul3 of Thr33",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Skookum Brewery",
+    "Origin": "Arlington, WA United States",
     "BeerAbv": "7.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Turn Out the Lights",
     "BeerStyle": "Stout - Irish Dry",
     "BreweryName": "Peticolas Brewing Company",
+    "Origin": "Dallas, TX United States",
     "BeerAbv": "6",
     "BeerIbu": "30",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Day of the Decade",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Brewster's Brewery",
+    "Origin": "Grantham, Lincolnshire England",
     "BeerAbv": "4.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Mutagenic Alchemy",
     "BeerStyle": "IPA - Other",
     "BreweryName": "WarPigs USA Brewing",
+    "Origin": "Munster, IN United States",
     "BeerAbv": "6.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "What Is (Sour) IPA",
     "BeerStyle": "IPA - Sour",
     "BreweryName": "Brickside Brewery",
+    "Origin": "Copper Harbor, MI United States",
     "BeerAbv": "6.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Rayonnant",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Chilton Mill Brewing",
+    "Origin": "Long Valley, NJ United States",
     "BeerAbv": "5.55",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Hoppy Blonde",
     "BeerStyle": "Lager - American",
     "BreweryName": "Noble Funk Brewing Co",
+    "Origin": "Louisville, KY United States",
     "BeerAbv": "4.5",
     "BeerIbu": "21",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "One Lux",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "GlassHouse Beer Co",
+    "Origin": "Birmingham, West Midlands England",
     "BeerAbv": "3.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Camper Van",
     "BeerStyle": "IPA - American",
     "BreweryName": "Home State Brewing Co.",
+    "Origin": "Winter Garden, FL United States",
     "BeerAbv": "6.4",
     "BeerIbu": "65",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Run Forest Run",
     "BeerStyle": "Pale Ale - New England / Hazy",
     "BreweryName": "Neon Raptor Brewing Co.",
+    "Origin": "Nottingham, England",
     "BeerAbv": "4.4",
     "BeerIbu": "50",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "RBA Peach Tea Quad",
     "BeerStyle": "Belgian Quadrupel",
     "BreweryName": "Local Relic Artisan Ales",
+    "Origin": "Colorado Springs, CO United States",
     "BeerAbv": "11.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Trick Or Treat: Frogman (2022 Cryptids)",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Urban Artifact",
+    "Origin": "Cincinnati, OH United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null

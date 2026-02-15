@@ -4,6 +4,7 @@
     "BeerName": "Route 66 - Nelson Sauvin",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Vandoma Brauhaus",
+    "Origin": "Porto, Norte Portugal",
     "BeerAbv": "5.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Peach Mango IPA",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Raven Brewing & BBQ",
+    "Origin": "Big Rapids, MI United States",
     "BeerAbv": "6.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "White Beer",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Santiam Brewing",
+    "Origin": "Salem, OR United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Everyday Fog (Nelson)",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Abomination Brewing Company",
+    "Origin": "North Haven, CT United States",
     "BeerAbv": "7.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Jalapeño Citrus Ale",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Beach Fire Brewing Company",
+    "Origin": "Campbell River, BC Canada",
     "BeerAbv": "4.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "8.6 Original",
     "BeerStyle": "Lager - Strong",
     "BreweryName": "Royal Swinkels",
+    "Origin": "Lieshout, Noord-Brabant Netherlands",
     "BeerAbv": "8.6",
     "BeerIbu": "18",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Lake House",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Dam Brewhouse",
+    "Origin": "Campton, NH United States",
     "BeerAbv": "4.5",
     "BeerIbu": "20",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "American Hefe",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Bog Brewing Company",
+    "Origin": "Saint Augustine, FL United States",
     "BeerAbv": "5.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "7th Anniversary",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Conclave Brewing",
+    "Origin": "Flemington, NJ United States",
     "BeerAbv": "9",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Hope",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Valentim Empório Cervejeiro",
+    "Origin": "Itabira, Minas Gerais Brazil",
     "BeerAbv": "6.4",
     "BeerIbu": "45",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Hanalei Island IPA",
     "BeerStyle": "IPA - Fruited",
     "BreweryName": "Kona Brewing Hawaii",
+    "Origin": "Kailua-Kona, HI United States",
     "BeerAbv": "4.5",
     "BeerIbu": "40",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Lemon Summer Lovin’",
     "BeerStyle": "Shandy / Radler",
     "BreweryName": "Icewind Brewing",
+    "Origin": "Mapleton, ND United States",
     "BeerAbv": "4.9",
     "BeerIbu": "12",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Swell Times",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Broomtail Craft Brewery",
+    "Origin": "Wilmington, NC United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Compa Lemon Lime Tequila & Soda",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "The Compa Beverage Co.",
+    "Origin": null,
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Banana Nut Bread",
     "BeerStyle": "Cream Ale",
     "BreweryName": "Quincy Brewing Company",
+    "Origin": "Quincy, IL United States",
     "BeerAbv": "5.5",
     "BeerIbu": "13",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "The Other Amber",
     "BeerStyle": "Lager - American Amber / Red",
     "BreweryName": "Niagara College Teaching Brewery",
+    "Origin": "Niagara-on-the-Lake, ON Canada",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "NS3 - Imperial Schwarzbier (Maple Barrel Aged)",
     "BeerStyle": "Lager - Strong",
     "BreweryName": "Natural State Beer Company",
+    "Origin": "Rogers, AR United States",
     "BeerAbv": "9",
     "BeerIbu": "18",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "This Is Wine",
     "BeerStyle": "Homebrew, Cider - Dry",
     "BreweryName": "Subject To Change",
+    "Origin": "United States",
     "BeerAbv": "10.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Super Friends",
     "BeerStyle": "Belgian Enkel / Patersbier",
     "BreweryName": "The Monk’s Cellar",
+    "Origin": "Roseville, CA United States",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Sunspot",
     "BeerStyle": "IPA - Sour",
     "BreweryName": "Serpent Brewing",
+    "Origin": "Halifax, NS Canada",
     "BeerAbv": "5.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Fragment",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "New Park Brewing",
+    "Origin": "West Hartford, CT United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Double Black Sheep",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Hatchet Brewing Company",
+    "Origin": "Southern Pines, NC United States",
     "BeerAbv": "6",
     "BeerIbu": "14",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Sunhaze",
     "BeerStyle": "Pale Ale - New England / Hazy",
     "BreweryName": "Waitoa",
+    "Origin": "Wellington City, Wellington New Zealand",
     "BeerAbv": "4.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "The Mutt",
     "BeerStyle": "Homebrew, Lager - IPL (India Pale Lager)",
     "BreweryName": "Duhhct Tape Brewing",
+    "Origin": "United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Зилим",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Пивоварня №21",
+    "Origin": "Ufa, Republic of Bashkortostan Russia",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null

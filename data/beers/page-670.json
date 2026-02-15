@@ -4,6 +4,7 @@
     "BeerName": "English Porter",
     "BeerStyle": "Homebrew, Porter - English",
     "BreweryName": "Patriot Brewery and Homebrew Supplies",
+    "Origin": "Elkhorn, NE United States",
     "BeerAbv": "4.4",
     "BeerIbu": "24",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Pumpkinville",
     "BeerStyle": "Pumpkin / Yam Beer",
     "BreweryName": "Ellicottville Brewing Company",
+    "Origin": "Ellicottville, NY United States",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Vienna Lager",
     "BeerStyle": "Lager - Vienna",
     "BreweryName": "Orbit Beers",
+    "Origin": "London, Greater London England",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "IPA",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Chungungo",
+    "Origin": "Chile",
     "BeerAbv": "5.4",
     "BeerIbu": "54",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "MANGO-OL",
     "BeerStyle": "IPA - Sour",
     "BreweryName": "Olut",
+    "Origin": "Spain",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Te Punga",
     "BeerStyle": "IPA - American",
     "BreweryName": "Raised Grain Brewing Company",
+    "Origin": "Waukesha, WI United States",
     "BeerAbv": "7.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "El Jefe De Hefes",
     "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
     "BreweryName": "Sundae Brewing Company",
+    "Origin": "United States",
     "BeerAbv": "5.3",
     "BeerIbu": "12",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "1664",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Brasseries Kronenbourg",
+    "Origin": "Obernai, Grand Est France",
     "BeerAbv": "5.5",
     "BeerIbu": "20",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Mörklan",
     "BeerStyle": "Homebrew, Stout - Imperial / Double",
     "BreweryName": "Brygghus Karl Vinter",
+    "Origin": "Sweden",
     "BeerAbv": "9.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Taboot Taboot #3",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Pherm Brewing Company",
+    "Origin": "Gambrills, MD United States",
     "BeerAbv": "7.9",
     "BeerIbu": "32",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Fort L'Ecluse Blonde",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Brasserie Gessienne",
+    "Origin": "Ornex, Auvergne-Rhône-Alpes France",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Tropically Delicious Hazy IPA",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Wild Ride Brewing",
+    "Origin": "Redmond, OR United States",
     "BeerAbv": "6.5",
     "BeerIbu": "40",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Pomarium",
     "BeerStyle": "Cider - Dry",
     "BreweryName": "Craftpenter Brewery",
+    "Origin": "Kaliningrad, Kaliningradskaya oblast' Russia",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Gotlandsdricku",
     "BeerStyle": "Homebrew, Smoked Beer",
     "BreweryName": "Norrbys Gnisvärd",
+    "Origin": "Sweden",
     "BeerAbv": "9",
     "BeerIbu": "9",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Hot Wheat Summer",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
     "BreweryName": "South Lake Brewing Company",
+    "Origin": "South Lake Tahoe, CA United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Leith Club (Nauticus Collab)",
     "BeerStyle": "Sour - Fruited Berliner Weisse",
     "BreweryName": "Campervan Brewery",
+    "Origin": "Leith, City of Edinburgh Scotland",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Hocktoberfest",
     "BeerStyle": "Märzen",
     "BreweryName": "Knuckle Puck Brewing",
+    "Origin": "Longmont, CO United States",
     "BeerAbv": "6.1",
     "BeerIbu": "20",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Maartje & Thijs",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Brouwerij Tamesteut",
+    "Origin": "Hoorn, Noord-Holland Netherlands",
     "BeerAbv": "7",
     "BeerIbu": "60",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Marvelous In Black",
     "BeerStyle": "Porter - English",
     "BreweryName": "Kaminari",
+    "Origin": "Tijuana, Baja California Mexico",
     "BeerAbv": "6.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Grapefruit Boombox",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
     "BreweryName": "Our Brewing Company",
+    "Origin": "Holland, MI United States",
     "BeerAbv": "5.5",
     "BeerIbu": "25",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Lobsters On South Beach",
     "BeerStyle": "Shandy / Radler",
     "BreweryName": "Deviant & Dandy Brewery",
+    "Origin": "London, Greater London England",
     "BeerAbv": "2.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Ten-Jay",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "London Beer Lab Nano Brews and Tap",
+    "Origin": "London, Greater London England",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Cranberry Rosé",
     "BeerStyle": "Red Ale - Other",
     "BreweryName": "Secret Llama",
+    "Origin": "Lakeland, FL United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Touch of Currant",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Druthers Brewing Company",
+    "Origin": "Saratoga Springs, NY United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Serra das Andorinhas",
     "BeerStyle": "Blonde / Golden Ale - American",
     "BreweryName": "Araguaia Cervejaria",
+    "Origin": "Marabá, Pará Brazil",
     "BeerAbv": "4",
     "BeerIbu": "20",
     "HallRating": null

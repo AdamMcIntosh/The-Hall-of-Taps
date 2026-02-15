@@ -4,6 +4,7 @@
     "BeerName": "NEIPA (Test Batch #5)",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Peak Drift Brewing Company",
+    "Origin": "Columbia, SC United States",
     "BeerAbv": "6",
     "BeerIbu": "8",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "DDH Fuego Chinook Citra Simcoe Mosaic 7/2022",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Tonewood Brewing",
+    "Origin": "Barrington, NJ United States",
     "BeerAbv": "6.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "I'm On Smoko",
     "BeerStyle": "Smoked Beer",
     "BreweryName": "Tampa Bay Brewing Company",
+    "Origin": "Tampa, FL United States",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Double ELIXER V Double New England IPA",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "WALHALLA Brouwerij",
+    "Origin": "Amsterdam, Noord-Holland Netherlands",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Illustrated Book About Birds",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Black Lodge Brewery",
+    "Origin": "Liverpool, Merseyside England",
     "BeerAbv": "5.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Crux",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Decadent Ales",
+    "Origin": "Mamaroneck, NY United States",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Get Brendan An I.P.L",
     "BeerStyle": "Lager - IPL (India Pale Lager)",
     "BreweryName": "Kickstand Brewing Company",
+    "Origin": "Commerce Township, MI United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Best Bitter",
     "BeerStyle": "Bitter - Session / Ordinary",
     "BreweryName": "Azimut Brasserie",
+    "Origin": "Bordeaux, Nouvelle-Aquitaine France",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Watermelon Jolly Rancher Sour",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Three Heads Brewing",
+    "Origin": "Rochester, NY United States",
     "BeerAbv": "6",
     "BeerIbu": "8",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Pursuit of Balance",
     "BeerStyle": "Farmhouse Ale - Grisette",
     "BreweryName": "Triple Crossing",
+    "Origin": "Richmond, VA United States",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Get Witty Wit It",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Scriptown Brewing Company",
+    "Origin": "Omaha, NE United States",
     "BeerAbv": "5.6",
     "BeerIbu": "20",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "GUITA",
     "BeerStyle": "Stout - Coffee",
     "BreweryName": "The Kill Beers",
+    "Origin": "Spain",
     "BeerAbv": "0",
     "BeerIbu": "53",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Al-rice Al-rice Al-rice",
     "BeerStyle": "Lager - American",
     "BreweryName": "Oskar Blues ATX",
+    "Origin": "Austin, TX United States",
     "BeerAbv": "4.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Third Man",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Rock Bottom Restaurant & Brewery",
+    "Origin": "Denver, CO United States",
     "BeerAbv": "9.4",
     "BeerIbu": "65",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "High Noon Seltzer",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "White Claw Seltzer Works",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Light Lager Through Limes",
     "BeerStyle": "Lager - American Light",
     "BreweryName": "Appleton Beer Factory",
+    "Origin": "Appleton, WI United States",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Bare FleIPA",
     "BeerStyle": "Homebrew, IPA - Other",
     "BreweryName": "Timini - Nanobryggeriet",
+    "Origin": "Norway",
     "BeerAbv": "6.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Hangspace Volksweizen",
     "BeerStyle": "Homebrew, Wheat Beer - American Pale Wheat",
     "BreweryName": "Hang Space",
+    "Origin": "Thailand",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Tubul",
     "BeerStyle": "IPA - White / Wheat",
     "BreweryName": "Brasserie de l'Être",
+    "Origin": "Paris, Ile-de-France France",
     "BeerAbv": "7.8",
     "BeerIbu": "10",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "River Bender",
     "BeerStyle": "Scottish Ale",
     "BreweryName": "Yough River Brewing Co.",
+    "Origin": "Connellsville, PA United States",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Taco",
     "BeerStyle": "Homebrew, Lager - Mexican",
     "BreweryName": "YURM Brewing Company",
+    "Origin": "Gibsonia, PA United States",
     "BeerAbv": "4.8",
     "BeerIbu": "11",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "White Claw",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "White Claw Seltzer Works",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Ginger Tepache Murdoc",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Equal Parts Brewing",
+    "Origin": "Houston, TX United States",
     "BeerAbv": "8.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Sierra Citrus",
     "BeerStyle": "IPA - American",
     "BreweryName": "Burning Barrel Brewing Company",
+    "Origin": "Rancho Cordova, CA United States",
     "BeerAbv": "7.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Baffo Tittoni",
     "BeerStyle": "Red Ale - Other",
     "BreweryName": "Railroad Brewing Company",
+    "Origin": "Avon, OH United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null

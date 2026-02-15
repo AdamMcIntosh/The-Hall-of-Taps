@@ -4,6 +4,7 @@
     "BeerName": "Costero Mexican",
     "BeerStyle": "Lager - Mexican",
     "BreweryName": "Carolina Brewing",
+    "Origin": "Holly Springs, NC United States",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Little Bit of Passion",
     "BeerStyle": "Sour - Fruited Berliner Weisse",
     "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Unruffled Feathers",
     "BeerStyle": "Lager - IPL (India Pale Lager)",
     "BreweryName": "Midwest Coast Brewing Co",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "7",
     "BeerIbu": "50",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Kuusenkerkkä Gin",
     "BeerStyle": "Hard Seltzer",
     "BreweryName": "Mahla Forest",
+    "Origin": null,
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Doppio Malto Chiara Forte",
     "BeerStyle": "Bock - Hell / Maibock / Lentebock",
     "BreweryName": "COOP Italy",
+    "Origin": "Casalecchio di Reno, Emilia-Romagna Italy",
     "BeerAbv": "6.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Bent IPA",
     "BeerStyle": "IPA - Belgian",
     "BreweryName": "Slot Oostende",
+    "Origin": "Goes, Zeeland Netherlands",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Rizoma Selected Crop",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Cervejaria Dogma",
+    "Origin": "São Paulo, Brazil",
     "BeerAbv": "8.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "You’ve Lost That Hazy Feeling",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Device Brewing Company",
+    "Origin": "Sacramento, CA United States",
     "BeerAbv": "8.5",
     "BeerIbu": "15",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "A Beer Named Kyle",
     "BeerStyle": "California Common",
     "BreweryName": "One-Eyed Cat Brewing",
+    "Origin": "Williamsville, NY United States",
     "BeerAbv": "5.6",
     "BeerIbu": "36",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "наЦЕПИн",
     "BeerStyle": "Homebrew, Other",
     "BreweryName": "МиЦ - Цеетелин Петров ЕТ",
+    "Origin": "Bulgaria",
     "BeerAbv": "5",
     "BeerIbu": "12",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Deez",
     "BeerStyle": "Cream Ale",
     "BreweryName": "Randolph Beer",
+    "Origin": "New York, NY United States",
     "BeerAbv": "5.5",
     "BeerIbu": "24",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Antiphona",
     "BeerStyle": "Lager - Tmavé (Czech Dark)",
     "BreweryName": "Cervejaria Dogma",
+    "Origin": "São Paulo, Brazil",
     "BeerAbv": "6.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Coal Miner’s Daugther",
     "BeerStyle": "Mild - Other",
     "BreweryName": "Ebeltoft Gårdbryggeri",
+    "Origin": "Ebeltoft, Region Midtjylland Denmark",
     "BeerAbv": "2.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "La bière blanche qui tombe à pic",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Brasserie artisanale Hoppic",
+    "Origin": "Saint-Gély-du-Fesc, Occitanie France",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Lahes",
     "BeerStyle": "Homebrew, Stout - Pastry",
     "BreweryName": "21107 Brewing",
+    "Origin": "Germany",
     "BeerAbv": "6.2",
     "BeerIbu": "40",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "L'agace-Pissette",
     "BeerStyle": "IPA - Farmhouse",
     "BreweryName": "La Queyrassine",
+    "Origin": "Abriès-Ristolas, Provence-Alpes-Côte d'Azur France",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Babypils NEIPA",
     "BeerStyle": "Homebrew, IPA - New England / Hazy",
     "BreweryName": "Eleveld & Zn.",
+    "Origin": "Netherlands",
     "BeerAbv": "6.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Blood Orange Belgian Wit",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Boshkung Brewing Co",
+    "Origin": "Minden, ON Canada",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Tropicallica",
     "BeerStyle": "Sour - Smoothie / Pastry",
     "BreweryName": "Brainfill Brewing",
+    "Origin": "Thailand",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Partial BA Imperial Cake Talk",
     "BeerStyle": "Stout - Imperial / Double Pastry",
     "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
     "BeerAbv": "12.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Cara Cara Dreamsicle Ale",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Parkway Brewing Company",
+    "Origin": "Salem, VA United States",
     "BeerAbv": "5.2",
     "BeerIbu": "12",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Bucket Full of Thoughts",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Suburban Brewing Co.",
+    "Origin": "Honey Brook, PA United States",
     "BeerAbv": "8.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Noted Intellectual",
     "BeerStyle": "Stout - Other",
     "BreweryName": "Midwest Coast Brewing Co",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "7",
     "BeerIbu": "51",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Little Ferry Light",
     "BeerStyle": "Lager - American Light",
     "BreweryName": "Brix City Brewing",
+    "Origin": "Little Ferry, NJ United States",
     "BeerAbv": "4.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Peachy Wilsons Wheat",
     "BeerStyle": "Wheat Beer - Other",
     "BreweryName": "The Farm & The Odd Fellows",
+    "Origin": "Minneapolis, KS United States",
     "BeerAbv": "5.3",
     "BeerIbu": "24",
     "HallRating": null

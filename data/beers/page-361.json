@@ -4,6 +4,7 @@
     "BeerName": "Summer of 2021",
     "BeerStyle": "IPA - American",
     "BreweryName": "Cerveza Cardera",
+    "Origin": "Ensenada, Baja California Mexico",
     "BeerAbv": "5.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Dobre Toto Wyszło #2",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Browar Kazimierz",
+    "Origin": "Zakrzów, Małopolskie Poland",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Klôôsterse Roste",
     "BeerStyle": "Homebrew, Lager - Amber / Red",
     "BreweryName": "Brothers In Law Klôôster",
+    "Origin": "Netherlands",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Strawberry Shortcake Sour",
     "BeerStyle": "Sour - Fruited Berliner Weisse",
     "BreweryName": "Flagler Village Brewery",
+    "Origin": "Fort Lauderdale, FL United States",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Southern Hop",
     "BeerStyle": "Pale Ale - Other",
     "BreweryName": "Birrificio Artigiano Orzo Bruno",
+    "Origin": "Bientina, Toscana Italy",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Wild Soul IPA",
     "BeerStyle": "IPA - English",
     "BreweryName": "Wildcraft Brewery",
+    "Origin": "Norwich, Norfolk England",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Mild Sedative",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Bond’s Brewing Company",
+    "Origin": "Laramie, WY United States",
     "BeerAbv": "5",
     "BeerIbu": "10",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Fearlessly",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Sun Lab Brewing",
+    "Origin": "Bradenton, FL United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Red Sky at Night",
     "BeerStyle": "IPA - Red",
     "BreweryName": "Paradigm Shift Craft Brewery",
+    "Origin": "Massillon, OH United States",
     "BeerAbv": "7.1",
     "BeerIbu": "55",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Hockey Punk",
     "BeerStyle": "Other",
     "BreweryName": "Braumanufaktur Schlachthuus",
+    "Origin": "Lufingen, Zürich Switzerland",
     "BeerAbv": "5.2",
     "BeerIbu": "14",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Eddy Hopping",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Lake Wylie Brewing Co.",
+    "Origin": "Fort Mill, SC United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Mosaic Cryo Pale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Thyras Bryg",
+    "Origin": "Roskilde, Region Sjælland Denmark",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Holy Night - Bright Christmas Ale",
     "BeerStyle": "Belgian Blonde",
     "BreweryName": "7 Fjell Bryggeri",
+    "Origin": "Bønes, Vestland Norway",
     "BeerAbv": "6.5",
     "BeerIbu": "20",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Blueberry Pie Sour",
     "BeerStyle": "Sour - Fruited Berliner Weisse",
     "BreweryName": "Flagler Village Brewery",
+    "Origin": "Fort Lauderdale, FL United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Enters Dubbel",
     "BeerStyle": "Belgian Dubbel",
     "BreweryName": "Coop Nederland",
+    "Origin": "Velp, Gelderland Netherlands",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Belgisk Hawaii",
     "BeerStyle": "Belgian Tripel",
     "BreweryName": "Det Lille Bryggeri",
+    "Origin": "Ringsted, Region Sjælland Denmark",
     "BeerAbv": "8.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Dog Mountain IPA",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Gorges Beer Co",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "glitch",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "naïlo brewing co.",
+    "Origin": "Oulu, Pohjois-Pohjanmaa Finland",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Gargojl Strawberry",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "Crow Brewery",
+    "Origin": "Vranovo, Централна Србија Serbia",
     "BeerAbv": "3.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Hair of the Dog",
     "BeerStyle": "Bock - Single / Traditional",
     "BreweryName": "Two Pillars Brewery",
+    "Origin": "Calgary, AB Canada",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Juicy Apple 0.0%",
     "BeerStyle": "Cider - Dry",
     "BreweryName": "Apple Bandit Cider",
+    "Origin": "Amsterdam, Noord-Holland Netherlands",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Here To Stay",
     "BeerStyle": "Kölsch",
     "BreweryName": "To Øl CPH",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
     "BeerAbv": "4.7",
     "BeerIbu": "35",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "New World Golden Ale",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Banded Goose Brewing Co.",
+    "Origin": "Kingsville, ON Canada",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Lunar Eclipse",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Tasting Room & Taphouse at Mount Ida Reserve",
+    "Origin": "Charlottesville, VA United States",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Атолла",
     "BeerStyle": "Stout - Imperial / Double Milk",
     "BreweryName": "Brewlok Brewery",
+    "Origin": "Voronezh, Voronezh Oblast Russia",
     "BeerAbv": "8.6",
     "BeerIbu": "0",
     "HallRating": null

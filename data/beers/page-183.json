@@ -4,6 +4,7 @@
     "BeerName": "Black Cider",
     "BeerStyle": "Cider - Traditional / Apfelwein",
     "BreweryName": "White Oak Cider",
+    "Origin": "Newberg, OR United States",
     "BeerAbv": "6.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Wunder Weizen",
     "BeerStyle": "Wheat Beer - Hefeweizen Light / Leicht",
     "BreweryName": "St. Servattumus",
+    "Origin": "Schijndel, Noord-Brabant Netherlands",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Pineapple Shandy",
     "BeerStyle": "Shandy / Radler",
     "BreweryName": "Danny Boy Beer Works",
+    "Origin": "Carmel, IN United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Us Heit Dubbel Tarwe Bier",
     "BeerStyle": "Wheat Beer - Other",
     "BreweryName": "De Friese Bierbrouwerij",
+    "Origin": "Bolsward, Fryslân Netherlands",
     "BeerAbv": "8",
     "BeerIbu": "35",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Jonkers",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Stellenbrau",
+    "Origin": "Stellenbosch, Western Cape South Africa",
     "BeerAbv": "4.5",
     "BeerIbu": "10",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "La Orilla",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Náufrago Cerveza Artesanal",
+    "Origin": "Santiago de Surco, Lima Peru",
     "BeerAbv": "4.4",
     "BeerIbu": "18",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Oyster Stout",
     "BeerStyle": "Stout - Oyster",
     "BreweryName": "Whitstable Brewery",
+    "Origin": "Maidstone, Kent England",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Chouffe Bok 6666",
     "BeerStyle": "Bock - Single / Traditional",
     "BreweryName": "Brasserie d'Achouffe",
+    "Origin": "Houffalize, Région Wallonne Belgium",
     "BeerAbv": "6.66",
     "BeerIbu": "19",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Mentally Girthy",
     "BeerStyle": "Homebrew, Pale Ale - American",
     "BreweryName": "Nemo Brew Co",
+    "Origin": "United States",
     "BeerAbv": "5.9",
     "BeerIbu": "34",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Pilsen",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Cerveja Severa",
+    "Origin": "Sinop, Mato Grosso Brazil",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Chouffe Bière de Mars",
     "BeerStyle": "Farmhouse Ale - Bière de Mars",
     "BreweryName": "Brasserie d'Achouffe",
+    "Origin": "Houffalize, Région Wallonne Belgium",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "American Stout",
     "BeerStyle": "Stout - American",
     "BreweryName": "Zavod",
+    "Origin": "Khimki, Moskovskaya oblast' Russia",
     "BeerAbv": "6.5",
     "BeerIbu": "40",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Porter",
     "BeerStyle": "Porter - American",
     "BreweryName": "Stolz",
+    "Origin": "Libertad, Departamento de San José Uruguay",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Boss Hog",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Lancaster Brewing Company",
+    "Origin": "Lancaster, PA United States",
     "BeerAbv": "9",
     "BeerIbu": "45",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Sörmlands India Pale Ale (SIPA)",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Blacksta Brygghus",
+    "Origin": "Flen, Södermanlands län Sweden",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Bière du Lion",
     "BeerStyle": "Belgian Strong Golden Ale",
     "BreweryName": "Brasserie de Vervifontaine",
+    "Origin": "Jalhay, Région Wallonne Belgium",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "El Shandito",
     "BeerStyle": "Shandy / Radler",
     "BreweryName": "Crown Brewing Company",
+    "Origin": "Crown Point, IN United States",
     "BeerAbv": "3.2",
     "BeerIbu": "28",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Flame Haired Hop Rod",
     "BeerStyle": "Homebrew, IPA - American",
     "BreweryName": "Flame Haired Brewery",
+    "Origin": "England",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Moose Juice Stout",
     "BeerStyle": "Stout - American",
     "BreweryName": "Grand Teton Brewing",
+    "Origin": "Victor, ID United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Hazy Down Under",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "North Jetty Brewing",
+    "Origin": "Seaview, WA United States",
     "BeerAbv": "6",
     "BeerIbu": "34",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Black Mamba (Bourbon Barrel Aged)",
     "BeerStyle": "Stout - American",
     "BreweryName": "Aviator Brewing Company",
+    "Origin": "Fuquay-Varina, NC United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Kelpie Seaweed Ale",
     "BeerStyle": "Historical Beer - Other",
     "BreweryName": "Williams Brothers Brewing Co.",
+    "Origin": "Kelliebank, Clackmannanshire Scotland",
     "BeerAbv": "4.4",
     "BeerIbu": "15",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Rouge Brut IPA",
     "BeerStyle": "IPA - Brut",
     "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
     "BeerAbv": "7.5",
     "BeerIbu": "25",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Oude Gueuze",
     "BeerStyle": "Lambic - Gueuze",
     "BreweryName": "Hanssens Artisanaal",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
     "BeerAbv": "6",
     "BeerIbu": "15",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Lager Beer",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "Innis & Gunn",
+    "Origin": "Edinburgh, Scotland",
     "BeerAbv": "4.6",
     "BeerIbu": "21",
     "HallRating": null

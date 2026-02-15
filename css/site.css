@@ -657,3 +657,204 @@ ul.preview-list a {
   color: var(--text-muted);
   margin: 0;
 }
+
+/* Beers page – filter panel and leaderboard table */
+.beers-page {
+  max-width: 1000px;
+}
+
+.filter-panel {
+  margin-bottom: 1.5rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.filter-tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 1rem;
+}
+
+.filter-tab {
+  padding: 0.4rem 1rem;
+  font-size: 0.95rem;
+  font-family: inherit;
+  background: none;
+  border: 1px solid var(--border);
+  border-bottom: 0;
+  margin-bottom: -1px;
+  cursor: pointer;
+  color: var(--text-muted);
+  text-decoration: none;
+  border-radius: 4px 4px 0 0;
+}
+
+.filter-tab:hover {
+  color: var(--text);
+}
+
+.filter-tab--active {
+  background: var(--bg);
+  color: var(--text);
+  font-weight: 600;
+  border-color: var(--border);
+}
+
+.filter-form {
+  padding: 0.75rem 0;
+}
+
+.filter-row {
+  margin-bottom: 0.75rem;
+}
+
+.filter-row--inline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.filter-label {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 0.25rem;
+}
+
+.filter-input,
+.filter-select {
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  padding: 0.4rem 0.6rem;
+  font-size: 0.95rem;
+  font-family: inherit;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+}
+
+.filter-row--inline .filter-group {
+  max-width: 200px;
+}
+
+.filter-row--inline .filter-label {
+  margin-bottom: 0.2rem;
+}
+
+.filter-range {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.filter-range .filter-select {
+  max-width: 5rem;
+}
+
+.filter-range-sep {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.filter-helper {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-top: 0.2rem;
+}
+
+.filter-actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  font-size: 0.95rem;
+  font-family: inherit;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+
+.btn--primary {
+  background: var(--accent);
+  color: var(--bg);
+  border-color: var(--accent);
+}
+
+.btn--primary:hover {
+  background: var(--accent-hover);
+  border-color: var(--accent-hover);
+}
+
+.btn--secondary {
+  background: var(--bg);
+  color: var(--text);
+  border-color: var(--border);
+}
+
+.btn--secondary:hover {
+  background: var(--border-light);
+}
+
+.btn-icon {
+  margin-right: 0.25rem;
+  font-size: 0.75em;
+}
+
+/* Beers leaderboard table – green links, sortable headers */
+.beers-leaderboard-table {
+  font-size: 0.9rem;
+}
+
+.beers-leaderboard-table th,
+.beers-leaderboard-table td {
+  padding: 0.5rem 0.6rem;
+  vertical-align: top;
+}
+
+.beers-leaderboard-table thead th {
+  font-weight: 600;
+  color: var(--text);
+  border-bottom: 2px solid var(--border);
+}
+
+.beers-leaderboard-table tbody td a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.beers-leaderboard-table tbody td a:hover {
+  text-decoration: underline;
+}
+
+.beers-col-num {
+  width: 2.5rem;
+  text-align: right;
+  color: var(--text-muted);
+}
+
+.beers-col-sort {
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.beers-col-sort:hover {
+  color: var(--accent);
+}
+
+.sort-indicator {
+  opacity: 0.4;
+  font-size: 0.75em;
+}
+
+.col-filter-icon {
+  margin-left: 0.2rem;
+  opacity: 0.5;
+  font-size: 0.85em;
+}

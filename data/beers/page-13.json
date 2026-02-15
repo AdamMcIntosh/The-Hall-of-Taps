@@ -4,6 +4,7 @@
     "BeerName": "River City Red Ale",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Route 66 Brewery",
+    "Origin": "St. Louis, MO United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Selfish As Time",
     "BeerStyle": "Sour - Traditional Gose",
     "BreweryName": "Freetail Brewing Co.",
+    "Origin": "San Antonio, TX United States",
     "BeerAbv": "3.7",
     "BeerIbu": "10",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Mile Marker Amber Lager",
     "BeerStyle": "Lager - American Amber / Red",
     "BreweryName": "Route 66 Brewery",
+    "Origin": "St. Louis, MO United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Coffee Maude",
     "BeerStyle": "Stout - Russian Imperial",
     "BreweryName": "Pinthouse Brewing",
+    "Origin": "Austin, TX United States",
     "BeerAbv": "10",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Lake Shore Light",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Route 66 Brewery",
+    "Origin": "St. Louis, MO United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Piña Colada Heisenberg",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "LauderAle",
+    "Origin": "Fort Lauderdale, FL United States",
     "BeerAbv": "4.8",
     "BeerIbu": "24",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Sloe Berliner",
     "BeerStyle": "Sour - Berliner Weisse",
     "BreweryName": "Vega Bryggeri",
+    "Origin": "Gothenburg, Västra Götalands län Sweden",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Razz-Wheat",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Oaken Barrel Brewing Company",
+    "Origin": "Greenwood, IN United States",
     "BeerAbv": "5.1",
     "BeerIbu": "12",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Chimay Grande Réserve (Blue) (1997)",
     "BeerStyle": "Belgian Strong Dark Ale",
     "BreweryName": "Bières de Chimay",
+    "Origin": "Chimay, Région Wallonne Belgium",
     "BeerAbv": "9",
     "BeerIbu": "35",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "P.M.G. Gose",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "Port Orleans Brewing Co.",
+    "Origin": "New Orleans, LA United States",
     "BeerAbv": "4.5",
     "BeerIbu": "13",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Snake Pit Porter",
     "BeerStyle": "Porter - Baltic",
     "BreweryName": "Oaken Barrel Brewing Company",
+    "Origin": "Greenwood, IN United States",
     "BeerAbv": "5.8",
     "BeerIbu": "41",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Indiana Amber",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Oaken Barrel Brewing Company",
+    "Origin": "Greenwood, IN United States",
     "BeerAbv": "5.3",
     "BeerIbu": "28",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Jagr 68",
     "BeerStyle": "Homebrew, Pilsner - Czech / Bohemian",
     "BreweryName": "Sven Östlund",
+    "Origin": "Sweden",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Pils 42",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Stadin Panimo",
+    "Origin": "Helsinki, Uusimaa Finland",
     "BeerAbv": "5.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Red Bird Mild",
     "BeerStyle": "Mild - Dark",
     "BreweryName": "Broad Ripple Brewpub",
+    "Origin": "Indianapolis, IN United States",
     "BeerAbv": "4",
     "BeerIbu": "20",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Endelave Tang 16",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
     "BreweryName": "Endelave Bryggerlaug",
+    "Origin": "Denmark",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Exeepa 19.5 (Experimental IPA)",
     "BeerStyle": "IPA - American",
     "BreweryName": "Black Forest Brewing Company",
+    "Origin": "Black Forest, CO United States",
     "BeerAbv": "7.1",
     "BeerIbu": "85",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Mexican Lager",
     "BeerStyle": "Lager - Mexican",
     "BreweryName": "Iechyd Da Brewing Company",
+    "Origin": "Elkhart, IN United States",
     "BeerAbv": "5.5",
     "BeerIbu": "22",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Lawn Mower Pale Ale",
     "BeerStyle": "Pale Ale - English",
     "BreweryName": "Broad Ripple Brewpub",
+    "Origin": "Indianapolis, IN United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Golden Ale",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Cuatro Gatos",
+    "Origin": "Villa Crespo, Ciudad Autónoma de Buenos Aires Argentina",
     "BeerAbv": "5",
     "BeerIbu": "45",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Wheat Beer",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Broad Ripple Brewpub",
+    "Origin": "Indianapolis, IN United States",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Mango Cumulus",
     "BeerStyle": "IPA - American",
     "BreweryName": "Hailstorm Brewing Co.",
+    "Origin": "Tinley Park, IL United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Dirty Helen",
     "BeerStyle": "Brown Ale - American",
     "BreweryName": "Barley Island Brewing Company",
+    "Origin": "Noblesville, IN United States",
     "BeerAbv": "5.2",
     "BeerIbu": "25",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Distant Dreams",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "Foam Brewers",
+    "Origin": "Burlington, VT United States",
     "BeerAbv": "3.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "India Pale Lager",
     "BeerStyle": "Homebrew, Lager - IPL (India Pale Lager)",
     "BreweryName": "Mocker",
+    "Origin": "Sweden",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null

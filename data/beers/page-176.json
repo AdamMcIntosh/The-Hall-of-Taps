@@ -4,6 +4,7 @@
     "BeerName": "El Guapo's Revenge",
     "BeerStyle": "Mead - Session / Short",
     "BreweryName": "Etowah Meadery",
+    "Origin": "Dahlonega, GA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "30",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Sour Strawberry Punch",
     "BeerStyle": "Homebrew, Shandy / Radler",
     "BreweryName": "Debrick Brewing Company",
+    "Origin": "United States",
     "BeerAbv": "3",
     "BeerIbu": "6",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Honey Weiss",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
     "BreweryName": "Rail House Brewing Company",
+    "Origin": "Marinette, WI United States",
     "BeerAbv": "5.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Henna: Double Rainbow (2017)",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "More Brewing Company",
+    "Origin": "Huntley, IL United States",
     "BeerAbv": "11.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Пшеничное",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Йохан-Пивохан",
+    "Origin": "Tomsk, Томская область Russia",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Nut Brown",
     "BeerStyle": "Brown Ale - English",
     "BreweryName": "Redhook Brewery",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "5.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "El Combi",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "La Reforma Brewery",
+    "Origin": "Albuquerque, NM United States",
     "BeerAbv": "7.6",
     "BeerIbu": "70",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Esker Alt",
     "BeerStyle": "Altbier - Traditional",
     "BreweryName": "Slab City Brewing",
+    "Origin": "Bonduel, WI United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Luddite",
     "BeerStyle": "Bitter - Session / Ordinary",
     "BreweryName": "Mill Valley Brewery Northern Ltd Cleckheaton",
+    "Origin": "Cleckheaton, West Yorkshire England",
     "BeerAbv": "3.8",
     "BeerIbu": "30",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Alpine Glacier Pilsner Lager",
     "BeerStyle": "Pilsner - German",
     "BreweryName": "Tommyknocker Brewery",
+    "Origin": "Idaho Springs, CO United States",
     "BeerAbv": "5.1",
     "BeerIbu": "31",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Pink Boots",
     "BeerStyle": "IPA - Sour",
     "BreweryName": "Stone Brewing",
+    "Origin": "Escondido, CA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "EKU Pils",
     "BeerStyle": "Pilsner - German",
     "BreweryName": "Kulmbacher Brauerei",
+    "Origin": "Kulmbach, Bayern Germany",
     "BeerAbv": "4.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Mango Unchained",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Lake Stevens Brewing Company",
+    "Origin": "Lake Stevens, WA United States",
     "BeerAbv": "5.2",
     "BeerIbu": "12",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Platz Summer Session",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Õllenaut",
+    "Origin": "Saku, Harju maakond Estonia",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Witbier",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Gray Brewing Co.",
+    "Origin": "Janesville, WI United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Cerveza Negra",
     "BeerStyle": "Lager - Dark",
     "BreweryName": "San Miguel Brewery",
+    "Origin": "Mandaluyong, Metro Manila Philippines",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Red Dawn",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Macushla Brewing Co.",
+    "Origin": "Glenview, IL United States",
     "BeerAbv": "5",
     "BeerIbu": "20",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Whole Earth Organic Sparkling Ginger",
     "BeerStyle": "Hard Ginger Beer",
     "BreweryName": "Whole Earth",
+    "Origin": null,
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Rousse/Dark",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Sleeman Breweries Ltd.",
+    "Origin": "Guelph, ON Canada",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Summer Moon",
     "BeerStyle": "Kölsch",
     "BreweryName": "New Belgium Brewing Company",
+    "Origin": "Fort Collins, CO United States",
     "BeerAbv": "4.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "White Stout",
     "BeerStyle": "Stout - Other",
     "BreweryName": "Sandport Beer",
+    "Origin": "Pak Kret, จังหวัดนนทบุรี Thailand",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Kombucha Cream Ale Experimental",
     "BeerStyle": "Cream Ale",
     "BreweryName": "Brew Lab",
+    "Origin": "Overland Park, KS United States",
     "BeerAbv": "4.5",
     "BeerIbu": "10",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Bert Grants Deep Powder Winter Ale",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Yakima Brewing  / Bert Grant's Ales",
+    "Origin": "Yakima, WA United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Пэйл Эль",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Йохан-Пивохан",
+    "Origin": "Tomsk, Томская область Russia",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "7 Weeks of Staying Up All Night",
     "BeerStyle": "Table Beer",
     "BreweryName": "Sawdust City Brewing Co.",
+    "Origin": "Gravenhurst, ON Canada",
     "BeerAbv": "4.5",
     "BeerIbu": "12",
     "HallRating": null

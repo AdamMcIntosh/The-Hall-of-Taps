@@ -4,6 +4,7 @@
     "BeerName": "Blue Spark",
     "BeerStyle": "Sour - Berliner Weisse",
     "BreweryName": "Burnt Hickory Brewery",
+    "Origin": "Kennesaw, GA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Class of AWAL",
     "BeerStyle": "Pilsner - Czech / Bohemian",
     "BreweryName": "Bedlam Brewery",
+    "Origin": "Plumpton, East Sussex England",
     "BeerAbv": "4.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Birthday Bomb!",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Prairie Artisan Ales",
+    "Origin": "Krebs, OK United States",
     "BeerAbv": "13",
     "BeerIbu": "65",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Porter",
     "BeerStyle": "Porter - American",
     "BreweryName": "South Shore Brewery",
+    "Origin": "Ashland, WI United States",
     "BeerAbv": "5.8",
     "BeerIbu": "28",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "La Grisette",
     "BeerStyle": "Farmhouse Ale - Grisette",
     "BreweryName": "KROIS Brewery",
+    "Origin": "Sopron, Dunántúl Hungary",
     "BeerAbv": "4",
     "BeerIbu": "11",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Trailcake",
     "BeerStyle": "Homebrew, Stout - Russian Imperial",
     "BreweryName": "Smithwick Brew Factory (Homebrew)",
+    "Origin": null,
     "BeerAbv": "10.5",
     "BeerIbu": "43",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "American Pale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "South Shore Brewery",
+    "Origin": "Ashland, WI United States",
     "BeerAbv": "6.3",
     "BeerIbu": "55",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Nut Brown Ale",
     "BeerStyle": "Brown Ale - English",
     "BreweryName": "South Shore Brewery",
+    "Origin": "Ashland, WI United States",
     "BeerAbv": "5.8",
     "BeerIbu": "17",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Verdener Speziales Hellbier",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "Krinitsa (Криница)",
+    "Origin": "Minsk, Minsk Region Belarus",
     "BeerAbv": "4.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Pliny the Paperclip (2016)",
     "BeerStyle": "Homebrew, IPA - Imperial / Double",
     "BreweryName": "Lazy Dax Brewing",
+    "Origin": "Houston, TX United States",
     "BeerAbv": "8.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Inland Sea Pilsener",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "South Shore Brewery",
+    "Origin": "Ashland, WI United States",
     "BeerAbv": "6",
     "BeerIbu": "20",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Stuivezand Paladijn",
     "BeerStyle": "Homebrew, Belgian Tripel",
     "BreweryName": "FB Hobby Brouwerij Stuivezand",
+    "Origin": "Netherlands",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Flannel Lingerie",
     "BeerStyle": "Homebrew, Porter - Other",
     "BreweryName": "Beeros",
+    "Origin": "United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "La Moneuse Spéciale Noël",
     "BeerStyle": "Winter Ale",
     "BreweryName": "Brasserie de Blaugies",
+    "Origin": "Dour, Région Wallonne Belgium",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Corsendonk Christmas Ale",
     "BeerStyle": "Winter Ale",
     "BreweryName": "Brouwerij Corsendonk",
+    "Origin": "Turnhout, Vlaams Gewest Belgium",
     "BeerAbv": "8.1",
     "BeerIbu": "23",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Blood of My Blood",
     "BeerStyle": "IPA - American",
     "BreweryName": "Threshold Brewing & Blending",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Sangria Bretta",
     "BeerStyle": "Brett Beer",
     "BreweryName": "Coalition Brewing Co.",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "5.5",
     "BeerIbu": "5",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Knock Out (K-O)",
     "BeerStyle": "Belgian Strong Golden Ale",
     "BreweryName": "De Proefbrouwerij",
+    "Origin": "Lochristi, Vlaams Gewest Belgium",
     "BeerAbv": "10",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Skagen Bunker India Pale Ale",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Bryggeriet Vestkysten",
+    "Origin": "Løkken, Region Nordjylland Denmark",
     "BeerAbv": "5.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "B-Weisser",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Rock & Run Brewery and Pub",
+    "Origin": "Liberty, MO United States",
     "BeerAbv": "3.5",
     "BeerIbu": "12",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "St-Feuillien Brune",
     "BeerStyle": "Belgian Dubbel",
     "BreweryName": "Brasserie St-Feuillien",
+    "Origin": "Le Rœulx, Région Wallonne Belgium",
     "BeerAbv": "8.5",
     "BeerIbu": "24",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Amarillo Pale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Smylie Brothers Brewing Company",
+    "Origin": "Evanston, IL United States",
     "BeerAbv": "5.4",
     "BeerIbu": "30",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "F.U.N. Series 014: Roll In the Hay",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Karbach Brewing Co.",
+    "Origin": "Houston, TX United States",
     "BeerAbv": "7.5",
     "BeerIbu": "20",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Grottenbier",
     "BeerStyle": "Brown Ale - Belgian",
     "BreweryName": "Brouwerij St. Bernardus",
+    "Origin": "Poperinge, Vlaams Gewest Belgium",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Dick's Barley Wine Ale",
     "BeerStyle": "Barleywine - American",
     "BreweryName": "Dick’s Brewing Company",
+    "Origin": "Centralia, WA United States",
     "BeerAbv": "9.9",
     "BeerIbu": "0",
     "HallRating": null

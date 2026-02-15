@@ -4,6 +4,7 @@
     "BeerName": "Hard Ice Blue Bullet",
     "BeerStyle": "Mead - Other",
     "BreweryName": "Winterland Beverages",
+    "Origin": null,
     "BeerAbv": "6.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Le Coup de Canon",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Brasserie des Légendes",
+    "Origin": "Ath, Région Wallonne Belgium",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Alternator",
     "BeerStyle": "Altbier - Traditional",
     "BreweryName": "Ellensburg Brewery",
+    "Origin": "Ellensburg, WA United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Leggera",
     "BeerStyle": "IPA - Session",
     "BreweryName": "Biova Project",
+    "Origin": "Turin, Piemonte Italy",
     "BeerAbv": "3.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Goat Got Out Again",
     "BeerStyle": "IPA - Farmhouse",
     "BreweryName": "Barquentine Brewing Company",
+    "Origin": "Edgewater, CO United States",
     "BeerAbv": "6.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Boku Berry Braggot",
     "BeerStyle": "Mead - Braggot",
     "BreweryName": "Dangerous Man Brewing Co.",
+    "Origin": "Maple Lake, MN United States",
     "BeerAbv": "8.2",
     "BeerIbu": "60",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Bundaberg",
     "BeerStyle": "Hard Ginger Beer",
     "BreweryName": "Bundaberg Brewed Drinks",
+    "Origin": "Bundaberg East, Queensland Australia",
     "BeerAbv": "1",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Witbier",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Burgdega Hamburgueria Artesanal",
+    "Origin": "Cajazeiras, Paraíba Brazil",
     "BeerAbv": "4.8",
     "BeerIbu": "23",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Clean Slate",
     "BeerStyle": "Homebrew, Cider - Dry",
     "BreweryName": "Falcon's Nest",
+    "Origin": "Houston, TX United States",
     "BeerAbv": "5.25",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Sea Star Sour",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Yachats Brewing",
+    "Origin": "Yachats, OR United States",
     "BeerAbv": "3.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Red Ale",
     "BeerStyle": "Red Ale - Other",
     "BreweryName": "Cervejaria Lélis",
+    "Origin": "Cuiabá, Mato Grosso Brazil",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Ipa Lockdown",
     "BeerStyle": "IPA - American",
     "BreweryName": "Taranaki Ultra Beer",
+    "Origin": "New Zealand",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Lager",
     "BeerStyle": "Non-Alcoholic - Lager",
     "BreweryName": "Athletic Brewing Company",
+    "Origin": "Milford, CT United States",
     "BeerAbv": "0.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Wayward Wild Pale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Container Brewing",
+    "Origin": "Vancouver, BC Canada",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Darwin’s Theory Batch #8",
     "BeerStyle": "IPA - American",
     "BreweryName": "Roscoe Beer Company",
+    "Origin": "Roscoe, NY United States",
     "BeerAbv": "5.7",
     "BeerIbu": "45",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Tropical Paradise（常夏楽園）",
     "BeerStyle": "IPA - Cold",
     "BreweryName": "Distant Shores Brewing Company",
+    "Origin": "Higashimurayama, Tokyo Japan",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "726",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Distillerie Fils Du Roy",
+    "Origin": "Petit-Paquetville, NB Canada",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Bramling Cross Breakfast Stout",
     "BeerStyle": "Stout - English",
     "BreweryName": "Ledbury Real Ales",
+    "Origin": "Ledbury, Herefordshire England",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "MONOHOP ”Citra”",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "SOC Brewing Inc.",
+    "Origin": "Ebetsu, Hokkaido Japan",
     "BeerAbv": "5.5",
     "BeerIbu": "35",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Frambozen-mango Sour",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Ebontree",
+    "Origin": "Dordrecht, Zuid-Holland Netherlands",
     "BeerAbv": "5.8",
     "BeerIbu": "11",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Purple Nurple 2.0",
     "BeerStyle": "Sour - Berliner Weisse",
     "BreweryName": "Grand Canyon Brewing Company",
+    "Origin": "Williams, AZ United States",
     "BeerAbv": "4.2",
     "BeerIbu": "5",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Dark Lager",
     "BeerStyle": "Lager - Dark",
     "BreweryName": "Kosciuszko Brewing Company",
+    "Origin": "Jindabyne, New South Wales Australia",
     "BeerAbv": "4.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Hawthorn Tulsi Meadmosa",
     "BeerStyle": "Cider - Sweet",
     "BreweryName": "Hierophant Meadery & Apothecary",
+    "Origin": "Mead, WA United States",
     "BeerAbv": "12.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Golden On Strawberries",
     "BeerStyle": "Strong Ale - Other",
     "BreweryName": "Yachats Brewing",
+    "Origin": "Yachats, OR United States",
     "BeerAbv": "12",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Black Is Beautiful",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Hana Koa Brewing Co.",
+    "Origin": "Honolulu, HI United States",
     "BeerAbv": "10",
     "BeerIbu": "0",
     "HallRating": null

@@ -4,6 +4,7 @@
     "BeerName": "Mushroom Clouds",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Arkane Aleworks",
+    "Origin": "Largo, FL United States",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Pointless Tastes Like Freedom",
     "BeerStyle": "Old / Stock Ale",
     "BreweryName": "Pointless Brewery & Theatre",
+    "Origin": "Ann Arbor, MI United States",
     "BeerAbv": "7.5",
     "BeerIbu": "42",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Pineapple Gose",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "NOBO Brewing Company",
+    "Origin": "Boynton Beach, FL United States",
     "BeerAbv": "4.25",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Dark Ale",
     "BeerStyle": "Brown Ale - English",
     "BreweryName": "Coopers",
+    "Origin": "Regency Park, South Australia Australia",
     "BeerAbv": "4.5",
     "BeerIbu": "21",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Nice Berries",
     "BeerStyle": "Homebrew, Fruit Beer",
     "BreweryName": "Marsellus Dr. Brewing",
+    "Origin": "Canada",
     "BeerAbv": "4.5",
     "BeerIbu": "17",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Miel De Naranja",
     "BeerStyle": "Mead - Traditional",
     "BreweryName": "La Forja",
+    "Origin": "Palma, Illes Balears Spain",
     "BeerAbv": "10",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Cinder Cone Red Ale",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Deschutes Brewery",
+    "Origin": "Bend, OR United States",
     "BeerAbv": "5.5",
     "BeerIbu": "55",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Big Bird",
     "BeerStyle": "Bitter - Session / Ordinary",
     "BreweryName": "Hektors",
+    "Origin": "Beccles, Suffolk England",
     "BeerAbv": "4.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Rock Out With Your Guac Out",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Scout Brewing",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "5",
     "BeerIbu": "20",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Saison Dupont",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Brasserie Dupont",
+    "Origin": "Leuze-en-Hainaut, Région Wallonne Belgium",
     "BeerAbv": "6.5",
     "BeerIbu": "30",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Lord Crandberry Apple Cider",
     "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
     "BreweryName": "Grandview Winery",
+    "Origin": "United States",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Raspberry Fruit Beer",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Taler (Талер)",
+    "Origin": "Minsk, Minskaja voblasć Belarus",
     "BeerAbv": "5.5",
     "BeerIbu": "10",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Organic Barleywine (2005)",
     "BeerStyle": "Barleywine - American",
     "BreweryName": "Bison Brewing Co.",
+    "Origin": "Berkeley, CA United States",
     "BeerAbv": "9.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Illusion of Safety [Sorbet]",
     "BeerStyle": "Sour - Fruited Gose",
     "BreweryName": "Adroit Theory",
+    "Origin": "Purcellville, VA United States",
     "BeerAbv": "3.9",
     "BeerIbu": "6",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Scoundrel Black IPA",
     "BeerStyle": "IPA - Black / Cascadian Dark Ale",
     "BreweryName": "Railroad City Brewing Company",
+    "Origin": "Altoona, PA United States",
     "BeerAbv": "6.4",
     "BeerIbu": "65",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Old Boardhead (2006)",
     "BeerStyle": "Barleywine - American",
     "BreweryName": "Full Sail Brewing Company",
+    "Origin": "Hood River, OR United States",
     "BeerAbv": "9",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Sidra De Pera",
     "BeerStyle": "Cider - Dry",
     "BreweryName": "Mooma",
+    "Origin": "Spain",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Radler",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Woodwright Brewing Company",
+    "Origin": "Dunedin, FL United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Blue Dot",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Hair of the Dog Brewing Company",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "*Cask* Vanilla Double Espresso Stout",
     "BeerStyle": "Stout - Coffee",
     "BreweryName": "Willimantic Brewing Company",
+    "Origin": "Willimantic, CT United States",
     "BeerAbv": "5.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Dark Chocolate And Sea Salt Porter",
     "BeerStyle": "Porter - American",
     "BreweryName": "McMenamins",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "5.8",
     "BeerIbu": "17",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Nugget",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Full Sail Brewing Company",
+    "Origin": "Hood River, OR United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Infinity Overhead",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "The Brewery At Bacchus",
+    "Origin": "New Paltz, NY United States",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "C.R. Apple Ale",
     "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
     "BreweryName": "Grandview Winery",
+    "Origin": "United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "American Pale Ale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Spanish Peaks Brewery",
+    "Origin": "Bozeman, MT United States",
     "BeerAbv": "5.7",
     "BeerIbu": "0",
     "HallRating": null

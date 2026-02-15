@@ -4,6 +4,7 @@
     "BeerName": "Chili Lime Mexican Lager",
     "BeerStyle": "Lager - Mexican",
     "BreweryName": "Debellation Brewing Co.",
+    "Origin": "Richmond Hill, GA United States",
     "BeerAbv": "5.8",
     "BeerIbu": "22",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Hoppy Xmas",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Brewtal Brewing Bros",
+    "Origin": "San Luis Potosí City, San Luis Potosí Mexico",
     "BeerAbv": "5",
     "BeerIbu": "35",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Wrong Number Who Dis",
     "BeerStyle": "IPA - American",
     "BreweryName": "BEERS by Bacon Bros",
+    "Origin": "Christchurch, Canterbury New Zealand",
     "BeerAbv": "6.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Denim Man",
     "BeerStyle": "Bitter - Session / Ordinary",
     "BreweryName": "Little Animals Brewery",
+    "Origin": "Johnson City, TN United States",
     "BeerAbv": "4",
     "BeerIbu": "30",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Single Hop Simcoe Anosteké",
     "BeerStyle": "IPA - American",
     "BreweryName": "Brasserie du Pays Flamand",
+    "Origin": "Blaringhem, Hauts-de-France France",
     "BeerAbv": "6.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Septiembre 16",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Claroscuro",
+    "Origin": "Ciudad de México, Mexico",
     "BeerAbv": "6.2",
     "BeerIbu": "70",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Keller Pils",
     "BeerStyle": "Kellerbier / Zwickelbier",
     "BreweryName": "East Branch Brewing",
+    "Origin": "Downingtown, PA United States",
     "BeerAbv": "4.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Stone Enjoy By 04.20.18 IPA",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Stone Brewing",
+    "Origin": "Escondido, CA United States",
     "BeerAbv": "9.4",
     "BeerIbu": "90",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Down Under Australian Pale Ale",
     "BeerStyle": "Pale Ale - Australian",
     "BreweryName": "Littleport Brewing Company",
+    "Origin": "Racine, WI United States",
     "BeerAbv": "4.1",
     "BeerIbu": "30",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Haidinger Pils",
     "BeerStyle": "Pilsner - Czech / Bohemian",
     "BreweryName": "Haidinger Brauhaus",
+    "Origin": "Haiding, Oberösterreich Austria",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Crimson Pillar",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "OddPitch Brewing",
+    "Origin": "Missoula, MT United States",
     "BeerAbv": "9",
     "BeerIbu": "65",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Trail Magic",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Cabin Boys Brewery",
+    "Origin": "Tulsa, OK United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Non Essential Activities 2022",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Trophy Brewing Company",
+    "Origin": "Raleigh, NC United States",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Hur Svårt Kan Det Va?",
     "BeerStyle": "Homebrew, IPA - English",
     "BreweryName": "Fyllecellen",
+    "Origin": "Sweden",
     "BeerAbv": "5.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Experimental Hop Blonde",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Intracoastal Brewing Company",
+    "Origin": "Melbourne, FL United States",
     "BeerAbv": "5.5",
     "BeerIbu": "26",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Paco's Test NEIPA",
     "BeerStyle": "Homebrew, IPA - New England / Hazy",
     "BreweryName": "Church Street Brewers",
+    "Origin": "United States",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Oat Deception",
     "BeerStyle": "Stout - Oatmeal",
     "BreweryName": "Sterling Street Brewery",
+    "Origin": "Clinton, MA United States",
     "BeerAbv": "7.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Sapiens II",
     "BeerStyle": "IPA - American",
     "BreweryName": "Cervejaria Dogma",
+    "Origin": "São Paulo, Brazil",
     "BeerAbv": "7.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Crimson Dawn",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "BEERS by Bacon Bros",
+    "Origin": "Christchurch, Canterbury New Zealand",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Currant Lager",
     "BeerStyle": "Lager - Amber / Red",
     "BreweryName": "Roudaripanimo (Roadie Brewery)",
+    "Origin": "Finland",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "ALX --> HLK Black IPA",
     "BeerStyle": "IPA - Black / Cascadian Dark Ale",
     "BreweryName": "Revelation Ale Works",
+    "Origin": "Hallock, MN United States",
     "BeerAbv": "6.9",
     "BeerIbu": "60",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Huge Red Rack",
     "BeerStyle": "Homebrew, IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Blazing Moose",
+    "Origin": "United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "North By Southwest",
     "BeerStyle": "Porter - American",
     "BreweryName": "Turnagain Brewing",
+    "Origin": "Anchorage, AK United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Don't Stand So Kölsch",
     "BeerStyle": "Kölsch",
     "BreweryName": "Six Bridges Brewing",
+    "Origin": "Johns Creek, GA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Cranberry Crumble XX",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Snafu Brewing Company",
+    "Origin": "North Charleston, SC United States",
     "BeerAbv": "4.7",
     "BeerIbu": "0",
     "HallRating": null

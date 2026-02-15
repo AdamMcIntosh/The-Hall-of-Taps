@@ -4,6 +4,7 @@
     "BeerName": "Annapolis Roast",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Noble Stein Brewing Company",
+    "Origin": "Indiana, PA United States",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "La Bouvelle",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Les Petites Réthaises",
+    "Origin": "Rivedoux-Plage, Nouvelle-Aquitaine France",
     "BeerAbv": "4.27",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "PICO : Strata",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Toltèk Brasseur Artisan",
+    "Origin": "Boucherville, QC Canada",
     "BeerAbv": "6.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Lit",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Kettlehead Brewing",
+    "Origin": "Tilton, NH United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Dark & Scholarly",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "The Jolly Scholar",
+    "Origin": "Cleveland, OH United States",
     "BeerAbv": "9.3",
     "BeerIbu": "60",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Juice Box Hero",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Maquoketa Brewing",
+    "Origin": "Maquoketa, IA United States",
     "BeerAbv": "6.9",
     "BeerIbu": "39",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Shangrila (Balthazar)",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Brasseurs du Monde",
+    "Origin": "Saint-Hyacinthe, QC Canada",
     "BeerAbv": "5.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Biertje Van Zwiertje Quadrupel",
     "BeerStyle": "Homebrew, Belgian Quadrupel",
     "BreweryName": "De Koele Brouwer",
+    "Origin": "Netherlands",
     "BeerAbv": "8",
     "BeerIbu": "28",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Blonde Belga",
     "BeerStyle": "Belgian Blonde",
     "BreweryName": "COOP Italy",
+    "Origin": "Casalecchio di Reno, Emilia-Romagna Italy",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "DAVID 8.5 Strong Blond",
     "BeerStyle": "Belgian Strong Golden Ale",
     "BreweryName": "Biosenza",
+    "Origin": "Bilzen-Hoeselt, Vlaams Gewest Belgium",
     "BeerAbv": "8.5",
     "BeerIbu": "32",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Donisl Dunkel",
     "BeerStyle": "Homebrew, Lager - Munich Dunkel",
     "BreweryName": "Bowser Brewing",
+    "Origin": "United States",
     "BeerAbv": "4.9",
     "BeerIbu": "20",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Orca",
     "BeerStyle": "Brown Ale - Other",
     "BreweryName": "John O'Groats Brewery",
+    "Origin": "Wick, Highland Scotland",
     "BeerAbv": "3.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Rose City Open",
     "BeerStyle": "IPA - American",
     "BreweryName": "Little Hop Brewing",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Pow Pow!",
     "BeerStyle": "IPA - Cold",
     "BreweryName": "The Answer",
+    "Origin": "Richmond, VA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Blackberry Brain Freeze",
     "BeerStyle": "IPA - Milkshake",
     "BreweryName": "Maquoketa Brewing",
+    "Origin": "Maquoketa, IA United States",
     "BeerAbv": "4.8",
     "BeerIbu": "31",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Stout Hert",
     "BeerStyle": "Stout - Russian Imperial",
     "BreweryName": "'t Blauwe Hert",
+    "Origin": "Aalsmeer, Noord-Holland Netherlands",
     "BeerAbv": "9.2",
     "BeerIbu": "72",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Gnome-ad",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "McMenamins",
+    "Origin": "Portland, OR United States",
     "BeerAbv": "7.88",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Solace",
     "BeerStyle": "Pale Ale - English",
     "BreweryName": "Woodforde's Brewery",
+    "Origin": "Woodbastwick, Norwich, Norfolk England",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Chunk Town Funk",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "The Libertine Brewing Company",
+    "Origin": "San Luis Obispo, CA United States",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Путч",
     "BeerStyle": "Lager - American",
     "BreweryName": "Time Bomb Brewery",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
     "BeerAbv": "5",
     "BeerIbu": "30",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Route 9 Lager",
     "BeerStyle": "Lager - American",
     "BreweryName": "Barleycorn’s Brewhouse",
+    "Origin": "Wilder, KY United States",
     "BeerAbv": "4.7",
     "BeerIbu": "12",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Blotter Philospher",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Tired Hands Brewing Company",
+    "Origin": "Ardmore, PA United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Dzik Polska Gruszka",
     "BeerStyle": "Cider - Perry / Poiré",
     "BreweryName": "Cydrownia",
+    "Origin": "Poland",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Lemon Balm Mead",
     "BeerStyle": "Mead - Metheglin",
     "BreweryName": "Urban Farm Fermentory",
+    "Origin": "Portland, ME United States",
     "BeerAbv": "10",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Peach Hefeweizen",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Maquoketa Brewing",
+    "Origin": "Maquoketa, IA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null

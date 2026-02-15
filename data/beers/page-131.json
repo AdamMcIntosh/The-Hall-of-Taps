@@ -4,6 +4,7 @@
     "BeerName": "DBB Hopfenzwickel",
     "BeerStyle": "Kellerbier / Zwickelbier",
     "BreweryName": "Dortmunder Bergmann Brauerei",
+    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
     "BeerAbv": "5.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "A Little Lager IPL",
     "BeerStyle": "Lager - IPL (India Pale Lager)",
     "BreweryName": "Rockaway Brewing Company",
+    "Origin": "Long Island City, NY United States",
     "BeerAbv": "6.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "A Sinner's Prayer",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Church End Brewery",
+    "Origin": "Nuneaton, Warwickshire England",
     "BeerAbv": "3.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Guinness Foreign Extra Stout",
     "BeerStyle": "Stout - Foreign / Export",
     "BreweryName": "Guinness",
+    "Origin": "Dublin, County Dublin Ireland",
     "BeerAbv": "7.5",
     "BeerIbu": "47",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Capital City Coffee Mint Stout",
     "BeerStyle": "Stout - American",
     "BreweryName": "Wing Nutt Brewing Company",
+    "Origin": "Altoona, IA United States",
     "BeerAbv": "5.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "PINK LADY",
     "BeerStyle": "Sour - Fruited",
     "BreweryName": "Grindhaus Brew Lab",
+    "Origin": "Clearwater, FL United States",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Jordan's Tart Saison W/ Galaxy Hops & Pineapple",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Council Brewing Company",
+    "Origin": "San Diego, CA United States",
     "BeerAbv": "3.8",
     "BeerIbu": "10",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Dragonhead",
     "BeerStyle": "Stout - Other",
     "BreweryName": "Orkney Brewery",
+    "Origin": "Stromness, Orkney Islands Scotland",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Donkey Dander",
     "BeerStyle": "Altbier - Traditional",
     "BreweryName": "Southerleigh Brewing Co.",
+    "Origin": "San Antonio, TX United States",
     "BeerAbv": "5.5",
     "BeerIbu": "28",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Ciderhead Bourbon Barrel",
     "BeerStyle": "Cider - Traditional / Apfelwein",
     "BreweryName": "Honey Moon",
+    "Origin": "Bellingham, WA United States",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Dundee Porter",
     "BeerStyle": "Porter - Other",
     "BreweryName": "Golden Valley Brewery and Pub",
+    "Origin": "McMinnville, OR United States",
     "BeerAbv": "5.3",
     "BeerIbu": "35",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Björholmen IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Beerbliotek",
+    "Origin": "Gothenburg, Västra Götalands län Sweden",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Dick's Lava Rock Porter",
     "BeerStyle": "Porter - English",
     "BreweryName": "Dick’s Brewing Company",
+    "Origin": "Centralia, WA United States",
     "BeerAbv": "6.2",
     "BeerIbu": "25",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Caribou Slobber",
     "BeerStyle": "Homebrew, Brown Ale - American",
     "BreweryName": "The Angry Cat Brewing Company",
+    "Origin": "United States",
     "BeerAbv": "4",
     "BeerIbu": "32",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Three Threads Porter",
     "BeerStyle": "Porter - American",
     "BreweryName": "Far West Brewing Company",
+    "Origin": "Redmond, WA United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Cyclope Mosaic/Chinook",
     "BeerStyle": "IPA - American",
     "BreweryName": "Brasserie Dunham",
+    "Origin": "Dunham, QC Canada",
     "BeerAbv": "5.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Klášter Tmavé",
     "BeerStyle": "Lager - Tmavé (Czech Dark)",
     "BreweryName": "Pivovar Klášter",
+    "Origin": "Klášter Hradiště nad Jizerou, Středočeský kraj Czech Republic",
     "BeerAbv": "4.1",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "NEIPAtah",
     "BeerStyle": "Homebrew, IPA - New England / Hazy",
     "BreweryName": "Hameh Yatah",
+    "Origin": "Munich, Bavaria Germany",
     "BeerAbv": "5.3",
     "BeerIbu": "184",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Anomaly (2016)",
     "BeerStyle": "Belgian Strong Dark Ale",
     "BreweryName": "Monkish Brewing Co.",
+    "Origin": "Torrance, CA United States",
     "BeerAbv": "8.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Interurban IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Fremont Brewing",
+    "Origin": "Seattle, WA United States",
     "BeerAbv": "6.2",
     "BeerIbu": "80",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Porter",
     "BeerStyle": "Porter - Other",
     "BreweryName": "Privatbrauerei Hoepfner",
+    "Origin": "Karlsruhe, Baden-Württemberg Germany",
     "BeerAbv": "5.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Spritzoli",
     "BeerStyle": "Sour - Berliner Weisse",
     "BreweryName": "O'Connor Brewing Co.",
+    "Origin": "Norfolk, VA United States",
     "BeerAbv": "7.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Two Hearted IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Bell’s Brewery",
+    "Origin": "Comstock, MI United States",
     "BeerAbv": "7",
     "BeerIbu": "55",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Sonic Boom V4 - French-hopped IPA",
     "BeerStyle": "IPA - Other",
     "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
     "BeerAbv": "6.5",
     "BeerIbu": "48",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Ambear Red Ale",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "Cameron's Brewing Company",
+    "Origin": "Oakville, ON Canada",
     "BeerAbv": "5",
     "BeerIbu": "30",
     "HallRating": null

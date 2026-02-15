@@ -4,6 +4,7 @@
     "BeerName": "Big Day IPA",
     "BeerStyle": "Homebrew, IPA - New England / Hazy",
     "BreweryName": "Sign Of IV",
+    "Origin": "United States",
     "BeerAbv": "6.3",
     "BeerIbu": "49",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Hybrid Hoppy Pear",
     "BeerStyle": "Cider - Perry / Poiré",
     "BreweryName": "Bicycle Cider",
+    "Origin": "Denmark",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "SPOUM DES TALUS 2021",
     "BeerStyle": "Brown Ale - Imperial / Double",
     "BreweryName": "Philomenn - Brasserie Artisanale Touken",
+    "Origin": "Minihy-Tréguier, Bretagne France",
     "BeerAbv": "7.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Crusher Impala",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "On Point Brew Co",
+    "Origin": "England",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Meaderita",
     "BeerStyle": "Mead - Other",
     "BreweryName": "Sugar Creek Vineyard and Meadery",
+    "Origin": "Fountain, MN United States",
     "BeerAbv": "12",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Spice Pod",
     "BeerStyle": "Wheat Beer - Dunkelweizen",
     "BreweryName": "Qanu",
+    "Origin": "France",
     "BeerAbv": "5.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Leadoff Coffee",
     "BeerStyle": "Other",
     "BreweryName": "Texas Leaguer Brewing Company",
+    "Origin": "Missouri City, TX United States",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Cranadeo Gold, Slushy Edition",
     "BeerStyle": "Fruit Beer",
     "BreweryName": "Titletown Brewing Company",
+    "Origin": "Green Bay, WI United States",
     "BeerAbv": "5",
     "BeerIbu": "20",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Achteck – Supportersbier",
     "BeerStyle": "Lager - Helles",
     "BreweryName": "orca brau",
+    "Origin": "Nuremberg, Bayern Germany",
     "BeerAbv": "5.4",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Taste the Sound",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Green Cheek Beer Company",
+    "Origin": "Orange, CA United States",
     "BeerAbv": "8.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Playing In the Shadows 13.0",
     "BeerStyle": "IPA - American",
     "BreweryName": "Deciduous Brewing Company",
+    "Origin": "Newmarket, NH United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Brand Herfstbier Ijsbock (2021)",
     "BeerStyle": "Homebrew, Bock - Eisbock",
     "BreweryName": "Roel Peijs Homebrew",
+    "Origin": "Netherlands",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Island Brewery",
+    "Origin": "Nagasaki, Japan",
     "BeerAbv": "6.5",
     "BeerIbu": "60",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Vihamij No 87 Zutphen",
     "BeerStyle": "Pilsner - Czech / Bohemian",
     "BreweryName": "Pivovar Antoš",
+    "Origin": "Slaný 1, Středočeský kraj Czech Republic",
     "BeerAbv": "4.7",
     "BeerIbu": "30",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Meteora",
     "BeerStyle": "Pale Ale - New England / Hazy",
     "BreweryName": "Maresme Brewery",
+    "Origin": "Badalona, Catalonia Spain",
     "BeerAbv": "5",
     "BeerIbu": "15",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Tropical Pineapple Kolsch",
     "BeerStyle": "Kölsch",
     "BreweryName": "Genesee Brewing Company",
+    "Origin": "Rochester, NY United States",
     "BeerAbv": "4.5",
     "BeerIbu": "8",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Swimming Upstream",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Green Cheek Beer Company",
+    "Origin": "Orange, CA United States",
     "BeerAbv": "7",
     "BeerIbu": "0",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Пивная карта. Sabro IPA",
     "BeerStyle": "IPA - Other",
     "BreweryName": "Krinitsa (Криница)",
+    "Origin": "Minsk, Minsk Region Belarus",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Saison",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Midtfyns Bryghus",
+    "Origin": "Årslev, Region Syddanmark Denmark",
     "BeerAbv": "4.5",
     "BeerIbu": "17",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Kuusenkerkkä Saison (2021)",
     "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
     "BreweryName": "Seitsemän Veljeksen Olutkilta",
+    "Origin": "Finland",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Catraio Christmas By Burguesa 2021",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Burguesa",
+    "Origin": "Vila Nova de Gaia, Porto District Portugal",
     "BeerAbv": "11.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "Fruitig Blond",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Brouwerij De Betuwe",
+    "Origin": "Asch, Gelderland Netherlands",
     "BeerAbv": "5.7",
     "BeerIbu": "0",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Triple Berry",
     "BeerStyle": "Mead - Melomel",
     "BreweryName": "Sugar Creek Vineyard and Meadery",
+    "Origin": "Fountain, MN United States",
     "BeerAbv": "12",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Henna: Fluffernutter (2021)",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "More Brewing Company",
+    "Origin": "Huntley, IL United States",
     "BeerAbv": "14",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Double Ratatöskr",
     "BeerStyle": "Homebrew, Brown Ale - Imperial / Double",
     "BreweryName": "Gröner Bagalut",
+    "Origin": "Oersdorf, Schleswig-Holstein Germany",
     "BeerAbv": "8.4",
     "BeerIbu": "45",
     "HallRating": null

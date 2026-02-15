@@ -4,6 +4,7 @@
     "BeerName": "Feathers",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Beak",
+    "Origin": "Lewes, East Sussex England",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -13,6 +14,7 @@
     "BeerName": "Witbier",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
     "BreweryName": "Creemore Springs",
+    "Origin": "Creemore, ON Canada",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -22,6 +24,7 @@
     "BeerName": "Hazy Hoppy Pale",
     "BeerStyle": "Pale Ale - English",
     "BreweryName": "All Day Brewing Company",
+    "Origin": "Norwich, Norfolk England",
     "BeerAbv": "4",
     "BeerIbu": "0",
     "HallRating": null
@@ -31,6 +34,7 @@
     "BeerName": "Érable à Giguère 2022",
     "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "La Souche Microbrasserie",
+    "Origin": "Quebec, QC Canada",
     "BeerAbv": "6.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -40,6 +44,7 @@
     "BeerName": "Expedition Stout",
     "BeerStyle": "Stout - Russian Imperial",
     "BreweryName": "Bell’s Brewery",
+    "Origin": "Comstock, MI United States",
     "BeerAbv": "10.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -49,6 +54,7 @@
     "BeerName": "Here Comes the Flood",
     "BeerStyle": "Lager - American Light",
     "BreweryName": "Windmill Brewing",
+    "Origin": "Dyer, IN United States",
     "BeerAbv": "4.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -58,6 +64,7 @@
     "BeerName": "Raspberry Pale",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Lone Tree Brewing Company",
+    "Origin": "Lone Tree, CO United States",
     "BeerAbv": "7.3",
     "BeerIbu": "60",
     "HallRating": null
@@ -67,6 +74,7 @@
     "BeerName": "Dog Beer",
     "BeerStyle": "Belgian Blonde",
     "BreweryName": "The Happy Animal Planet",
+    "Origin": null,
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -76,6 +84,7 @@
     "BeerName": "Toss the Mitts Cold IPA",
     "BeerStyle": "Other",
     "BreweryName": "O.T Brewing Company",
+    "Origin": "Calgary, AB Canada",
     "BeerAbv": "6.9",
     "BeerIbu": "0",
     "HallRating": null
@@ -85,6 +94,7 @@
     "BeerName": "Sour Cherry Cider",
     "BeerStyle": "Cider - Sweet",
     "BreweryName": "Listermann Brewing Company",
+    "Origin": "Cincinnati, OH United States",
     "BeerAbv": "6.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -94,6 +104,7 @@
     "BeerName": "Ginger Beer Shandy",
     "BeerStyle": "Shandy / Radler",
     "BreweryName": "Montclair Brewery",
+    "Origin": "Montclair, NJ United States",
     "BeerAbv": "2.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -103,6 +114,7 @@
     "BeerName": "Kiwi IPA",
     "BeerStyle": "IPA - Other",
     "BreweryName": "BPJ Brewing",
+    "Origin": "France",
     "BeerAbv": "7.3",
     "BeerIbu": "0",
     "HallRating": null
@@ -112,6 +124,7 @@
     "BeerName": "Paradiddle",
     "BeerStyle": "IPA - Sour",
     "BreweryName": "Ghost Note Brewing",
+    "Origin": "Dripping Springs, TX United States",
     "BeerAbv": "4.1",
     "BeerIbu": "4",
     "HallRating": null
@@ -121,6 +134,7 @@
     "BeerName": "Cotton Candy Cider",
     "BeerStyle": "Cider - Sweet",
     "BreweryName": "Stable Craft Brewing",
+    "Origin": "Waynesboro, VA United States",
     "BeerAbv": "5",
     "BeerIbu": "0",
     "HallRating": null
@@ -130,6 +144,7 @@
     "BeerName": "Candy Castle",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Natchez Brewing Company",
+    "Origin": "Natchez, MS United States",
     "BeerAbv": "8",
     "BeerIbu": "0",
     "HallRating": null
@@ -139,6 +154,7 @@
     "BeerName": "Bourbon County Coffee Select Stout - Dark Matter",
     "BeerStyle": "Stout - Imperial / Double Coffee",
     "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
     "BeerAbv": "13.8",
     "BeerIbu": "0",
     "HallRating": null
@@ -148,6 +164,7 @@
     "BeerName": "Vetra Pale",
     "BeerStyle": "IPA - American",
     "BreweryName": "Vetra",
+    "Origin": "Milano, Lombardia Italy",
     "BeerAbv": "5.4",
     "BeerIbu": "40",
     "HallRating": null
@@ -157,6 +174,7 @@
     "BeerName": "Coconut Bengal",
     "BeerStyle": "Stout - American",
     "BreweryName": "3 Gatos Brewery",
+    "Origin": "Wyoming, MI United States",
     "BeerAbv": "6.2",
     "BeerIbu": "0",
     "HallRating": null
@@ -166,6 +184,7 @@
     "BeerName": "Rough Translation",
     "BeerStyle": "Kölsch",
     "BreweryName": "Green Cheek Beer Company",
+    "Origin": "Orange, CA United States",
     "BeerAbv": "4.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -175,6 +194,7 @@
     "BeerName": "Michem",
     "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Brasserie Tandem",
+    "Origin": "Wambrechies, Hauts-de-France France",
     "BeerAbv": "5.5",
     "BeerIbu": "0",
     "HallRating": null
@@ -184,6 +204,7 @@
     "BeerName": "Lederheizen",
     "BeerStyle": "Wheat Beer - Hefeweizen",
     "BreweryName": "Bearden Brewhouse",
+    "Origin": "Knoxville, TN United States",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null
@@ -193,6 +214,7 @@
     "BeerName": "BOOZER Victory",
     "BeerStyle": "Bock - Single / Traditional",
     "BreweryName": "Золотой Хмель",
+    "Origin": "Staryy Amanak, Самарская область Russia",
     "BeerAbv": "6.2",
     "BeerIbu": "20",
     "HallRating": null
@@ -202,6 +224,7 @@
     "BeerName": "Farmhouse Ale",
     "BeerStyle": "Homebrew, Farmhouse Ale - Other",
     "BreweryName": "Microbrewery Gent",
+    "Origin": "Belgium",
     "BeerAbv": "0",
     "BeerIbu": "0",
     "HallRating": null
@@ -211,6 +234,7 @@
     "BeerName": "Marvoloso 2021: V10",
     "BeerStyle": "Stout - Imperial / Double Pastry",
     "BreweryName": "Commonwealth Brewing Company",
+    "Origin": "Virginia Beach, VA United States",
     "BeerAbv": "14.6",
     "BeerIbu": "0",
     "HallRating": null
@@ -220,6 +244,7 @@
     "BeerName": "Keep Up",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Odyssey Brew Co",
+    "Origin": "Whitbourne, Herefordshire England",
     "BeerAbv": "6",
     "BeerIbu": "0",
     "HallRating": null

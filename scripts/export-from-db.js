@@ -94,6 +94,7 @@ function run() {
       b.BeerName,
       b.BeerStyle AS BeerStyle,
       br.BreweryName,
+      br.Location AS Origin,
       b.BeerAbv AS BeerAbv,
       b.BeerIbu AS BeerIbu,
       bi.TAP AS HallRating
