@@ -48,7 +48,8 @@
     <main class="content-main">
       <article class="featured">
         <h1 class="featured-title">Hall of Taps Beers of the Year</h1>
-        <p class="featured-meta">Hall of Taps, 2019 – In which we pick our favorites.</p>
+        <p class="featured-meta">Hall of Taps, <span id="current-year"></span> – In which we pick our favorites.</p>
+        <script>document.getElementById('current-year').textContent=new Date().getFullYear();</script>
         <figure class="featured-figure">
           <div class="featured-image-placeholder" aria-hidden="true">
             <span>Featured</span>
