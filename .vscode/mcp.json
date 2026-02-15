@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "roland": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "D:/projects/roland/dist/index.js"
+      ]
+    }
+  }
+}

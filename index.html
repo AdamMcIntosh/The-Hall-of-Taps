@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Welcome to the Hall of Taps</title>
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+  <div class="wrap">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="beers.html">Rated Beers</a>
+      <a href="breweries.html">Breweries With Rated Beers</a>
+      <a href="welcome.html">Welcome</a>
+      <a href="about.html">About</a>
+    </nav>
+
+    <h1 class="page-title">Welcome to the Hall of Taps</h1>
+    <p class="subtitle">An alternative craft beer hall of fame</p>
+
+    <h2>2019 Hall Nominees Preview</h2>
+    <ul id="preview-list" class="preview-list">
+      <li class="loading">Loading…</li>
+    </ul>
+
+    <h2>On Tap</h2>
+    <p><a href="welcome.html">Welcome</a></p>
+
+    <h3>Is there a way to objectively determine the best beer?</h3>
+    <p><a href="about.html">The Hall of Taps gives us that answer.</a></p>
+
+    <blockquote>
+      We look at all the beers people are drinking and quantify which ones are the best.
+      Just because a million people have checked-in Bells Two-Hearted Ale that doesn't mean
+      there isn't a better beer with only one hundred check-ins.
+    </blockquote>
+  </div>
+  <script src="js/site.js"></script>
+  <script>
+    if (window.HallOfTaps) HallOfTaps.loadPreview(document.getElementById('preview-list'));
+  </script>
+</body>
+</html>
