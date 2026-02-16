@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4446222",
-    "BeerName": "CitruSea",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Coronado Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3340649,
+    "BeerName": "El Dorado Smash",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Torrent Brewing Company",
+    "Origin": "Ames, IA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 53.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4630983",
-    "BeerName": "Buff Guy",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Shippingport Brewing Company",
-    "Origin": "Louisville, KY United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3342721,
+    "BeerName": "Barrel O’ Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Torrent Brewing Company",
+    "Origin": "Ames, IA United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4446223",
-    "BeerName": "Straight From the Lab #3",
-    "BeerStyle": "Pale Ale - New Zealand",
-    "BreweryName": "Novel Strand Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": "5.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815754",
-    "BeerName": "Buffalo Belgian Stout (2012)",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Brouwerij Van Den Bossche",
-    "Origin": "Herzele, Vlaams Gewest Belgium",
-    "BeerAbv": "9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815755",
-    "BeerName": "Giorgina",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Milana Brewing",
-    "Origin": "Montemayor de Pililla, Castilla y León Spain",
-    "BeerAbv": "3.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630984",
-    "BeerName": "Távora 1039",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Van Been",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": "11",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446224",
-    "BeerName": "First Anniversary",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Yonder Cider",
-    "Origin": "Wenatchee, WA United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815756",
-    "BeerName": "Citra Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Funky Fluid",
-    "Origin": "Warszawa, Mazowieckie Poland",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630985",
-    "BeerName": "Charter Series #14",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "81Bay Brewing Co.",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": "7.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446225",
-    "BeerName": "2x IPA Azotee",
+    "BID": 4960807,
+    "BeerName": "Lodicus",
     "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Réservoir",
-    "Origin": "Montreal, QC Canada",
-    "BeerAbv": "8.3",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Brecon Brewing",
+    "Origin": "Brecon, Powys Wales",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4815757",
-    "BeerName": "A Fistful of Foam",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Edmund's Oast Brewing Company",
-    "Origin": "Charleston, SC United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815758",
-    "BeerName": "Lemondrop Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Hüffelbräu",
-    "Origin": "Germany",
-    "BeerAbv": "5",
-    "BeerIbu": "38",
-    "HallRating": null
-  },
-  {
-    "BID": "4630986",
-    "BeerName": "Haskap Berry Mead",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Ridge Meadery",
-    "Origin": "Richmond Hill, ON Canada",
-    "BeerAbv": "13.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446226",
-    "BeerName": "Lawnmower",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Last Best Brewing & Distilling",
-    "Origin": "Calgary, AB Canada",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446227",
-    "BeerName": "Uruguayan Grape Ale Viognier Edition",
-    "BeerStyle": "Grape Ale - Other",
-    "BreweryName": "Underground Beer Club",
-    "Origin": "Montevideo, Departamento de Montevideo Uruguay",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815759",
-    "BeerName": "IF YOU AIN'T TALKIN' WHAT I'M TALKIN', THEN WHY WE TALKIN' HOMIE?",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Wes's Brewery",
-    "Origin": "Canada",
-    "BeerAbv": "6.8",
-    "BeerIbu": "37",
-    "HallRating": null
-  },
-  {
-    "BID": "4630987",
-    "BeerName": "Hideaway",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Powerhouse Brewing Company",
-    "Origin": "London, ON Canada",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815760",
-    "BeerName": "Stump Light Lime",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Big Stump Brew Co.",
-    "Origin": "Sacramento, CA United States",
-    "BeerAbv": "4.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630988",
-    "BeerName": "Christmas Gift Juniper Beer",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Cibolo Creek Brewing Co.",
-    "Origin": "Boerne, TX United States",
-    "BeerAbv": "7.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446228",
-    "BeerName": "Isla Vista IPA",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Abairs Brewing",
+    "BID": 4940468,
+    "BeerName": "Gambrinus",
+    "BeerStyle": "Homebrew, Pilsner - German",
+    "BreweryName": "4 Horned Brewery",
     "Origin": "United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 4.70,
+    "BeerIbu": 39.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4815761",
-    "BeerName": "Kampsite Kolsch",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Cedar Run Brewery",
-    "Origin": "Nokesville, VA United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "25",
-    "HallRating": null
+    "BID": 4960812,
+    "BeerName": "Delta PH",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Active Ingredient Brewing Company",
+    "Origin": "Malta, NY United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4446229",
-    "BeerName": "Mixed Berry Cider",
+    "BID": 4940470,
+    "BeerName": "Mango Pineapple Creamsicle",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Grain To Glass Brewing",
+    "Origin": "Winnipeg, MB Canada",
+    "BeerAbv": 5.50,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981158,
+    "BeerName": "Goldschatz",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Schiffbrau",
+    "Origin": "Switzerland",
+    "BeerAbv": 4.40,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940471,
+    "BeerName": "Takes 2 To Mango",
     "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "The Factory Invercargill",
-    "Origin": "Invercargill, Southland New Zealand",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Summit Hard Cider and Perry Co.",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4630989",
-    "BeerName": "Downtown Brown",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "Chimney Rustic Ales",
-    "Origin": "Hammonton, NJ United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4960815,
+    "BeerName": "GuldhedsIPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Guldhedens Lilla Köksbryggeri",
+    "Origin": "Gothenburg, Västra Götalands län Sweden",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4815762",
-    "BeerName": "#19 - Gullkvækk Ale",
+    "BID": 5488,
+    "BeerName": "Second Street IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Second Street Brewery",
+    "Origin": "Santa Fe, NM United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816195,
+    "BeerName": "Sloppy Sloth \"Neomexicanus\" Hazy IPA",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Second Street Brewery",
+    "Origin": "Santa Fe, NM United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 34.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4447309,
+    "BeerName": "Southern Hemisphere 2920",
+    "BeerStyle": "IPA - New Zealand",
+    "BreweryName": "Second Street Brewery",
+    "Origin": "Santa Fe, NM United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 68.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336838,
+    "BeerName": "6 Fruit Under",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Second Street Brewery",
+    "Origin": "Santa Fe, NM United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 14.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675632,
+    "BeerName": "Southern Hemi Red",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Second Street Brewery",
+    "Origin": "Santa Fe, NM United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333603,
+    "BeerName": "Galaxy's Edge IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Second Street Brewery",
+    "Origin": "Santa Fe, NM United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 2537,
+    "BeerName": "Altbier",
+    "BeerStyle": "Altbier - Traditional",
+    "BreweryName": "Second Street Brewery",
+    "Origin": "Santa Fe, NM United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336711,
+    "BeerName": "Kiwi Lager",
+    "BeerStyle": "Homebrew, Lager - Pale",
+    "BreweryName": "Ale Nukes Rhino Brewing",
+    "Origin": "Staffanstorp, Skåne Sweden",
+    "BeerAbv": 5.80,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336720,
+    "BeerName": "Mosaic Ekuanot IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Ale Nukes Rhino Brewing",
+    "Origin": "Staffanstorp, Skåne Sweden",
+    "BeerAbv": 6.40,
+    "BeerIbu": 56.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981159,
+    "BeerName": "Two Crippled Pigs",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Ale Nukes Rhino Brewing",
+    "Origin": "Staffanstorp, Skåne Sweden",
+    "BeerAbv": 6.20,
+    "BeerIbu": 66.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940472,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Black'Ombier",
+    "Origin": "Barueri, São Paulo Brazil",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940473,
+    "BeerName": "1938 Saturday Night Light",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Kinship Brewing Co.",
+    "Origin": "Waukee, IA United States",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981161,
+    "BeerName": "Suho",
+    "BeerStyle": "Mead - Traditional",
+    "BreweryName": "Jere",
+    "Origin": "Ljubljana - Dobrunje, Ljubljana Slovenia",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960818,
+    "BeerName": "Porter Leven",
+    "BeerStyle": "Porter - Coffee",
+    "BreweryName": "Shoals Brewery",
+    "Origin": "England",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940474,
+    "BeerName": "Chocolate Oatmeal Milk Stout With Fuggles Amarillo Warrior",
+    "BeerStyle": "Homebrew, Stout - Milk / Sweet",
+    "BreweryName": "Sunset Drive Homebrew",
+    "Origin": "United States",
+    "BeerAbv": 5.24,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981162,
+    "BeerName": "Donker Blond",
     "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
-    "BreweryName": "Jørgensens Garasjebryggeri",
-    "Origin": "Norway",
-    "BeerAbv": "4.7",
-    "BeerIbu": "22",
-    "HallRating": null
-  },
-  {
-    "BID": "4630990",
-    "BeerName": "Small Batch Series Eggnog Ale",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Beer’d Brewing Company",
-    "Origin": "Stonington, CT United States",
-    "BeerAbv": "6.3",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Cees Voordouw",
+    "Origin": "Netherlands",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

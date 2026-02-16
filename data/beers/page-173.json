@@ -1,252 +1,252 @@
 [
   {
-    "BID": "1667828",
-    "BeerName": "Cottage Woods Pale Ale",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Carlson Brewing Co.",
-    "Origin": "United States",
-    "BeerAbv": "6",
-    "BeerIbu": "50",
-    "HallRating": null
-  },
-  {
-    "BID": "3334711",
-    "BeerName": "Glier's Goetta",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Christian Moerlein Brewing",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "1676",
-    "BeerName": "Spezial \"Ungespundet\"",
-    "BeerStyle": "Kellerbier / Zwickelbier",
-    "BreweryName": "Brauerei Spezial",
-    "Origin": "Bamberg, Bayern Germany",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667829",
-    "BeerName": "The George Eartham",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Heathen Brewers",
-    "Origin": "Haywards Heath, West Sussex England",
-    "BeerAbv": "3.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1678",
-    "BeerName": "Zwergla",
-    "BeerStyle": "Lager - Munich Dunkel",
-    "BreweryName": "Privatbrauerei Fässla Bamberg",
-    "Origin": "Bamberg, Bayern Germany",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334712",
-    "BeerName": "Agent Seven",
-    "BeerStyle": "Cream Ale",
-    "BreweryName": "Harlem Brewing Company",
-    "Origin": "Harlem, NY United States",
-    "BeerAbv": "5",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "1667830",
-    "BeerName": "Red Ale",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Rockland Brewery",
-    "Origin": "South Africa",
-    "BeerAbv": "4.5",
-    "BeerIbu": "50",
-    "HallRating": null
-  },
-  {
-    "BID": "3334713",
-    "BeerName": "Haze the Day",
+    "BID": 3338390,
+    "BeerName": "X-Ray Spex",
     "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Golden Road Brewing",
-    "Origin": "Los Angeles, CA United States",
-    "BeerAbv": "6.8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "The Southsea Brewing Co.",
+    "Origin": "Southsea, Portsmouth England",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1680",
-    "BeerName": "Weizla Hell",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Privatbrauerei Fässla Bamberg",
-    "Origin": "Bamberg, Bayern Germany",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3338391,
+    "BeerName": "B Cool Bill",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Voldi",
+    "Origin": "Rõngu, Tartu maakond Estonia",
+    "BeerAbv": 3.30,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1667831",
-    "BeerName": "Witbeer",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Casa Da Cerveja Artesanal",
-    "Origin": "Lourinhã, Lisboa Portugal",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1681",
-    "BeerName": "Benediktiner Weissbier Dunkel",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Benediktiner Weissbräu",
-    "Origin": "Ettal, Bayern Germany",
-    "BeerAbv": "5.4",
-    "BeerIbu": "13",
-    "HallRating": null
-  },
-  {
-    "BID": "3334714",
-    "BeerName": "Doctor Punch",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "Boathouse Brothers Brewing",
-    "Origin": "Prior Lake, MN United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667832",
-    "BeerName": "APA Jango",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Jango",
-    "Origin": "South Korea",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334715",
-    "BeerName": "Sap Guava",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": "7.3",
-    "BeerIbu": "80",
-    "HallRating": null
-  },
-  {
-    "BID": "1667833",
-    "BeerName": "Wit Or Melon",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Beavertown",
-    "Origin": "London, Greater London England",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334716",
-    "BeerName": "Shallow Root System",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Among The Trees",
-    "Origin": "United States",
-    "BeerAbv": "6.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667834",
-    "BeerName": "Grave Danger",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "Bishop's Crook Brewery",
-    "Origin": "Preston, Lancashire England",
-    "BeerAbv": "4.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334717",
-    "BeerName": "La Bonne Humeur Bitter",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Brasserie Artisanale de Paimpol",
-    "Origin": "Paimpol, Bretagne France",
-    "BeerAbv": "3.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667835",
-    "BeerName": "Rye IPA",
-    "BeerStyle": "IPA - Rye",
-    "BreweryName": "Left Handed Giant",
-    "Origin": "Bristol, City of Bristol England",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334718",
-    "BeerName": "Anchors Aweigh",
-    "BeerStyle": "Homebrew, California Common",
-    "BreweryName": "Craft A Brew",
-    "Origin": "United States",
-    "BeerAbv": "5.92",
-    "BeerIbu": "42",
-    "HallRating": null
-  },
-  {
-    "BID": "1667836",
-    "BeerName": "Efes Amber Ale",
+    "BID": 1677005,
+    "BeerName": "Me Myself & I Eripruul",
     "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Anadolu Efes",
-    "Origin": "Istanbul, Turkey",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Voldi",
+    "Origin": "Rõngu, Tartu maakond Estonia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1691",
-    "BeerName": "Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Augustiner-Bräu München",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": "5.6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1672361,
+    "BeerName": "Do They Even Know Smoke?",
+    "BeerStyle": "Smoked Beer",
+    "BreweryName": "Croft Brewing Company",
+    "Origin": "Spring Hill, Queensland Australia",
+    "BeerAbv": 8.00,
+    "BeerIbu": 26.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1667837",
-    "BeerName": "Young American",
-    "BeerStyle": "IPA - English",
-    "BreweryName": "Hope Brewery Ltd",
-    "Origin": "Grays, Thurrock England",
-    "BeerAbv": "4.4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1671177,
+    "BeerName": "Frenetic Condition",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Croft Brewing Company",
+    "Origin": "Spring Hill, Queensland Australia",
+    "BeerAbv": 5.50,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3334719",
-    "BeerName": "Dh Kveik IPA",
+    "BID": 3338392,
+    "BeerName": "Coco Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Oak & Ash",
+    "Origin": "Rishon LeZion, Center District Israel",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3344284,
+    "BeerName": "Coco Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Oak & Ash",
+    "Origin": "Rishon LeZion, Center District Israel",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6560,
+    "BeerName": "Backdraft Brown",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Hook & Ladder Brewing Company",
+    "Origin": "Silver Spring, MD United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6582,
+    "BeerName": "Anniversary Ale",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "Hook & Ladder Brewing Company",
+    "Origin": "Silver Spring, MD United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338421,
+    "BeerName": "Draft Punk",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Dopey Dick",
+    "Origin": "Northern Ireland",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343609,
+    "BeerName": "Red Ale",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "Dopey Dick",
+    "Origin": "Northern Ireland",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671205,
+    "BeerName": "Ruiva Red Ale",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "Cerveja Amante",
+    "Origin": "Tubarão, Santa Catarina Brazil",
+    "BeerAbv": 5.50,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338422,
+    "BeerName": "Raspberry Ghetto",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "HOBOS",
+    "Origin": "Sankt-Peterburg, Russia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338424,
+    "BeerName": "Crafter's Union",
+    "BeerStyle": "Cider - Rosé",
+    "BreweryName": "Crafters Of The Uncommon",
+    "Origin": null,
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671208,
+    "BeerName": "Regression To the Mead",
+    "BeerStyle": "Homebrew, Mead - Other",
+    "BreweryName": "Califermentation",
+    "Origin": "United States",
+    "BeerAbv": 8.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338425,
+    "BeerName": "Три олені Czech",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Карпатський Бровар / Kalush Browar",
+    "Origin": "Kalush, Ivano-Frankivsk Oblast Ukraine",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339811,
+    "BeerName": "Три олені American",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Карпатський Бровар / Kalush Browar",
+    "Origin": "Kalush, Ivano-Frankivsk Oblast Ukraine",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339945,
+    "BeerName": "Три олені German",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Карпатський Бровар / Kalush Browar",
+    "Origin": "Kalush, Ivano-Frankivsk Oblast Ukraine",
+    "BeerAbv": 4.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671209,
+    "BeerName": "Black Rye IPA",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Hunga Dunga Brewing Co.",
+    "Origin": "Moscow, ID United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 54.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340939,
+    "BeerName": "Amicable",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Broaden & Build",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338426,
+    "BeerName": "Brownie Loop",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Broaden & Build",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338582,
+    "BeerName": "Awamori",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Broaden & Build",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816276,
+    "BeerName": "Ale of 2 Kings",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Boundary Bay Brewery",
+    "Origin": "Bellingham, WA United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 82.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670757,
+    "BeerName": "Northwest Original IPA (Inside Passage Ale)",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Postmark Brewing",
-    "Origin": "Vancouver, BC Canada",
-    "BeerAbv": "6.6",
-    "BeerIbu": "37",
-    "HallRating": null
+    "BreweryName": "Boundary Bay Brewery",
+    "Origin": "Bellingham, WA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 78.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1667838",
-    "BeerName": "Cantareira",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Cratera",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": "4.8",
-    "BeerIbu": "12",
-    "HallRating": null
+    "BID": 10297,
+    "BeerName": "Imperial Oatmeal Stout",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Boundary Bay Brewery",
+    "Origin": "Bellingham, WA United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 37.00,
+    "HallRating": 0.00
   }
 ]

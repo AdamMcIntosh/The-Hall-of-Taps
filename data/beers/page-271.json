@@ -1,252 +1,252 @@
 [
   {
-    "BID": "1668847",
-    "BeerName": "Weißbier",
-    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
-    "BreweryName": "De Kleine Buit",
-    "Origin": "Netherlands",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3103",
-    "BeerName": "Shiner Summer Stock Kölsch Beer",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Spoetzl Brewery",
-    "Origin": "Shiner, TX United States",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335488",
-    "BeerName": "Jack C Haze IPA",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "AquaBrew",
-    "Origin": "San Marcos, TX United States",
-    "BeerAbv": "6.1",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "3335489",
-    "BeerName": "Si Hi Eres, M'agrades",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Sa CerVIseria Craft Beer & Organic Wine",
-    "Origin": "Cala Rajada, Illes Balears Spain",
-    "BeerAbv": "3.5",
-    "BeerIbu": "9",
-    "HallRating": null
-  },
-  {
-    "BID": "3105",
-    "BeerName": "Dubbel Ale",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Celis Brewery",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668848",
-    "BeerName": "HopDevil IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Victory Brewing Company",
-    "Origin": "Downingtown, PA United States",
-    "BeerAbv": "6.7",
-    "BeerIbu": "70",
-    "HallRating": null
-  },
-  {
-    "BID": "1668849",
-    "BeerName": "Pop 'n Dat Tart Cherry",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Rusty Nickel Brewing Co.",
-    "Origin": "West Seneca, NY United States",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3106",
-    "BeerName": "Ale Wagger",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Saint Arnold Brewing Company",
-    "Origin": "Houston, TX United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "24",
-    "HallRating": null
-  },
-  {
-    "BID": "3107",
-    "BeerName": "Rainbow Red Ale",
+    "BID": 1669346,
+    "BeerName": "Cask Conditioned Redner",
     "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Sand Creek Brewing Company",
-    "Origin": "Black River Falls, WI United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Cigar City Brewpub",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3335490",
-    "BeerName": "You're My Boy, Blue",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Black Bottle Brewery",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": "6.8",
-    "BeerIbu": "12",
-    "HallRating": null
-  },
-  {
-    "BID": "1668850",
-    "BeerName": "Wolf's Den",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Wolf Hills Brewing Co",
-    "Origin": "Abingdon, VA United States",
-    "BeerAbv": "8",
-    "BeerIbu": "65",
-    "HallRating": null
-  },
-  {
-    "BID": "3108",
-    "BeerName": "Skull Splitter",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "Orkney Brewery",
-    "Origin": "Stromness, Orkney Islands Scotland",
-    "BeerAbv": "8.5",
-    "BeerIbu": "55",
-    "HallRating": null
-  },
-  {
-    "BID": "1668851",
-    "BeerName": "Four Horsemen of the Hopocalypse",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Emmanuales",
-    "Origin": "Sheffield, South Yorkshire England",
-    "BeerAbv": "10",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335491",
-    "BeerName": "Big Cooler",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "TwoDeep Brewing Co.",
-    "Origin": "Indianapolis, IN United States",
-    "BeerAbv": "5",
-    "BeerIbu": "33",
-    "HallRating": null
-  },
-  {
-    "BID": "3109",
-    "BeerName": "Fraoch Heather Ale",
-    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
-    "BreweryName": "Williams Brothers Brewing Co.",
-    "Origin": "Kelliebank, Clackmannanshire Scotland",
-    "BeerAbv": "5",
-    "BeerIbu": "12",
-    "HallRating": null
-  },
-  {
-    "BID": "3110",
-    "BeerName": "Amber Ale",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Bell’s Brewery",
-    "Origin": "Comstock, MI United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668852",
-    "BeerName": "Batch #11 - Brettalyzer",
-    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "Les Chiens Brasseurs",
-    "Origin": "Saint-Jean-Sur-Richelieu, Québec Canada",
-    "BeerAbv": "7.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335492",
-    "BeerName": "Nairo BIA",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Bila Shaka Brewery",
-    "Origin": "Nairobi, Nairobi County Kenya",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3111",
-    "BeerName": "Balboa",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Cervecería Nacional (Panamá)",
-    "Origin": "Panamá, Provincia de Panamá Panama",
-    "BeerAbv": "4.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668853",
-    "BeerName": "Watermelon Locale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Saltwater Brewery",
-    "Origin": "Delray Beach, FL United States",
-    "BeerAbv": "3.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335493",
-    "BeerName": "Original Lager Year '64",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Well 80",
-    "Origin": "Olympia, WA United States",
-    "BeerAbv": "4.2",
-    "BeerIbu": "16",
-    "HallRating": null
-  },
-  {
-    "BID": "1668854",
-    "BeerName": "Pilot's Beer",
+    "BID": 1671851,
+    "BeerName": "Doughboy",
     "BeerStyle": "Bock - Single / Traditional",
-    "BreweryName": "Engel Brauerei",
-    "Origin": "Schwäbisch Gmünd, Baden-Württemberg Germany",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Cigar City Brewpub",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3112",
-    "BeerName": "Atlas",
+    "BID": 3336503,
+    "BeerName": "A Gamagori Golden Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Hyappa Brews",
+    "Origin": "Aichi, Japan",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 10941,
+    "BeerName": "Winterfest (w/ German Hallertau hops)",
+    "BeerStyle": "Lager - Winter",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3833,
+    "BeerName": "Coors Banquet",
     "BeerStyle": "Lager - American",
-    "BreweryName": "Cervecería Nacional (Panamá)",
-    "Origin": "Panamá, Provincia de Panamá Panama",
-    "BeerAbv": "3.7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3113",
-    "BeerName": "Killer Bee",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Tin Whistle Brewing Co",
-    "Origin": "Penticton, BC Canada",
-    "BeerAbv": "6",
-    "BeerIbu": "20",
-    "HallRating": null
+    "BID": 3834,
+    "BeerName": "Coors Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3335494",
-    "BeerName": "Neipa V.3",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "MMB",
+    "BID": 3835,
+    "BeerName": "Coors Extra Gold Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3840,
+    "BeerName": "George Killian's Irish Red",
+    "BeerStyle": "Lager - American Amber / Red",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 14.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6927,
+    "BeerName": "Batch 19 (2010-2015)",
+    "BeerStyle": "Historical Beer - Pre-Prohibition Lager",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 26.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5844,
+    "BeerName": "Keystone Original",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5845,
+    "BeerName": "Keystone Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5846,
+    "BeerName": "Keystone Premium",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5847,
+    "BeerName": "Keystone Ice",
+    "BeerStyle": "Freeze-Distilled Beer",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8377,
+    "BeerName": "Blue Amber",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669349,
+    "BeerName": "Weiss",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Cervejaria Adoma",
+    "Origin": "Ivoti, Rio Grande do Sul Brazil",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1677159,
+    "BeerName": "Zart Vienna",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Cervejaria Adoma",
+    "Origin": "Ivoti, Rio Grande do Sul Brazil",
+    "BeerAbv": 5.50,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669350,
+    "BeerName": "Apricot IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Ariss Brewing",
+    "Origin": "United States",
+    "BeerAbv": 7.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336507,
+    "BeerName": "Radler",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Martin's Bräu",
+    "Origin": "Freiburg, Baden-Württemberg Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673467,
+    "BeerName": "Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Martin's Bräu",
+    "Origin": "Freiburg, Baden-Württemberg Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672495,
+    "BeerName": "ColaWeizen",
+    "BeerStyle": "Other",
+    "BreweryName": "Martin's Bräu",
+    "Origin": "Freiburg, Baden-Württemberg Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669352,
+    "BeerName": "Mosaic Me Crazy",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Two Kilts Brewing",
+    "Origin": "Sherwood, OR United States",
+    "BeerAbv": 9.60,
+    "BeerIbu": 90.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333707,
+    "BeerName": "Pure Glory White Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Oak Hills Brewing Co.",
+    "Origin": "Hesperia, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336508,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Frank’s Secret Beer Garden",
+    "Origin": "Sámara, Provincia de Guanacaste Costa Rica",
+    "BeerAbv": 5.10,
+    "BeerIbu": 48.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336509,
+    "BeerName": "Bjureke Pacific IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Bjureke Brewery",
     "Origin": "Sweden",
-    "BeerAbv": "5.8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 7.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669355,
+    "BeerName": "Strawberry",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Bronto Brew Meadery",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

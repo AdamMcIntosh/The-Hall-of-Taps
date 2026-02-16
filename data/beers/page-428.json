@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4815856",
-    "BeerName": "Birdie",
+    "BID": 4941236,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "153 Biere Street",
+    "Origin": "Bengaluru, Karnataka India",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4941243,
+    "BeerName": "Red Ale",
+    "BeerStyle": "Red Ale - Other",
+    "BreweryName": "153 Biere Street",
+    "Origin": "Bengaluru, Karnataka India",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961595,
+    "BeerName": "Upswing",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Triple Bottom Brewing",
+    "Origin": "Philadelphia, PA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981948,
+    "BeerName": "Linger Longer Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Urban Growler Brewing Company",
+    "Origin": "St. Paul, MN United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9051,
+    "BeerName": "Chamberlain Pale Ale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8703,
+    "BeerName": "Tremont Freedom Trail IPA",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7357,
+    "BeerName": "Prelude",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 47.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6299,
+    "BeerName": "Smashed Pumpkin",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5424,
+    "BeerName": "XXXX IPA",
     "BeerStyle": "IPA - Triple",
-    "BreweryName": "Funky Fluid",
-    "Origin": "Warszawa, Mazowieckie Poland",
-    "BeerAbv": "9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 9.25,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4631086",
-    "BeerName": "Kellar Krampus Gingerbread Pastry Stout",
-    "BeerStyle": "Stout - Pastry",
-    "BreweryName": "Crown Brewing Company",
-    "Origin": "Crown Point, IN United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "26",
-    "HallRating": null
+    "BID": 5117,
+    "BeerName": "Pumpkinhead Ale",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4815857",
-    "BeerName": "Grand Cru Bruocsella Lambic Bio (2018-2019)",
-    "BeerStyle": "Lambic - Traditional",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4960174,
+    "BeerName": "Sandy Beach",
+    "BeerStyle": "Lager - Mexican",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4631087",
-    "BeerName": "Seeing Dubbel",
-    "BeerStyle": "Homebrew, Belgian Strong Dark Ale",
-    "BreweryName": "Majikman Homebrew",
-    "Origin": "United States",
-    "BeerAbv": "7.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446317",
-    "BeerName": "\"Oh, We Can Do That!\"",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Friendly Sons Of Joe McGlone Brewing Co.",
-    "Origin": "United States",
-    "BeerAbv": "6.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815858",
-    "BeerName": "A Mile In Our Shoes",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Coastal Mass. Brewing",
-    "Origin": "Beverly, MA United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815859",
-    "BeerName": "Triple Yeast – The Regent",
-    "BeerStyle": "Grape Ale - Other",
-    "BreweryName": "Weingut Warth",
-    "Origin": "Stuttgart, Baden-Württemberg Germany",
-    "BeerAbv": "10.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631088",
-    "BeerName": "Cherry Croslene BA Battle Creek Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Handmap Brewing",
-    "Origin": "Battle Creek, MI United States",
-    "BeerAbv": "13.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446318",
-    "BeerName": "Pressed Love",
-    "BeerStyle": "Cider - Dry",
-    "BreweryName": "Durham Cider + Wine Co.",
-    "Origin": "San Luis Obispo, CA United States",
-    "BeerAbv": "6.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446319",
-    "BeerName": "G'Knight®",
-    "BeerStyle": "IPA - Red",
-    "BreweryName": "Oskar Blues Brewery®",
-    "Origin": "Longmont, CO United States",
-    "BeerAbv": "8.7",
-    "BeerIbu": "60",
-    "HallRating": null
-  },
-  {
-    "BID": "4815860",
-    "BeerName": "10 Wraiths",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Emerald Republic Brewing",
-    "Origin": "Pensacola, FL United States",
-    "BeerAbv": "6.1",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "4446320",
-    "BeerName": "Squeeze the Day",
-    "BeerStyle": "Farmhouse Ale - Other",
-    "BreweryName": "Taylight Brewing Inc.",
-    "Origin": "Port Coquitlam, BC Canada",
-    "BeerAbv": "4.5",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "4631089",
-    "BeerName": "Double Barrel Rat Queen",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Barncat Artisan Ales",
-    "Origin": "Cambridge, ON Canada",
-    "BeerAbv": "16.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815861",
-    "BeerName": "Prickle Rick: Tequila-aged Prickly Pear",
-    "BeerStyle": "Mild - Other",
-    "BreweryName": "Port Orleans Brewing Co.",
-    "Origin": "New Orleans, LA United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631090",
-    "BeerName": "Mango & Vanilla Berliner Weisse",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Wayward Brewing",
-    "Origin": "Camperdown, New South Wales Australia",
-    "BeerAbv": "3.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446321",
-    "BeerName": "Lo Que Un Día Fué, No Será",
-    "BeerStyle": "Brett Beer",
-    "BreweryName": "Cerveceria Intrinsical",
-    "Origin": "Santiago, Región Metropolitana Chile",
-    "BeerAbv": "6.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815862",
-    "BeerName": "Water - Hibiscus, Cherry & Lime",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Stellr Seltzer",
-    "Origin": "Baltimore, MD United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631091",
-    "BeerName": "Porter Baltique - Barils d'exception (Buffalo Trace)",
-    "BeerStyle": "Porter - Baltic",
-    "BreweryName": "LTM - Les Trois Mousquetaires Microbrasserie",
-    "Origin": "Brossard, QC Canada",
-    "BeerAbv": "10.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815863",
-    "BeerName": "Metheglin: May Honey And Cinnamon #2",
-    "BeerStyle": "Mead - Metheglin",
-    "BreweryName": "Punchiller",
-    "Origin": "Minsk, Minskaja voblasć Belarus",
-    "BeerAbv": "11",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631092",
-    "BeerName": "Sunday Morning Stout (2017)",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Weyerbacher Brewery / Savant Beverages",
-    "Origin": "Easton, PA United States",
-    "BeerAbv": "12.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446322",
-    "BeerName": "The Fuzz",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Woods Beer & Wine Co.",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631093",
-    "BeerName": "Tropical Haze",
-    "BeerStyle": "Pale Ale - Milkshake",
-    "BreweryName": "Brewport Ponsonby",
-    "Origin": "Auckland, New Zealand",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446323",
-    "BeerName": "Sleep When You’re Dead Juicy Double IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Ballistic Beer",
-    "Origin": "Salisbury, Queensland Australia",
-    "BeerAbv": "8",
-    "BeerIbu": "45",
-    "HallRating": null
-  },
-  {
-    "BID": "4815864",
-    "BeerName": "Série 10e Anniversaire: Southshore IPL",
-    "BeerStyle": "Lager - IPL (India Pale Lager)",
-    "BreweryName": "Lagabière",
-    "Origin": "Saint-Jean-sur-Richelieu, QC Canada",
-    "BeerAbv": "6.5",
-    "BeerIbu": "43",
-    "HallRating": null
-  },
-  {
-    "BID": "4631094",
-    "BeerName": "Light & Easy",
+    "BID": 4817083,
+    "BeerName": "Owl’s Head Light Ale",
     "BeerStyle": "Lager - American Light",
-    "BreweryName": "Kaktus Brewing Company",
-    "Origin": "Bernalillo, NM United States",
-    "BeerAbv": "5",
-    "BeerIbu": "20",
-    "HallRating": null
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 3.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631955,
+    "BeerName": "Doppelbock",
+    "BeerStyle": "Bock - Doppelbock",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 8.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631963,
+    "BeerName": "Shipyard IPA # 22",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340000,
+    "BeerName": "Watermelon Shandy",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672908,
+    "BeerName": "Blood Orange Belgian Style",
+    "BeerStyle": "Wheat Beer - Fruited",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1666999,
+    "BeerName": "No. 7 IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 9.25,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 14379,
+    "BeerName": "Tremont Mr. Oktoberfest Seasonal Ale",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 36.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1539,
+    "BeerName": "Fuggles IPA",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 49.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13175,
+    "BeerName": "Export",
+    "BeerStyle": "Blonde / Golden Ale - American",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 29.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13176,
+    "BeerName": "Summer Ale",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13177,
+    "BeerName": "Shipyard Wheat Ale",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4941237,
+    "BeerName": "Summer Ipa",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Szadabeer",
+    "Origin": "Hungary",
+    "BeerAbv": 4.50,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 14183,
+    "BeerName": "Winter Ale",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Geary Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669276,
+    "BeerName": "KKG Batch #1: Jarrylo Session Ale",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Geary Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

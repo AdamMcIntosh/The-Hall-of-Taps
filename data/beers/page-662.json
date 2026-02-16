@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4980424",
-    "BeerName": "Hefeweizen",
-    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
-    "BreweryName": "Draht Esel",
-    "Origin": "United States",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1672075,
+    "BeerName": "Intercoastal Amber",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Big Top Brewing Company",
+    "Origin": "Sarasota, FL United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4960110",
-    "BeerName": "Pua Hana",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Arclight Brewing Company",
-    "Origin": "Watervliet, MI United States",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1672047,
+    "BeerName": "Ringmaster Raspberry",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Big Top Brewing Company",
+    "Origin": "Sarasota, FL United States",
+    "BeerAbv": 3.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4939768",
-    "BeerName": "Nitro Cargo Cult",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "The Brutalist",
-    "Origin": "St. Petersburg, FL United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960111",
-    "BeerName": "Neipa",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Chungungo",
-    "Origin": "Chile",
-    "BeerAbv": "5.2",
-    "BeerIbu": "39",
-    "HallRating": null
-  },
-  {
-    "BID": "4980425",
-    "BeerName": "DAMA COLD IPA - DAMA INDOOR 2022",
-    "BeerStyle": "IPA - Cold",
-    "BreweryName": "Dama Bier",
-    "Origin": "Piracicaba, São Paulo Brazil",
-    "BeerAbv": "7.5",
-    "BeerIbu": "75",
-    "HallRating": null
-  },
-  {
-    "BID": "4980426",
-    "BeerName": "Chocolate Riviera",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Evans Brewing Co.",
-    "Origin": "Corona, CA United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939769",
-    "BeerName": "Ярило Чорнобаївський",
-    "BeerStyle": "Kvass",
-    "BreweryName": "Квас Бевериджиз",
-    "Origin": "Kyiv, Kyiv City Ukraine",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960112",
-    "BeerName": "Helles Embers",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Savannah River Brewing Co.",
-    "Origin": "Augusta, GA United States",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980427",
-    "BeerName": "Citra Down NEIPA",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Draht Esel",
-    "Origin": "United States",
-    "BeerAbv": "5.25",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960113",
-    "BeerName": "Spiral Lite",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Cellar West Brewery",
-    "Origin": "Lafayette, CO United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980428",
-    "BeerName": "Treeline Tango",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Wild Rose Brewery",
-    "Origin": "Calgary, AB Canada",
-    "BeerAbv": "5",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "4939770",
-    "BeerName": "Holly Blue",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Badger Brewery (Hall & Woodhouse)",
-    "Origin": "Blandford St Mary, Dorset England",
-    "BeerAbv": "4.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980429",
-    "BeerName": "DAMA BLACK IPA - DAMA INDOOR 2022",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "Dama Bier",
-    "Origin": "Piracicaba, São Paulo Brazil",
-    "BeerAbv": "5",
-    "BeerIbu": "51",
-    "HallRating": null
-  },
-  {
-    "BID": "4939771",
-    "BeerName": "Resting Peach Face IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Rescue Brewing Co",
-    "Origin": "Upland, CA United States",
-    "BeerAbv": "7.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960114",
-    "BeerName": "Cursing the Daylight",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Meanwhile Brewing Company",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980430",
-    "BeerName": "World's Slowest Conversation",
-    "BeerStyle": "IPA - New Zealand",
-    "BreweryName": "Balcones Brewing",
-    "Origin": "Waco, TX United States",
-    "BeerAbv": "7",
-    "BeerIbu": "70",
-    "HallRating": null
-  },
-  {
-    "BID": "4960115",
-    "BeerName": "Total Eclipse of the Heart",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "COOP Ale Works",
-    "Origin": "Oklahoma City, OK United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939772",
-    "BeerName": "Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Mythmaker Brewing",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "33",
-    "HallRating": null
-  },
-  {
-    "BID": "4960116",
-    "BeerName": "INSP FFH | Citra / Simcoe / Citra FFH CRYO",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Siboire Microbrasserie",
-    "Origin": "Sherbrooke, QC Canada",
-    "BeerAbv": "6.5",
-    "BeerIbu": "60",
-    "HallRating": null
-  },
-  {
-    "BID": "4980431",
-    "BeerName": "Viking Weiss",
-    "BeerStyle": "Farmhouse Ale - Other",
-    "BreweryName": "Water's End Brewery",
-    "Origin": "Lake Ridge, VA United States",
-    "BeerAbv": "6.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960117",
-    "BeerName": "Solar Death Ray",
+    "BID": 1667234,
+    "BeerName": "Peanut Butter & Jelly",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Hold Out Brewing",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Big Top Brewing Company",
+    "Origin": "Sarasota, FL United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4939773",
-    "BeerName": "Mikrolajki",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Piwowarska Grupa Rzemieślnicza",
-    "Origin": "Poland",
-    "BeerAbv": "3.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1672882,
+    "BeerName": "Crunch Berry Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Big Top Brewing Company",
+    "Origin": "Sarasota, FL United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4980432",
-    "BeerName": "Double Bent - Dry Hop",
-    "BeerStyle": "Homebrew, IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Get Bent Brewing",
+    "BID": 1676598,
+    "BeerName": "Banana Bread Brown",
+    "BeerStyle": "Brown Ale - Other",
+    "BreweryName": "Big Top Brewing Company",
+    "Origin": "Sarasota, FL United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672810,
+    "BeerName": "Batch#38 - Kölsch",
+    "BeerStyle": "Homebrew, Kölsch",
+    "BreweryName": "Damsgård Hjemmebryggeri",
+    "Origin": "Norway",
+    "BeerAbv": 4.80,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13680,
+    "BeerName": "Rugburn",
+    "BeerStyle": "Homebrew, Rye Beer",
+    "BreweryName": "Mad Haven",
     "Origin": "United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "38",
-    "HallRating": null
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4939774",
-    "BeerName": "Casino Tour",
-    "BeerStyle": "Kellerbier / Zwickelbier",
-    "BreweryName": "Burke-Gilman Brewing Company",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1672899,
+    "BeerName": "Berliner Weiss",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Olde Hickory Brewery",
+    "Origin": "Hickory, NC United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4960118",
-    "BeerName": "Jurassic",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "L'Ermitage",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": "7.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3340227,
+    "BeerName": "Wasco Wheat V1",
+    "BeerStyle": "Homebrew, Wheat Beer - American Pale Wheat",
+    "BreweryName": "G & R Brewing Company",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340228,
+    "BeerName": "Mark Your Territory",
+    "BeerStyle": "Homebrew, IPA - New England / Hazy",
+    "BreweryName": "Crooked House Brewery & Meadery",
+    "Origin": "United States",
+    "BeerAbv": 7.08,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340230,
+    "BeerName": "English Brown",
+    "BeerStyle": "Brown Ale - English",
+    "BreweryName": "Eastwood Brewing Company",
+    "Origin": "Syracuse, NY United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673868,
+    "BeerName": "Cherry Pie",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Eastwood Brewing Company",
+    "Origin": "Syracuse, NY United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672905,
+    "BeerName": "BooneDawg #ETP Light Stout",
+    "BeerStyle": "Homebrew, Stout - American",
+    "BreweryName": "Boocher Brewery",
+    "Origin": "United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340231,
+    "BeerName": "Black Milk 1983 RIS",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Cervejaria Gonçalves",
+    "Origin": "Poços de Caldas, Minas Gerais Brazil",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672906,
+    "BeerName": "Belgian Tripel",
+    "BeerStyle": "Homebrew, Belgian Tripel",
+    "BreweryName": "Wandle Bank",
+    "Origin": "England",
+    "BeerAbv": 9.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8955,
+    "BeerName": "Bia Saigon Export Premium",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Sabeco",
+    "Origin": "Ho Chi Minh City, Thành phố Hồ Chí Minh Vietnam",
+    "BeerAbv": 4.80,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340233,
+    "BeerName": "NE IPA 2019",
+    "BeerStyle": "Homebrew, IPA - New England / Hazy",
+    "BreweryName": "NDBrewer",
+    "Origin": "United States",
+    "BeerAbv": 7.90,
+    "BeerIbu": 62.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4446970,
+    "BeerName": "Rum Tum Tum",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Crossed Anchors Brewing",
+    "Origin": "Exmouth, Devon England",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333896,
+    "BeerName": "Super Hoppy Woppy",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Crossed Anchors Brewing",
+    "Origin": "Exmouth, Devon England",
+    "BeerAbv": 3.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340235,
+    "BeerName": "One Night Stand",
+    "BeerStyle": "Homebrew, Altbier - Traditional",
+    "BreweryName": "RebleBräu",
+    "Origin": "United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672910,
+    "BeerName": "S.M.A.S.H. IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bury Me Brewing",
+    "Origin": "Fort Myers, FL United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340236,
+    "BeerName": "Joosy Joose NEDIPA",
+    "BeerStyle": "Homebrew, IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Smokey Barrel Brewing Co.",
+    "Origin": "United States",
+    "BeerAbv": 8.10,
+    "BeerIbu": 32.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672911,
+    "BeerName": "Code Red",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Old Abbey Ales",
+    "Origin": "Abbotsford, BC Canada",
+    "BeerAbv": 7.20,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675136,
+    "BeerName": "Plumon Party Gone Sour",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Old Abbey Ales",
+    "Origin": "Abbotsford, BC Canada",
+    "BeerAbv": 5.20,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340238,
+    "BeerName": "Brass Ring",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Logansport Brewing Co.",
+    "Origin": "Logansport, IN United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00
   }
 ]

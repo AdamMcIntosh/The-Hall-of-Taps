@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4939160",
-    "BeerName": "Jolefred På Øyri",
+    "BID": 14519,
+    "BeerName": "Alhambra Reserva 1925",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Grupo Cervezas Alhambra",
+    "Origin": "Granada, Andalucía Spain",
+    "BeerAbv": 6.40,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 859,
+    "BeerName": "Alhambra Negra",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Grupo Cervezas Alhambra",
+    "Origin": "Granada, Andalucía Spain",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9295,
+    "BeerName": "Weizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Bamberg Bier",
+    "Origin": "Votorantim, São Paulo Brazil",
+    "BeerAbv": 5.00,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 10388,
+    "BeerName": "Mango Wheat",
+    "BeerStyle": "Homebrew, Other",
+    "BreweryName": "Shvitzing Matilda Beer",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673097,
+    "BeerName": "Fuller's Indian Pale Ale",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Indian Pale Ale Fuller's",
+    "Origin": null,
+    "BeerAbv": 5.30,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340430,
+    "BeerName": "Bean There, Done That",
+    "BeerStyle": "Porter - Coffee",
+    "BreweryName": "Bone Hook Brewing Company",
+    "Origin": "Naples, FL United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9210,
+    "BeerName": "Wilkins Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Wilkins Farmhouse Cider",
+    "Origin": "Wedmore, Somerset England",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673101,
+    "BeerName": "Lost Scotch",
     "BeerStyle": "Homebrew, Scotch Ale / Wee Heavy",
-    "BreweryName": "Øyri Kjellarbryggeri",
-    "Origin": "Bolstadøyri, Voss Norway",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Clockwise Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4959464",
-    "BeerName": "Sanctioned Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Beer Justice Brewing Co",
-    "Origin": "Arcade, NY United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1673106,
+    "BeerName": "Bravo! Bravo! IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Four Mile Brewing Company",
+    "Origin": "Olean, NY United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4959465",
-    "BeerName": "Sidebar Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Beer Justice Brewing Co",
-    "Origin": "Arcade, NY United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3340462,
+    "BeerName": "Belgian Ale",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Timothy's - Le Brasseur du Pape",
+    "Origin": "France",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4979778",
-    "BeerName": "Jerry's Vienna Lager",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Goodwood Brewing",
-    "Origin": "Louisville, KY United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3340440,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Timothy's - Le Brasseur du Pape",
+    "Origin": "France",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4939161",
-    "BeerName": "Waar Is Loca",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Dok Brewing Companу",
-    "Origin": "Gent, Vlaams Gewest Belgium",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1673107,
+    "BeerName": "Whitefly",
+    "BeerStyle": "IPA - White / Wheat",
+    "BreweryName": "Deer Creek Brewery",
+    "Origin": "Noblesville, IN United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4959466",
-    "BeerName": "Let's Gose Buffalo",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Beer Justice Brewing Co",
-    "Origin": "Arcade, NY United States",
-    "BeerAbv": "4.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979779",
-    "BeerName": "Honeymoon Bay Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Penn Cove Brewing Company",
-    "Origin": "Coupeville, WA United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "41",
-    "HallRating": null
-  },
-  {
-    "BID": "4959467",
-    "BeerName": "Hottie Gose Round",
-    "BeerStyle": "Sour - Other Gose",
-    "BreweryName": "Beer Justice Brewing Co",
-    "Origin": "Arcade, NY United States",
-    "BeerAbv": "4.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979780",
-    "BeerName": "Cashmere Outside",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "WeBe Brewing Company",
-    "Origin": "Geneva, NY United States",
-    "BeerAbv": "7.6",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "4939162",
-    "BeerName": "Crush - Banana, Blackberry & Pineapple",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Two Tides Brewing Co.",
-    "Origin": "Savannah, GA United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959468",
-    "BeerName": "Indian Baltic Porter",
-    "BeerStyle": "Porter - Baltic",
-    "BreweryName": "Brasserie Dalons",
-    "Origin": "Sainte-Marie, Saint-Denis France",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939163",
-    "BeerName": "The Legion",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "Longtab Brewing Company",
-    "Origin": "San Antonio, TX United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979781",
-    "BeerName": "9°P",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Sendo Brewery (仙都啤酒厂)",
-    "Origin": "Li Shui Shi, Zhe Jiang Sheng China / People's Republic of China",
-    "BeerAbv": "3.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939164",
-    "BeerName": "La Santa Picante",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Barebottle Brewing Company",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959469",
-    "BeerName": "Shock Therapy V40A - Mosaic Lot 1161",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Hop Hooligans",
-    "Origin": "Jilava, Ilfov Romania",
-    "BeerAbv": "6.5",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4939165",
-    "BeerName": "P3 (2018 - )",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Stazione Parenzana",
-    "Origin": "Portorož, Obalno-kraška Slovenia",
-    "BeerAbv": "5.5",
-    "BeerIbu": "19",
-    "HallRating": null
-  },
-  {
-    "BID": "4959470",
-    "BeerName": "Mugi To Hop Tohoku No Kaori (麦とホップ東北の香り)(2022)",
-    "BeerStyle": "Happoshu",
-    "BreweryName": "Sapporo Breweries",
-    "Origin": "Shibuya-ku, Tokyo Japan",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979782",
-    "BeerName": "Gainey Ranch Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Four Peaks Brewing",
-    "Origin": "Tempe, AZ United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979783",
-    "BeerName": "Luminescent Shores",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Emerald Republic Brewing",
-    "Origin": "Pensacola, FL United States",
-    "BeerAbv": "4.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939166",
-    "BeerName": "Raspberry Sour",
-    "BeerStyle": "Homebrew, Sour - Fruited Berliner Weisse",
-    "BreweryName": "Bacon & Beer",
-    "Origin": "Switzerland",
-    "BeerAbv": "5.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959471",
-    "BeerName": "After the Rain",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "JouZo Beer Base",
-    "Origin": "Anan, Tokushima Japan",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979784",
-    "BeerName": "Azumino Ale Sui",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Azumino Brewery",
-    "Origin": "Azumino, Nagano Japan",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959472",
-    "BeerName": "Antiphona",
-    "BeerStyle": "Lager - Tmavé (Czech Dark)",
-    "BreweryName": "Cervejaria Dogma",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959473",
-    "BeerName": "Shock Therapy V40B - Mosaic Lot 1173",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Hop Hooligans",
-    "Origin": "Jilava, Ilfov Romania",
-    "BeerAbv": "6.5",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4939167",
-    "BeerName": "Altbier 2.0",
+    "BID": 1673108,
+    "BeerName": "ALTernate Brewality",
     "BeerStyle": "Homebrew, Altbier - Traditional",
-    "BreweryName": "Bacon & Beer",
-    "Origin": "Switzerland",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "BRU",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674212,
+    "BeerName": "2nd Best Collaboration Ever!",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Central State Brewing Company",
+    "Origin": "Indianapolis, IN United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667253,
+    "BeerName": "2nd Best Collaboration Ever!",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Central State Brewing Company",
+    "Origin": "Indianapolis, IN United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338573,
+    "BeerName": "Beach",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Central State Brewing Company",
+    "Origin": "Indianapolis, IN United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673109,
+    "BeerName": "Invern Ale",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Raices",
+    "Origin": "Maldonado, Uruguay",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9225,
+    "BeerName": "Big Cheese IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "The Big Cheese Pizza Co. & Brewery",
+    "Origin": "Riverside, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673110,
+    "BeerName": "Golden Bear",
+    "BeerStyle": "Homebrew, Belgian Blonde",
+    "BreweryName": "Hillbilly Bruin",
+    "Origin": "United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675473,
+    "BeerName": "Bog Bear",
+    "BeerStyle": "Homebrew, Stout - Imperial / Double",
+    "BreweryName": "Hillbilly Bruin",
+    "Origin": "United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673111,
+    "BeerName": "Shuksan Raspberry",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Crate Hard Cider",
+    "Origin": "United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340453,
+    "BeerName": "American Girl",
+    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
+    "BreweryName": "The Wizard's Brew",
+    "Origin": "United States",
+    "BeerAbv": 7.90,
+    "BeerIbu": 42.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673115,
+    "BeerName": "Wreckless Red",
+    "BeerStyle": "Homebrew, Red Ale - Irish",
+    "BreweryName": "Long Island Ales",
+    "Origin": "United States",
+    "BeerAbv": 5.61,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340454,
+    "BeerName": "Put Me In Coach",
+    "BeerStyle": "Homebrew, IPA - Session",
+    "BreweryName": "Qubit Brewery",
+    "Origin": "United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 44.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340467,
+    "BeerName": "Schrödinger's Stout",
+    "BeerStyle": "Homebrew, Stout - American",
+    "BreweryName": "Qubit Brewery",
+    "Origin": "United States",
+    "BeerAbv": 8.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

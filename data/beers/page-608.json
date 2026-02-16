@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4939337",
-    "BeerName": "Bicentennial Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Troy City Brewing",
-    "Origin": "Fall River, MA United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1673361,
+    "BeerName": "Frevo",
+    "BeerStyle": "Homebrew, Belgian Enkel / Patersbier",
+    "BreweryName": "Cervejaria Crocodilo",
+    "Origin": "Brazil",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4959654",
-    "BeerName": "Valencia Orange Session Sour IPA",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Vault City Brewing",
-    "Origin": "Edinburgh, Scotland",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3340713,
+    "BeerName": "La La Lah! - Soured Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Molly Rose Brewing",
+    "Origin": "Collingwood, Victoria Australia",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4979961",
-    "BeerName": "Under the High, Blue Sky (空高く青く)",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Katashina Brewing",
-    "Origin": "Japan",
-    "BeerAbv": "4.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939338",
-    "BeerName": "ESB",
-    "BeerStyle": "Homebrew, Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "Bennett Hill Brewery",
-    "Origin": "United States",
-    "BeerAbv": "6",
-    "BeerIbu": "32",
-    "HallRating": null
-  },
-  {
-    "BID": "4959655",
-    "BeerName": "New Mörkö",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Lövnäs Bryggeri",
-    "Origin": "Mörkö, Stockholms län Sweden",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979962",
-    "BeerName": "Coconut Pineapple",
-    "BeerStyle": "Brown Ale - Other",
-    "BreweryName": "Panda Brew (熊猫精酿)",
-    "Origin": "Bei Jing Shi, China / People's Republic of China",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939339",
-    "BeerName": "Maumasi",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Anchorage Brewing Company",
-    "Origin": "Anchorage, AK United States",
-    "BeerAbv": "16",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959656",
-    "BeerName": "From a Gaelic Sea far, far Away…",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Vault City Brewing",
-    "Origin": "Edinburgh, Scotland",
-    "BeerAbv": "10",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979963",
-    "BeerName": "Belgian Wheat Beer",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Kultura Project",
-    "Origin": "Vladivostok, Приморский край Russia",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959657",
-    "BeerName": "CZ Original",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Белый Кремль (Bely Kreml)",
-    "Origin": "Chistopol', Татарстан Russia",
-    "BeerAbv": "4.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939340",
-    "BeerName": "Cookie Stout",
-    "BeerStyle": "Stout - Pastry",
-    "BreweryName": "A Bit Twisted Brewpub",
-    "Origin": "Aurora, CO United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979964",
-    "BeerName": "Bequaem IPA",
-    "BeerStyle": "Homebrew, IPA - Belgian",
-    "BreweryName": "Brouwerij De Oude Reus",
-    "Origin": "Netherlands",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959658",
-    "BeerName": "Helles Lager",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Kennebunkport Brewing Company",
-    "Origin": "Kennebunk, ME United States",
-    "BeerAbv": "5.25",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939341",
-    "BeerName": "Light A Matcha",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Singin’ River Brewing Company",
-    "Origin": "Florence, AL United States",
-    "BeerAbv": "4.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979965",
-    "BeerName": "Gordon Gard Suave",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Brasserie Champigneulles",
-    "Origin": "Champigneulles, Grand Est France",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959659",
-    "BeerName": "Iron Brew Extra",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Vault City Brewing",
-    "Origin": "Edinburgh, Scotland",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939342",
-    "BeerName": "Golden Suzy",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Arthorius",
-    "Origin": "Juiz de Fora, Minas Gerais Brazil",
-    "BeerAbv": "6.8",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4979966",
-    "BeerName": "Cali Double IPA",
+    "BID": 1673362,
+    "BeerName": "Double Penetration",
     "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Gweilo Beer",
-    "Origin": "Hong Kong Island, Hong Kong",
-    "BeerAbv": "8.8",
-    "BeerIbu": "65",
-    "HallRating": null
+    "BreweryName": "Edda Brew",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 9.00,
+    "BeerIbu": 97.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4959660",
-    "BeerName": "Black Barn Program No. 36",
-    "BeerStyle": "Altbier - Traditional",
-    "BreweryName": "Maine Beer Company",
-    "Origin": "Freeport, ME United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1673364,
+    "BeerName": "Vilhelmina Summer Pale Ale",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Black Cap Brewery",
+    "Origin": "Sweden",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4959661",
-    "BeerName": "Ok L’Enfer XTRM TURBO",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Messorem",
-    "Origin": "Montreal, QC Canada",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939343",
-    "BeerName": "Pale Ale",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Springs Brewery",
-    "Origin": "Springs, NY United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979967",
-    "BeerName": "Гонорове",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Гонір - Honir Brewery",
-    "Origin": "Ivano-Frankivsk, Ivano-Frankivsk Oblast Ukraine",
-    "BeerAbv": "5",
-    "BeerIbu": "24",
-    "HallRating": null
-  },
-  {
-    "BID": "4959662",
-    "BeerName": "Summer's Garden",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Sawstone Brewing Co",
-    "Origin": "Morehead, KY United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939344",
-    "BeerName": "Tangelo Log Boom",
+    "BID": 1673367,
+    "BeerName": "Sea Breeze Ale",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Mac & Jack's Brewing Company",
-    "Origin": "Redmond, WA United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "35",
-    "HallRating": null
+    "BreweryName": "By The Mile Brewery",
+    "Origin": "Broadstairs, Kent England",
+    "BeerAbv": 4.80,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4979968",
-    "BeerName": "Blanche",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Гонір - Honir Brewery",
-    "Origin": "Ivano-Frankivsk, Ivano-Frankivsk Oblast Ukraine",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1673369,
+    "BeerName": "Ramblers' Gold",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "By The Mile Brewery",
+    "Origin": "Broadstairs, Kent England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673368,
+    "BeerName": "The Guardian",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Spbrew",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 5.50,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676150,
+    "BeerName": "Norseman",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Spbrew",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676243,
+    "BeerName": "Mockingbird Town",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Spbrew",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667265,
+    "BeerName": "Monster Wave",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Runs On Beer Brewing",
+    "Origin": "United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9598,
+    "BeerName": "Dirt Shark Pale Ale",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Leddie Cool Smoke Brewing Co.",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673370,
+    "BeerName": "IPAnema",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Cervejaria Allegra",
+    "Origin": "Rio de Janeiro, Brazil",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340726,
+    "BeerName": "OXYMORON",
+    "BeerStyle": "Stout - Belgian",
+    "BreweryName": "Pěst Brewery",
+    "Origin": "Kyiv, Київ Ukraine",
+    "BeerAbv": 7.50,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673372,
+    "BeerName": "Das Gabler",
+    "BeerStyle": "Kellerbier / Zwickelbier",
+    "BreweryName": "Gablerbrau",
+    "Origin": "Salzburg, Austria",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340727,
+    "BeerName": "Cherry Beer",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Saint Castle",
+    "Origin": "China / People's Republic of China",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340728,
+    "BeerName": "Lemon Beer",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Saint Castle",
+    "Origin": "China / People's Republic of China",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673373,
+    "BeerName": "Classic",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Libeerty",
+    "Origin": "Tuapse, Krasnodar Krai Russia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673374,
+    "BeerName": "Martnaspils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Nytterøen",
+    "Origin": "Norway",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673375,
+    "BeerName": "Spruce Oakley",
+    "BeerStyle": "Homebrew, Strong Ale - English",
+    "BreweryName": "Brown Street Brew House",
+    "Origin": "United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673376,
+    "BeerName": "Sunset",
+    "BeerStyle": "Homebrew, Wheat Beer - American Pale Wheat",
+    "BreweryName": "Brown Street Brew House",
+    "Origin": "United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340731,
+    "BeerName": "Regular",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Cornelius Malt",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340732,
+    "BeerName": "Human Secrets",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Heart of Darkness Brewery",
+    "Origin": "Ben Nghe Ward, Thành phố Hồ Chí Minh Vietnam",
+    "BeerAbv": 4.80,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340736,
+    "BeerName": "Some Centuries",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Heart of Darkness Brewery",
+    "Origin": "Ben Nghe Ward, Thành phố Hồ Chí Minh Vietnam",
+    "BeerAbv": 5.80,
+    "BeerIbu": 46.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333917,
+    "BeerName": "Oat винта",
+    "BeerStyle": "Homebrew, Pale Ale - Other",
+    "BreweryName": "Crazy Kitchen",
+    "Origin": "Russia",
+    "BeerAbv": 6.20,
+    "BeerIbu": 57.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9612,
+    "BeerName": "Iron Spike Amber",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Railway City Brewing",
+    "Origin": "St. Thomas, ON Canada",
+    "BeerAbv": 4.60,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
   }
 ]

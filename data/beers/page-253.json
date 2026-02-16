@@ -1,252 +1,252 @@
 [
   {
-    "BID": "2888",
-    "BeerName": "Columbus Bock",
-    "BeerStyle": "Bock - Single / Traditional",
-    "BreweryName": "Stieglbrauerei zu Salzburg",
-    "Origin": "Salzburg, Austria",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3339873,
+    "BeerName": "Ricer",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Wrężel",
+    "Origin": "Zarzecze, Silesian Voivodeship Poland",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1668702",
-    "BeerName": "Wyder Berry Blast Cider",
+    "BID": 1674842,
+    "BeerName": "Simcoe S.M.A.S.H. India Pale Ale",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Wrężel",
+    "Origin": "Zarzecze, Silesian Voivodeship Poland",
+    "BeerAbv": 6.50,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 2102,
+    "BeerName": "Polygamy® Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Wasatch® Brewery",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336353,
+    "BeerName": "Beermosa",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Wasatch® Brewery",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13679,
+    "BeerName": "Evo Amber Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Wasatch® Brewery",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13032,
+    "BeerName": "Devastator®",
+    "BeerStyle": "Bock - Doppelbock",
+    "BreweryName": "Wasatch® Brewery",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816213,
+    "BeerName": "Wasatch/Deep Ellum Collaboration Dry Irish Stout",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Wasatch® Brewery",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816220,
+    "BeerName": "Wasatch/Deep Ellum Collaboration Dry Irish Stout",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Wasatch® Brewery",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9262,
+    "BeerName": "White Label",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Wasatch® Brewery",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9780,
+    "BeerName": "First One Down",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "Wasatch® Brewery",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5547,
+    "BeerName": "1st Amendment Lager",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Wasatch® Brewery",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4982369,
+    "BeerName": "Party Starter Märzen Lager",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Birdsong Brewing Co",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816745,
+    "BeerName": "Chaise Lounge",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Birdsong Brewing Co",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631585,
+    "BeerName": "Hip Hop Hooray IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Birdsong Brewing Co",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339659,
+    "BeerName": "Light As Anything",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Birdsong Brewing Co",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667201,
+    "BeerName": "Pineapple Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Birdsong Brewing Co",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669444,
+    "BeerName": "Eat A Peach Pale Ale",
+    "BeerStyle": "Pale Ale - Fruited",
+    "BreweryName": "Birdsong Brewing Co",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672170,
+    "BeerName": "Two Black Cats One Stout",
+    "BeerStyle": "Homebrew, Stout - Oatmeal",
+    "BreweryName": "Wet Rugby Balls Brewing",
+    "Origin": "Canada",
+    "BeerAbv": 5.80,
+    "BeerIbu": 41.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675776,
+    "BeerName": "My Friend Cam Looks Like Seth Roggenweizen",
+    "BeerStyle": "Homebrew, Historical Beer - Roggenbier",
+    "BreweryName": "Wet Rugby Balls Brewing",
+    "Origin": "Canada",
+    "BeerAbv": 4.50,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673210,
+    "BeerName": "What Is the Air Speed Velocity of A Coconut Laden Stout",
+    "BeerStyle": "Homebrew, Stout - Milk / Sweet",
+    "BreweryName": "Wet Rugby Balls Brewing",
+    "Origin": "Canada",
+    "BeerAbv": 5.80,
+    "BeerIbu": 41.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339449,
+    "BeerName": "Birra Charlie",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Ciarletti",
+    "Origin": "Italy",
+    "BeerAbv": 6.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672171,
+    "BeerName": "Lunar",
     "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Shale Creek Brewery",
-    "Origin": "Franklin, IN United States",
-    "BeerAbv": "3",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Kurant Cider",
+    "Origin": "Philadelphia, PA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3335342",
-    "BeerName": "Ginger Beer",
-    "BeerStyle": "Hard Ginger Beer",
-    "BreweryName": "Les Coureurs de Lune",
-    "Origin": "La Ferrière, Pays de la Loire France",
-    "BeerAbv": "4",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "2889",
-    "BeerName": "Columbus Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Stieglbrauerei zu Salzburg",
-    "Origin": "Salzburg, Austria",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668703",
-    "BeerName": "Abbey Ale",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Mountain Town Brewing Company",
-    "Origin": "Mt Pleasant, MI United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335343",
-    "BeerName": "Jade Forest",
-    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
-    "BreweryName": "Lilla Förrådsbryggeriet",
-    "Origin": "Sweden",
-    "BeerAbv": "5",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "1668704",
-    "BeerName": "Sill Sitter's Apple Pie",
-    "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
-    "BreweryName": "Out The Window Brewing",
-    "Origin": "United States",
-    "BeerAbv": "10",
-    "BeerIbu": "1",
-    "HallRating": null
-  },
-  {
-    "BID": "3335344",
-    "BeerName": "El Tequito",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Lidl Deutschland / Germany",
-    "Origin": "Neckarsulm, Baden-Württemberg Germany",
-    "BeerAbv": "5.9",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "2892",
-    "BeerName": "Sterkens White Ale",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Brouwerij Sterkens",
-    "Origin": "Hoogstraten, Vlaams Gewest Belgium",
-    "BeerAbv": "4.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668705",
-    "BeerName": "Pineapple Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Chapman’s Brewing Company",
-    "Origin": "Fort Wayne, IN United States",
-    "BeerAbv": "3.8",
-    "BeerIbu": "16",
-    "HallRating": null
-  },
-  {
-    "BID": "3335345",
-    "BeerName": "Abbaye de Baume les Messieurs Blanche",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Brasserie La Rouget de Lisle",
-    "Origin": "Bletterans, Bourgogne-Franche-Comté France",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2893",
-    "BeerName": "Johnny Blood Red",
-    "BeerStyle": "Red Ale - Irish",
-    "BreweryName": "Titletown Brewing Company",
-    "Origin": "Green Bay, WI United States",
-    "BeerAbv": "5",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "1668706",
-    "BeerName": "Hearty Farm Stock",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Bent Stick Brewing Co.",
-    "Origin": "Edmonton, AB Canada",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335346",
-    "BeerName": "In Bloom",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Olde Salem Brewing Company",
-    "Origin": "Salem, VA United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "29",
-    "HallRating": null
-  },
-  {
-    "BID": "2895",
-    "BeerName": "Witbier",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Schlafly - The Saint Louis Brewery",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335347",
-    "BeerName": "MAYbe IPA",
+    "BID": 7925,
+    "BeerName": "Invasive Species IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "May",
-    "Origin": "Veliky Novgorod, Новгородская область Russia",
-    "BeerAbv": "6",
-    "BeerIbu": "45",
-    "HallRating": null
+    "BreweryName": "Captured by Porches Brewing Company",
+    "Origin": "St. Helens, OR United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1668707",
-    "BeerName": "Tequila GFJ",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Sun King Brewery",
-    "Origin": "Indianapolis, IN United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3339455,
+    "BeerName": "Bora",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Skumenn - Brasserie Rennaise",
+    "Origin": "Cesson-Sévigné, Bretagne France",
+    "BeerAbv": 5.00,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1668708",
-    "BeerName": "Joris-bier",
-    "BeerStyle": "Homebrew, IPA - Imperial / Double",
-    "BreweryName": "Joris-brouwerijen",
-    "Origin": "Netherlands",
-    "BeerAbv": "6.5",
-    "BeerIbu": "150",
-    "HallRating": null
-  },
-  {
-    "BID": "2897",
-    "BeerName": "Steamboat Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Crooked Waters Brewing",
-    "Origin": "Peoria, IL United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335348",
-    "BeerName": "Alskute Wheat",
-    "BeerStyle": "Wheat Beer - Hefeweizen Light / Leicht",
-    "BreweryName": "Alskute Farm & Brewery",
-    "Origin": "Hemse, Gotlands län Sweden",
-    "BeerAbv": "3.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668709",
-    "BeerName": "Ramstein Mojito Imperial Pilsner",
-    "BeerStyle": "Pilsner - Imperial / Double",
-    "BreweryName": "High Point Brewing Company",
-    "Origin": "Butler, NJ United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335349",
-    "BeerName": "Березовий",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Пивна ресторація «Клепач»",
-    "Origin": "Uzhhorod, Zakarpats'ka oblast Ukraine",
-    "BeerAbv": "4.5",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "2898",
-    "BeerName": "Iowa Pale Ale",
-    "BeerStyle": "IPA - English",
-    "BreweryName": "Stone City Brewing",
-    "Origin": "Solon, IA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2899",
-    "BeerName": "Framboise",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Diamondback Brewery",
-    "Origin": "Cleveland, OH United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668710",
-    "BeerName": "Kwai Mi A River",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Hourglass Brewing",
-    "Origin": "Longwood, FL United States",
-    "BeerAbv": "6",
-    "BeerIbu": "6",
-    "HallRating": null
+    "BID": 1672177,
+    "BeerName": "Margarita",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Douglas Valley Orchards",
+    "Origin": "Manistee, MI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

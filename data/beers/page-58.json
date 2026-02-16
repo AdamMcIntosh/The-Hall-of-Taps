@@ -1,252 +1,252 @@
 [
   {
-    "BID": "331",
-    "BeerName": "Harvest Ale (Matured In Sherry Casks) (2005)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "J.W. Lees & Co.",
-    "Origin": "Middleton, Greater Manchester England",
-    "BeerAbv": "11.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666907",
-    "BeerName": "Witbier the Witch",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Cervejaria Leuven",
-    "Origin": "Piracicaba, São Paulo Brazil",
-    "BeerAbv": "5.5",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "3333566",
-    "BeerName": "Joe Bolo Imperial IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Sinistral Brewing Company",
-    "Origin": "Manassas, VA United States",
-    "BeerAbv": "12",
-    "BeerIbu": "60",
-    "HallRating": null
-  },
-  {
-    "BID": "332",
-    "BeerName": "Old Crustacean (2006)",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Rogue Ales",
-    "Origin": "Newport, OR United States",
-    "BeerAbv": "11.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666908",
-    "BeerName": "Rez Gets SMASHED",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Witch’s Hat Brewing Co.",
-    "Origin": "South Lyon, MI United States",
-    "BeerAbv": "9.8",
-    "BeerIbu": "72",
-    "HallRating": null
-  },
-  {
-    "BID": "334",
-    "BeerName": "Hefe Proper Ale",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Breckenridge Brewery",
-    "Origin": "Littleton, CO United States",
-    "BeerAbv": "4.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333567",
-    "BeerName": "Sippin' Pretty",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Odell Brewing Co.",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "335",
-    "BeerName": "Levity Amber Ale",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Odell Brewing Co.",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": "5.1",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "3333568",
-    "BeerName": "Twisted",
-    "BeerStyle": "Cider - Sweet",
-    "BreweryName": "Downeast Cider House",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666909",
-    "BeerName": "Dona Maria",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "A&D Beer",
-    "Origin": "Brazil",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "336",
-    "BeerName": "Easy Street",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Odell Brewing Co.",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": "4.6",
-    "BeerIbu": "21",
-    "HallRating": null
-  },
-  {
-    "BID": "1666910",
-    "BeerName": "Red's Accidental Raspberry Sour",
-    "BeerStyle": "Homebrew, Sour - Other",
-    "BreweryName": "Neff Brewing",
+    "BID": 3337971,
+    "BeerName": "Coffee Stout",
+    "BeerStyle": "Homebrew, Stout - Coffee",
+    "BreweryName": "Mark Metzger, Home Brew",
     "Origin": "United States",
-    "BeerAbv": "6.6",
-    "BeerIbu": "10",
-    "HallRating": null
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3333569",
-    "BeerName": "On-Air",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Public Access Liquids",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 5940,
+    "BeerName": "Leffe Blonde / Blond",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 6.60,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1666911",
-    "BeerName": "Citra Na Pet",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Cervejaria do Família Acorrentada Moto Grupo",
-    "Origin": "Brasília, Distrito Federal Brazil",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 5941,
+    "BeerName": "Leffe Brune / Bruin",
+    "BeerStyle": "Brown Ale - Belgian",
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 6.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "339",
-    "BeerName": "Bovine Belgian Winter Ale",
+    "BID": 5942,
+    "BeerName": "Leffe Radieuse",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 8.20,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5943,
+    "BeerName": "Leffe Triple / Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5944,
+    "BeerName": "Leffe Ruby",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5945,
+    "BeerName": "Leffe Rituel 9°",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 9.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5946,
+    "BeerName": "Leffe Vieille Cuvée",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 8.20,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5947,
+    "BeerName": "Leffe Bière d'Hiver / Winterbier",
     "BeerStyle": "Winter Ale",
-    "BreweryName": "LABCo Restaurant & Market",
-    "Origin": "Manhattan, KS United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 6.60,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3333570",
-    "BeerName": "Sunset Heart Hands",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Karl Strauss Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": "6",
-    "BeerIbu": "50",
-    "HallRating": null
+    "BID": 1670772,
+    "BeerName": "Neandertaler Landbier",
+    "BeerStyle": "Homebrew, Pilsner - German",
+    "BreweryName": "Metzgerei Hanten",
+    "Origin": "Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "340",
-    "BeerName": "XX Black Angus Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "LABCo Restaurant & Market",
-    "Origin": "Manhattan, KS United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "32",
-    "HallRating": null
+    "BID": 3337972,
+    "BeerName": "Mai Wedding Bock",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Waltz Brewing",
+    "Origin": "Forest Grove, OR United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "341",
-    "BeerName": "Blarney Stone Stout",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "LABCo Restaurant & Market",
-    "Origin": "Manhattan, KS United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666912",
-    "BeerName": "CzaR.I.S.",
-    "BeerStyle": "Homebrew, Stout - Russian Imperial",
-    "BreweryName": "Cervejaria do Família Acorrentada Moto Grupo",
-    "Origin": "Brasília, Distrito Federal Brazil",
-    "BeerAbv": "11",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333571",
-    "BeerName": "DOJ Creamsicle",
-    "BeerStyle": "Homebrew, Sour - Fruited",
-    "BreweryName": "Balcony Boys Brewing",
-    "Origin": "Dover, DE United States",
-    "BeerAbv": "4.1",
-    "BeerIbu": "5",
-    "HallRating": null
-  },
-  {
-    "BID": "342",
-    "BeerName": "Bison Brown Ale",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "LABCo Restaurant & Market",
-    "Origin": "Manhattan, KS United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "24",
-    "HallRating": null
-  },
-  {
-    "BID": "1666913",
-    "BeerName": "General Schwartztoff",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "Tin Man Brewing Company (Evansville)",
-    "Origin": "Evansville, IN United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "12",
-    "HallRating": null
-  },
-  {
-    "BID": "3333572",
-    "BeerName": "For All Intensive Purposes",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Woodhouse Blending & Brewing",
-    "Origin": "Santa Cruz, CA United States",
-    "BeerAbv": "6.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "343",
-    "BeerName": "Prairie Pale Ale",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "LABCo Restaurant & Market",
-    "Origin": "Manhattan, KS United States",
-    "BeerAbv": "6.6",
-    "BeerIbu": "62",
-    "HallRating": null
-  },
-  {
-    "BID": "1666914",
-    "BeerName": "Belgian Strong Dark Ale-#6",
-    "BeerStyle": "Homebrew, Belgian Strong Dark Ale",
-    "BreweryName": "Dziadek's Home Brews",
+    "BID": 1670775,
+    "BeerName": "Kokonut Brown",
+    "BeerStyle": "Homebrew, Brown Ale - English",
+    "BreweryName": "River Bottom Brew Cave",
     "Origin": "United States",
-    "BeerAbv": "7.6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673388,
+    "BeerName": "Enunciate",
+    "BeerStyle": "Brown Ale - Imperial / Double",
+    "BreweryName": "Coelacanth Brewing Company",
+    "Origin": "Norfolk, VA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337975,
+    "BeerName": "Bohemian Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Coelacanth Brewing Company",
+    "Origin": "Norfolk, VA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670776,
+    "BeerName": "Amarillo Pale Ale",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Fitzy's Homebrew",
+    "Origin": "United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670777,
+    "BeerName": "Cucumbersome",
+    "BeerStyle": "Homebrew, Cream Ale",
+    "BreweryName": "Grandview Brewery",
+    "Origin": "Lancaster, PA United States",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337978,
+    "BeerName": "Beer Clause Special",
+    "BeerStyle": "Homebrew, Wild Ale - American",
+    "BreweryName": "Beer Clause Special",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337979,
+    "BeerName": "Peca Coffee Stout",
+    "BeerStyle": "Homebrew, Stout - Coffee",
+    "BreweryName": "Ryan Peca",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670256,
+    "BeerName": "Tournai Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "The Filling Station Microbrewery",
+    "Origin": "Traverse City, MI United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668064,
+    "BeerName": "Van River Brandy Barrel Old Ale",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "The Filling Station Microbrewery",
+    "Origin": "Traverse City, MI United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669788,
+    "BeerName": "Var River Brandy Barrel Old Ale",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "The Filling Station Microbrewery",
+    "Origin": "Traverse City, MI United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669774,
+    "BeerName": "Tournai Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "The Filling Station Microbrewery",
+    "Origin": "Traverse City, MI United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1470,
+    "BeerName": "Scottish Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "The Filling Station Microbrewery",
+    "Origin": "Traverse City, MI United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336373,
+    "BeerName": "Golden Spike Ale",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "The Filling Station Microbrewery",
+    "Origin": "Traverse City, MI United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333774,
+    "BeerName": "Euphoria Transference",
+    "BeerStyle": "Homebrew, Wild Ale - American",
+    "BreweryName": "TGM Brewery",
+    "Origin": "United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

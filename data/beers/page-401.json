@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4815627",
-    "BeerName": "Fire - Passionfruit, Orange & Guava",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Stellr Seltzer",
-    "Origin": "Baltimore, MD United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4940517,
+    "BeerName": "Kölsch",
+    "BeerStyle": "Homebrew, Kölsch",
+    "BreweryName": "M'Barayó",
+    "Origin": "Brazil",
+    "BeerAbv": 4.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4446101",
-    "BeerName": "Litany Against Fear",
+    "BID": 4981208,
+    "BeerName": "Chmielowe",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Browar Aleksandrów",
+    "Origin": "Aleksandrów, Lublin Voivodeship Poland",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960866,
+    "BeerName": "Bell Ringer Red",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Shipwright Brewing Company",
+    "Origin": "Lunenburg, NS Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339161,
+    "BeerName": "Fischerdorf Alt",
+    "BeerStyle": "Altbier - Traditional",
+    "BreweryName": "Shipwright Brewing Company",
+    "Origin": "Lunenburg, NS Canada",
+    "BeerAbv": 5.60,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671688,
+    "BeerName": "Spital Helles",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Spitalbrauerei",
+    "Origin": "Regensburg, Bayern Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671549,
+    "BeerName": "Spital Helles",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Spitalbrauerei",
+    "Origin": "Regensburg, Bayern Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981209,
+    "BeerName": "Spital Russ",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Spitalbrauerei",
+    "Origin": "Regensburg, Bayern Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673451,
+    "BeerName": "Imperial Pilsner One Hit Wonder",
+    "BeerStyle": "Pilsner - Imperial / Double",
+    "BreweryName": "Temblor Brewing Company",
+    "Origin": "Bakersfield, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672768,
+    "BeerName": "Imperial Pilsner One Hit Wonder",
+    "BeerStyle": "Pilsner - Imperial / Double",
+    "BreweryName": "Temblor Brewing Company",
+    "Origin": "Bakersfield, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940519,
+    "BeerName": "Amber Lager",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Temblor Brewing Company",
+    "Origin": "Bakersfield, CA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960868,
+    "BeerName": "WackenPaleBär",
+    "BeerStyle": "Homebrew, Pale Ale - Other",
+    "BreweryName": "Bär",
+    "Origin": "Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9069,
+    "BeerName": "Blonde",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Brasserie Thiriez",
+    "Origin": "Esquelbecq, Hauts-de-France France",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 394,
+    "BeerName": "Extra (Dry-hopped Farmhouse Ale)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Brasserie Thiriez",
+    "Origin": "Esquelbecq, Hauts-de-France France",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3335317,
+    "BeerName": "Brassin D'hiver Chardonnay B.A.",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Brasserie Thiriez",
+    "Origin": "Esquelbecq, Hauts-de-France France",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981211,
+    "BeerName": "Spéciale",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "Solvay Society",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960870,
+    "BeerName": "Peach Gose",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Smugglers Trail Caskworks",
+    "Origin": "Langley Township, BC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4941219,
+    "BeerName": "MOM's  Juice",
+    "BeerStyle": "Pale Ale - New Zealand",
+    "BreweryName": "Smugglers Trail Caskworks",
+    "Origin": "Langley Township, BC Canada",
+    "BeerAbv": 5.80,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940522,
+    "BeerName": "Uncle Jeff's Dunkelweizen",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Windfall Brewing Co.",
+    "Origin": "Westminster, CO United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940523,
+    "BeerName": "Pepper Mexican Lager",
+    "BeerStyle": "Lager - Mexican",
+    "BreweryName": "Freefall Brewery",
+    "Origin": "Bozeman, MT United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960878,
+    "BeerName": "Wannabe Dankster",
     "BeerStyle": "IPA - American",
-    "BreweryName": "New Belgium Brewing Company",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": "6.75",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Skydance Brewing",
+    "Origin": "Oklahoma City, OK United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 90.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4630856",
-    "BeerName": "Land of Darkness Chocolate Hazelnut Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Kent Beer Company",
-    "Origin": "Andover, NY United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "27",
-    "HallRating": null
-  },
-  {
-    "BID": "4815628",
-    "BeerName": "Asturias",
-    "BeerStyle": "Cider - Dry",
-    "BreweryName": "Алмагач",
-    "Origin": "Russia",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446102",
-    "BeerName": "IPA 4 Cuádruple American IPA",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "SirHopper",
-    "Origin": "San Martín, Provincia de Buenos Aires Argentina",
-    "BeerAbv": "15.5",
-    "BeerIbu": "70",
-    "HallRating": null
-  },
-  {
-    "BID": "4630857",
-    "BeerName": "Winter Warmer",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "Skipping Rock Beer Co.",
-    "Origin": "Staunton, VA United States",
-    "BeerAbv": "7",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4815629",
-    "BeerName": "DDH IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "LZO birrificio",
-    "Origin": "Conegliano, Veneto Italy",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446103",
-    "BeerName": "My Sabrona",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Thompson Brewing Co",
-    "Origin": "Riverside, CA United States",
-    "BeerAbv": "8",
-    "BeerIbu": "51",
-    "HallRating": null
-  },
-  {
-    "BID": "4630858",
-    "BeerName": "Holiday Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Blue Mountain Brewery",
-    "Origin": "Afton, VA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815630",
-    "BeerName": "Wild Yeasty Boi",
-    "BeerStyle": "Wild Ale - Other",
-    "BreweryName": "Húsavík Öl",
-    "Origin": "Húsavík, Norðurþing Iceland",
-    "BeerAbv": "6",
-    "BeerIbu": "32",
-    "HallRating": null
-  },
-  {
-    "BID": "4446104",
-    "BeerName": "NEIPA Julio 2021",
+    "BID": 4960872,
+    "BeerName": "Thi-ol-o-gy",
     "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "SirHopper",
-    "Origin": "San Martín, Provincia de Buenos Aires Argentina",
-    "BeerAbv": "6.5",
-    "BeerIbu": "30",
-    "HallRating": null
+    "BreweryName": "Skydance Brewing",
+    "Origin": "Oklahoma City, OK United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4815631",
-    "BeerName": "Copper Maibock",
-    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
-    "BreweryName": "Big River Grille & Brewing Works",
-    "Origin": "Chattanooga, TN United States",
-    "BeerAbv": "8",
-    "BeerIbu": "25",
-    "HallRating": null
+    "BID": 4981215,
+    "BeerName": "poz-naj Pils",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Poznańskie Browary Rzemieślnicze",
+    "Origin": "Kostrzyn, Województwo wielkopolskie Poland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4446105",
-    "BeerName": "INF: Pineapple Upside Down Cake Dynamic DIPA",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Pueblo Vida Brewing Company",
-    "Origin": "Tucson, AZ United States",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4981222,
+    "BeerName": "poz-naj APA",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Poznańskie Browary Rzemieślnicze",
+    "Origin": "Kostrzyn, Województwo wielkopolskie Poland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4630859",
-    "BeerName": "Community Lager",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Pile O' Bones Brewing Company",
-    "Origin": "Regina, SK Canada",
-    "BeerAbv": "5",
-    "BeerIbu": "26",
-    "HallRating": null
+    "BID": 4960874,
+    "BeerName": "Marias Sommarsuris",
+    "BeerStyle": "Homebrew, Sour - Fruited",
+    "BreweryName": "G&M Brewery",
+    "Origin": "Sweden",
+    "BeerAbv": 4.70,
+    "BeerIbu": 8.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4815632",
-    "BeerName": "Fuzzy Memories",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Zilker Brewing Company",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": "8.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446106",
-    "BeerName": "Chocolate Orange Porter",
-    "BeerStyle": "Porter - Baltic",
-    "BreweryName": "Fort Smith Brewing Company",
-    "Origin": "Fort Smith, AR United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630860",
-    "BeerName": "X-Mas Ale 2021",
-    "BeerStyle": "Homebrew, Winter Warmer",
-    "BreweryName": "SheppyBrew Home Brewery",
-    "Origin": "Littleton, CO United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "4815633",
-    "BeerName": "Komvida Zanahoria Y Cúrcuma",
-    "BeerStyle": "Hard Kombucha / Jun",
-    "BreweryName": "Komvida Kombucha",
-    "Origin": "Spain",
-    "BeerAbv": "1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446107",
-    "BeerName": "INF: Strawberry Limeade Benthos IPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Pueblo Vida Brewing Company",
-    "Origin": "Tucson, AZ United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630861",
-    "BeerName": "12 BEERS OF XMAS EXCLUSIVE: BigDIPAH Dry-Hopped W/ Nelson Sauvin",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Cape Cod Beer",
-    "Origin": "Hyannis, MA United States",
-    "BeerAbv": "9.6",
-    "BeerIbu": "85",
-    "HallRating": null
-  },
-  {
-    "BID": "4446108",
-    "BeerName": "American IPA Julio 2021",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "SirHopper",
-    "Origin": "San Martín, Provincia de Buenos Aires Argentina",
-    "BeerAbv": "6.5",
-    "BeerIbu": "70",
-    "HallRating": null
-  },
-  {
-    "BID": "4630862",
-    "BeerName": "Blood Orange Stank Theory",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Soul Fire Brewing Co",
-    "Origin": "Cleburne, TX United States",
-    "BeerAbv": "8",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "4815634",
-    "BeerName": "Triple Sun",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Pivovar Mazák",
-    "Origin": "Dolní Bojanovice, Jihomoravský kraj Czech Republic",
-    "BeerAbv": "6.2",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "4446109",
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Cerveza Dama",
-    "Origin": "Guadalajara, Jalisco Mexico",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630863",
-    "BeerName": "Warm & Sticky",
-    "BeerStyle": "Brown Ale - Other",
-    "BreweryName": "R & R Brewing",
-    "Origin": "Mount Olive, NC United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4961228,
+    "BeerName": "Waitoreke",
+    "BeerStyle": "Homebrew, Pilsner - Other",
+    "BreweryName": "G&M Brewery",
+    "Origin": "Sweden",
+    "BeerAbv": 5.40,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
   }
 ]

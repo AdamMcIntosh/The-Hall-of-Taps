@@ -1,0 +1,252 @@
+[
+  {
+    "BID": 9333,
+    "BeerName": "Golden Grizzle™",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8113,
+    "BeerName": "Mach 10™",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 9.20,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9526,
+    "BeerName": "Peter Brown Tribute Ale™",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7621,
+    "BeerName": "Hop Rod Rye™",
+    "BeerStyle": "IPA - Rye",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5795,
+    "BeerName": "Apex™",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 8.25,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5569,
+    "BeerName": "Red Rocket Ale®",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 67.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5172,
+    "BeerName": "Late Harvest Lager™",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815645,
+    "BeerName": "Hop Shovel™ Double IPA Mosaic Magic",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815663,
+    "BeerName": "NorCal IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339460,
+    "BeerName": "Red Racer (Ales For ALS 2019)",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339511,
+    "BeerName": "Republic of Hops",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1553,
+    "BeerName": "Racer 5 IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1557,
+    "BeerName": "Big Bear Black Stout™",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 8.10,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1425,
+    "BeerName": "Hop Rod Rye™",
+    "BeerStyle": "IPA - Rye",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3335471,
+    "BeerName": "Barrel Aged Series: Abbaye De Gembloux",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Uncle Billy's Brewery",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3335472,
+    "BeerName": "IPA Handdesinfektion",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Dalens Sjukhus",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676922,
+    "BeerName": "SchuppenBoer Tripel Whisky Barrel Aged",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij Het Nest",
+    "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
+    "BeerAbv": 9.00,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668831,
+    "BeerName": "The Butterfly",
+    "BeerStyle": "Bock - Single / Traditional",
+    "BreweryName": "Brouwerij Het Nest",
+    "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
+    "BeerAbv": 6.50,
+    "BeerIbu": 31.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4446830,
+    "BeerName": "Nen Tijl",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Brouwerij Het Nest",
+    "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816416,
+    "BeerName": "Zo Vader, Zo Zoon",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij Het Nest",
+    "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
+    "BeerAbv": 9.60,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940603,
+    "BeerName": "Wilde Karte Framboos",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Brouwerij Het Nest",
+    "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343449,
+    "BeerName": "Schuppenboer Speyside Whisky Barrel Aged Peated",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij Het Nest",
+    "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980199,
+    "BeerName": "Sterke Peer Blond Brandy Barrel Aged 2021",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Brouwerij Het Nest",
+    "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3082,
+    "BeerName": "Calumet Dark",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "Rowland's Calumet Brewery",
+    "Origin": "Chilton, WI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3083,
+    "BeerName": "Calumet Amber",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Rowland's Calumet Brewery",
+    "Origin": "Chilton, WI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  }
+]

@@ -6,6 +6,6 @@
     "build:data": "node scripts/export-from-db.js"
   },
   "devDependencies": {
-    "better-sqlite3": "^11.6.0"
+    "mssql": "^11.0.1"
   }
 }

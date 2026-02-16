@@ -1,252 +1,252 @@
 [
   {
-    "BID": "3334720",
-    "BeerName": "Embrace the Haze",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Silver Moon Brewing",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 14430,
+    "BeerName": "Scotch Ale",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Boundary Bay Brewery",
+    "Origin": "Bellingham, WA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 31.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1693",
-    "BeerName": "Löwenbräu Schwarze Weisse",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1667142,
+    "BeerName": "Galaxy Single Hop Pale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Boundary Bay Brewery",
+    "Origin": "Bellingham, WA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3334721",
-    "BeerName": "Blushing Blonde Rosé Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Genesee Brewing Company",
-    "Origin": "Rochester, NY United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 13413,
+    "BeerName": "Dry Irish Stout",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Boundary Bay Brewery",
+    "Origin": "Bellingham, WA United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 29.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1667839",
-    "BeerName": "Marmolejo",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Sireno Cervecero",
-    "Origin": "Spain",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1695",
-    "BeerName": "Maximator",
+    "BID": 2430,
+    "BeerName": "Doppelbock",
     "BeerStyle": "Bock - Doppelbock",
-    "BreweryName": "Augustiner-Bräu München",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": "7.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Boundary Bay Brewery",
+    "Origin": "Bellingham, WA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3334722",
-    "BeerName": "Vienna Fassbier",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Granville Island Brewing",
-    "Origin": "Vancouver, BC Canada",
-    "BeerAbv": "5",
-    "BeerIbu": "29",
-    "HallRating": null
+    "BID": 9201,
+    "BeerName": "Northwest Original IPA (Inside Passage Ale)",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Boundary Bay Brewery",
+    "Origin": "Bellingham, WA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 78.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3334723",
-    "BeerName": "Delfín Hasta El Fin",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Tripping Animals Brewing Co.",
-    "Origin": "Doral, FL United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1697",
-    "BeerName": "Edelstoff",
-    "BeerStyle": "Lager - Dortmunder / Export",
-    "BreweryName": "Augustiner-Bräu München",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": "5.6",
-    "BeerIbu": "17",
-    "HallRating": null
-  },
-  {
-    "BID": "1667840",
-    "BeerName": "Dark Star IPA",
-    "BeerStyle": "Homebrew, IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "Debrick Brewing Company",
-    "Origin": "United States",
-    "BeerAbv": "7",
-    "BeerIbu": "65",
-    "HallRating": null
-  },
-  {
-    "BID": "1699",
-    "BeerName": "Native Ale",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "New Glarus Brewing Company",
-    "Origin": "New Glarus, WI United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334724",
-    "BeerName": "I Will Not Be Afraid Chocolate Truffle",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": "9.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667841",
-    "BeerName": "Efes Red Ale",
-    "BeerStyle": "Red Ale - Irish",
-    "BreweryName": "Anadolu Efes",
-    "Origin": "Istanbul, Turkey",
-    "BeerAbv": "5.2",
-    "BeerIbu": "50",
-    "HallRating": null
-  },
-  {
-    "BID": "3334725",
-    "BeerName": "Ginland Northwest",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Utara Brewing Company",
-    "Origin": "Sandpoint, ID United States",
-    "BeerAbv": "8.9",
-    "BeerIbu": "85",
-    "HallRating": null
-  },
-  {
-    "BID": "1700",
-    "BeerName": "Hometown Blonde",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "New Glarus Brewing Company",
-    "Origin": "New Glarus, WI United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667842",
-    "BeerName": "2015 Any Ramon Llull",
-    "BeerStyle": "Traditional Ale",
-    "BreweryName": "Cervesa Des Pla",
-    "Origin": "Spain",
-    "BeerAbv": "6.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1701",
-    "BeerName": "Brown Ale",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "Capital Brewery",
-    "Origin": "Middleton, WI United States",
-    "BeerAbv": "5",
-    "BeerIbu": "12",
-    "HallRating": null
-  },
-  {
-    "BID": "1667843",
-    "BeerName": "Hofbräu Original",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Staatliches Hofbräuhaus München",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": "5.1",
-    "BeerIbu": "24",
-    "HallRating": null
-  },
-  {
-    "BID": "1702",
-    "BeerName": "Bavarian Lager",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Capital Brewery",
-    "Origin": "Middleton, WI United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334726",
-    "BeerName": "Lager Premium",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Malvadeza",
-    "Origin": "Porto Alegre, Rio Grande do Sul Brazil",
-    "BeerAbv": "4.5",
-    "BeerIbu": "12",
-    "HallRating": null
-  },
-  {
-    "BID": "1703",
-    "BeerName": "Winter Skål",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Capital Brewery",
-    "Origin": "Middleton, WI United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "1704",
-    "BeerName": "Spaten Maibock",
-    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
-    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667844",
-    "BeerName": "Patrons Project 1.01 // Coffee Porter // Northern Star // Rwanda Gashonga // Tom Joy // Raw Emotions",
-    "BeerStyle": "Porter - Coffee",
-    "BreweryName": "Northern Monk",
-    "Origin": "Leeds, West Yorkshire England",
-    "BeerAbv": "7.4",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "3334727",
-    "BeerName": "Mad Hops Ipa",
+    "BID": 1671210,
+    "BeerName": "Tribute Ipa",
     "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Rooster Head Brewing",
+    "BreweryName": "The Hutchison Brewing Company",
     "Origin": "United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1705",
-    "BeerName": "Malheur 12°",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Brouwerij Malheur",
-    "Origin": "Buggenhout, Vlaams Gewest Belgium",
-    "BeerAbv": "12",
-    "BeerIbu": "25",
-    "HallRating": null
+    "BID": 8844,
+    "BeerName": "Afterburner",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Airdale Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1667845",
-    "BeerName": "Jabberwocky",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Blackjack Brew Co",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": "4.1",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 8622,
+    "BeerName": "Bombshell",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Airdale Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6571,
+    "BeerName": "Homecoming",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Airdale Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7351,
+    "BeerName": "Horizon",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Airdale Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7833,
+    "BeerName": "Dark & Stormy",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Airdale Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338534,
+    "BeerName": "Stolen Stash #8",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Stolen Sun Craft Brewing & Roasting Co.",
+    "Origin": "Exton, PA United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338427,
+    "BeerName": "Hopophonic - Mosaic Stylee",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Stolen Sun Craft Brewing & Roasting Co.",
+    "Origin": "Exton, PA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338726,
+    "BeerName": "Stolen Sun Cold Brewed NitroTea",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Stolen Sun Craft Brewing & Roasting Co.",
+    "Origin": "Exton, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671211,
+    "BeerName": "Red Barn RyePA",
+    "BeerStyle": "Homebrew, Rye Beer",
+    "BreweryName": "Jumping Mouse Brewing",
+    "Origin": "United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338428,
+    "BeerName": "Scarlet Side of the Moon",
+    "BeerStyle": "IPA - Brut",
+    "BreweryName": "Padstow Brewing Company",
+    "Origin": "Padstow, Cornwall England",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341191,
+    "BeerName": "Still In the Shallow End",
+    "BeerStyle": "Table Beer",
+    "BreweryName": "Padstow Brewing Company",
+    "Origin": "Padstow, Cornwall England",
+    "BeerAbv": 2.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671213,
+    "BeerName": "Gangster Porter",
+    "BeerStyle": "Homebrew, Porter - Other",
+    "BreweryName": "Twice Fun Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671184,
+    "BeerName": "Mean Green Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "SunUp Brewing Co.",
+    "Origin": "Phoenix, AZ United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338401,
+    "BeerName": "Mylkshaka",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Anything But Beer",
+    "Origin": "Syracuse, NY United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338406,
+    "BeerName": "Tongue Tied",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Anything But Beer",
+    "Origin": "Syracuse, NY United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671187,
+    "BeerName": "Top of the Pops IPA",
+    "BeerStyle": "Homebrew, IPA - Imperial / Double",
+    "BreweryName": "47 Brewing",
+    "Origin": "United States",
+    "BeerAbv": 8.40,
+    "BeerIbu": 120.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671188,
+    "BeerName": "Old Muddy",
+    "BeerStyle": "Homebrew, Brown Ale - English",
+    "BreweryName": "Dr. Bug's Brewing",
+    "Origin": "Martin, TN United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671202,
+    "BeerName": "Smoke 'em If Ya Got 'em",
+    "BeerStyle": "Homebrew, Historical Beer - Grodziskie / Grätzer",
+    "BreweryName": "Dr. Bug's Brewing",
+    "Origin": "Martin, TN United States",
+    "BeerAbv": 2.70,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672096,
+    "BeerName": "Pride of Martin",
+    "BeerStyle": "Homebrew, Bitter - Session / Ordinary",
+    "BreweryName": "Dr. Bug's Brewing",
+    "Origin": "Martin, TN United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 36.00,
+    "HallRating": 0.00
   }
 ]

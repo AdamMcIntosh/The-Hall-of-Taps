@@ -1,0 +1,252 @@
+[
+  {
+    "BID": 4815488,
+    "BeerName": "SpringBockje",
+    "BeerStyle": "Homebrew, Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "1221",
+    "Origin": "Netherlands",
+    "BeerAbv": 7.60,
+    "BeerIbu": 29.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815461,
+    "BeerName": "Smoaked Gun",
+    "BeerStyle": "Homebrew, Rauchbier",
+    "BreweryName": "1221",
+    "Origin": "Netherlands",
+    "BeerAbv": 6.00,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815435,
+    "BeerName": "Rekenfoutje 12",
+    "BeerStyle": "Homebrew, Belgian Strong Dark Ale",
+    "BreweryName": "1221",
+    "Origin": "Netherlands",
+    "BeerAbv": 12.30,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4445899,
+    "BeerName": "Hog Days of Summer Kolsch",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Radiant Pig Craft Beers",
+    "Origin": "New York, NY United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670010,
+    "BeerName": "Mango Meat",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Radiant Pig Craft Beers",
+    "Origin": "New York, NY United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4630657,
+    "BeerName": "Pilsner No.1",
+    "BeerStyle": "Homebrew, Pilsner - Other",
+    "BreweryName": "Kuninkaanmäen Panimo",
+    "Origin": "Finland",
+    "BeerAbv": 4.70,
+    "BeerIbu": 31.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815413,
+    "BeerName": "Sissi",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Záhlinický pivovar",
+    "Origin": "Hulín, Zlínský kraj Czech Republic",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4447394,
+    "BeerName": "Key Lime Crushable Cream Ale",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Sparge Brewing",
+    "Origin": "Wellington, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4445900,
+    "BeerName": "Look On the Bright Side! Creamsicle",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Sparge Brewing",
+    "Origin": "Wellington, CO United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4630658,
+    "BeerName": "Porter 0201",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "The Lab",
+    "Origin": "St. Paul, MN United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815414,
+    "BeerName": "Surette 2022",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "À tue-tête",
+    "Origin": "Aigle, Vaud Switzerland",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4630659,
+    "BeerName": "Just A Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Fireforge Crafted Beer",
+    "Origin": "Greenville, SC United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4959892,
+    "BeerName": "Tiny Batch: Clean Livin' Hazy IPA",
+    "BeerStyle": "Non-Alcoholic - IPA",
+    "BreweryName": "Fireforge Crafted Beer",
+    "Origin": "Greenville, SC United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 42.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339755,
+    "BeerName": "Pool Honeys With Fresh Mint",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Fireforge Crafted Beer",
+    "Origin": "Greenville, SC United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 38,
+    "BeerName": "Canaster Winterscotch",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Brouwerij De Glazen Toren",
+    "Origin": "Erpe-Mere, Vlaams Gewest Belgium",
+    "BeerAbv": 8.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 460,
+    "BeerName": "Ondineke",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij De Glazen Toren",
+    "Origin": "Erpe-Mere, Vlaams Gewest Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 462,
+    "BeerName": "Jan de Lichte",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Brouwerij De Glazen Toren",
+    "Origin": "Erpe-Mere, Vlaams Gewest Belgium",
+    "BeerAbv": 7.00,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4445902,
+    "BeerName": "Liquid Sunshine",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Legacy Caribbean Craft Brewery",
+    "Origin": "Opa-locka, FL United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4630660,
+    "BeerName": "Pride of Bootle",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Brasserie De Ferrières",
+    "Origin": null,
+    "BeerAbv": 5.00,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4447376,
+    "BeerName": "Ales For ALS 2021",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Grist House Craft Brewery",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4447380,
+    "BeerName": "Bramble On",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Grist House Craft Brewery",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815416,
+    "BeerName": "Strawberry Pie Forever",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Grist House Craft Brewery",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4445904,
+    "BeerName": "Summer IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Cervejaria Xamã",
+    "Origin": "Curitiba, Paraná Brazil",
+    "BeerAbv": 4.60,
+    "BeerIbu": 46.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940362,
+    "BeerName": "O Sabor Da Arte",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Cervejaria Xamã",
+    "Origin": "Curitiba, Paraná Brazil",
+    "BeerAbv": 6.60,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815417,
+    "BeerName": "De Poes",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Mad Giant",
+    "Origin": "Johannesburg, Gauteng South Africa",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  }
+]

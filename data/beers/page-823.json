@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4941089",
-    "BeerName": "Cherry Time",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Terraform Brewery",
-    "Origin": "Moscow, Москва Russia",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3334593,
+    "BeerName": "Blueberry Milkshake IPA",
+    "BeerStyle": "IPA - Milkshake",
+    "BreweryName": "Tin Whiskers Brewing Company",
+    "Origin": "Saint Paul, MN United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961448",
-    "BeerName": "Consider the Fruit Punch",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Fort George Brewery",
-    "Origin": "Astoria, OR United States",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3338838,
+    "BeerName": "Piña Colada Imperial Porter",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Tin Whiskers Brewing Company",
+    "Origin": "Saint Paul, MN United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981792",
-    "BeerName": "Trick Or Treat: Mapinguari (2022 Cryptids)",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Urban Artifact",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3337347,
+    "BeerName": "Blueberry Milkshake IPA",
+    "BeerStyle": "IPA - Milkshake",
+    "BreweryName": "Tin Whiskers Brewing Company",
+    "Origin": "Saint Paul, MN United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961449",
-    "BeerName": "Firgotten Wonder",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Fort George Brewery",
-    "Origin": "Astoria, OR United States",
-    "BeerAbv": "6.7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1673276,
+    "BeerName": "Kai Draft Beer Klar Helles",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Yamato Wine",
+    "Origin": "Koshu, Yamanashi Japan",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981793",
-    "BeerName": "Sun Burn",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Starr Hill Brewery",
-    "Origin": "Crozet, VA United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941090",
-    "BeerName": "7 Summits of Hoppiness",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Grumpelwicht Brewing",
-    "Origin": "Germany",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961450",
-    "BeerName": "Ixta Tropical",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Cerveza Fauna",
-    "Origin": "Mexicali, Baja California Mexico",
-    "BeerAbv": "7",
-    "BeerIbu": "38",
-    "HallRating": null
-  },
-  {
-    "BID": "4981794",
-    "BeerName": "Wiss Seltzer: Black Raspberry",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Wissahickon Brewing Company",
-    "Origin": "Philadelphia, PA United States",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941091",
-    "BeerName": "Tiki Time! Banana Coconut Rum Runner",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Robin Hood Brewing Co.",
-    "Origin": "Bellefonte, PA United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961451",
-    "BeerName": "Dalifornia Creamin'",
-    "BeerStyle": "Cream Ale",
-    "BreweryName": "Highmark Brewery",
-    "Origin": "Fredericksburg, VA United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981795",
-    "BeerName": "Double Wave Pool",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Eighty-Eight Brewing Co.",
-    "Origin": "Calgary, AB Canada",
-    "BeerAbv": "8.8",
-    "BeerIbu": "88",
-    "HallRating": null
-  },
-  {
-    "BID": "4981796",
-    "BeerName": "Come Out Swinging",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Twisted Oak Tavern",
-    "Origin": "Camarillo, CA United States",
-    "BeerAbv": "9",
-    "BeerIbu": "75",
-    "HallRating": null
-  },
-  {
-    "BID": "4941092",
-    "BeerName": "Metropolis",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Cervejaria Dogma",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": "7.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961452",
-    "BeerName": "Suga: Texas Twister",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Honey Pot Meadery",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981797",
-    "BeerName": "S.M.A.S.H DAT",
-    "BeerStyle": "Homebrew, IPA - Other",
-    "BreweryName": "Bates Brewing",
-    "Origin": "United States",
-    "BeerAbv": "6.17",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941093",
-    "BeerName": "LA Nights",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Fifth Ward Brewing Company",
-    "Origin": "Oshkosh, WI United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "55",
-    "HallRating": null
-  },
-  {
-    "BID": "4961453",
-    "BeerName": "Highlands IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Drop Zone Brewery",
-    "Origin": "Winthrop, MA United States",
-    "BeerAbv": "6.1",
-    "BeerIbu": "70",
-    "HallRating": null
-  },
-  {
-    "BID": "4941094",
-    "BeerName": "Beginner’s Luck West Coast IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Mayday Brewery",
-    "Origin": "Murfreesboro, TN United States",
-    "BeerAbv": "7.5",
-    "BeerIbu": "71",
-    "HallRating": null
-  },
-  {
-    "BID": "4981798",
-    "BeerName": "Mango Tango Beach Blonde",
-    "BeerStyle": "Homebrew, Strong Ale - Other",
-    "BreweryName": "Two Mile Slough Brewing Co.",
-    "Origin": "United States",
-    "BeerAbv": "10.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941095",
-    "BeerName": "When Life Gives You Lemons, Rub 'Em In the Open Wounds of Your Enemies",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Grumpelwicht Brewing",
-    "Origin": "Germany",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961454",
-    "BeerName": "Broken Skull Session",
-    "BeerStyle": "Homebrew, Mild - Dark",
-    "BreweryName": "Kayfabe Brewing",
-    "Origin": "United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4941096",
-    "BeerName": "Stratofortress",
-    "BeerStyle": "IPA - Triple",
-    "BreweryName": "Cervejaria Dogma",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": "10.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981799",
-    "BeerName": "Golden Peanut Butter Stout",
-    "BeerStyle": "Stout - White / Golden",
-    "BreweryName": "Duo Winery and Cider Co.",
-    "Origin": "Dickinson, TX United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941097",
-    "BeerName": "Export Lager",
-    "BeerStyle": "Lager - Dortmunder / Export",
-    "BreweryName": "Jack’s Abby Craft Lagers",
-    "Origin": "Framingham, MA United States",
-    "BeerAbv": "5.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961455",
-    "BeerName": "Cool Head",
+    "BID": 1667717,
+    "BeerName": "Kai Draft Beer Niagara Beer",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Heavy Rotation Brewing Company",
-    "Origin": "Brooklyn Park, MN United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Yamato Wine",
+    "Origin": "Koshu, Yamanashi Japan",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667987,
+    "BeerName": "Kai Draft Beer Pilsner",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Yamato Wine",
+    "Origin": "Koshu, Yamanashi Japan",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667989,
+    "BeerName": "Kai Draft Beer Hells",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Yamato Wine",
+    "Origin": "Koshu, Yamanashi Japan",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671408,
+    "BeerName": "Kai Draft Beer Dunkel",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Yamato Wine",
+    "Origin": "Koshu, Yamanashi Japan",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334594,
+    "BeerName": "Guava Sour",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "MAP Brewing Company",
+    "Origin": "Bozeman, MT United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 6.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334662,
+    "BeerName": "Jesses Girl",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "MAP Brewing Company",
+    "Origin": "Bozeman, MT United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4445292,
+    "BeerName": "Rocket Dust",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "MAP Brewing Company",
+    "Origin": "Bozeman, MT United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 81.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980649,
+    "BeerName": "Swifty",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "MAP Brewing Company",
+    "Origin": "Bozeman, MT United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980379,
+    "BeerName": "Golden Ghost",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "MAP Brewing Company",
+    "Origin": "Bozeman, MT United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980219,
+    "BeerName": "Mountain Mule",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "MAP Brewing Company",
+    "Origin": "Bozeman, MT United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 8.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980212,
+    "BeerName": "Mosaic Hype PA",
+    "BeerStyle": "IPA - Cold",
+    "BreweryName": "MAP Brewing Company",
+    "Origin": "Bozeman, MT United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 62.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961519,
+    "BeerName": "Mountain Days Haze",
+    "BeerStyle": "Pale Ale - New England / Hazy",
+    "BreweryName": "MAP Brewing Company",
+    "Origin": "Bozeman, MT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337302,
+    "BeerName": "Watering Well Juicy IPA",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Niagara Oast House Brewers",
+    "Origin": "Niagara-on-the-Lake, ON Canada",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675428,
+    "BeerName": "1UP",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Niagara Oast House Brewers",
+    "Origin": "Niagara-on-the-Lake, ON Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675464,
+    "BeerName": "R.R. #12 - Spruce Tip IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Niagara Oast House Brewers",
+    "Origin": "Niagara-on-the-Lake, ON Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667718,
+    "BeerName": "Black Sow'r Stout",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Niagara Oast House Brewers",
+    "Origin": "Niagara-on-the-Lake, ON Canada",
+    "BeerAbv": 6.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1513,
+    "BeerName": "Malteser Weizen Kristall",
+    "BeerStyle": "Wheat Beer - Kristallweizen",
+    "BreweryName": "Stuttgarter Hofbräu",
+    "Origin": "Stuttgart, Baden-Württemberg Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13444,
+    "BeerName": "Stuttgarter Hofbräu Weihnachts-Bier",
+    "BeerStyle": "Lager - Winter",
+    "BreweryName": "Stuttgarter Hofbräu",
+    "Origin": "Stuttgart, Baden-Württemberg Germany",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4982290,
+    "BeerName": "Stuttgarter Hofbräu Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Stuttgarter Hofbräu",
+    "Origin": "Stuttgart, Baden-Württemberg Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334595,
+    "BeerName": "An East Apri-Cote Blonde(2019)",
+    "BeerStyle": "Homebrew, Blonde Ale",
+    "BreweryName": "Ragingmoon Brewing",
+    "Origin": "United States",
+    "BeerAbv": 5.25,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1989,
+    "BeerName": "Golden",
+    "BeerStyle": "Blonde / Golden Ale - American",
+    "BreweryName": "Molson Coors Canada",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

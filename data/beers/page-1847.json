@@ -1,0 +1,252 @@
+[
+  {
+    "BID": 3333563,
+    "BeerName": "Danger Ale",
+    "BeerStyle": "Homebrew, Pale Ale - Other",
+    "BreweryName": "Basement Brewing",
+    "Origin": "Ireland",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960350,
+    "BeerName": "Jalapeño Citrus Ale",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Beach Fire Brewing Company",
+    "Origin": "Campbell River, BC Canada",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980676,
+    "BeerName": "Lake House",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Dam Brewhouse",
+    "Origin": "Campton, NH United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341949,
+    "BeerName": "Teddy Hopper",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Dam Brewhouse",
+    "Origin": "Campton, NH United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960352,
+    "BeerName": "Hope",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Valentim Empório Cervejeiro",
+    "Origin": "Itabira, Minas Gerais Brazil",
+    "BeerAbv": 6.40,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960396,
+    "BeerName": "Valfenda",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Valentim Empório Cervejeiro",
+    "Origin": "Itabira, Minas Gerais Brazil",
+    "BeerAbv": 6.00,
+    "BeerIbu": 32.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960577,
+    "BeerName": "Orange the New Beer",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Valentim Empório Cervejeiro",
+    "Origin": "Itabira, Minas Gerais Brazil",
+    "BeerAbv": 5.00,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960595,
+    "BeerName": "Pilsen da Casa",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Valentim Empório Cervejeiro",
+    "Origin": "Itabira, Minas Gerais Brazil",
+    "BeerAbv": 5.20,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960591,
+    "BeerName": "Oktober",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Valentim Empório Cervejeiro",
+    "Origin": "Itabira, Minas Gerais Brazil",
+    "BeerAbv": 5.80,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980677,
+    "BeerName": "Lemon Summer Lovin’",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Icewind Brewing",
+    "Origin": "Mapleton, ND United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960353,
+    "BeerName": "Compa Lemon Lime Tequila & Soda",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "The Compa Beverage Co.",
+    "Origin": null,
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940010,
+    "BeerName": "NS3 - Imperial Schwarzbier (Maple Barrel Aged)",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Natural State Beer Company",
+    "Origin": "Rogers, AR United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960355,
+    "BeerName": "Fragment",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "New Park Brewing",
+    "Origin": "West Hartford, CT United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4962029,
+    "BeerName": "Expression 29",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "New Park Brewing",
+    "Origin": "West Hartford, CT United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940011,
+    "BeerName": "Double Black Sheep",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Hatchet Brewing Company",
+    "Origin": "Southern Pines, NC United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 14.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343293,
+    "BeerName": "AP, Eh?",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Waitoa",
+    "Origin": "Wellington City, Wellington New Zealand",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980681,
+    "BeerName": "Sunhaze",
+    "BeerStyle": "Pale Ale - New England / Hazy",
+    "BreweryName": "Waitoa",
+    "Origin": "Wellington City, Wellington New Zealand",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960356,
+    "BeerName": "The Mutt",
+    "BeerStyle": "Homebrew, Lager - IPL (India Pale Lager)",
+    "BreweryName": "Duhhct Tape Brewing",
+    "Origin": "United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1666905,
+    "BeerName": "Grapefruit IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Regan's Homebrew",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940012,
+    "BeerName": "Зилим",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Пивоварня №21",
+    "Origin": "Ufa, Republic of Bashkortostan Russia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981264,
+    "BeerName": "Жигулевское",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Пивоварня №21",
+    "Origin": "Ufa, Republic of Bashkortostan Russia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980683,
+    "BeerName": "Bock De Garde",
+    "BeerStyle": "Homebrew, Farmhouse Ale - Bière de Garde",
+    "BreweryName": "Stau-Haus Brew",
+    "Origin": "United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940013,
+    "BeerName": "Pirate De La Côte Blanche",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Ma Passion Bière",
+    "Origin": "France",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940832,
+    "BeerName": "Pirate De La Côte Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Ma Passion Bière",
+    "Origin": "France",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960357,
+    "BeerName": "American IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Cervecería El Patas",
+    "Origin": "Colombia",
+    "BeerAbv": 5.50,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  }
+]

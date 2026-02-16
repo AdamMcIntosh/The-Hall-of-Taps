@@ -1,252 +1,252 @@
 [
   {
-    "BID": "1667867",
-    "BeerName": "Cascade & Simcoe",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Almasty Brewing Co.",
-    "Origin": "Newcastle upon Tyne, Tyne and Wear England",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 6710,
+    "BeerName": "Wampatuck Wheat",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Blue Hills Brewery",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3334751",
-    "BeerName": "Hail Saison!",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Vulgar Brewing Company",
-    "Origin": "Franklin, NH United States",
-    "BeerAbv": "6",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "3334752",
-    "BeerName": "Leap Forward",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Ten55 Brewing Co",
-    "Origin": "Tucson, AZ United States",
-    "BeerAbv": "5.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1740",
-    "BeerName": "Hazed & Infused",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Boulder Beer",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": "5",
-    "BeerIbu": "38",
-    "HallRating": null
-  },
-  {
-    "BID": "1667868",
-    "BeerName": "Orange Kolsch",
-    "BeerStyle": "Homebrew, Kölsch",
-    "BreweryName": "JPM Brewery",
-    "Origin": "New Zealand",
-    "BeerAbv": "4.7",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "1741",
-    "BeerName": "Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Long Valley Pub & Brewery",
-    "Origin": "Long Valley, NJ United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334753",
-    "BeerName": "Ripped Out",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "One Well Brewing",
-    "Origin": "Kalamazoo, MI United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667869",
-    "BeerName": "Das Kölsch",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "The Bear and Peacock",
-    "Origin": "Winter Park, FL United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "24",
-    "HallRating": null
-  },
-  {
-    "BID": "3334754",
-    "BeerName": "Flanders Red",
-    "BeerStyle": "Sour - Flanders Red Ale",
-    "BreweryName": "NW Peaks Brewery",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667870",
-    "BeerName": "The Night King",
-    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
-    "BreweryName": "Westeros Brewing",
-    "Origin": "United States",
-    "BeerAbv": "5",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "1742",
-    "BeerName": "ESB",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "Long Valley Pub & Brewery",
-    "Origin": "Long Valley, NJ United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1743",
-    "BeerName": "Lazy Jake Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Long Valley Pub & Brewery",
-    "Origin": "Long Valley, NJ United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667871",
-    "BeerName": "Funky Farmer's Daughter",
-    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "Zen Monkey Brewery",
-    "Origin": "United States",
-    "BeerAbv": "6.3",
-    "BeerIbu": "31",
-    "HallRating": null
-  },
-  {
-    "BID": "3334755",
-    "BeerName": "Til Valhalla",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Gaston Brewing Company",
-    "Origin": "Fayetteville, NC United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "1744",
-    "BeerName": "Black River Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Long Valley Pub & Brewery",
-    "Origin": "Long Valley, NJ United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1745",
-    "BeerName": "German Valley Amber",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Long Valley Pub & Brewery",
-    "Origin": "Long Valley, NJ United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667872",
-    "BeerName": "Curonian Spit Honey Ale",
-    "BeerStyle": "Honey Beer",
-    "BreweryName": "Brewhouse & Kitchen - Poole",
-    "Origin": "Poole, Bournemouth, Christchurch and Poole England",
-    "BeerAbv": "4.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334756",
-    "BeerName": "Mango Tango Session Sour",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Outlaw Brewing",
-    "Origin": "Bozeman, MT United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "4",
-    "HallRating": null
-  },
-  {
-    "BID": "1746",
-    "BeerName": "Grist Mill Golden",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Long Valley Pub & Brewery",
-    "Origin": "Long Valley, NJ United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1747",
-    "BeerName": "Packs A Punch Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Krogh's Restaurant & Brew Pub",
-    "Origin": "Sparta, NJ United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334757",
-    "BeerName": "Moderate Karate",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Arbor Brewing Company",
-    "Origin": "Ypsilanti, MI United States",
-    "BeerAbv": "4.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667873",
-    "BeerName": "Pale Ale Simcoe Citra",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Partizan Brewing",
-    "Origin": "Market Harborough, Leicestershire England",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667874",
-    "BeerName": "Berliner Zoigl",
-    "BeerStyle": "Historical Beer - Zoigl",
-    "BreweryName": "Zehli Bräu Berlin",
-    "Origin": "Alt-Lankwitz, Berlin Germany",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1748",
-    "BeerName": "Old Krogh Oatmeal Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Krogh's Restaurant & Brew Pub",
-    "Origin": "Sparta, NJ United States",
-    "BeerAbv": "5",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "3334758",
-    "BeerName": "Raspberry Wheat",
+    "BID": 6711,
+    "BeerName": "Watermelon Wheat",
     "BeerStyle": "Fruit Beer",
-    "BreweryName": "Big Grove Brewery",
-    "Origin": "Iowa City, IA United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Blue Hills Brewery",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6706,
+    "BeerName": "Imperial Red IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Blue Hills Brewery",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 66.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6707,
+    "BeerName": "Extra Pale Ale (XPA)",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Blue Hills Brewery",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6708,
+    "BeerName": "Red Baron Ale",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "Blue Hills Brewery",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6709,
+    "BeerName": "Black Hops",
+    "BeerStyle": "Dark Ale",
+    "BreweryName": "Blue Hills Brewery",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 6.75,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671266,
+    "BeerName": "The Root of All Evil!",
+    "BeerStyle": "Homebrew, Porter - Other",
+    "BreweryName": "Brewer House Beer Co.",
+    "Origin": "United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671267,
+    "BeerName": "Claude's Revenge",
+    "BeerStyle": "Homebrew, Wheat Beer - American Pale Wheat",
+    "BreweryName": "JSR Homebrew",
+    "Origin": "United States",
+    "BeerAbv": 4.33,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671270,
+    "BeerName": "Citra-nite!",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "JSR Homebrew",
+    "Origin": "United States",
+    "BeerAbv": 5.25,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338490,
+    "BeerName": "2 Gallon of Hallon",
+    "BeerStyle": "Homebrew, Sour - Berliner Weisse",
+    "BreweryName": "Fredriks Surölsbryggeri",
+    "Origin": "Sweden",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334067,
+    "BeerName": "Bijwit",
+    "BeerStyle": "Homebrew, Wheat Beer - Witbier / Blanche",
+    "BreweryName": "BraVi Brews",
+    "Origin": "Netherlands",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333838,
+    "BeerName": "Speculator",
+    "BeerStyle": "Homebrew, Winter Ale",
+    "BreweryName": "BraVi Brews",
+    "Origin": "Netherlands",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333802,
+    "BeerName": "Coffee McCocoface",
+    "BeerStyle": "Brown Ale - Imperial / Double",
+    "BreweryName": "Bådin Bryggeri",
+    "Origin": "Bodø, Nordland Norway",
+    "BeerAbv": 7.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673802,
+    "BeerName": "Blårock Hvete IPA Summer Beer",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Bådin Bryggeri",
+    "Origin": "Bodø, Nordland Norway",
+    "BeerAbv": 7.00,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816784,
+    "BeerName": "Øl Med Mening",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bådin Bryggeri",
+    "Origin": "Bodø, Nordland Norway",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4939063,
+    "BeerName": "Juicy Little Thing - Loral New England Pale Ale",
+    "BeerStyle": "Pale Ale - New England / Hazy",
+    "BreweryName": "Bådin Bryggeri",
+    "Origin": "Bodø, Nordland Norway",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960936,
+    "BeerName": "Fugløya 2022 - Klatreøl Til Klatrefolk",
+    "BeerStyle": "Wheat Beer - Other",
+    "BreweryName": "Bådin Bryggeri",
+    "Origin": "Bodø, Nordland Norway",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8102,
+    "BeerName": "Glen Park I.P.A.",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Local Brewing Co.",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 62.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675979,
+    "BeerName": "Bramble (Nitro)",
+    "BeerStyle": "Dark Ale",
+    "BreweryName": "Local Brewing Co.",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671269,
+    "BeerName": "Sunnyside",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Local Brewing Co.",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 34.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672087,
+    "BeerName": "District 6 IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Local Brewing Co.",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676291,
+    "BeerName": "Wolters Spezial",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Hofbrauhaus Wolters",
+    "Origin": "Braunschweig, Niedersachsen Germany",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671360,
+    "BeerName": "EADGBe",
+    "BeerStyle": "Homebrew, IPA - New England / Hazy",
+    "BreweryName": "Valve Brewers",
+    "Origin": "Mantua, NJ United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338587,
+    "BeerName": "Big Back Eddy Belgian Golden Strong",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Mighty River Brewing Company",
+    "Origin": "Windsor, CO United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338588,
+    "BeerName": "Proef Mij Suus",
+    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
+    "BreweryName": "Le Bascule",
+    "Origin": "Netherlands",
+    "BeerAbv": 8.00,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
   }
 ]

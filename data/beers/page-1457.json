@@ -1,0 +1,252 @@
+[
+  {
+    "BID": 1673641,
+    "BeerName": "Smuttlabs: Ginger Beer",
+    "BeerStyle": "Hard Ginger Beer",
+    "BreweryName": "Smuttynose Brewing Co.",
+    "Origin": "Hampton, NH United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 14105,
+    "BeerName": "Common Man Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Smuttynose Brewing Co.",
+    "Origin": "Hampton, NH United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 12466,
+    "BeerName": "Bon Secours Émérite",
+    "BeerStyle": "Brown Ale - Belgian",
+    "BreweryName": "Brasserie Caulier",
+    "Origin": "Péruwelz, Région Wallonne Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 12390,
+    "BeerName": "Bolita",
+    "BeerStyle": "Brown Ale - Imperial / Double",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 10559,
+    "BeerName": "Coffee Cream Stout",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Great Baraboo Brewing Company",
+    "Origin": "Clinton Township, MI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4632002,
+    "BeerName": "General Zima Russian Imperial Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Great Baraboo Brewing Company",
+    "Origin": "Clinton Township, MI United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816771,
+    "BeerName": "Way of Life",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Neighbourhood Brewing",
+    "Origin": "Penticton, BC Canada",
+    "BeerAbv": 6.90,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816772,
+    "BeerName": "Maple McSwagger's Own",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Crooked Can Ohio",
+    "Origin": "Hilliard, OH United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4447191,
+    "BeerName": "Whiskey Highball",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Traverse City Whiskey Co.",
+    "Origin": null,
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4447328,
+    "BeerName": "Mikkel’s House Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Mikkeller",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3890719,
+    "BeerName": "Spontanlychee",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Mikkeller",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 7.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 10663,
+    "BeerName": "Beer Geek Brunch Weasel Barrel Aged Islay",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Mikkeller",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 10.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961085,
+    "BeerName": "Kveik Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Ska Brewing",
+    "Origin": "Durango, CO United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 95.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8501,
+    "BeerName": "True Blonde Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Ska Brewing",
+    "Origin": "Durango, CO United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9477,
+    "BeerName": "Pinstripe Red Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Ska Brewing",
+    "Origin": "Durango, CO United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5729,
+    "BeerName": "Modus Hoperandi",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Ska Brewing",
+    "Origin": "Durango, CO United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5439,
+    "BeerName": "Steel Toe Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Ska Brewing",
+    "Origin": "Durango, CO United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6734,
+    "BeerName": "Buster Nut Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Ska Brewing",
+    "Origin": "Durango, CO United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6873,
+    "BeerName": "Euphoria Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Ska Brewing",
+    "Origin": "Durango, CO United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 58.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816741,
+    "BeerName": "Hassaku Ale",
+    "BeerStyle": "Other",
+    "BreweryName": "Nakatsu Brewery",
+    "Origin": "Japan",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816818,
+    "BeerName": "Session IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Nakatsu Brewery",
+    "Origin": "Japan",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4447159,
+    "BeerName": "Azacca Me Crazy",
+    "BeerStyle": "Homebrew, IPA - New England / Hazy",
+    "BreweryName": "Rudefish Brewing",
+    "Origin": "United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 58.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343132,
+    "BeerName": "Bruin Brown",
+    "BeerStyle": "Homebrew, Brown Ale - Other",
+    "BreweryName": "Rudefish Brewing",
+    "Origin": "United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816742,
+    "BeerName": "Saazer Pils (= ? Spørgsmålstegn)",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Amager Bryghus",
+    "Origin": "Denmark",
+    "BeerAbv": 4.60,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816811,
+    "BeerName": "Projet Chromatique Pêches, Oranges sanguines & Tangerines",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Canton Brasse",
+    "Origin": "Orford, QC Canada",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  }
+]

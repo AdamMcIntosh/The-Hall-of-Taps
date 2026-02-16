@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4980898",
-    "BeerName": "Italian Pilsner",
-    "BeerStyle": "Pilsner - Italian",
-    "BreweryName": "Warfield Brewery",
-    "Origin": "Ketchum, ID United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "18",
-    "HallRating": null
+    "BID": 3343534,
+    "BeerName": "Harvest Saison",
+    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
+    "BreweryName": "Level19 Brewhouse",
+    "Origin": "Australia",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4960559",
-    "BeerName": "O.J. SImcoe",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Marble Brewery",
-    "Origin": "Albuquerque, NM United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3343531,
+    "BeerName": "Ran Out",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Level19 Brewhouse",
+    "Origin": "Australia",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4980899",
-    "BeerName": "Once Bitten Twice Shy",
-    "BeerStyle": "Brown Ale - Other",
-    "BreweryName": "BEERS by Bacon Bros",
-    "Origin": "Christchurch, Canterbury New Zealand",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1676207,
+    "BeerName": "La Baujue Brune",
+    "BeerStyle": "Brown Ale - Belgian",
+    "BreweryName": "La Baujue",
+    "Origin": "Lescheraines, Auvergne-Rhône-Alpes France",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940221",
-    "BeerName": "Extra Special Bitter (Cask)",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "Edmund's Oast Brewing Company",
-    "Origin": "Charleston, SC United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960560",
-    "BeerName": "IPA Feat.Idaho7",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Island Brewery",
-    "Origin": "Nagasaki, Japan",
-    "BeerAbv": "6.5",
-    "BeerIbu": "59",
-    "HallRating": null
-  },
-  {
-    "BID": "4980900",
-    "BeerName": "Swamp Willow",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Alibi Brewing Co.",
-    "Origin": "Auckland, New Zealand",
-    "BeerAbv": "6.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940222",
-    "BeerName": "Bumbleberry Seltzer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Willibald Farm Distillery & Brewery",
-    "Origin": "Ayr, ON Canada",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960561",
-    "BeerName": "Wolf Special Beer Eilands Porter",
-    "BeerStyle": "Homebrew, Porter - Other",
-    "BreweryName": "Wolf Special Beer",
-    "Origin": "Netherlands",
-    "BeerAbv": "6.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980901",
-    "BeerName": "Beta",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Gravity Project",
-    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940223",
-    "BeerName": "The Rally",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Sons of Kent Brewing Co.",
-    "Origin": "Chatham, ON Canada",
-    "BeerAbv": "4.8",
-    "BeerIbu": "14",
-    "HallRating": null
-  },
-  {
-    "BID": "4960562",
-    "BeerName": "The Bandon Car",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Lords Brewing Company",
-    "Origin": "Huddersfield, West Yorkshire England",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980902",
-    "BeerName": "Imperial Endorphin",
-    "BeerStyle": "Homebrew, IPA - Imperial / Double",
-    "BreweryName": "MMHomebrew",
-    "Origin": "Croatia",
-    "BeerAbv": "7.6",
-    "BeerIbu": "111",
-    "HallRating": null
-  },
-  {
-    "BID": "4940224",
-    "BeerName": "That's the Idea: Cold IPA 2.0",
-    "BeerStyle": "IPA - Cold",
-    "BreweryName": "Bell’s Brewery",
-    "Origin": "Comstock, MI United States",
-    "BeerAbv": "6.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980903",
-    "BeerName": "Yankee Light",
-    "BeerStyle": "Homebrew, Lager - American Light",
-    "BreweryName": "MMHomebrew",
-    "Origin": "Croatia",
-    "BeerAbv": "4.5",
-    "BeerIbu": "11",
-    "HallRating": null
-  },
-  {
-    "BID": "4940225",
-    "BeerName": "Hop Stupid",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Clarion - Timbuk",
-    "Origin": "Clarion, IA United States",
-    "BeerAbv": "7.6",
-    "BeerIbu": "88",
-    "HallRating": null
-  },
-  {
-    "BID": "4960563",
-    "BeerName": "Circle of Trust",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Pellicle Vergistingen",
-    "Origin": "Brugge, Vlaams Gewest Belgium",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980904",
-    "BeerName": "Orange zZap! Orange Sherbet Ale",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Moon Dog Craft Brewery",
-    "Origin": "Abbotsford, Victoria Australia",
-    "BeerAbv": "5.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980905",
-    "BeerName": "White Ale",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Yard Kings Brewing Co",
-    "Origin": "Morisset, New South Wales Australia",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940226",
-    "BeerName": "Trillibøra",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "OY Brewing",
-    "Origin": "Tórshavn, Streymoy Faroe Islands",
-    "BeerAbv": "5.5",
-    "BeerIbu": "32",
-    "HallRating": null
-  },
-  {
-    "BID": "4960564",
-    "BeerName": "Hop Shove It (down the Double Set) 2022",
-    "BeerStyle": "Homebrew, IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Lexbrew",
-    "Origin": "Netherlands",
-    "BeerAbv": "8.5",
-    "BeerIbu": "28",
-    "HallRating": null
-  },
-  {
-    "BID": "4980906",
-    "BeerName": "Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Yard Kings Brewing Co",
-    "Origin": "Morisset, New South Wales Australia",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980907",
-    "BeerName": "Convergence",
-    "BeerStyle": "Homebrew, Mead - Melomel",
-    "BreweryName": "Parallel Meadery",
-    "Origin": "Belgium",
-    "BeerAbv": "14",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940227",
-    "BeerName": "Mountains In the Mist",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "SweetWater Brewing Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960565",
-    "BeerName": "Kong's Bramble Blast",
-    "BeerStyle": "Homebrew, Stout - Imperial / Double",
-    "BreweryName": "Ripland Brewing Company",
+    "BID": 1676208,
+    "BeerName": "Hey Honey I'm Drunk",
+    "BeerStyle": "Homebrew, Brown Ale - American",
+    "BreweryName": "Strawberry Hill Brewing (Indiana)",
     "Origin": "United States",
-    "BeerAbv": "10.7",
-    "BeerIbu": "60",
-    "HallRating": null
+    "BeerAbv": 6.30,
+    "BeerIbu": 32.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940228",
-    "BeerName": "Pineapple Coconut Mango IPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Black Hog Brewing Co.",
-    "Origin": "Oxford, CT United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3343539,
+    "BeerName": "Jubilarsud Nr. 82",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Junkersdorfer Kommunbrauhaus",
+    "Origin": "Germany",
+    "BeerAbv": 6.50,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676212,
+    "BeerName": "Eastern Christiania Snæbbus Stout #1",
+    "BeerStyle": "Homebrew, Stout - Irish Dry",
+    "BreweryName": "HagTide",
+    "Origin": "Norway",
+    "BeerAbv": 5.00,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13339,
+    "BeerName": "Otto Pilate",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Von Scheidt Brewing Company",
+    "Origin": "Twin Falls, ID United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13357,
+    "BeerName": "Pub Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Von Scheidt Brewing Company",
+    "Origin": "Twin Falls, ID United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1079,
+    "BeerName": "Princess of Darkness Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "William Kuether Brewing",
+    "Origin": "Clear Lake, WI United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343540,
+    "BeerName": "Ледниковый Период",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Nightingale",
+    "Origin": "Kurchatov, Курская область Russia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343549,
+    "BeerName": "Квас ржаной",
+    "BeerStyle": "Kvass",
+    "BreweryName": "Nightingale",
+    "Origin": "Kurchatov, Курская область Russia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343559,
+    "BeerName": "English Porter (英式波特)",
+    "BeerStyle": "Porter - English",
+    "BreweryName": "Dijiu Tianchang (杭州地酒天尝)",
+    "Origin": "China / People's Republic of China",
+    "BeerAbv": 5.20,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343542,
+    "BeerName": "Weizenbock (有瓶有聚)",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Dijiu Tianchang (杭州地酒天尝)",
+    "Origin": "China / People's Republic of China",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676217,
+    "BeerName": "Happy Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Beer Hardcore",
+    "Origin": "Guang Zhou Shi, Guang Dong Sheng China / People's Republic of China",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343543,
+    "BeerName": "Bärentrunk",
+    "BeerStyle": "Historical Beer - Dampfbier",
+    "BreweryName": "1. Dampfbierbrauerei Zwiesel",
+    "Origin": "Zwiesel, Bayern Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676218,
+    "BeerName": "David Kilmister APA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "BrewMiceters Home Brewery",
+    "Origin": "Finland",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676250,
+    "BeerName": "Bitter",
+    "BeerStyle": "Homebrew, Pale Ale - English",
+    "BreweryName": "BrewMiceters Home Brewery",
+    "Origin": "Finland",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343545,
+    "BeerName": "De Blonde Koning (#1) (2016)",
+    "BeerStyle": "Homebrew, Belgian Blonde",
+    "BreweryName": "Thuis Brouwerij ''De Koning''",
+    "Origin": "Netherlands",
+    "BeerAbv": 10.50,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676219,
+    "BeerName": "Pals Pils",
+    "BeerStyle": "Homebrew, Pilsner - Other",
+    "BreweryName": "Pals Bier",
+    "Origin": "Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676220,
+    "BeerName": "Raspberry Harvest Ale",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Two Metre Tall",
+    "Origin": "Hayes, Tasmania Australia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343548,
+    "BeerName": "American IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Big Kahuna",
+    "Origin": "United States",
+    "BeerAbv": 8.80,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676221,
+    "BeerName": "#1 Codename \"Anna the Reindeer\"",
+    "BeerStyle": "Homebrew, Brown Ale - Other",
+    "BreweryName": "Højby Mark Bryghus",
+    "Origin": "Denmark",
+    "BeerAbv": 6.70,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334283,
+    "BeerName": "Prolog 49 - Hopfenkult SNPA",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Taumel Brauwerkstatt",
+    "Origin": "Germany",
+    "BeerAbv": 5.50,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676222,
+    "BeerName": "Salt Farm Pear Ale",
+    "BeerStyle": "Other",
+    "BreweryName": "Mak's Beer",
+    "Origin": "Tsuen Wan, New Territories Hong Kong",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343550,
+    "BeerName": "Apan i Vita Huset",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Falkvägens Köksbryggeri",
+    "Origin": "Sweden",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

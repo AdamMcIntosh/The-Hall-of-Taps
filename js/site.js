@@ -99,12 +99,12 @@
           (filters.breweries && filters.breweries.length > 0) ||
           (filters.styles && filters.styles.length > 0) ||
           filters.abvMin !== '0' || filters.abvMax !== '25' ||
-          filters.barMin !== '-15' || filters.barMax !== '19';
+          filters.barMin !== '-15' || (filters.barMax !== '19' && filters.barMax !== '');
       }
 
       function loadAllBeers() {
         if (allBeersCache) return Promise.resolve(allBeersCache);
-        return fetch(DATA + '/beers/all.json')
+        return fetch(DATA + '/beers/all.json', { cache: 'no-store' })
           .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load all beers')); })
           .then(function (list) {
             allBeersCache = list;
@@ -140,18 +140,32 @@
       function loadBreweryDropdown() {
         var sel = document.getElementById('filter-breweries');
         if (!sel || sel.tagName !== 'SELECT') return Promise.resolve();
-        return fetch(DATA + '/breweries/names.json')
-          .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load brewery names')); })
+        return fetch(DATA + '/breweries/names.json', { cache: 'no-store' })
+          .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load brewery names (' + r.status + ')')); })
           .then(function (names) {
+            if (!Array.isArray(names)) names = [];
             while (sel.options.length > 1) sel.remove(1);
             names.forEach(function (name) {
-              var opt = document.createElement('option');
-              opt.value = name;
-              opt.textContent = name;
-              sel.appendChild(opt);
+              try {
+                var s = name != null ? String(name) : '';
+                var opt = document.createElement('option');
+                opt.value = s;
+                opt.textContent = s;
+                sel.appendChild(opt);
+              } catch (e) {
+                console.warn('Brewery dropdown: skip invalid name', name, e);
+              }
             });
           })
-          .catch(function () { /* ignore: dropdown stays with "All breweries" only */ });
+          .catch(function (err) {
+            console.warn('Brewery dropdown: could not load data/breweries/names.json', err);
+            while (sel.options.length > 1) sel.remove(1);
+            var opt = document.createElement('option');
+            opt.value = '';
+            opt.textContent = '(brewery list failed to load — serve site from repo root)';
+            opt.disabled = true;
+            sel.appendChild(opt);
+          });
       }
 
       function beerRow(m, rowNum) {
@@ -283,7 +297,7 @@
         currentPage = page;
         currentStart = (page - 1) * pageSize;
         tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="loading">Loading…</td></tr>';
-        fetch(DATA + '/beers/page-' + pageIndex + '.json')
+        fetch(DATA + '/beers/page-' + pageIndex + '.json', { cache: 'no-store' })
           .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load page')); })
           .then(function (chunk) {
             currentChunk = chunk;
@@ -354,7 +368,7 @@
         if (barMax) barMax.addEventListener('change', function () { applyFiltersAndRender(); });
       }
 
-      fetch(DATA + '/beers/meta.json')
+      fetch(DATA + '/beers/meta.json', { cache: 'no-store' })
         .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load beers meta')); })
         .then(function (meta) {
           metaTotalPages = meta.totalPages || 1;
@@ -434,12 +448,12 @@
       if (!containerEl || !beerId) return;
       var DATA = 'data';
       containerEl.innerHTML = '<p class="loading">Loading beer…</p>';
-      fetch(DATA + '/beers/beer-index.json')
+      fetch(DATA + '/beers/beer-index.json', { cache: 'no-store' })
         .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('No index')); })
         .then(function (index) {
           var loc = index[beerId];
           if (!loc) return Promise.reject(new Error('Beer not found'));
-          return fetch(DATA + '/beers/page-' + loc.pageIndex + '.json')
+          return fetch(DATA + '/beers/page-' + loc.pageIndex + '.json', { cache: 'no-store' })
             .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load page')); })
             .then(function (chunk) {
               var beer = chunk[loc.indexInPage];

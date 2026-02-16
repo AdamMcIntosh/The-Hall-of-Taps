@@ -1,4 +1,6 @@
 .cursor/
 .github/
+.vscode/
+.vs/
 data/*.db
 node_modules/

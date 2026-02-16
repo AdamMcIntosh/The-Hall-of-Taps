@@ -1,0 +1,252 @@
+[
+  {
+    "BID": 3337167,
+    "BeerName": "Laser Shark",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Lower Left Brewing Co.",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337162,
+    "BeerName": "Juicy McJuiceface",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Lower Left Brewing Co.",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338790,
+    "BeerName": "Blanche De L'industrie",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Brasserie Artisanale Albion",
+    "Origin": "Joliette, QC Canada",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342806,
+    "BeerName": "Albion Solo Colombus",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Brasserie Artisanale Albion",
+    "Origin": "Joliette, QC Canada",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4939261,
+    "BeerName": "Solo Harlequin Ipa",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Brasserie Artisanale Albion",
+    "Origin": "Joliette, QC Canada",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961438,
+    "BeerName": "IPA du Sud-Sud",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Brasserie Artisanale Albion",
+    "Origin": "Joliette, QC Canada",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4979884,
+    "BeerName": "MINIDISC",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Bad Seed Brewing",
+    "Origin": "Storvorde, Region Nordjylland Denmark",
+    "BeerAbv": 5.00,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980028,
+    "BeerName": "Dippity Bop",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "Wooden Ship Brewing Co",
+    "Origin": "Minneapolis, MN United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4959576,
+    "BeerName": "Is That Charlie Brown?",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Wooden Ship Brewing Co",
+    "Origin": "Minneapolis, MN United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4939264,
+    "BeerName": "Warlord Permission",
+    "BeerStyle": "Red Ale - Other",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4670,
+    "BeerName": "Pipe Organ Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4671,
+    "BeerName": "Pious Monk Dunkel",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4672,
+    "BeerName": "Millennium Trippel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4673,
+    "BeerName": "Celestial Gold",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4674,
+    "BeerName": "Blast Furnace Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4675,
+    "BeerName": "Oktoberfest",
+    "BeerStyle": "Märzen",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4677,
+    "BeerName": "Heavenly Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673893,
+    "BeerName": "XXth Anniversary Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 7.25,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672985,
+    "BeerName": "XXth Anniversary Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 7.25,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672009,
+    "BeerName": "Ipa Citra",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670279,
+    "BeerName": "2000 Trippel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9991,
+    "BeerName": "ThunderHop IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "The Church Brew Works",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6348,
+    "BeerName": "Shiner Oktoberfest",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Spoetzl Brewery",
+    "Origin": "Shiner, TX United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5969,
+    "BeerName": "Shiner 101 Czech Style Pilsner",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Spoetzl Brewery",
+    "Origin": "Shiner, TX United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5061,
+    "BeerName": "Shiner Black Lager",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "Spoetzl Brewery",
+    "Origin": "Shiner, TX United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  }
+]

@@ -1,252 +1,252 @@
 [
   {
-    "BID": "2173",
-    "BeerName": "INDIAna Pale Ale",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Mishawaka Brewing",
-    "Origin": "Elkhart, IN United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2174",
-    "BeerName": "Lake Effect Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Mishawaka Brewing",
-    "Origin": "Elkhart, IN United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668116",
-    "BeerName": "Formiga Sauva",
+    "BID": 12113,
+    "BeerName": "Halida",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Ramses Bier",
-    "Origin": "Hooge Zwaluwe, Noord-Brabant Netherlands",
-    "BeerAbv": "5.8",
-    "BeerIbu": "38",
-    "HallRating": null
+    "BreweryName": "South East Asia Brewery",
+    "Origin": "Thành phố Huế, Vietnam",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 15.34
   },
   {
-    "BID": "3334121",
-    "BeerName": "TDH Best Kept Secret",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "More Brewing Company",
-    "Origin": "Huntley, IL United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 11110,
+    "BeerName": "Scarface Imperial Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Speakeasy Ales & Lagers",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 50.00,
+    "HallRating": 15.33
   },
   {
-    "BID": "2175",
-    "BeerName": "Four Horsemen Ale",
-    "BeerStyle": "Red Ale - Irish",
-    "BreweryName": "Mishawaka Brewing",
-    "Origin": "Elkhart, IN United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2176",
-    "BeerName": "Kolsch",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Mishawaka Brewing",
-    "Origin": "Elkhart, IN United States",
-    "BeerAbv": "4.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668117",
-    "BeerName": "Roggen-Weizen",
-    "BeerStyle": "Homebrew, Wheat Beer - Wheat Wine",
-    "BreweryName": "Berbauernwirt",
-    "Origin": "Germany",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334122",
-    "BeerName": "Wavvves",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Foam Brewers",
-    "Origin": "Burlington, VT United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2177",
-    "BeerName": "Wall Street Wheat Ale",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Mishawaka Brewing",
-    "Origin": "Elkhart, IN United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334123",
-    "BeerName": "Wild Panther Blackberry",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Font Salem",
-    "Origin": "Salem, Comunidad Valenciana Spain",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2178",
-    "BeerName": "Red Lager",
-    "BeerStyle": "Lager - American Amber / Red",
-    "BreweryName": "Jacob Leinenkugel Brewing Company",
-    "Origin": "Chippewa Falls, WI United States",
-    "BeerAbv": "4.9",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "1668118",
-    "BeerName": "Projeto #M01",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Cervejaria Premium Paulista",
-    "Origin": "Santo André, São Paulo Brazil",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334124",
-    "BeerName": "Win*Some",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Reformation Brewery",
-    "Origin": "Canton, GA United States",
-    "BeerAbv": "4.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2180",
-    "BeerName": "Holiday Ale",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Slab City Brewing",
-    "Origin": "Bonduel, WI United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668119",
-    "BeerName": "Pivo",
-    "BeerStyle": "Homebrew, Pilsner - Other",
-    "BreweryName": "Flygman Wouldz",
-    "Origin": "Sweden",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334125",
-    "BeerName": "Sweet Stout",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Gusar Brewery",
-    "Origin": "Sevastopol, Севастополь Russia",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2181",
-    "BeerName": "Raftman",
-    "BeerStyle": "Smoked Beer",
-    "BreweryName": "Unibroue",
-    "Origin": "Chambly, QC Canada",
-    "BeerAbv": "5.5",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "1668120",
-    "BeerName": "Hippie Hop",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "ZOO Homebrew",
-    "Origin": "United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334126",
-    "BeerName": "Dialed Back",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Mumford Brewing",
-    "Origin": "Los Angeles, CA United States",
-    "BeerAbv": "6.75",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2182",
-    "BeerName": "Strong Suffolk Dark Ale / Vintage Ale / Olde Suffolk English Ale",
-    "BeerStyle": "Strong Ale - English",
-    "BreweryName": "Greene King",
-    "Origin": "Bury St Edmunds, Suffolk England",
-    "BeerAbv": "6",
-    "BeerIbu": "26",
-    "HallRating": null
-  },
-  {
-    "BID": "1668121",
-    "BeerName": "Black Cherry Saxy Machismo",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Haw River Farmhouse Ales",
-    "Origin": "Saxapahaw, NC United States",
-    "BeerAbv": "12.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668122",
-    "BeerName": "East Coast Pale Ale",
+    "BID": 1076,
+    "BeerName": "Ruth",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Sigtuna Brygghus",
-    "Origin": "Arlandastad, Stockholms län Sweden",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Hair of the Dog Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 15.33
   },
   {
-    "BID": "3334127",
-    "BeerName": "Dry Hopped House Sour (2019)",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Cultivate Coffee & TapHouse",
-    "Origin": "Ypsilanti, MI United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 12540,
+    "BeerName": "Umbrix",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Mike Hess Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 10.20,
+    "BeerIbu": 75.00,
+    "HallRating": 15.33
   },
   {
-    "BID": "2184",
-    "BeerName": "Beekeepers Honey Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Minocqua Brewing Company",
-    "Origin": "Minocqua, WI United States",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 12328,
+    "BeerName": "Double Haul®",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "KettleHouse Brewing Company",
+    "Origin": "Bonner-West Riverside, MT United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 65.00,
+    "HallRating": 15.32
   },
   {
-    "BID": "1668123",
-    "BeerName": "Black Rye Ale",
-    "BeerStyle": "Homebrew, Rye Beer",
-    "BreweryName": "Cupp Brew",
-    "Origin": "United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 12426,
+    "BeerName": "Highland Cask Ale",
+    "BeerStyle": "Scottish Export Ale",
+    "BreweryName": "Innis & Gunn",
+    "Origin": "Edinburgh, Scotland",
+    "BeerAbv": 7.10,
+    "BeerIbu": 0.00,
+    "HallRating": 15.31
+  },
+  {
+    "BID": 11485,
+    "BeerName": "Pilsner Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Muskoka Brewery",
+    "Origin": "Bracebridge, ON Canada",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 15.30
+  },
+  {
+    "BID": 12642,
+    "BeerName": "Blackstone Porter",
+    "BeerStyle": "Porter - English",
+    "BreweryName": "Driftwood Brewery",
+    "Origin": "Victoria, BC Canada",
+    "BeerAbv": 6.00,
+    "BeerIbu": 25.00,
+    "HallRating": 15.30
+  },
+  {
+    "BID": 11564,
+    "BeerName": "Premium Blonde",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "St Arnou Premium Beers",
+    "Origin": "Smithfield, New South Wales Australia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 15.30
+  },
+  {
+    "BID": 10320,
+    "BeerName": "Mugshot IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Jailhouse Brewing Company",
+    "Origin": "Hampton, GA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "HallRating": 15.30
+  },
+  {
+    "BID": 10978,
+    "BeerName": "Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Bier Brewery",
+    "Origin": "Indianapolis, IN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 15.30
+  },
+  {
+    "BID": 109,
+    "BeerName": "Woody Organic IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Roots Organic Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 73.00,
+    "HallRating": 15.30
+  },
+  {
+    "BID": 11461,
+    "BeerName": "Temptress",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Holgate Brewhouse",
+    "Origin": "Woodend, Victoria Australia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 31.00,
+    "HallRating": 15.30
+  },
+  {
+    "BID": 1167,
+    "BeerName": "Wild Brunette",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Barley John’s Brew Pub",
+    "Origin": "New Brighton, MN United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 50.00,
+    "HallRating": 15.29
+  },
+  {
+    "BID": 11237,
+    "BeerName": "Brownstone",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Sixpoint Brewery",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 45.00,
+    "HallRating": 15.29
+  },
+  {
+    "BID": 11328,
+    "BeerName": "1812",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Emerson's Brewery",
+    "Origin": "Dunedin, Otago New Zealand",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 15.29
+  },
+  {
+    "BID": 12318,
+    "BeerName": "Uncle Steve's Irish Stout",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Short’s Brewing Company",
+    "Origin": "Elk Rapids, MI United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 20.00,
+    "HallRating": 15.29
+  },
+  {
+    "BID": 12022,
+    "BeerName": "Christmas Ale",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Olde Hickory Brewery",
+    "Origin": "Hickory, NC United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 11.00,
+    "HallRating": 15.28
+  },
+  {
+    "BID": 10264,
+    "BeerName": "Hoptimus",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "New Albanian Brewing Company",
+    "Origin": "New Albany, IN United States",
+    "BeerAbv": 10.70,
+    "BeerIbu": 100.00,
+    "HallRating": 15.26
+  },
+  {
+    "BID": 10587,
+    "BeerName": "Rise Up Red",
+    "BeerStyle": "IPA - Red",
+    "BreweryName": "Hopworks Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 65.00,
+    "HallRating": 15.26
+  },
+  {
+    "BID": 11374,
+    "BeerName": "Fantôme de Noël",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Brasserie Fantôme",
+    "Origin": "Érezée, Région Wallonne Belgium",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 15.26
+  },
+  {
+    "BID": 1117,
+    "BeerName": "Oatmeal Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Blue Point Brewing Company",
+    "Origin": "Patchogue, NY United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 17.00,
+    "HallRating": 15.24
+  },
+  {
+    "BID": 11812,
+    "BeerName": "Gran Sport Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "COOP Ale Works",
+    "Origin": "Oklahoma City, OK United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 43.00,
+    "HallRating": 15.23
+  },
+  {
+    "BID": 10265,
+    "BeerName": "Fathead Barleywine",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Nebraska Brewing Company",
+    "Origin": "La Vista, NE United States",
+    "BeerAbv": 12.10,
+    "BeerIbu": 34.00,
+    "HallRating": 15.22
+  },
+  {
+    "BID": 11283,
+    "BeerName": "Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Dry Dock Brewing Company",
+    "Origin": "Aurora, CO United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 90.00,
+    "HallRating": 15.22
   }
 ]

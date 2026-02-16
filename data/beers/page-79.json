@@ -1,252 +1,252 @@
 [
   {
-    "BID": "577",
-    "BeerName": "Witwe Bolte",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Gasthaus-Brauerei Max & Moritz",
-    "Origin": "Kressbronn am Bodensee, Baden-Württemberg Germany",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1668062,
+    "BeerName": "Northern Ale",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Four Candles",
+    "Origin": "Broadstairs, Kent England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1667076",
-    "BeerName": "The Pale Piper",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Blind Piper Brewing",
-    "Origin": "Lawrence, KS United States",
-    "BeerAbv": "5.45",
-    "BeerIbu": "35",
-    "HallRating": null
+    "BID": 3341362,
+    "BeerName": "Bramling",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Four Candles",
+    "Origin": "Broadstairs, Kent England",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3333731",
-    "BeerName": "Twin Killing Session Ale",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "One O’Eight",
-    "Origin": "United States",
-    "BeerAbv": "5.38",
-    "BeerIbu": "30",
-    "HallRating": null
+    "BID": 3338469,
+    "BeerName": "All the Fours",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Four Candles",
+    "Origin": "Broadstairs, Kent England",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "578",
-    "BeerName": "Lehrer Lämpel",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Gasthaus-Brauerei Max & Moritz",
-    "Origin": "Kressbronn am Bodensee, Baden-Württemberg Germany",
-    "BeerAbv": "5.6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3337733,
+    "BeerName": "Sugar Mag Strawberry Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Ocean Beach Brewery",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1667077",
-    "BeerName": "Jarrylo Saison",
+    "BID": 1671297,
+    "BeerName": "Roll Wit' It",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Ocean Beach Brewery",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333755,
+    "BeerName": "Restroom Is On the 2nd Floor",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Ocean Beach Brewery",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670454,
+    "BeerName": "Melon",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Arpanoosh (Istak)",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13988,
+    "BeerName": "Malt",
+    "BeerStyle": "Non-Alcoholic - Malt Soda",
+    "BreweryName": "Arpanoosh (Istak)",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337641,
+    "BeerName": "Hokkaido Sorachipa",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Cervejaria Hator",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 7.00,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676978,
+    "BeerName": "Fluffernutter",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Paper City Brewing Company",
+    "Origin": "Holyoke, MA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5491,
+    "BeerName": "Holyoke Dam Ale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Paper City Brewing Company",
+    "Origin": "Holyoke, MA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670456,
+    "BeerName": "Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Brew Practitioners, LLC.",
+    "Origin": "East Longmeadow, MA United States",
+    "BeerAbv": 5.25,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670523,
+    "BeerName": "Ipa",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Brew Practitioners, LLC.",
+    "Origin": "East Longmeadow, MA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 86.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670458,
+    "BeerName": "Essential IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Austin Beerworks",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342859,
+    "BeerName": "Rad Lager Vol. 2",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Austin Beerworks",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3344249,
+    "BeerName": "Texas Common",
+    "BeerStyle": "California Common",
+    "BreweryName": "Austin Beerworks",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3344305,
+    "BeerName": "Freeagle",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Austin Beerworks",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5496,
+    "BeerName": "Hopnoxxxious IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Walldorff Brewpub & Bistro",
+    "Origin": "Hastings, MI United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5497,
+    "BeerName": "Bistro Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Walldorff Brewpub & Bistro",
+    "Origin": "Hastings, MI United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5499,
+    "BeerName": "State Street Oatmeal Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Walldorff Brewpub & Bistro",
+    "Origin": "Hastings, MI United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5500,
+    "BeerName": "Bee Sting Honey Rye",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Walldorff Brewpub & Bistro",
+    "Origin": "Hastings, MI United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5501,
+    "BeerName": "Amber Waves",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Walldorff Brewpub & Bistro",
+    "Origin": "Hastings, MI United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5502,
+    "BeerName": "Padawan Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Walldorff Brewpub & Bistro",
+    "Origin": "Hastings, MI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9565,
+    "BeerName": "Candy Snatcher Pumpkin Ale",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Walldorff Brewpub & Bistro",
+    "Origin": "Hastings, MI United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670459,
+    "BeerName": "Year Old Brew",
     "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "Behind The Sofa",
+    "BreweryName": "Star Bob's",
     "Origin": "United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "579",
-    "BeerName": "Kellerpils",
-    "BeerStyle": "Kellerbier / Zwickelbier",
-    "BreweryName": "Gasthaus-Brauerei Max & Moritz",
-    "Origin": "Kressbronn am Bodensee, Baden-Württemberg Germany",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333732",
-    "BeerName": "Hops & Hibiscus",
-    "BeerStyle": "IPA - Brut",
-    "BreweryName": "Peaks N Pines Brewing Company",
-    "Origin": "Colorado Springs, CO United States",
-    "BeerAbv": "8.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "580",
-    "BeerName": "Sanwald Weizen Dunkel",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Dinkelacker-Schwaben Bräu",
-    "Origin": "Stuttgart, Baden-Württemberg Germany",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667078",
-    "BeerName": "Tessellation IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Right Mind Brewing",
-    "Origin": "Blacksburg, VA United States",
-    "BeerAbv": "7",
-    "BeerIbu": "65",
-    "HallRating": null
-  },
-  {
-    "BID": "3333733",
-    "BeerName": "Hooked Up",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Mt. Tabor Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": "6",
-    "BeerIbu": "66",
-    "HallRating": null
-  },
-  {
-    "BID": "581",
-    "BeerName": "Schwaben Bräu Das Schwarze",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "Dinkelacker-Schwaben Bräu",
-    "Origin": "Stuttgart, Baden-Württemberg Germany",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667079",
-    "BeerName": "Indian Pale Ale",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Pegasus Bier",
-    "Origin": "Novo Hamburgo, Rio Grande do Sul Brazil",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333734",
-    "BeerName": "Yes, We Canada!",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Unicorn Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": "6.4",
-    "BeerIbu": "39",
-    "HallRating": null
-  },
-  {
-    "BID": "582",
-    "BeerName": "Hecker Dunkel",
-    "BeerStyle": "Lager - Munich Dunkel",
-    "BreweryName": "Ruppaner Brauerei",
-    "Origin": "Konstanz, Baden-Württemberg Germany",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667080",
-    "BeerName": "Wild Sour Series: Synchopathic (w/ Pomegranate)",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "DESTIHL Brewery",
-    "Origin": "Normal, IL United States",
-    "BeerAbv": "6",
-    "BeerIbu": "8",
-    "HallRating": null
-  },
-  {
-    "BID": "3333735",
-    "BeerName": "Breslauer Pilsener",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Denninghoff's",
-    "Origin": "Heidelberg, Baden-Württemberg Germany",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "583",
-    "BeerName": "Kristall Weizen",
-    "BeerStyle": "Wheat Beer - Kristallweizen",
-    "BreweryName": "Ruppaner Brauerei",
-    "Origin": "Konstanz, Baden-Württemberg Germany",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "584",
-    "BeerName": "Hefe Weizen Dunkel",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Ruppaner Brauerei",
-    "Origin": "Konstanz, Baden-Württemberg Germany",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667081",
-    "BeerName": "Fight Club",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Ei8ht Ball Brewing",
-    "Origin": "Bellevue, KY United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333736",
-    "BeerName": "ChocOatChip Stout",
-    "BeerStyle": "Homebrew, Stout - Oatmeal",
-    "BreweryName": "FrostByte Home Brew",
-    "Origin": "United States",
-    "BeerAbv": "5.1",
-    "BeerIbu": "38",
-    "HallRating": null
-  },
-  {
-    "BID": "585",
-    "BeerName": "Schimmele Naturtrübes Pils",
-    "BeerStyle": "Kellerbier / Zwickelbier - Kellerpils",
-    "BreweryName": "Ruppaner Brauerei",
-    "Origin": "Konstanz, Baden-Württemberg Germany",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "586",
-    "BeerName": "Hefe Weizen Hell",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Ruppaner Brauerei",
-    "Origin": "Konstanz, Baden-Württemberg Germany",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667082",
-    "BeerName": "Connecticut United FC Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Shebeen Brewing",
-    "Origin": "Pawtucket, RI United States",
-    "BeerAbv": "5.1",
-    "BeerIbu": "6",
-    "HallRating": null
-  },
-  {
-    "BID": "3333737",
-    "BeerName": "NorthWest Logger Spruce Tip Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Fuggles Beer",
-    "Origin": "Richmond, BC Canada",
-    "BeerAbv": "5",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "587",
-    "BeerName": "Spezial Export",
-    "BeerStyle": "Lager - Dortmunder / Export",
-    "BreweryName": "Ruppaner Brauerei",
-    "Origin": "Konstanz, Baden-Württemberg Germany",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

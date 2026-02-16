@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4980507",
-    "BeerName": "ColdFire Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "ColdFire Brewing",
-    "Origin": "Eugene, OR United States",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960194",
-    "BeerName": "Cisca Que Eu Jogo Milho",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "BrewZeiros",
-    "Origin": "Contagem, Minas Gerais Brazil",
-    "BeerAbv": "4.4",
-    "BeerIbu": "11",
-    "HallRating": null
-  },
-  {
-    "BID": "4939851",
-    "BeerName": "Havtorn Surveza",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Emmaboda Bryggeri",
-    "Origin": "Emmaboda kommun, Kalmar län Sweden",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980508",
-    "BeerName": "Holy Mountain",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "L'Ermitage",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": "3.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960195",
-    "BeerName": "Bier Van Finne Haar Pa",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Ardea - Tstraat",
-    "Origin": "Wijnegem, Vlaams Gewest Belgium",
-    "BeerAbv": "8.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980509",
-    "BeerName": "Easy Peasy",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Radical Road Brewing Co.",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939852",
-    "BeerName": "THBC Pilsner",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Terre Haute Brewing Company",
-    "Origin": "Terre Haute, IN United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "4939853",
-    "BeerName": "Existential State",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "Our Mutual Friend Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960196",
-    "BeerName": "Brown Slap",
-    "BeerStyle": "Homebrew, Brown Ale - Imperial / Double",
-    "BreweryName": "Teslas Tiki Taproom",
+    "BID": 9322,
+    "BeerName": "Triple B",
+    "BeerStyle": "Homebrew, Other",
+    "BreweryName": "AP Brewing Company",
     "Origin": "United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4980510",
-    "BeerName": "BeerBa",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Vega Italia Franchini",
-    "Origin": "Colombiera-Molicciara, Liguria Italy",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3339918,
+    "BeerName": "Tzitzani",
+    "BeerStyle": "Mead - Traditional",
+    "BreweryName": "Tepoli Cervecería",
+    "Origin": "Guanajuato City, Guanajuato Mexico",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4939854",
-    "BeerName": "Altbayerisches Radler Dunkel \"Guidobaldo\"",
-    "BeerStyle": "Lager - Munich Dunkel",
-    "BreweryName": "Privatbrauerei M.C. Wieninger",
-    "Origin": "Teisendorf, Bayern Germany",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1672619,
+    "BeerName": "Quencher",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Spotty Dog Cider",
+    "Origin": "Wadebridge, Cornwall England",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4939855",
-    "BeerName": "Sour Ale Citron Gingembre",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Bières de Ré",
-    "Origin": "Sainte-Marie-de-Ré, Nouvelle-Aquitaine France",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1672621,
+    "BeerName": "Good Ol' Sailor Blue",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Three Towns Independent Brewers",
+    "Origin": "Stockholm, Stockholms län Sweden",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4960197",
-    "BeerName": "Pucker Up & Pivot - Strawberry",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Lions Roar Brewing Co.",
-    "Origin": "Westfield, NJ United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "24",
-    "HallRating": null
+    "BID": 3339923,
+    "BeerName": "Big Pig Premium Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Big Pig Brewery",
+    "Origin": "Russia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4980511",
-    "BeerName": "Parachute Minds",
-    "BeerStyle": "Lager - IPL (India Pale Lager)",
-    "BreweryName": "Restless Moons Brewing",
-    "Origin": "Harrisonburg, VA United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939856",
-    "BeerName": "Agricola Chiara",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Birra Salento",
-    "Origin": "Leverano, Puglia Italy",
-    "BeerAbv": "5",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4980512",
-    "BeerName": "Old Man Frank",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "High Pines Brewing",
-    "Origin": "Roseville, MN United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960198",
-    "BeerName": "Batch 6: San Diego Super Lager",
-    "BeerStyle": "Lager - Strong",
-    "BreweryName": "East Village Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "4939857",
-    "BeerName": "Strobe Lights And Haze",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Heliotrope Brewery",
-    "Origin": "Lexington, VA United States",
-    "BeerAbv": "7.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980513",
-    "BeerName": "Limited Releasse",
-    "BeerStyle": "Cream Ale",
-    "BreweryName": "Third Space Brewing",
-    "Origin": "MIlwaukee, WI United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960199",
-    "BeerName": "Earth Kveik",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "4 By 4 Brewing Company",
-    "Origin": "Springfield, MO United States",
-    "BeerAbv": "6.3",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "4939858",
-    "BeerName": "Mojito Mo Problems Frozen Seltzer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Fort Brewery",
-    "Origin": "Fort Worth, TX United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980514",
-    "BeerName": "Shacked",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Port Brewing Company",
-    "Origin": "San Marcos, CA United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939859",
-    "BeerName": "Cirrus",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Rouge River Brewing Company",
-    "Origin": "Markham, ON Canada",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980515",
-    "BeerName": "Tête de Cuvée (Vintage 2020)",
+    "BID": 1672623,
+    "BeerName": "Paljas Saison",
     "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Brouwerij Henricus",
+    "Origin": "Brugge, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4960200",
-    "BeerName": "Specialized Bicycle Imports",
+    "BID": 1676198,
+    "BeerName": "Paljas Session Brown",
+    "BeerStyle": "Brown Ale - Belgian",
+    "BreweryName": "Brouwerij Henricus",
+    "Origin": "Brugge, Vlaams Gewest Belgium",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333880,
+    "BeerName": "Jöllin Juhlaolut",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "RPS Brewing",
+    "Origin": "Kuopio, Pohjois-Savo Finland",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3890763,
+    "BeerName": "Berries And Roses",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "RPS Brewing",
+    "Origin": "Kuopio, Pohjois-Savo Finland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4939756,
+    "BeerName": "SexyPöksyt",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "RPS Brewing",
+    "Origin": "Kuopio, Pohjois-Savo Finland",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4941042,
+    "BeerName": "John Smith Rock Festival",
     "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Ulverston Brewing Company",
-    "Origin": "Ulverston, Westmorland and Furness England",
-    "BeerAbv": "3.9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "RPS Brewing",
+    "Origin": "Kuopio, Pohjois-Savo Finland",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961044,
+    "BeerName": "Ruthless Lemonade",
+    "BeerStyle": "Other",
+    "BreweryName": "RPS Brewing",
+    "Origin": "Kuopio, Pohjois-Savo Finland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4962069,
+    "BeerName": "Small Batch Series 001: Lemongrass Gose",
+    "BeerStyle": "Sour - Other Gose",
+    "BreweryName": "RPS Brewing",
+    "Origin": "Kuopio, Pohjois-Savo Finland",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672624,
+    "BeerName": "Sitrus Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Vinjar Gårdsbryggeri",
+    "Origin": "Røste, Oppland Norway",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672625,
+    "BeerName": "White Rose",
+    "BeerStyle": "Hard Kombucha / Jun",
+    "BreweryName": "Brew Dr. Kombucha",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339929,
+    "BeerName": "Pinniped Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Seward Brewing Company",
+    "Origin": "Seward, AK United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339931,
+    "BeerName": "Abuelitas Suavecito",
+    "BeerStyle": "Brown Ale - Belgian",
+    "BreweryName": "Islla St. Brewing",
+    "Origin": "San Antonio, TX United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342220,
+    "BeerName": "Fresa Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Islla St. Brewing",
+    "Origin": "San Antonio, TX United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 29.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672628,
+    "BeerName": "Norxe Fort",
+    "BeerStyle": "Homebrew, Belgian Strong Golden Ale",
+    "BreweryName": "Norxe",
+    "Origin": "Norway",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8575,
+    "BeerName": "Cali Common",
+    "BeerStyle": "California Common",
+    "BreweryName": "Lucky Hand Brewing Company",
+    "Origin": "Novato, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672629,
+    "BeerName": "Адский Кочегар",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Brodyachiy-Troll-Svaril",
+    "Origin": "Russia",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339933,
+    "BeerName": "\"The Brut\" Dry Hopped Braggot",
+    "BeerStyle": "Mead - Braggot",
+    "BreweryName": "Wolf Brewing Company",
+    "Origin": "Nanaimo, BC Canada",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672630,
+    "BeerName": "Salvia-honung",
+    "BeerStyle": "Hard Kombucha / Jun",
+    "BreweryName": "Roots of Malmö Kombucha",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 12827,
+    "BeerName": "Belgian Dubbel",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "Six Row Brewing Co.",
+    "Origin": "St Louis, MO United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13089,
+    "BeerName": "Black IPA",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Six Row Brewing Co.",
+    "Origin": "St Louis, MO United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
   }
 ]

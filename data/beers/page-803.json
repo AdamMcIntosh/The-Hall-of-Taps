@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4961278",
-    "BeerName": "Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Little Brown Jug",
-    "Origin": "Winnipeg, MB Canada",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 2162,
+    "BeerName": "Whose Ear? Red Ale",
+    "BeerStyle": "Red Ale - Imperial / Double",
+    "BreweryName": "Barley Island Brewing Company",
+    "Origin": "Noblesville, IN United States",
+    "BeerAbv": 9.30,
+    "BeerIbu": 86.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981630",
-    "BeerName": "Kapüra",
-    "BeerStyle": "Bock - Doppelbock",
-    "BreweryName": "Viralata",
-    "Origin": "Valdivia, Los Ríos Chile",
-    "BeerAbv": "8.2",
-    "BeerIbu": "22",
-    "HallRating": null
+    "BID": 2163,
+    "BeerName": "Rust Belt Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Barley Island Brewing Company",
+    "Origin": "Noblesville, IN United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940920",
-    "BeerName": "Way Out of Babylon",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Cervejaria Octopus",
-    "Origin": "Belo Horizonte, Minas Gerais Brazil",
-    "BeerAbv": "10.7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 2164,
+    "BeerName": "60 Shilling Scotch Ale",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Barley Island Brewing Company",
+    "Origin": "Noblesville, IN United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940921",
-    "BeerName": "Et Al.",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Root + Branch Brewing",
-    "Origin": "Copiague, NY United States",
-    "BeerAbv": "2.5",
-    "BeerIbu": "5",
-    "HallRating": null
-  },
-  {
-    "BID": "4961279",
-    "BeerName": "Nollie",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Fremont Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "70",
-    "HallRating": null
-  },
-  {
-    "BID": "4981631",
-    "BeerName": "I’m Berry Into Mangos",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Ankrolab Brewing Company",
-    "Origin": "Naples, FL United States",
-    "BeerAbv": "6.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940922",
-    "BeerName": "Function Imperial Oatmeal Stout w Vietnamese Coffee & Cinnamon",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Nerdbrewing",
-    "Origin": "Malmo, Skåne län Sweden",
-    "BeerAbv": "16.1",
-    "BeerIbu": "65",
-    "HallRating": null
-  },
-  {
-    "BID": "4961280",
-    "BeerName": "Spiked & Citrused Hoppy Refresher",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Lagunitas Brewing Company",
-    "Origin": "Petaluma, CA United States",
-    "BeerAbv": "3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981632",
-    "BeerName": "Karbachtoberfest",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Karbach Brewing Co.",
-    "Origin": "Houston, TX United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4961281",
-    "BeerName": "Hay There! Homestead Saison",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Devil’s Club Brewing Company",
-    "Origin": "Juneau, AK United States",
-    "BeerAbv": "6",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4981633",
-    "BeerName": "Blackberry Lemon Seltzer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "KettleHouse Brewing Company",
-    "Origin": "Bonner-West Riverside, MT United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940923",
-    "BeerName": "Ich Bin Berliner",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Brewski",
-    "Origin": "Helsingborg, Skåne län Sweden",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981634",
-    "BeerName": "Away We Go",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Niagara College Teaching Brewery",
-    "Origin": "Niagara-on-the-Lake, ON Canada",
-    "BeerAbv": "10.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940924",
-    "BeerName": "Hedera Helix",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Greenhouse Brewery",
-    "Origin": "Belo Horizonte, Minas Gerais Brazil",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961282",
-    "BeerName": "Mandy's Citrus Shandy",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "St. Elmo Brewing Company",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": "7.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981635",
-    "BeerName": "Perry Cider",
-    "BeerStyle": "Cider - Perry / Poiré",
-    "BreweryName": "Pond Hill Farm",
-    "Origin": "Harbor Springs, MI United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940925",
-    "BeerName": "Pelforth Brune",
-    "BeerStyle": "Brown Ale - Belgian",
-    "BreweryName": "Heineken France",
-    "Origin": "Rueil-Malmaison, Île-de-France France",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961283",
-    "BeerName": "Jacked UP: Moon Cake",
-    "BeerStyle": "Cider - Sweet",
-    "BreweryName": "Crimson Sunset Cidery",
-    "Origin": "Cascade, IA United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981636",
-    "BeerName": "New Zealand Pilsner",
-    "BeerStyle": "Pilsner - New Zealand",
-    "BreweryName": "Fracture Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940926",
-    "BeerName": "Lost Palace",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Funky Fluid",
-    "Origin": "Warszawa, Mazowieckie Poland",
-    "BeerAbv": "5.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981637",
-    "BeerName": "FROG JUICE Kombucha",
-    "BeerStyle": "Hard Kombucha / Jun",
-    "BreweryName": "Crafty Bastard Brewery",
-    "Origin": "Knoxville, TN United States",
-    "BeerAbv": "1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940927",
-    "BeerName": "Hopfengalerie #4 - Mosaic",
+    "BID": 2165,
+    "BeerName": "Blind Tiger Pale Ale",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Synde Bräu",
-    "Origin": "Leipzig, Sachsen Germany",
-    "BeerAbv": "5.6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Barley Island Brewing Company",
+    "Origin": "Noblesville, IN United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961284",
-    "BeerName": "Between Worlds",
-    "BeerStyle": "IPA - Cold",
-    "BreweryName": "Portage Brewing Company",
-    "Origin": "Walker, MN United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "45",
-    "HallRating": null
+    "BID": 2166,
+    "BeerName": "Flat Belly American Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Barley Island Brewing Company",
+    "Origin": "Noblesville, IN United States",
+    "BeerAbv": 3.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981638",
-    "BeerName": "Hawaiian Shirt IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tennessee Hills Brewstillery",
-    "Origin": "Johnson City, TN United States",
-    "BeerAbv": "7.5",
-    "BeerIbu": "60",
-    "HallRating": null
+    "BID": 3334690,
+    "BeerName": "West Chester Common",
+    "BeerStyle": "California Common",
+    "BreweryName": "Levante Brewing Company",
+    "Origin": "West Chester, PA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961285",
-    "BeerName": "Nut Brown",
-    "BeerStyle": "Brown Ale - Other",
-    "BreweryName": "Nonsuch Brewing Co.",
-    "Origin": "Winnipeg, MB Canada",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3334510,
+    "BeerName": "Frozen Granita - Raspberry Birthday Cake",
+    "BeerStyle": "IPA - Milkshake",
+    "BreweryName": "Levante Brewing Company",
+    "Origin": "West Chester, PA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672423,
+    "BeerName": "Complexity Is Overrated",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Levante Brewing Company",
+    "Origin": "West Chester, PA United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675591,
+    "BeerName": "Green Horizon Cask (w/ Motueka, Nelson, And Galaxy)",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Levante Brewing Company",
+    "Origin": "West Chester, PA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 73.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674949,
+    "BeerName": "Hestia's Harvest Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Levante Brewing Company",
+    "Origin": "West Chester, PA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670759,
+    "BeerName": "Bullitt Train Imperial Vanilla Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Levante Brewing Company",
+    "Origin": "West Chester, PA United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 64.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815401,
+    "BeerName": "Mack's Blue Collar",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Levante Brewing Company",
+    "Origin": "West Chester, PA United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816067,
+    "BeerName": "Frozen Granita - Orange Creamsicle",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Levante Brewing Company",
+    "Origin": "West Chester, PA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4959575,
+    "BeerName": "Levante Craft Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Levante Brewing Company",
+    "Origin": "West Chester, PA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961141,
+    "BeerName": "Frozen Granita Strawberry Daiquiri",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Levante Brewing Company",
+    "Origin": "West Chester, PA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337953,
+    "BeerName": "PCT Days Hazy Pale Ale",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "Base Camp Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667636,
+    "BeerName": "Mango Hop In the Pool",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Base Camp Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336282,
+    "BeerName": "Sour Camp Kids Key Lime",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Base Camp Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336386,
+    "BeerName": "Wildwood Blended Olde Stock Ale",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Base Camp Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 7.90,
+    "BeerIbu": 37.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 2790,
+    "BeerName": "Münchner Dunkel / Munich Dark",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "Hacker-Pschorr",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1827,
+    "BeerName": "Oktoberfest Märzen",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Hacker-Pschorr",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1834,
+    "BeerName": "Dunkle Weisse",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Hacker-Pschorr",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671309,
+    "BeerName": "Weissbier",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Hacker-Pschorr",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.50,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671899,
+    "BeerName": "Weissbier",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Hacker-Pschorr",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.50,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1404,
+    "BeerName": "Hubertus Bock",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Hacker-Pschorr",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

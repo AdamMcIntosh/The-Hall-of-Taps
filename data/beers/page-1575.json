@@ -1,0 +1,252 @@
+[
+  {
+    "BID": 8015,
+    "BeerName": "Chicago Gold",
+    "BeerStyle": "Blonde / Golden Ale - American",
+    "BreweryName": "Rock Bottom Restaurant & Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8758,
+    "BeerName": "Apex Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Rock Bottom Restaurant & Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 10.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9247,
+    "BeerName": "Hog's Head Mild",
+    "BeerStyle": "Mild - Other",
+    "BreweryName": "Rock Bottom Restaurant & Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9450,
+    "BeerName": "White Tiger",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Rock Bottom Restaurant & Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816619,
+    "BeerName": "Amazacca",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Church HanBrewery",
+    "Origin": "New Yatt, Oxfordshire England",
+    "BeerAbv": 3.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4446605,
+    "BeerName": "Ale XX",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Church HanBrewery",
+    "Origin": "New Yatt, Oxfordshire England",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816170,
+    "BeerName": "Hoplark 0.0 Citra",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Hoplark",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981711,
+    "BeerName": "Really Really Hoppy NA 0.0",
+    "BeerStyle": "Other",
+    "BreweryName": "Hoplark",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981345,
+    "BeerName": "Citra",
+    "BeerStyle": "Other",
+    "BreweryName": "Hoplark",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631399,
+    "BeerName": "Allerguy",
+    "BeerStyle": "Homebrew, Belgian Blonde",
+    "BreweryName": "Brewback Mountain",
+    "Origin": "Belgium",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4446607,
+    "BeerName": "De Witte Monnik",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Stadsbrouwerij Tilburg",
+    "Origin": "Tilburg, Noord-Brabant Netherlands",
+    "BeerAbv": 5.90,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816856,
+    "BeerName": "The Beer of Niek & Lisanne",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Stadsbrouwerij Tilburg",
+    "Origin": "Tilburg, Noord-Brabant Netherlands",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4959544,
+    "BeerName": "Bende van de Witte Veer: De Pelgrim",
+    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
+    "BreweryName": "Stadsbrouwerij Tilburg",
+    "Origin": "Tilburg, Noord-Brabant Netherlands",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343734,
+    "BeerName": "Champenoise Dégorgé Talisker",
+    "BeerStyle": "Bière de Champagne / Bière Brut",
+    "BreweryName": "Stadsbrouwerij Tilburg",
+    "Origin": "Tilburg, Noord-Brabant Netherlands",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343718,
+    "BeerName": "Champenoise Dégorgé Brut",
+    "BeerStyle": "Bière de Champagne / Bière Brut",
+    "BreweryName": "Stadsbrouwerij Tilburg",
+    "Origin": "Tilburg, Noord-Brabant Netherlands",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816171,
+    "BeerName": "Blueberry Ale",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Yame Brewery",
+    "Origin": "Yame, Fukuoka Japan",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631400,
+    "BeerName": "Scottish Export Ale",
+    "BeerStyle": "Homebrew, Brown Ale - Other",
+    "BreweryName": "Meishager Brouwerij",
+    "Origin": "Netherlands",
+    "BeerAbv": 6.30,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631401,
+    "BeerName": "Botkoel Bock #2.0",
+    "BeerStyle": "Homebrew, Bock - Single / Traditional",
+    "BreweryName": "Meishager Brouwerij",
+    "Origin": "Netherlands",
+    "BeerAbv": 6.80,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631402,
+    "BeerName": "Windraak Witbier",
+    "BeerStyle": "Homebrew, Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Meishager Brouwerij",
+    "Origin": "Netherlands",
+    "BeerAbv": 4.70,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816172,
+    "BeerName": "Pineapple Sour",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "RoHa Brewing Project",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4446608,
+    "BeerName": "Aperol",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Revolution Brewery",
+    "Origin": "Moscow, Москва Russia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631403,
+    "BeerName": "Okashi no Majo (お菓子の魔女 IPA)",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Rio Brewing & Co.",
+    "Origin": "Kashiwa, Chiba Japan",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673470,
+    "BeerName": "Uijin Green Tea Dubbel",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Rio Brewing & Co.",
+    "Origin": "Kashiwa, Chiba Japan",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816175,
+    "BeerName": "Forest Blend",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Cerveceria Agua Mala",
+    "Origin": "Ensenada, Baja California Mexico",
+    "BeerAbv": 5.70,
+    "BeerIbu": 47.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337588,
+    "BeerName": "Session IPA De Temporada Con Columbus, Mosaic, Citra Y Simcoe",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Cerveceria Agua Mala",
+    "Origin": "Ensenada, Baja California Mexico",
+    "BeerAbv": 4.80,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00
+  }
+]

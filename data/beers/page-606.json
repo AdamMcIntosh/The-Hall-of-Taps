@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4939319",
-    "BeerName": "Blueberry Sage",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Big Lost Meadery",
-    "Origin": "Gillette, WY United States",
-    "BeerAbv": "18",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979945",
-    "BeerName": "CRAZY CIDER DRY",
-    "BeerStyle": "Cider - Dry",
-    "BreweryName": "CRAZY CIDER",
-    "Origin": "Japan",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959638",
-    "BeerName": "Akatosh",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Yorwick Brew",
-    "Origin": "Yekaterinburg, Sverdlovsk Oblast Russia",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939320",
-    "BeerName": "Motivated Thought",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Poor House Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939321",
-    "BeerName": "Nuttin’ But Hazel",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Unbranded Brewing Company",
-    "Origin": "Hialeah, FL United States",
-    "BeerAbv": "11.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979946",
-    "BeerName": "Paese Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Birra AnimA",
-    "Origin": "Roccasparvera, Piemonte Italy",
-    "BeerAbv": "4.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959639",
-    "BeerName": "Lęborskie Pils",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "AleBrowar",
-    "Origin": "Lębork, Pomeranian Voivodeship Poland",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939322",
-    "BeerName": "Pitch Side",
+    "BID": 1673324,
+    "BeerName": "Strange Land IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Open Air",
-    "Origin": "Kobe, Hyogo Japan",
-    "BeerAbv": "5.5",
-    "BeerIbu": "70",
-    "HallRating": null
+    "BreweryName": "dUb Brewing Company",
+    "Origin": "Slovakia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4959640",
-    "BeerName": "Brain Freeze",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "Maquoketa Brewing",
-    "Origin": "Maquoketa, IA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979947",
-    "BeerName": "In the Dunkel",
-    "BeerStyle": "Lager - Munich Dunkel",
-    "BreweryName": "SevenDaze",
-    "Origin": "Singapore",
-    "BeerAbv": "4.6",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4959641",
-    "BeerName": "Кукумба",
-    "BeerStyle": "Sour - Tomato / Vegetable Gose",
-    "BreweryName": "O²xygen",
-    "Origin": "Rivne, Рівненська область Ukraine",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939323",
-    "BeerName": "Gatty Seasonal Strawberry-Lemon",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Gatlinburg Brewing Company",
-    "Origin": "Gatlinburg, TN United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939324",
-    "BeerName": "Okse Kebab",
-    "BeerStyle": "Traditional Ale",
-    "BreweryName": "Shawarma Mesteren",
-    "Origin": null,
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959642",
-    "BeerName": "Foraged Thorns",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Mount Gretna Craft Brewery",
-    "Origin": "Palmyra, PA United States",
-    "BeerAbv": "6.1",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4979948",
-    "BeerName": "Bridge",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Noble Stein Brewing Company",
-    "Origin": "Indiana, PA United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939325",
-    "BeerName": "B.A.N.A.N.A.S.",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Twin Span Brewing",
-    "Origin": "Bettendorf, IA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959643",
-    "BeerName": "Cydr Lodowy z Pigwą 2019",
-    "BeerStyle": "Cider - Ice",
-    "BreweryName": "Cydr Chyliczki",
-    "Origin": "Chyliczki, Masovian Voivodeship Poland",
-    "BeerAbv": "15",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979949",
-    "BeerName": "Haksen Gose - 白扇ゴーゼ",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Matsuri Brewing",
-    "Origin": "Chiba, Japan",
-    "BeerAbv": "5.5",
-    "BeerIbu": "12",
-    "HallRating": null
-  },
-  {
-    "BID": "4939326",
-    "BeerName": "Back To Black",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Caos Brewing Co.",
-    "Origin": "Medellín, Antioquia Colombia",
-    "BeerAbv": "6.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959644",
-    "BeerName": "Birra Bionda Matta Bio",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Bisbino",
-    "Origin": "Sagno, Ticino Switzerland",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979950",
-    "BeerName": "Királyka",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "ŐriBird Sörfőzde",
-    "Origin": "Hungary",
-    "BeerAbv": "5.5",
-    "BeerIbu": "26",
-    "HallRating": null
-  },
-  {
-    "BID": "4939327",
-    "BeerName": "ESB 2022",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Gannon Brewery",
+    "BID": 9551,
+    "BeerName": "J&J Brown Ale",
+    "BeerStyle": "Homebrew, Brown Ale - American",
+    "BreweryName": "All In Brewing Company",
     "Origin": "United States",
-    "BeerAbv": "5",
-    "BeerIbu": "30",
-    "HallRating": null
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4959645",
-    "BeerName": "AK 47 Session IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Capitão Barley",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": "4.5",
-    "BeerIbu": "35",
-    "HallRating": null
+    "BID": 1673336,
+    "BeerName": "Laga Laga (Kai)",
+    "BeerStyle": "Lager - Japanese Rice",
+    "BreweryName": "T.T Brewery",
+    "Origin": "Kawasaki, Kanagawa Japan",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4979951",
-    "BeerName": "Complicated Airflow (2022)",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Badlands Brewing Company",
-    "Origin": "Caledon, ON Canada",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 9553,
+    "BeerName": "Redshank",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Old Chimneys Brewery",
+    "Origin": "Market Weston, Suffolk England",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4979952",
-    "BeerName": "Purpo Ale Fruit Beer",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Birra Artigianale Di Sicilia",
-    "Origin": "Italy",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1673337,
+    "BeerName": "Brass Barrel Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Australian Beer Co. House Beer",
+    "Origin": "Yenda, New South Wales Australia",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340689,
+    "BeerName": "Small Arms Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Devil's Hollow Brewery",
+    "Origin": "Dubbo, New South Wales Australia",
+    "BeerAbv": 4.40,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340691,
+    "BeerName": "Dub Vegas Mid Strength Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Devil's Hollow Brewery",
+    "Origin": "Dubbo, New South Wales Australia",
+    "BeerAbv": 3.50,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340690,
+    "BeerName": "Mandarina American Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Alma Gemela",
+    "Origin": "Colombia",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4446874,
+    "BeerName": "Kuriiri",
+    "BeerStyle": "Pale Ale - Belgian",
+    "BreweryName": "Maistila",
+    "Origin": "Oulu, Pohjois-Pohjanmaa Finland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631996,
+    "BeerName": "Haaramoukku",
+    "BeerStyle": "Red Ale - Other",
+    "BreweryName": "Maistila",
+    "Origin": "Oulu, Pohjois-Pohjanmaa Finland",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333915,
+    "BeerName": "Kouho",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Maistila",
+    "Origin": "Oulu, Pohjois-Pohjanmaa Finland",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 14032,
+    "BeerName": "Better Not Pout Stout",
+    "BeerStyle": "Homebrew, Stout - American",
+    "BreweryName": "14 & a Half Brewing Company",
+    "Origin": "United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9556,
+    "BeerName": "Mellow My Man IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "14 & a Half Brewing Company",
+    "Origin": "United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 14336,
+    "BeerName": "Dulle Griet",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "Scheldebrouwerij",
+    "Origin": "Hoogstraten, Vlaams Gewest Belgium",
+    "BeerAbv": 6.50,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13447,
+    "BeerName": "Merck Toch Hoe Sterck",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Scheldebrouwerij",
+    "Origin": "Hoogstraten, Vlaams Gewest Belgium",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13462,
+    "BeerName": "Oesterstout",
+    "BeerStyle": "Stout - Oyster",
+    "BreweryName": "Scheldebrouwerij",
+    "Origin": "Hoogstraten, Vlaams Gewest Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673340,
+    "BeerName": "Scheldepils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Scheldebrouwerij",
+    "Origin": "Hoogstraten, Vlaams Gewest Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340692,
+    "BeerName": "Peach Silhouette",
+    "BeerStyle": "IPA - Sour",
+    "BreweryName": "Hudson Valley Brewery",
+    "Origin": "Beacon, NY United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340696,
+    "BeerName": "Lemon Lime Silhouette",
+    "BeerStyle": "IPA - Sour",
+    "BreweryName": "Hudson Valley Brewery",
+    "Origin": "Beacon, NY United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673341,
+    "BeerName": "Saison",
+    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
+    "BreweryName": "Kjartans Håndverksbrygg",
+    "Origin": "Norway",
+    "BeerAbv": 6.00,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340697,
+    "BeerName": "Over Hyped Garabaaaage",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Ghist Negro",
+    "Origin": null,
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340693,
+    "BeerName": "Cinna-Neapolitn-mallow-Shit",
+    "BeerStyle": "Mild - Other",
+    "BreweryName": "Ghist Negro",
+    "Origin": null,
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673343,
+    "BeerName": "Twelve Vows",
+    "BeerStyle": "Homebrew, Wild Ale - American",
+    "BreweryName": "North Star Farms",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674444,
+    "BeerName": "Leisl",
+    "BeerStyle": "Homebrew, Wild Ale - American",
+    "BreweryName": "North Star Farms",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340695,
+    "BeerName": "Guango Deep",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Everybody's Brewing",
+    "Origin": "White Salmon, WA United States",
+    "BeerAbv": 10.20,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
   }
 ]

@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4630602",
-    "BeerName": "Weihnachtsbier",
-    "BeerStyle": "Lager - Winter",
-    "BreweryName": "Handwerksbrauerei Rottmersleben",
-    "Origin": "Germany",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4960993,
+    "BeerName": "Strawbarb Sour",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Balsam Lake Brewery & Market",
+    "Origin": "Balsam Lake, WI United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4445851",
-    "BeerName": "Mango Beer Slushy",
+    "BID": 4961225,
+    "BeerName": "1906 Amber",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Westgate Brewery",
+    "Origin": "Wakefield, West Yorkshire England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981335,
+    "BeerName": "1906 Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Westgate Brewery",
+    "Origin": "Wakefield, West Yorkshire England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4941164,
+    "BeerName": "1906 English Pale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Westgate Brewery",
+    "Origin": "Wakefield, West Yorkshire England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671459,
+    "BeerName": "Cascade",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Westgate Brewery",
+    "Origin": "Wakefield, West Yorkshire England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940643,
+    "BeerName": "Lei Up",
     "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Dionysus Brewing Company",
-    "Origin": "Bakersfield, CA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "2",
-    "HallRating": null
+    "BreweryName": "Burgeon Beer Company",
+    "Origin": "Carlsbad, CA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4815356",
-    "BeerName": "Bareksten Rhubarb",
-    "BeerStyle": "Other",
-    "BreweryName": "7 Fjell Bryggeri",
-    "Origin": "Bønes, Vestland Norway",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3342706,
+    "BeerName": "Bird's Milk",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Burgeon Beer Company",
+    "Origin": "Carlsbad, CA United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 58.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4445852",
-    "BeerName": "Luppolipa",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Birrificio Leumann",
-    "Origin": "Collegno, Piemonte Italy",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815357",
-    "BeerName": "Cask NEIPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Habitat Brew Co",
-    "Origin": "England",
-    "BeerAbv": "6",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "4630603",
-    "BeerName": "Champagnerweizen-Orangenbock (2021)",
-    "BeerStyle": "Homebrew, Bock - Weizendoppelbock",
-    "BreweryName": "Dycki's Homebrew",
-    "Origin": "Germany",
-    "BeerAbv": "10",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4445853",
-    "BeerName": "Lake Haze - Caliente",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Lakeside Craftworks",
-    "Origin": "United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4815358",
-    "BeerName": "Double Tree Red Apple",
-    "BeerStyle": "Cider - Sweet",
-    "BreweryName": "Cider House",
-    "Origin": "Oktiabrskaya, Краснодарский край Russia",
-    "BeerAbv": "5.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630604",
-    "BeerName": "Matt Zigzag",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Madame Barrel",
-    "Origin": "Poznań, Wielkopolskie Poland",
-    "BeerAbv": "7.5",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "4815359",
-    "BeerName": "Blonde Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Labona Craft Brewery",
-    "Origin": "Grad Sveta Nedelja, Istarska županija Croatia",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4445854",
-    "BeerName": "Blue Raspberry Beer Slushy",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Dionysus Brewing Company",
-    "Origin": "Bakersfield, CA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "2",
-    "HallRating": null
-  },
-  {
-    "BID": "4630605",
-    "BeerName": "Cow-A-Bunga",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Swell Beers",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4445855",
-    "BeerName": "Hazed And Confused",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Rock River Brewing Company",
-    "Origin": "Rock Rapids, IA United States",
-    "BeerAbv": "7.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815360",
-    "BeerName": "Kranige Rutte",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij EemBier",
-    "Origin": "Amersfoort, Utrecht Netherlands",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630606",
-    "BeerName": "Vanzetti",
-    "BeerStyle": "Pilsner - Italian",
-    "BreweryName": "Democracy Brewing",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815361",
-    "BeerName": "Voor (2019)",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Tommie Sjef",
-    "Origin": "Den Helder, Noord-Holland Netherlands",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4445856",
-    "BeerName": "Hoppy Habanero Red IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Flying Boat Brewing Company",
-    "Origin": "St. Petersburg, FL United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "42",
-    "HallRating": null
-  },
-  {
-    "BID": "4630607",
-    "BeerName": "Dry-Hopped Vienna Lager (2021)",
-    "BeerStyle": "Homebrew, Lager - Vienna",
-    "BreweryName": "Dycki's Homebrew",
-    "Origin": "Germany",
-    "BeerAbv": "5.5",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4815362",
-    "BeerName": "Klokhenne’s Weizen (2022)",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Mommeriete",
-    "Origin": "Gramsbergen, Overijssel Netherlands",
-    "BeerAbv": "5.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630608",
-    "BeerName": "Your Hazy Ways...Motueka, Nelson, and Simcoe",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Wise Man Brewing",
-    "Origin": "Winston Salem, NC United States",
-    "BeerAbv": "7.1",
-    "BeerIbu": "47",
-    "HallRating": null
-  },
-  {
-    "BID": "4815363",
-    "BeerName": "Eclips",
+    "BID": 4960994,
+    "BeerName": "Resterampe",
     "BeerStyle": "Homebrew, IPA - Other",
-    "BreweryName": "Hop & Friends Reuver",
-    "Origin": "Netherlands",
-    "BeerAbv": "9.5",
-    "BeerIbu": "29",
-    "HallRating": null
+    "BreweryName": "Braukunst Vorgebirge",
+    "Origin": "Bornheim, Nordrhein-Westfalen Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4445857",
-    "BeerName": "Vinte Vinte Um",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "God Save The Beer.",
-    "Origin": "Curitiba, Paraná Brazil",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4961009,
+    "BeerName": "Brotbier Sabro",
+    "BeerStyle": "Homebrew, Pale Ale - Other",
+    "BreweryName": "Braukunst Vorgebirge",
+    "Origin": "Bornheim, Nordrhein-Westfalen Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4630609",
-    "BeerName": "Self-taught",
+    "BID": 4981336,
+    "BeerName": "Bru-1 With Strata Please",
     "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Crack Of Dawn Brew Co.",
-    "Origin": "England",
-    "BeerAbv": "6.3",
-    "BeerIbu": "23",
-    "HallRating": null
+    "BreweryName": "Two Stairs Down",
+    "Origin": "Sweden",
+    "BeerAbv": 6.40,
+    "BeerIbu": 29.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4815364",
-    "BeerName": "Oatle De Boatle Wine",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Dickies Brewing",
-    "Origin": "Netherlands",
-    "BeerAbv": "9.3",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4961346,
+    "BeerName": "Blood Moon",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Bitter Sisters Brewing Company",
+    "Origin": "Addison, TX United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4445858",
-    "BeerName": "School Haze DDH IPA",
+    "BID": 3341975,
+    "BeerName": "Blackberry Family Trip",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Bitter Sisters Brewing Company",
+    "Origin": "Addison, TX United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940644,
+    "BeerName": "Family Bloodlines",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Bitter Sisters Brewing Company",
+    "Origin": "Addison, TX United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816981,
+    "BeerName": "Prickly Pear Sour",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Bathtub Row Brewing Co-op",
+    "Origin": "Los Alamos, NM United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671760,
+    "BeerName": "Razzberry Beret",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Bathtub Row Brewing Co-op",
+    "Origin": "Los Alamos, NM United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668047,
+    "BeerName": "Razzberry Beret",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Bathtub Row Brewing Co-op",
+    "Origin": "Los Alamos, NM United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1666958,
+    "BeerName": "Retirement IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "T&C Home Brewing",
+    "Origin": "United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981337,
+    "BeerName": "Mandemgo",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Fort Myers Brewing Company",
-    "Origin": "Fort Myers, FL United States",
-    "BeerAbv": "6.4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Lost+Found",
+    "Origin": "Brighton, Brighton and Hove England",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940645,
+    "BeerName": "All In A Blades Work",
+    "BeerStyle": "Homebrew, IPA - New England / Hazy",
+    "BreweryName": "Lament Brewing",
+    "Origin": "United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960997,
+    "BeerName": "Five Alarm Funk Cucumber Lime Gose",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "London Brewing Co-operative",
+    "Origin": "London, ON Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981338,
+    "BeerName": "Bière Blanche",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Penven",
+    "Origin": "Plouescat, Bretagne France",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940646,
+    "BeerName": "Kölsch",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Offset Bier",
+    "Origin": "Park City, UT United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981339,
+    "BeerName": "The Brazen Bull",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Boia Brewing Company",
+    "Origin": "Domodossola, Piemonte Italy",
+    "BeerAbv": 3.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981449,
+    "BeerName": "Barbarie",
+    "BeerStyle": "Porter - Coffee",
+    "BreweryName": "Boia Brewing Company",
+    "Origin": "Domodossola, Piemonte Italy",
+    "BeerAbv": 3.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940647,
+    "BeerName": "Island Lager",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Cooper Island Brewing Company",
+    "Origin": "Cooper Island, VI British Virgin Islands",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

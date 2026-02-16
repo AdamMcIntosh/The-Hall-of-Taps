@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4981530",
-    "BeerName": "Hoss",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Great Divide Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "27",
-    "HallRating": null
+    "BID": 3336719,
+    "BeerName": "Taverne Dort",
+    "BeerStyle": "Lager - Dortmunder / Export",
+    "BreweryName": "Gulpener Bierbrouwerij",
+    "Origin": "Gulpen, Limburg Netherlands",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940832",
-    "BeerName": "Pirate De La Côte Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Ma Passion Bière",
-    "Origin": "France",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3343950,
+    "BeerName": "Eigenweizen Tritordeum Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Gulpener Bierbrouwerij",
+    "Origin": "Gulpen, Limburg Netherlands",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981531",
-    "BeerName": "Grand Reserve Cuvee De Illuminati",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Sonder Brewing",
-    "Origin": "Mason, OH United States",
-    "BeerAbv": "14",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961191",
-    "BeerName": "Going For Gold",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Everards Brewery",
-    "Origin": "Narborough, Leicestershire England",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940833",
-    "BeerName": "La Vertueuse Ambrée",
-    "BeerStyle": "Brown Ale - Belgian",
-    "BreweryName": "Saveurs des Sucs",
-    "Origin": "Yssingeaux, Auvergne-Rhône-Alpes France",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981532",
-    "BeerName": "Kung Birger Dubbel",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Slot Oostende",
-    "Origin": "Goes, Zeeland Netherlands",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961192",
-    "BeerName": "Jackfruit",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Keys’ Meads",
-    "Origin": "Key Largo, FL United States",
-    "BeerAbv": "12",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981533",
-    "BeerName": "Mille Shacks (2022)",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "Le Prospecteur",
-    "Origin": "Val-d'Or, QC Canada",
-    "BeerAbv": "5.6",
-    "BeerIbu": "45",
-    "HallRating": null
-  },
-  {
-    "BID": "4940834",
-    "BeerName": "Witbier",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Le Grand Crue",
-    "Origin": "Vijfhuizen, Noord-Holland Netherlands",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981534",
-    "BeerName": "Be Nice",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Alternate Ending Beer Co.",
-    "Origin": "Aberdeen, NJ United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961193",
-    "BeerName": "Peachy Spiced Peach Ale",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Torque Brewing",
-    "Origin": "Winnipeg, MB Canada",
-    "BeerAbv": "4.5",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4981535",
-    "BeerName": "Double Boarded",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Thesis Beer Project",
-    "Origin": "Rochester, MN United States",
-    "BeerAbv": "6.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961194",
-    "BeerName": "Where’s My Apex",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Brødreriet Brygghus",
-    "Origin": "Norway",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940835",
-    "BeerName": "Laphroaig. Strong Smoke Whisky Ale",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "Malle",
-    "Origin": "Obukhiv, Kyivs'ka oblast Ukraine",
-    "BeerAbv": "7.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981536",
-    "BeerName": "Forte",
-    "BeerStyle": "Pilsner - Italian",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": "5.1",
-    "BeerIbu": "28",
-    "HallRating": null
-  },
-  {
-    "BID": "4981537",
-    "BeerName": "Pineland Resistance",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "Longtab Brewing Company",
-    "Origin": "San Antonio, TX United States",
-    "BeerAbv": "7.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961195",
-    "BeerName": "Ipa S'cale Au Bistrot",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "BRÂM",
-    "Origin": "Saint-Laurent-les-Églises, Nouvelle-Aquitaine France",
-    "BeerAbv": "3.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940836",
-    "BeerName": "Spišský Hrad APA 13",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Spišský Hrad",
-    "Origin": "Slovakia",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981538",
-    "BeerName": "Kung Birger Dubbel",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Slot Oostende",
-    "Origin": "Goes, Zeeland Netherlands",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981539",
-    "BeerName": "Just A Passion Project",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Transparent Brewing Company",
-    "Origin": "Grandview, MO United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "32",
-    "HallRating": null
-  },
-  {
-    "BID": "4961196",
-    "BeerName": "Going For Gold",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Everards Brewery",
-    "Origin": "Narborough, Leicestershire England",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940837",
-    "BeerName": "Dorfbier / 마을맥주",
-    "BeerStyle": "Lager - Strong",
-    "BreweryName": "Whasoo Brewery (화수브루어리)",
-    "Origin": "Ulsan, South Korea",
-    "BeerAbv": "6.3",
-    "BeerIbu": "28",
-    "HallRating": null
-  },
-  {
-    "BID": "4961197",
-    "BeerName": "La Chanvreuz'",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Sasu Microbrasserie Independante",
-    "Origin": "France",
-    "BeerAbv": "9",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "4940838",
-    "BeerName": "#025 Hoppy Start Hazy IPA",
+    "BID": 4979980,
+    "BeerName": "Micro NEIPA 2022",
     "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Full Taste Beer",
-    "Origin": "Finland",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Gulpener Bierbrouwerij",
+    "Origin": "Gulpen, Limburg Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981540",
-    "BeerName": "Dunkel Weizenbier",
-    "BeerStyle": "Homebrew, Wheat Beer - Dunkelweizen",
-    "BreweryName": "Boozer Mafia",
-    "Origin": "Brazil",
-    "BeerAbv": "4.9",
-    "BeerIbu": "12",
-    "HallRating": null
+    "BID": 4979978,
+    "BeerName": "Micro Meergranen Blond",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Gulpener Bierbrouwerij",
+    "Origin": "Gulpen, Limburg Netherlands",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334535,
+    "BeerName": "Zaubes Saulrieta Alus",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "Nomadu Alus",
+    "Origin": "Latvia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336313,
+    "BeerName": "Gold Cobra",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Brutal Beerworks",
+    "Origin": "North Richland Hills, TX United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336007,
+    "BeerName": "Rupture",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Brutal Beerworks",
+    "Origin": "North Richland Hills, TX United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667661,
+    "BeerName": "Acriminious",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Brutal Beerworks",
+    "Origin": "North Richland Hills, TX United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667663,
+    "BeerName": "Stramineous",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Brutal Beerworks",
+    "Origin": "North Richland Hills, TX United States",
+    "BeerAbv": 6.85,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4445347,
+    "BeerName": "Nomad (Blackberry)",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Brutal Beerworks",
+    "Origin": "North Richland Hills, TX United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4445353,
+    "BeerName": "Gusherz: Banana, Mango and Peach",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Brutal Beerworks",
+    "Origin": "North Richland Hills, TX United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336693,
+    "BeerName": "Hoptastrophe",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Brutal Beerworks",
+    "Origin": "North Richland Hills, TX United States",
+    "BeerAbv": 10.20,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631071,
+    "BeerName": "Intrepid",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Brutal Beerworks",
+    "Origin": "North Richland Hills, TX United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816125,
+    "BeerName": "Texas Ragers",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Brutal Beerworks",
+    "Origin": "North Richland Hills, TX United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334536,
+    "BeerName": "X Front Porch Moist Greens",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Erector Brewing Collective",
+    "Origin": "New Haven, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667664,
+    "BeerName": "Rumcherry Black Lager",
+    "BeerStyle": "Lager - Black",
+    "BreweryName": "Intrinsic Brewing",
+    "Origin": "Garland, TX United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 2.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667665,
+    "BeerName": "Rumcherry Black Lager",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Intrinsic Brewing",
+    "Origin": "Garland, TX United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 2.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631184,
+    "BeerName": "Owlgar with Raspberries",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Intrinsic Brewing",
+    "Origin": "Garland, TX United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334539,
+    "BeerName": "La Oc Fruits Rouges",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Brasserie Occitane",
+    "Origin": "Aurillac, Auvergne-Rhône-Alpes France",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672358,
+    "BeerName": "Kalnapilis Original",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Kalnapilis Brewery",
+    "Origin": "Panevėžys, Panevėžio apskritis Lithuania",
+    "BeerAbv": 5.00,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1440,
+    "BeerName": "Kalnapilis Export",
+    "BeerStyle": "Lager - Dortmunder / Export",
+    "BreweryName": "Kalnapilis Brewery",
+    "Origin": "Panevėžys, Panevėžio apskritis Lithuania",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13374,
+    "BeerName": "Tauras Brandusis",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Kalnapilis Brewery",
+    "Origin": "Panevėžys, Panevėžio apskritis Lithuania",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13377,
+    "BeerName": "Tauras Stiprusis",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Kalnapilis Brewery",
+    "Origin": "Panevėžys, Panevėžio apskritis Lithuania",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13378,
+    "BeerName": "Tauras Taurusis",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Kalnapilis Brewery",
+    "Origin": "Panevėžys, Panevėžio apskritis Lithuania",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13379,
+    "BeerName": "Tauras Tradicinis",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Kalnapilis Brewery",
+    "Origin": "Panevėžys, Panevėžio apskritis Lithuania",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

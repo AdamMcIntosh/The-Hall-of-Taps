@@ -1,252 +1,252 @@
 [
   {
-    "BID": "2877",
-    "BeerName": "Golden Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Fox River Brewing Company",
-    "Origin": "Oshkosh, WI United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335334",
-    "BeerName": "Red Steel",
-    "BeerStyle": "Homebrew, Red Ale - American Amber / Red",
-    "BreweryName": "Lilla Förrådsbryggeriet",
-    "Origin": "Sweden",
-    "BeerAbv": "4.7",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "2878",
-    "BeerName": "Raspberry Ginger Mead",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Egan Brewing",
-    "Origin": "De Pere, WI United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335335",
-    "BeerName": "Watermelon Sour",
-    "BeerStyle": "Homebrew, Sour - Fruited Gose",
-    "BreweryName": "Portalbrygg",
-    "Origin": "Sweden",
-    "BeerAbv": "4",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "1668695",
-    "BeerName": "Vernerwürzig",
-    "BeerStyle": "Homebrew, Pilsner - German",
-    "BreweryName": "Verner Brewery",
-    "Origin": "United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "50",
-    "HallRating": null
-  },
-  {
-    "BID": "2879",
-    "BeerName": "Abbot Pennings Trippel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Egan Brewing",
-    "Origin": "De Pere, WI United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2880",
-    "BeerName": "Princess of Darkness Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Egan Brewing",
-    "Origin": "De Pere, WI United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2881",
-    "BeerName": "Herrenhäuser Premium Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Privatbrauerei Herrenhausen",
-    "Origin": "Hannover, Niedersachsen Germany",
-    "BeerAbv": "4.9",
-    "BeerIbu": "26",
-    "HallRating": null
-  },
-  {
-    "BID": "3335336",
-    "BeerName": "Canterbury Tale",
-    "BeerStyle": "Mild - Other",
-    "BreweryName": "Ruby Beach Brewing",
-    "Origin": "Jacksonville, FL United States",
-    "BeerAbv": "6.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668696",
-    "BeerName": "Antidote #1",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Mad Science Brewing Company",
-    "Origin": "Adamstown, MD United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "33",
-    "HallRating": null
-  },
-  {
-    "BID": "2882",
-    "BeerName": "Lindener Spezial",
-    "BeerStyle": "Lager - Dortmunder / Export",
-    "BreweryName": "Gilde Brauerei",
-    "Origin": "Hanover, Niedersachsen Germany",
-    "BeerAbv": "5.1",
-    "BeerIbu": "11",
-    "HallRating": null
-  },
-  {
-    "BID": "3335337",
-    "BeerName": "It's Complicated",
-    "BeerStyle": "Farmhouse Ale - Other",
-    "BreweryName": "Middleton Brewing (WA)",
-    "Origin": "Everett, WA United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "58",
-    "HallRating": null
-  },
-  {
-    "BID": "1668697",
-    "BeerName": "Hælveteslia",
+    "BID": 1672106,
+    "BeerName": "B. Y. O. H.",
     "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Hugguværket Bryggeri",
-    "Origin": "Norway",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2884",
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Ushers of Trowbridge",
-    "Origin": "Trowbridge, Wiltshire England",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335338",
-    "BeerName": "Lady May",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Olde Salem Brewing Company",
-    "Origin": "Salem, VA United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "29",
-    "HallRating": null
-  },
-  {
-    "BID": "1668698",
-    "BeerName": "Super Nova",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Blue Square Brewery",
-    "Origin": "Morley, West Yorkshire England",
-    "BeerAbv": "4.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2885",
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tolly Cobbold",
-    "Origin": "Ipswich, Suffolk England",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335339",
-    "BeerName": "Blaggards Irish Red",
-    "BeerStyle": "Homebrew, Red Ale - Irish",
-    "BreweryName": "J&K Union",
+    "BreweryName": "Art Is Hard Brewing",
     "Origin": "United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "21",
-    "HallRating": null
+    "BeerAbv": 8.00,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1668699",
-    "BeerName": "Ambar Export",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "La Zaragozana",
-    "Origin": "Zaragoza, Aragón Spain",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1669687,
+    "BeerName": "DIZZY IPA AMERIKANA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "TEKTONIK",
+    "Origin": "Ljubljana, Osrednjeslovenska Slovenia",
+    "BeerAbv": 6.10,
+    "BeerIbu": 42.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "2886",
-    "BeerName": "Robertus",
-    "BeerStyle": "Lager - Munich Dunkel",
-    "BreweryName": "Speciaalbierbrouwerij St. Christoffel",
-    "Origin": "Breda, Noord-Brabant Netherlands",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3333854,
+    "BeerName": "CARELESS SUMMER",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "TEKTONIK",
+    "Origin": "Ljubljana, Osrednjeslovenska Slovenia",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3335340",
-    "BeerName": "Chocolate Orange Phoenix",
-    "BeerStyle": "Stout - English",
-    "BreweryName": "Roof Hound Brewing",
-    "Origin": "Kingston, NS Canada",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3339389,
+    "BeerName": "Scottish Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Cerveza Pangue",
+    "Origin": "Chile",
+    "BeerAbv": 6.50,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1668700",
-    "BeerName": "Margarita Mexican Lager",
-    "BeerStyle": "Lager - Mexican",
-    "BreweryName": "Iechyd Da Brewing Company",
-    "Origin": "Elkhart, IN United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "20",
-    "HallRating": null
+    "BID": 7835,
+    "BeerName": "Red Ale",
+    "BeerStyle": "Homebrew, Red Ale - American Amber / Red",
+    "BreweryName": "Brewer's Best",
+    "Origin": "Kent, OH United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "2887",
-    "BeerName": "Swan Draught",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "South Australian Brewing Co.",
-    "Origin": "Thebarton, South Australia Australia",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3339390,
+    "BeerName": "Wicked Lady",
+    "BeerStyle": "Bitter - Best",
+    "BreweryName": "Clavell & Hind",
+    "Origin": "Cheltenham, Gloucestershire England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1668701",
-    "BeerName": "IPA Com Pinhão",
-    "BeerStyle": "IPA - English",
-    "BreweryName": "Cerveja Coruja",
-    "Origin": "Forquilhinha, Santa Catarina Brazil",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 11154,
+    "BeerName": "Ybor Gold Light",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Carib Brewery USA",
+    "Origin": "Cape Canaveral, FL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3335341",
-    "BeerName": "Hoop House",
+    "BID": 785,
+    "BeerName": "Organic Alembic Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Elliott Bay Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 5.25,
+    "BeerIbu": 41.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 786,
+    "BeerName": "Organic Luna Weizen",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Elliott Bay Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 782,
+    "BeerName": "Organic No Doubt Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Elliott Bay Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 34.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 781,
+    "BeerName": "West Seattle Dry Hopped IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Elliott Bay Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 95.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 783,
+    "BeerName": "Organic Riot Ale",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Elliott Bay Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 88.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 784,
+    "BeerName": "West Seattle Dry Hopped IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Elliott Bay Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 95.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672157,
+    "BeerName": "L'Errante",
+    "BeerStyle": "Homebrew, Brown Ale - English",
+    "BreweryName": "La Mascarade",
+    "Origin": "Montréal, Québec Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 31.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339441,
+    "BeerName": "Sour Rye Ale",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Pivovar Kocour Varnsdorf",
+    "Origin": "Varnsdorf 1, Ústecký kraj Czech Republic",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8553,
+    "BeerName": "IPA Samurai",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Pivovar Kocour Varnsdorf",
+    "Origin": "Varnsdorf 1, Ústecký kraj Czech Republic",
+    "BeerAbv": 5.10,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339442,
+    "BeerName": "Journey",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Vista Brewing",
+    "Origin": "Driftwood, TX United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339443,
+    "BeerName": "Morics",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Contra Brewing Co",
+    "Origin": "Latvia",
+    "BeerAbv": 5.40,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672163,
+    "BeerName": "Lee's Citra Ipa",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Lee's Home Brew",
+    "Origin": "United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673296,
+    "BeerName": "West Coast Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Ravens Brewing Company",
+    "Origin": "Abbotsford, BC Canada",
+    "BeerAbv": 5.50,
+    "BeerIbu": 36.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339444,
+    "BeerName": "Jackalope Kveik IPA",
     "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Ragged Island Brewing Company",
-    "Origin": "Portsmouth, RI United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "43",
-    "HallRating": null
+    "BreweryName": "Ravens Brewing Company",
+    "Origin": "Abbotsford, BC Canada",
+    "BeerAbv": 7.00,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339445,
+    "BeerName": "Disìo Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Terra, Aria e Fuoco",
+    "Origin": "Partanna, Sicilia Italy",
+    "BeerAbv": 8.00,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672166,
+    "BeerName": "Hoot Hard",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Root Sellers Brewing Company",
+    "Origin": "Columbia, MO United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339447,
+    "BeerName": "Water Street Blues",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Barley Head Brewery",
+    "Origin": "Mystic, CT United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339448,
+    "BeerName": "Nie-bo-nie",
+    "BeerStyle": "IPA - Rye",
+    "BreweryName": "Wrężel",
+    "Origin": "Zarzecze, Silesian Voivodeship Poland",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

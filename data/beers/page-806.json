@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4981655",
-    "BeerName": "Eventide",
-    "BeerStyle": "Table Beer",
-    "BreweryName": "Grind City Brewing Company",
-    "Origin": "Memphis, TN United States",
-    "BeerAbv": "4.3",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1415,
+    "BeerName": "James Squire Australian Best Ale Limited Release",
+    "BeerStyle": "Strong Ale - English",
+    "BreweryName": "Malt Shovel Brewery",
+    "Origin": "Camperdown, New South Wales Australia",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961303",
-    "BeerName": "Blackberry Blonde Ale",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Griffin Brewing Co - Pilot House",
-    "Origin": "Enumclaw, WA United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "23",
-    "HallRating": null
+    "BID": 10808,
+    "BeerName": "James Squire Nine Tales",
+    "BeerStyle": "Brown Ale - English",
+    "BreweryName": "Malt Shovel Brewery",
+    "Origin": "Camperdown, New South Wales Australia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940945",
-    "BeerName": "Flor De Jamaica (2022)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Yorocco Beer",
-    "Origin": "Kanagawa, Japan",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1904,
+    "BeerName": "James Squire Stow Away",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Malt Shovel Brewery",
+    "Origin": "Camperdown, New South Wales Australia",
+    "BeerAbv": 5.60,
+    "BeerIbu": 52.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981656",
-    "BeerName": "Pushin' Up Daisies",
+    "BID": 8232,
+    "BeerName": "James Squire Sundown Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Malt Shovel Brewery",
+    "Origin": "Camperdown, New South Wales Australia",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8249,
+    "BeerName": "James Squire The Chancer",
+    "BeerStyle": "Blonde / Golden Ale - English",
+    "BreweryName": "Malt Shovel Brewery",
+    "Origin": "Camperdown, New South Wales Australia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9160,
+    "BeerName": "James Squire Malt Runner",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "Malt Shovel Brewery",
+    "Origin": "Camperdown, New South Wales Australia",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334518,
+    "BeerName": "Old '98",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Park Pizza & Brewing Company",
+    "Origin": "Orlando, FL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334529,
+    "BeerName": "Marvin Berry",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Park Pizza & Brewing Company",
+    "Origin": "Orlando, FL United States",
+    "BeerAbv": 3.50,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667647,
+    "BeerName": "Peachachu",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Overflow Brewing Company",
+    "Origin": "Saint Petersburg, FL United States",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667650,
+    "BeerName": "Posthypnotic Suggestion",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Overflow Brewing Company",
+    "Origin": "Saint Petersburg, FL United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668628,
+    "BeerName": "Paper Airplane",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Overflow Brewing Company",
+    "Origin": "Saint Petersburg, FL United States",
+    "BeerAbv": 2.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343946,
+    "BeerName": "Just A Little Stitious",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Overflow Brewing Company",
+    "Origin": "Saint Petersburg, FL United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3344075,
+    "BeerName": "Mr. Beavers Cascade",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Overflow Brewing Company",
+    "Origin": "Saint Petersburg, FL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3344346,
+    "BeerName": "BBB Coffee Blonde Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Overflow Brewing Company",
+    "Origin": "Saint Petersburg, FL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3344348,
+    "BeerName": "BBB Coffee Blonde Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Overflow Brewing Company",
+    "Origin": "Saint Petersburg, FL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3344358,
+    "BeerName": "#Overblown: Electric Boogaloo",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Overflow Brewing Company",
+    "Origin": "Saint Petersburg, FL United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334519,
+    "BeerName": "1607",
+    "BeerStyle": "Homebrew, Stout - Russian Imperial",
+    "BreweryName": "Barko",
+    "Origin": "Netherlands",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668108,
+    "BeerName": "India Pale Lager",
+    "BeerStyle": "Homebrew, Lager - IPL (India Pale Lager)",
+    "BreweryName": "Mocker",
+    "Origin": "Sweden",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667648,
+    "BeerName": "Call It A Day",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Flying Lion Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 47.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960028,
+    "BeerName": "Strawberry Rhubarb Sour",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Flying Lion Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671654,
+    "BeerName": "Eider Elderflower Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Mates Cider",
+    "Origin": "Minety, Wiltshire England",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334521,
+    "BeerName": "Kingston Black",
+    "BeerStyle": "Cider - Dry",
+    "BreweryName": "Mates Cider",
+    "Origin": "Minety, Wiltshire England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667649,
+    "BeerName": "Pardon Our Session",
+    "BeerStyle": "Homebrew, IPA - Session",
+    "BreweryName": "Casey's Frack 'n Brew",
+    "Origin": "United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1422,
+    "BeerName": "Full Tilt IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Back Shed Brewing",
-    "Origin": "Waite Park, MN United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "88",
-    "HallRating": null
+    "BreweryName": "Harbor City Brewing Company",
+    "Origin": "Port Washington, WI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940946",
-    "BeerName": "Hip Hip Puree: Peach Cobbler",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Forbes Trail Brewing",
-    "Origin": "Stoystown, PA United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "6",
-    "HallRating": null
-  },
-  {
-    "BID": "4961304",
-    "BeerName": "Pink Lemondrop Slushie",
-    "BeerStyle": "Cider - Herbed / Spiced",
-    "BreweryName": "Ginger's Revenge",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981657",
-    "BeerName": "Campfire Tails Slightly Embellished Here",
-    "BeerStyle": "Homebrew, Stout - Pastry",
-    "BreweryName": "Never Lost Brewing Company",
-    "Origin": "Denver, PA United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "26",
-    "HallRating": null
-  },
-  {
-    "BID": "4940947",
-    "BeerName": "Hip Hip Puree: Blackberry Crisp",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Forbes Trail Brewing",
-    "Origin": "Stoystown, PA United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "6",
-    "HallRating": null
-  },
-  {
-    "BID": "4940948",
-    "BeerName": "Coffee IPA",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Cabocla Cervejas Artesanais",
-    "Origin": "Viamão, Rio Grande do Sul Brazil",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961305",
-    "BeerName": "Catchy Pole",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "Pembrokeshire Craft Brewery",
-    "Origin": "Wales",
-    "BeerAbv": "4",
-    "BeerIbu": "500",
-    "HallRating": null
-  },
-  {
-    "BID": "4981658",
-    "BeerName": "OATaste And See",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Eden Abbey Brewing",
-    "Origin": "Mount Dora, FL United States",
-    "BeerAbv": "7.3",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "4940949",
-    "BeerName": "Hip Hip Puree: Blood Orange Sea Salt",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Forbes Trail Brewing",
-    "Origin": "Stoystown, PA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "6",
-    "HallRating": null
-  },
-  {
-    "BID": "4961306",
-    "BeerName": "Stray",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Rock Hill Brewing Company",
-    "Origin": "Rock Hill, SC United States",
-    "BeerAbv": "6.8",
-    "BeerIbu": "43",
-    "HallRating": null
-  },
-  {
-    "BID": "4981659",
-    "BeerName": "Pivovar Bohemus",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Frankfurter Brauhaus",
-    "Origin": "Frankfurt (Oder), Brandenburg Germany",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940950",
-    "BeerName": "Barman",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Browar Hopito",
-    "Origin": "Ostrołęka, Masovian Voivodeship Poland",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940951",
-    "BeerName": "Golden Ale",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Cervejaria Leopoldina",
-    "Origin": "Garibaldi, Rio Grande do Sul Brazil",
-    "BeerAbv": "9.5",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "4961307",
-    "BeerName": "Proton #3 (CITRA & MOSAIC DRY HOPS)",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Empirical Brewery",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981660",
-    "BeerName": "You're Killin' Me, Smalls",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Evil Genius Beer Company",
-    "Origin": "Philadelphia, PA United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "14",
-    "HallRating": null
-  },
-  {
-    "BID": "4961308",
-    "BeerName": "La Buteuse Brassin Spécial (2022)",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Le Trou du Diable",
-    "Origin": "Shawinigan, QC Canada",
-    "BeerAbv": "10",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981661",
-    "BeerName": "Frose (frō-zeh) Creamy Pina Colada",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "High Gravity Brewing Company",
-    "Origin": "Tulsa, OK United States",
-    "BeerAbv": "3.75",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940952",
-    "BeerName": "Scorpius",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "River Styx Brewing",
-    "Origin": "Fitchburg, MA United States",
-    "BeerAbv": "10",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961309",
-    "BeerName": "Proton #4 (CENTENNIAL DRY HOPS)",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Empirical Brewery",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981662",
-    "BeerName": "Damn You, Albert!",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "CooperSmith’s Pub & Brewing",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": "5.7",
-    "BeerIbu": "47",
-    "HallRating": null
-  },
-  {
-    "BID": "4940953",
-    "BeerName": "Schloßbrauerei Söldenau Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Arcobräu Gräfliches Brauhaus",
-    "Origin": "Moos, Bayern Germany",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961310",
-    "BeerName": "Cardamom Latte Porter",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Dogwood Brewing",
-    "Origin": "Vancouver, BC Canada",
-    "BeerAbv": "3.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1537,
+    "BeerName": "Mile Rock Amber Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Harbor City Brewing Company",
+    "Origin": "Port Washington, WI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

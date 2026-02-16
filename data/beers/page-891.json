@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4982364",
-    "BeerName": "Single Track",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Bières Georges • La Fabrique Du Faubourg",
-    "Origin": "Vénissieux, Auvergne-Rhône-Alpes France",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1311,
+    "BeerName": "Gale’s Millennium Brew",
+    "BeerStyle": "Strong Ale - English",
+    "BreweryName": "Fuller's Griffin Brewery",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4962015",
-    "BeerName": "Take A Hike 11: Kölsch",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Nocterra Brewing Co.",
-    "Origin": "Powell, OH United States",
-    "BeerAbv": "5",
-    "BeerIbu": "17",
-    "HallRating": null
+    "BID": 13458,
+    "BeerName": "Bengal Lancer",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Fuller's Griffin Brewery",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4941653",
-    "BeerName": "Nitro Cream Ale",
-    "BeerStyle": "Cream Ale",
-    "BreweryName": "Trans Canada Brewing Company",
-    "Origin": "Winnipeg, MB Canada",
-    "BeerAbv": "5.2",
-    "BeerIbu": "18",
-    "HallRating": null
+    "BID": 13716,
+    "BeerName": "Vintage Ale (2005)",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Fuller's Griffin Brewery",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4941654",
-    "BeerName": "Blueberry Shandy Easy",
+    "BID": 14577,
+    "BeerName": "Gale's Prize Old Ale (2007)",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Fuller's Griffin Brewery",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1581,
+    "BeerName": "Vintage Ale (1999)",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Fuller's Griffin Brewery",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1563,
+    "BeerName": "Gale's Prize Old Ale",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Fuller's Griffin Brewery",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 12126,
+    "BeerName": "Discovery",
+    "BeerStyle": "Blonde / Golden Ale - English",
+    "BreweryName": "Fuller's Griffin Brewery",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 11995,
+    "BeerName": "Jack Frost",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Fuller's Griffin Brewery",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3142,
+    "BeerName": "Prairie Path Ale",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1728,
+    "BeerName": "Cugino Light",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1729,
+    "BeerName": "Cugino Light",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1994,
+    "BeerName": "Brown Fox Session Ale",
+    "BeerStyle": "Mild - Other",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675822,
+    "BeerName": "High Noon",
+    "BeerStyle": "Cream Ale - Imperial / Double",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673743,
+    "BeerName": "Tank 31",
     "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Earnest Brew Works",
-    "Origin": "Toledo, OH United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4982365",
-    "BeerName": "Still Apple",
-    "BeerStyle": "Cider - Dry",
-    "BreweryName": "Wibblers Brewery",
-    "Origin": "Southminster, Essex England",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4962016",
-    "BeerName": "TÆBLE",
-    "BeerStyle": "Farmhouse Ale - Other",
-    "BreweryName": "To Øl",
-    "Origin": "Svinninge, Region Sjælland Denmark",
-    "BeerAbv": "3.4",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4941655",
-    "BeerName": "Indian Pale Ale",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Cervecería Tradición",
-    "Origin": "Armenia, Quindío Colombia",
-    "BeerAbv": "6.8",
-    "BeerIbu": "50",
-    "HallRating": null
-  },
-  {
-    "BID": "4982366",
-    "BeerName": "Tetra",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Battery Steele Brewing",
-    "Origin": "Portland, ME United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4962017",
-    "BeerName": "Goedegebier Triple 2.0",
-    "BeerStyle": "Homebrew, Belgian Tripel",
-    "BreweryName": "Goedegebier",
-    "Origin": "Netherlands",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4982367",
-    "BeerName": "Óféti",
-    "BeerStyle": "Stout - Pastry",
-    "BreweryName": "BÖL Brewing",
-    "Origin": "Reykjavík, Reykjavíkurborg Iceland",
-    "BeerAbv": "6.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941656",
-    "BeerName": "AhhPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Kiitos Brewing",
-    "Origin": "Salt Lake City, UT United States",
-    "BeerAbv": "5",
-    "BeerIbu": "32",
-    "HallRating": null
-  },
-  {
-    "BID": "4962018",
-    "BeerName": "Dream Delay Version #2",
-    "BeerStyle": "Wild Ale - Other",
-    "BreweryName": "To Øl",
-    "Origin": "Svinninge, Region Sjælland Denmark",
-    "BeerAbv": "6",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4941657",
-    "BeerName": "Heirloom",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Bone Machine Brew Co",
-    "Origin": "Hull, Kingston upon Hull England",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4982368",
-    "BeerName": "Persistence of Gravity (2022)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Free Will Brewing",
-    "Origin": "Perkasie, PA United States",
-    "BeerAbv": "13.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4962019",
-    "BeerName": "Perzik",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brouwerij 3 Fonteinen",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4982369",
-    "BeerName": "Party Starter Märzen Lager",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Birdsong Brewing Co",
-    "Origin": "Charlotte, NC United States",
-    "BeerAbv": "5",
-    "BeerIbu": "19",
-    "HallRating": null
-  },
-  {
-    "BID": "4941658",
-    "BeerName": "ŻAPA",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Browar Bojanowo",
-    "Origin": "Bojanowo, Greater Poland Voivodeship Poland",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4962020",
-    "BeerName": "Dr. Jen’s Prescription Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Cooper's Family Brewing",
-    "Origin": "Scranton, PA United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "4982370",
-    "BeerName": "Spjátrungur",
-    "BeerStyle": "Stout - Pastry",
-    "BreweryName": "BÖL Brewing",
-    "Origin": "Reykjavík, Reykjavíkurborg Iceland",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941659",
-    "BeerName": "Øla",
-    "BeerStyle": "Homebrew, Pilsner - Other",
-    "BreweryName": "Jogeilen Picobryggeri UAS",
-    "Origin": "Norway",
-    "BeerAbv": "4.5",
-    "BeerIbu": "33",
-    "HallRating": null
-  },
-  {
-    "BID": "4962021",
-    "BeerName": "Midnight Oil",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Beer’d Brewing Company",
-    "Origin": "Stonington, CT United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4982371",
-    "BeerName": "Nautnaseggur",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "BÖL Brewing",
-    "Origin": "Reykjavík, Reykjavíkurborg Iceland",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4962022",
-    "BeerName": "Midnight Sun COE 2021",
+    "BID": 1672538,
+    "BeerName": "Pale Ale With Brett",
     "BeerStyle": "Sour - Other",
-    "BreweryName": "Aton Brewery",
-    "Origin": "South Korea",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4982372",
-    "BeerName": "Iceberg Theory (2022)",
+    "BID": 3343009,
+    "BeerName": "Northwind Imperial Stout (w/ Cocoa & Chiles)",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339798,
+    "BeerName": "In the Flesh (Lime & Sea Salt)",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4630809,
+    "BeerName": "Northwind Cherry (2021)",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Free Will Brewing",
-    "Origin": "Perkasie, PA United States",
-    "BeerAbv": "15.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 9.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4941660",
-    "BeerName": "Puddle Citra Pale Ale",
+    "BID": 4960186,
+    "BeerName": "In the Flesh",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8820,
+    "BeerName": "Domaine DuPage",
+    "BeerStyle": "Farmhouse Ale - Bière de Garde",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9215,
+    "BeerName": "Dog Days Dortmunder Style Lager",
+    "BeerStyle": "Lager - Dortmunder / Export",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8686,
+    "BeerName": "Ebel's Weiss",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9807,
+    "BeerName": "SmallBar Pale Ale",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Bombastic Brewing",
-    "Origin": "Hayden, ID United States",
-    "BeerAbv": "5",
-    "BeerIbu": "31",
-    "HallRating": null
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9499,
+    "BeerName": "Long Haul Session Ale",
+    "BeerStyle": "Mild - Other",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 3.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9513,
+    "BeerName": "The Bitter End Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Two Brothers Brewing Company",
+    "Origin": "Warrenville, IL United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
   }
 ]

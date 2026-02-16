@@ -1,252 +1,252 @@
 [
   {
-    "BID": "92",
-    "BeerName": "Sharptail Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Montana Brewing Company",
-    "Origin": "Billings, MT United States",
-    "BeerAbv": "5.6",
-    "BeerIbu": "32",
-    "HallRating": null
+    "BID": 115,
+    "BeerName": "La Divine - Belgian Double Blond Ale",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Brasserie de Silly",
+    "Origin": "Silly, Région Wallonne Belgium",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 13.74
   },
   {
-    "BID": "3333399",
-    "BeerName": "Orange You Glad I Didn't Say Banana?",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Rusty Truck Brewing",
-    "Origin": "Lincoln City, OR United States",
-    "BeerAbv": "5.6",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "1666736",
-    "BeerName": "Hobgoblin Legendary Ruby Beer",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "Marston's Brewery",
-    "Origin": "Burton-on-Trent, Staffordshire England",
-    "BeerAbv": "5.2",
-    "BeerIbu": "32",
-    "HallRating": null
-  },
-  {
-    "BID": "93",
-    "BeerName": "Fat Belly Amber",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Montana Brewing Company",
-    "Origin": "Billings, MT United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "94",
-    "BeerName": "Whitetail Wheat",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Montana Brewing Company",
-    "Origin": "Billings, MT United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "16",
-    "HallRating": null
-  },
-  {
-    "BID": "3333400",
-    "BeerName": "502 Bad Gateway",
-    "BeerStyle": null,
-    "BreweryName": null,
-    "Origin": null,
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666737",
-    "BeerName": "Szechuan Tart Cherry Blonde Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Wilmington Brewing Company",
-    "Origin": "Wilmington, NC United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "95",
-    "BeerName": "Sandbaggers Gold",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Montana Brewing Company",
-    "Origin": "Billings, MT United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "96",
-    "BeerName": "Brunette Nut Brown Ale",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "Nebraska Brewing Company",
-    "Origin": "La Vista, NE United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "3333401",
-    "BeerName": "Friday Summer",
-    "BeerStyle": "Farmhouse Ale - Grisette",
-    "BreweryName": "The Virginia Beer Co. (VBC)",
-    "Origin": "Williamsburg, VA United States",
-    "BeerAbv": "4.6",
-    "BeerIbu": "26",
-    "HallRating": null
-  },
-  {
-    "BID": "1666738",
-    "BeerName": "Arroz De Lucía",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Cervesera Alcoiana",
-    "Origin": "Spain",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333402",
-    "BeerName": "Night & Day",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Trillium Brewing Company",
-    "Origin": "Canton, MA United States",
-    "BeerAbv": "11.5",
-    "BeerIbu": "65",
-    "HallRating": null
-  },
-  {
-    "BID": "99",
-    "BeerName": "EOS Hefeweizen",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Nebraska Brewing Company",
-    "Origin": "La Vista, NE United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "13",
-    "HallRating": null
-  },
-  {
-    "BID": "1666739",
-    "BeerName": "Wicked Expensive Sour Ale",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Excel Brewing Company",
-    "Origin": "Breese, IL United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "4",
-    "HallRating": null
-  },
-  {
-    "BID": "3333403",
-    "BeerName": "Cherry Lime Rickey Sour",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "McMenamins",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": "5.68",
-    "BeerIbu": "9",
-    "HallRating": null
-  },
-  {
-    "BID": "100",
-    "BeerName": "IPA (2011 - Oct 2016)",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Nebraska Brewing Company",
-    "Origin": "La Vista, NE United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "72",
-    "HallRating": null
-  },
-  {
-    "BID": "101",
-    "BeerName": "Winter Ale",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "St. Peter’s Brewery Co.",
-    "Origin": "Bungay, Suffolk England",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666740",
-    "BeerName": "Brett Saison W/ Grapefruit, Lime And Coconut",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Southern Prohibition Brewing",
-    "Origin": "Hattiesburg, MS United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333404",
-    "BeerName": "Shake City - Red Razz",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "350 Brewing",
-    "Origin": "Tinley Park, IL United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666741",
-    "BeerName": "Whiskey Sour",
+    "BID": 12396,
+    "BeerName": "Ebeweesner Scrooge™",
     "BeerStyle": "Sour - Other",
-    "BreweryName": "Fox and Crown Brewing Co.",
-    "Origin": "Port Saint Lucie, FL United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "80",
-    "HallRating": null
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 13.74
   },
   {
-    "BID": "102",
-    "BeerName": "Pride & Joy Mild Ale",
-    "BeerStyle": "Mild - Light",
+    "BID": 12267,
+    "BeerName": "American Strong Ale",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Empire Brewing Company",
+    "Origin": "Little Valley, NY United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.74
+  },
+  {
+    "BID": 11119,
+    "BeerName": "Rauchbier",
+    "BeerStyle": "Rauchbier",
+    "BreweryName": "LTM - Les Trois Mousquetaires Microbrasserie",
+    "Origin": "Brossard, QC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.74
+  },
+  {
+    "BID": 11306,
+    "BeerName": "Classic Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Murree Brewery",
+    "Origin": "Rawalpindi, ضلع راولپنڈی Pakistan",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 13.74
+  },
+  {
+    "BID": 1056,
+    "BeerName": "Coffee Mint Stout",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "South Shore Brewery",
+    "Origin": "Ashland, WI United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 36.00,
+    "HallRating": 13.74
+  },
+  {
+    "BID": 1109,
+    "BeerName": "Lone Tree IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Schooner’s Grille & Brewery",
+    "Origin": "Antioch, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 13.74
+  },
+  {
+    "BID": 10339,
+    "BeerName": "Maelstrom IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Skull Coast Brewing Company",
+    "Origin": "Fort Mill, SC United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 85.00,
+    "HallRating": 13.74
+  },
+  {
+    "BID": 11418,
+    "BeerName": "Imperial Amber",
+    "BeerStyle": "Red Ale - Imperial / Double",
+    "BreweryName": "Triangle Brewing Company",
+    "Origin": "Durham, NC United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "HallRating": 13.74
+  },
+  {
+    "BID": 10895,
+    "BeerName": "India Winter Ale",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Ice Harbor Brewery",
+    "Origin": "Kennewick, WA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.74
+  },
+  {
+    "BID": 1072,
+    "BeerName": "Wee Beast",
+    "BeerStyle": "Scottish Export Ale",
+    "BreweryName": "Isle of Skye Brewing Company",
+    "Origin": "Uig, Highland Scotland",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.73
+  },
+  {
+    "BID": 11817,
+    "BeerName": "Margarete",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Avery Brewing Co.",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 15.43,
+    "BeerIbu": 0.00,
+    "HallRating": 13.73
+  },
+  {
+    "BID": 12542,
+    "BeerName": "Christmas Ale (2004)",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "Anchor Brewing Company",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 13.73
+  },
+  {
+    "BID": 12056,
+    "BeerName": "Blitzen",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Lompoc Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 13.72
+  },
+  {
+    "BID": 11285,
+    "BeerName": "Zinger",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Lucky Labrador Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 13.72
+  },
+  {
+    "BID": 10611,
+    "BeerName": "Celebration (2007)",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Sierra Nevada Brewing Co.",
+    "Origin": "Chico, CA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 13.72
+  },
+  {
+    "BID": 12551,
+    "BeerName": "Porter",
+    "BeerStyle": "Porter - English",
+    "BreweryName": "The Kernel Brewery",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.72
+  },
+  {
+    "BID": 10308,
+    "BeerName": "Aotearoa",
+    "BeerStyle": "IPA - American",
     "BreweryName": "3 Floyds Brewing",
     "Origin": "Munster, IN United States",
-    "BeerAbv": "5",
-    "BeerIbu": "42",
-    "HallRating": null
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.72
   },
   {
-    "BID": "3333405",
-    "BeerName": "Moça Ruiva",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "Cerveja Artesanal Moça",
-    "Origin": "Faro, Faro District Portugal",
-    "BeerAbv": "5.9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 10226,
+    "BeerName": "Doggie Claws (2008)",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Hair of the Dog Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "HallRating": 13.72
   },
   {
-    "BID": "1666742",
-    "BeerName": "Notch Brewery",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Notch Brewing",
-    "Origin": "Salem, MA United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1037,
+    "BeerName": "Roza Reserve",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Snipes Mountain Brewing",
+    "Origin": "Sunnyside, WA United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.72
   },
   {
-    "BID": "103",
-    "BeerName": "Robert the Bruce",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "3 Floyds Brewing",
-    "Origin": "Munster, IN United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "24",
-    "HallRating": null
+    "BID": 10162,
+    "BeerName": "The Dark Side (Side Project Volume 9)",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Terrapin Beer Co.",
+    "Origin": "Athens, GA United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 13.72
   },
   {
-    "BID": "104",
-    "BeerName": "Lump of Coal Dark Holiday Stout",
-    "BeerStyle": "Stout - English",
-    "BreweryName": "Ridgeway Brewing",
-    "Origin": "South Stoke, Oxfordshire England",
-    "BeerAbv": "7.5",
-    "BeerIbu": "34",
-    "HallRating": null
+    "BID": 11901,
+    "BeerName": "Barber's Garden",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bearded Lamb Brewing Company",
+    "Origin": "Plymouth, MI United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.72
+  },
+  {
+    "BID": 10239,
+    "BeerName": "Calistoga Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Napa Valley Brewing Company",
+    "Origin": "Calistoga, CA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 13.72
+  },
+  {
+    "BID": 10543,
+    "BeerName": "Oktoberfest",
+    "BeerStyle": "Märzen",
+    "BreweryName": "SunUp Brewing Co.",
+    "Origin": "Phoenix, AZ United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 0.00,
+    "HallRating": 13.71
+  },
+  {
+    "BID": 10946,
+    "BeerName": "The Trees",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Saint Paul Brewing",
+    "Origin": "St. Paul, MN United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 25.00,
+    "HallRating": 13.71
   }
 ]

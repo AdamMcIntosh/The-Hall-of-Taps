@@ -1,0 +1,252 @@
+[
+  {
+    "BID": 4815729,
+    "BeerName": "Weizenbock",
+    "BeerStyle": "Bock - Weizenbock",
+    "BreweryName": "Bierdock Brewing",
+    "Origin": "Spruce Pine, NC United States",
+    "BeerAbv": 9.30,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4630952,
+    "BeerName": "Out of Office",
+    "BeerStyle": "IPA - Red",
+    "BreweryName": "Treaty City Brewery",
+    "Origin": "Limerick, County Limerick Ireland",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631907,
+    "BeerName": "Breakfast Stout",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Fariseo Brew",
+    "Origin": "Culiacán, Sinaloa Mexico",
+    "BeerAbv": 6.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4446195,
+    "BeerName": "Encore",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Fariseo Brew",
+    "Origin": "Culiacán, Sinaloa Mexico",
+    "BeerAbv": 6.50,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815727,
+    "BeerName": "DDH Holy Roller (El Dorado & Moteuka)",
+    "BeerStyle": "Pale Ale - New England / Hazy",
+    "BreweryName": "Urban South Brewery",
+    "Origin": "New Orleans, LA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940394,
+    "BeerName": "Paradise Park Passionfruit Orange Guava Hard Seltzer",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Urban South Brewery",
+    "Origin": "New Orleans, LA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961134,
+    "BeerName": "Paradise Park Strawberry Colada",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Urban South Brewery",
+    "Origin": "New Orleans, LA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961315,
+    "BeerName": "Paradise Park New Orleans Hurricane",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Urban South Brewery",
+    "Origin": "New Orleans, LA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961249,
+    "BeerName": "Paradise Park Electric Lemonade",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Urban South Brewery",
+    "Origin": "New Orleans, LA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4630953,
+    "BeerName": "O'Shea's India Pale Ale (2021)",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Carlow Brewing Company",
+    "Origin": "Muine Bheag, County Carlow Ireland",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1666724,
+    "BeerName": "IPA 15°",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Pivovar Hops Bratislava",
+    "Origin": "Slovakia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4446196,
+    "BeerName": "A Stout Called Stout",
+    "BeerStyle": "Homebrew, Stout - Other",
+    "BreweryName": "AJ's Homebrews",
+    "Origin": "United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 32.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4630954,
+    "BeerName": "Robust Porter 12/9/21",
+    "BeerStyle": "Homebrew, Porter - American",
+    "BreweryName": "MJ Hanscomb",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631795,
+    "BeerName": "Eggnog Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Feel The Rain Brothers Brew Co.",
+    "Origin": "Harrisonburg, VA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815730,
+    "BeerName": "Wind-Milled",
+    "BeerStyle": "Wheat Beer - Other",
+    "BreweryName": "Feel The Rain Brothers Brew Co.",
+    "Origin": "Harrisonburg, VA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815740,
+    "BeerName": "Virginia Dark On Raspberry",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Feel The Rain Brothers Brew Co.",
+    "Origin": "Harrisonburg, VA United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341695,
+    "BeerName": "White Oak Commodore",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Feel The Rain Brothers Brew Co.",
+    "Origin": "Harrisonburg, VA United States",
+    "BeerAbv": 8.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341700,
+    "BeerName": "White Oak Commodore",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Feel The Rain Brothers Brew Co.",
+    "Origin": "Harrisonburg, VA United States",
+    "BeerAbv": 8.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341736,
+    "BeerName": "\"Snowball\" Great Debate",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Feel The Rain Brothers Brew Co.",
+    "Origin": "Harrisonburg, VA United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341604,
+    "BeerName": "Peach Commodore",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Feel The Rain Brothers Brew Co.",
+    "Origin": "Harrisonburg, VA United States",
+    "BeerAbv": 8.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341543,
+    "BeerName": "Gingerbread Yuletide",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Feel The Rain Brothers Brew Co.",
+    "Origin": "Harrisonburg, VA United States",
+    "BeerAbv": 14.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341549,
+    "BeerName": "Gingerbread Yuletide",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Feel The Rain Brothers Brew Co.",
+    "Origin": "Harrisonburg, VA United States",
+    "BeerAbv": 14.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341527,
+    "BeerName": "Gingerbread Yuletide (2019)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Feel The Rain Brothers Brew Co.",
+    "Origin": "Harrisonburg, VA United States",
+    "BeerAbv": 14.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341533,
+    "BeerName": "Peppermint Bark Yuletide 2019",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Feel The Rain Brothers Brew Co.",
+    "Origin": "Harrisonburg, VA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4446198,
+    "BeerName": "passable pineapple pale ale",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Not Bad Brewing",
+    "Origin": "Saskatoon, SK Canada",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  }
+]

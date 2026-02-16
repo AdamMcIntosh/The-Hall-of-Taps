@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4981679",
-    "BeerName": "Hacha Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Cerveza Artesanal Elfo",
-    "Origin": "Ciudad de México, Mexico",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940971",
-    "BeerName": "Strawberry Mint Wit",
-    "BeerStyle": "Wheat Beer - Other",
-    "BreweryName": "Old Louisville Brewery",
-    "Origin": "Louisville, KY United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "19",
-    "HallRating": null
-  },
-  {
-    "BID": "4961328",
-    "BeerName": "Oktoberfest",
-    "BeerStyle": "Homebrew, Märzen",
-    "BreweryName": "Parting Waters Brewing",
-    "Origin": "United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940972",
-    "BeerName": "Womp Womp",
+    "BID": 3336085,
+    "BeerName": "BA Series: Barrel-Aged Anniversary Zombie",
     "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Neon Raptor Brewing Co.",
-    "Origin": "Nottingham, England",
-    "BeerAbv": "5",
-    "BeerIbu": "40",
-    "HallRating": null
+    "BreweryName": "Catawba Brewing Co.",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981680",
-    "BeerName": "Pilsner Shandy",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Five Dimes Brewery",
-    "Origin": "Westwood, NJ United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3336128,
+    "BeerName": "Cloud Cover Series-20th Anniversary Emerald Isle Hazy",
+    "BeerStyle": "IPA - White / Wheat",
+    "BreweryName": "Catawba Brewing Co.",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940973",
-    "BeerName": "Lychee Sea Salt (荔枝海盐)",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "叁金叁精酿 (Sanjinsan)",
-    "Origin": "Bei Jing Shi, China / People's Republic of China",
-    "BeerAbv": "2.4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1670607,
+    "BeerName": "I40 American Lager",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Catawba Brewing Co.",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961329",
-    "BeerName": "Fruit Tree - Gooseberry & Elderflower",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Lost Verses Meadery",
-    "Origin": "Salford, Greater Manchester England",
-    "BeerAbv": "14",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940974",
-    "BeerName": "Between Days",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "GlassHouse Beer Co",
-    "Origin": "Birmingham, West Midlands England",
-    "BeerAbv": "5.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981681",
-    "BeerName": "Hann's American Light Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Swing Barrel Brewing Co.",
-    "Origin": "Moorhead, MN United States",
-    "BeerAbv": "5",
-    "BeerIbu": "9",
-    "HallRating": null
-  },
-  {
-    "BID": "4961330",
-    "BeerName": "Fee Or Tees",
-    "BeerStyle": "Homebrew, Cider - Sweet",
-    "BreweryName": "Ganz Anders Brau",
-    "Origin": "Sweden",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981682",
-    "BeerName": "BUF IPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Resurgence Brewing Company",
-    "Origin": "Buffalo, NY United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940975",
-    "BeerName": "Master of Poppets",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Leviathan Brewing",
-    "Origin": "Birmingham, West Midlands England",
-    "BeerAbv": "13.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961331",
-    "BeerName": "Orange Blossom Mead",
-    "BeerStyle": "Homebrew, Mead - Other",
-    "BreweryName": "Dancing Kilt Brewing",
-    "Origin": "United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981683",
-    "BeerName": "Rul3 of Thr33",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Skookum Brewery",
-    "Origin": "Arlington, WA United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981684",
-    "BeerName": "Turn Out the Lights",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Peticolas Brewing Company",
-    "Origin": "Dallas, TX United States",
-    "BeerAbv": "6",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4940976",
-    "BeerName": "Day of the Decade",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Brewster's Brewery",
-    "Origin": "Grantham, Lincolnshire England",
-    "BeerAbv": "4.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961332",
-    "BeerName": "Mutagenic Alchemy",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "WarPigs USA Brewing",
-    "Origin": "Munster, IN United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981685",
-    "BeerName": "What Is (Sour) IPA",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Brickside Brewery",
-    "Origin": "Copper Harbor, MI United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940978",
-    "BeerName": "Rayonnant",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Chilton Mill Brewing",
-    "Origin": "Long Valley, NJ United States",
-    "BeerAbv": "5.55",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961333",
-    "BeerName": "Hoppy Blonde",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Noble Funk Brewing Co",
-    "Origin": "Louisville, KY United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "21",
-    "HallRating": null
-  },
-  {
-    "BID": "4940979",
-    "BeerName": "One Lux",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "GlassHouse Beer Co",
-    "Origin": "Birmingham, West Midlands England",
-    "BeerAbv": "3.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981686",
-    "BeerName": "Camper Van",
+    "BID": 11134,
+    "BeerName": "Firewater IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Home State Brewing Co.",
-    "Origin": "Winter Garden, FL United States",
-    "BeerAbv": "6.4",
-    "BeerIbu": "65",
-    "HallRating": null
+    "BreweryName": "Catawba Brewing Co.",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 64.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940980",
-    "BeerName": "Run Forest Run",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Neon Raptor Brewing Co.",
-    "Origin": "Nottingham, England",
-    "BeerAbv": "4.4",
-    "BeerIbu": "50",
-    "HallRating": null
+    "BID": 13322,
+    "BeerName": "Boxer",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Minhas Craft Brewery",
+    "Origin": "Monroe, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961334",
-    "BeerName": "RBA Peach Tea Quad",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Local Relic Artisan Ales",
-    "Origin": "Colorado Springs, CO United States",
-    "BeerAbv": "11.3",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 13227,
+    "BeerName": "Simpler Times Pilsner",
+    "BeerStyle": "Pilsner - American",
+    "BreweryName": "Minhas Craft Brewery",
+    "Origin": "Monroe, WI United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981687",
-    "BeerName": "Trick Or Treat: Frogman (2022 Cryptids)",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Urban Artifact",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1667583,
+    "BeerName": "Solo Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Minhas Craft Brewery",
+    "Origin": "Monroe, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3098,
+    "BeerName": "Dempsey's Extra Stout",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Minhas Craft Brewery",
+    "Origin": "Monroe, WI United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 2933,
+    "BeerName": "Piedmont Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Minhas Craft Brewery",
+    "Origin": "Monroe, WI United States",
+    "BeerAbv": 3.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 2927,
+    "BeerName": "Barbary Coast Gold Rush",
+    "BeerStyle": "California Common",
+    "BreweryName": "Minhas Craft Brewery",
+    "Origin": "Monroe, WI United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 2925,
+    "BeerName": "Berkshire Springs Stock Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Minhas Craft Brewery",
+    "Origin": "Monroe, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 2936,
+    "BeerName": "Rock River Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Minhas Craft Brewery",
+    "Origin": "Monroe, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334458,
+    "BeerName": "Březí Koza Jantar",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Panský pivovar Vlachovo Březí",
+    "Origin": "Vlachovo Březí, Jihočeský kraj Czech Republic",
+    "BeerAbv": 4.60,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334464,
+    "BeerName": "Březí Koza Originál",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Panský pivovar Vlachovo Březí",
+    "Origin": "Vlachovo Březí, Jihočeský kraj Czech Republic",
+    "BeerAbv": 4.60,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334459,
+    "BeerName": "Cherry Lemonale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Lakewood Brewing Co.",
+    "Origin": "Garland, TX United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668514,
+    "BeerName": "Red Wine Barrel Hop Trapp w/ Cherries",
+    "BeerStyle": "IPA - Belgian",
+    "BreweryName": "Lakewood Brewing Co.",
+    "Origin": "Garland, TX United States",
+    "BeerAbv": 8.40,
+    "BeerIbu": 54.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668552,
+    "BeerName": "Red Wine Barrel Hop Trapp w/ Cherries",
+    "BeerStyle": "IPA - Belgian",
+    "BreweryName": "Lakewood Brewing Co.",
+    "Origin": "Garland, TX United States",
+    "BeerAbv": 8.40,
+    "BeerIbu": 54.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668239,
+    "BeerName": "Brandy Barrel Till & Toil",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Lakewood Brewing Co.",
+    "Origin": "Garland, TX United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668868,
+    "BeerName": "Hop Trapp",
+    "BeerStyle": "IPA - Belgian",
+    "BreweryName": "Lakewood Brewing Co.",
+    "Origin": "Garland, TX United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 54.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341875,
+    "BeerName": "Lakewood Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Lakewood Brewing Co.",
+    "Origin": "Garland, TX United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341898,
+    "BeerName": "Lakewood Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Lakewood Brewing Co.",
+    "Origin": "Garland, TX United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342495,
+    "BeerName": "Toasted Temptress",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Lakewood Brewing Co.",
+    "Origin": "Garland, TX United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667585,
+    "BeerName": "Berliner Weisse V2",
+    "BeerStyle": "Homebrew, Sour - Berliner Weisse",
+    "BreweryName": "Winberg's Draught House",
+    "Origin": "United States",
+    "BeerAbv": 3.90,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334460,
+    "BeerName": "Jubileum Special Golden Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Stadsbrouwerij Argentum",
+    "Origin": "Schoonhoven, Utrecht Netherlands",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667586,
+    "BeerName": "Tônico Do Scarante",
+    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
+    "BreweryName": "Birra Cezarotto",
+    "Origin": "Brazil",
+    "BeerAbv": 5.50,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00
   }
 ]
