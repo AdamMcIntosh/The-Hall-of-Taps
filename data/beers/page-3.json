@@ -1,5 +1,29 @@
 [
   {
+    "BID": 11563,
+    "BeerName": "Hoppyum IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Foothills Brewing",
+    "Origin": "Winston-Salem, NC United States",
+    "BeerAbv": 6.25,
+    "BeerIbu": 78.00,
+    "HallRating": 17.40,
+    "BAR": 12.37,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11397,
+    "BeerName": "Burning River Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Great Lakes Brewing Company",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 45.00,
+    "HallRating": 17.38,
+    "BAR": 12.34,
+    "StylePlus": "110"
+  },
+  {
     "BID": 1246,
     "BeerName": "Dorado Double IPA",
     "BeerStyle": "IPA - Imperial / Double",
@@ -7,7 +31,9 @@
     "Origin": "San Diego, CA United States",
     "BeerAbv": 10.00,
     "BeerIbu": 90.00,
-    "HallRating": 17.36
+    "HallRating": 17.36,
+    "BAR": 12.32,
+    "StylePlus": "101"
   },
   {
     "BID": 10526,
@@ -17,7 +43,9 @@
     "Origin": "Cleveland, OH United States",
     "BeerAbv": 6.30,
     "BeerIbu": 25.00,
-    "HallRating": 17.35
+    "HallRating": 17.35,
+    "BAR": 12.32,
+    "StylePlus": "113"
   },
   {
     "BID": 10580,
@@ -27,7 +55,9 @@
     "Origin": "Le Rœulx, Région Wallonne Belgium",
     "BeerAbv": 6.50,
     "BeerIbu": 28.00,
-    "HallRating": 17.33
+    "HallRating": 17.33,
+    "BAR": 12.29,
+    "StylePlus": "105"
   },
   {
     "BID": 1127,
@@ -37,7 +67,9 @@
     "Origin": "Vleteren, Vlaams Gewest Belgium",
     "BeerAbv": 8.00,
     "BeerIbu": 35.00,
-    "HallRating": 17.31
+    "HallRating": 17.31,
+    "BAR": 12.26,
+    "StylePlus": "107"
   },
   {
     "BID": 10231,
@@ -47,7 +79,9 @@
     "Origin": "Comstock, MI United States",
     "BeerAbv": 6.00,
     "BeerIbu": 50.00,
-    "HallRating": 17.31
+    "HallRating": 17.31,
+    "BAR": 12.27,
+    "StylePlus": "110"
   },
   {
     "BID": 11109,
@@ -57,7 +91,9 @@
     "Origin": "Tampa, FL United States",
     "BeerAbv": 7.50,
     "BeerIbu": 70.00,
-    "HallRating": 17.31
+    "HallRating": 17.31,
+    "BAR": 12.26,
+    "StylePlus": "104"
   },
   {
     "BID": 12079,
@@ -67,7 +103,9 @@
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 7.70,
     "BeerIbu": 70.00,
-    "HallRating": 17.30
+    "HallRating": 17.30,
+    "BAR": 12.25,
+    "StylePlus": "104"
   },
   {
     "BID": 1195,
@@ -77,7 +115,9 @@
     "Origin": "Boston, MA United States",
     "BeerAbv": 5.80,
     "BeerIbu": 11.00,
-    "HallRating": 17.28
+    "HallRating": 17.28,
+    "BAR": 12.23,
+    "StylePlus": "117"
   },
   {
     "BID": 10010,
@@ -87,7 +127,9 @@
     "Origin": "Brooklyn, NY United States",
     "BeerAbv": 5.20,
     "BeerIbu": 34.00,
-    "HallRating": 17.27
+    "HallRating": 17.27,
+    "BAR": 12.21,
+    "StylePlus": "110"
   },
   {
     "BID": 10662,
@@ -97,7 +139,9 @@
     "Origin": "Huntington Beach, CA United States",
     "BeerAbv": 6.50,
     "BeerIbu": 65.00,
-    "HallRating": 17.27
+    "HallRating": 17.27,
+    "BAR": 12.22,
+    "StylePlus": "104"
   },
   {
     "BID": 1256,
@@ -107,7 +151,9 @@
     "Origin": "Fort Collins, CO United States",
     "BeerAbv": 8.00,
     "BeerIbu": 61.00,
-    "HallRating": 17.25
+    "HallRating": 17.25,
+    "BAR": 12.18,
+    "StylePlus": "101"
   },
   {
     "BID": 12201,
@@ -117,17 +163,9 @@
     "Origin": "Kansas City, MO United States",
     "BeerAbv": 12.20,
     "BeerIbu": 26.00,
-    "HallRating": 17.25
-  },
-  {
-    "BID": 11337,
-    "BeerName": "Cass Fresh",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Oriental Brewery",
-    "Origin": "Seoul, South Korea",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 17.25
+    "HallRating": 17.25,
+    "BAR": 12.18,
+    "StylePlus": "101"
   },
   {
     "BID": 11844,
@@ -137,7 +175,21 @@
     "Origin": "Longmont, CO United States",
     "BeerAbv": 8.00,
     "BeerIbu": 85.00,
-    "HallRating": 17.25
+    "HallRating": 17.25,
+    "BAR": 12.18,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 11337,
+    "BeerName": "Cass Fresh",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Oriental Brewery",
+    "Origin": "Seoul, South Korea",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 17.25,
+    "BAR": 12.18,
+    "StylePlus": "98"
   },
   {
     "BID": 11979,
@@ -147,7 +199,9 @@
     "Origin": "Waterloo, Région Wallonne Belgium",
     "BeerAbv": 8.00,
     "BeerIbu": 26.00,
-    "HallRating": 17.24
+    "HallRating": 17.24,
+    "BAR": 12.17,
+    "StylePlus": "106"
   },
   {
     "BID": 11894,
@@ -157,7 +211,9 @@
     "Origin": "Salt Lake City, UT United States",
     "BeerAbv": 9.50,
     "BeerIbu": 95.00,
-    "HallRating": 17.23
+    "HallRating": 17.23,
+    "BAR": 12.16,
+    "StylePlus": "101"
   },
   {
     "BID": 11827,
@@ -167,7 +223,9 @@
     "Origin": "Kelheim, Bayern Germany",
     "BeerAbv": 6.20,
     "BeerIbu": 28.00,
-    "HallRating": 17.22
+    "HallRating": 17.22,
+    "BAR": 12.14,
+    "StylePlus": "111"
   },
   {
     "BID": 12563,
@@ -177,7 +235,9 @@
     "Origin": "Burlington, VT United States",
     "BeerAbv": 5.00,
     "BeerIbu": 28.00,
-    "HallRating": 17.21
+    "HallRating": 17.21,
+    "BAR": 12.13,
+    "StylePlus": "115"
   },
   {
     "BID": 10525,
@@ -187,7 +247,9 @@
     "Origin": "Cleveland, OH United States",
     "BeerAbv": 9.50,
     "BeerIbu": 80.00,
-    "HallRating": 17.20
+    "HallRating": 17.20,
+    "BAR": 12.12,
+    "StylePlus": "101"
   },
   {
     "BID": 11430,
@@ -197,7 +259,9 @@
     "Origin": "Lakewood, NY United States",
     "BeerAbv": 7.50,
     "BeerIbu": 35.00,
-    "HallRating": 17.20
+    "HallRating": 17.20,
+    "BAR": 12.13,
+    "StylePlus": "114"
   },
   {
     "BID": 103,
@@ -207,7 +271,9 @@
     "Origin": "Munster, IN United States",
     "BeerAbv": 6.50,
     "BeerIbu": 24.00,
-    "HallRating": 17.19
+    "HallRating": 17.19,
+    "BAR": 12.11,
+    "StylePlus": "111"
   },
   {
     "BID": 11266,
@@ -217,7 +283,9 @@
     "Origin": "Longmont, CO United States",
     "BeerAbv": 4.50,
     "BeerIbu": 20.00,
-    "HallRating": 17.16
+    "HallRating": 17.16,
+    "BAR": 12.07,
+    "StylePlus": "86"
   },
   {
     "BID": 11163,
@@ -227,26 +295,8 @@
     "Origin": "Asheville, NC United States",
     "BeerAbv": 5.10,
     "BeerIbu": 5.00,
-    "HallRating": 17.15
-  },
-  {
-    "BID": 12592,
-    "BeerName": "Hitachino Nest Red Rice Ale",
-    "BeerStyle": "Specialty Grain",
-    "BreweryName": "Kiuchi Brewery",
-    "Origin": "Naka-shi, Ibaraki Japan",
-    "BeerAbv": 7.00,
-    "BeerIbu": 17.00,
-    "HallRating": 17.11
-  },
-  {
-    "BID": 11713,
-    "BeerName": "Chocolate Oak Aged Yeti",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Great Divide Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 75.00,
-    "HallRating": 17.10
+    "HallRating": 17.15,
+    "BAR": 12.05,
+    "StylePlus": "113"
   }
 ]

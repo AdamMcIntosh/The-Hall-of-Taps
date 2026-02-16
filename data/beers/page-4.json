@@ -1,5 +1,29 @@
 [
   {
+    "BID": 12592,
+    "BeerName": "Hitachino Nest Red Rice Ale",
+    "BeerStyle": "Specialty Grain",
+    "BreweryName": "Kiuchi Brewery",
+    "Origin": "Naka-shi, Ibaraki Japan",
+    "BeerAbv": 7.00,
+    "BeerIbu": 17.00,
+    "HallRating": 17.11,
+    "BAR": 12.01,
+    "StylePlus": "114"
+  },
+  {
+    "BID": 11713,
+    "BeerName": "Chocolate Oak Aged Yeti",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Great Divide Brewing Company",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 75.00,
+    "HallRating": 17.10,
+    "BAR": 11.99,
+    "StylePlus": "100"
+  },
+  {
     "BID": 12238,
     "BeerName": "Fistmas",
     "BeerStyle": "Red Ale - Other",
@@ -7,7 +31,9 @@
     "Origin": "Chicago, IL United States",
     "BeerAbv": 6.50,
     "BeerIbu": 31.00,
-    "HallRating": 17.09
+    "HallRating": 17.09,
+    "BAR": 11.98,
+    "StylePlus": "115"
   },
   {
     "BID": 1064,
@@ -17,7 +43,9 @@
     "Origin": "Turnhout, Vlaams Gewest Belgium",
     "BeerAbv": 8.10,
     "BeerIbu": 23.00,
-    "HallRating": 17.08
+    "HallRating": 17.08,
+    "BAR": 11.96,
+    "StylePlus": "114"
   },
   {
     "BID": 10589,
@@ -27,7 +55,9 @@
     "Origin": "Kansas City, MO United States",
     "BeerAbv": 9.70,
     "BeerIbu": 60.00,
-    "HallRating": 17.07
+    "HallRating": 17.07,
+    "BAR": 11.96,
+    "StylePlus": "100"
   },
   {
     "BID": 1070,
@@ -37,7 +67,9 @@
     "Origin": "Petaluma, CA United States",
     "BeerAbv": 9.90,
     "BeerIbu": 72.00,
-    "HallRating": 17.05
+    "HallRating": 17.05,
+    "BAR": 11.93,
+    "StylePlus": "100"
   },
   {
     "BID": 1071,
@@ -47,7 +79,9 @@
     "Origin": "Petaluma, CA United States",
     "BeerAbv": 6.75,
     "BeerIbu": 35.00,
-    "HallRating": 17.04
+    "HallRating": 17.04,
+    "BAR": 11.91,
+    "StylePlus": "115"
   },
   {
     "BID": 1156,
@@ -57,7 +91,9 @@
     "Origin": "Arvada, CO United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 17.00
+    "HallRating": 17.00,
+    "BAR": 2.50,
+    "StylePlus": "107"
   },
   {
     "BID": 12223,
@@ -67,7 +103,9 @@
     "Origin": "Hamilton, MT United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 17.00
+    "HallRating": 17.00,
+    "BAR": 2.50,
+    "StylePlus": "104"
   },
   {
     "BID": 11089,
@@ -77,7 +115,9 @@
     "Origin": "Columbus, OH United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 17.00
+    "HallRating": 17.00,
+    "BAR": 2.50,
+    "StylePlus": "107"
   },
   {
     "BID": 11268,
@@ -87,7 +127,9 @@
     "Origin": "Longmont, CO United States",
     "BeerAbv": 8.50,
     "BeerIbu": 30.00,
-    "HallRating": 16.99
+    "HallRating": 16.99,
+    "BAR": 11.86,
+    "StylePlus": "108"
   },
   {
     "BID": 1257,
@@ -97,7 +139,9 @@
     "Origin": "Escondido, CA United States",
     "BeerAbv": 5.90,
     "BeerIbu": 53.00,
-    "HallRating": 16.98
+    "HallRating": 16.98,
+    "BAR": 11.84,
+    "StylePlus": "103"
   },
   {
     "BID": 10403,
@@ -107,7 +151,9 @@
     "Origin": "Tadcaster, North Yorkshire England",
     "BeerAbv": 6.00,
     "BeerIbu": 32.00,
-    "HallRating": 16.98
+    "HallRating": 16.98,
+    "BAR": 11.84,
+    "StylePlus": "114"
   },
   {
     "BID": 10371,
@@ -117,7 +163,9 @@
     "Origin": "Freeport, ME United States",
     "BeerAbv": 7.20,
     "BeerIbu": 0.00,
-    "HallRating": 16.94
+    "HallRating": 16.94,
+    "BAR": 11.78,
+    "StylePlus": "115"
   },
   {
     "BID": 11354,
@@ -127,7 +175,9 @@
     "Origin": "Kansas City, MO United States",
     "BeerAbv": 5.40,
     "BeerIbu": 30.00,
-    "HallRating": 16.93
+    "HallRating": 16.93,
+    "BAR": 11.78,
+    "StylePlus": "110"
   },
   {
     "BID": 11047,
@@ -137,7 +187,9 @@
     "Origin": "Rheinfelden, Aargau Switzerland",
     "BeerAbv": 4.80,
     "BeerIbu": 22.00,
-    "HallRating": 16.90
+    "HallRating": 16.90,
+    "BAR": 11.74,
+    "StylePlus": "98"
   },
   {
     "BID": 10052,
@@ -147,7 +199,9 @@
     "Origin": "Bamberg, Bayern Germany",
     "BeerAbv": 6.50,
     "BeerIbu": 40.00,
-    "HallRating": 16.87
+    "HallRating": 16.87,
+    "BAR": 11.70,
+    "StylePlus": "111"
   },
   {
     "BID": 1253,
@@ -157,7 +211,9 @@
     "Origin": "Escondido, CA United States",
     "BeerAbv": 4.40,
     "BeerIbu": 45.00,
-    "HallRating": 16.86
+    "HallRating": 16.86,
+    "BAR": 11.68,
+    "StylePlus": "115"
   },
   {
     "BID": 10676,
@@ -167,7 +223,9 @@
     "Origin": "Asheville, NC United States",
     "BeerAbv": 6.20,
     "BeerIbu": 63.00,
-    "HallRating": 16.84
+    "HallRating": 16.84,
+    "BAR": 11.66,
+    "StylePlus": "115"
   },
   {
     "BID": 1242,
@@ -177,7 +235,9 @@
     "Origin": "San Diego, CA United States",
     "BeerAbv": 5.70,
     "BeerIbu": 46.00,
-    "HallRating": 16.83
+    "HallRating": 16.83,
+    "BAR": 11.65,
+    "StylePlus": "115"
   },
   {
     "BID": 10822,
@@ -187,7 +247,9 @@
     "Origin": "Paso Robles, CA United States",
     "BeerAbv": 5.20,
     "BeerIbu": 20.00,
-    "HallRating": 16.82
+    "HallRating": 16.82,
+    "BAR": 11.64,
+    "StylePlus": "109"
   },
   {
     "BID": 11239,
@@ -197,7 +259,9 @@
     "Origin": "Vientiane, Vientiane Prefecture Laos",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 16.79
+    "HallRating": 16.79,
+    "BAR": 11.60,
+    "StylePlus": "98"
   },
   {
     "BID": 10376,
@@ -207,7 +271,9 @@
     "Origin": "Kansas City, MO United States",
     "BeerAbv": 7.80,
     "BeerIbu": 38.00,
-    "HallRating": 16.77
+    "HallRating": 16.77,
+    "BAR": 11.57,
+    "StylePlus": "114"
   },
   {
     "BID": 10532,
@@ -217,7 +283,9 @@
     "Origin": "Indianapolis, IN United States",
     "BeerAbv": 5.10,
     "BeerIbu": 20.00,
-    "HallRating": 16.77
+    "HallRating": 16.77,
+    "BAR": 11.57,
+    "StylePlus": "110"
   },
   {
     "BID": 10021,
@@ -227,26 +295,8 @@
     "Origin": "Winston-Salem, NC United States",
     "BeerAbv": 5.80,
     "BeerIbu": 42.00,
-    "HallRating": 16.76
-  },
-  {
-    "BID": 11923,
-    "BeerName": "Happy Camper IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Santa Fe Brewing Company",
-    "Origin": "Santa Fe, NM United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 82.00,
-    "HallRating": 16.75
-  },
-  {
-    "BID": 10018,
-    "BeerName": "Peg Leg",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Heavy Seas Beer",
-    "Origin": "Baltimore, MD United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 30.00,
-    "HallRating": 16.75
+    "HallRating": 16.76,
+    "BAR": 11.55,
+    "StylePlus": "106"
   }
 ]

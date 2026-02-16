@@ -1,65 +1,5 @@
 [
   {
-    "BID": 4632115,
-    "BeerName": "POG",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Struggle Street Brewing Company",
-    "Origin": "Beaumont, TX United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630547,
-    "BeerName": "Maple Pecan Praline",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Struggle Street Brewing Company",
-    "Origin": "Beaumont, TX United States",
-    "BeerAbv": 11.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445793,
-    "BeerName": "Emerald Haze",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Double Branch Brewing & Bites",
-    "Origin": "Wesley Chapel, FL United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631973,
-    "BeerName": "Wicked Branch Florida Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Double Branch Brewing & Bites",
-    "Origin": "Wesley Chapel, FL United States",
-    "BeerAbv": 4.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631575,
-    "BeerName": "Dissipating Clouds",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Y Not Brewing",
-    "Origin": "Sønderholm, Region Nordjylland Denmark",
-    "BeerAbv": 8.00,
-    "BeerIbu": 50.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815301,
-    "BeerName": "Shining Brighter",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Y Not Brewing",
-    "Origin": "Sønderholm, Region Nordjylland Denmark",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 4630548,
     "BeerName": "India Pale Ale",
     "BeerStyle": "IPA - Other",
@@ -67,7 +7,9 @@
     "Origin": "Switzerland",
     "BeerAbv": 9.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445794,
@@ -77,7 +19,9 @@
     "Origin": "Jonesville, MI United States",
     "BeerAbv": 9.50,
     "BeerIbu": 77.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3339735,
@@ -87,7 +31,9 @@
     "Origin": "Jonesville, MI United States",
     "BeerAbv": 5.50,
     "BeerIbu": 42.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "77"
   },
   {
     "BID": 4815302,
@@ -97,7 +43,9 @@
     "Origin": "South Korea",
     "BeerAbv": 4.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 4816646,
@@ -107,7 +55,9 @@
     "Origin": "South Korea",
     "BeerAbv": 5.20,
     "BeerIbu": 10.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "88"
   },
   {
     "BID": 4961801,
@@ -117,7 +67,9 @@
     "Origin": "South Korea",
     "BeerAbv": 8.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 4940501,
@@ -127,7 +79,9 @@
     "Origin": "Leesburg, VA United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3333351,
@@ -137,7 +91,9 @@
     "Origin": "Leesburg, VA United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 4630549,
@@ -147,7 +103,9 @@
     "Origin": "Thetford, Suffolk England",
     "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815303,
@@ -157,7 +115,9 @@
     "Origin": "Santo André, São Paulo Brazil",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4445796,
@@ -167,7 +127,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630551,
@@ -177,7 +139,9 @@
     "Origin": "Alliance, OH United States",
     "BeerAbv": 7.50,
     "BeerIbu": 75.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4815304,
@@ -187,7 +151,9 @@
     "Origin": "Ross, Northern Territory Australia",
     "BeerAbv": 3.50,
     "BeerIbu": 12.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
   },
   {
     "BID": 4815667,
@@ -197,7 +163,9 @@
     "Origin": "Port Washington, WI United States",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
   },
   {
     "BID": 4815669,
@@ -207,7 +175,9 @@
     "Origin": "Port Washington, WI United States",
     "BeerAbv": 7.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 4445797,
@@ -217,7 +187,9 @@
     "Origin": "Port Washington, WI United States",
     "BeerAbv": 6.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3343410,
@@ -227,7 +199,9 @@
     "Origin": "Port Washington, WI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4960960,
@@ -237,7 +211,9 @@
     "Origin": "Port Washington, WI United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630552,
@@ -247,6 +223,80 @@
     "Origin": "Le Breuil-en-Auge, Normandie France",
     "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 4815305,
+    "BeerName": "Čmelák",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Pivovar Rotor",
+    "Origin": "Kunovice, Zlínský kraj Czech Republic",
+    "BeerAbv": 3.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 4445799,
+    "BeerName": "Cynosure IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Cynosure Brewing",
+    "Origin": "Anchorage, AK United States",
+    "BeerAbv": 5.75,
+    "BeerIbu": 53.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4815306,
+    "BeerName": "Yes AI Can",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Oceanbryggeriet",
+    "Origin": "Gothenburg, Västra Götalands län Sweden",
+    "BeerAbv": 2.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 10552,
+    "BeerName": "Eko Julöl",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Oceanbryggeriet",
+    "Origin": "Gothenburg, Västra Götalands län Sweden",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 13215,
+    "BeerName": "12 Plato Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Oceanbryggeriet",
+    "Origin": "Gothenburg, Västra Götalands län Sweden",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
+  },
+  {
+    "BID": 1666684,
+    "BeerName": "Lustrumbier",
+    "BeerStyle": "Homebrew, Other",
+    "BreweryName": "VU Amsterdam",
+    "Origin": "Netherlands",
+    "BeerAbv": 6.00,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

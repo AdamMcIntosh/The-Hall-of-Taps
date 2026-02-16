@@ -1,5 +1,65 @@
 [
   {
+    "BID": 13664,
+    "BeerName": "Winter Wonderland",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Wolf Creek Brewery",
+    "Origin": "Valencia, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 47.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "114"
+  },
+  {
+    "BID": 13696,
+    "BeerName": "Golden Eagle Blonde Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Wolf Creek Brewery",
+    "Origin": "Valencia, CA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 6747,
+    "BeerName": "Midnight Howl India Black Ale",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Wolf Creek Brewery",
+    "Origin": "Valencia, CA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 88.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 8086,
+    "BeerName": "Diamondback",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Wolf Creek Brewery",
+    "Origin": "Valencia, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 11259,
+    "BeerName": "Pure Blonde White",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Carlton & United Breweries",
+    "Origin": "Abbotsford, Victoria Australia",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
     "BID": 8834,
     "BeerName": "Foster's Special Bitter",
     "BeerStyle": "Bitter - Session / Ordinary",
@@ -7,7 +67,9 @@
     "Origin": "Abbotsford, Victoria Australia",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
   },
   {
     "BID": 9871,
@@ -17,7 +79,21 @@
     "Origin": "Abbotsford, Victoria Australia",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 7417,
+    "BeerName": "Pure Blonde Ultra Low Carb",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Carlton & United Breweries",
+    "Origin": "Abbotsford, Victoria Australia",
+    "BeerAbv": 4.20,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
   },
   {
     "BID": 1671247,
@@ -27,7 +103,9 @@
     "Origin": "United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3338466,
@@ -37,7 +115,9 @@
     "Origin": "Canada",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1671249,
@@ -47,7 +127,9 @@
     "Origin": "United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1671250,
@@ -57,7 +139,9 @@
     "Origin": "Montreal, QC Canada",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 1673403,
@@ -67,7 +151,9 @@
     "Origin": "Montreal, QC Canada",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3344056,
@@ -77,7 +163,9 @@
     "Origin": "Montreal, QC Canada",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1675476,
@@ -87,7 +175,9 @@
     "Origin": "United States",
     "BeerAbv": 4.20,
     "BeerIbu": 10.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1671251,
@@ -97,7 +187,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3338473,
@@ -107,7 +199,9 @@
     "Origin": "Ba Đình, Hà Nội Vietnam",
     "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "88"
   },
   {
     "BID": 1671252,
@@ -117,7 +211,9 @@
     "Origin": "São Paulo, Brazil",
     "BeerAbv": 5.80,
     "BeerIbu": 32.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1671255,
@@ -127,7 +223,9 @@
     "Origin": "United States",
     "BeerAbv": 8.30,
     "BeerIbu": 93.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3338479,
@@ -137,7 +235,9 @@
     "Origin": "Netherlands",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1671257,
@@ -147,7 +247,9 @@
     "Origin": "United States",
     "BeerAbv": 5.00,
     "BeerIbu": 27.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1667144,
@@ -157,7 +259,9 @@
     "Origin": "Williamsburg, OH United States",
     "BeerAbv": 6.50,
     "BeerIbu": 36.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1671259,
@@ -167,7 +271,9 @@
     "Origin": "Belo Horizonte, Minas Gerais Brazil",
     "BeerAbv": 5.50,
     "BeerIbu": 17.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3338483,
@@ -177,7 +283,9 @@
     "Origin": "Rotterdam, Zuid-Holland Netherlands",
     "BeerAbv": 4.80,
     "BeerIbu": 26.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 3338484,
@@ -187,66 +295,8 @@
     "Origin": "Ottawa, ON Canada",
     "BeerAbv": 4.60,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1671306,
-    "BeerName": "Timberslide IPA",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Lowertown Brewery",
-    "Origin": "Ottawa, ON Canada",
-    "BeerAbv": 5.80,
-    "BeerIbu": 56.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1671263,
-    "BeerName": "Sour Patch Kids Cider",
-    "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
-    "BreweryName": "Mythos Meadery",
-    "Origin": "Canada",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6648,
-    "BeerName": "Singa Jengke",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Perusahaan Bir Sajagad",
-    "Origin": null,
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338486,
-    "BeerName": "Carpist",
-    "BeerStyle": "Belgian Blonde",
-    "BreweryName": "Brouwerij Maenhout",
-    "Origin": "Staden, Vlaams Gewest Belgium",
-    "BeerAbv": 6.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1676859,
-    "BeerName": "R.P.G.",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Blue Hills Brewery",
-    "Origin": "Canton, MA United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6649,
-    "BeerName": "Blue Hill IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Blue Hills Brewery",
-    "Origin": "Canton, MA United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 72.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "81"
   }
 ]

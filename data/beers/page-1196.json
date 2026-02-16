@@ -1,5 +1,29 @@
 [
   {
+    "BID": 4815361,
+    "BeerName": "Voor (2019)",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Tommie Sjef",
+    "Origin": "Den Helder, Noord-Holland Netherlands",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4445856,
+    "BeerName": "Hoppy Habanero Red IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Flying Boat Brewing Company",
+    "Origin": "St. Petersburg, FL United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 42.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
     "BID": 3341732,
     "BeerName": "Lark of Duluth with Peach",
     "BeerStyle": "Kölsch",
@@ -7,7 +31,9 @@
     "Origin": "St. Petersburg, FL United States",
     "BeerAbv": 5.00,
     "BeerIbu": 26.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3341861,
@@ -17,7 +43,9 @@
     "Origin": "St. Petersburg, FL United States",
     "BeerAbv": 5.20,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4960316,
@@ -27,37 +55,9 @@
     "Origin": "St. Petersburg, FL United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4982395,
-    "BeerName": "Be Your Future",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Wise Man Brewing",
-    "Origin": "Winston Salem, NC United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 36.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339050,
-    "BeerName": "Scholar's Dream: Strawberry Rhubarb Berliner Weisse",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Wise Man Brewing",
-    "Origin": "Winston Salem, NC United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 7.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630608,
-    "BeerName": "Your Hazy Ways...Motueka, Nelson, and Simcoe",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Wise Man Brewing",
-    "Origin": "Winston Salem, NC United States",
-    "BeerAbv": 7.10,
-    "BeerIbu": 47.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4941371,
@@ -67,7 +67,9 @@
     "Origin": "Winston Salem, NC United States",
     "BeerAbv": 0.50,
     "BeerIbu": 16.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
   },
   {
     "BID": 4941340,
@@ -77,7 +79,45 @@
     "Origin": "Winston Salem, NC United States",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 4982395,
+    "BeerName": "Be Your Future",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Wise Man Brewing",
+    "Origin": "Winston Salem, NC United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 36.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4630608,
+    "BeerName": "Your Hazy Ways...Motueka, Nelson, and Simcoe",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Wise Man Brewing",
+    "Origin": "Winston Salem, NC United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 47.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3339050,
+    "BeerName": "Scholar's Dream: Strawberry Rhubarb Berliner Weisse",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Wise Man Brewing",
+    "Origin": "Winston Salem, NC United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4815363,
@@ -87,17 +127,9 @@
     "Origin": "Netherlands",
     "BeerAbv": 9.50,
     "BeerIbu": 29.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815379,
-    "BeerName": "Tutti-Frutti",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Hop & Friends Reuver",
-    "Origin": "Netherlands",
-    "BeerAbv": 4.80,
-    "BeerIbu": 27.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815395,
@@ -107,7 +139,21 @@
     "Origin": "Netherlands",
     "BeerAbv": 6.60,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4815379,
+    "BeerName": "Tutti-Frutti",
+    "BeerStyle": "Homebrew, IPA - New England / Hazy",
+    "BreweryName": "Hop & Friends Reuver",
+    "Origin": "Netherlands",
+    "BeerAbv": 4.80,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445857,
@@ -117,7 +163,9 @@
     "Origin": "Curitiba, Paraná Brazil",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4630609,
@@ -127,7 +175,9 @@
     "Origin": "England",
     "BeerAbv": 6.30,
     "BeerIbu": 23.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630610,
@@ -137,7 +187,9 @@
     "Origin": "Cincinnati, OH United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 4630853,
@@ -147,27 +199,9 @@
     "Origin": "Cincinnati, OH United States",
     "BeerAbv": 7.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960244,
-    "BeerName": "Everybody’s  Beer",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "HighGrain Brewing",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939240,
-    "BeerName": "Brewquality",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "HighGrain Brewing",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 4816259,
@@ -177,7 +211,9 @@
     "Origin": "Cincinnati, OH United States",
     "BeerAbv": 7.30,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3339935,
@@ -187,7 +223,9 @@
     "Origin": "Cincinnati, OH United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3337267,
@@ -197,7 +235,9 @@
     "Origin": "Cincinnati, OH United States",
     "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "121"
   },
   {
     "BID": 3337425,
@@ -207,7 +247,33 @@
     "Origin": "Cincinnati, OH United States",
     "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 4960244,
+    "BeerName": "Everybody’s  Beer",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "HighGrain Brewing",
+    "Origin": "Cincinnati, OH United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "128"
+  },
+  {
+    "BID": 4939240,
+    "BeerName": "Brewquality",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "HighGrain Brewing",
+    "Origin": "Cincinnati, OH United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 3333356,
@@ -217,7 +283,9 @@
     "Origin": "Saignelégier, Jura Switzerland",
     "BeerAbv": 7.28,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 1671565,
@@ -227,26 +295,8 @@
     "Origin": "Saignelégier, Jura Switzerland",
     "BeerAbv": 5.28,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960372,
-    "BeerName": "Mango Pineapple Lime Gose",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Lucky Labrador Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3890932,
-    "BeerName": "12th Man",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Penton Park Brewery",
-    "Origin": "Andover, Hampshire England",
-    "BeerAbv": 4.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

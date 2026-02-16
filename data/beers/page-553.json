@@ -1,205 +1,5 @@
 [
   {
-    "BID": 3343181,
-    "BeerName": "Imperfect Citrus Cyser",
-    "BeerStyle": "Mead - Cyser",
-    "BreweryName": "Houston Cider Company",
-    "Origin": "Houston, TX United States",
-    "BeerAbv": 18.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674888,
-    "BeerName": "Pêche",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Une Année Brewery",
-    "Origin": "Niles, IL United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 1.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674890,
-    "BeerName": "Framboise",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Une Année Brewery",
-    "Origin": "Niles, IL United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 1.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674891,
-    "BeerName": "Ouais",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Une Année Brewery",
-    "Origin": "Niles, IL United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 1.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674846,
-    "BeerName": "Fransk Sesongøl",
-    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "Hop Mountain",
-    "Origin": "Sandnes, Norge Norway",
-    "BeerAbv": 6.00,
-    "BeerIbu": 23.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342182,
-    "BeerName": "Half Pint Grapefriut IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Half Pint Brewing Company",
-    "Origin": "Waseca, MN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3333996,
-    "BeerName": "Extra Hot Strawberry Lemonade El Chupacabrew",
-    "BeerStyle": "Chilli / Chile Beer",
-    "BreweryName": "The Beer Den Cavern @ Lowes Foods",
-    "Origin": "Simpsonville, SC United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 14290,
-    "BeerName": "Bengal India Pale Ale",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Red Duck",
-    "Origin": "Ballarat, Victoria Australia",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674828,
-    "BeerName": "Unity",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Home Brewery Applied Science",
-    "Origin": "United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 59.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 11540,
-    "BeerName": "Prohibition Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Bootleg Brewery",
-    "Origin": "Margaret River, Western Australia Australia",
-    "BeerAbv": 4.90,
-    "BeerIbu": 33.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 11536,
-    "BeerName": "Tom's Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Bootleg Brewery",
-    "Origin": "Margaret River, Western Australia Australia",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 11537,
-    "BeerName": "Settlers Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Bootleg Brewery",
-    "Origin": "Margaret River, Western Australia Australia",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13869,
-    "BeerName": "Strong Back Stout",
-    "BeerStyle": "Stout - Foreign / Export",
-    "BreweryName": "Bahamian Brewery & Beverage Co.",
-    "Origin": "Freeport, Bahamas",
-    "BeerAbv": 7.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342316,
-    "BeerName": "Huckleberry",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Boathouse Beverage Co.",
-    "Origin": "Norwalk, CT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342251,
-    "BeerName": "Raspberry",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Boathouse Beverage Co.",
-    "Origin": "Norwalk, CT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674908,
-    "BeerName": "The Bones",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Bryggerifabriken",
-    "Origin": "Karlskrona, Blekinge län Sweden",
-    "BeerAbv": 6.60,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674909,
-    "BeerName": "NC-17",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Hop Religion",
-    "Origin": "United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 80.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342253,
-    "BeerName": "Jag Gillar Nya Matte Som Dricker öl Istället För Cola",
-    "BeerStyle": "Homebrew, IPA - Imperial / Double",
-    "BreweryName": "Bunny Hops",
-    "Origin": "Sweden",
-    "BeerAbv": 8.70,
-    "BeerIbu": 35.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342343,
-    "BeerName": "Misslyckande #2",
-    "BeerStyle": "Homebrew, IPA - Milkshake",
-    "BreweryName": "Bunny Hops",
-    "Origin": "Sweden",
-    "BeerAbv": 6.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342254,
-    "BeerName": "You're One In A Melon Wheat",
-    "BeerStyle": "Wheat Beer - Other",
-    "BreweryName": "Canyon Ferry Brewing Company",
-    "Origin": "Townsend, MT United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 11.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 3344106,
     "BeerName": "Walleye Wit",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
@@ -207,7 +7,9 @@
     "Origin": "Townsend, MT United States",
     "BeerAbv": 5.80,
     "BeerIbu": 23.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "113"
   },
   {
     "BID": 1674911,
@@ -217,7 +19,9 @@
     "Origin": "Hove, Brighton and Hove England",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1674913,
@@ -227,7 +31,9 @@
     "Origin": "Nitra, Nitriansky kraj Slovakia",
     "BeerAbv": 4.50,
     "BeerIbu": 37.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
   },
   {
     "BID": 3342257,
@@ -237,7 +43,9 @@
     "Origin": "England",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3334235,
@@ -247,6 +55,248 @@
     "Origin": "Požega, Požeško-slavonska županija Croatia",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "58"
+  },
+  {
+    "BID": 3342258,
+    "BeerName": "Jules Fort",
+    "BeerStyle": "Homebrew, Belgian Strong Dark Ale",
+    "BreweryName": "Hanewijk Home Brewery",
+    "Origin": "Belgium",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 11660,
+    "BeerName": "Ringwood",
+    "BeerStyle": "Homebrew, Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "FIGJAM Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 12961,
+    "BeerName": "Glacial Bitter",
+    "BeerStyle": "Homebrew, Bitter - Session / Ordinary",
+    "BreweryName": "FIGJAM Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 12952,
+    "BeerName": "Munich Dunkel",
+    "BeerStyle": "Homebrew, Lager - Munich Dunkel",
+    "BreweryName": "FIGJAM Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 12179,
+    "BeerName": "Soured Cream Ale",
+    "BeerStyle": "Homebrew, Cream Ale",
+    "BreweryName": "FIGJAM Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674889,
+    "BeerName": "Utkikken Dobbel",
+    "BeerStyle": "Homebrew, Belgian Dubbel",
+    "BreweryName": "janjens' Munngodt",
+    "Origin": "Norway",
+    "BeerAbv": 7.20,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674914,
+    "BeerName": "janjens' Oriental",
+    "BeerStyle": "Homebrew, IPA - Other",
+    "BreweryName": "janjens' Munngodt",
+    "Origin": "Norway",
+    "BeerAbv": 7.40,
+    "BeerIbu": 82.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342235,
+    "BeerName": "Wedding Veil Ale",
+    "BeerStyle": "Homebrew, Pale Ale - Other",
+    "BreweryName": "Speisschaert Road Brewery",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342236,
+    "BeerName": "Stay Pufft",
+    "BeerStyle": "IPA - Imperial / Double Milkshake",
+    "BreweryName": "Ebb & Flow Fermentations",
+    "Origin": "Cape Girardeau, MO United States",
+    "BeerAbv": 6.24,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342243,
+    "BeerName": "Peg Leg",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Ebb & Flow Fermentations",
+    "Origin": "Cape Girardeau, MO United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674894,
+    "BeerName": "Killa' Citra IPA (2016)",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Beckman's Homebrew",
+    "Origin": "United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 57.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674895,
+    "BeerName": "Hopsy Lager",
+    "BeerStyle": "Homebrew, Lager - IPL (India Pale Lager)",
+    "BreweryName": "Dahlen Bryggeriet",
+    "Origin": "Sweden",
+    "BeerAbv": 4.40,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342239,
+    "BeerName": "Golden Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Switchyard Brewing Company",
+    "Origin": "Bloomington, IN United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 3342648,
+    "BeerName": "John Harvards Sommer Fest",
+    "BeerStyle": "Kellerbier / Zwickelbier",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 14581,
+    "BeerName": "Cranberry Fat Turkey Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 13790,
+    "BeerName": "Crooked Caber Scottish Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 13025,
+    "BeerName": "Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 7696,
+    "BeerName": "Pumpkin Spice Ale",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 7775,
+    "BeerName": "Off Camber Copper",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 7778,
+    "BeerName": "London Brown",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

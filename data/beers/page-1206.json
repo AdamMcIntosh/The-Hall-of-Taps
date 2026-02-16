@@ -1,23 +1,15 @@
 [
   {
-    "BID": 1671999,
-    "BeerName": "Perle Pale Ale",
-    "BeerStyle": "Pale Ale - American",
+    "BID": 4445756,
+    "BeerName": "The Abyss Black IPL",
+    "BeerStyle": "Lager - IPL (India Pale Lager)",
     "BreweryName": "Sea Dog Brewing Company",
     "Origin": "Portland, ME United States",
-    "BeerAbv": 0.00,
+    "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1671756,
-    "BeerName": "Brexit Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Sea Dog Brewing Company",
-    "Origin": "Portland, ME United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
   },
   {
     "BID": 1675606,
@@ -27,17 +19,45 @@
     "Origin": "Portland, ME United States",
     "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
   },
   {
-    "BID": 4981541,
-    "BeerName": "Invader",
-    "BeerStyle": "Pale Ale - New England / Hazy",
+    "BID": 3338704,
+    "BeerName": "Goat Island Light",
+    "BeerStyle": "Blonde / Golden Ale - Other",
     "BreweryName": "Sea Dog Brewing Company",
     "Origin": "Portland, ME United States",
-    "BeerAbv": 5.50,
+    "BeerAbv": 3.25,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1671756,
+    "BeerName": "Brexit Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Sea Dog Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1671999,
+    "BeerName": "Perle Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Sea Dog Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 6550,
@@ -47,7 +67,9 @@
     "Origin": "Portland, ME United States",
     "BeerAbv": 4.70,
     "BeerIbu": 8.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
   },
   {
     "BID": 5452,
@@ -57,7 +79,21 @@
     "Origin": "Portland, ME United States",
     "BeerAbv": 4.50,
     "BeerIbu": 8.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
+  },
+  {
+    "BID": 4981541,
+    "BeerName": "Invader",
+    "BeerStyle": "Pale Ale - New England / Hazy",
+    "BreweryName": "Sea Dog Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4447014,
@@ -67,7 +103,9 @@
     "Origin": "England",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630511,
@@ -77,37 +115,9 @@
     "Origin": "England",
     "BeerAbv": 3.90,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 34,
-    "BeerName": "La Choulette Blonde",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Brasserie La Choulette",
-    "Origin": "Hordain, Hauts-de-France France",
-    "BeerAbv": 7.50,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 19,
-    "BeerName": "La Choulette Framboise",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Brasserie La Choulette",
-    "Origin": "Hordain, Hauts-de-France France",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6070,
-    "BeerName": "La Triboulette",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Brasserie La Choulette",
-    "Origin": "Hordain, Hauts-de-France France",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 6063,
@@ -117,7 +127,9 @@
     "Origin": "Hordain, Hauts-de-France France",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 6064,
@@ -127,7 +139,9 @@
     "Origin": "Hordain, Hauts-de-France France",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 6065,
@@ -137,7 +151,9 @@
     "Origin": "Hordain, Hauts-de-France France",
     "BeerAbv": 5.00,
     "BeerIbu": 10.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
     "BID": 6066,
@@ -147,7 +163,9 @@
     "Origin": "Hordain, Hauts-de-France France",
     "BeerAbv": 8.00,
     "BeerIbu": 35.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 6067,
@@ -157,7 +175,9 @@
     "Origin": "Hordain, Hauts-de-France France",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 6068,
@@ -167,7 +187,9 @@
     "Origin": "Hordain, Hauts-de-France France",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
   },
   {
     "BID": 6069,
@@ -177,7 +199,45 @@
     "Origin": "Hordain, Hauts-de-France France",
     "BeerAbv": 8.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 6070,
+    "BeerName": "La Triboulette",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Brasserie La Choulette",
+    "Origin": "Hordain, Hauts-de-France France",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 19,
+    "BeerName": "La Choulette Framboise",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Brasserie La Choulette",
+    "Origin": "Hordain, Hauts-de-France France",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
+  },
+  {
+    "BID": 34,
+    "BeerName": "La Choulette Blonde",
+    "BeerStyle": "Farmhouse Ale - Bière de Garde",
+    "BreweryName": "Brasserie La Choulette",
+    "Origin": "Hordain, Hauts-de-France France",
+    "BeerAbv": 7.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 840,
@@ -187,7 +247,9 @@
     "Origin": "Hordain, Hauts-de-France France",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 4815267,
@@ -197,7 +259,9 @@
     "Origin": "Rosières-aux-Salines, Grand Est France",
     "BeerAbv": 6.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 4445757,
@@ -207,7 +271,9 @@
     "Origin": "Sweden",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630512,
@@ -217,7 +283,9 @@
     "Origin": "Kristinehamn, Värmlands län Sweden",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4939978,
@@ -227,26 +295,8 @@
     "Origin": "Kristinehamn, Värmlands län Sweden",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815268,
-    "BeerName": "Mirakel Van Sloten",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Brouwerij De 7 Deugden",
-    "Origin": "Amsterdam, Noord-Holland Netherlands",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815801,
-    "BeerName": "The Hustle Is Hexed",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "DSSOLVR",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   }
 ]

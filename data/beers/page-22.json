@@ -1,5 +1,113 @@
 [
   {
+    "BID": 12567,
+    "BeerName": "Exit 13 - Chocolate Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Flying Fish Brewing Co.",
+    "Origin": "Baltimore, MD United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 14.73,
+    "BAR": 8.59,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 11455,
+    "BeerName": "ESB",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Holgate Brewhouse",
+    "Origin": "Woodend, Victoria Australia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 40.00,
+    "HallRating": 14.73,
+    "BAR": 8.59,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 12128,
+    "BeerName": "Big Man IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Cambridge Brewing Company",
+    "Origin": "Cambridge, MA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 14.72,
+    "BAR": 8.57,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 10665,
+    "BeerName": "Dark Intrigue",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Victory Brewing Company",
+    "Origin": "Downingtown, PA United States",
+    "BeerAbv": 9.10,
+    "BeerIbu": 0.00,
+    "HallRating": 14.72,
+    "BAR": 8.58,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 11448,
+    "BeerName": "Booya Steez (Solana Beach)",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Pizza Port Brewing Company",
+    "Origin": "Carlsbad, CA United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 14.72,
+    "BAR": 3.58,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 11006,
+    "BeerName": "Bitch Please",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
+    "BeerAbv": 12.00,
+    "BeerIbu": 50.00,
+    "HallRating": 14.72,
+    "BAR": 8.58,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 10590,
+    "BeerName": "Ovation",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Flossmoor Station Restaurant and Brewery",
+    "Origin": "Flossmoor, IL United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.72,
+    "BAR": 3.58,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 12413,
+    "BeerName": "Organic Demolition Ale",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Elliott Bay Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 7.25,
+    "BeerIbu": 90.00,
+    "HallRating": 14.72,
+    "BAR": 8.57,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 11220,
+    "BeerName": "Ladyface IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Ladyface Brewery",
+    "Origin": "Agoura Hills, CA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 14.71,
+    "BAR": 8.55,
+    "StylePlus": "104"
+  },
+  {
     "BID": 10142,
     "BeerName": "Coton (2010)",
     "BeerStyle": "Old / Stock Ale",
@@ -7,7 +115,9 @@
     "Origin": "Placentia, CA United States",
     "BeerAbv": 14.50,
     "BeerIbu": 45.00,
-    "HallRating": 14.71
+    "HallRating": 14.71,
+    "BAR": 8.55,
+    "StylePlus": "104"
   },
   {
     "BID": 10814,
@@ -17,7 +127,9 @@
     "Origin": "Red Hill South, Victoria Australia",
     "BeerAbv": 5.80,
     "BeerIbu": 17.00,
-    "HallRating": 14.71
+    "HallRating": 14.71,
+    "BAR": 8.57,
+    "StylePlus": "103"
   },
   {
     "BID": 12214,
@@ -27,7 +139,9 @@
     "Origin": "Hamilton, MT United States",
     "BeerAbv": 5.20,
     "BeerIbu": 25.00,
-    "HallRating": 14.70
+    "HallRating": 14.70,
+    "BAR": 8.54,
+    "StylePlus": "108"
   },
   {
     "BID": 12357,
@@ -37,7 +151,9 @@
     "Origin": "Witney, Oxfordshire England",
     "BeerAbv": 6.70,
     "BeerIbu": 0.00,
-    "HallRating": 14.70
+    "HallRating": 14.70,
+    "BAR": 8.55,
+    "StylePlus": "107"
   },
   {
     "BID": 11013,
@@ -47,7 +163,9 @@
     "Origin": "Escondido, CA United States",
     "BeerAbv": 10.50,
     "BeerIbu": 60.00,
-    "HallRating": 14.70
+    "HallRating": 14.70,
+    "BAR": 8.55,
+    "StylePlus": "100"
   },
   {
     "BID": 10908,
@@ -57,7 +175,9 @@
     "Origin": "Milan, Lombardia Italy",
     "BeerAbv": 8.00,
     "BeerIbu": 45.00,
-    "HallRating": 14.69
+    "HallRating": 14.69,
+    "BAR": 8.52,
+    "StylePlus": "106"
   },
   {
     "BID": 10467,
@@ -67,7 +187,9 @@
     "Origin": "Kelliebank, Clackmannanshire Scotland",
     "BeerAbv": 5.00,
     "BeerIbu": 17.00,
-    "HallRating": 14.69
+    "HallRating": 14.69,
+    "BAR": 8.53,
+    "StylePlus": "119"
   },
   {
     "BID": 1112,
@@ -77,7 +199,9 @@
     "Origin": "Tustin, CA United States",
     "BeerAbv": 7.00,
     "BeerIbu": 60.00,
-    "HallRating": 14.69
+    "HallRating": 14.69,
+    "BAR": 8.52,
+    "StylePlus": "104"
   },
   {
     "BID": 10490,
@@ -87,7 +211,9 @@
     "Origin": "Squamish, BC Canada",
     "BeerAbv": 5.50,
     "BeerIbu": 17.00,
-    "HallRating": 14.69
+    "HallRating": 14.69,
+    "BAR": 8.53,
+    "StylePlus": "114"
   },
   {
     "BID": 10557,
@@ -97,7 +223,9 @@
     "Origin": "Ellon, Aberdeenshire Scotland",
     "BeerAbv": 10.00,
     "BeerIbu": 70.00,
-    "HallRating": 14.68
+    "HallRating": 14.68,
+    "BAR": 8.50,
+    "StylePlus": "100"
   },
   {
     "BID": 11412,
@@ -107,7 +235,9 @@
     "Origin": "Lake Mills, WI United States",
     "BeerAbv": 8.50,
     "BeerIbu": 37.00,
-    "HallRating": 14.68
+    "HallRating": 14.68,
+    "BAR": 8.50,
+    "StylePlus": "100"
   },
   {
     "BID": 11853,
@@ -117,7 +247,9 @@
     "Origin": "Denmark",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 14.68
+    "HallRating": 14.68,
+    "BAR": 8.50,
+    "StylePlus": "104"
   },
   {
     "BID": 11058,
@@ -127,7 +259,9 @@
     "Origin": "Nantucket Island, MA United States",
     "BeerAbv": 6.70,
     "BeerIbu": 0.00,
-    "HallRating": 14.67
+    "HallRating": 14.67,
+    "BAR": 8.48,
+    "StylePlus": "103"
   },
   {
     "BID": 11249,
@@ -137,7 +271,9 @@
     "Origin": "Dover, DE United States",
     "BeerAbv": 10.50,
     "BeerIbu": 0.00,
-    "HallRating": 14.67
+    "HallRating": 14.67,
+    "BAR": 8.49,
+    "StylePlus": "102"
   },
   {
     "BID": 11221,
@@ -147,17 +283,9 @@
     "Origin": "Agoura Hills, CA United States",
     "BeerAbv": 8.00,
     "BeerIbu": 20.00,
-    "HallRating": 14.67
-  },
-  {
-    "BID": 11334,
-    "BeerName": "JP",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Emerson's Brewery",
-    "Origin": "Dunedin, Otago New Zealand",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.67
+    "HallRating": 14.67,
+    "BAR": 8.49,
+    "StylePlus": "104"
   },
   {
     "BID": 11509,
@@ -167,86 +295,8 @@
     "Origin": "Saint Louis, MO United States",
     "BeerAbv": 9.00,
     "BeerIbu": 17.00,
-    "HallRating": 14.67
-  },
-  {
-    "BID": 11101,
-    "BeerName": "Whiskey Scented Santa",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Charleville Brewery & Winery",
-    "Origin": "Ste. Genevieve, MO United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 26.00,
-    "HallRating": 14.67
-  },
-  {
-    "BID": 11616,
-    "BeerName": "Lilja's Sasquatch Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Pangaea Beer Company",
-    "Origin": "Wisconsin Rapids, WI United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.66
-  },
-  {
-    "BID": 12156,
-    "BeerName": "Winter Warmer",
-    "BeerStyle": "Winter Warmer",
-    "BreweryName": "SanTan Brewing Company",
-    "Origin": "Chandler, AZ United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 35.00,
-    "HallRating": 14.65
-  },
-  {
-    "BID": 10799,
-    "BeerName": "One Eyed Jack Robust Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "The Brew Kettle",
-    "Origin": "Strongsville, OH United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.64
-  },
-  {
-    "BID": 12609,
-    "BeerName": "Liberator Doppelbock",
-    "BeerStyle": "Bock - Doppelbock",
-    "BreweryName": "Thomas Hooker Brewing Co.",
-    "Origin": "Bloomfield, CT United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 24.00,
-    "HallRating": 14.64
-  },
-  {
-    "BID": 11177,
-    "BeerName": "Black Dome Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Catawba Brewing Co.",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.63
-  },
-  {
-    "BID": 11125,
-    "BeerName": "Rosemary Swamp Fox",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Moon River Brewing Company",
-    "Origin": "Savannah, GA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.63
-  },
-  {
-    "BID": 12424,
-    "BeerName": "Saison Vautour Farmhouse Ale",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "McKenzie Brew House",
-    "Origin": "Malvern, PA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 28.00,
-    "HallRating": 14.63
+    "HallRating": 14.67,
+    "BAR": 8.48,
+    "StylePlus": "107"
   }
 ]

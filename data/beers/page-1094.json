@@ -1,135 +1,5 @@
 [
   {
-    "BID": 1929,
-    "BeerName": "Palace Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Sherlocks Home Brewpub and Restaurant",
-    "Origin": "Minnetonka, MN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1930,
-    "BeerName": "Star of India India Pale Ale",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Sherlocks Home Brewpub and Restaurant",
-    "Origin": "Minnetonka, MN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1931,
-    "BeerName": "Gold Crown Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Sherlocks Home Brewpub and Restaurant",
-    "Origin": "Minnetonka, MN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1932,
-    "BeerName": "Queen Anne Light",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Sherlocks Home Brewpub and Restaurant",
-    "Origin": "Minnetonka, MN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1933,
-    "BeerName": "Cologne Golden Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Sherlocks Home Brewpub and Restaurant",
-    "Origin": "Minnetonka, MN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3334880,
-    "BeerName": "Grapefruit Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Caldera Brewing Company",
-    "Origin": "Ashland, OR United States",
-    "BeerAbv": 3.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 12755,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Caldera Brewing Company",
-    "Origin": "Ashland, OR United States",
-    "BeerAbv": 6.10,
-    "BeerIbu": 94.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2351,
-    "BeerName": "Entire Butt",
-    "BeerStyle": "Porter - English",
-    "BreweryName": "Salopian Brewery",
-    "Origin": "Shrewsbury, Shropshire England",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980157,
-    "BeerName": "Hiding In Plain Sight",
-    "BeerStyle": "Blonde / Golden Ale - English",
-    "BreweryName": "Salopian Brewery",
-    "Origin": "Shrewsbury, Shropshire England",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4979928,
-    "BeerName": "Blackwater Art Nouveau",
-    "BeerStyle": "IPA - English",
-    "BreweryName": "Salopian Brewery",
-    "Origin": "Shrewsbury, Shropshire England",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3334942,
-    "BeerName": "Mexican Lager",
-    "BeerStyle": "Lager - Mexican",
-    "BreweryName": "Clairvoyant Brewing",
-    "Origin": "Boise, ID United States",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668291,
-    "BeerName": "Lagers",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Hungry Brew Hops",
-    "Origin": "Newmarket, ON Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668292,
-    "BeerName": "High Roller Idaho 7 Dry Hopped",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Big Boss Brewing Company",
-    "Origin": "Raleigh, NC United States",
-    "BeerAbv": 6.75,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 1668304,
     "BeerName": "High Roller Aurora Dry Hopped IPA",
     "BeerStyle": "IPA - American",
@@ -137,7 +7,9 @@
     "Origin": "Raleigh, NC United States",
     "BeerAbv": 6.75,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1668415,
@@ -147,7 +19,9 @@
     "Origin": "Raleigh, NC United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1668422,
@@ -157,7 +31,9 @@
     "Origin": "Raleigh, NC United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1673363,
@@ -167,47 +43,9 @@
     "Origin": "Raleigh, NC United States",
     "BeerAbv": 5.20,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4567,
-    "BeerName": "Hell's Belle",
-    "BeerStyle": "Pale Ale - Belgian",
-    "BreweryName": "Big Boss Brewing Company",
-    "Origin": "Raleigh, NC United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4572,
-    "BeerName": "Bad Penny",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "Big Boss Brewing Company",
-    "Origin": "Raleigh, NC United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4573,
-    "BeerName": "Angry Angel",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Big Boss Brewing Company",
-    "Origin": "Raleigh, NC United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980545,
-    "BeerName": "Harvest Time 2022",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Big Boss Brewing Company",
-    "Origin": "Raleigh, NC United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 16.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
   },
   {
     "BID": 9109,
@@ -217,7 +55,9 @@
     "Origin": "Raleigh, NC United States",
     "BeerAbv": 6.75,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 9462,
@@ -227,7 +67,9 @@
     "Origin": "Raleigh, NC United States",
     "BeerAbv": 4.50,
     "BeerIbu": 16.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
     "BID": 7546,
@@ -237,7 +79,45 @@
     "Origin": "Raleigh, NC United States",
     "BeerAbv": 6.00,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 4567,
+    "BeerName": "Hell's Belle",
+    "BeerStyle": "Pale Ale - Belgian",
+    "BreweryName": "Big Boss Brewing Company",
+    "Origin": "Raleigh, NC United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 4572,
+    "BeerName": "Bad Penny",
+    "BeerStyle": "Brown Ale - English",
+    "BreweryName": "Big Boss Brewing Company",
+    "Origin": "Raleigh, NC United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 4573,
+    "BeerName": "Angry Angel",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Big Boss Brewing Company",
+    "Origin": "Raleigh, NC United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
   },
   {
     "BID": 5896,
@@ -247,6 +127,176 @@
     "Origin": "Raleigh, NC United States",
     "BeerAbv": 5.50,
     "BeerIbu": 16.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 4980545,
+    "BeerName": "Harvest Time 2022",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Big Boss Brewing Company",
+    "Origin": "Raleigh, NC United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 4960390,
+    "BeerName": "Juice Box (Salted Lime)",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Adelbert's Brewery",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 1669871,
+    "BeerName": "Travelin' Man - Bombers (OLD Recipe)",
+    "BeerStyle": "IPA - Belgian",
+    "BreweryName": "Adelbert's Brewery",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 3334944,
+    "BeerName": "Travelin' Man Batch 26",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Adelbert's Brewery",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3334945,
+    "BeerName": "Don't Be A Richard",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Dempsey's Brewery, Pub & Restaurant",
+    "Origin": "Watertown, SD United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 58.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4980256,
+    "BeerName": "Dip Dock",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Dempsey's Brewery, Pub & Restaurant",
+    "Origin": "Watertown, SD United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4982065,
+    "BeerName": "Landshark Hard Seltzer Soursop",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Belize Brewing Company",
+    "Origin": "Belize City, Belize District Belize",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 2357,
+    "BeerName": "Belikin Stout",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Belize Brewing Company",
+    "Origin": "Belize City, Belize District Belize",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
+  },
+  {
+    "BID": 7084,
+    "BeerName": "Belikin Premium",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Belize Brewing Company",
+    "Origin": "Belize City, Belize District Belize",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
+  },
+  {
+    "BID": 7292,
+    "BeerName": "Dortmunder Union Dark Beer",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "Dortmunder Actien-Brauerei",
+    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 2358,
+    "BeerName": "DAB Traditional",
+    "BeerStyle": "Brown Ale - English",
+    "BreweryName": "Dortmunder Actien-Brauerei",
+    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 5563,
+    "BeerName": "Hansa Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Dortmunder Actien-Brauerei",
+    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
+  },
+  {
+    "BID": 4654,
+    "BeerName": "Hansa Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Dortmunder Actien-Brauerei",
+    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
+  },
+  {
+    "BID": 3342309,
+    "BeerName": "DAB Nostalgic 1959",
+    "BeerStyle": "Lager - Dortmunder / Export",
+    "BreweryName": "Dortmunder Actien-Brauerei",
+    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "92"
   }
 ]

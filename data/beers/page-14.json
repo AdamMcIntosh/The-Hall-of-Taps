@@ -1,5 +1,89 @@
 [
   {
+    "BID": 10779,
+    "BeerName": "José Martí",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 65.00,
+    "HallRating": 15.50,
+    "BAR": 9.81,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 12346,
+    "BeerName": "Ruby Bloom Amber",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Bloomington Brewing Company",
+    "Origin": "Bloomington, IN United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 11.00,
+    "HallRating": 15.49,
+    "BAR": 9.81,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 11868,
+    "BeerName": "Apricot Wheat",
+    "BeerStyle": "Wheat Beer - Fruited",
+    "BreweryName": "Lost Coast Brewery",
+    "Origin": "Eureka, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 25.00,
+    "HallRating": 15.49,
+    "BAR": 9.81,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 10711,
+    "BeerName": "Saison Vos",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Sly Fox Brewing Company",
+    "Origin": "Pottstown, PA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 32.00,
+    "HallRating": 15.48,
+    "BAR": 9.79,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 10188,
+    "BeerName": "Chocolate Wheat",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Short’s Brewing Company",
+    "Origin": "Elk Rapids, MI United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 30.00,
+    "HallRating": 15.47,
+    "BAR": 9.78,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 10046,
+    "BeerName": "A Wee Angry Scotch Ale",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Russell Brewing Company",
+    "Origin": "Surrey, BC Canada",
+    "BeerAbv": 6.50,
+    "BeerIbu": 30.00,
+    "HallRating": 15.47,
+    "BAR": 9.78,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 1171,
+    "BeerName": "Masala Mama",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Minneapolis Town Hall Brewery",
+    "Origin": "Minneapolis, MN United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 15.47,
+    "BAR": 9.77,
+    "StylePlus": "104"
+  },
+  {
     "BID": 11705,
     "BeerName": "Outrage IPA",
     "BeerStyle": "IPA - American",
@@ -7,7 +91,21 @@
     "Origin": "Athens, NY United States",
     "BeerAbv": 7.00,
     "BeerIbu": 90.00,
-    "HallRating": 15.47
+    "HallRating": 15.47,
+    "BAR": 9.77,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 12723,
+    "BeerName": "La Divine",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Brasserie de Silly",
+    "Origin": "Silly, Région Wallonne Belgium",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 15.47,
+    "BAR": 9.77,
+    "StylePlus": "107"
   },
   {
     "BID": 12632,
@@ -17,7 +115,9 @@
     "Origin": "Boulder, CO United States",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 15.46
+    "HallRating": 15.46,
+    "BAR": 9.76,
+    "StylePlus": "104"
   },
   {
     "BID": 10028,
@@ -27,7 +127,9 @@
     "Origin": "Patchogue, NY United States",
     "BeerAbv": 7.00,
     "BeerIbu": 40.00,
-    "HallRating": 15.46
+    "HallRating": 15.46,
+    "BAR": 9.75,
+    "StylePlus": "104"
   },
   {
     "BID": 11573,
@@ -37,7 +139,9 @@
     "Origin": "Knoxville, TN United States",
     "BeerAbv": 6.00,
     "BeerIbu": 18.00,
-    "HallRating": 15.44
+    "HallRating": 15.44,
+    "BAR": 9.73,
+    "StylePlus": "104"
   },
   {
     "BID": 10588,
@@ -47,7 +151,9 @@
     "Origin": "River Falls, WI United States",
     "BeerAbv": 6.50,
     "BeerIbu": 65.00,
-    "HallRating": 15.44
+    "HallRating": 15.44,
+    "BAR": 9.72,
+    "StylePlus": "104"
   },
   {
     "BID": 10768,
@@ -57,7 +163,9 @@
     "Origin": "Missoula, MT United States",
     "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "HallRating": 15.43
+    "HallRating": 15.43,
+    "BAR": 9.71,
+    "StylePlus": "104"
   },
   {
     "BID": 12009,
@@ -67,7 +175,9 @@
     "Origin": "Somerville, MA United States",
     "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "HallRating": 15.43
+    "HallRating": 15.43,
+    "BAR": 9.72,
+    "StylePlus": "101"
   },
   {
     "BID": 11275,
@@ -77,7 +187,9 @@
     "Origin": "Fullerton, CA United States",
     "BeerAbv": 6.10,
     "BeerIbu": 91.00,
-    "HallRating": 15.43
+    "HallRating": 15.43,
+    "BAR": 9.71,
+    "StylePlus": "103"
   },
   {
     "BID": 12097,
@@ -87,17 +199,9 @@
     "Origin": "Victor, ID United States",
     "BeerAbv": 8.50,
     "BeerIbu": 100.00,
-    "HallRating": 15.42
-  },
-  {
-    "BID": 11906,
-    "BeerName": "Chocolate Porter",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Park Tavern",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 15.41
+    "HallRating": 15.42,
+    "BAR": 9.70,
+    "StylePlus": "104"
   },
   {
     "BID": 10811,
@@ -107,7 +211,21 @@
     "Origin": "Surry Hills, New South Wales Australia",
     "BeerAbv": 4.90,
     "BeerIbu": 0.00,
-    "HallRating": 15.41
+    "HallRating": 15.41,
+    "BAR": 3.14,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 11906,
+    "BeerName": "Chocolate Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Park Tavern",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 15.41,
+    "BAR": 3.14,
+    "StylePlus": "107"
   },
   {
     "BID": 11814,
@@ -117,7 +235,9 @@
     "Origin": "Chico, CA United States",
     "BeerAbv": 5.20,
     "BeerIbu": 39.00,
-    "HallRating": 15.41
+    "HallRating": 15.41,
+    "BAR": 3.14,
+    "StylePlus": "105"
   },
   {
     "BID": 12499,
@@ -127,7 +247,9 @@
     "Origin": "Madrid, Comunidad de Madrid Spain",
     "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "HallRating": 15.40
+    "HallRating": 15.40,
+    "BAR": 9.67,
+    "StylePlus": "98"
   },
   {
     "BID": 10237,
@@ -137,7 +259,9 @@
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 6.50,
     "BeerIbu": 40.00,
-    "HallRating": 15.38
+    "HallRating": 15.38,
+    "BAR": 9.64,
+    "StylePlus": "109"
   },
   {
     "BID": 11250,
@@ -147,7 +271,9 @@
     "Origin": "Whistler, BC Canada",
     "BeerAbv": 5.00,
     "BeerIbu": 17.00,
-    "HallRating": 15.38
+    "HallRating": 15.38,
+    "BAR": 9.64,
+    "StylePlus": "115"
   },
   {
     "BID": 11813,
@@ -157,17 +283,9 @@
     "Origin": "Chico, CA United States",
     "BeerAbv": 4.60,
     "BeerIbu": 34.00,
-    "HallRating": 15.38
-  },
-  {
-    "BID": 10777,
-    "BeerName": "Little White Lie",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Russian River Brewing Company",
-    "Origin": "Windsor, CA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 14.00,
-    "HallRating": 15.37
+    "HallRating": 15.38,
+    "BAR": 9.64,
+    "StylePlus": "107"
   },
   {
     "BID": 1011,
@@ -177,76 +295,8 @@
     "Origin": "Exton, PA United States",
     "BeerAbv": 4.00,
     "BeerIbu": 10.00,
-    "HallRating": 15.37
-  },
-  {
-    "BID": 10437,
-    "BeerName": "Snow Melt Winter Ale",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "East End Brewing Company",
-    "Origin": "Pittsburgh, PA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 15.36
-  },
-  {
-    "BID": 11639,
-    "BeerName": "Mackinac Chocolate Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Arbor Brewing Company",
-    "Origin": "Ypsilanti, MI United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 15.00,
-    "HallRating": 15.36
-  },
-  {
-    "BID": 12228,
-    "BeerName": "Abbey Ale",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Abita Brewing Company",
-    "Origin": "Abita Springs, LA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 25.00,
-    "HallRating": 15.36
-  },
-  {
-    "BID": 12045,
-    "BeerName": "Coffee Porter",
-    "BeerStyle": "Porter - Coffee",
-    "BreweryName": "Meantime Brewing Company",
-    "Origin": "London, Greater London England",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 15.35
-  },
-  {
-    "BID": 10638,
-    "BeerName": "Gold Digger IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Auburn Alehouse",
-    "Origin": "Auburn, CA United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 80.00,
-    "HallRating": 15.35
-  },
-  {
-    "BID": 121,
-    "BeerName": "Triple Exultation",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Eel River Brewing Company",
-    "Origin": "Fortuna, CA United States",
-    "BeerAbv": 9.70,
-    "BeerIbu": 76.00,
-    "HallRating": 15.35
-  },
-  {
-    "BID": 12510,
-    "BeerName": "Duck-Rabbator",
-    "BeerStyle": "Bock - Doppelbock",
-    "BreweryName": "The Duck-Rabbit Craft Brewery",
-    "Origin": "Farmville, NC United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 0.00,
-    "HallRating": 15.34
+    "HallRating": 15.37,
+    "BAR": 9.62,
+    "StylePlus": "96"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "BID": 14383,
+    "BeerName": "Nut Hugger",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Upland Brewing Company",
+    "Origin": "Bloomington, IN United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 41.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 1672539,
+    "BeerName": "Purple Reign",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Upland Brewing Company",
+    "Origin": "Bloomington, IN United States",
+    "BeerAbv": 7.90,
+    "BeerIbu": 26.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
     "BID": 3342670,
     "BeerName": "Teds Sour Beer #2",
     "BeerStyle": "Sour - Fruited",
@@ -7,7 +31,9 @@
     "Origin": "Bloomington, IN United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4445584,
@@ -17,37 +43,9 @@
     "Origin": "Bloomington, IN United States",
     "BeerAbv": 6.10,
     "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2722,
-    "BeerName": "Crystal Lager Beer",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Samson (Budějovický měšťanský pivovar)",
-    "Origin": "České Budějovice, Jihočeský kraj Czech Republic",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2558,
-    "BeerName": "Crystal Diplomat Dark Beer",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Samson (Budějovický měšťanský pivovar)",
-    "Origin": "České Budějovice, Jihočeský kraj Czech Republic",
-    "BeerAbv": 3.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 10122,
-    "BeerName": "Boheme 1795 Pilsen",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Samson (Budějovický měšťanský pivovar)",
-    "Origin": "České Budějovice, Jihočeský kraj Czech Republic",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
   },
   {
     "BID": 13923,
@@ -57,7 +55,45 @@
     "Origin": "České Budějovice, Jihočeský kraj Czech Republic",
     "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
+  },
+  {
+    "BID": 2722,
+    "BeerName": "Crystal Lager Beer",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Samson (Budějovický měšťanský pivovar)",
+    "Origin": "České Budějovice, Jihočeský kraj Czech Republic",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
+  },
+  {
+    "BID": 2558,
+    "BeerName": "Crystal Diplomat Dark Beer",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Samson (Budějovický měšťanský pivovar)",
+    "Origin": "České Budějovice, Jihočeský kraj Czech Republic",
+    "BeerAbv": 3.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 10122,
+    "BeerName": "Boheme 1795 Pilsen",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Samson (Budějovický měšťanský pivovar)",
+    "Origin": "České Budějovice, Jihočeský kraj Czech Republic",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
   },
   {
     "BID": 1668465,
@@ -67,7 +103,9 @@
     "Origin": "Tallahassee, FL United States",
     "BeerAbv": 4.70,
     "BeerIbu": 12.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
   },
   {
     "BID": 3342933,
@@ -77,7 +115,9 @@
     "Origin": "Tallahassee, FL United States",
     "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3341318,
@@ -87,7 +127,9 @@
     "Origin": "Tallahassee, FL United States",
     "BeerAbv": 12.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 3335113,
@@ -97,7 +139,9 @@
     "Origin": "France",
     "BeerAbv": 4.50,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
   },
   {
     "BID": 1677103,
@@ -107,17 +151,9 @@
     "Origin": "Louisville, KY United States",
     "BeerAbv": 4.20,
     "BeerIbu": 11.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1673733,
-    "BeerName": "Farmers Market Wheat",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "3rd Turn Brewing",
-    "Origin": "Louisville, KY United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 11.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 1668466,
@@ -127,7 +163,9 @@
     "Origin": "Louisville, KY United States",
     "BeerAbv": 4.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 1668618,
@@ -137,7 +175,21 @@
     "Origin": "Louisville, KY United States",
     "BeerAbv": 10.50,
     "BeerIbu": 23.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1673733,
+    "BeerName": "Farmers Market Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "3rd Turn Brewing",
+    "Origin": "Louisville, KY United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 11.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 1672463,
@@ -147,7 +199,9 @@
     "Origin": "Nošovice, Moravskoslezský kraj Czech Republic",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 2562,
@@ -157,7 +211,9 @@
     "Origin": "Nošovice, Moravskoslezský kraj Czech Republic",
     "BeerAbv": 5.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
   },
   {
     "BID": 3344189,
@@ -167,7 +223,9 @@
     "Origin": "Nošovice, Moravskoslezský kraj Czech Republic",
     "BeerAbv": 4.50,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
   },
   {
     "BID": 4446929,
@@ -177,37 +235,9 @@
     "Origin": "Middelburg, Zeeland Netherlands",
     "BeerAbv": 6.00,
     "BeerIbu": 12.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4817091,
-    "BeerName": "Hasta La Vista",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Brouwerij Kees",
-    "Origin": "Middelburg, Zeeland Netherlands",
-    "BeerAbv": 4.80,
-    "BeerIbu": 31.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4941154,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Brouwerij Kees",
-    "Origin": "Middelburg, Zeeland Netherlands",
-    "BeerAbv": 6.20,
-    "BeerIbu": 31.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960081,
-    "BeerName": "Baby Caramel Fudge Stout",
-    "BeerStyle": "Stout - Pastry",
-    "BreweryName": "Brouwerij Kees",
-    "Origin": "Middelburg, Zeeland Netherlands",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
   },
   {
     "BID": 3335114,
@@ -217,7 +247,9 @@
     "Origin": "Middelburg, Zeeland Netherlands",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3336536,
@@ -227,7 +259,9 @@
     "Origin": "Middelburg, Zeeland Netherlands",
     "BeerAbv": 11.10,
     "BeerIbu": 55.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3336537,
@@ -237,7 +271,9 @@
     "Origin": "Middelburg, Zeeland Netherlands",
     "BeerAbv": 11.20,
     "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "99"
   },
   {
     "BID": 3336538,
@@ -247,6 +283,20 @@
     "Origin": "Middelburg, Zeeland Netherlands",
     "BeerAbv": 10.00,
     "BeerIbu": 16.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 1672638,
+    "BeerName": "Lemongrass IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Brouwerij Kees",
+    "Origin": "Middelburg, Zeeland Netherlands",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   }
 ]

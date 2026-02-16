@@ -1,185 +1,5 @@
 [
   {
-    "BID": 4941584,
-    "BeerName": "PIE. Mango",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Ten Eyck Brewing Company",
-    "Origin": "Queenstown, MD United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939095,
-    "BeerName": "Wye Island APA",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Ten Eyck Brewing Company",
-    "Origin": "Queenstown, MD United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939107,
-    "BeerName": "PIE. Pineapple Upside Down",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Ten Eyck Brewing Company",
-    "Origin": "Queenstown, MD United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939108,
-    "BeerName": "PIE. Pineapple Upside Down",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Ten Eyck Brewing Company",
-    "Origin": "Queenstown, MD United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631456,
-    "BeerName": "Anniversary Chernobyl",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Manic Meadery",
-    "Origin": "Crown Point, IN United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631457,
-    "BeerName": "Meadowfoam Blossom",
-    "BeerStyle": "Mead - Traditional",
-    "BreweryName": "Manic Meadery",
-    "Origin": "Crown Point, IN United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446247,
-    "BeerName": "Lime In the Coconut",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Manic Meadery",
-    "Origin": "Crown Point, IN United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446266,
-    "BeerName": "Wild Cascade",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Manic Meadery",
-    "Origin": "Crown Point, IN United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446270,
-    "BeerName": "Double Shorty Cakes",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Manic Meadery",
-    "Origin": "Crown Point, IN United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4979793,
-    "BeerName": "Oh Yeah!",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "Manic Meadery",
-    "Origin": "Crown Point, IN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981534,
-    "BeerName": "Be Nice",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Alternate Ending Beer Co.",
-    "Origin": "Aberdeen, NJ United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631011,
-    "BeerName": "On a Mission",
-    "BeerStyle": "IPA - Triple",
-    "BreweryName": "Alternate Ending Beer Co.",
-    "Origin": "Aberdeen, NJ United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815790,
-    "BeerName": "I Can't Come In To Work Today Because I Jumped Off A Roof And Sprained My Knee",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Mash Paddle Brewing Co.",
-    "Origin": "Brantford, ON Canada",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815784,
-    "BeerName": "Wet June",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Mash Paddle Brewing Co.",
-    "Origin": "Brantford, ON Canada",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446250,
-    "BeerName": "Double Wild Cherry",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Brown Knows Cider",
-    "Origin": "Agua Dulce, CA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815785,
-    "BeerName": "Foggy Morning Wheat",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Odd Company Brewing",
-    "Origin": "Edmonton, AB Canada",
-    "BeerAbv": 5.10,
-    "BeerIbu": 12.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3337434,
-    "BeerName": "Farmhouse Ale",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Odd Company Brewing",
-    "Origin": "Edmonton, AB Canada",
-    "BeerAbv": 4.80,
-    "BeerIbu": 23.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960306,
-    "BeerName": "Barry Wheat Ale",
-    "BeerStyle": "Wheat Beer - Other",
-    "BreweryName": "Odd Company Brewing",
-    "Origin": "Edmonton, AB Canada",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 3339210,
     "BeerName": "Tommy Gun - Pre-prohibition Lager",
     "BeerStyle": "Lager - American",
@@ -187,7 +7,9 @@
     "Origin": "Custer, SD United States",
     "BeerAbv": 4.70,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3333392,
@@ -197,7 +19,9 @@
     "Origin": "Custer, SD United States",
     "BeerAbv": 4.70,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
   },
   {
     "BID": 3333435,
@@ -207,7 +31,9 @@
     "Origin": "Custer, SD United States",
     "BeerAbv": 6.00,
     "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
   },
   {
     "BID": 3334556,
@@ -217,17 +43,9 @@
     "Origin": "Custer, SD United States",
     "BeerAbv": 4.80,
     "BeerIbu": 22.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631015,
-    "BeerName": "‘22 Toast",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Outstate Brewing Company",
-    "Origin": "Fergus Falls, MN United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 4631017,
@@ -237,7 +55,21 @@
     "Origin": "Fergus Falls, MN United States",
     "BeerAbv": 10.00,
     "BeerIbu": 75.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4631015,
+    "BeerName": "‘22 Toast",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Outstate Brewing Company",
+    "Origin": "Fergus Falls, MN United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815786,
@@ -247,6 +79,224 @@
     "Origin": "Arlington, TX United States",
     "BeerAbv": 8.00,
     "BeerIbu": 38.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 1675511,
+    "BeerName": "FrankenFroth",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Division Brewing",
+    "Origin": "Arlington, TX United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 115.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 1669299,
+    "BeerName": "FrankenFroth",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Division Brewing",
+    "Origin": "Arlington, TX United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 115.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4961335,
+    "BeerName": "Tiki Tease",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Division Brewing",
+    "Origin": "Arlington, TX United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 1.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4939739,
+    "BeerName": "Local Motive Tropical Gose",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Local Motive Brewing",
+    "Origin": "Florence, SC United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4631016,
+    "BeerName": "Are You Serious Clark?",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Local Motive Brewing",
+    "Origin": "Florence, SC United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 4631044,
+    "BeerName": "Fragile Christmas Amber",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Local Motive Brewing",
+    "Origin": "Florence, SC United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4631060,
+    "BeerName": "Blue Razz Lemonade",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Local Motive Brewing",
+    "Origin": "Florence, SC United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4446253,
+    "BeerName": "PTY Clone",
+    "BeerStyle": "Homebrew, IPA - Triple",
+    "BreweryName": "Alchemy Ales",
+    "Origin": "United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 14076,
+    "BeerName": "Homegrown Hop Ale",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Alchemy Ales",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 12867,
+    "BeerName": "Smoaked Russian Imperial Stout",
+    "BeerStyle": "Homebrew, Stout - Russian Imperial",
+    "BreweryName": "Alchemy Ales",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 13178,
+    "BeerName": "IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Alchemy Ales",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4815787,
+    "BeerName": "Ode To the Harvest (2021)",
+    "BeerStyle": "Farmhouse Ale - Other",
+    "BreweryName": "Aegir Project",
+    "Origin": "Cape Town, Western Cape South Africa",
+    "BeerAbv": 9.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4982261,
+    "BeerName": "American Amber Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Aegir Project",
+    "Origin": "Cape Town, Western Cape South Africa",
+    "BeerAbv": 5.40,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 4446254,
+    "BeerName": "Stone Hunter",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Freebridge Brewing",
+    "Origin": "The Dalles, OR United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "117"
+  },
+  {
+    "BID": 3337345,
+    "BeerName": "The Dirty Juicy IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Freebridge Brewing",
+    "Origin": "The Dalles, OR United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 56.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4631018,
+    "BeerName": "Darwin",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "La Birreria",
+    "Origin": "Argentina",
+    "BeerAbv": 5.50,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4815788,
+    "BeerName": "Che Hostels Session Ipa",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "BrewHigh Ingeniería S.A. de C.V.",
+    "Origin": "Papalotla, Tlaxcala Mexico",
+    "BeerAbv": 4.10,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "81"
+  },
+  {
+    "BID": 4446255,
+    "BeerName": "Bad Golly Gee",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Monkey Legs Brewing Company",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

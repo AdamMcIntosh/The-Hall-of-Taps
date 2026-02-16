@@ -1,5 +1,113 @@
 [
   {
+    "BID": 3339664,
+    "BeerName": "St. Bob's Oatmeal Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Textile Brewing Company",
+    "Origin": "Dyersville, IA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 26.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 3339738,
+    "BeerName": "Bobcat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Textile Brewing Company",
+    "Origin": "Dyersville, IA United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 11.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 3339911,
+    "BeerName": "Bommen & Granaten",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Brouwerij de Molen",
+    "Origin": "Bodegraven, Zuid-Holland Netherlands",
+    "BeerAbv": 11.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 3343871,
+    "BeerName": "Bommen & Granaten",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Brouwerij de Molen",
+    "Origin": "Bodegraven, Zuid-Holland Netherlands",
+    "BeerAbv": 11.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4961178,
+    "BeerName": "Janice",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Thisted Bryghus",
+    "Origin": "Thisted, Region Nordjylland Denmark",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4941308,
+    "BeerName": "Limfjordsporter",
+    "BeerStyle": "Porter - Baltic",
+    "BreweryName": "Thisted Bryghus",
+    "Origin": "Thisted, Region Nordjylland Denmark",
+    "BeerAbv": 7.90,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
+  },
+  {
+    "BID": 4939947,
+    "BeerName": "Thisted IPA (Signatur IPA)",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Thisted Bryghus",
+    "Origin": "Thisted, Region Nordjylland Denmark",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 4960291,
+    "BeerName": "LTD Release American Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Pike’s Beer Company",
+    "Origin": "Polish Hill River, South Australia Australia",
+    "BeerAbv": 7.50,
+    "BeerIbu": 58.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 4980614,
+    "BeerName": "Farmhouse Ale Strawberry Rhubarb",
+    "BeerStyle": "Farmhouse Ale - Other",
+    "BreweryName": "Forgotten Star Brewing",
+    "Origin": "Fridley, MN United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
     "BID": 4980914,
     "BeerName": "Hall And Oatmeal",
     "BeerStyle": "Stout - Oatmeal",
@@ -7,17 +115,9 @@
     "Origin": "Fridley, MN United States",
     "BeerAbv": 6.00,
     "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981624,
-    "BeerName": "Sparkly Boi: Fruit Punch",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4981629,
@@ -27,7 +127,21 @@
     "Origin": "Humble, TX United States",
     "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4981624,
+    "BeerName": "Sparkly Boi: Fruit Punch",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4961118,
@@ -37,7 +151,9 @@
     "Origin": "Humble, TX United States",
     "BeerAbv": 6.80,
     "BeerIbu": 7.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4961104,
@@ -47,67 +163,9 @@
     "Origin": "Humble, TX United States",
     "BeerAbv": 5.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3333557,
-    "BeerName": "I'm On A Float",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 70.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3333560,
-    "BeerName": "Strawberry Daiquiri Double FroYo 2019",
-    "BeerStyle": "IPA - Imperial / Double Milkshake",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3333561,
-    "BeerName": "Fuzzy Navel Double FroYo 2019",
-    "BeerStyle": "IPA - Imperial / Double Milkshake",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3333564,
-    "BeerName": "Mai Tai Double FroYo 2019",
-    "BeerStyle": "IPA - Imperial / Double Milkshake",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3333598,
-    "BeerName": "Scuba Squeeze (2022)",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 65.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4940215,
-    "BeerName": "Fruit Madness: Watermelon Margarita",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 7.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4939241,
@@ -117,77 +175,93 @@
     "Origin": "Humble, TX United States",
     "BeerAbv": 8.20,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
-    "BID": 4816094,
-    "BeerName": "Master Vader",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BID": 4940215,
+    "BeerName": "Fruit Madness: Watermelon Margarita",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3337274,
+    "BeerName": "Toffee Nut Brownie",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 3333557,
+    "BeerName": "I'm On A Float",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3333560,
+    "BeerName": "Strawberry Daiquiri Double FroYo 2019",
+    "BeerStyle": "IPA - Imperial / Double Milkshake",
     "BreweryName": "Ingenious Brewing Company",
     "Origin": "Humble, TX United States",
     "BeerAbv": 8.00,
-    "BeerIbu": 83.00,
-    "HallRating": 0.00
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
-    "BID": 3341124,
-    "BeerName": "Smarty (Rum Runner)",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BID": 3333561,
+    "BeerName": "Fuzzy Navel Double FroYo 2019",
+    "BeerStyle": "IPA - Imperial / Double Milkshake",
     "BreweryName": "Ingenious Brewing Company",
     "Origin": "Humble, TX United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 7.00,
-    "HallRating": 0.00
+    "BeerAbv": 8.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
-    "BID": 3341121,
-    "BeerName": "Smarty (Cosmo)",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BID": 3333564,
+    "BeerName": "Mai Tai Double FroYo 2019",
+    "BeerStyle": "IPA - Imperial / Double Milkshake",
     "BreweryName": "Ingenious Brewing Company",
     "Origin": "Humble, TX United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 7.00,
-    "HallRating": 0.00
+    "BeerAbv": 8.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
-    "BID": 3341116,
-    "BeerName": "Smarty (Lava Flow)",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BID": 3333598,
+    "BeerName": "Scuba Squeeze (2022)",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Ingenious Brewing Company",
     "Origin": "Humble, TX United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 7.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341117,
-    "BeerName": "Smarty (Pain Killer)",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 7.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341112,
-    "BeerName": "Smarty (Hawaiian Hammer)",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 7.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341113,
-    "BeerName": "Smarty (Jungle Joose)",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 7.00,
-    "HallRating": 0.00
+    "BeerAbv": 8.20,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 3341248,
@@ -197,7 +271,9 @@
     "Origin": "Humble, TX United States",
     "BeerAbv": 8.20,
     "BeerIbu": 65.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 3341255,
@@ -207,46 +283,20 @@
     "Origin": "Humble, TX United States",
     "BeerAbv": 8.20,
     "BeerIbu": 35.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
-    "BID": 3341218,
-    "BeerName": "Bahama Breeze FroYo",
-    "BeerStyle": "IPA - Milkshake",
+    "BID": 3341112,
+    "BeerName": "Smarty (Hawaiian Hammer)",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
     "BreweryName": "Ingenious Brewing Company",
     "Origin": "Humble, TX United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341222,
-    "BeerName": "Grapefruit Squeeze",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 65.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341220,
-    "BeerName": "Zombie FroYo",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341199,
-    "BeerName": "Lemon Shandy Wheat",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 19.00,
-    "HallRating": 0.00
+    "BeerAbv": 6.80,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   }
 ]

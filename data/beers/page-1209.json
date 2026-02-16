@@ -1,65 +1,5 @@
 [
   {
-    "BID": 4445795,
-    "BeerName": "Barn Burner Citra Wheat Ale",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Farm Country Brewing",
-    "Origin": "Langley, BC Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 35.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445782,
-    "BeerName": "Farmer's Tan Amber Rye Ale",
-    "BeerStyle": "Rye Beer",
-    "BreweryName": "Farm Country Brewing",
-    "Origin": "Langley, BC Canada",
-    "BeerAbv": 5.80,
-    "BeerIbu": 45.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630538,
-    "BeerName": "S.I.L.B.I. Series: Debacle",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Deep Ellum Brewing Company®",
-    "Origin": "Dallas, TX United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4940002,
-    "BeerName": "Wheatworth Fermington",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Deep Ellum Brewing Company®",
-    "Origin": "Dallas, TX United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338075,
-    "BeerName": "Darkest Hour",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Deep Ellum Brewing Company®",
-    "Origin": "Dallas, TX United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 60.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3340512,
-    "BeerName": "FTW Series: Texas Corn Grisette",
-    "BeerStyle": "Farmhouse Ale - Grisette",
-    "BreweryName": "Deep Ellum Brewing Company®",
-    "Origin": "Dallas, TX United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 12.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 4939711,
     "BeerName": "Kingston Black Cider (Batch D16)",
     "BeerStyle": "Cider - Traditional / Apfelwein",
@@ -67,7 +7,9 @@
     "Origin": "Ross-on-Wye, Herefordshire England",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815290,
@@ -77,7 +19,9 @@
     "Origin": "Ross-on-Wye, Herefordshire England",
     "BeerAbv": 6.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 4445783,
@@ -87,17 +31,9 @@
     "Origin": "Leamington Spa, Warwickshire England",
     "BeerAbv": 5.90,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674496,
-    "BeerName": "IPA (5%)",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Olvi",
-    "Origin": "Iisalmi, Pohjois-Savo Finland",
-    "BeerAbv": 5.00,
-    "BeerIbu": 55.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 3333350,
@@ -107,17 +43,9 @@
     "Origin": "Iisalmi, Pohjois-Savo Finland",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1670976,
-    "BeerName": "Crook's Head Grapefruit And Lemon",
-    "BeerStyle": "Other",
-    "BreweryName": "Olvi",
-    "Origin": "Iisalmi, Pohjois-Savo Finland",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 11301,
@@ -127,17 +55,9 @@
     "Origin": "Iisalmi, Pohjois-Savo Finland",
     "BeerAbv": 2.70,
     "BeerIbu": 16.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 10104,
-    "BeerName": "Suomi 100 Vuotta Juhlaolut",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Olvi",
-    "Origin": "Iisalmi, Pohjois-Savo Finland",
-    "BeerAbv": 4.70,
-    "BeerIbu": 21.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "75"
   },
   {
     "BID": 9459,
@@ -147,7 +67,45 @@
     "Origin": "Iisalmi, Pohjois-Savo Finland",
     "BeerAbv": 4.70,
     "BeerIbu": 14.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 10104,
+    "BeerName": "Suomi 100 Vuotta Juhlaolut",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Olvi",
+    "Origin": "Iisalmi, Pohjois-Savo Finland",
+    "BeerAbv": 4.70,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "58"
+  },
+  {
+    "BID": 1674496,
+    "BeerName": "IPA (5%)",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Olvi",
+    "Origin": "Iisalmi, Pohjois-Savo Finland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 1670976,
+    "BeerName": "Crook's Head Grapefruit And Lemon",
+    "BeerStyle": "Other",
+    "BreweryName": "Olvi",
+    "Origin": "Iisalmi, Pohjois-Savo Finland",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "87"
   },
   {
     "BID": 4630539,
@@ -157,7 +115,9 @@
     "Origin": "Castleford, West Yorkshire England",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
     "BID": 4815291,
@@ -167,7 +127,9 @@
     "Origin": "Vaumort, Bourgogne-Franche-Comté France",
     "BeerAbv": 7.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4815298,
@@ -177,7 +139,9 @@
     "Origin": "Vaumort, Bourgogne-Franche-Comté France",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4815294,
@@ -187,7 +151,9 @@
     "Origin": "Vaumort, Bourgogne-Franche-Comté France",
     "BeerAbv": 7.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4815295,
@@ -197,7 +163,9 @@
     "Origin": "Vaumort, Bourgogne-Franche-Comté France",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "118"
   },
   {
     "BID": 3337295,
@@ -207,17 +175,9 @@
     "Origin": "Vaumort, Bourgogne-Franche-Comté France",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4979920,
-    "BeerName": "RUSSIAN IMPERIAL STOUT - Hot Chili Sauce BA / Bourbon 24 Mois",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Popihn",
-    "Origin": "Vaumort, Bourgogne-Franche-Comté France",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4979917,
@@ -227,7 +187,21 @@
     "Origin": "Vaumort, Bourgogne-Franche-Comté France",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 4979920,
+    "BeerName": "RUSSIAN IMPERIAL STOUT - Hot Chili Sauce BA / Bourbon 24 Mois",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Popihn",
+    "Origin": "Vaumort, Bourgogne-Franche-Comté France",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4630540,
@@ -237,7 +211,9 @@
     "Origin": "Obersaasheim, Grand Est France",
     "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445785,
@@ -247,6 +223,80 @@
     "Origin": "Atlantic City, NJ United States",
     "BeerAbv": 5.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 4815293,
+    "BeerName": "Opus",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Rudgate Brewery",
+    "Origin": "Tockwith, North Yorkshire England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
+  },
+  {
+    "BID": 4815614,
+    "BeerName": "Vanilla Mild",
+    "BeerStyle": "Mild - Dark",
+    "BreweryName": "Rudgate Brewery",
+    "Origin": "Tockwith, North Yorkshire England",
+    "BeerAbv": 3.60,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "87"
+  },
+  {
+    "BID": 4631056,
+    "BeerName": "Big Bear Brown",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Liquid Love Brewing",
+    "Origin": "Buffalo Grove, IL United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 4445786,
+    "BeerName": "Midwest Spoonful",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Liquid Love Brewing",
+    "Origin": "Buffalo Grove, IL United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4630542,
+    "BeerName": "Stout Bianco Rubino Natale",
+    "BeerStyle": "Homebrew, Stout - Imperial / Double White / Golden",
+    "BreweryName": "10 älva 12",
+    "Origin": "Sweden",
+    "BeerAbv": 11.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4630543,
+    "BeerName": "Stratasaurus",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Resolute Brewing Company",
+    "Origin": "Centennial, CO United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   }
 ]

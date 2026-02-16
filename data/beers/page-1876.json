@@ -1,45 +1,5 @@
 [
   {
-    "BID": 12035,
-    "BeerName": "EmOatable Lager",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Wolverine State Brewing Co.",
-    "Origin": "Ann Arbor, MI United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -22.01
-  },
-  {
-    "BID": 1003,
-    "BeerName": "Light Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -23.81
-  },
-  {
-    "BID": 11541,
-    "BeerName": "Pilsener",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Feral Brewing Company",
-    "Origin": "Bassendean, Western Australia Australia",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": -25.65
-  },
-  {
-    "BID": 12610,
-    "BeerName": "Straits Pale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Archipelago Brewery (Singapore)",
-    "Origin": "Singapore",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": -25.65
-  },
-  {
     "BID": 10002,
     "BeerName": "Monkfest",
     "BeerStyle": "Other",
@@ -47,7 +7,9 @@
     "Origin": "Kill Devil Hills, NC United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -29.18
+    "HallRating": -29.18,
+    "BAR": -2.01,
+    "StylePlus": null
   },
   {
     "BID": 11173,
@@ -57,7 +19,9 @@
     "Origin": "Oceanside, CA United States",
     "BeerAbv": 13.00,
     "BeerIbu": 0.00,
-    "HallRating": -30.61
+    "HallRating": -30.61,
+    "BAR": -6.39,
+    "StylePlus": "76"
   },
   {
     "BID": 10509,
@@ -67,7 +31,9 @@
     "Origin": "New Zealand",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -32.38
+    "HallRating": -32.38,
+    "BAR": -5.57,
+    "StylePlus": "80"
   },
   {
     "BID": 12292,
@@ -77,7 +43,9 @@
     "Origin": "Ithaca, MI United States",
     "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "HallRating": -32.61
+    "HallRating": -32.61,
+    "BAR": -1.59,
+    "StylePlus": null
   },
   {
     "BID": 10857,
@@ -87,7 +55,9 @@
     "Origin": "Bend, OR United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -32.61
+    "HallRating": -32.61,
+    "BAR": -1.59,
+    "StylePlus": null
   },
   {
     "BID": 11811,
@@ -97,7 +67,9 @@
     "Origin": "Chico, CA United States",
     "BeerAbv": 6.20,
     "BeerIbu": 45.00,
-    "HallRating": -32.61
+    "HallRating": -32.61,
+    "BAR": -1.59,
+    "StylePlus": null
   },
   {
     "BID": 1097,
@@ -107,27 +79,9 @@
     "Origin": "United States",
     "BeerAbv": 4.30,
     "BeerIbu": 0.00,
-    "HallRating": -32.84
-  },
-  {
-    "BID": 1191,
-    "BeerName": "Irish Gold",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "O’Gara’s Bar & Grill",
-    "Origin": "St. Paul, MN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -39.27
-  },
-  {
-    "BID": 12656,
-    "BeerName": "A:M",
-    "BeerStyle": "Malt Liquor",
-    "BreweryName": "Minhas Craft Brewery",
-    "Origin": "Monroe, WI United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "HallRating": -39.27
+    "HallRating": -32.84,
+    "BAR": -5.40,
+    "StylePlus": "86"
   },
   {
     "BID": 10156,
@@ -137,7 +91,33 @@
     "Origin": "Placentia, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -39.27
+    "HallRating": -39.27,
+    "BAR": -1.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 12656,
+    "BeerName": "A:M",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Minhas Craft Brewery",
+    "Origin": "Monroe, WI United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "HallRating": -39.27,
+    "BAR": -1.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1191,
+    "BeerName": "Irish Gold",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "O’Gara’s Bar & Grill",
+    "Origin": "St. Paul, MN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -39.27,
+    "BAR": -1.00,
+    "StylePlus": null
   },
   {
     "BID": 11526,
@@ -147,7 +127,21 @@
     "Origin": "Sacramento, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -39.27
+    "HallRating": -39.27,
+    "BAR": -1.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 12689,
+    "BeerName": "Apollo",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "AllGates",
+    "Origin": "Wigan, Greater Manchester England",
+    "BeerAbv": 4.30,
+    "BeerIbu": 0.00,
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
   },
   {
     "BID": 10451,
@@ -157,27 +151,9 @@
     "Origin": "Lexington, KY United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -52.16
-  },
-  {
-    "BID": 12033,
-    "BeerName": "There and Here",
-    "BeerStyle": "Pale Ale - Belgian",
-    "BreweryName": "Pizza Port Brewing Company",
-    "Origin": "Carlsbad, CA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "HallRating": -52.16
-  },
-  {
-    "BID": 12628,
-    "BeerName": "Farley (Carlsbad)",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Pizza Port Brewing Company",
-    "Origin": "Carlsbad, CA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "HallRating": -52.16
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
   },
   {
     "BID": 1214,
@@ -187,7 +163,33 @@
     "Origin": "San Diego, CA United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": -52.16
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
+  },
+  {
+    "BID": 12628,
+    "BeerName": "Farley (Carlsbad)",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Pizza Port Brewing Company",
+    "Origin": "Carlsbad, CA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
+  },
+  {
+    "BID": 12033,
+    "BeerName": "There and Here",
+    "BeerStyle": "Pale Ale - Belgian",
+    "BreweryName": "Pizza Port Brewing Company",
+    "Origin": "Carlsbad, CA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
   },
   {
     "BID": 11035,
@@ -197,7 +199,9 @@
     "Origin": "Williamsport, PA United States",
     "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": -52.16
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
   },
   {
     "BID": 10614,
@@ -207,7 +211,9 @@
     "Origin": "Spartanburg, SC United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -52.16
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
   },
   {
     "BID": 10233,
@@ -217,7 +223,9 @@
     "Origin": "San Diego, CA United States",
     "BeerAbv": 6.10,
     "BeerIbu": 0.00,
-    "HallRating": -52.16
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
   },
   {
     "BID": 10113,
@@ -227,7 +235,9 @@
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -52.16
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
   },
   {
     "BID": 10017,
@@ -237,7 +247,9 @@
     "Origin": "Bend, OR United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": -52.16
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
   },
   {
     "BID": 12587,
@@ -247,6 +259,44 @@
     "Origin": "Other",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -52.16
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
+  },
+  {
+    "BID": 12178,
+    "BeerName": "Smoked Helles",
+    "BeerStyle": "Smoked Beer",
+    "BreweryName": "Rock Bottom Restaurant & Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
+  },
+  {
+    "BID": 10852,
+    "BeerName": "Jefferson Julle Bryg",
+    "BeerStyle": "Bock - Weizenbock",
+    "BreweryName": "Ørbæk Bryggeri",
+    "Origin": "Ørbæk, Region Syddanmark Denmark",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": -52.16,
+    "BAR": -7.16,
+    "StylePlus": null
+  },
+  {
+    "BID": 11073,
+    "BeerName": "Flying Salmon Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Rock Bottom Restaurant & Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -53.57,
+    "BAR": -6.77,
+    "StylePlus": null
   }
 ]

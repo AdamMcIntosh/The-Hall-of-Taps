@@ -1,23 +1,195 @@
 [
   {
-    "BID": 11961,
-    "BeerName": "Chocolate Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Pub Dog Brewing Company",
-    "Origin": "Westminster, MD United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 25.00,
-    "HallRating": 14.04
+    "BID": 11014,
+    "BeerName": "Bruce/Lee Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Prodigal Son Brewery",
+    "Origin": "Pendleton, OR United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 30.00,
+    "HallRating": 14.08,
+    "BAR": 7.29,
+    "StylePlus": "104"
   },
   {
-    "BID": 10734,
-    "BeerName": "Thornbridge Oak Barrel Aged Stout",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Epic Brewing Company",
-    "Origin": "Salt Lake City, UT United States",
-    "BeerAbv": 6.80,
+    "BID": 10295,
+    "BeerName": "Black Mamba Black IPA",
+    "BeerStyle": "Homebrew, IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Homebrew",
+    "Origin": "Other",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.04
+    "HallRating": 14.08,
+    "BAR": 4.23,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 12082,
+    "BeerName": "Le Chat Noir",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Portsmouth Brewery",
+    "Origin": "Portsmouth, NH United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 14.08,
+    "BAR": 7.31,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 12164,
+    "BeerName": "Boston Blackstone Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Great Baraboo Brewing Company",
+    "Origin": "Clinton Township, MI United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 14.07,
+    "BAR": 7.28,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 10830,
+    "BeerName": "Gothic Stout",
+    "BeerStyle": "Stout - English",
+    "BreweryName": "Enville Brewery",
+    "Origin": "Stourbridge, Staffordshire England",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 14.07,
+    "BAR": 7.27,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 10760,
+    "BeerName": "Weissbier",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Denison's Brewing Co.",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 14.07,
+    "BAR": 7.27,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 12452,
+    "BeerName": "Imperial Olde Brune",
+    "BeerStyle": "Sour - Flanders Oud Bruin",
+    "BreweryName": "Kuhnhenn Brewing Company",
+    "Origin": "Warren, MI United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "HallRating": 14.07,
+    "BAR": 4.25,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 10745,
+    "BeerName": "Dawk's Classic Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "North End Tavern & Brewery",
+    "Origin": "Parkersburg, WV United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 12.00,
+    "HallRating": 14.06,
+    "BAR": 7.25,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11115,
+    "BeerName": "Schwarz Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Victory Brewing Company",
+    "Origin": "Downingtown, PA United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 14.06,
+    "BAR": 7.25,
+    "StylePlus": "118"
+  },
+  {
+    "BID": 12501,
+    "BeerName": "Monkey See Monkey Do",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Craftsman Brewing Company",
+    "Origin": "Pasadena, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.05,
+    "BAR": 4.27,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 12348,
+    "BeerName": "Monkey See Monkey Do",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Craftsman Brewing Company",
+    "Origin": "Pasadena, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.05,
+    "BAR": 4.27,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 12074,
+    "BeerName": "Porter - Wood aged",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Sierra Nevada Brewing Co.",
+    "Origin": "Chico, CA United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 14.05,
+    "BAR": 4.27,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11802,
+    "BeerName": "Almond Marzen Project (Beer Camp 26)",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Sierra Nevada Brewing Co.",
+    "Origin": "Chico, CA United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 29.00,
+    "HallRating": 14.05,
+    "BAR": 4.27,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 12237,
+    "BeerName": "Red Dragon",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "C'est What Durham Brewing",
+    "Origin": "Pickering, ON Canada",
+    "BeerAbv": 5.20,
+    "BeerIbu": 27.00,
+    "HallRating": 14.05,
+    "BAR": 7.22,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 11234,
+    "BeerName": "Coffee Torpor Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Freetail Brewing Co.",
+    "Origin": "San Antonio, TX United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 14.05,
+    "BAR": 4.27,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 11984,
+    "BeerName": "The Black Galloway",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Sulwath Brewers Ltd",
+    "Origin": "Castle Douglas, Dumfries and Galloway Scotland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.05,
+    "BAR": 7.23,
+    "StylePlus": "107"
   },
   {
     "BID": 11519,
@@ -27,7 +199,9 @@
     "Origin": "Lake Elsinore, CA United States",
     "BeerAbv": 6.60,
     "BeerIbu": 35.00,
-    "HallRating": 14.04
+    "HallRating": 14.04,
+    "BAR": 4.29,
+    "StylePlus": "115"
   },
   {
     "BID": 11550,
@@ -37,7 +211,57 @@
     "Origin": "Richmond, Victoria Australia",
     "BeerAbv": 4.90,
     "BeerIbu": 0.00,
-    "HallRating": 14.04
+    "HallRating": 14.04,
+    "BAR": 7.19,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 12146,
+    "BeerName": "King Oak Milk Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Opa-Opa Brewing Company",
+    "Origin": "Williamsburg, MA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.04,
+    "BAR": 7.20,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 11922,
+    "BeerName": "Chocolate Oatmeal Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Pub Dog Brewing Company",
+    "Origin": "Westminster, MD United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 25.00,
+    "HallRating": 14.04,
+    "BAR": 7.21,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11961,
+    "BeerName": "Chocolate Oatmeal Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Pub Dog Brewing Company",
+    "Origin": "Westminster, MD United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 25.00,
+    "HallRating": 14.04,
+    "BAR": 7.21,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 10734,
+    "BeerName": "Thornbridge Oak Barrel Aged Stout",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Epic Brewing Company",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 14.04,
+    "BAR": 4.29,
+    "StylePlus": "106"
   },
   {
     "BID": 11615,
@@ -47,7 +271,9 @@
     "Origin": "Hershey, PA United States",
     "BeerAbv": 9.90,
     "BeerIbu": 0.00,
-    "HallRating": 14.04
+    "HallRating": 14.04,
+    "BAR": 4.29,
+    "StylePlus": "104"
   },
   {
     "BID": 11029,
@@ -57,196 +283,20 @@
     "Origin": "Copenhagen, Region Hovedstaden Denmark",
     "BeerAbv": 10.90,
     "BeerIbu": 0.00,
-    "HallRating": 14.04
+    "HallRating": 14.04,
+    "BAR": 7.19,
+    "StylePlus": "104"
   },
   {
-    "BID": 10473,
-    "BeerName": "Baltic Porter",
-    "BeerStyle": "Porter - Baltic",
-    "BreweryName": "Foothills Brewing",
-    "Origin": "Winston-Salem, NC United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 52.00,
-    "HallRating": 14.03
-  },
-  {
-    "BID": 10198,
-    "BeerName": "Hudy 14-K",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Hudepohl Brewing Co.",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "HallRating": 14.02
-  },
-  {
-    "BID": 11985,
-    "BeerName": "Galloway Gold",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Sulwath Brewers Ltd",
-    "Origin": "Castle Douglas, Dumfries and Galloway Scotland",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.02
-  },
-  {
-    "BID": 1051,
-    "BeerName": "XXX English Ale",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Fitger’s Brewhouse",
-    "Origin": "Duluth, MN United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 0.00,
-    "HallRating": 14.01
-  },
-  {
-    "BID": 11507,
-    "BeerName": "Oktober-Fiesta",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Mt Baldy Brewery",
-    "Origin": "Upland, CA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.01
-  },
-  {
-    "BID": 11241,
-    "BeerName": "Lane Xang",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Lao Brewery Co., Ltd",
-    "Origin": "Vientiane, Vientiane Prefecture Laos",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.01
-  },
-  {
-    "BID": 10072,
-    "BeerName": "Trader Joe's Vintage Ale (2009)",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Unibroue",
-    "Origin": "Chambly, QC Canada",
-    "BeerAbv": 9.20,
-    "BeerIbu": 0.00,
-    "HallRating": 14.01
-  },
-  {
-    "BID": 12246,
-    "BeerName": "Streaking the Quad",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Deschutes Brewery",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.01
-  },
-  {
-    "BID": 12575,
-    "BeerName": "Lame Devil Farmhouse Ale",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "The Gamble Mill Restaurant & Microbrewery",
-    "Origin": "Bellefonte, PA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.00
-  },
-  {
-    "BID": 10823,
-    "BeerName": "Bohemian Pilsner",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Red Hill Brewery",
-    "Origin": "Red Hill South, Victoria Australia",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "HallRating": 13.99
-  },
-  {
-    "BID": 11725,
-    "BeerName": "Scottish Ale",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "Selin's Grove Brewing",
-    "Origin": "Selinsgrove, PA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 13.99
-  },
-  {
-    "BID": 11909,
-    "BeerName": "Doggie Claws (2010)",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Hair of the Dog Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "HallRating": 13.99
-  },
-  {
-    "BID": 12558,
-    "BeerName": "One Tun Imperial Stout (OTIS)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Off The Rails Brewing Co.",
-    "Origin": "Sunnyvale, CA United States",
-    "BeerAbv": 9.80,
-    "BeerIbu": 0.00,
-    "HallRating": 13.98
-  },
-  {
-    "BID": 10765,
-    "BeerName": "McGritty's Scotch Ale",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "Aviator Brewing Company",
-    "Origin": "Fuquay-Varina, NC United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 13.98
-  },
-  {
-    "BID": 12606,
-    "BeerName": "Old School Irish Stout",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Mountain Sun Pubs & Breweries",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "HallRating": 13.98
-  },
-  {
-    "BID": 10302,
-    "BeerName": "Kringle Krack",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Calapooia Brewing Co.",
-    "Origin": "Albany, OR United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 40.00,
-    "HallRating": 13.98
-  },
-  {
-    "BID": 11527,
-    "BeerName": "Boysenberry Nectar",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Redstone Meadery",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 13.98
-  },
-  {
-    "BID": 11311,
-    "BeerName": "Golden Eagle",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Mohan Meakin",
-    "Origin": "Barwala, Himachal Pradesh India",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 13.98
-  },
-  {
-    "BID": 1110,
-    "BeerName": "Thunderhead Amber Ale",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Sequoia Brewing Company",
-    "Origin": "Fresno, CA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 13.98
+    "BID": 12686,
+    "BeerName": "Winter Warlock",
+    "BeerStyle": "Brown Ale - English",
+    "BreweryName": "Crown Brewing Company",
+    "Origin": "Crown Point, IN United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 28.00,
+    "HallRating": 14.03,
+    "BAR": 7.17,
+    "StylePlus": "111"
   }
 ]

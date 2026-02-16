@@ -1,13 +1,27 @@
 [
   {
-    "BID": 4959928,
-    "BeerName": "Cernunnos Hellerbock",
-    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
-    "BreweryName": "Birrificio Agricolo La Martina",
-    "Origin": "Ono San Pietro, Lombardia Italy",
-    "BeerAbv": 6.70,
-    "BeerIbu": 34.00,
-    "HallRating": 0.00
+    "BID": 4630515,
+    "BeerName": "Dark Mild Ale",
+    "BeerStyle": "Homebrew, Mild - Dark",
+    "BreweryName": "Hjelle Nanobryggeri",
+    "Origin": "Norway",
+    "BeerAbv": 3.80,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4445738,
+    "BeerName": "P45",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Drewes Brews",
+    "Origin": "United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 56.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3333346,
@@ -17,7 +31,21 @@
     "Origin": "Ono San Pietro, Lombardia Italy",
     "BeerAbv": 5.20,
     "BeerIbu": 29.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
+  },
+  {
+    "BID": 4959928,
+    "BeerName": "Cernunnos Hellerbock",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Birrificio Agricolo La Martina",
+    "Origin": "Ono San Pietro, Lombardia Italy",
+    "BeerAbv": 6.70,
+    "BeerIbu": 34.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630492,
@@ -27,7 +55,9 @@
     "Origin": "Blaine, MN United States",
     "BeerAbv": 8.10,
     "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4815249,
@@ -37,7 +67,9 @@
     "Origin": "Vladimir, Vladimir, oblast Russia",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
   },
   {
     "BID": 4815698,
@@ -47,17 +79,9 @@
     "Origin": "Atlanta, GA United States",
     "BeerAbv": 3.90,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815692,
-    "BeerName": "The Cloud Parted",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Second Self Beer Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815689,
@@ -67,7 +91,21 @@
     "Origin": "Atlanta, GA United States",
     "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4815692,
+    "BeerName": "The Cloud Parted",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Second Self Beer Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815685,
@@ -77,7 +115,9 @@
     "Origin": "Atlanta, GA United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445739,
@@ -87,97 +127,9 @@
     "Origin": "Atlanta, GA United States",
     "BeerAbv": 6.60,
     "BeerIbu": 66.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675264,
-    "BeerName": "Citrason",
-    "BeerStyle": "IPA - Belgian",
-    "BreweryName": "Second Self Beer Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 50.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675266,
-    "BeerName": "Big A IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Second Self Beer Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 9.10,
-    "BeerIbu": 120.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675111,
-    "BeerName": "Moretueka",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Second Self Beer Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 6.10,
-    "BeerIbu": 80.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675277,
-    "BeerName": "Lincoln Funk Station",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Second Self Beer Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 60.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675279,
-    "BeerName": "Sleazy Salesman",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Second Self Beer Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 81.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675275,
-    "BeerName": "Hoppy Monstar",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Second Self Beer Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 64.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675268,
-    "BeerName": "Citrason",
-    "BeerStyle": "IPA - Belgian",
-    "BreweryName": "Second Self Beer Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 50.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672765,
-    "BeerName": "White and Gold IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Second Self Beer Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 65.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674219,
-    "BeerName": "White and Gold IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Second Self Beer Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 65.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1670486,
@@ -187,7 +139,117 @@
     "Origin": "Atlanta, GA United States",
     "BeerAbv": 5.50,
     "BeerIbu": 65.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1672765,
+    "BeerName": "White and Gold IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Second Self Beer Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1675111,
+    "BeerName": "Moretueka",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Second Self Beer Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1675264,
+    "BeerName": "Citrason",
+    "BeerStyle": "IPA - Belgian",
+    "BreweryName": "Second Self Beer Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 1675266,
+    "BeerName": "Big A IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Second Self Beer Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 9.10,
+    "BeerIbu": 120.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1675268,
+    "BeerName": "Citrason",
+    "BeerStyle": "IPA - Belgian",
+    "BreweryName": "Second Self Beer Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 1675279,
+    "BeerName": "Sleazy Salesman",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Second Self Beer Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 81.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1675277,
+    "BeerName": "Lincoln Funk Station",
+    "BeerStyle": "IPA - Sour",
+    "BreweryName": "Second Self Beer Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 1675275,
+    "BeerName": "Hoppy Monstar",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Second Self Beer Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 64.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1674219,
+    "BeerName": "White and Gold IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Second Self Beer Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1672766,
@@ -197,7 +259,9 @@
     "Origin": "Karlstad, Värmland Sweden",
     "BeerAbv": 13.00,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 1672763,
@@ -207,7 +271,9 @@
     "Origin": "Karlstad, Värmland Sweden",
     "BeerAbv": 13.20,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4630493,
@@ -217,7 +283,9 @@
     "Origin": "Karlstad, Värmland Sweden",
     "BeerAbv": 13.90,
     "BeerIbu": 115.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4815250,
@@ -227,26 +295,8 @@
     "Origin": "Burlington, VT United States",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445740,
-    "BeerName": "Bruce Almighty",
-    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
-    "BreweryName": "ScapeGoat Brewing Company",
-    "Origin": "United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445761,
-    "BeerName": "MightyAde",
-    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
-    "BreweryName": "ScapeGoat Brewing Company",
-    "Origin": "United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   }
 ]

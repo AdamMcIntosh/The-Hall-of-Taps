@@ -1,5 +1,221 @@
 [
   {
+    "BID": 3339362,
+    "BeerName": "Mill Creek IPA",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Speciation Cellars",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 1671015,
+    "BeerName": "Incipient (Apricot, Nectarine, Peach)",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Speciation Cellars",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 1671016,
+    "BeerName": "Chroma",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "FERMÆNTRA",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 3338238,
+    "BeerName": "Albino",
+    "BeerStyle": "Homebrew, IPA - White / Wheat",
+    "BreweryName": "Brucesters Brewing",
+    "Origin": "Australia",
+    "BeerAbv": 5.50,
+    "BeerIbu": 44.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1671019,
+    "BeerName": "Export Hell",
+    "BeerStyle": "Lager - Dortmunder / Export",
+    "BreweryName": "Gunpowder Falls Brewing",
+    "Origin": "New Freedom, PA United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "92"
+  },
+  {
+    "BID": 14343,
+    "BeerName": "Ryde Beer",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Wachusett Brewing Company",
+    "Origin": "Westminster, MA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "81"
+  },
+  {
+    "BID": 6295,
+    "BeerName": "Blueberry Ale",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Wachusett Brewing Company",
+    "Origin": "Westminster, MA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 6527,
+    "BeerName": "Country Pale Ale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Wachusett Brewing Company",
+    "Origin": "Westminster, MA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
+  },
+  {
+    "BID": 6713,
+    "BeerName": "Wachusett IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Wachusett Brewing Company",
+    "Origin": "Westminster, MA United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 6714,
+    "BeerName": "Nut Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Wachusett Brewing Company",
+    "Origin": "Westminster, MA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 6715,
+    "BeerName": "Octoberfest",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Wachusett Brewing Company",
+    "Origin": "Westminster, MA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 1670913,
+    "BeerName": "Watermelon Wheat",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "C and C Brewing Factory",
+    "Origin": "York, PA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1670916,
+    "BeerName": "The Sweet Stranger",
+    "BeerStyle": "Homebrew, Barleywine - American",
+    "BreweryName": "T&R Hombrew",
+    "Origin": "United States",
+    "BeerAbv": 13.40,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3338131,
+    "BeerName": "Amber Dame",
+    "BeerStyle": "Red Ale - Other",
+    "BreweryName": "BarmHaus Brewing Co",
+    "Origin": "Garden Valley, CA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 1670918,
+    "BeerName": "Blue Cap Pale Ale",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Bruno Zeewald Brewery",
+    "Origin": "United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3338132,
+    "BeerName": "...Let Me Count the Haze",
+    "BeerStyle": "Homebrew, IPA - New England / Hazy",
+    "BreweryName": "Epigraph Brewing",
+    "Origin": "United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1670922,
+    "BeerName": "Wind And Sea",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Ridge Brewing Company",
+    "Origin": "Maple Ridge, BC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 31.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 1670923,
+    "BeerName": "Undun Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Natian Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
     "BID": 3343025,
     "BeerName": "Lumberjane Stout 2015",
     "BeerStyle": "Stout - Coffee",
@@ -7,17 +223,9 @@
     "Origin": "Portland, OR United States",
     "BeerAbv": 8.40,
     "BeerIbu": 80.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3344123,
-    "BeerName": "MI Mower",
-    "BeerStyle": "Rye Beer",
-    "BreweryName": "Sherwood Brewing Company",
-    "Origin": "Shelby Township, MI United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3890533,
@@ -27,17 +235,21 @@
     "Origin": "Shelby Township, MI United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
-    "BID": 1667127,
-    "BeerName": "Earl's Green Tea Lemon Ale",
-    "BeerStyle": "Spiced / Herbed Beer",
+    "BID": 3344123,
+    "BeerName": "MI Mower",
+    "BeerStyle": "Rye Beer",
     "BreweryName": "Sherwood Brewing Company",
     "Origin": "Shelby Township, MI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "81"
   },
   {
     "BID": 1674947,
@@ -47,7 +259,21 @@
     "Origin": "Shelby Township, MI United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1667127,
+    "BeerName": "Earl's Green Tea Lemon Ale",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Sherwood Brewing Company",
+    "Origin": "Shelby Township, MI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1670924,
@@ -57,7 +283,9 @@
     "Origin": "Somme-Leuze, Région Wallonne Belgium",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
   },
   {
     "BID": 3341254,
@@ -67,186 +295,8 @@
     "Origin": "Somme-Leuze, Région Wallonne Belgium",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339770,
-    "BeerName": "La Super Sanglier",
-    "BeerStyle": "Pale Ale - Belgian",
-    "BreweryName": "Brasserie Minne",
-    "Origin": "Somme-Leuze, Région Wallonne Belgium",
-    "BeerAbv": 4.80,
-    "BeerIbu": 42.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338142,
-    "BeerName": "Beer Mile IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Keegan Ales",
-    "Origin": "Kingston, NY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1676181,
-    "BeerName": "Brahma Chopp",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "AmBev",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 4.80,
-    "BeerIbu": 10.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 7547,
-    "BeerName": "Antarctica",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "AmBev",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 4.90,
-    "BeerIbu": 9.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8921,
-    "BeerName": "Brahma Extra Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "AmBev",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 5.50,
-    "BeerIbu": 13.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9302,
-    "BeerName": "Brahma Chopp",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "AmBev",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 4.80,
-    "BeerIbu": 10.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8123,
-    "BeerName": "Skol",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "AmBev",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 4.70,
-    "BeerIbu": 8.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338026,
-    "BeerName": "Grimm Reipa",
-    "BeerStyle": "IPA - Red",
-    "BreweryName": "Left Barrel Brewing",
-    "Origin": "Balhannah, South Australia Australia",
-    "BeerAbv": 5.50,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6017,
-    "BeerName": "Blanche Hermine",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Brasserie Lancelot",
-    "Origin": "Val d'Oust, Bretagne France",
-    "BeerAbv": 4.00,
-    "BeerIbu": 15.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6018,
-    "BeerName": "Bonnets Rouges",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Brasserie Lancelot",
-    "Origin": "Val d'Oust, Bretagne France",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6019,
-    "BeerName": "Cervoise Lancelot",
-    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
-    "BreweryName": "Brasserie Lancelot",
-    "Origin": "Val d'Oust, Bretagne France",
-    "BeerAbv": 6.00,
-    "BeerIbu": 19.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6020,
-    "BeerName": "Duchesse Anne",
-    "BeerStyle": "Pale Ale - Belgian",
-    "BreweryName": "Brasserie Lancelot",
-    "Origin": "Val d'Oust, Bretagne France",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6021,
-    "BeerName": "Fest'Yves",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Brasserie Lancelot",
-    "Origin": "Val d'Oust, Bretagne France",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6022,
-    "BeerName": "Pays de Cocagne",
-    "BeerStyle": "Pale Ale - Belgian",
-    "BreweryName": "Brasserie Lancelot",
-    "Origin": "Val d'Oust, Bretagne France",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6023,
-    "BeerName": "Telenn Du",
-    "BeerStyle": "Specialty Grain",
-    "BreweryName": "Brasserie Lancelot",
-    "Origin": "Val d'Oust, Bretagne France",
-    "BeerAbv": 4.50,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1670826,
-    "BeerName": "Pale Ale Guy",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "3 Door Garage",
-    "Origin": "United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 50.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338027,
-    "BeerName": "Sublime Summer Kolsch",
-    "BeerStyle": "Homebrew, Kölsch",
-    "BreweryName": "Mike McCanna",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1670828,
-    "BeerName": "SummeRyeZ'd Saison (2016)",
-    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "Providence Arbours Brewing",
-    "Origin": "Charlotte, NC United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   }
 ]

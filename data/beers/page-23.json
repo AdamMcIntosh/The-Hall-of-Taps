@@ -1,23 +1,123 @@
 [
   {
-    "BID": 10964,
-    "BeerName": "Imperial Pumpkin Stout",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Cape Ann Brewing Company",
-    "Origin": "Gloucester, MA United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 43.00,
-    "HallRating": 14.63
+    "BID": 11334,
+    "BeerName": "JP",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Emerson's Brewery",
+    "Origin": "Dunedin, Otago New Zealand",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.67,
+    "BAR": 3.62,
+    "StylePlus": "106"
   },
   {
-    "BID": 11975,
-    "BeerName": "Magnat (Магнат)",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Obolon (Оболонь)",
-    "Origin": "Kyiv, Ukraine",
-    "BeerAbv": 5.20,
+    "BID": 11101,
+    "BeerName": "Whiskey Scented Santa",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Charleville Brewery & Winery",
+    "Origin": "Ste. Genevieve, MO United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 26.00,
+    "HallRating": 14.67,
+    "BAR": 8.49,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 11616,
+    "BeerName": "Lilja's Sasquatch Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Pangaea Beer Company",
+    "Origin": "Wisconsin Rapids, WI United States",
+    "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.63
+    "HallRating": 14.66,
+    "BAR": 8.46,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 12156,
+    "BeerName": "Winter Warmer",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "SanTan Brewing Company",
+    "Origin": "Chandler, AZ United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 35.00,
+    "HallRating": 14.65,
+    "BAR": 8.46,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 12715,
+    "BeerName": "Pumpkin Ale",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Rock Bottom Restaurant & Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 20.00,
+    "HallRating": 14.64,
+    "BAR": 8.44,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 10799,
+    "BeerName": "One Eyed Jack Robust Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "The Brew Kettle",
+    "Origin": "Strongsville, OH United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 14.64,
+    "BAR": 8.43,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 12609,
+    "BeerName": "Liberator Doppelbock",
+    "BeerStyle": "Bock - Doppelbock",
+    "BreweryName": "Thomas Hooker Brewing Co.",
+    "Origin": "Bloomfield, CT United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 24.00,
+    "HallRating": 14.64,
+    "BAR": 8.43,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 11177,
+    "BeerName": "Black Dome Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Catawba Brewing Co.",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.63,
+    "BAR": 8.41,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 11125,
+    "BeerName": "Rosemary Swamp Fox",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Moon River Brewing Company",
+    "Origin": "Savannah, GA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.63,
+    "BAR": 8.42,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 12424,
+    "BeerName": "Saison Vautour Farmhouse Ale",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "McKenzie Brew House",
+    "Origin": "Malvern, PA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 28.00,
+    "HallRating": 14.63,
+    "BAR": 8.42,
+    "StylePlus": "105"
   },
   {
     "BID": 12336,
@@ -27,37 +127,33 @@
     "Origin": "Berkeley, CA United States",
     "BeerAbv": 7.00,
     "BeerIbu": 71.00,
-    "HallRating": 14.63
+    "HallRating": 14.63,
+    "BAR": 8.41,
+    "StylePlus": "104"
   },
   {
-    "BID": 10671,
-    "BeerName": "Miss Spelt",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Deschutes Brewery",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 5.30,
+    "BID": 11975,
+    "BeerName": "Magnat (Магнат)",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Obolon (Оболонь)",
+    "Origin": "Kyiv, Ukraine",
+    "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 14.62
+    "HallRating": 14.63,
+    "BAR": 8.41,
+    "StylePlus": "98"
   },
   {
-    "BID": 12585,
-    "BeerName": "Holiday Ale",
-    "BeerStyle": "Rye Beer",
-    "BreweryName": "Kern River Brewing Company",
-    "Origin": "Kernville, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.62
-  },
-  {
-    "BID": 11907,
-    "BeerName": "Punkin' Pie Ale",
+    "BID": 10964,
+    "BeerName": "Imperial Pumpkin Stout",
     "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Bearded Lamb Brewing Company",
-    "Origin": "Plymouth, MI United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "HallRating": 14.62
+    "BreweryName": "Cape Ann Brewing Company",
+    "Origin": "Gloucester, MA United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 43.00,
+    "HallRating": 14.63,
+    "BAR": 8.42,
+    "StylePlus": "107"
   },
   {
     "BID": 10844,
@@ -67,7 +163,57 @@
     "Origin": "Cleveland, OH United States",
     "BeerAbv": 9.50,
     "BeerIbu": 12.00,
-    "HallRating": 14.62
+    "HallRating": 14.62,
+    "BAR": 8.39,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 10671,
+    "BeerName": "Miss Spelt",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Deschutes Brewery",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 14.62,
+    "BAR": 3.66,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 12585,
+    "BeerName": "Holiday Ale",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Kern River Brewing Company",
+    "Origin": "Kernville, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.62,
+    "BAR": 3.66,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 11907,
+    "BeerName": "Punkin' Pie Ale",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Bearded Lamb Brewing Company",
+    "Origin": "Plymouth, MI United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 14.62,
+    "BAR": 8.40,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 12673,
+    "BeerName": "Cascade Green",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Cascade Brewery Co",
+    "Origin": "Hobart, Tasmania Australia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 14.62,
+    "BAR": 3.66,
+    "StylePlus": "98"
   },
   {
     "BID": 12273,
@@ -77,7 +223,9 @@
     "Origin": "Greenfield, MA United States",
     "BeerAbv": 5.70,
     "BeerIbu": 45.00,
-    "HallRating": 14.62
+    "HallRating": 14.62,
+    "BAR": 8.40,
+    "StylePlus": "104"
   },
   {
     "BID": 11434,
@@ -87,7 +235,9 @@
     "Origin": "Clawson, MI United States",
     "BeerAbv": 8.20,
     "BeerIbu": 0.00,
-    "HallRating": 14.61
+    "HallRating": 14.61,
+    "BAR": 8.37,
+    "StylePlus": "104"
   },
   {
     "BID": 10901,
@@ -97,7 +247,9 @@
     "Origin": "Columbus, OH United States",
     "BeerAbv": 6.60,
     "BeerIbu": 14.00,
-    "HallRating": 14.61
+    "HallRating": 14.61,
+    "BAR": 8.38,
+    "StylePlus": "114"
   },
   {
     "BID": 11962,
@@ -107,7 +259,9 @@
     "Origin": "New Ulm, MN United States",
     "BeerAbv": 5.10,
     "BeerIbu": 0.00,
-    "HallRating": 14.61
+    "HallRating": 14.61,
+    "BAR": 8.39,
+    "StylePlus": "112"
   },
   {
     "BID": 12338,
@@ -117,7 +271,9 @@
     "Origin": "Kingston, NY United States",
     "BeerAbv": 12.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.61
+    "HallRating": 14.61,
+    "BAR": 8.39,
+    "StylePlus": "102"
   },
   {
     "BID": 12181,
@@ -127,126 +283,20 @@
     "Origin": "Toronto, ON Canada",
     "BeerAbv": 6.50,
     "BeerIbu": 60.00,
-    "HallRating": 14.61
+    "HallRating": 14.61,
+    "BAR": 8.38,
+    "StylePlus": "104"
   },
   {
-    "BID": 11157,
-    "BeerName": "ESB",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "Hunter-Gatherer Brewery and Alehouse",
-    "Origin": "Columbia, SC United States",
+    "BID": 12709,
+    "BeerName": "Bold Coast Pemaquid Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Sheepscot Valley Brewing Company",
+    "Origin": "Whitefield, ME United States",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 14.60
-  },
-  {
-    "BID": 11805,
-    "BeerName": "Kofresi",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Old Harbor Brewery",
-    "Origin": "Carolina, Puerto Rico",
-    "BeerAbv": 5.00,
-    "BeerIbu": 45.00,
-    "HallRating": 14.60
-  },
-  {
-    "BID": 1202,
-    "BeerName": "Dick's Lava Rock Porter",
-    "BeerStyle": "Porter - English",
-    "BreweryName": "Dick’s Brewing Company",
-    "Origin": "Centralia, WA United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 25.00,
-    "HallRating": 14.60
-  },
-  {
-    "BID": 11059,
-    "BeerName": "McLuhr's Irish Stout",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Dillon Dam Brewery",
-    "Origin": "Dillon, CO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.59
-  },
-  {
-    "BID": 12525,
-    "BeerName": "Dorada Draft",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Cervecería Centro Americana",
-    "Origin": "Ciudad de Guatemala, Guatemala",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "HallRating": 14.59
-  },
-  {
-    "BID": 11267,
-    "BeerName": "Coco Loco Toasted Coconut Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Kona Brewing Hawaii",
-    "Origin": "Kailua-Kona, HI United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 14.58
-  },
-  {
-    "BID": 1225,
-    "BeerName": "Stone 04.04.04 Vertical Epic Ale",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.58
-  },
-  {
-    "BID": 12411,
-    "BeerName": "Femme Fatale",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Boneyard Beer",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 15.00,
-    "HallRating": 14.58
-  },
-  {
-    "BID": 10417,
-    "BeerName": "Blackberry Wheat Ale",
-    "BeerStyle": "Wheat Beer - Fruited",
-    "BreweryName": "Mountain Sun Pubs & Breweries",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 14.57
-  },
-  {
-    "BID": 11683,
-    "BeerName": "Imperial Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Marble Brewery",
-    "Origin": "Albuquerque, NM United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 80.00,
-    "HallRating": 14.57
-  },
-  {
-    "BID": 11575,
-    "BeerName": "Cascade Draught",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Cascade Brewery Co",
-    "Origin": "Hobart, Tasmania Australia",
-    "BeerAbv": 4.70,
-    "BeerIbu": 19.00,
-    "HallRating": 14.57
-  },
-  {
-    "BID": 11005,
-    "BeerName": "JJ Craft American Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Joseph James Brewing Company",
-    "Origin": "Henderson, NV United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 15.00,
-    "HallRating": 14.56
+    "HallRating": 14.60,
+    "BAR": 8.37,
+    "StylePlus": "111"
   }
 ]

@@ -1,183 +1,15 @@
 [
   {
-    "BID": 9333,
-    "BeerName": "Golden Grizzle™",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8113,
-    "BeerName": "Mach 10™",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 9.20,
-    "BeerIbu": 100.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9526,
-    "BeerName": "Peter Brown Tribute Ale™",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 21.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 7621,
-    "BeerName": "Hop Rod Rye™",
-    "BeerStyle": "IPA - Rye",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 80.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 5795,
-    "BeerName": "Apex™",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 8.25,
-    "BeerIbu": 100.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 5569,
-    "BeerName": "Red Rocket Ale®",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 67.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 5172,
-    "BeerName": "Late Harvest Lager™",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 27.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815645,
-    "BeerName": "Hop Shovel™ Double IPA Mosaic Magic",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 65.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815663,
-    "BeerName": "NorCal IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 75.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339460,
-    "BeerName": "Red Racer (Ales For ALS 2019)",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339511,
-    "BeerName": "Republic of Hops",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1553,
-    "BeerName": "Racer 5 IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 75.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1557,
-    "BeerName": "Big Bear Black Stout™",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 8.10,
-    "BeerIbu": 55.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1425,
-    "BeerName": "Hop Rod Rye™",
-    "BeerStyle": "IPA - Rye",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 80.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335471,
-    "BeerName": "Barrel Aged Series: Abbaye De Gembloux",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Uncle Billy's Brewery",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 28.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335472,
-    "BeerName": "IPA Handdesinfektion",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Dalens Sjukhus",
-    "Origin": null,
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1676922,
-    "BeerName": "SchuppenBoer Tripel Whisky Barrel Aged",
+    "BID": 4816416,
+    "BeerName": "Zo Vader, Zo Zoon",
     "BeerStyle": "Belgian Tripel",
     "BreweryName": "Brouwerij Het Nest",
     "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
-    "BeerAbv": 9.00,
-    "BeerIbu": 38.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668831,
-    "BeerName": "The Butterfly",
-    "BeerStyle": "Bock - Single / Traditional",
-    "BreweryName": "Brouwerij Het Nest",
-    "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
-    "BeerAbv": 6.50,
-    "BeerIbu": 31.00,
-    "HallRating": 0.00
+    "BeerAbv": 9.60,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
   },
   {
     "BID": 4446830,
@@ -187,17 +19,21 @@
     "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
     "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
-    "BID": 4816416,
-    "BeerName": "Zo Vader, Zo Zoon",
-    "BeerStyle": "Belgian Tripel",
+    "BID": 1668831,
+    "BeerName": "The Butterfly",
+    "BeerStyle": "Bock - Single / Traditional",
     "BreweryName": "Brouwerij Het Nest",
     "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
-    "BeerAbv": 9.60,
-    "BeerIbu": 45.00,
-    "HallRating": 0.00
+    "BeerAbv": 6.50,
+    "BeerIbu": 31.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "88"
   },
   {
     "BID": 4940603,
@@ -207,17 +43,9 @@
     "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3343449,
-    "BeerName": "Schuppenboer Speyside Whisky Barrel Aged Peated",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij Het Nest",
-    "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 38.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4980199,
@@ -227,7 +55,9 @@
     "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
     "BeerAbv": 10.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3082,
@@ -237,7 +67,9 @@
     "Origin": "Chilton, WI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "87"
   },
   {
     "BID": 3083,
@@ -247,6 +79,224 @@
     "Origin": "Chilton, WI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 3084,
+    "BeerName": "Calumet Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Rowland's Calumet Brewery",
+    "Origin": "Chilton, WI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "88"
+  },
+  {
+    "BID": 3085,
+    "BeerName": "Calumet Kölsch",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Rowland's Calumet Brewery",
+    "Origin": "Chilton, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
+  },
+  {
+    "BID": 3086,
+    "BeerName": "Calumet Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Rowland's Calumet Brewery",
+    "Origin": "Chilton, WI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 3335473,
+    "BeerName": "L'Aurelia",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "La Turbulente",
+    "Origin": "La Turballe, Pays de la Loire France",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 4961920,
+    "BeerName": "Cashmere",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "La Turbulente",
+    "Origin": "La Turballe, Pays de la Loire France",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4961371,
+    "BeerName": "Fruit Medley Slushie",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Baere Brewing Co",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 3.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3338049,
+    "BeerName": "Hop About Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Baere Brewing Co",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "121"
+  },
+  {
+    "BID": 4632206,
+    "BeerName": "Lager of the Plains",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Baere Brewing Co",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "121"
+  },
+  {
+    "BID": 1668832,
+    "BeerName": "Willie Maze Haze",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Baere Brewing Co",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1670582,
+    "BeerName": "Hippo Treasure #4",
+    "BeerStyle": "Brown Ale - Other",
+    "BreweryName": "Baere Brewing Co",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 4632099,
+    "BeerName": "2XDrip",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Commonwealth Brewing Company",
+    "Origin": "Virginia Beach, VA United States",
+    "BeerAbv": 8.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4632023,
+    "BeerName": "Marvoloso 2021: V9",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Commonwealth Brewing Company",
+    "Origin": "Virginia Beach, VA United States",
+    "BeerAbv": 14.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "99"
+  },
+  {
+    "BID": 4632088,
+    "BeerName": "Marvoloso 2021: V10",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Commonwealth Brewing Company",
+    "Origin": "Virginia Beach, VA United States",
+    "BeerAbv": 14.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "99"
+  },
+  {
+    "BID": 4631916,
+    "BeerName": "Marvoloso 2021: V9",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Commonwealth Brewing Company",
+    "Origin": "Virginia Beach, VA United States",
+    "BeerAbv": 14.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "99"
+  },
+  {
+    "BID": 3339026,
+    "BeerName": "Nordland",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Commonwealth Brewing Company",
+    "Origin": "Virginia Beach, VA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 3335474,
+    "BeerName": "Melon Ball",
+    "BeerStyle": "IPA - Sour",
+    "BreweryName": "Commonwealth Brewing Company",
+    "Origin": "Virginia Beach, VA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4960068,
+    "BeerName": "Kuleana",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Commonwealth Brewing Company",
+    "Origin": "Virginia Beach, VA United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4960075,
+    "BeerName": "Retrogames",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Commonwealth Brewing Company",
+    "Origin": "Virginia Beach, VA United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   }
 ]

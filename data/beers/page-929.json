@@ -1,23 +1,99 @@
 [
   {
-    "BID": 2615,
-    "BeerName": "Redback Original",
-    "BeerStyle": "Wheat Beer - Kristallweizen",
-    "BreweryName": "Matilda Bay Brewing Company",
-    "Origin": "Healesville, Victoria Australia",
-    "BeerAbv": 4.70,
-    "BeerIbu": 18.00,
-    "HallRating": 0.00
+    "BID": 7606,
+    "BeerName": "Hemp Hop Rye Amber Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "O’Fallon Brewery",
+    "Origin": "Maryland Heights, MO United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
-    "BID": 3337691,
-    "BeerName": "Dirty Kanza Kölsch",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Free State Brewing Co.",
-    "Origin": "Lawrence, KS United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "BID": 7186,
+    "BeerName": "Smoke (Smoked Porter)",
+    "BeerStyle": "Porter - Smoked",
+    "BreweryName": "O’Fallon Brewery",
+    "Origin": "Maryland Heights, MO United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "77"
+  },
+  {
+    "BID": 7977,
+    "BeerName": "5-Day IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "O’Fallon Brewery",
+    "Origin": "Maryland Heights, MO United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 9817,
+    "BeerName": "Wheach",
+    "BeerStyle": "Wheat Beer - Fruited",
+    "BreweryName": "O’Fallon Brewery",
+    "Origin": "Maryland Heights, MO United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 9786,
+    "BeerName": "Cocoa Cream Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "O’Fallon Brewery",
+    "Origin": "Maryland Heights, MO United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "77"
+  },
+  {
+    "BID": 9371,
+    "BeerName": "Pumpkin Beer",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "O’Fallon Brewery",
+    "Origin": "Maryland Heights, MO United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 11.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 9105,
+    "BeerName": "Sticke it to the Man",
+    "BeerStyle": "Altbier - Sticke / Latzenbier",
+    "BreweryName": "O’Fallon Brewery",
+    "Origin": "Maryland Heights, MO United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 9267,
+    "BeerName": "Cherry Chocolate",
+    "BeerStyle": "Dark Ale",
+    "BreweryName": "O’Fallon Brewery",
+    "Origin": "Maryland Heights, MO United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
     "BID": 9854,
@@ -27,17 +103,9 @@
     "Origin": "Lawrence, KS United States",
     "BeerAbv": 12.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8536,
-    "BeerName": "Santa's Helper",
-    "BeerStyle": "IPA - Belgian",
-    "BreweryName": "Free State Brewing Co.",
-    "Origin": "Lawrence, KS United States",
-    "BeerAbv": 8.40,
-    "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 9083,
@@ -47,27 +115,21 @@
     "Origin": "Lawrence, KS United States",
     "BeerAbv": 6.10,
     "BeerIbu": 45.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
-    "BID": 6103,
-    "BeerName": "Copperhead Pale Ale",
-    "BeerStyle": "Pale Ale - American",
+    "BID": 8536,
+    "BeerName": "Santa's Helper",
+    "BeerStyle": "IPA - Belgian",
     "BreweryName": "Free State Brewing Co.",
     "Origin": "Lawrence, KS United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 52.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6549,
-    "BeerName": "Lemongrass Rye",
-    "BeerStyle": "Rye Beer",
-    "BreweryName": "Free State Brewing Co.",
-    "Origin": "Lawrence, KS United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 12.00,
-    "HallRating": 0.00
+    "BeerAbv": 8.40,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 7015,
@@ -77,7 +139,9 @@
     "Origin": "Lawrence, KS United States",
     "BeerAbv": 9.40,
     "BeerIbu": 92.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 6075,
@@ -87,7 +151,9 @@
     "Origin": "Pouilly-sous-Charlieu, Auvergne-Rhône-Alpes France",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 6076,
@@ -97,7 +163,9 @@
     "Origin": "Pouilly-sous-Charlieu, Auvergne-Rhône-Alpes France",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 1668451,
@@ -107,17 +175,9 @@
     "Origin": "Pouilly-sous-Charlieu, Auvergne-Rhône-Alpes France",
     "BeerAbv": 7.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1677197,
-    "BeerName": "Égyptienne",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Les Brasseurs du Sornin",
-    "Origin": "Pouilly-sous-Charlieu, Auvergne-Rhône-Alpes France",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 1676620,
@@ -127,7 +187,21 @@
     "Origin": "Pouilly-sous-Charlieu, Auvergne-Rhône-Alpes France",
     "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1677197,
+    "BeerName": "Égyptienne",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Les Brasseurs du Sornin",
+    "Origin": "Pouilly-sous-Charlieu, Auvergne-Rhône-Alpes France",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 2542,
@@ -137,7 +211,9 @@
     "Origin": "Denver, CO United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
   },
   {
     "BID": 2543,
@@ -147,7 +223,9 @@
     "Origin": "Denver, CO United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 8447,
@@ -157,37 +235,9 @@
     "Origin": "Denver, CO United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4961992,
-    "BeerName": "Hop Heroes",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "7 Fjell Bryggeri",
-    "Origin": "Bønes, Vestland Norway",
-    "BeerAbv": 6.00,
-    "BeerIbu": 28.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674513,
-    "BeerName": "Ibsens Ripsbusker",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "7 Fjell Bryggeri",
-    "Origin": "Bønes, Vestland Norway",
-    "BeerAbv": 5.50,
-    "BeerIbu": 15.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1673936,
-    "BeerName": "Ulriken Double IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "7 Fjell Bryggeri",
-    "Origin": "Bønes, Vestland Norway",
-    "BeerAbv": 8.50,
-    "BeerIbu": 100.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1668452,
@@ -197,7 +247,33 @@
     "Origin": "Bønes, Vestland Norway",
     "BeerAbv": 8.50,
     "BeerIbu": 88.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1674513,
+    "BeerName": "Ibsens Ripsbusker",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "7 Fjell Bryggeri",
+    "Origin": "Bønes, Vestland Norway",
+    "BeerAbv": 5.50,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 1673936,
+    "BeerName": "Ulriken Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "7 Fjell Bryggeri",
+    "Origin": "Bønes, Vestland Norway",
+    "BeerAbv": 8.50,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 1671511,
@@ -207,7 +283,9 @@
     "Origin": "Bønes, Vestland Norway",
     "BeerAbv": 5.50,
     "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4446578,
@@ -217,36 +295,8 @@
     "Origin": "Bønes, Vestland Norway",
     "BeerAbv": 4.70,
     "BeerIbu": 22.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630533,
-    "BeerName": "Holy Night - Bright Christmas Ale",
-    "BeerStyle": "Belgian Blonde",
-    "BreweryName": "7 Fjell Bryggeri",
-    "Origin": "Bønes, Vestland Norway",
-    "BeerAbv": 6.50,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815349,
-    "BeerName": "Bareksten Passionfruit Gin Fizz",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "7 Fjell Bryggeri",
-    "Origin": "Bønes, Vestland Norway",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815353,
-    "BeerName": "Bareksten 04 Seasonal Gin & Tonic",
-    "BeerStyle": "Other",
-    "BreweryName": "7 Fjell Bryggeri",
-    "Origin": "Bønes, Vestland Norway",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "81"
   }
 ]

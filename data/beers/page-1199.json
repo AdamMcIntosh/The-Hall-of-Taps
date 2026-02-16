@@ -1,15 +1,5 @@
 [
   {
-    "BID": 4982269,
-    "BeerName": "Dunkel Roggen",
-    "BeerStyle": "Historical Beer - Roggenbier",
-    "BreweryName": "Urban Brewing",
-    "Origin": "Dublin, County Dublin Ireland",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 4982270,
     "BeerName": "Dunkel Roggen",
     "BeerStyle": "Historical Beer - Roggenbier",
@@ -17,17 +7,45 @@
     "Origin": "Dublin, County Dublin Ireland",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
-    "BID": 4630982,
-    "BeerName": "Jingle Mint",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Vallensons’ Brewing Company",
-    "Origin": "Pearland, TX United States",
+    "BID": 4982386,
+    "BeerName": "Scottish Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Urban Brewing",
+    "Origin": "Dublin, County Dublin Ireland",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 3337057,
+    "BeerName": "Cardamom White IPA",
+    "BeerStyle": "IPA - White / Wheat",
+    "BreweryName": "Urban Brewing",
+    "Origin": "Dublin, County Dublin Ireland",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
+  },
+  {
+    "BID": 4815242,
+    "BeerName": "Tropical Pale",
+    "BeerStyle": "Pale Ale - New England / Hazy",
+    "BreweryName": "Urban Brewing",
+    "Origin": "Dublin, County Dublin Ireland",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4630486,
@@ -37,7 +55,21 @@
     "Origin": "Pearland, TX United States",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4630982,
+    "BeerName": "Jingle Mint",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Vallensons’ Brewing Company",
+    "Origin": "Pearland, TX United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 4817014,
@@ -47,7 +79,9 @@
     "Origin": "Pearland, TX United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 4815243,
@@ -57,7 +91,9 @@
     "Origin": "Labège, Occitanie France",
     "BeerAbv": 6.10,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 4445731,
@@ -67,7 +103,9 @@
     "Origin": "St Catharines, ON Canada",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
   },
   {
     "BID": 3343797,
@@ -77,7 +115,9 @@
     "Origin": "St Catharines, ON Canada",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630487,
@@ -87,17 +127,9 @@
     "Origin": "France",
     "BeerAbv": 3.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 443,
-    "BeerName": "Ultrabrune",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Brasserie Scassenes",
-    "Origin": "Écaussinnes, Région Wallonne Belgium",
-    "BeerAbv": 10.00,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3338370,
@@ -107,17 +139,9 @@
     "Origin": "Écaussinnes, Région Wallonne Belgium",
     "BeerAbv": 4.90,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 16,
-    "BeerName": "Ultrablonde 8%",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brasserie Scassenes",
-    "Origin": "Écaussinnes, Région Wallonne Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
     "BID": 1413,
@@ -127,7 +151,33 @@
     "Origin": "Écaussinnes, Région Wallonne Belgium",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 16,
+    "BeerName": "Ultrablonde 8%",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brasserie Scassenes",
+    "Origin": "Écaussinnes, Région Wallonne Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
+  },
+  {
+    "BID": 443,
+    "BeerName": "Ultrabrune",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Brasserie Scassenes",
+    "Origin": "Écaussinnes, Région Wallonne Belgium",
+    "BeerAbv": 10.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1676458,
@@ -137,7 +187,9 @@
     "Origin": "Croix, Hauts-de-France France",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
     "BID": 1676514,
@@ -147,7 +199,9 @@
     "Origin": "Croix, Hauts-de-France France",
     "BeerAbv": 3.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
   },
   {
     "BID": 4815244,
@@ -157,7 +211,9 @@
     "Origin": "Croix, Hauts-de-France France",
     "BeerAbv": 2.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 4630488,
@@ -167,7 +223,9 @@
     "Origin": "Avon, NY United States",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4446619,
@@ -177,27 +235,9 @@
     "Origin": "Avon, NY United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336653,
-    "BeerName": "Tears of the Goddess | Passion Fruit + Vanilla + Granola",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336650,
-    "BeerName": "Milk of the Gods | Tangerine Dream",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "125"
   },
   {
     "BID": 3337452,
@@ -207,17 +247,33 @@
     "Origin": "Avon, NY United States",
     "BeerAbv": 8.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
-    "BID": 4980056,
-    "BeerName": "Strawberry Creme Savers Swirl",
-    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BID": 3336653,
+    "BeerName": "Tears of the Goddess | Passion Fruit + Vanilla + Granola",
+    "BeerStyle": "IPA - Sour",
     "BreweryName": "Mortalis Brewing Company",
     "Origin": "Avon, NY United States",
-    "BeerAbv": 7.00,
+    "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3336650,
+    "BeerName": "Milk of the Gods | Tangerine Dream",
+    "BeerStyle": "IPA - Milkshake",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4960588,
@@ -227,26 +283,20 @@
     "Origin": "Avon, NY United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
-    "BID": 4815245,
-    "BeerName": "Maikrawalle",
-    "BeerStyle": "Homebrew, Bock - Hell / Maibock / Lentebock",
-    "BreweryName": "Chapter-H Brewing",
-    "Origin": "Germany",
-    "BeerAbv": 7.80,
+    "BID": 4980056,
+    "BeerName": "Strawberry Creme Savers Swirl",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445735,
-    "BeerName": "Boaty Mcboatface",
-    "BeerStyle": "Cream Ale",
-    "BreweryName": "Two Blokes Brewing",
-    "Origin": "Mount Pleasant, SC United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   }
 ]

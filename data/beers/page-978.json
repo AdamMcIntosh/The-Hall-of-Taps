@@ -1,5 +1,209 @@
 [
   {
+    "BID": 1676591,
+    "BeerName": "Strawberry Kiwi Berliner Weisse",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "White Birch Brewing",
+    "Origin": "Nashua, NH United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
+  },
+  {
+    "BID": 4447308,
+    "BeerName": "Blueberry Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "White Birch Brewing",
+    "Origin": "Nashua, NH United States",
+    "BeerAbv": 4.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "121"
+  },
+  {
+    "BID": 4447312,
+    "BeerName": "Blackberry IPA",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "White Birch Brewing",
+    "Origin": "Nashua, NH United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3344141,
+    "BeerName": "Eat A Peach",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "White Birch Brewing",
+    "Origin": "Nashua, NH United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 3344256,
+    "BeerName": "Walk the Lime White",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "White Birch Brewing",
+    "Origin": "Nashua, NH United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 1669521,
+    "BeerName": "7th Anniversary Ale",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "White Birch Brewing",
+    "Origin": "Nashua, NH United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 13134,
+    "BeerName": "Apprentice Series: Aloha",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "White Birch Brewing",
+    "Origin": "Nashua, NH United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 13135,
+    "BeerName": "Berliner Weisse",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "White Birch Brewing",
+    "Origin": "Nashua, NH United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 13136,
+    "BeerName": "Oak Aged Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "White Birch Brewing",
+    "Origin": "Nashua, NH United States",
+    "BeerAbv": 10.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
+  },
+  {
+    "BID": 13137,
+    "BeerName": "Wrigian",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "White Birch Brewing",
+    "Origin": "Nashua, NH United States",
+    "BeerAbv": 9.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
+  },
+  {
+    "BID": 1668718,
+    "BeerName": "Zazzy's Downtown Ground",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Wolf Hills Brewing Co",
+    "Origin": "Abingdon, VA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "117"
+  },
+  {
+    "BID": 1668850,
+    "BeerName": "Wolf's Den",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Wolf Hills Brewing Co",
+    "Origin": "Abingdon, VA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 1673975,
+    "BeerName": "Imperial Oatmeal Stout",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Wolf Hills Brewing Co",
+    "Origin": "Abingdon, VA United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 32.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 4631693,
+    "BeerName": "Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "SOMA Beer",
+    "Origin": "Girona, Catalunya Spain",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "122"
+  },
+  {
+    "BID": 4816490,
+    "BeerName": "Your Design Here",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "SOMA Beer",
+    "Origin": "Girona, Catalunya Spain",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3335356,
+    "BeerName": "Again",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "SOMA Beer",
+    "Origin": "Girona, Catalunya Spain",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 3335514,
+    "BeerName": "Again",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "SOMA Beer",
+    "Origin": "Girona, Catalunya Spain",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
     "BID": 4961855,
     "BeerName": "Matching Outfits I",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -7,7 +211,9 @@
     "Origin": "Girona, Catalunya Spain",
     "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4961856,
@@ -17,7 +223,21 @@
     "Origin": "Girona, Catalunya Spain",
     "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 4941457,
+    "BeerName": "Testing Colors",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "SOMA Beer",
+    "Origin": "Girona, Catalunya Spain",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4981615,
@@ -27,7 +247,9 @@
     "Origin": "Egg Harbor, WI United States",
     "BeerAbv": 6.00,
     "BeerIbu": 35.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "87"
   },
   {
     "BID": 4816927,
@@ -37,7 +259,9 @@
     "Origin": "Egg Harbor, WI United States",
     "BeerAbv": 5.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 2910,
@@ -47,7 +271,9 @@
     "Origin": "Egg Harbor, WI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 2911,
@@ -57,7 +283,9 @@
     "Origin": "Egg Harbor, WI United States",
     "BeerAbv": 5.40,
     "BeerIbu": 20.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
   },
   {
     "BID": 2912,
@@ -67,186 +295,8 @@
     "Origin": "Egg Harbor, WI United States",
     "BeerAbv": 5.60,
     "BeerIbu": 12.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2913,
-    "BeerName": "Door County Cherry Wheat",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Shipwrecked Brew Pub",
-    "Origin": "Egg Harbor, WI United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2914,
-    "BeerName": "Bayside Blonde Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Shipwrecked Brew Pub",
-    "Origin": "Egg Harbor, WI United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 15.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335357,
-    "BeerName": "Ortie",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Sterne & Mousse",
-    "Origin": "Rochefort-sur-Loire, Pays de la Loire France",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3344237,
-    "BeerName": "Noix",
-    "BeerStyle": "Brown Ale - Other",
-    "BreweryName": "Sterne & Mousse",
-    "Origin": "Rochefort-sur-Loire, Pays de la Loire France",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668721,
-    "BeerName": "Lucky Jack",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Oves Kjøkkenbryggeri",
-    "Origin": "Norway",
-    "BeerAbv": 5.00,
-    "BeerIbu": 34.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668939,
-    "BeerName": "Hoppy Joe",
-    "BeerStyle": "Homebrew, Red Ale - American Amber / Red",
-    "BreweryName": "Oves Kjøkkenbryggeri",
-    "Origin": "Norway",
-    "BeerAbv": 4.60,
-    "BeerIbu": 18.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668723,
-    "BeerName": "L'esquella",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Art Cervesers",
-    "Origin": "Lliçà d'Amunt, Catalunya Spain",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338873,
-    "BeerName": "La Calderina",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Art Cervesers",
-    "Origin": "Lliçà d'Amunt, Catalunya Spain",
-    "BeerAbv": 5.20,
-    "BeerIbu": 27.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338974,
-    "BeerName": "Mrs. Robinia Pine",
-    "BeerStyle": "Farmhouse Ale - Other",
-    "BreweryName": "Art Cervesers",
-    "Origin": "Lliçà d'Amunt, Catalunya Spain",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339932,
-    "BeerName": "Rope Swing",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Lake St. George Brewing Company",
-    "Origin": "Liberty, ME United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3343957,
-    "BeerName": "Pilot Batch #9",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Lake St. George Brewing Company",
-    "Origin": "Liberty, ME United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445883,
-    "BeerName": "Headwaters",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Lake St. George Brewing Company",
-    "Origin": "Liberty, ME United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335362,
-    "BeerName": "Pilot Batch #9",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Lake St. George Brewing Company",
-    "Origin": "Liberty, ME United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1676536,
-    "BeerName": "Crisp Apple",
-    "BeerStyle": "Cider - Sweet",
-    "BreweryName": "Angry Orchard Hard Cider",
-    "Origin": "Walden, NY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668725,
-    "BeerName": "Newtown Pippin",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Angry Orchard Hard Cider",
-    "Origin": "Walden, NY United States",
-    "BeerAbv": 7.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1670498,
-    "BeerName": "Farm Cider Hopped",
-    "BeerStyle": "Cider - Hopped",
-    "BreweryName": "Angry Orchard Hard Cider",
-    "Origin": "Walden, NY United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981925,
-    "BeerName": "Baked Apple Pie",
-    "BeerStyle": "Cider - Sweet",
-    "BreweryName": "Angry Orchard Hard Cider",
-    "Origin": "Walden, NY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335363,
-    "BeerName": "Red, Blue And Purple",
-    "BeerStyle": "Homebrew, Sour - Fruited",
-    "BreweryName": "Lake Terror",
-    "Origin": "Lithuania",
-    "BeerAbv": 3.30,
-    "BeerIbu": 12.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
   }
 ]

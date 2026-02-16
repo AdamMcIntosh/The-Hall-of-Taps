@@ -1,5 +1,29 @@
 [
   {
+    "BID": 4815268,
+    "BeerName": "Mirakel Van Sloten",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Brouwerij De 7 Deugden",
+    "Origin": "Amsterdam, Noord-Holland Netherlands",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 4815801,
+    "BeerName": "The Hustle Is Hexed",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "DSSOLVR",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
     "BID": 4630513,
     "BeerName": "Eternal Mourning: Huell Melon",
     "BeerStyle": "IPA - Brett",
@@ -7,7 +31,9 @@
     "Origin": "Asheville, NC United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
     "BID": 4959618,
@@ -17,27 +43,9 @@
     "Origin": "Asheville, NC United States",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980195,
-    "BeerName": "Buy High Sell High",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "DSSOLVR",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980198,
-    "BeerName": "Masters of the Fuzz",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "DSSOLVR",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4960955,
@@ -47,7 +55,9 @@
     "Origin": "Asheville, NC United States",
     "BeerAbv": 7.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4960948,
@@ -57,7 +67,9 @@
     "Origin": "Asheville, NC United States",
     "BeerAbv": 6.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4961075,
@@ -67,107 +79,33 @@
     "Origin": "Asheville, NC United States",
     "BeerAbv": 4.90,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
   },
   {
-    "BID": 8092,
-    "BeerName": "Honkaku Karakuchi Mugi (本格 辛口麦)",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 5.00,
+    "BID": 4980195,
+    "BeerName": "Buy High Sell High",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "DSSOLVR",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 13.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
-    "BID": 7964,
-    "BeerName": "Nodogoshi Nama (のどごし生)",
-    "BeerStyle": "Happoshu",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 5.00,
+    "BID": 4980198,
+    "BeerName": "Masters of the Fuzz",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "DSSOLVR",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9162,
-    "BeerName": "Tanrei Green Label",
-    "BeerStyle": "Happoshu",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9348,
-    "BeerName": "Ichiban Shibori Stout (一番搾り スタウト)",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9323,
-    "BeerName": "Brau Meister",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6131,
-    "BeerName": "Lager",
-    "BeerStyle": "Lager - Japanese Rice",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 7690,
-    "BeerName": "Ichiban 0.0",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 0.00,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815269,
-    "BeerName": "Green's Free (2022-)",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4667,
-    "BeerName": "Ichiban (Ichiban Shibori) (一番搾り)",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 5.00,
-    "BeerIbu": 18.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4668,
-    "BeerName": "Light",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 3.31,
-    "BeerIbu": 8.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "118"
   },
   {
     "BID": 4631517,
@@ -177,7 +115,21 @@
     "Origin": "Nakano-ku, Tokyo Japan",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4815269,
+    "BeerName": "Green's Free (2022-)",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Kirin Brewery Company",
+    "Origin": "Nakano-ku, Tokyo Japan",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "127"
   },
   {
     "BID": 3337042,
@@ -187,7 +139,9 @@
     "Origin": "Nakano-ku, Tokyo Japan",
     "BeerAbv": 5.00,
     "BeerIbu": 18.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
   },
   {
     "BID": 1676214,
@@ -197,56 +151,152 @@
     "Origin": "Nakano-ku, Tokyo Japan",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
   },
   {
-    "BID": 1674528,
-    "BeerName": "Ichiban Shibori Fukushima Zukuri",
+    "BID": 6131,
+    "BeerName": "Lager",
+    "BeerStyle": "Lager - Japanese Rice",
+    "BreweryName": "Kirin Brewery Company",
+    "Origin": "Nakano-ku, Tokyo Japan",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "87"
+  },
+  {
+    "BID": 4667,
+    "BeerName": "Ichiban (Ichiban Shibori) (一番搾り)",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Kirin Brewery Company",
     "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
   },
   {
-    "BID": 1674487,
-    "BeerName": "Ichiban Shibori Ehime Zukuri",
+    "BID": 4668,
+    "BeerName": "Light",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Kirin Brewery Company",
+    "Origin": "Nakano-ku, Tokyo Japan",
+    "BeerAbv": 3.31,
+    "BeerIbu": 8.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 8092,
+    "BeerName": "Honkaku Karakuchi Mugi (本格 辛口麦)",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Kirin Brewery Company",
     "Origin": "Nakano-ku, Tokyo Japan",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
   },
   {
-    "BID": 1672400,
-    "BeerName": "Ichiban Shibori Tokushima Zukuri",
-    "BeerStyle": "Lager - Pale",
+    "BID": 7690,
+    "BeerName": "Ichiban 0.0",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Kirin Brewery Company",
+    "Origin": "Nakano-ku, Tokyo Japan",
+    "BeerAbv": 0.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 7964,
+    "BeerName": "Nodogoshi Nama (のどごし生)",
+    "BeerStyle": "Happoshu",
+    "BreweryName": "Kirin Brewery Company",
+    "Origin": "Nakano-ku, Tokyo Japan",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 9162,
+    "BeerName": "Tanrei Green Label",
+    "BeerStyle": "Happoshu",
+    "BreweryName": "Kirin Brewery Company",
+    "Origin": "Nakano-ku, Tokyo Japan",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 9348,
+    "BeerName": "Ichiban Shibori Stout (一番搾り スタウト)",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Kirin Brewery Company",
+    "Origin": "Nakano-ku, Tokyo Japan",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
+  },
+  {
+    "BID": 9323,
+    "BeerName": "Brau Meister",
+    "BeerStyle": "Pilsner - German",
     "BreweryName": "Kirin Brewery Company",
     "Origin": "Nakano-ku, Tokyo Japan",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
   },
   {
-    "BID": 1672416,
-    "BeerName": "Ichiban Shibori Saitama Zukuri",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 5.50,
+    "BID": 4815285,
+    "BeerName": "Belgisk Hawaii",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Det Lille Bryggeri",
+    "Origin": "Ringsted, Region Sjælland Denmark",
+    "BeerAbv": 8.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
   },
   {
-    "BID": 1670176,
-    "BeerName": "Ichiban Shibori Tottori Zukuri",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 5.50,
+    "BID": 4815296,
+    "BeerName": "Moviebox",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Det Lille Bryggeri",
+    "Origin": "Ringsted, Region Sjælland Denmark",
+    "BeerAbv": 13.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 1676170,
+    "BeerName": "Wheat Beat",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Det Lille Bryggeri",
+    "Origin": "Ringsted, Region Sjælland Denmark",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

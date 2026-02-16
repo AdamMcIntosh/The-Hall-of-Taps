@@ -1,185 +1,5 @@
 [
   {
-    "BID": 3337723,
-    "BeerName": "De Avond II (2019)",
-    "BeerStyle": "Sour - Flanders Oud Bruin",
-    "BreweryName": "Artisan Brewing",
-    "Origin": "Santo Domingo, Heredia Costa Rica",
-    "BeerAbv": 8.50,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3340389,
-    "BeerName": "Wooden Gnome (2018)",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Artisan Brewing",
-    "Origin": "Santo Domingo, Heredia Costa Rica",
-    "BeerAbv": 8.00,
-    "BeerIbu": 34.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3340367,
-    "BeerName": "Farmhouse Cacao Saison (2019)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Artisan Brewing",
-    "Origin": "Santo Domingo, Heredia Costa Rica",
-    "BeerAbv": 4.50,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3340401,
-    "BeerName": "Honey Gnome (2019)",
-    "BeerStyle": "Honey Beer",
-    "BreweryName": "Artisan Brewing",
-    "Origin": "Santo Domingo, Heredia Costa Rica",
-    "BeerAbv": 9.40,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3340409,
-    "BeerName": "Zenne '17",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Artisan Brewing",
-    "Origin": "Santo Domingo, Heredia Costa Rica",
-    "BeerAbv": 5.00,
-    "BeerIbu": 8.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3340433,
-    "BeerName": "Quadrupel (2018)",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Artisan Brewing",
-    "Origin": "Santo Domingo, Heredia Costa Rica",
-    "BeerAbv": 11.00,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446243,
-    "BeerName": "Belle Gueule IPA américaine",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Les Brasseurs RJ",
-    "Origin": "Montréal, QC Canada",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1670652,
-    "BeerName": "Lochness",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "Les Brasseurs RJ",
-    "Origin": "Montréal, QC Canada",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815777,
-    "BeerName": "Bleu Bridge Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Lemonstreet Brewing Co.",
-    "Origin": "Jacksonville, FL United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339959,
-    "BeerName": "Makisupa Red Rye",
-    "BeerStyle": "Homebrew, IPA - Rye",
-    "BreweryName": "Sage Brewing",
-    "Origin": "United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 105.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339973,
-    "BeerName": "Bradtanical Gardens IPA 2019 Aka Mist Tent",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Sage Brewing",
-    "Origin": "United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 78.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1666728,
-    "BeerName": "Summer Series Dry Hopped Citra With Cantalope",
-    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
-    "BreweryName": "Sage Brewing",
-    "Origin": "United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 65.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446244,
-    "BeerName": "Droptine",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Chiefs Brew House",
-    "Origin": "Coburg, OR United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 62.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631008,
-    "BeerName": "Amber Waves",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Precious Things Fermentation Project",
-    "Origin": "Spokane, WA United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 35.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631022,
-    "BeerName": "Rising Hope",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Precious Things Fermentation Project",
-    "Origin": "Spokane, WA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 45.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631033,
-    "BeerName": "Ekuadank",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Precious Things Fermentation Project",
-    "Origin": "Spokane, WA United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 56.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446246,
-    "BeerName": "Midsummer Nights",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Relentless Brewing Company",
-    "Origin": "Temecula, CA United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1669297,
-    "BeerName": "Tripel W/Hawaiian Coffee Blend",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Relentless Brewing Company",
-    "Origin": "Temecula, CA United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 1669844,
     "BeerName": "Russian Imperial Stout (Aged In Buffalo Trace Barrels",
     "BeerStyle": "Stout - Russian Imperial",
@@ -187,7 +7,9 @@
     "Origin": "Columbia, PA United States",
     "BeerAbv": 9.50,
     "BeerIbu": 75.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 1672873,
@@ -197,37 +19,9 @@
     "Origin": "Columbia, PA United States",
     "BeerAbv": 4.60,
     "BeerIbu": 62.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1676258,
-    "BeerName": "Kulmbacher Export",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "Columbia Kettle Works",
-    "Origin": "Columbia, PA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 22.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1677024,
-    "BeerName": "Kulmbacher Export",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "Columbia Kettle Works",
-    "Origin": "Columbia, PA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 22.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1677222,
-    "BeerName": "Kulmbacher Export",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "Columbia Kettle Works",
-    "Origin": "Columbia, PA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 22.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   },
   {
     "BID": 4631010,
@@ -237,7 +31,45 @@
     "Origin": "Columbia, PA United States",
     "BeerAbv": 8.80,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 1677024,
+    "BeerName": "Kulmbacher Export",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "Columbia Kettle Works",
+    "Origin": "Columbia, PA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 1677222,
+    "BeerName": "Kulmbacher Export",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "Columbia Kettle Works",
+    "Origin": "Columbia, PA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 1676258,
+    "BeerName": "Kulmbacher Export",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "Columbia Kettle Works",
+    "Origin": "Columbia, PA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
   },
   {
     "BID": 4815781,
@@ -247,6 +79,224 @@
     "Origin": "Queenstown, MD United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4939107,
+    "BeerName": "PIE. Pineapple Upside Down",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Ten Eyck Brewing Company",
+    "Origin": "Queenstown, MD United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4939108,
+    "BeerName": "PIE. Pineapple Upside Down",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Ten Eyck Brewing Company",
+    "Origin": "Queenstown, MD United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 4939095,
+    "BeerName": "Wye Island APA",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Ten Eyck Brewing Company",
+    "Origin": "Queenstown, MD United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 4941584,
+    "BeerName": "PIE. Mango",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Ten Eyck Brewing Company",
+    "Origin": "Queenstown, MD United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 4979793,
+    "BeerName": "Oh Yeah!",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Manic Meadery",
+    "Origin": "Crown Point, IN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 4631456,
+    "BeerName": "Anniversary Chernobyl",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Manic Meadery",
+    "Origin": "Crown Point, IN United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4631457,
+    "BeerName": "Meadowfoam Blossom",
+    "BeerStyle": "Mead - Traditional",
+    "BreweryName": "Manic Meadery",
+    "Origin": "Crown Point, IN United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 4446247,
+    "BeerName": "Lime In the Coconut",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Manic Meadery",
+    "Origin": "Crown Point, IN United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4446266,
+    "BeerName": "Wild Cascade",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Manic Meadery",
+    "Origin": "Crown Point, IN United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4446270,
+    "BeerName": "Double Shorty Cakes",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Manic Meadery",
+    "Origin": "Crown Point, IN United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4631011,
+    "BeerName": "On a Mission",
+    "BeerStyle": "IPA - Triple",
+    "BreweryName": "Alternate Ending Beer Co.",
+    "Origin": "Aberdeen, NJ United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 4981534,
+    "BeerName": "Be Nice",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Alternate Ending Beer Co.",
+    "Origin": "Aberdeen, NJ United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 4815784,
+    "BeerName": "Wet June",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Mash Paddle Brewing Co.",
+    "Origin": "Brantford, ON Canada",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4815790,
+    "BeerName": "I Can't Come In To Work Today Because I Jumped Off A Roof And Sprained My Knee",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Mash Paddle Brewing Co.",
+    "Origin": "Brantford, ON Canada",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "114"
+  },
+  {
+    "BID": 4446250,
+    "BeerName": "Double Wild Cherry",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Brown Knows Cider",
+    "Origin": "Agua Dulce, CA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 4815785,
+    "BeerName": "Foggy Morning Wheat",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Odd Company Brewing",
+    "Origin": "Edmonton, AB Canada",
+    "BeerAbv": 5.10,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 3337434,
+    "BeerName": "Farmhouse Ale",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Odd Company Brewing",
+    "Origin": "Edmonton, AB Canada",
+    "BeerAbv": 4.80,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 4960306,
+    "BeerName": "Barry Wheat Ale",
+    "BeerStyle": "Wheat Beer - Other",
+    "BreweryName": "Odd Company Brewing",
+    "Origin": "Edmonton, AB Canada",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   }
 ]

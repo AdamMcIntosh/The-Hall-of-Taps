@@ -1,43 +1,27 @@
 [
   {
-    "BID": 12092,
-    "BeerName": "Fleabite",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "La Jolla Brewhouse",
-    "Origin": "La Jolla, CA United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 1252,
-    "BeerName": "Friars IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "San Diego Brewing Company",
-    "Origin": "San Diego, CA United States",
+    "BID": 12623,
+    "BeerName": "Oaked Cranberry Belgian Pale Ale",
+    "BeerStyle": "Homebrew, Fruit Beer",
+    "BreweryName": "Iron Brewer",
+    "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
-    "BID": 1220,
-    "BeerName": "Alt-Er-Ego Amber",
-    "BeerStyle": "Altbier - Traditional",
-    "BreweryName": "On Tap Bistro & Brewery",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 5.00,
+    "BID": 11254,
+    "BeerName": "Noble Ale",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Chama River Brewing Company",
+    "Origin": "Albuquerque, NM United States",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 11427,
-    "BeerName": "Hopothesis C",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Freetail Brewing Co.",
-    "Origin": "San Antonio, TX United States",
-    "BeerAbv": 11.80,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 1160,
@@ -47,7 +31,9 @@
     "Origin": "Denver, CO United States",
     "BeerAbv": 5.10,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 11608,
@@ -57,7 +43,9 @@
     "Origin": "Eugene, OR United States",
     "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 12329,
@@ -67,7 +55,9 @@
     "Origin": "Jacksonville, FL United States",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 10178,
@@ -77,7 +67,9 @@
     "Origin": "San Francisco, CA United States",
     "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 10298,
@@ -87,7 +79,9 @@
     "Origin": "Boulder, CO United States",
     "BeerAbv": 8.10,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 12025,
@@ -97,7 +91,9 @@
     "Origin": "Haverhill, MA United States",
     "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 11804,
@@ -107,7 +103,9 @@
     "Origin": "Chico, CA United States",
     "BeerAbv": 6.30,
     "BeerIbu": 35.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 10706,
@@ -117,7 +115,9 @@
     "Origin": "Fort Worth, TX United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 10795,
@@ -127,7 +127,9 @@
     "Origin": "Middleburg Heights, OH United States",
     "BeerAbv": 7.70,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 12500,
@@ -137,17 +139,9 @@
     "Origin": "Durham, NC United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 10034,
-    "BeerName": "Summer's Gone Saison",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Deschutes Brewery",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 12444,
@@ -157,7 +151,9 @@
     "Origin": "Other",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 10379,
@@ -167,7 +163,9 @@
     "Origin": "Other",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 11009,
@@ -177,17 +175,21 @@
     "Origin": "Portland, OR United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 10060,
-    "BeerName": "Barry the White",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "The Hideout Brewing Company",
-    "Origin": "Grand Rapids, MI United States",
+    "BID": 10034,
+    "BeerName": "Summer's Gone Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Deschutes Brewery",
+    "Origin": "Bend, OR United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 10330,
@@ -197,7 +199,9 @@
     "Origin": "Haverhill, MA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 11185,
@@ -207,27 +211,21 @@
     "Origin": "Temecula, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 1125,
-    "BeerName": "Schaumbergfest",
-    "BeerStyle": "Märzen",
-    "BreweryName": "RAM Restaurant & Brewery / C.B. & Potts",
-    "Origin": "Lakewood, WA United States",
+    "BID": 10060,
+    "BeerName": "Barry the White",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "The Hideout Brewing Company",
+    "Origin": "Grand Rapids, MI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 12109,
-    "BeerName": "X-Ale",
-    "BeerStyle": "Pale Ale - Belgian",
-    "BreweryName": "Tuatara Brewery",
-    "Origin": "Paraparaumu, Wellington New Zealand",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 12622,
@@ -237,7 +235,33 @@
     "Origin": "Oakland, CA United States",
     "BeerAbv": 5.25,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 12109,
+    "BeerName": "X-Ale",
+    "BeerStyle": "Pale Ale - Belgian",
+    "BreweryName": "Tuatara Brewery",
+    "Origin": "Paraparaumu, Wellington New Zealand",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1125,
+    "BeerName": "Schaumbergfest",
+    "BeerStyle": "Märzen",
+    "BreweryName": "RAM Restaurant & Brewery / C.B. & Potts",
+    "Origin": "Lakewood, WA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 11087,
@@ -247,6 +271,32 @@
     "Origin": "Columbus, OH United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 11317,
+    "BeerName": "Blue Bitter",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Lion New Zealand",
+    "Origin": "Auckland, New Zealand",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1203,
+    "BeerName": "Three Threads Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Far West Brewing Company",
+    "Origin": "Redmond, WA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

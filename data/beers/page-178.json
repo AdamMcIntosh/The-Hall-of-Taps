@@ -1,23 +1,75 @@
 [
   {
-    "BID": 6710,
-    "BeerName": "Wampatuck Wheat",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Blue Hills Brewery",
-    "Origin": "Canton, MA United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 16.00,
-    "HallRating": 0.00
+    "BID": 1671306,
+    "BeerName": "Timberslide IPA",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Lowertown Brewery",
+    "Origin": "Ottawa, ON Canada",
+    "BeerAbv": 5.80,
+    "BeerIbu": 56.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
-    "BID": 6711,
-    "BeerName": "Watermelon Wheat",
-    "BeerStyle": "Fruit Beer",
+    "BID": 1671263,
+    "BeerName": "Sour Patch Kids Cider",
+    "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
+    "BreweryName": "Mythos Meadery",
+    "Origin": "Canada",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 6648,
+    "BeerName": "Singa Jengke",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Perusahaan Bir Sajagad",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3338486,
+    "BeerName": "Carpist",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Brouwerij Maenhout",
+    "Origin": "Staden, Vlaams Gewest Belgium",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 1676859,
+    "BeerName": "R.P.G.",
+    "BeerStyle": "IPA - American",
     "BreweryName": "Blue Hills Brewery",
     "Origin": "Canton, MA United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 16.00,
-    "HallRating": 0.00
+    "BeerAbv": 8.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 6649,
+    "BeerName": "Blue Hill IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Blue Hills Brewery",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 72.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
   },
   {
     "BID": 6706,
@@ -27,7 +79,9 @@
     "Origin": "Canton, MA United States",
     "BeerAbv": 9.00,
     "BeerIbu": 66.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 6707,
@@ -37,7 +91,9 @@
     "Origin": "Canton, MA United States",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 6708,
@@ -47,7 +103,9 @@
     "Origin": "Canton, MA United States",
     "BeerAbv": 5.00,
     "BeerIbu": 17.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
     "BID": 6709,
@@ -57,7 +115,33 @@
     "Origin": "Canton, MA United States",
     "BeerAbv": 6.75,
     "BeerIbu": 33.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 6710,
+    "BeerName": "Wampatuck Wheat",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Blue Hills Brewery",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 6711,
+    "BeerName": "Watermelon Wheat",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Blue Hills Brewery",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
   },
   {
     "BID": 1671266,
@@ -67,7 +151,9 @@
     "Origin": "United States",
     "BeerAbv": 8.50,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1671267,
@@ -77,7 +163,9 @@
     "Origin": "United States",
     "BeerAbv": 4.33,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 1671270,
@@ -87,7 +175,9 @@
     "Origin": "United States",
     "BeerAbv": 5.25,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3338490,
@@ -97,17 +187,9 @@
     "Origin": "Sweden",
     "BeerAbv": 5.90,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3334067,
-    "BeerName": "Bijwit",
-    "BeerStyle": "Homebrew, Wheat Beer - Witbier / Blanche",
-    "BreweryName": "BraVi Brews",
-    "Origin": "Netherlands",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3333838,
@@ -117,7 +199,21 @@
     "Origin": "Netherlands",
     "BeerAbv": 12.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3334067,
+    "BeerName": "Bijwit",
+    "BeerStyle": "Homebrew, Wheat Beer - Witbier / Blanche",
+    "BreweryName": "BraVi Brews",
+    "Origin": "Netherlands",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3333802,
@@ -127,17 +223,9 @@
     "Origin": "Bodø, Nordland Norway",
     "BeerAbv": 7.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1673802,
-    "BeerName": "Blårock Hvete IPA Summer Beer",
-    "BeerStyle": "Rye Beer",
-    "BreweryName": "Bådin Bryggeri",
-    "Origin": "Bodø, Nordland Norway",
-    "BeerAbv": 7.00,
-    "BeerIbu": 55.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4816784,
@@ -147,17 +235,21 @@
     "Origin": "Bodø, Nordland Norway",
     "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 4939063,
-    "BeerName": "Juicy Little Thing - Loral New England Pale Ale",
-    "BeerStyle": "Pale Ale - New England / Hazy",
+    "BID": 1673802,
+    "BeerName": "Blårock Hvete IPA Summer Beer",
+    "BeerStyle": "Rye Beer",
     "BreweryName": "Bådin Bryggeri",
     "Origin": "Bodø, Nordland Norway",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "BeerAbv": 7.00,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
     "BID": 4960936,
@@ -167,27 +259,21 @@
     "Origin": "Bodø, Nordland Norway",
     "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 8102,
-    "BeerName": "Glen Park I.P.A.",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Local Brewing Co.",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": 6.10,
-    "BeerIbu": 62.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675979,
-    "BeerName": "Bramble (Nitro)",
-    "BeerStyle": "Dark Ale",
-    "BreweryName": "Local Brewing Co.",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "BID": 4939063,
+    "BeerName": "Juicy Little Thing - Loral New England Pale Ale",
+    "BeerStyle": "Pale Ale - New England / Hazy",
+    "BreweryName": "Bådin Bryggeri",
+    "Origin": "Bodø, Nordland Norway",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 1671269,
@@ -197,7 +283,9 @@
     "Origin": "San Francisco, CA United States",
     "BeerAbv": 5.00,
     "BeerIbu": 34.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 1672087,
@@ -207,46 +295,8 @@
     "Origin": "San Francisco, CA United States",
     "BeerAbv": 7.70,
     "BeerIbu": 70.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1676291,
-    "BeerName": "Wolters Spezial",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Hofbrauhaus Wolters",
-    "Origin": "Braunschweig, Niedersachsen Germany",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1671360,
-    "BeerName": "EADGBe",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Valve Brewers",
-    "Origin": "Mantua, NJ United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338587,
-    "BeerName": "Big Back Eddy Belgian Golden Strong",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Mighty River Brewing Company",
-    "Origin": "Windsor, CO United States",
-    "BeerAbv": 7.60,
-    "BeerIbu": 33.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338588,
-    "BeerName": "Proef Mij Suus",
-    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
-    "BreweryName": "Le Bascule",
-    "Origin": "Netherlands",
-    "BeerAbv": 8.00,
-    "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   }
 ]

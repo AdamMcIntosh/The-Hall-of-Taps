@@ -1,13 +1,27 @@
 [
   {
-    "BID": 1668476,
-    "BeerName": "Another Monkey - Torrhumlad",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "SurgicAle",
-    "Origin": "Sweden",
-    "BeerAbv": 6.20,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "BID": 3335131,
+    "BeerName": "Silly Walks",
+    "BeerStyle": "Homebrew, Other",
+    "BreweryName": "Gjæringskaran",
+    "Origin": "Norway",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342013,
+    "BeerName": "Killer Rabbit",
+    "BeerStyle": "Homebrew, IPA - Belgian",
+    "BreweryName": "Gjæringskaran",
+    "Origin": "Norway",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1668498,
@@ -17,7 +31,21 @@
     "Origin": "Sweden",
     "BeerAbv": 6.20,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1668476,
+    "BeerName": "Another Monkey - Torrhumlad",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "SurgicAle",
+    "Origin": "Sweden",
+    "BeerAbv": 6.20,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3334168,
@@ -27,7 +55,9 @@
     "Origin": "Saint John, NB Canada",
     "BeerAbv": 4.50,
     "BeerIbu": 24.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   },
   {
     "BID": 2578,
@@ -37,7 +67,9 @@
     "Origin": "Milwaukee, WI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 2579,
@@ -47,7 +79,9 @@
     "Origin": "Milwaukee, WI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 2580,
@@ -57,7 +91,9 @@
     "Origin": "Milwaukee, WI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 2581,
@@ -67,7 +103,9 @@
     "Origin": "Milwaukee, WI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 2582,
@@ -77,7 +115,9 @@
     "Origin": "Milwaukee, WI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 2583,
@@ -87,17 +127,9 @@
     "Origin": "Milwaukee, WI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668489,
-    "BeerName": "LeBlonde Ale",
-    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
-    "BreweryName": "MMB Homebrew",
-    "Origin": "Munroe Falls, OH United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 27.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1668477,
@@ -107,7 +139,21 @@
     "Origin": "Munroe Falls, OH United States",
     "BeerAbv": 3.90,
     "BeerIbu": 2.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1668489,
+    "BeerName": "LeBlonde Ale",
+    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
+    "BreweryName": "MMB Homebrew",
+    "Origin": "Munroe Falls, OH United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1668539,
@@ -117,7 +163,9 @@
     "Origin": "Munroe Falls, OH United States",
     "BeerAbv": 9.50,
     "BeerIbu": 47.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1671203,
@@ -127,7 +175,9 @@
     "Origin": "Munroe Falls, OH United States",
     "BeerAbv": 3.90,
     "BeerIbu": 2.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3335126,
@@ -137,7 +187,9 @@
     "Origin": "Swansea, Wales",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "93"
   },
   {
     "BID": 3337055,
@@ -147,17 +199,9 @@
     "Origin": "Swansea, Wales",
     "BeerAbv": 0.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339611,
-    "BeerName": "Blackberry Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Blue Ghost Brewing Company",
-    "Origin": "Fletcher, NC United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3339645,
@@ -167,27 +211,21 @@
     "Origin": "Fletcher, NC United States",
     "BeerAbv": 4.80,
     "BeerIbu": 16.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
-    "BID": 4941730,
-    "BeerName": "Big Glassy",
-    "BeerStyle": "IPA - New England / Hazy",
+    "BID": 3339611,
+    "BeerName": "Blackberry Lager",
+    "BeerStyle": "Lager - American",
     "BreweryName": "Blue Ghost Brewing Company",
     "Origin": "Fletcher, NC United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 44.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4941682,
-    "BeerName": "Blood Orange Kettle Sour",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Blue Ghost Brewing Company",
-    "Origin": "Fletcher, NC United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 8.00,
-    "HallRating": 0.00
+    "BeerAbv": 4.20,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4631014,
@@ -197,7 +235,9 @@
     "Origin": "Fletcher, NC United States",
     "BeerAbv": 6.30,
     "BeerIbu": 44.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1668481,
@@ -207,46 +247,56 @@
     "Origin": "Fletcher, NC United States",
     "BeerAbv": 5.10,
     "BeerIbu": 18.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
-    "BID": 10098,
-    "BeerName": "Flat Jack Pumpkin Ale",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Flat12 Bierwerks",
-    "Origin": "Indianapolis, IN United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 22.00,
-    "HallRating": 0.00
+    "BID": 4941682,
+    "BeerName": "Blood Orange Kettle Sour",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Blue Ghost Brewing Company",
+    "Origin": "Fletcher, NC United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 8.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 10099,
-    "BeerName": "Puppet Show Pale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Flat12 Bierwerks",
-    "Origin": "Indianapolis, IN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335085,
-    "BeerName": "Plumeria",
+    "BID": 4941730,
+    "BeerName": "Big Glassy",
     "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "VERTERE",
-    "Origin": "Okutama-machi Nishitama-gun, Tokyo Japan",
-    "BeerAbv": 6.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "BreweryName": "Blue Ghost Brewing Company",
+    "Origin": "Fletcher, NC United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 44.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 4446457,
-    "BeerName": "Exacum",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "VERTERE",
-    "Origin": "Okutama-machi Nishitama-gun, Tokyo Japan",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "BID": 2585,
+    "BeerName": "White Knuckle Eldridge Grade",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Marin Brewing Company",
+    "Origin": "Larkspur, CA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 2600,
+    "BeerName": "Pt. Reyes Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Marin Brewing Company",
+    "Origin": "Larkspur, CA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "BID": 4445740,
+    "BeerName": "Bruce Almighty",
+    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
+    "BreweryName": "ScapeGoat Brewing Company",
+    "Origin": "United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4445761,
+    "BeerName": "MightyAde",
+    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
+    "BreweryName": "ScapeGoat Brewing Company",
+    "Origin": "United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
     "BID": 4445770,
     "BeerName": "Devil N' Cider",
     "BeerStyle": "Homebrew, Cider - Other Fruit",
@@ -7,7 +31,9 @@
     "Origin": "United States",
     "BeerAbv": 10.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630494,
@@ -17,7 +43,9 @@
     "Origin": "50 Dang Thi Nhu Street, Thành phố Hồ Chí Minh Vietnam",
     "BeerAbv": 4.50,
     "BeerIbu": 12.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815251,
@@ -27,7 +55,9 @@
     "Origin": "Oslo, Norway",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "53"
   },
   {
     "BID": 4815266,
@@ -37,17 +67,9 @@
     "Origin": "Oslo, Norway",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336745,
-    "BeerName": "Ringnes Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Ringnes Bryggeri",
-    "Origin": "Oslo, Norway",
-    "BeerAbv": 4.60,
-    "BeerIbu": 19.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 3341805,
@@ -57,7 +79,21 @@
     "Origin": "Oslo, Norway",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3336745,
+    "BeerName": "Ringnes Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Ringnes Bryggeri",
+    "Origin": "Oslo, Norway",
+    "BeerAbv": 4.60,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "88"
   },
   {
     "BID": 14071,
@@ -67,7 +103,9 @@
     "Origin": "Oslo, Norway",
     "BeerAbv": 9.00,
     "BeerIbu": 32.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
   },
   {
     "BID": 9540,
@@ -77,7 +115,9 @@
     "Origin": "Oslo, Norway",
     "BeerAbv": 4.30,
     "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "62"
   },
   {
     "BID": 4962001,
@@ -87,7 +127,9 @@
     "Origin": "Oslo, Norway",
     "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "95"
   },
   {
     "BID": 4982061,
@@ -97,7 +139,9 @@
     "Origin": "North Bergen, NJ United States",
     "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
     "BID": 9355,
@@ -107,17 +151,9 @@
     "Origin": "North Bergen, NJ United States",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9093,
-    "BeerName": "Garden State Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "New Jersey Beer Company",
-    "Origin": "North Bergen, NJ United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 9063,
@@ -127,7 +163,21 @@
     "Origin": "North Bergen, NJ United States",
     "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 9093,
+    "BeerName": "Garden State Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "New Jersey Beer Company",
+    "Origin": "North Bergen, NJ United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 12855,
@@ -137,7 +187,9 @@
     "Origin": "North Bergen, NJ United States",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 10194,
@@ -147,7 +199,9 @@
     "Origin": "North Bergen, NJ United States",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 3340214,
@@ -157,7 +211,9 @@
     "Origin": "North Bergen, NJ United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4445741,
@@ -167,7 +223,9 @@
     "Origin": "North Bergen, NJ United States",
     "BeerAbv": 6.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4445746,
@@ -177,7 +235,9 @@
     "Origin": "North Bergen, NJ United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445919,
@@ -187,7 +247,9 @@
     "Origin": "North Bergen, NJ United States",
     "BeerAbv": 6.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815252,
@@ -197,7 +259,9 @@
     "Origin": "Tangerang, Banten Indonesia",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 10434,
@@ -207,7 +271,9 @@
     "Origin": "Tangerang, Banten Indonesia",
     "BeerAbv": 4.70,
     "BeerIbu": 8.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "88"
   },
   {
     "BID": 7162,
@@ -217,7 +283,9 @@
     "Origin": "Tangerang, Banten Indonesia",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "42"
   },
   {
     "BID": 12942,
@@ -227,26 +295,8 @@
     "Origin": "Bigfork, MT United States",
     "BeerAbv": 5.10,
     "BeerIbu": 19.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1666679,
-    "BeerName": "Rising Sun Espresso Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Flathead Lake Brewing Company",
-    "Origin": "Bigfork, MT United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 26.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630496,
-    "BeerName": "Fifok",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Ziemia Obiecana",
-    "Origin": "gmina Ksawerów, województwo łódzkie Poland",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   }
 ]

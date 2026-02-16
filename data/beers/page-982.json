@@ -1,5 +1,221 @@
 [
   {
+    "BID": 4979748,
+    "BeerName": "All Fear Altbier",
+    "BeerStyle": "Altbier - Traditional",
+    "BreweryName": "Culmination Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 4981752,
+    "BeerName": "Night Sky Ipa",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Culmination Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1675494,
+    "BeerName": "Pinnacle IPA",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Culmination Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 1668738,
+    "BeerName": "MusDef",
+    "BeerStyle": "Pale Ale - Belgian",
+    "BreweryName": "Culmination Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 1669310,
+    "BeerName": "Stung Mosaic Mead",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Culmination Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.25,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1669931,
+    "BeerName": "Man O' Mandarin",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Culmination Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 1670983,
+    "BeerName": "Sun Rey Strawberry Lime Twist Radler",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Culmination Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "116"
+  },
+  {
+    "BID": 3335389,
+    "BeerName": "Batch #007",
+    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
+    "BreweryName": "G.B.P. Brewery",
+    "Origin": "Netherlands",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3335379,
+    "BeerName": "Batch #006",
+    "BeerStyle": "Homebrew, Pilsner - German",
+    "BreweryName": "G.B.P. Brewery",
+    "Origin": "Netherlands",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1668836,
+    "BeerName": "Tempête Divine",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Brasserie du Bois Blanc",
+    "Origin": "Coteau-du-Lac, QC Canada",
+    "BeerAbv": 8.30,
+    "BeerIbu": 91.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 1668742,
+    "BeerName": "42 & 2",
+    "BeerStyle": "California Common",
+    "BreweryName": "Brasserie du Bois Blanc",
+    "Origin": "Coteau-du-Lac, QC Canada",
+    "BeerAbv": 5.10,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 3335381,
+    "BeerName": "MexicOAT Lager",
+    "BeerStyle": "Lager - IPL (India Pale Lager)",
+    "BreweryName": "Divine Barrel Brewing",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 48.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 3339398,
+    "BeerName": "I’d Like To Meet His Tailor",
+    "BeerStyle": "Porter - English",
+    "BreweryName": "Divine Barrel Brewing",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 1668743,
+    "BeerName": "Summer Break",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Birranova",
+    "Origin": "Triggianello, Puglia Italy",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 1668177,
+    "BeerName": "Живе Жигулівське",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Луцький пивзавод",
+    "Origin": "Luts'k, Volyns'ka oblast Ukraine",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674492,
+    "BeerName": "Zeman Premium",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Луцький пивзавод",
+    "Origin": "Luts'k, Volyns'ka oblast Ukraine",
+    "BeerAbv": 4.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 3335383,
+    "BeerName": "Добрый Финн (Махровый эль Ver.2)",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "GoodFox Brewery",
+    "Origin": "Kirov, Кировская область Russia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1668745,
+    "BeerName": "Weizenbock",
+    "BeerStyle": "Bock - Weizenbock",
+    "BreweryName": "Lambisgóia Mundana",
+    "Origin": "Uberlândia, Minas Gerais Brazil",
+    "BeerAbv": 8.50,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
     "BID": 1671094,
     "BeerName": "Operation: Yoga Pants",
     "BeerStyle": "Gluten-Free",
@@ -7,7 +223,9 @@
     "Origin": "Kansas City, MO United States",
     "BeerAbv": 4.80,
     "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "94"
   },
   {
     "BID": 1672193,
@@ -17,7 +235,9 @@
     "Origin": "Kansas City, MO United States",
     "BeerAbv": 3.90,
     "BeerIbu": 5.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 3335384,
@@ -27,7 +247,9 @@
     "Origin": "Kansas City, MO United States",
     "BeerAbv": 4.70,
     "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
   },
   {
     "BID": 3343310,
@@ -37,7 +259,9 @@
     "Origin": "Kansas City, MO United States",
     "BeerAbv": 4.30,
     "BeerIbu": 8.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
   },
   {
     "BID": 1668747,
@@ -47,7 +271,9 @@
     "Origin": "Corpus Christi, TX United States",
     "BeerAbv": 5.80,
     "BeerIbu": 43.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3335386,
@@ -57,17 +283,9 @@
     "Origin": "Saint-Stanislas, QC Canada",
     "BeerAbv": 6.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3340110,
-    "BeerName": "Monseigneur",
-    "BeerStyle": "IPA - Belgian",
-    "BreweryName": "Le Presbytère",
-    "Origin": "Saint-Stanislas, QC Canada",
-    "BeerAbv": 8.00,
-    "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3338825,
@@ -77,176 +295,8 @@
     "Origin": "Saint-Stanislas, QC Canada",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668748,
-    "BeerName": "Bohemian Rhapsody",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "CAP Brewery",
-    "Origin": "Stockholm, Stockholms län Sweden",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1671691,
-    "BeerName": "Bitang",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Pivovar Hostinec",
-    "Origin": "Slovakia",
-    "BeerAbv": 4.75,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335387,
-    "BeerName": "Štefan",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Pivovar Hostinec",
-    "Origin": "Slovakia",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674898,
-    "BeerName": "Eddy Merckx",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Pivovar Hostinec",
-    "Origin": "Slovakia",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2955,
-    "BeerName": "Revolution Dublin Ale",
-    "BeerStyle": "Red Ale - Irish",
-    "BreweryName": "Augustine Brewery Dublin",
-    "Origin": "Dublin, County Dublin Ireland",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668750,
-    "BeerName": "Good Guys ISA",
-    "BeerStyle": "Homebrew, IPA - Session",
-    "BreweryName": "Grimez BrewHaus",
-    "Origin": "United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 100.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335390,
-    "BeerName": "Strawberry Rhubarb Gose",
-    "BeerStyle": "Homebrew, Sour - Fruited Gose",
-    "BreweryName": "Groff Garage Brewery - GGB",
-    "Origin": "saratoga springs, NY United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 10.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3334187,
-    "BeerName": "Blackshale Rattlejack",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Lincoln Green",
-    "Origin": "Nottingham, Nottinghamshire England",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674425,
-    "BeerName": "Fountain Dale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Lincoln Green",
-    "Origin": "Nottingham, Nottinghamshire England",
-    "BeerAbv": 4.30,
-    "BeerIbu": 35.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338492,
-    "BeerName": "HUSK",
-    "BeerStyle": "Rye Beer",
-    "BreweryName": "Lincoln Green",
-    "Origin": "Nottingham, Nottinghamshire England",
-    "BeerAbv": 4.00,
-    "BeerIbu": 28.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445526,
-    "BeerName": "Malt Star",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Lincoln Green",
-    "Origin": "Nottingham, Nottinghamshire England",
-    "BeerAbv": 3.80,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446995,
-    "BeerName": "Malt Star",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Lincoln Green",
-    "Origin": "Nottingham, Nottinghamshire England",
-    "BeerAbv": 3.80,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446988,
-    "BeerName": "Left Lion",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "Lincoln Green",
-    "Origin": "Nottingham, Nottinghamshire England",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4962125,
-    "BeerName": "DOSCO 5.0% DDH IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Lincoln Green",
-    "Origin": "Nottingham, Nottinghamshire England",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668751,
-    "BeerName": "Bière Ambrée",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "La Bas Varoise",
-    "Origin": "La Cadière-d'Azur, Provence-Alpes-Côte d'Azur France",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668918,
-    "BeerName": "Bière Blanche",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "La Bas Varoise",
-    "Origin": "La Cadière-d'Azur, Provence-Alpes-Côte d'Azur France",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335391,
-    "BeerName": "Hollablüte - Collab 2019",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "WOIF",
-    "Origin": "Seekirchen am Wallersee, Salzburg Austria",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

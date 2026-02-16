@@ -213,7 +213,8 @@
         var breweryHref = 'beers.html?brewery=' + encodeURIComponent(m.BreweryName || '');
         var originText = escapeHtml(m.Origin || m.BreweryLocation || '');
         var styleHref = 'beers.html?style=' + encodeURIComponent(m.BeerStyle || '');
-        return '<tr><td class="beers-col-num">' + rowNum + '</td><td><a href="' + beerLink + '">' + escapeHtml(m.BeerName || '') + '</a></td><td><a href="' + styleHref + '">' + styleText + '</a></td><td><a href="' + breweryHref + '">' + breweryText + '</a></td><td><a href="beers.html">' + originText + '</a></td><td>' + (m.BeerAbv != null && m.BeerAbv !== '' ? m.BeerAbv : '—') + '</td><td>—</td><td>' + (m.HallRating != null && m.HallRating !== '' ? m.HallRating : '—') + '</td></tr>';
+        var stylePlusText = (m.StylePlus != null && m.StylePlus !== '') ? m.StylePlus : '—';
+        return '<tr><td class="beers-col-num">' + rowNum + '</td><td><a href="' + beerLink + '">' + escapeHtml(m.BeerName || '') + '</a></td><td><a href="' + styleHref + '">' + styleText + '</a></td><td><a href="' + breweryHref + '">' + breweryText + '</a></td><td><a href="beers.html">' + originText + '</a></td><td>' + (m.BeerAbv != null && m.BeerAbv !== '' ? m.BeerAbv : '—') + '</td><td>' + stylePlusText + '</td><td>' + (m.HallRating != null && m.HallRating !== '' ? m.HallRating : '—') + '</td></tr>';
       }
 
       function applyFilters(chunk) {
@@ -254,7 +255,7 @@
       function compare(a, b) {
         var va = a[sortKey];
         var vb = b[sortKey];
-        if (sortKey === 'HallRating' || sortKey === 'BeerAbv') {
+        if (sortKey === 'HallRating' || sortKey === 'BeerAbv' || sortKey === 'StylePlus') {
           va = va != null && va !== '' ? parseFloat(va, 10) : -Infinity;
           vb = vb != null && vb !== '' ? parseFloat(vb, 10) : -Infinity;
         } else {
@@ -362,7 +363,6 @@
           sortHeaders.forEach(function (th) {
             th.addEventListener('click', function () {
               var key = this.getAttribute('data-sort');
-              if (key === 'StylePlus') return;
               sortDir = sortKey === key ? -sortDir : 1;
               sortKey = key;
               if (filteredFullList) {
@@ -531,7 +531,7 @@
       '</header>' +
       '<div class="beer-stats">' +
         '<div class="beer-stat"><span class="beer-stat-label">Hall Rating</span><span class="beer-stat-value">' + (bar != null ? bar : '—') + '</span><span class="beer-stat-desc">' + barDesc + '</span></div>' +
-        '<div class="beer-stat"><span class="beer-stat-label">Style+</span><span class="beer-stat-value">' + (styleText || '—') + '</span><span class="beer-stat-desc">' + stylePlusDesc + '</span></div>' +
+        '<div class="beer-stat"><span class="beer-stat-label">Style</span><span class="beer-stat-value">' + (styleText || '—') + '</span><span class="beer-stat-desc">' + stylePlusDesc + '</span></div>' +
         '<div class="beer-stat"><span class="beer-stat-label">ABV</span><span class="beer-stat-value">' + abv + '</span><span class="beer-stat-desc">' + abvDesc + '</span></div>' +
       '</div>'
     );

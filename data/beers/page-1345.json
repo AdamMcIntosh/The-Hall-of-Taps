@@ -1,125 +1,5 @@
 [
   {
-    "BID": 4939293,
-    "BeerName": "Family Time Reserve (2021)",
-    "BeerStyle": "Winter Warmer",
-    "BreweryName": "Single Hill Brewing",
-    "Origin": "Yakima, WA United States",
-    "BeerAbv": 9.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4961548,
-    "BeerName": "Strawberry Lime Radler",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Single Hill Brewing",
-    "Origin": "Yakima, WA United States",
-    "BeerAbv": 3.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960277,
-    "BeerName": "Jones Grapefruit & Blood Orange",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Single Hill Brewing",
-    "Origin": "Yakima, WA United States",
-    "BeerAbv": 3.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980580,
-    "BeerName": "Dorad-O-Rama",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Single Hill Brewing",
-    "Origin": "Yakima, WA United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980589,
-    "BeerName": "Polymorph: Rhino",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Single Hill Brewing",
-    "Origin": "Yakima, WA United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4979918,
-    "BeerName": "Vätterns enkla",
-    "BeerStyle": "Homebrew, Belgian Enkel / Patersbier",
-    "BreweryName": "Gustavs hembryggeri",
-    "Origin": "Jönköping, Jönköpings län Sweden",
-    "BeerAbv": 3.80,
-    "BeerIbu": 13.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981117,
-    "BeerName": "Citrus Got Real",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "SALT",
-    "Origin": "Shipley, West Yorkshire England",
-    "BeerAbv": 4.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4959611,
-    "BeerName": "Loom",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "SALT",
-    "Origin": "Shipley, West Yorkshire England",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4959616,
-    "BeerName": "Hop-A-Salt",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "SALT",
-    "Origin": "Shipley, West Yorkshire England",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342191,
-    "BeerName": "Just Another Dream",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "SALT",
-    "Origin": "Shipley, West Yorkshire England",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939294,
-    "BeerName": "Blackberry Saison",
-    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "Pierce Gambrills Brewing",
-    "Origin": "Gambrills, MD United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 27.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336308,
-    "BeerName": "Stout",
-    "BeerStyle": "Homebrew, Stout - American",
-    "BreweryName": "Pierce Gambrills Brewing",
-    "Origin": "Gambrills, MD United States",
-    "BeerAbv": 7.40,
-    "BeerIbu": 56.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 4982137,
     "BeerName": "Cellar Door",
     "BeerStyle": "Homebrew, Other",
@@ -127,27 +7,9 @@
     "Origin": "Russia",
     "BeerAbv": 7.00,
     "BeerIbu": 23.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4979919,
-    "BeerName": "Sheep Honey Balls",
-    "BeerStyle": "Homebrew, Mead - Melomel",
-    "BreweryName": "REDHILL Homebrewery",
-    "Origin": "Russia",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4979932,
-    "BeerName": "КРИК",
-    "BeerStyle": "Homebrew, Lambic - Fruit",
-    "BreweryName": "REDHILL Homebrewery",
-    "Origin": "Russia",
-    "BeerAbv": 6.00,
-    "BeerIbu": 12.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4939295,
@@ -157,7 +19,9 @@
     "Origin": "Sorel-Tracy, QC Canada",
     "BeerAbv": 4.90,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3334038,
@@ -167,7 +31,9 @@
     "Origin": "Norway",
     "BeerAbv": 6.30,
     "BeerIbu": 43.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1666846,
@@ -177,7 +43,9 @@
     "Origin": "Milwaukee, WI United States",
     "BeerAbv": 4.80,
     "BeerIbu": 22.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1666865,
@@ -187,7 +55,9 @@
     "Origin": "Milwaukee, WI United States",
     "BeerAbv": 7.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "116"
   },
   {
     "BID": 1666896,
@@ -197,7 +67,9 @@
     "Origin": "Milwaukee, WI United States",
     "BeerAbv": 6.50,
     "BeerIbu": 58.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4959614,
@@ -207,7 +79,9 @@
     "Origin": "Middletown, DE United States",
     "BeerAbv": 4.50,
     "BeerIbu": 8.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 4980444,
@@ -217,7 +91,33 @@
     "Origin": "Middletown, DE United States",
     "BeerAbv": 5.00,
     "BeerIbu": 23.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 4979921,
+    "BeerName": "High Five 5th Birthday Beer",
+    "BeerStyle": "Pale Ale - New England / Hazy",
+    "BreweryName": "Leigh On Sea Brewery",
+    "Origin": "Leigh on Sea, Southend-on-Sea England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4979923,
+    "BeerName": "Hare of the Dog (5th Birthday Beer With Neil Fendell)",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Leigh On Sea Brewery",
+    "Origin": "Leigh on Sea, Southend-on-Sea England",
+    "BeerAbv": 3.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4979925,
@@ -227,7 +127,9 @@
     "Origin": "Leigh on Sea, Southend-on-Sea England",
     "BeerAbv": 7.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 4979926,
@@ -237,7 +139,9 @@
     "Origin": "Leigh on Sea, Southend-on-Sea England",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 4979927,
@@ -247,6 +151,152 @@
     "Origin": "Leigh on Sea, Southend-on-Sea England",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 4939296,
+    "BeerName": "Krispy Treats",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Stubborn German Brewing Company",
+    "Origin": "Waterloo, IL United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 1670527,
+    "BeerName": "Midnight Rye IPA",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Stubborn German Brewing Company",
+    "Origin": "Waterloo, IL United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1672907,
+    "BeerName": "Lemon-Lime IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Stubborn German Brewing Company",
+    "Origin": "Waterloo, IL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3336368,
+    "BeerName": "Ohana Friendship Porter With Macadamia Nut",
+    "BeerStyle": "Porter - Coffee",
+    "BreweryName": "Stubborn German Brewing Company",
+    "Origin": "Waterloo, IL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4959615,
+    "BeerName": "Princesse",
+    "BeerStyle": "Homebrew, Historical Beer - Other",
+    "BreweryName": "Brouwerij Johannes Westkapelle",
+    "Origin": "Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4959620,
+    "BeerName": "Scotch Ale",
+    "BeerStyle": "Homebrew, Scottish Ale",
+    "BreweryName": "Brouwerij Johannes Westkapelle",
+    "Origin": "Netherlands",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4979922,
+    "BeerName": "Red Currant Barley Wine Jägermeister BA",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Doctor Brew",
+    "Origin": "Wrocław, Lower Silesian Voivodeship Poland",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3343971,
+    "BeerName": "Rispberry 24 Amarone BA",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Doctor Brew",
+    "Origin": "Wrocław, Lower Silesian Voivodeship Poland",
+    "BeerAbv": 10.50,
+    "BeerIbu": 85.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674685,
+    "BeerName": "Barley Wine",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Doctor Brew",
+    "Origin": "Wrocław, Lower Silesian Voivodeship Poland",
+    "BeerAbv": 10.50,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4959617,
+    "BeerName": "Paprsek 9,8",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Pivovar Zábřeh",
+    "Origin": "Zábřeh, Olomoucký kraj Czech Republic",
+    "BeerAbv": 3.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4979924,
+    "BeerName": "Bono Biere Blanche-Charly",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Ebene Beers - BONO",
+    "Origin": "Belgium",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 4939300,
+    "BeerName": "Black Lager",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Roslyn Brewing Company",
+    "Origin": "Roslyn, WA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

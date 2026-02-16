@@ -1,115 +1,5 @@
 [
   {
-    "BID": 3336187,
-    "BeerName": "Sgt. Shultz Vienna Lager",
-    "BeerStyle": "Homebrew, Lager - Vienna",
-    "BreweryName": "Boeringer Brewery",
-    "Origin": "United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 29.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3890906,
-    "BeerName": "Bolten Klosterbräu Dunkel",
-    "BeerStyle": "Dark Ale",
-    "BreweryName": "Privatbrauerei Bolten",
-    "Origin": "Korschenbroich, Nordrhein-Westfalen Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4940870,
-    "BeerName": "Elten Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Privatbrauerei Bolten",
-    "Origin": "Korschenbroich, Nordrhein-Westfalen Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8466,
-    "BeerName": "Boltens Landbier",
-    "BeerStyle": "Kellerbier / Zwickelbier",
-    "BreweryName": "Privatbrauerei Bolten",
-    "Origin": "Korschenbroich, Nordrhein-Westfalen Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4941368,
-    "BeerName": "Beach Cat Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Back Forty Beer Company",
-    "Origin": "Gadsden, AL United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341870,
-    "BeerName": "G-Daddy",
-    "BeerStyle": "Pale Ale - New Zealand",
-    "BreweryName": "Back Forty Beer Company",
-    "Origin": "Gadsden, AL United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336167,
-    "BeerName": "Tears of Joy IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Back Forty Beer Company",
-    "Origin": "Gadsden, AL United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 63.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3890908,
-    "BeerName": "Akkerdriezer IPA",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Brouwerij 't Schuurtje",
-    "Origin": "Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 61.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336168,
-    "BeerName": "Milk Man NE IPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Koi Pond Brewing Company",
-    "Origin": "Rocky Mount, NC United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445690,
-    "BeerName": "Amarillo IPL",
-    "BeerStyle": "Lager - IPL (India Pale Lager)",
-    "BreweryName": "Riggs Beer Company",
-    "Origin": "Urbana, IL United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 54.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3890909,
-    "BeerName": "Piña Colada Homebrew",
-    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
-    "BreweryName": "Scott Campbell",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 3890913,
     "BeerName": "Blueberry Hefenweisen",
     "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
@@ -117,7 +7,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3336169,
@@ -127,7 +19,9 @@
     "Origin": "United States",
     "BeerAbv": 5.90,
     "BeerIbu": 39.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445691,
@@ -137,7 +31,9 @@
     "Origin": "Quebec, QC Canada",
     "BeerAbv": 4.00,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   },
   {
     "BID": 3890910,
@@ -147,27 +43,9 @@
     "Origin": "Provincetown, MA United States",
     "BeerAbv": 6.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341009,
-    "BeerName": "Bat Shit Cray Cray",
-    "BeerStyle": "Mild - Other",
-    "BreweryName": "Manchester Brewing Company",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939587,
-    "BeerName": "Hello Sunshine",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Manchester Brewing Company",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
   },
   {
     "BID": 3335908,
@@ -177,7 +55,21 @@
     "Origin": "Manchester, Greater Manchester England",
     "BeerAbv": 4.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
+  },
+  {
+    "BID": 3341009,
+    "BeerName": "Bat Shit Cray Cray",
+    "BeerStyle": "Mild - Other",
+    "BreweryName": "Manchester Brewing Company",
+    "Origin": "Manchester, Greater Manchester England",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 1666676,
@@ -187,7 +79,21 @@
     "Origin": "Manchester, Greater Manchester England",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 4939587,
+    "BeerName": "Hello Sunshine",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "Manchester Brewing Company",
+    "Origin": "Manchester, Greater Manchester England",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
     "BID": 3336171,
@@ -197,7 +103,9 @@
     "Origin": "Charleston, SC United States",
     "BeerAbv": 6.10,
     "BeerIbu": 75.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 3890911,
@@ -207,7 +115,9 @@
     "Origin": "Helsinki, Uusimaa Finland",
     "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "88"
   },
   {
     "BID": 3336172,
@@ -217,7 +127,9 @@
     "Origin": "Sidney, MT United States",
     "BeerAbv": 6.30,
     "BeerIbu": 23.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3890912,
@@ -227,7 +139,9 @@
     "Origin": "Switzerland",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3336174,
@@ -237,7 +151,9 @@
     "Origin": "Quakertown, PA United States",
     "BeerAbv": 6.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 3890914,
@@ -247,6 +163,140 @@
     "Origin": "Zeist, Utrecht Netherlands",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4445698,
+    "BeerName": "Ho-ho-ho Juleøl",
+    "BeerStyle": "IPA - Red",
+    "BreweryName": "Børgefjell Bryggeri",
+    "Origin": "Norway",
+    "BeerAbv": 6.00,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3890915,
+    "BeerName": "Geiersberg IPA COVID-19 Brew",
+    "BeerStyle": "Homebrew, IPA - Other",
+    "BreweryName": "Sam Hick Homebrew",
+    "Origin": "Wetzlar, Hessen Germany",
+    "BeerAbv": 5.80,
+    "BeerIbu": 58.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4445699,
+    "BeerName": "The \"Sophia\" Sour",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Happy Trails Brewing Co.",
+    "Origin": "Sparta, TN United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 5.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4630745,
+    "BeerName": "The Train Station Sour",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Happy Trails Brewing Co.",
+    "Origin": "Sparta, TN United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 5.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3890916,
+    "BeerName": "Into the Everblack Vanilla Slushy",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Magic City Brewing Company",
+    "Origin": "Akron, OH United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 68.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3340501,
+    "BeerName": "OG Barber",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Magic City Brewing Company",
+    "Origin": "Akron, OH United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3333344,
+    "BeerName": "Norse Thor's Well",
+    "BeerStyle": "IPA - Farmhouse",
+    "BreweryName": "Yachats Brewing",
+    "Origin": "Yachats, OR United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 4445494,
+    "BeerName": "Golden On Strawberries",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Yachats Brewing",
+    "Origin": "Yachats, OR United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 4445489,
+    "BeerName": "Sea Star Sour",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Yachats Brewing",
+    "Origin": "Yachats, OR United States",
+    "BeerAbv": 3.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 1669102,
+    "BeerName": "Tears of the Innocent",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Yachats Brewing",
+    "Origin": "Yachats, OR United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 1674907,
+    "BeerName": "Plum Loyal",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Yachats Brewing",
+    "Origin": "Yachats, OR United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   }
 ]

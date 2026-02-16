@@ -1,95 +1,5 @@
 [
   {
-    "BID": 3339743,
-    "BeerName": "Short Stack",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Pig Minds Brewing Co.",
-    "Origin": "Machesney Park, IL United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339751,
-    "BeerName": "Pua’a Punch",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Pig Minds Brewing Co.",
-    "Origin": "Machesney Park, IL United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339744,
-    "BeerName": "Effin Lite",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Effin Beauty",
-    "Origin": "Bellmore, NY United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672445,
-    "BeerName": "Hop Skip and Jump",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "The Whole Hop Brewery",
-    "Origin": "Hertford, Hertfordshire England",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 14653,
-    "BeerName": "Undertaker",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Wincle Beer Co.",
-    "Origin": "Wincle, Cheshire East England",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339748,
-    "BeerName": "Apollo 19",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Wincle Beer Co.",
-    "Origin": "Wincle, Cheshire East England",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672446,
-    "BeerName": "Belgian Wit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "The Brew Pub Sarajevo",
-    "Origin": "Sarajevo, Federacija Bosne i Hercegovine Bosnia and Herzegovina",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674977,
-    "BeerName": "S-Hefe W",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "The Brew Pub Sarajevo",
-    "Origin": "Sarajevo, Federacija Bosne i Hercegovine Bosnia and Herzegovina",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339750,
-    "BeerName": "Shadow Tag",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Street Parking Brewery",
-    "Origin": "Simpsonville, SC United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 70.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 1672448,
     "BeerName": "Jodi",
     "BeerStyle": "Homebrew, Blonde Ale",
@@ -97,7 +7,9 @@
     "Origin": "United States",
     "BeerAbv": 4.20,
     "BeerIbu": 20.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672449,
@@ -107,7 +19,9 @@
     "Origin": "United States",
     "BeerAbv": 5.00,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1667216,
@@ -117,7 +31,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3339752,
@@ -127,7 +43,9 @@
     "Origin": "Canada",
     "BeerAbv": 6.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3340253,
@@ -137,7 +55,9 @@
     "Origin": "Canada",
     "BeerAbv": 5.50,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672450,
@@ -147,7 +67,9 @@
     "Origin": "Wu Han Shi, Hu Bei Sheng China / People's Republic of China",
     "BeerAbv": 6.20,
     "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3339754,
@@ -157,7 +79,9 @@
     "Origin": "Mobile, AL United States",
     "BeerAbv": 8.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "76"
   },
   {
     "BID": 1672453,
@@ -167,17 +91,9 @@
     "Origin": "Fontanelle, Abruzzo Italy",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339769,
-    "BeerName": "The Bru-Team",
-    "BeerStyle": "IPA - Brut",
-    "BreweryName": "Bryggverket",
-    "Origin": "Umeå, Västerbottens län Sweden",
-    "BeerAbv": 7.50,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   },
   {
     "BID": 3339756,
@@ -187,7 +103,21 @@
     "Origin": "Umeå, Västerbottens län Sweden",
     "BeerAbv": 7.50,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 3339769,
+    "BeerName": "The Bru-Team",
+    "BeerStyle": "IPA - Brut",
+    "BreweryName": "Bryggverket",
+    "Origin": "Umeå, Västerbottens län Sweden",
+    "BeerAbv": 7.50,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
     "BID": 1672454,
@@ -197,7 +127,9 @@
     "Origin": "Little Rock, AR United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 3339757,
@@ -207,7 +139,9 @@
     "Origin": "Wilmington, NC United States",
     "BeerAbv": 8.50,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 3342826,
@@ -217,7 +151,9 @@
     "Origin": "Wilmington, NC United States",
     "BeerAbv": 5.40,
     "BeerIbu": 37.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672456,
@@ -227,7 +163,9 @@
     "Origin": "Belgium",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 3339758,
@@ -237,7 +175,9 @@
     "Origin": "Cork, County Cork Ireland",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 3339759,
@@ -247,6 +187,116 @@
     "Origin": "Pasadena, NL Canada",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 3340186,
+    "BeerName": "Paradise Beach Lager",
+    "BeerStyle": "Lager - American Amber / Red",
+    "BreweryName": "Western Newfoundland Brewing Co.",
+    "Origin": "Pasadena, NL Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3333873,
+    "BeerName": "La Estiva",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Lyon",
+    "Origin": "Valeggio sul Mincio, Veneto Italy",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
+  },
+  {
+    "BID": 8350,
+    "BeerName": "Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Kind Beers",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 62.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 1672459,
+    "BeerName": "Red Wine Barrel Aged Imperial Brown Ale",
+    "BeerStyle": "Brown Ale - Imperial / Double",
+    "BreweryName": "Grapevine Craft Brewery",
+    "Origin": "Grapevine, TX United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 1672946,
+    "BeerName": "Mango Brett",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Flat Tail Brewing",
+    "Origin": "Corvallis, OR United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "75"
+  },
+  {
+    "BID": 3339762,
+    "BeerName": "Spud Gun - Same Day IPA #6",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Flat Tail Brewing",
+    "Origin": "Corvallis, OR United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1672464,
+    "BeerName": "64-Bit Wit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Saint Joseph Brewery",
+    "Origin": "Indianapolis, IN United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 3339765,
+    "BeerName": "NE IPA",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Cervejaria Tupiniquim",
+    "Origin": "Porto Alegre, Rio Grande do Sul Brazil",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "76"
+  },
+  {
+    "BID": 3339766,
+    "BeerName": "Ginger Lime Tumeric",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Trinity Cider",
+    "Origin": "Dallas, TX United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   }
 ]

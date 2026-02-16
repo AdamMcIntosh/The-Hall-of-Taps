@@ -1,5 +1,89 @@
 [
   {
+    "BID": 1675247,
+    "BeerName": "GNP Barriquee",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Les Bières du Grand St. Bernard",
+    "Origin": "Gignod, Valle d'Aosta Italy",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4940405,
+    "BeerName": "Summer Wheat Ale",
+    "BeerStyle": "Wheat Beer - Other",
+    "BreweryName": "Salty Bear Brewing Co.",
+    "Origin": "Costa Mesa, CA United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4940383,
+    "BeerName": "Back Yard Pounder",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Salty Bear Brewing Co.",
+    "Origin": "Costa Mesa, CA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 4940388,
+    "BeerName": "Tropical Punch Hard Seltzer",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Salty Bear Brewing Co.",
+    "Origin": "Costa Mesa, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4960725,
+    "BeerName": "New Dawn",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "Cabin Brewing Co.",
+    "Origin": "Calgary, AB Canada",
+    "BeerAbv": 4.50,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 3337007,
+    "BeerName": "Forager",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Cabin Brewing Co.",
+    "Origin": "Calgary, AB Canada",
+    "BeerAbv": 5.50,
+    "BeerIbu": 14.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3344487,
+    "BeerName": "Forager",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Cabin Brewing Co.",
+    "Origin": "Calgary, AB Canada",
+    "BeerAbv": 5.50,
+    "BeerIbu": 14.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
     "BID": 3337191,
     "BeerName": "Take Me Cherry, Grab My Wits And Make Me Plum",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
@@ -7,7 +91,9 @@
     "Origin": "Port Jefferson Station, NY United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4940385,
@@ -17,17 +103,45 @@
     "Origin": "Port Jefferson Station, NY United States",
     "BeerAbv": 6.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "113"
   },
   {
-    "BID": 4981065,
-    "BeerName": "PIER JUICE",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Ink Factory Brewing",
-    "Origin": "Jacksonville Beach, FL United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "BID": 4981880,
+    "BeerName": "Foggy Mentality",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Po'Boy Brewery",
+    "Origin": "Port Jefferson Station, NY United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4981908,
+    "BeerName": "Chanana",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Po'Boy Brewery",
+    "Origin": "Port Jefferson Station, NY United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4981909,
+    "BeerName": "Madame Du POG - IPA",
+    "BeerStyle": "IPA - Sour",
+    "BreweryName": "Po'Boy Brewery",
+    "Origin": "Port Jefferson Station, NY United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4981062,
@@ -37,7 +151,21 @@
     "Origin": "Jacksonville Beach, FL United States",
     "BeerAbv": 7.00,
     "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4981065,
+    "BeerName": "PIER JUICE",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Ink Factory Brewing",
+    "Origin": "Jacksonville Beach, FL United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4961145,
@@ -47,7 +175,9 @@
     "Origin": "Jacksonville Beach, FL United States",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4960726,
@@ -57,7 +187,9 @@
     "Origin": "Switzerland",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3333596,
@@ -67,7 +199,9 @@
     "Origin": "Ciudad de México, Mexico",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4981063,
@@ -77,17 +211,9 @@
     "Origin": "Plant City, FL United States",
     "BeerAbv": 5.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1669333,
-    "BeerName": "Experiment #23: Bourbon Barrel Aged Sweet Traditional",
-    "BeerStyle": "Mead - Traditional",
-    "BreweryName": "Sap House Meadery",
-    "Origin": "Center Ossipee, NH United States",
-    "BeerAbv": 15.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
     "BID": 4940387,
@@ -97,7 +223,21 @@
     "Origin": "Center Ossipee, NH United States",
     "BeerAbv": 15.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 1669333,
+    "BeerName": "Experiment #23: Bourbon Barrel Aged Sweet Traditional",
+    "BeerStyle": "Mead - Traditional",
+    "BreweryName": "Sap House Meadery",
+    "Origin": "Center Ossipee, NH United States",
+    "BeerAbv": 15.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4960727,
@@ -107,7 +247,9 @@
     "Origin": "Sarandí, Provincia de Buenos Aires Argentina",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4960729,
@@ -117,7 +259,9 @@
     "Origin": "Trondheimsveien, Oslo Norway",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "81"
   },
   {
     "BID": 7748,
@@ -127,7 +271,9 @@
     "Origin": "Trondheimsveien, Oslo Norway",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4981066,
@@ -137,7 +283,9 @@
     "Origin": "Shizuoka, Japan",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4940390,
@@ -147,106 +295,8 @@
     "Origin": "England",
     "BeerAbv": 4.60,
     "BeerIbu": 16.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672661,
-    "BeerName": "Coffee & Vanilla Porter",
-    "BeerStyle": "Homebrew, Porter - English",
-    "BreweryName": "Crackpot Brewing",
-    "Origin": "England",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960731,
-    "BeerName": "Blueberry Lemon Wheat",
-    "BeerStyle": "Wheat Beer - Other",
-    "BreweryName": "Spahr Brewing Company",
-    "Origin": "Pensacola, FL United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 9.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674990,
-    "BeerName": "New Wave",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Halo Brewery",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 6.70,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1676781,
-    "BeerName": "Radio Silence",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Halo Brewery",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 61.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4940392,
-    "BeerName": "Interrobang",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Halo Brewery",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4940393,
-    "BeerName": "Interrobang",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Halo Brewery",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339503,
-    "BeerName": "Cherry Shapeshifter",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Halo Brewery",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981070,
-    "BeerName": "Lost In the Fog",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Second Pitch Beer Company",
-    "Origin": "San Antonio, TX United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 15.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981681,
-    "BeerName": "Hann's American Light Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Swing Barrel Brewing Co.",
-    "Origin": "Moorhead, MN United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 9.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960733,
-    "BeerName": "Rolling Melons",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Swing Barrel Brewing Co.",
-    "Origin": "Moorhead, MN United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

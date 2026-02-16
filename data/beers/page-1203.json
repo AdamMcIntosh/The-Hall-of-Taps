@@ -1,23 +1,15 @@
 [
   {
-    "BID": 4941045,
-    "BeerName": "Twarde Kryteria",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Ziemia Obiecana",
-    "Origin": "gmina Ksawerów, województwo łódzkie Poland",
+    "BID": 1666679,
+    "BeerName": "Rising Sun Espresso Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Flathead Lake Brewing Company",
+    "Origin": "Bigfork, MT United States",
     "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939674,
-    "BeerName": "Głupotki",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Ziemia Obiecana",
-    "Origin": "gmina Ksawerów, województwo łódzkie Poland",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "BeerIbu": 26.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4816649,
@@ -27,7 +19,21 @@
     "Origin": "gmina Ksawerów, województwo łódzkie Poland",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4630496,
+    "BeerName": "Fifok",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Ziemia Obiecana",
+    "Origin": "gmina Ksawerów, województwo łódzkie Poland",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3336818,
@@ -37,7 +43,9 @@
     "Origin": "gmina Ksawerów, województwo łódzkie Poland",
     "BeerAbv": 4.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 3336813,
@@ -47,7 +55,9 @@
     "Origin": "gmina Ksawerów, województwo łódzkie Poland",
     "BeerAbv": 5.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4962075,
@@ -57,7 +67,33 @@
     "Origin": "gmina Ksawerów, województwo łódzkie Poland",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 4939674,
+    "BeerName": "Głupotki",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Ziemia Obiecana",
+    "Origin": "gmina Ksawerów, województwo łódzkie Poland",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4941045,
+    "BeerName": "Twarde Kryteria",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Ziemia Obiecana",
+    "Origin": "gmina Ksawerów, województwo łódzkie Poland",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4445742,
@@ -67,7 +103,9 @@
     "Origin": "Hill City, SD United States",
     "BeerAbv": 5.30,
     "BeerIbu": 20.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445763,
@@ -77,7 +115,9 @@
     "Origin": "Hill City, SD United States",
     "BeerAbv": 5.30,
     "BeerIbu": 20.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445814,
@@ -87,27 +127,9 @@
     "Origin": "Hill City, SD United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1671159,
-    "BeerName": "Wild Ride",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Sick N Twisted Brewing",
-    "Origin": "Hill City, SD United States",
-    "BeerAbv": 6.03,
-    "BeerIbu": 12.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1671969,
-    "BeerName": "Aces & Eights",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Sick N Twisted Brewing",
-    "Origin": "Hill City, SD United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 1672767,
@@ -117,7 +139,33 @@
     "Origin": "Hill City, SD United States",
     "BeerAbv": 4.70,
     "BeerIbu": 55.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 1671969,
+    "BeerName": "Aces & Eights",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Sick N Twisted Brewing",
+    "Origin": "Hill City, SD United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
+  },
+  {
+    "BID": 1671159,
+    "BeerName": "Wild Ride",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Sick N Twisted Brewing",
+    "Origin": "Hill City, SD United States",
+    "BeerAbv": 6.03,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 4815253,
@@ -127,7 +175,9 @@
     "Origin": "Gurugram, Haryana India",
     "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 4630497,
@@ -137,7 +187,9 @@
     "Origin": "Denver, CO United States",
     "BeerAbv": 15.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4878040,
@@ -147,7 +199,9 @@
     "Origin": "Denver, CO United States",
     "BeerAbv": 8.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 4445743,
@@ -157,7 +211,9 @@
     "Origin": "Buenos Aires, Ciudad Autónoma de Buenos Aires Argentina",
     "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630498,
@@ -167,7 +223,9 @@
     "Origin": "Basel, Basel-Stadt Switzerland",
     "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815255,
@@ -177,7 +235,9 @@
     "Origin": "Spain",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4815256,
@@ -187,7 +247,9 @@
     "Origin": "Netherlands",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445747,
@@ -197,7 +259,9 @@
     "Origin": "Stow, OH United States",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3337600,
@@ -207,7 +271,9 @@
     "Origin": "Stow, OH United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815257,
@@ -217,7 +283,9 @@
     "Origin": "Sady, Województwo wielkopolskie Poland",
     "BeerAbv": 4.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
     "BID": 4816486,
@@ -227,26 +295,8 @@
     "Origin": "Sady, Województwo wielkopolskie Poland",
     "BeerAbv": 4.90,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815604,
-    "BeerName": "Hops For Humanity Oat Cream Pale",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Three Heads Brewing",
-    "Origin": "Rochester, NY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 17.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815641,
-    "BeerName": "Blueberry Banana Smoothie Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Three Heads Brewing",
-    "Origin": "Rochester, NY United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 8.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   }
 ]

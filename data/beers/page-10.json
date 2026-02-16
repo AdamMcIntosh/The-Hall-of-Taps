@@ -1,5 +1,77 @@
 [
   {
+    "BID": 1022,
+    "BeerName": "Special Extra Export Stout",
+    "BeerStyle": "Stout - Foreign / Export",
+    "BreweryName": "Brouwerij De Dolle Brouwers",
+    "Origin": "Diksmuide, Vlaams Gewest Belgium",
+    "BeerAbv": 9.00,
+    "BeerIbu": 50.00,
+    "HallRating": 15.98,
+    "BAR": 10.51,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 10139,
+    "BeerName": "LARRY Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Wachusett Brewing Company",
+    "Origin": "Westminster, MA United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 85.00,
+    "HallRating": 15.97,
+    "BAR": 10.50,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 11508,
+    "BeerName": "Bière de Mars",
+    "BeerStyle": "Farmhouse Ale - Bière de Mars",
+    "BreweryName": "Jolly Pumpkin Artisan Ales",
+    "Origin": "Dexter, MI United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 30.00,
+    "HallRating": 15.97,
+    "BAR": 10.48,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 10257,
+    "BeerName": "Black Betty Imperial Stout",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Nebraska Brewing Company",
+    "Origin": "La Vista, NE United States",
+    "BeerAbv": 10.60,
+    "BeerIbu": 67.00,
+    "HallRating": 15.95,
+    "BAR": 10.47,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 11777,
+    "BeerName": "Railhead Red",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "LumberYard Brewing Company",
+    "Origin": "Flagstaff, AZ United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 50.00,
+    "HallRating": 15.95,
+    "BAR": 10.46,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 11570,
+    "BeerName": "Railhead Red",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "LumberYard Brewing Company",
+    "Origin": "Flagstaff, AZ United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 50.00,
+    "HallRating": 15.95,
+    "BAR": 10.46,
+    "StylePlus": "115"
+  },
+  {
     "BID": 11748,
     "BeerName": "DIPA",
     "BeerStyle": "IPA - Imperial / Double",
@@ -7,7 +79,9 @@
     "Origin": "Goes, Zeeland Netherlands",
     "BeerAbv": 7.90,
     "BeerIbu": 65.00,
-    "HallRating": 15.94
+    "HallRating": 15.94,
+    "BAR": 10.45,
+    "StylePlus": "101"
   },
   {
     "BID": 10647,
@@ -17,7 +91,9 @@
     "Origin": "Kelliebank, Clackmannanshire Scotland",
     "BeerAbv": 5.10,
     "BeerIbu": 30.00,
-    "HallRating": 15.92
+    "HallRating": 15.92,
+    "BAR": 10.42,
+    "StylePlus": "115"
   },
   {
     "BID": 11974,
@@ -27,7 +103,9 @@
     "Origin": "Thành phố Huế, Vietnam",
     "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "HallRating": 15.91
+    "HallRating": 15.91,
+    "BAR": 10.41,
+    "StylePlus": "98"
   },
   {
     "BID": 10200,
@@ -37,7 +115,9 @@
     "Origin": "Placentia, CA United States",
     "BeerAbv": 19.50,
     "BeerIbu": 0.00,
-    "HallRating": 15.91
+    "HallRating": 15.91,
+    "BAR": 10.41,
+    "StylePlus": "100"
   },
   {
     "BID": 10907,
@@ -47,7 +127,9 @@
     "Origin": "Drammen, Buskerud Norway",
     "BeerAbv": 10.20,
     "BeerIbu": 65.00,
-    "HallRating": 15.91
+    "HallRating": 15.91,
+    "BAR": 10.40,
+    "StylePlus": "100"
   },
   {
     "BID": 11793,
@@ -57,7 +139,9 @@
     "Origin": "Denver, CO United States",
     "BeerAbv": 12.50,
     "BeerIbu": 75.00,
-    "HallRating": 15.90
+    "HallRating": 15.90,
+    "BAR": 10.40,
+    "StylePlus": "100"
   },
   {
     "BID": 11300,
@@ -67,7 +151,9 @@
     "Origin": "South Burlington, VT United States",
     "BeerAbv": 5.00,
     "BeerIbu": 30.00,
-    "HallRating": 15.88
+    "HallRating": 15.88,
+    "BAR": 10.37,
+    "StylePlus": "98"
   },
   {
     "BID": 11389,
@@ -77,7 +163,9 @@
     "Origin": "Amherst, WI United States",
     "BeerAbv": 7.10,
     "BeerIbu": 42.00,
-    "HallRating": 15.88
+    "HallRating": 15.88,
+    "BAR": 10.37,
+    "StylePlus": "104"
   },
   {
     "BID": 12465,
@@ -87,7 +175,9 @@
     "Origin": "Péruwelz, Région Wallonne Belgium",
     "BeerAbv": 9.00,
     "BeerIbu": 23.00,
-    "HallRating": 15.86
+    "HallRating": 15.86,
+    "BAR": 10.34,
+    "StylePlus": "114"
   },
   {
     "BID": 10078,
@@ -97,7 +187,9 @@
     "Origin": "Middlebury, VT United States",
     "BeerAbv": 5.40,
     "BeerIbu": 32.00,
-    "HallRating": 15.83
+    "HallRating": 15.83,
+    "BAR": 10.30,
+    "StylePlus": "104"
   },
   {
     "BID": 1206,
@@ -107,7 +199,9 @@
     "Origin": "Oakville, ON Canada",
     "BeerAbv": 5.00,
     "BeerIbu": 30.00,
-    "HallRating": 15.83
+    "HallRating": 15.83,
+    "BAR": 10.30,
+    "StylePlus": "115"
   },
   {
     "BID": 10640,
@@ -117,7 +211,9 @@
     "Origin": "Portland, OR United States",
     "BeerAbv": 8.20,
     "BeerIbu": 103.00,
-    "HallRating": 15.82
+    "HallRating": 15.82,
+    "BAR": 10.28,
+    "StylePlus": "101"
   },
   {
     "BID": 11270,
@@ -127,7 +223,9 @@
     "Origin": "Longmont, CO United States",
     "BeerAbv": 8.80,
     "BeerIbu": 50.00,
-    "HallRating": 15.82
+    "HallRating": 15.82,
+    "BAR": 10.27,
+    "StylePlus": "103"
   },
   {
     "BID": 11002,
@@ -137,7 +235,9 @@
     "Origin": "Newport, OR United States",
     "BeerAbv": 6.20,
     "BeerIbu": 80.00,
-    "HallRating": 15.82
+    "HallRating": 15.82,
+    "BAR": 10.28,
+    "StylePlus": "115"
   },
   {
     "BID": 11778,
@@ -147,7 +247,9 @@
     "Origin": "Blanco, TX United States",
     "BeerAbv": 5.40,
     "BeerIbu": 30.00,
-    "HallRating": 15.82
+    "HallRating": 15.82,
+    "BAR": 10.28,
+    "StylePlus": "108"
   },
   {
     "BID": 10652,
@@ -157,7 +259,9 @@
     "Origin": "Greenville, SC United States",
     "BeerAbv": 12.50,
     "BeerIbu": 143.00,
-    "HallRating": 15.81
+    "HallRating": 15.81,
+    "BAR": 10.26,
+    "StylePlus": "101"
   },
   {
     "BID": 10851,
@@ -167,7 +271,9 @@
     "Origin": "Sacramento, CA United States",
     "BeerAbv": 5.40,
     "BeerIbu": 45.00,
-    "HallRating": 15.81
+    "HallRating": 15.81,
+    "BAR": 10.27,
+    "StylePlus": "110"
   },
   {
     "BID": 11772,
@@ -177,7 +283,9 @@
     "Origin": "Portland, OR United States",
     "BeerAbv": 10.30,
     "BeerIbu": 0.00,
-    "HallRating": 15.80
+    "HallRating": 15.80,
+    "BAR": 10.25,
+    "StylePlus": "103"
   },
   {
     "BID": 12072,
@@ -187,66 +295,8 @@
     "Origin": "Carlsbad, CA United States",
     "BeerAbv": 6.00,
     "BeerIbu": 58.00,
-    "HallRating": 15.78
-  },
-  {
-    "BID": 12616,
-    "BeerName": "Cape Cod Red",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Cape Cod Beer",
-    "Origin": "Hyannis, MA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 42.00,
-    "HallRating": 15.78
-  },
-  {
-    "BID": 10458,
-    "BeerName": "Braumeister Pils",
-    "BeerStyle": "Kellerbier / Zwickelbier - Kellerpils",
-    "BreweryName": "Victory Brewing Company",
-    "Origin": "Downingtown, PA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 15.78
-  },
-  {
-    "BID": 10327,
-    "BeerName": "Hop Rocket",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Arcadia Brewing Co.",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 75.00,
-    "HallRating": 15.78
-  },
-  {
-    "BID": 12210,
-    "BeerName": "Citra Single Hop Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 65.00,
-    "HallRating": 15.75
-  },
-  {
-    "BID": 10062,
-    "BeerName": "New World Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Avery Brewing Co.",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 48.00,
-    "HallRating": 15.74
-  },
-  {
-    "BID": 10856,
-    "BeerName": "Rising Sun Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Baird Brewing Company",
-    "Origin": "Izu, Shizuoka Japan",
-    "BeerAbv": 5.50,
-    "BeerIbu": 34.00,
-    "HallRating": 15.73
+    "HallRating": 15.78,
+    "BAR": 10.23,
+    "StylePlus": "115"
   }
 ]

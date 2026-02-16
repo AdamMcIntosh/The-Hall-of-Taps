@@ -1,25 +1,5 @@
 [
   {
-    "BID": 11144,
-    "BeerName": "Phantom Limb Raspberry Stout",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Catawba Brewing Co.",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": -58.70
-  },
-  {
-    "BID": 10767,
-    "BeerName": "Kyoho Ruby Ale (巨峰ルビーエール)",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Sankt Gallen Brewery",
-    "Origin": "Atsugi-shi, Kanagawa Japan",
-    "BeerAbv": 5.00,
-    "BeerIbu": 19.00,
-    "HallRating": -58.70
-  },
-  {
     "BID": 10108,
     "BeerName": "Porter",
     "BeerStyle": "Porter - Other",
@@ -27,17 +7,9 @@
     "Origin": "Manchester, Greater Manchester England",
     "BeerAbv": 4.40,
     "BeerIbu": 0.00,
-    "HallRating": -60.93
-  },
-  {
-    "BID": 12089,
-    "BeerName": "Ne'tra Gal",
-    "BeerStyle": "Dark Ale",
-    "BreweryName": "Southern Tier Brewing Company",
-    "Origin": "Lakewood, NY United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "HallRating": -60.93
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   },
   {
     "BID": 10870,
@@ -47,7 +19,9 @@
     "Origin": "Hedemora, Dalarnas län Sweden",
     "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "HallRating": -60.93
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   },
   {
     "BID": 11828,
@@ -57,17 +31,9 @@
     "Origin": "New South Wales, Australia",
     "BeerAbv": 5.70,
     "BeerIbu": 0.00,
-    "HallRating": -60.93
-  },
-  {
-    "BID": 1247,
-    "BeerName": "Old 395",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "San Diego Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "HallRating": -60.93
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   },
   {
     "BID": 1233,
@@ -77,7 +43,21 @@
     "Origin": "La Jolla, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -60.93
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
+  },
+  {
+    "BID": 1247,
+    "BeerName": "Old 395",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "San Diego Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   },
   {
     "BID": 1236,
@@ -87,17 +67,9 @@
     "Origin": "La Jolla, CA United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": -60.93
-  },
-  {
-    "BID": 12297,
-    "BeerName": "Signature Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Hometown Cellars Brewing Co.",
-    "Origin": "Ithaca, MI United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": -60.93
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   },
   {
     "BID": 10361,
@@ -107,27 +79,9 @@
     "Origin": "San Diego, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -60.93
-  },
-  {
-    "BID": 11568,
-    "BeerName": "St Cloud",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "St Arnou Premium Beers",
-    "Origin": "Smithfield, New South Wales Australia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": -60.93
-  },
-  {
-    "BID": 11848,
-    "BeerName": "Capt. Scarlet",
-    "BeerStyle": "Red Ale - Other",
-    "BreweryName": "Spectrum Brewery",
-    "Origin": "Tharston, Norfolk England",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": -60.93
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   },
   {
     "BID": 11425,
@@ -137,7 +91,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -60.93
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   },
   {
     "BID": 12368,
@@ -147,7 +103,45 @@
     "Origin": "Plainfield, IL United States",
     "BeerAbv": 4.40,
     "BeerIbu": 0.00,
-    "HallRating": -60.93
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
+  },
+  {
+    "BID": 11568,
+    "BeerName": "St Cloud",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "St Arnou Premium Beers",
+    "Origin": "Smithfield, New South Wales Australia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
+  },
+  {
+    "BID": 12297,
+    "BeerName": "Signature Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Hometown Cellars Brewing Co.",
+    "Origin": "Ithaca, MI United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
+  },
+  {
+    "BID": 11848,
+    "BeerName": "Capt. Scarlet",
+    "BeerStyle": "Red Ale - Other",
+    "BreweryName": "Spectrum Brewery",
+    "Origin": "Tharston, Norfolk England",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   },
   {
     "BID": 10866,
@@ -157,7 +151,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -60.93
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   },
   {
     "BID": 10284,
@@ -167,7 +163,9 @@
     "Origin": "Spokane, WA United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": -60.93
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   },
   {
     "BID": 12580,
@@ -177,7 +175,9 @@
     "Origin": "St. Louis, MO United States",
     "BeerAbv": 6.00,
     "BeerIbu": 75.00,
-    "HallRating": -60.93
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   },
   {
     "BID": 11626,
@@ -187,7 +187,9 @@
     "Origin": "London, Greater London England",
     "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "HallRating": -60.93
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   },
   {
     "BID": 11419,
@@ -197,7 +199,9 @@
     "Origin": "Colorado Springs, CO United States",
     "BeerAbv": 6.95,
     "BeerIbu": 0.00,
-    "HallRating": -65.67
+    "HallRating": -65.67,
+    "BAR": -4.52,
+    "StylePlus": null
   },
   {
     "BID": 11174,
@@ -207,7 +211,9 @@
     "Origin": "Toronto, ON Canada",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -65.67
+    "HallRating": -65.67,
+    "BAR": -4.52,
+    "StylePlus": null
   },
   {
     "BID": 10389,
@@ -217,17 +223,9 @@
     "Origin": "St. Paul, MN United States",
     "BeerAbv": 6.50,
     "BeerIbu": 25.00,
-    "HallRating": -65.67
-  },
-  {
-    "BID": 12083,
-    "BeerName": "Session Cider",
-    "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
-    "BreweryName": "Key Largo Brewery",
-    "Origin": "Newark, DE United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -65.67
+    "HallRating": -65.67,
+    "BAR": -4.52,
+    "StylePlus": null
   },
   {
     "BID": 11623,
@@ -237,7 +235,21 @@
     "Origin": "Amsterdam, Noord-Holland Netherlands",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": -65.67
+    "HallRating": -65.67,
+    "BAR": -4.52,
+    "StylePlus": null
+  },
+  {
+    "BID": 12083,
+    "BeerName": "Session Cider",
+    "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
+    "BreweryName": "Key Largo Brewery",
+    "Origin": "Newark, DE United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -65.67,
+    "BAR": -4.52,
+    "StylePlus": null
   },
   {
     "BID": 10344,
@@ -247,6 +259,44 @@
     "Origin": "Clawson, MI United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": -65.67
+    "HallRating": -65.67,
+    "BAR": -4.52,
+    "StylePlus": null
+  },
+  {
+    "BID": 12600,
+    "BeerName": "Stoopid IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Indy Beer",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -65.67,
+    "BAR": -4.52,
+    "StylePlus": null
+  },
+  {
+    "BID": 10971,
+    "BeerName": "Headless Horseman Pumpkin Ale",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "xBigDanx's Homebrew",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -65.67,
+    "BAR": -4.52,
+    "StylePlus": null
+  },
+  {
+    "BID": 1235,
+    "BeerName": "Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "La Jolla Brewhouse",
+    "Origin": "La Jolla, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -65.67,
+    "BAR": -4.52,
+    "StylePlus": null
   }
 ]

@@ -1,133 +1,15 @@
 [
   {
-    "BID": 11317,
-    "BeerName": "Blue Bitter",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Lion New Zealand",
-    "Origin": "Auckland, New Zealand",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1264,
-    "BeerName": "Caber Tossed",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "San Marcos Brewery & Grill",
-    "Origin": "San Marcos, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1219,
-    "BeerName": "Patriot Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "On Tap Bistro & Brewery",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1218,
-    "BeerName": "Hazy Daze Hefeweizen",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "On Tap Bistro & Brewery",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1248,
-    "BeerName": "Mission Gorge Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "San Diego Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1259,
-    "BeerName": "Winter Wheat",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "San Marcos Brewery & Grill",
-    "Origin": "San Marcos, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1165,
-    "BeerName": "Wit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Barley John’s Brew Pub",
-    "Origin": "New Brighton, MN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1164,
-    "BeerName": "Sunny Summer Ale",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Barley John’s Brew Pub",
-    "Origin": "New Brighton, MN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1182,
-    "BeerName": "Knockadoon Irish Ale",
-    "BeerStyle": "Red Ale - Irish",
-    "BreweryName": "Green Mill Restaurant & Bar",
-    "Origin": "St. Paul, MN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1155,
-    "BeerName": "Black Cat Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Cheshire Cat Brewery",
-    "Origin": "Arvada, CO United States",
-    "BeerAbv": 6.15,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1157,
-    "BeerName": "Arrogant Brit",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Cheshire Cat Brewery",
-    "Origin": "Arvada, CO United States",
+    "BID": 1090,
+    "BeerName": "Otis Alt",
+    "BeerStyle": "Altbier - Traditional",
+    "BreweryName": "Elk Grove Brewery & Restaurant",
+    "Origin": "Elk Grove, CA United States",
     "BeerAbv": 5.30,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1190,
-    "BeerName": "Honey Brown",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "O’Gara’s Bar & Grill",
-    "Origin": "St. Paul, MN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1227,
-    "BeerName": "Nut Brown",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Taylor’s Restaurant and Brewery",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1102,
@@ -137,27 +19,9 @@
     "Origin": "Greenville, NC United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1203,
-    "BeerName": "Three Threads Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Far West Brewing Company",
-    "Origin": "Redmond, WA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 1090,
-    "BeerName": "Otis Alt",
-    "BeerStyle": "Altbier - Traditional",
-    "BreweryName": "Elk Grove Brewery & Restaurant",
-    "Origin": "Elk Grove, CA United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1111,
@@ -167,37 +31,165 @@
     "Origin": "St . Helena, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 12298,
-    "BeerName": "India Pale Ale",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Hometown Cellars Brewing Co.",
-    "Origin": "Ithaca, MI United States",
-    "BeerAbv": 6.00,
+    "BID": 1264,
+    "BeerName": "Caber Tossed",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "San Marcos Brewery & Grill",
+    "Origin": "San Marcos, CA United States",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 11545,
-    "BeerName": "Monty’s Mild",
+    "BID": 1259,
+    "BeerName": "Winter Wheat",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "San Marcos Brewery & Grill",
+    "Origin": "San Marcos, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1269,
+    "BeerName": "Ding Ding Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Oggi’s Pizza & Brewing Co.",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1218,
+    "BeerName": "Hazy Daze Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "On Tap Bistro & Brewery",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1219,
+    "BeerName": "Patriot Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "On Tap Bistro & Brewery",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1227,
+    "BeerName": "Nut Brown",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Taylor’s Restaurant and Brewery",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1248,
+    "BeerName": "Mission Gorge Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "San Diego Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1190,
+    "BeerName": "Honey Brown",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "O’Gara’s Bar & Grill",
+    "Origin": "St. Paul, MN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1182,
+    "BeerName": "Knockadoon Irish Ale",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "Green Mill Restaurant & Bar",
+    "Origin": "St. Paul, MN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1157,
+    "BeerName": "Arrogant Brit",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Cheshire Cat Brewery",
+    "Origin": "Arvada, CO United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1164,
+    "BeerName": "Sunny Summer Ale",
     "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Feral Brewing Company",
-    "Origin": "Bassendean, Western Australia Australia",
-    "BeerAbv": 3.00,
+    "BreweryName": "Barley John’s Brew Pub",
+    "Origin": "New Brighton, MN United States",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 12330,
-    "BeerName": "Tolchock (2010)",
-    "BeerStyle": "Homebrew, Stout - Russian Imperial",
-    "BreweryName": "Heidrun Brewery (Heiðrún)",
-    "Origin": "Sweden",
-    "BeerAbv": 11.00,
-    "BeerIbu": 100.00,
-    "HallRating": -132.07
+    "BID": 1165,
+    "BeerName": "Wit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Barley John’s Brew Pub",
+    "Origin": "New Brighton, MN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1155,
+    "BeerName": "Black Cat Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Cheshire Cat Brewery",
+    "Origin": "Arvada, CO United States",
+    "BeerAbv": 6.15,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 12070,
@@ -207,7 +199,9 @@
     "Origin": "United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 10250,
@@ -217,27 +211,33 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 1023,
-    "BeerName": "Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Fire Station 1 Restaurant and Bar",
-    "Origin": "Silver Spring, MD United States",
-    "BeerAbv": 0.00,
+    "BID": 12298,
+    "BeerName": "India Pale Ale",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Hometown Cellars Brewing Co.",
+    "Origin": "Ithaca, MI United States",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 11919,
-    "BeerName": "Imperial Pilsner",
-    "BeerStyle": "Pilsner - Imperial / Double",
-    "BreweryName": "Pickled Monkey Brewing Co",
-    "Origin": "Marrickville, New South Wales Australia",
+    "BID": 11767,
+    "BeerName": "Haus Pale Ale",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "FIGJAM Brewing",
+    "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 12166,
@@ -247,6 +247,56 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1023,
+    "BeerName": "Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Fire Station 1 Restaurant and Bar",
+    "Origin": "Silver Spring, MD United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 11919,
+    "BeerName": "Imperial Pilsner",
+    "BeerStyle": "Pilsner - Imperial / Double",
+    "BreweryName": "Pickled Monkey Brewing Co",
+    "Origin": "Marrickville, New South Wales Australia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 10565,
+    "BeerName": "Breinheitsgebot",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Flossmoor Station Restaurant and Brewery",
+    "Origin": "Flossmoor, IL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 12231,
+    "BeerName": "Bockus",
+    "BeerStyle": "Bock - Single / Traditional",
+    "BreweryName": "Double Mountain Brewery & Cidery",
+    "Origin": "Hood River, OR United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 45.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

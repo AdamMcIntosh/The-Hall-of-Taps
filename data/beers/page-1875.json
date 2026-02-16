@@ -1,45 +1,5 @@
 [
   {
-    "BID": 4940296,
-    "BeerName": "Obscure Reflection",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Glass Door Brewing Co.",
-    "Origin": "United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980979,
-    "BeerName": "Vermont Ferrand #4",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Midnight Brewing",
-    "Origin": "Clermont-Ferrand, Auvergne-Rhône-Alpes France",
-    "BeerAbv": 6.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960644,
-    "BeerName": "NEIPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Bierblume (FKM Bier UG)",
-    "Origin": "Görlitz, Sachsen Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4940298,
-    "BeerName": "Murikka",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Jönssi",
-    "Origin": "Finland",
-    "BeerAbv": 5.20,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 12516,
     "BeerName": "Tikal",
     "BeerStyle": "Lager - Pale",
@@ -47,7 +7,9 @@
     "Origin": "Ciudad de Guatemala, Guatemala",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": -9.23
+    "HallRating": -9.23,
+    "BAR": -1.06,
+    "StylePlus": null
   },
   {
     "BID": 11236,
@@ -57,7 +19,9 @@
     "Origin": "Singapore, Central Singapore Singapore",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": -9.23
+    "HallRating": -9.23,
+    "BAR": -1.06,
+    "StylePlus": null
   },
   {
     "BID": 12427,
@@ -67,7 +31,9 @@
     "Origin": "Seattle, WA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -9.62
+    "HallRating": -9.62,
+    "BAR": -0.97,
+    "StylePlus": null
   },
   {
     "BID": 12515,
@@ -77,7 +43,9 @@
     "Origin": "Ciudad de Guatemala, Guatemala",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": -9.62
+    "HallRating": -9.62,
+    "BAR": -0.97,
+    "StylePlus": null
   },
   {
     "BID": 12121,
@@ -87,7 +55,9 @@
     "Origin": "Columbus, OH United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -9.62
+    "HallRating": -9.62,
+    "BAR": -0.97,
+    "StylePlus": null
   },
   {
     "BID": 1078,
@@ -97,7 +67,9 @@
     "Origin": "Inyokern, CA United States",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": -9.62
+    "HallRating": -9.62,
+    "BAR": -0.97,
+    "StylePlus": null
   },
   {
     "BID": 11567,
@@ -107,17 +79,9 @@
     "Origin": "Smithfield, New South Wales Australia",
     "BeerAbv": 2.90,
     "BeerIbu": 0.00,
-    "HallRating": -10.16
-  },
-  {
-    "BID": 11235,
-    "BeerName": "Happy Beer",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Heineken Asia Pacific",
-    "Origin": "Singapore, Central Singapore Singapore",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": -10.94
+    "HallRating": -10.16,
+    "BAR": -0.87,
+    "StylePlus": null
   },
   {
     "BID": 11339,
@@ -127,7 +91,21 @@
     "Origin": "Seoul, South Korea",
     "BeerAbv": 2.90,
     "BeerIbu": 0.00,
-    "HallRating": -10.94
+    "HallRating": -10.94,
+    "BAR": -0.75,
+    "StylePlus": null
+  },
+  {
+    "BID": 11235,
+    "BeerName": "Happy Beer",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Heineken Asia Pacific",
+    "Origin": "Singapore, Central Singapore Singapore",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": -10.94,
+    "BAR": -0.75,
+    "StylePlus": null
   },
   {
     "BID": 12194,
@@ -137,7 +115,9 @@
     "Origin": "Peekskill, NY United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": -12.23
+    "HallRating": -12.23,
+    "BAR": -0.60,
+    "StylePlus": null
   },
   {
     "BID": 10092,
@@ -147,7 +127,9 @@
     "Origin": "Nakano-ku, Tokyo Japan",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": -12.23
+    "HallRating": -12.23,
+    "BAR": -0.60,
+    "StylePlus": null
   },
   {
     "BID": 10832,
@@ -157,37 +139,9 @@
     "Origin": "Ciudad de México, Mexico",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": -14.73
-  },
-  {
-    "BID": 12520,
-    "BeerName": "Lupita Durango",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Cervecería Centro Americana",
-    "Origin": "Ciudad de Guatemala, Guatemala",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": -14.73
-  },
-  {
-    "BID": 12517,
-    "BeerName": "Lupita Durango",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Cervecería Centro Americana",
-    "Origin": "Ciudad de Guatemala, Guatemala",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": -14.73
-  },
-  {
-    "BID": 12518,
-    "BeerName": "Lupita Durango",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Cervecería Centro Americana",
-    "Origin": "Ciudad de Guatemala, Guatemala",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": -14.73
+    "HallRating": -14.73,
+    "BAR": -0.38,
+    "StylePlus": null
   },
   {
     "BID": 10705,
@@ -197,7 +151,45 @@
     "Origin": "Southfield, MI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -14.73
+    "HallRating": -14.73,
+    "BAR": -0.38,
+    "StylePlus": null
+  },
+  {
+    "BID": 12517,
+    "BeerName": "Lupita Durango",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Cervecería Centro Americana",
+    "Origin": "Ciudad de Guatemala, Guatemala",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": -14.73,
+    "BAR": -0.38,
+    "StylePlus": null
+  },
+  {
+    "BID": 12518,
+    "BeerName": "Lupita Durango",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Cervecería Centro Americana",
+    "Origin": "Ciudad de Guatemala, Guatemala",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": -14.73,
+    "BAR": -0.38,
+    "StylePlus": null
+  },
+  {
+    "BID": 12520,
+    "BeerName": "Lupita Durango",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Cervecería Centro Americana",
+    "Origin": "Ciudad de Guatemala, Guatemala",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": -14.73,
+    "BAR": -0.38,
+    "StylePlus": null
   },
   {
     "BID": 12041,
@@ -207,7 +199,9 @@
     "Origin": "Oak Creek, WI United States",
     "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "HallRating": -14.77
+    "HallRating": -14.77,
+    "BAR": -3.54,
+    "StylePlus": "59"
   },
   {
     "BID": 11312,
@@ -217,7 +211,9 @@
     "Origin": "Bengaluru, Karnataka India",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": -22.01
+    "HallRating": -22.01,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 12524,
@@ -227,7 +223,9 @@
     "Origin": "Ciudad de Guatemala, Guatemala",
     "BeerAbv": 4.40,
     "BeerIbu": 0.00,
-    "HallRating": -22.01
+    "HallRating": -22.01,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 10935,
@@ -237,7 +235,9 @@
     "Origin": "Liverpool, Merseyside England",
     "BeerAbv": 2.00,
     "BeerIbu": 0.00,
-    "HallRating": -22.01
+    "HallRating": -22.01,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 12188,
@@ -247,6 +247,56 @@
     "Origin": "Alexandria, VA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -22.01
+    "HallRating": -22.01,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 12035,
+    "BeerName": "EmOatable Lager",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Wolverine State Brewing Co.",
+    "Origin": "Ann Arbor, MI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -22.01,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1003,
+    "BeerName": "Light Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -23.81,
+    "BAR": -3.01,
+    "StylePlus": null
+  },
+  {
+    "BID": 11541,
+    "BeerName": "Pilsener",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Feral Brewing Company",
+    "Origin": "Bassendean, Western Australia Australia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": -25.65,
+    "BAR": -2.59,
+    "StylePlus": null
+  },
+  {
+    "BID": 12610,
+    "BeerName": "Straits Pale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Archipelago Brewery (Singapore)",
+    "Origin": "Singapore",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": -25.65,
+    "BAR": -2.59,
+    "StylePlus": null
   }
 ]

@@ -1,5 +1,161 @@
 [
   {
+    "BID": 10450,
+    "BeerName": "Berwick IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Berwick Brewing Company",
+    "Origin": "Berwick, PA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.52,
+    "BAR": 8.22,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11034,
+    "BeerName": "Fürstabt Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Allgäuer Brauhaus",
+    "Origin": "Kempten (Allgäu), Bayern Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 12.00,
+    "HallRating": 14.52,
+    "BAR": 8.22,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 12052,
+    "BeerName": "Winterfest",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Sockeye Brewing",
+    "Origin": "Boise, ID United States",
+    "BeerAbv": 7.25,
+    "BeerIbu": 85.00,
+    "HallRating": 14.51,
+    "BAR": 8.20,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 11214,
+    "BeerName": "Flyin' Hawaiian Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Pizza Port Brewing Company",
+    "Origin": "Carlsbad, CA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 14.51,
+    "BAR": 8.20,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 12134,
+    "BeerName": "Lakridsporter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Det Lille Bryggeri",
+    "Origin": "Ringsted, Region Sjælland Denmark",
+    "BeerAbv": 6.60,
+    "BeerIbu": 0.00,
+    "HallRating": 14.51,
+    "BAR": 8.20,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 10902,
+    "BeerName": "Joshua Norton Imperial Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "The Tap Brewing Company",
+    "Origin": "Haverhill, MA United States",
+    "BeerAbv": 9.10,
+    "BeerIbu": 89.00,
+    "HallRating": 14.51,
+    "BAR": 8.20,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 11892,
+    "BeerName": "Kerasus (2014)",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Brouwerij Alvinne",
+    "Origin": "Zwevegem, Vlaams Gewest Belgium",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 14.50,
+    "BAR": 8.17,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 12692,
+    "BeerName": "1-2 Punch Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Mash House Brewing Company",
+    "Origin": "Fayetteville, NC United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 10.00,
+    "HallRating": 14.50,
+    "BAR": 8.17,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 10531,
+    "BeerName": "München",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "Bamberg Bier",
+    "Origin": "Votorantim, São Paulo Brazil",
+    "BeerAbv": 5.00,
+    "BeerIbu": 25.00,
+    "HallRating": 14.50,
+    "BAR": 8.18,
+    "StylePlus": "116"
+  },
+  {
+    "BID": 12382,
+    "BeerName": "Barleywine",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Cervecería Antares",
+    "Origin": "Mar del Plata, Provincia de Buenos Aires Argentina",
+    "BeerAbv": 10.00,
+    "BeerIbu": 50.00,
+    "HallRating": 14.49,
+    "BAR": 8.17,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 10168,
+    "BeerName": "Imperial Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Mendocino Brewing Company",
+    "Origin": "Ukiah, CA United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 60.00,
+    "HallRating": 14.49,
+    "BAR": 8.16,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 12021,
+    "BeerName": "Demon Hunter",
+    "BeerStyle": "Strong Ale - English",
+    "BreweryName": "Birrificio Montegioco",
+    "Origin": "Montegioco, Piemonte Italy",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 14.49,
+    "BAR": 8.16,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 10150,
+    "BeerName": "Brandy Barrel Aged Alpha Klaus",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "3 Floyds Brewing",
+    "Origin": "Munster, IN United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.49,
+    "BAR": 3.76,
+    "StylePlus": "104"
+  },
+  {
     "BID": 124,
     "BeerName": "Buzzsaw Brown",
     "BeerStyle": "Brown Ale - American",
@@ -7,7 +163,9 @@
     "Origin": "Bend, OR United States",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 14.49
+    "HallRating": 14.49,
+    "BAR": 3.76,
+    "StylePlus": "108"
   },
   {
     "BID": 10863,
@@ -17,17 +175,9 @@
     "Origin": "Ewing, NJ United States",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.48
-  },
-  {
-    "BID": 11364,
-    "BeerName": "Northstar Imperial Porter",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Twisted Pine Brewing Company",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 33.00,
-    "HallRating": 14.48
+    "HallRating": 14.48,
+    "BAR": 8.14,
+    "StylePlus": "113"
   },
   {
     "BID": 11622,
@@ -37,17 +187,21 @@
     "Origin": "Escondido, CA United States",
     "BeerAbv": 11.20,
     "BeerIbu": 100.00,
-    "HallRating": 14.48
+    "HallRating": 14.48,
+    "BAR": 8.15,
+    "StylePlus": "102"
   },
   {
-    "BID": 1045,
-    "BeerName": "Burntwood Black Ale",
-    "BeerStyle": "Dark Ale",
-    "BreweryName": "Thirsty Pagan Brewing",
-    "Origin": "Superior, WI United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 19.00,
-    "HallRating": 14.48
+    "BID": 11364,
+    "BeerName": "Northstar Imperial Porter",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Twisted Pine Brewing Company",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 33.00,
+    "HallRating": 14.48,
+    "BAR": 8.14,
+    "StylePlus": "101"
   },
   {
     "BID": 1012,
@@ -57,7 +211,9 @@
     "Origin": "Marshall, MN United States",
     "BeerAbv": 4.20,
     "BeerIbu": 12.00,
-    "HallRating": 14.48
+    "HallRating": 14.48,
+    "BAR": 8.14,
+    "StylePlus": "96"
   },
   {
     "BID": 11505,
@@ -67,17 +223,21 @@
     "Origin": "Denver, CO United States",
     "BeerAbv": 7.00,
     "BeerIbu": 65.00,
-    "HallRating": 14.48
+    "HallRating": 14.48,
+    "BAR": 8.14,
+    "StylePlus": "104"
   },
   {
-    "BID": 10489,
-    "BeerName": "Autumn Maple (Bourbon Barrel Aged)",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "The Bruery",
-    "Origin": "Placentia, CA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 15.00,
-    "HallRating": 14.47
+    "BID": 1045,
+    "BeerName": "Burntwood Black Ale",
+    "BeerStyle": "Dark Ale",
+    "BreweryName": "Thirsty Pagan Brewing",
+    "Origin": "Superior, WI United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 19.00,
+    "HallRating": 14.48,
+    "BAR": 8.14,
+    "StylePlus": "114"
   },
   {
     "BID": 12650,
@@ -87,7 +247,9 @@
     "Origin": "San Marcos, CA United States",
     "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.47
+    "HallRating": 14.47,
+    "BAR": 8.13,
+    "StylePlus": "100"
   },
   {
     "BID": 11990,
@@ -97,7 +259,21 @@
     "Origin": "Comstock, MI United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.47
+    "HallRating": 14.47,
+    "BAR": 8.13,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 10489,
+    "BeerName": "Autumn Maple (Bourbon Barrel Aged)",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "The Bruery",
+    "Origin": "Placentia, CA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 15.00,
+    "HallRating": 14.47,
+    "BAR": 8.13,
+    "StylePlus": "107"
   },
   {
     "BID": 10398,
@@ -107,7 +283,9 @@
     "Origin": "St. Paul, MN United States",
     "BeerAbv": 9.10,
     "BeerIbu": 31.00,
-    "HallRating": 14.47
+    "HallRating": 14.47,
+    "BAR": 8.12,
+    "StylePlus": "106"
   },
   {
     "BID": 1201,
@@ -117,136 +295,8 @@
     "Origin": "McMinnville, OR United States",
     "BeerAbv": 5.30,
     "BeerIbu": 35.00,
-    "HallRating": 14.47
-  },
-  {
-    "BID": 11663,
-    "BeerName": "Long Daze Hefeweizen",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Berkshire Brewing Company",
-    "Origin": "South Deerfield, MA United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 13.00,
-    "HallRating": 14.46
-  },
-  {
-    "BID": 10594,
-    "BeerName": "Elephant Rock Imperial Saison",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Big Sky Brewing Company",
-    "Origin": "Missoula, MT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.46
-  },
-  {
-    "BID": 11757,
-    "BeerName": "Blanche de Fantôme",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Brasserie Fantôme",
-    "Origin": "Érezée, Région Wallonne Belgium",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.45
-  },
-  {
-    "BID": 1034,
-    "BeerName": "Grand Cru",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Allagash Brewing Company",
-    "Origin": "Portland, ME United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "HallRating": 14.45
-  },
-  {
-    "BID": 11900,
-    "BeerName": "Duck Duck Goose",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Eastern Shore Brewing Co.",
-    "Origin": "St. Michaels, MD United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 33.00,
-    "HallRating": 14.45
-  },
-  {
-    "BID": 12443,
-    "BeerName": "Christmas Ale",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Defiant Brewing Co.",
-    "Origin": "Pearl River, NY United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.45
-  },
-  {
-    "BID": 10349,
-    "BeerName": "Great",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Alpine Beer Company",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.45
-  },
-  {
-    "BID": 11147,
-    "BeerName": "Revenuers Red Ale",
-    "BeerStyle": "Red Ale - Irish",
-    "BreweryName": "Catawba Brewing Co.",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 23.00,
-    "HallRating": 14.44
-  },
-  {
-    "BID": 11497,
-    "BeerName": "Farmhouse",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Strange Craft Beer Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 8.30,
-    "BeerIbu": 0.00,
-    "HallRating": 14.44
-  },
-  {
-    "BID": 12242,
-    "BeerName": "Kentucky Christmas",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Hopworks Brewery",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 70.00,
-    "HallRating": 14.44
-  },
-  {
-    "BID": 10029,
-    "BeerName": "Bourbon Sustenance",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 25.00,
-    "HallRating": 14.44
-  },
-  {
-    "BID": 11053,
-    "BeerName": "Imperial Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Dark Star Brewing Co.",
-    "Origin": "London, Greater London England",
-    "BeerAbv": 10.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.44
-  },
-  {
-    "BID": 12098,
-    "BeerName": "Misspent Youth",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Moonlight Brewing Company",
-    "Origin": "Santa Rosa, CA United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "HallRating": 14.43
+    "HallRating": 14.47,
+    "BAR": 8.12,
+    "StylePlus": "107"
   }
 ]

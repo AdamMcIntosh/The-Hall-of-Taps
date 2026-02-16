@@ -1,5 +1,29 @@
 [
   {
+    "BID": 4961685,
+    "BeerName": "Berliner Weisse",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "5 Rights Brewing",
+    "Origin": "Marysville, WA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4961703,
+    "BeerName": "Blueberry Mango",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "5 Rights Brewing",
+    "Origin": "Marysville, WA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
     "BID": 4961386,
     "BeerName": "Willibald Purple Grape",
     "BeerStyle": "Hard Seltzer",
@@ -7,7 +31,9 @@
     "Origin": "Ayr, ON Canada",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4940222,
@@ -17,7 +43,9 @@
     "Origin": "Ayr, ON Canada",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445847,
@@ -27,7 +55,9 @@
     "Origin": "Ayr, ON Canada",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815350,
@@ -37,7 +67,9 @@
     "Origin": "Netherlands",
     "BeerAbv": 6.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815364,
@@ -47,17 +79,9 @@
     "Origin": "Netherlands",
     "BeerAbv": 9.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631452,
-    "BeerName": "Mexican Standoff",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Chopfab Boxer",
-    "Origin": "Winterthur, Zürich Switzerland",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630598,
@@ -67,7 +91,21 @@
     "Origin": "Winterthur, Zürich Switzerland",
     "BeerAbv": 8.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4631452,
+    "BeerName": "Mexican Standoff",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Chopfab Boxer",
+    "Origin": "Winterthur, Zürich Switzerland",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "75"
   },
   {
     "BID": 4445848,
@@ -77,7 +115,9 @@
     "Origin": "Dieppe, NB Canada",
     "BeerAbv": 4.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 3343054,
@@ -87,7 +127,9 @@
     "Origin": "Dieppe, NB Canada",
     "BeerAbv": 5.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 4980038,
@@ -97,57 +139,9 @@
     "Origin": "Dieppe, NB Canada",
     "BeerAbv": 5.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9465,
-    "BeerName": "St. Druon de Sebourg",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Brasserie Duyck",
-    "Origin": "Jenlain, Hauts-de-France France",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 7984,
-    "BeerName": "Jenlain Ambrée",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Brasserie Duyck",
-    "Origin": "Jenlain, Hauts-de-France France",
-    "BeerAbv": 7.50,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 839,
-    "BeerName": "St. Druon de Sebourg",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Brasserie Duyck",
-    "Origin": "Jenlain, Hauts-de-France France",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 5967,
-    "BeerName": "Jenlain Or",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Brasserie Duyck",
-    "Origin": "Jenlain, Hauts-de-France France",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 33,
-    "BeerName": "Jenlain Blonde",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Brasserie Duyck",
-    "Origin": "Jenlain, Hauts-de-France France",
-    "BeerAbv": 7.50,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 12209,
@@ -157,7 +151,69 @@
     "Origin": "Jenlain, Hauts-de-France France",
     "BeerAbv": 8.50,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "81"
+  },
+  {
+    "BID": 9465,
+    "BeerName": "St. Druon de Sebourg",
+    "BeerStyle": "Farmhouse Ale - Bière de Garde",
+    "BreweryName": "Brasserie Duyck",
+    "Origin": "Jenlain, Hauts-de-France France",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 7984,
+    "BeerName": "Jenlain Ambrée",
+    "BeerStyle": "Farmhouse Ale - Bière de Garde",
+    "BreweryName": "Brasserie Duyck",
+    "Origin": "Jenlain, Hauts-de-France France",
+    "BeerAbv": 7.50,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 5967,
+    "BeerName": "Jenlain Or",
+    "BeerStyle": "Farmhouse Ale - Bière de Garde",
+    "BreweryName": "Brasserie Duyck",
+    "Origin": "Jenlain, Hauts-de-France France",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 33,
+    "BeerName": "Jenlain Blonde",
+    "BeerStyle": "Farmhouse Ale - Bière de Garde",
+    "BreweryName": "Brasserie Duyck",
+    "Origin": "Jenlain, Hauts-de-France France",
+    "BeerAbv": 7.50,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 839,
+    "BeerName": "St. Druon de Sebourg",
+    "BeerStyle": "Farmhouse Ale - Bière de Garde",
+    "BreweryName": "Brasserie Duyck",
+    "Origin": "Jenlain, Hauts-de-France France",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 4815351,
@@ -167,7 +223,9 @@
     "Origin": "Netherlands",
     "BeerAbv": 4.00,
     "BeerIbu": 4.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630599,
@@ -177,7 +235,9 @@
     "Origin": "Spain",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445849,
@@ -187,7 +247,9 @@
     "Origin": "United States",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445850,
@@ -197,7 +259,9 @@
     "Origin": "Victor, NY United States",
     "BeerAbv": 7.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3342558,
@@ -207,7 +271,9 @@
     "Origin": "Victor, NY United States",
     "BeerAbv": 6.40,
     "BeerIbu": 84.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4630602,
@@ -217,7 +283,9 @@
     "Origin": "Germany",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "94"
   },
   {
     "BID": 4445852,
@@ -227,26 +295,8 @@
     "Origin": "Collegno, Piemonte Italy",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815357,
-    "BeerName": "Cask NEIPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Habitat Brew Co",
-    "Origin": "England",
-    "BeerAbv": 6.00,
-    "BeerIbu": 10.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630603,
-    "BeerName": "Champagnerweizen-Orangenbock (2021)",
-    "BeerStyle": "Homebrew, Bock - Weizendoppelbock",
-    "BreweryName": "Dycki's Homebrew",
-    "Origin": "Germany",
-    "BeerAbv": 10.00,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   }
 ]

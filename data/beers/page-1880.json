@@ -1,23 +1,15 @@
 [
   {
-    "BID": 11103,
-    "BeerName": "Revolver",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Hopworks Brewery",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 5.10,
+    "BID": 11308,
+    "BeerName": "Lite Export Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Murree Brewery",
+    "Origin": "Rawalpindi, ضلع راولپنڈی Pakistan",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -73.36
-  },
-  {
-    "BID": 12324,
-    "BeerName": "Oh Coaly Night",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Grand Teton Brewing",
-    "Origin": "Victor, ID United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 11296,
@@ -27,17 +19,9 @@
     "Origin": "Pyrmont, New South Wales Australia",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 11308,
-    "BeerName": "Lite Export Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Murree Brewery",
-    "Origin": "Rawalpindi, ضلع راولپنڈی Pakistan",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 1017,
@@ -47,7 +31,9 @@
     "Origin": "Mankato, MN United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 1026,
@@ -57,7 +43,9 @@
     "Origin": "Silver Spring, MD United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 12026,
@@ -67,87 +55,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 10094,
-    "BeerName": "1000th Brew India Pale Ale",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Westerham Brewery Company Ltd.",
-    "Origin": "Westerham, Kent England",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 10268,
-    "BeerName": "Headless Horseman",
-    "BeerStyle": "Homebrew, Belgian Tripel",
-    "BreweryName": "Arkh Brewing",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 1121,
-    "BeerName": "Slam Dunkel",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Manayunk Brewing Company",
-    "Origin": "Philadelphia, PA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 10926,
-    "BeerName": "Stoopid Belgian",
-    "BeerStyle": "Homebrew, Pale Ale - Belgian",
-    "BreweryName": "Indy Beer",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 10962,
-    "BeerName": "Nyack 2000 Barleywine",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Twenty Tank Brewery",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 12032,
-    "BeerName": "L'Ete",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Copper Canyon Brewery",
-    "Origin": "Southfield, MI United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 12623,
-    "BeerName": "Oaked Cranberry Belgian Pale Ale",
-    "BeerStyle": "Homebrew, Fruit Beer",
-    "BreweryName": "Iron Brewer",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 12608,
-    "BeerName": "W a West Coast IPA",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "King's Homebrew",
-    "Origin": "United States",
-    "BeerAbv": 7.80,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 12295,
@@ -157,87 +67,93 @@
     "Origin": "Ithaca, MI United States",
     "BeerAbv": 5.90,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
-    "BID": 11254,
-    "BeerName": "Noble Ale",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Chama River Brewing Company",
-    "Origin": "Albuquerque, NM United States",
+    "BID": 12608,
+    "BeerName": "W a West Coast IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "King's Homebrew",
+    "Origin": "United States",
+    "BeerAbv": 7.80,
+    "BeerIbu": 0.00,
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
+  },
+  {
+    "BID": 10268,
+    "BeerName": "Headless Horseman",
+    "BeerStyle": "Homebrew, Belgian Tripel",
+    "BreweryName": "Arkh Brewing",
+    "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
-    "BID": 1120,
-    "BeerName": "Kölsch",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Cleveland ChopHouse and Brewery",
-    "Origin": "Cleveland, OH United States",
+    "BID": 10926,
+    "BeerName": "Stoopid Belgian",
+    "BeerStyle": "Homebrew, Pale Ale - Belgian",
+    "BreweryName": "Indy Beer",
+    "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
-    "BID": 1098,
-    "BeerName": "Wild Banshee Barleywine",
+    "BID": 10962,
+    "BeerName": "Nyack 2000 Barleywine",
     "BeerStyle": "Barleywine - American",
-    "BreweryName": "Far West Brewing Company",
-    "Origin": "Redmond, WA United States",
-    "BeerAbv": 9.80,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 1099,
-    "BeerName": "Thundermuck Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Bill's Tavern & Brewhouse",
-    "Origin": "Cannon Beach, OR United States",
+    "BreweryName": "Twenty Tank Brewery",
+    "Origin": "San Francisco, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
-    "BID": 1215,
-    "BeerName": "Golden Triangle Triple",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "On Tap Bistro & Brewery",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 8.50,
+    "BID": 1121,
+    "BeerName": "Slam Dunkel",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Manayunk Brewing Company",
+    "Origin": "Philadelphia, PA United States",
+    "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
-    "BID": 1185,
-    "BeerName": "Gunflint Gold Ale",
-    "BeerStyle": "Blonde / Golden Ale - American",
-    "BreweryName": "Green Mill Restaurant & Bar",
-    "Origin": "St. Paul, MN United States",
+    "BID": 12032,
+    "BeerName": "L'Ete",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Copper Canyon Brewery",
+    "Origin": "Southfield, MI United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
-    "BID": 1181,
-    "BeerName": "Big Island Porter",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Green Mill Restaurant & Bar",
-    "Origin": "St. Paul, MN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -88.35
-  },
-  {
-    "BID": 1179,
-    "BeerName": "India Pale Ale",
+    "BID": 10094,
+    "BeerName": "1000th Brew India Pale Ale",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Green Mill Restaurant & Bar",
-    "Origin": "St. Paul, MN United States",
-    "BeerAbv": 0.00,
+    "BreweryName": "Westerham Brewery Company Ltd.",
+    "Origin": "Westerham, Kent England",
+    "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   },
   {
     "BID": 1158,
@@ -247,6 +163,140 @@
     "Origin": "Arvada, CO United States",
     "BeerAbv": 4.85,
     "BeerIbu": 0.00,
-    "HallRating": -88.35
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
+  },
+  {
+    "BID": 1179,
+    "BeerName": "India Pale Ale",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Green Mill Restaurant & Bar",
+    "Origin": "St. Paul, MN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
+  },
+  {
+    "BID": 1181,
+    "BeerName": "Big Island Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Green Mill Restaurant & Bar",
+    "Origin": "St. Paul, MN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
+  },
+  {
+    "BID": 1185,
+    "BeerName": "Gunflint Gold Ale",
+    "BeerStyle": "Blonde / Golden Ale - American",
+    "BreweryName": "Green Mill Restaurant & Bar",
+    "Origin": "St. Paul, MN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
+  },
+  {
+    "BID": 12092,
+    "BeerName": "Fleabite",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "La Jolla Brewhouse",
+    "Origin": "La Jolla, CA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
+  },
+  {
+    "BID": 1220,
+    "BeerName": "Alt-Er-Ego Amber",
+    "BeerStyle": "Altbier - Traditional",
+    "BreweryName": "On Tap Bistro & Brewery",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
+  },
+  {
+    "BID": 1215,
+    "BeerName": "Golden Triangle Triple",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "On Tap Bistro & Brewery",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
+  },
+  {
+    "BID": 1252,
+    "BeerName": "Friars IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "San Diego Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
+  },
+  {
+    "BID": 11427,
+    "BeerName": "Hopothesis C",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Freetail Brewing Co.",
+    "Origin": "San Antonio, TX United States",
+    "BeerAbv": 11.80,
+    "BeerIbu": 0.00,
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
+  },
+  {
+    "BID": 1120,
+    "BeerName": "Kölsch",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Cleveland ChopHouse and Brewery",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
+  },
+  {
+    "BID": 1098,
+    "BeerName": "Wild Banshee Barleywine",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Far West Brewing Company",
+    "Origin": "Redmond, WA United States",
+    "BeerAbv": 9.80,
+    "BeerIbu": 0.00,
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
+  },
+  {
+    "BID": 1099,
+    "BeerName": "Thundermuck Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Bill's Tavern & Brewhouse",
+    "Origin": "Cannon Beach, OR United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -88.35,
+    "BAR": -2.26,
+    "StylePlus": null
   }
 ]

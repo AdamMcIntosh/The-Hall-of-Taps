@@ -1,83 +1,27 @@
 [
   {
-    "BID": 1666916,
-    "BeerName": "Longshot Neighborino Flanders Red Ale",
-    "BeerStyle": "Sour - Flanders Red Ale",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 10.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1417,
-    "BeerName": "Triple Bock (1995)",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 17.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 12763,
-    "BeerName": "Longshot Cranberry Wit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 12792,
-    "BeerName": "Longshot Double IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 9.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 11384,
-    "BeerName": "Sample B Coffee Stout",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668033,
-    "BeerName": "Grapefruit Ale",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1670941,
-    "BeerName": "Heaven or Helles",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2816,
-    "BeerName": "Coastal Wheat",
+    "BID": 3337350,
+    "BeerName": "Summer Ale",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
     "BreweryName": "Samuel Adams",
     "Origin": "Boston, MA United States",
     "BeerAbv": 5.30,
+    "BeerIbu": 8.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 3337228,
+    "BeerName": "Blueberry Whip",
+    "BeerStyle": "IPA - Milkshake",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "77"
   },
   {
     "BID": 3333713,
@@ -87,117 +31,9 @@
     "Origin": "Boston, MA United States",
     "BeerAbv": 5.30,
     "BeerIbu": 8.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2388,
-    "BeerName": "Triple Bock (1994)",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 17.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2194,
-    "BeerName": "Southport Amber",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2195,
-    "BeerName": "Kenosha Gold",
-    "BeerStyle": "Other",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2196,
-    "BeerName": "Icemaster",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2191,
-    "BeerName": "Olde St.Nick",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 9.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2192,
-    "BeerName": "Cherry Wheat",
-    "BeerStyle": "Wheat Beer - Fruited",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 23.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2808,
-    "BeerName": "Weissenheimer Wheat",
-    "BeerStyle": "Stout - Foreign / Export",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674104,
-    "BeerName": "Northern Brewers Lager",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1673858,
-    "BeerName": "Bonfire Blonde",
-    "BeerStyle": "Rauchbier",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672834,
-    "BeerName": "Bonfire Rauchbier",
-    "BeerStyle": "Rauchbier",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672933,
-    "BeerName": "Bonfire Rauchbier",
-    "BeerStyle": "Rauchbier",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 1675796,
@@ -207,7 +43,33 @@
     "Origin": "Boston, MA United States",
     "BeerAbv": 9.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 1666916,
+    "BeerName": "Longshot Neighborino Flanders Red Ale",
+    "BeerStyle": "Sour - Flanders Red Ale",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 1668033,
+    "BeerName": "Grapefruit Ale",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
   },
   {
     "BID": 1674993,
@@ -217,36 +79,224 @@
     "Origin": "Boston, MA United States",
     "BeerAbv": 5.80,
     "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
   },
   {
-    "BID": 4960882,
-    "BeerName": "Octoberfest",
-    "BeerStyle": "Märzen",
+    "BID": 1674104,
+    "BeerName": "Northern Brewers Lager",
+    "BeerStyle": "Lager - Amber / Red",
     "BreweryName": "Samuel Adams",
     "Origin": "Boston, MA United States",
-    "BeerAbv": 5.30,
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "117"
+  },
+  {
+    "BID": 1673858,
+    "BeerName": "Bonfire Blonde",
+    "BeerStyle": "Rauchbier",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 1672933,
+    "BeerName": "Bonfire Rauchbier",
+    "BeerStyle": "Rauchbier",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 1672834,
+    "BeerName": "Bonfire Rauchbier",
+    "BeerStyle": "Rauchbier",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 1670941,
+    "BeerName": "Heaven or Helles",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
+  },
+  {
+    "BID": 1671509,
+    "BeerName": "Corona Cero",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Grupo Modelo",
+    "Origin": "Ciudad de México, Mexico",
+    "BeerAbv": 0.00,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 1673825,
+    "BeerName": "Corona Extra",
+    "BeerStyle": "Lager - Mexican",
+    "BreweryName": "Grupo Modelo",
+    "Origin": "Ciudad de México, Mexico",
+    "BeerAbv": 4.50,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 4447227,
+    "BeerName": "Carta Clara",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Grupo Modelo",
+    "Origin": "Ciudad de México, Mexico",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "88"
+  },
+  {
+    "BID": 3338038,
+    "BeerName": "Corona Extra",
+    "BeerStyle": "Lager - Mexican",
+    "BreweryName": "Grupo Modelo",
+    "Origin": "Ciudad de México, Mexico",
+    "BeerAbv": 4.50,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 3340698,
+    "BeerName": "Modelo Negra",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "Grupo Modelo",
+    "Origin": "Ciudad de México, Mexico",
+    "BeerAbv": 5.40,
     "BeerIbu": 16.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "87"
   },
   {
-    "BID": 4962071,
-    "BeerName": "Hop Mess IPA",
+    "BID": 4816816,
+    "BeerName": "Rød Femmer",
+    "BeerStyle": "Red Ale - Imperial / Double",
+    "BreweryName": "Bryghuset No5",
+    "Origin": "Holbæk, Region Sjælland Denmark",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 4816817,
+    "BeerName": "Pain'Te Du Loing",
+    "BeerStyle": "Traditional Ale",
+    "BreweryName": "77Craft",
+    "Origin": "Villiers-sous-Grez, Île-de-France France",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 4632047,
+    "BeerName": "Passionfruit Pale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Cold Side Brewing",
+    "Origin": "England",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
+  },
+  {
+    "BID": 4447229,
+    "BeerName": "Cap'ABA (American Brown Ale)",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Brasserie Cath'",
+    "Origin": "Capbreton, Nouvelle-Aquitaine France",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "81"
+  },
+  {
+    "BID": 4632048,
+    "BeerName": "Outer Bounds",
     "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
+    "BreweryName": "Meanwhile Brewing Company",
+    "Origin": "Austin, TX United States",
     "BeerAbv": 6.80,
-    "BeerIbu": 132.00,
-    "HallRating": 0.00
+    "BeerIbu": 38.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
-    "BID": 4962072,
-    "BeerName": "Solid Gold",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 43.00,
-    "HallRating": 0.00
+    "BID": 4960114,
+    "BeerName": "Cursing the Daylight",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Meanwhile Brewing Company",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 4816819,
+    "BeerName": "Capt. Morss' Bitter",
+    "BeerStyle": "Homebrew, Bitter - Session / Ordinary",
+    "BreweryName": "Maltese Cross Ale Works",
+    "Origin": "Pompano Beach, FL United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 26.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4816826,
+    "BeerName": "Sweet H2O",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Maltese Cross Ale Works",
+    "Origin": "Pompano Beach, FL United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

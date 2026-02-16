@@ -1,163 +1,171 @@
 [
   {
-    "BID": 11873,
-    "BeerName": "Kastaar",
-    "BeerStyle": "Pale Ale - Belgian",
-    "BreweryName": "Brouwerij De Block",
-    "Origin": "Merchtem, Vlaams Gewest Belgium",
+    "BID": 1673152,
+    "BeerName": "Rauchbier",
+    "BeerStyle": "Rauchbier",
+    "BreweryName": "Vanbier",
+    "Origin": "Buenos Aires, Ciudad Autónoma de Buenos Aires Argentina",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 1336,
-    "BeerName": "Satan Gold",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Brouwerij De Block",
-    "Origin": "Merchtem, Vlaams Gewest Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 854,
-    "BeerName": "Satan Red",
-    "BeerStyle": "Red Ale - Other",
-    "BreweryName": "Brouwerij De Block",
-    "Origin": "Merchtem, Vlaams Gewest Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9161,
-    "BeerName": "Royal Donk Double IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Ass Kisser Ales",
-    "Origin": "Windsor, CA United States",
+    "BID": 1673153,
+    "BeerName": "7th Hefen",
+    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
+    "BreweryName": "BS BrewCo",
+    "Origin": "United States",
     "BeerAbv": 7.00,
-    "BeerIbu": 100.00,
-    "HallRating": 0.00
+    "BeerIbu": 11.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 9165,
-    "BeerName": "Baltic Porter",
-    "BeerStyle": "Porter - Baltic",
-    "BreweryName": "Redoak Boutique Beer Cafe",
-    "Origin": "Sydney, New South Wales Australia",
-    "BeerAbv": 8.70,
+    "BID": 3340493,
+    "BeerName": "D.I.Y",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Hansa Brewery",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 11.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
-    "BID": 13188,
-    "BeerName": "Organic Pale Ale",
+    "BID": 1673155,
+    "BeerName": "Campfire Pilsner",
+    "BeerStyle": "Homebrew, Rauchbier",
+    "BreweryName": "Akron Brewing Company",
+    "Origin": "United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674188,
+    "BeerName": "Mele Kalikimaka Wheat",
+    "BeerStyle": "Homebrew, Wheat Beer - American Pale Wheat",
+    "BreweryName": "Akron Brewing Company",
+    "Origin": "United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3340494,
+    "BeerName": "König Wilhelm II. Steinbock",
     "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Redoak Boutique Beer Cafe",
-    "Origin": "Sydney, New South Wales Australia",
+    "BreweryName": "Corporativo Bierstadel",
+    "Origin": "Mexico",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1673156,
+    "BeerName": "Pete-TSD Stout",
+    "BeerStyle": "Homebrew, Stout - Imperial / Double",
+    "BreweryName": "Little Angel Brewing",
+    "Origin": "United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1673157,
+    "BeerName": "I'm Not Left-handed",
+    "BeerStyle": "Homebrew, Stout - Milk / Sweet",
+    "BreweryName": "Second Shadow Brewing",
+    "Origin": "United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 13184,
-    "BeerName": "Summer Weiss",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Redoak Boutique Beer Cafe",
-    "Origin": "Sydney, New South Wales Australia",
-    "BeerAbv": 4.60,
+    "BID": 1673158,
+    "BeerName": "Boston Blizzard Brew",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Teddy Beer Brewing Co.",
+    "Origin": "United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 64.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1673705,
+    "BeerName": "Alhambra Reserva 1925",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Grupo Cervezas Alhambra",
+    "Origin": "Granada, Andalucía Spain",
+    "BeerAbv": 6.40,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 14519,
+    "BeerName": "Alhambra Reserva 1925",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Grupo Cervezas Alhambra",
+    "Origin": "Granada, Andalucía Spain",
+    "BeerAbv": 6.40,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 859,
+    "BeerName": "Alhambra Negra",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Grupo Cervezas Alhambra",
+    "Origin": "Granada, Andalucía Spain",
+    "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
-    "BID": 14255,
-    "BeerName": "Organic Hefeweizen",
+    "BID": 9295,
+    "BeerName": "Weizen",
     "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Redoak Boutique Beer Cafe",
-    "Origin": "Sydney, New South Wales Australia",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "BreweryName": "Bamberg Bier",
+    "Origin": "Votorantim, São Paulo Brazil",
+    "BeerAbv": 5.00,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
   },
   {
-    "BID": 1676090,
-    "BeerName": "Hell Raiser",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Redoak Boutique Beer Cafe",
-    "Origin": "Sydney, New South Wales Australia",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1673061,
-    "BeerName": "Anniversary Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Old Bus Tavern",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 42.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13192,
-    "BeerName": "Aphrodite",
-    "BeerStyle": "Wheat Beer - Hopfenweisse",
-    "BreweryName": "Murray's Brewing Co",
-    "Origin": "Bobs Farm, New South Wales Australia",
-    "BeerAbv": 6.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13308,
-    "BeerName": "Anniversary Ale 4",
-    "BeerStyle": "Wheat Beer - Wheat Wine",
-    "BreweryName": "Murray's Brewing Co",
-    "Origin": "Bobs Farm, New South Wales Australia",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13293,
-    "BeerName": "Dark Knight",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Murray's Brewing Co",
-    "Origin": "Bobs Farm, New South Wales Australia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13290,
-    "BeerName": "Grand Cru",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Murray's Brewing Co",
-    "Origin": "Bobs Farm, New South Wales Australia",
-    "BeerAbv": 8.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 10885,
-    "BeerName": "Brimstone",
-    "BeerStyle": "Brown Ale - American",
+    "BID": 3333904,
+    "BeerName": "Greetings From Charlotte",
+    "BeerStyle": "IPA - American",
     "BreweryName": "Abbeydale Brewery",
     "Origin": "Sheffield, South Yorkshire England",
-    "BeerAbv": 3.90,
+    "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 10878,
-    "BeerName": "Daily Bread",
-    "BeerStyle": "Bitter - Best",
-    "BreweryName": "Abbeydale Brewery",
-    "Origin": "Sheffield, South Yorkshire England",
-    "BeerAbv": 3.80,
-    "BeerIbu": 24.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3340922,
@@ -167,7 +175,9 @@
     "Origin": "Sheffield, South Yorkshire England",
     "BeerAbv": 10.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3338560,
@@ -177,17 +187,9 @@
     "Origin": "Sheffield, South Yorkshire England",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4940957,
-    "BeerName": "Hopback Azacca",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Abbeydale Brewery",
-    "Origin": "Sheffield, South Yorkshire England",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 4446386,
@@ -197,27 +199,21 @@
     "Origin": "Sheffield, South Yorkshire England",
     "BeerAbv": 8.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
-    "BID": 9923,
-    "BeerName": "Moonshine",
-    "BeerStyle": "Pale Ale - English",
+    "BID": 4940957,
+    "BeerName": "Hopback Azacca",
+    "BeerStyle": "Pale Ale - American",
     "BreweryName": "Abbeydale Brewery",
     "Origin": "Sheffield, South Yorkshire England",
-    "BeerAbv": 4.30,
-    "BeerIbu": 24.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3340404,
-    "BeerName": "Swamp Ass",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Churndawg",
-    "Origin": "United States",
     "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 3341934,
@@ -227,7 +223,21 @@
     "Origin": "United States",
     "BeerAbv": 5.50,
     "BeerIbu": 24.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3340404,
+    "BeerName": "Swamp Ass",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Churndawg",
+    "Origin": "United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1673075,
@@ -237,7 +247,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1673077,
@@ -247,6 +259,44 @@
     "Origin": "San Francisco, CA United States",
     "BeerAbv": 6.30,
     "BeerIbu": 35.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 1673663,
+    "BeerName": "Juiciest Galaxy",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Social Kitchen & Brewery",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 9185,
+    "BeerName": "Sedgwick IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Earth Bread + Brewery",
+    "Origin": "Philadelphia, PA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1675635,
+    "BeerName": "None of the Above",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Earth Bread + Brewery",
+    "Origin": "Philadelphia, PA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   }
 ]

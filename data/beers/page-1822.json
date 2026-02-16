@@ -1,5 +1,65 @@
 [
   {
+    "BID": 3341113,
+    "BeerName": "Smarty (Jungle Joose)",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3341116,
+    "BeerName": "Smarty (Lava Flow)",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3341117,
+    "BeerName": "Smarty (Pain Killer)",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3341124,
+    "BeerName": "Smarty (Rum Runner)",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3341121,
+    "BeerName": "Smarty (Cosmo)",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
     "BID": 3341204,
     "BeerName": "Hurricane FroYo",
     "BeerStyle": "IPA - Milkshake",
@@ -7,7 +67,57 @@
     "Origin": "Humble, TX United States",
     "BeerAbv": 6.50,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3341199,
+    "BeerName": "Lemon Shandy Wheat",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "116"
+  },
+  {
+    "BID": 3341218,
+    "BeerName": "Bahama Breeze FroYo",
+    "BeerStyle": "IPA - Milkshake",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3341220,
+    "BeerName": "Zombie FroYo",
+    "BeerStyle": "IPA - Milkshake",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3341222,
+    "BeerName": "Grapefruit Squeeze",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 3341194,
@@ -17,17 +127,21 @@
     "Origin": "Humble, TX United States",
     "BeerAbv": 5.00,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   },
   {
-    "BID": 3337274,
-    "BeerName": "Toffee Nut Brownie",
-    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BID": 4816094,
+    "BeerName": "Master Vader",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
     "BreweryName": "Ingenious Brewing Company",
     "Origin": "Humble, TX United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 65.00,
-    "HallRating": 0.00
+    "BeerAbv": 8.00,
+    "BeerIbu": 83.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4939948,
@@ -37,17 +151,9 @@
     "Origin": "Sainte-Luce, Auvergne-Rhône-Alpes France",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341195,
-    "BeerName": "$ell Out Hazy Double IPA",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Viewpoint Brewing Co.",
-    "Origin": "Del Mar, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 4980615,
@@ -57,7 +163,21 @@
     "Origin": "Del Mar, CA United States",
     "BeerAbv": 4.00,
     "BeerIbu": 8.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "121"
+  },
+  {
+    "BID": 3341195,
+    "BeerName": "$ell Out Hazy Double IPA",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Viewpoint Brewing Co.",
+    "Origin": "Del Mar, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4960292,
@@ -67,7 +187,9 @@
     "Origin": "Bellingham, WA United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
     "BID": 4939949,
@@ -77,7 +199,9 @@
     "Origin": "Bromsgrove, Worcestershire England",
     "BeerAbv": 3.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4960293,
@@ -87,17 +211,9 @@
     "Origin": "Mokelumne Hill, CA United States",
     "BeerAbv": 8.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960297,
-    "BeerName": "Sidra Calaveras No. 2",
-    "BeerStyle": "Cider - Dry",
-    "BreweryName": "Posterity Ciderworks",
-    "Origin": "Mokelumne Hill, CA United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4960295,
@@ -107,7 +223,21 @@
     "Origin": "Mokelumne Hill, CA United States",
     "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 4960297,
+    "BeerName": "Sidra Calaveras No. 2",
+    "BeerStyle": "Cider - Dry",
+    "BreweryName": "Posterity Ciderworks",
+    "Origin": "Mokelumne Hill, CA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4960898,
@@ -117,7 +247,9 @@
     "Origin": "Dokkum, Fryslân Netherlands",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 4939952,
@@ -127,7 +259,9 @@
     "Origin": "Dokkum, Fryslân Netherlands",
     "BeerAbv": 5.60,
     "BeerIbu": 13.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
   },
   {
     "BID": 3336543,
@@ -137,7 +271,9 @@
     "Origin": "Dokkum, Fryslân Netherlands",
     "BeerAbv": 7.20,
     "BeerIbu": 80.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4980619,
@@ -147,7 +283,9 @@
     "Origin": "Norvelt, PA United States",
     "BeerAbv": 6.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4939953,
@@ -157,96 +295,8 @@
     "Origin": "Oviedo, FL United States",
     "BeerAbv": 5.10,
     "BeerIbu": 2.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4941362,
-    "BeerName": "Mangoviedo",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Oviedo Brewing Company",
-    "Origin": "Oviedo, FL United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 2.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342380,
-    "BeerName": "For No Good Rea-Zen",
-    "BeerStyle": "Wheat Beer - Kristallweizen",
-    "BreweryName": "Oviedo Brewing Company",
-    "Origin": "Oviedo, FL United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 13.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960298,
-    "BeerName": "Pilsner",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Amici Midtown",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980621,
-    "BeerName": "Shattered Glass",
-    "BeerStyle": "Homebrew, IPA - Other",
-    "BreweryName": "Best Man Brewing",
-    "Origin": "United States",
-    "BeerAbv": 6.17,
-    "BeerIbu": 93.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3533,
-    "BeerName": "Alt Bier",
-    "BeerStyle": "Altbier - Traditional",
-    "BreweryName": "Faultline Brewing Company",
-    "Origin": "Sunnyvale, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3537,
-    "BeerName": "Hefe Weizen",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Faultline Brewing Company",
-    "Origin": "Sunnyvale, CA United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 14.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3538,
-    "BeerName": "Golden Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Faultline Brewing Company",
-    "Origin": "Sunnyvale, CA United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 18.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631311,
-    "BeerName": "Milky Way",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Faultline Brewing Company",
-    "Origin": "Sunnyvale, CA United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 26.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 322,
-    "BeerName": "Belgian Abbey",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Faultline Brewing Company",
-    "Origin": "Sunnyvale, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 26.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   }
 ]

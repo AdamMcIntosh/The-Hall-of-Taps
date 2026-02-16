@@ -1,5 +1,101 @@
 [
   {
+    "BID": 11290,
+    "BeerName": "Alpha Queen Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Boatrocker Brewers & Distillers",
+    "Origin": "Braeside, Victoria Australia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 35.00,
+    "HallRating": 14.89,
+    "BAR": 8.87,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 11411,
+    "BeerName": "Hop Garden Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Dock Street Brewing Co.",
+    "Origin": "Philadelphia, PA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.89,
+    "BAR": 3.45,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 11432,
+    "BeerName": "Dunkel Lager",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "Sly Fox Brewing Company",
+    "Origin": "Pottstown, PA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 21.00,
+    "HallRating": 14.88,
+    "BAR": 8.85,
+    "StylePlus": "116"
+  },
+  {
+    "BID": 1062,
+    "BeerName": "La Moneuse Spéciale Noël",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Brasserie de Blaugies",
+    "Origin": "Dour, Région Wallonne Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.88,
+    "BAR": 8.84,
+    "StylePlus": "114"
+  },
+  {
+    "BID": 10224,
+    "BeerName": "Sierra 30 (Our Brewers Reserve)",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Sierra Nevada Brewing Co.",
+    "Origin": "Chico, CA United States",
+    "BeerAbv": 9.20,
+    "BeerIbu": 0.00,
+    "HallRating": 14.88,
+    "BAR": 8.85,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 1148,
+    "BeerName": "Oaked Big Hoppy Monster (2012)",
+    "BeerStyle": "Red Ale - Imperial / Double",
+    "BreweryName": "Terrapin Beer Co.",
+    "Origin": "Athens, GA United States",
+    "BeerAbv": 9.10,
+    "BeerIbu": 75.00,
+    "HallRating": 14.87,
+    "BAR": 8.83,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 10915,
+    "BeerName": "Devil Dog",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Laughing Dog Brewing",
+    "Origin": "Ponderay, ID United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 98.00,
+    "HallRating": 14.87,
+    "BAR": 8.83,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 10786,
+    "BeerName": "Ichor",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Sly Fox Brewing Company",
+    "Origin": "Pottstown, PA United States",
+    "BeerAbv": 10.40,
+    "BeerIbu": 20.00,
+    "HallRating": 14.86,
+    "BAR": 8.82,
+    "StylePlus": "101"
+  },
+  {
     "BID": 10938,
     "BeerName": "Caguama",
     "BeerStyle": "Lager - Pale",
@@ -7,7 +103,9 @@
     "Origin": "San Salvador, San Salvador Department El Salvador",
     "BeerAbv": 4.60,
     "BeerIbu": 0.00,
-    "HallRating": 14.86
+    "HallRating": 14.86,
+    "BAR": 8.81,
+    "StylePlus": "98"
   },
   {
     "BID": 12285,
@@ -17,7 +115,9 @@
     "Origin": "Mt Pleasant, MI United States",
     "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": 14.85
+    "HallRating": 14.85,
+    "BAR": 8.80,
+    "StylePlus": "103"
   },
   {
     "BID": 12239,
@@ -27,7 +127,9 @@
     "Origin": "Somerville, MA United States",
     "BeerAbv": 13.50,
     "BeerIbu": 0.00,
-    "HallRating": 14.85
+    "HallRating": 14.85,
+    "BAR": 8.80,
+    "StylePlus": "102"
   },
   {
     "BID": 10847,
@@ -37,7 +139,9 @@
     "Origin": "Indianapolis, IN United States",
     "BeerAbv": 5.40,
     "BeerIbu": 23.00,
-    "HallRating": 14.85
+    "HallRating": 14.85,
+    "BAR": 8.79,
+    "StylePlus": "104"
   },
   {
     "BID": 12313,
@@ -47,7 +151,9 @@
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 7.30,
     "BeerIbu": 25.00,
-    "HallRating": 14.84
+    "HallRating": 14.84,
+    "BAR": 8.79,
+    "StylePlus": "112"
   },
   {
     "BID": 12230,
@@ -57,17 +163,9 @@
     "Origin": "Peekskill, NY United States",
     "BeerAbv": 5.10,
     "BeerIbu": 0.00,
-    "HallRating": 14.84
-  },
-  {
-    "BID": 10649,
-    "BeerName": "Postman's Knock",
-    "BeerStyle": "Porter - English",
-    "BreweryName": "Hobsons Brewery",
-    "Origin": "Cleobury Mortimer, Shropshire England",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "HallRating": 14.84
+    "HallRating": 14.84,
+    "BAR": 8.78,
+    "StylePlus": "110"
   },
   {
     "BID": 10967,
@@ -77,7 +175,21 @@
     "Origin": "Lancaster, OH United States",
     "BeerAbv": 7.00,
     "BeerIbu": 20.00,
-    "HallRating": 14.84
+    "HallRating": 14.84,
+    "BAR": 8.78,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 10649,
+    "BeerName": "Postman's Knock",
+    "BeerStyle": "Porter - English",
+    "BreweryName": "Hobsons Brewery",
+    "Origin": "Cleobury Mortimer, Shropshire England",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 14.84,
+    "BAR": 8.78,
+    "StylePlus": "106"
   },
   {
     "BID": 10088,
@@ -87,7 +199,9 @@
     "Origin": "Copenhagen, Region Hovedstaden Denmark",
     "BeerAbv": 6.90,
     "BeerIbu": 100.00,
-    "HallRating": 14.84
+    "HallRating": 14.84,
+    "BAR": 8.77,
+    "StylePlus": "104"
   },
   {
     "BID": 10916,
@@ -97,57 +211,9 @@
     "Origin": "Durango, CO United States",
     "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.83
-  },
-  {
-    "BID": 11963,
-    "BeerName": "Figgy Pudding",
-    "BeerStyle": "Strong Ale - English",
-    "BreweryName": "Block 15 Brewing Company",
-    "Origin": "Corvallis, OR United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.83
-  },
-  {
-    "BID": 10934,
-    "BeerName": "La Muerta",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Freetail Brewing Co.",
-    "Origin": "San Antonio, TX United States",
-    "BeerAbv": 8.90,
-    "BeerIbu": 0.00,
-    "HallRating": 14.83
-  },
-  {
-    "BID": 12503,
-    "BeerName": "Lorraine Blonde",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Brasserie Lorraine",
-    "Origin": "Le Lamentin, Fort-de-France France",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.83
-  },
-  {
-    "BID": 12361,
-    "BeerName": "Dark Element",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "Element Brewing & Distilling",
-    "Origin": "Millers Falls, MA United States",
-    "BeerAbv": 8.75,
-    "BeerIbu": 66.00,
-    "HallRating": 14.83
-  },
-  {
-    "BID": 11460,
-    "BeerName": "Hopinator",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Holgate Brewhouse",
-    "Origin": "Woodend, Victoria Australia",
-    "BeerAbv": 7.50,
-    "BeerIbu": 80.00,
-    "HallRating": 14.83
+    "HallRating": 14.83,
+    "BAR": 8.76,
+    "StylePlus": "107"
   },
   {
     "BID": 12652,
@@ -157,7 +223,69 @@
     "Origin": "Hampton, NH United States",
     "BeerAbv": 10.60,
     "BeerIbu": 0.00,
-    "HallRating": 14.83
+    "HallRating": 14.83,
+    "BAR": 8.77,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 11963,
+    "BeerName": "Figgy Pudding",
+    "BeerStyle": "Strong Ale - English",
+    "BreweryName": "Block 15 Brewing Company",
+    "Origin": "Corvallis, OR United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.83,
+    "BAR": 8.77,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 12503,
+    "BeerName": "Lorraine Blonde",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Brasserie Lorraine",
+    "Origin": "Le Lamentin, Fort-de-France France",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.83,
+    "BAR": 8.77,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 10934,
+    "BeerName": "La Muerta",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Freetail Brewing Co.",
+    "Origin": "San Antonio, TX United States",
+    "BeerAbv": 8.90,
+    "BeerIbu": 0.00,
+    "HallRating": 14.83,
+    "BAR": 8.76,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 12361,
+    "BeerName": "Dark Element",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Element Brewing & Distilling",
+    "Origin": "Millers Falls, MA United States",
+    "BeerAbv": 8.75,
+    "BeerIbu": 66.00,
+    "HallRating": 14.83,
+    "BAR": 8.76,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11460,
+    "BeerName": "Hopinator",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Holgate Brewhouse",
+    "Origin": "Woodend, Victoria Australia",
+    "BeerAbv": 7.50,
+    "BeerIbu": 80.00,
+    "HallRating": 14.83,
+    "BAR": 8.77,
+    "StylePlus": "101"
   },
   {
     "BID": 12027,
@@ -167,86 +295,8 @@
     "Origin": "Winthrop, WA United States",
     "BeerAbv": 9.30,
     "BeerIbu": 85.00,
-    "HallRating": 14.82
-  },
-  {
-    "BID": 12066,
-    "BeerName": "Florida Native Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Carib Brewery USA",
-    "Origin": "Cape Canaveral, FL United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.81
-  },
-  {
-    "BID": 11653,
-    "BeerName": "Fiddler",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Potosi Brewing Company",
-    "Origin": "Potosi, WI United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 37.00,
-    "HallRating": 14.80
-  },
-  {
-    "BID": 10290,
-    "BeerName": "Isadore Java Porter",
-    "BeerStyle": "Porter - Coffee",
-    "BreweryName": "Mountain Sun Pubs & Breweries",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.80
-  },
-  {
-    "BID": 11791,
-    "BeerName": "Darkness (2010)",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Surly Brewing Company",
-    "Origin": "Minneapolis, MN United States",
-    "BeerAbv": 10.30,
-    "BeerIbu": 0.00,
-    "HallRating": 14.79
-  },
-  {
-    "BID": 1170,
-    "BeerName": "Black H₂O Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Minneapolis Town Hall Brewery",
-    "Origin": "Minneapolis, MN United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.78
-  },
-  {
-    "BID": 11382,
-    "BeerName": "Rogue Farms Wet Hop Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Rogue Ales",
-    "Origin": "Newport, OR United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 65.00,
-    "HallRating": 14.78
-  },
-  {
-    "BID": 10348,
-    "BeerName": "Fullsteam Lager (2010-2016)",
-    "BeerStyle": "California Common",
-    "BreweryName": "Fullsteam",
-    "Origin": "Durham, NC United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 30.00,
-    "HallRating": 14.78
-  },
-  {
-    "BID": 11755,
-    "BeerName": "Crazy Ivan™",
-    "BeerStyle": "IPA - Belgian",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 70.00,
-    "HallRating": 14.78
+    "HallRating": 14.82,
+    "BAR": 8.75,
+    "StylePlus": "101"
   }
 ]
