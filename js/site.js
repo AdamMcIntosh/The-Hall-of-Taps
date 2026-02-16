@@ -168,6 +168,37 @@
           });
       }
 
+      function loadStylesDatalist() {
+        var listEl = document.getElementById('styles-datalist');
+        if (!listEl || listEl.tagName !== 'DATALIST') return Promise.resolve();
+        return fetch(DATA + '/beers/styles.json', { cache: 'no-store' })
+          .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load styles (' + r.status + ')')); })
+          .then(function (names) {
+            if (!Array.isArray(names)) names = [];
+            listEl.innerHTML = '';
+            var fragment = document.createDocumentFragment();
+            names.forEach(function (name) {
+              try {
+                var s = name != null ? String(name) : '';
+                if (s === '') return;
+                var opt = document.createElement('option');
+                opt.value = s;
+                fragment.appendChild(opt);
+              } catch (e) {
+                console.warn('Styles datalist: skip invalid name', name, e);
+              }
+            });
+            listEl.appendChild(fragment);
+          })
+          .catch(function (err) {
+            console.warn('Styles datalist: could not load data/beers/styles.json', err);
+            var inputEl = document.getElementById('filter-styles');
+            if (inputEl && inputEl.placeholder !== undefined) {
+              inputEl.placeholder = 'Style list failed to load — run Engine export to generate data/beers/styles.json';
+            }
+          });
+      }
+
       function beerRow(m, rowNum) {
         var beerLink = (m.BID != null) ? 'beer.html#' + encodeURIComponent(m.BID) : 'beers.html';
         var styleText = escapeHtml(m.BeerStyle || '');
@@ -365,6 +396,11 @@
           filterBreweries.addEventListener('change', function () { applyFiltersAndRender(); });
           filterBreweries.addEventListener('input', function () { applyFiltersAndRender(); });
         }
+        var filterStyles = document.getElementById('filter-styles');
+        if (filterStyles) {
+          filterStyles.addEventListener('change', function () { applyFiltersAndRender(); });
+          filterStyles.addEventListener('input', function () { applyFiltersAndRender(); });
+        }
         if (abvMin) abvMin.addEventListener('change', function () { applyFiltersAndRender(); });
         if (abvMax) abvMax.addEventListener('change', function () { applyFiltersAndRender(); });
         if (barMin) barMin.addEventListener('change', function () { applyFiltersAndRender(); });
@@ -380,6 +416,7 @@
           total = metaTotal;
           return loadBreweryDropdown();
         })
+        .then(function () { return loadStylesDatalist(); })
         .then(function () {
           if (breweryParam) {
             var fb = document.getElementById('filter-breweries');
