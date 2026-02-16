@@ -4,33 +4,45 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Hall of Taps – An alternative craft beer hall of fame</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
   <link rel="stylesheet" href="css/site.css">
 </head>
 <body>
-  <!-- Main nav -->
-  <nav class="main-nav">
-    <div class="nav-inner">
-      <a href="index.html" class="logo">Hall of Taps</a>
-      <ul class="nav-links">
-        <li><a href="beers.html">Rated Beers</a></li>
-        <li><a href="welcome.html">Welcome</a></li>
-        <li><a href="math-primer.html">How we rate</a></li>
-        <li><a href="about.html">About</a></li>
-      </ul>
+  <!-- Main nav: Bulma navbar with mobile burger -->
+  <nav class="navbar main-nav" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a href="index.html" class="navbar-item logo">Hall of Taps</a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="halloftaps-navbar-menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="halloftaps-navbar-menu" class="navbar-menu">
+      <div class="navbar-end">
+        <a href="beers.html" class="navbar-item">Rated Beers</a>
+        <a href="welcome.html" class="navbar-item">Welcome</a>
+        <a href="math-primer.html" class="navbar-item">How we rate</a>
+        <a href="about.html" class="navbar-item">About</a>
+      </div>
     </div>
     <div class="nav-divider"></div>
   </nav>
 
   <!-- Announcement -->
-  <section class="announcement">
-    <p class="announcement-title">An alternative craft beer hall of fame</p>
-    <p class="announcement-desc">We look at the beers people are drinking and quantify which ones are the best. Not by sheer check-ins—by how they rate.</p>
+  <section class="section announcement">
+    <div class="container">
+      <p class="announcement-title title is-4">An alternative craft beer hall of fame</p>
+      <p class="announcement-desc subtitle">We look at the beers people are drinking and quantify which ones are the best. Not by sheer check-ins—by how they rate.</p>
+    </div>
   </section>
 
-  <!-- Main content: two columns -->
-  <div class="layout-wrap">
-    <main class="content-main">
-      <article class="featured">
+  <!-- Main content: responsive two columns -->
+  <div class="section pt-0">
+    <div class="container">
+      <div class="columns is-multiline">
+        <main class="column is-8-tablet is-12-mobile content-main">
+          <article class="featured">
         <h1 class="featured-title">Hall of Taps Beers of the Year</h1>
         <p class="featured-meta">Hall of Taps, <span id="current-year"></span> — Top beers of the year, ranked by Hall Rating.</p>
         <script>document.getElementById('current-year').textContent=new Date().getFullYear();</script>
@@ -62,9 +74,9 @@
           <li>
         </ul>
       </section>
-    </main>
+        </main>
 
-    <aside class="sidebar">
+        <aside class="column is-4-tablet is-12-mobile sidebar">
       <section class="sidebar-block">
         <h2 class="sidebar-heading">Latest</h2>
         <ul class="sidebar-list">
@@ -95,10 +107,24 @@
           </table>
         </div>
       </section>
-    </aside>
+        </aside>
+      </div>
+    </div>
   </div>
 
   <script src="js/site.js"></script>
+  <script>
+    document.querySelectorAll('.navbar-burger').forEach(function (el) {
+      el.addEventListener('click', function () {
+        var targetId = this.getAttribute('data-target');
+        var target = targetId ? document.getElementById(targetId) : null;
+        if (target) {
+          this.classList.toggle('is-active');
+          target.classList.toggle('is-active');
+        }
+      });
+    });
+  </script>
   <script>
     if (window.HallOfTaps) {
       HallOfTaps.loadLeaderboard(document.getElementById('leaderboard-tbody'));

@@ -4,109 +4,150 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Rated Beers – Hall of Taps</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
   <link rel="stylesheet" href="css/site.css">
 </head>
 <body>
-  <nav class="main-nav">
-    <div class="nav-inner">
-      <a href="index.html" class="logo">Hall of Taps</a>
-      <ul class="nav-links">
-        <li><a href="beers.html">Rated Beers</a></li>
-        <li><a href="welcome.html">Welcome</a></li>
-        <li><a href="math-primer.html">How we rate</a></li>
-        <li><a href="about.html">About</a></li>
-      </ul>
+  <nav class="navbar main-nav" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a href="index.html" class="navbar-item logo">Hall of Taps</a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="halloftaps-navbar-menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="halloftaps-navbar-menu" class="navbar-menu">
+      <div class="navbar-end">
+        <a href="beers.html" class="navbar-item">Rated Beers</a>
+        <a href="welcome.html" class="navbar-item">Welcome</a>
+        <a href="math-primer.html" class="navbar-item">How we rate</a>
+        <a href="about.html" class="navbar-item">About</a>
+      </div>
     </div>
     <div class="nav-divider"></div>
   </nav>
-  <div class="wrap beers-page">
-    <h1 class="visually-hidden">Rated Beers</h1>
-    <div class="filter-panel">
-      <div class="filter-form">
-        <div class="filter-row filter-row--horizontal">
-          <div class="filter-group filter-group--equal">
-            <label for="quick-search" class="filter-label">Quick Search</label>
-            <input type="text" id="quick-search" class="filter-input" placeholder="Search beers and breweries by name" aria-label="Quick search beers and breweries">
-          </div>
-          <div class="filter-group filter-group--equal">
-            <label for="filter-breweries" class="filter-label">Brewery</label>
-            <input type="text" id="filter-breweries" list="brewery-datalist" class="filter-input" placeholder="All breweries or type to search" aria-label="Filter by brewery" autocomplete="off">
-            <datalist id="brewery-datalist">
-              <!-- Populated from data/breweries/names.json -->
-            </datalist>
-          </div>
-          <div class="filter-group filter-group--equal">
-            <label for="filter-styles" class="filter-label">Styles <span class="filter-label-hint">(20 max)</span></label>
-            <input type="text" id="filter-styles" list="styles-datalist" class="filter-input" placeholder="All styles or type to search (e.g. IPA, Stout)" aria-label="Filter by styles" autocomplete="off">
-            <datalist id="styles-datalist">
-              <!-- Populated from data/beers/styles.json -->
-            </datalist>
-          </div>
-        </div>
-        <div class="filter-row filter-row--horizontal">
-          <div class="filter-group">
-            <label for="abv-min" class="filter-label">ABV</label>
-            <div class="filter-range">
-              <select id="abv-min" class="filter-select" aria-label="ABV minimum">
-                <option value="">Min</option>
-                <option value="0" selected>0.0</option>
-                <option value="3">3.0</option>
-                <option value="5">5.0</option>
-                <option value="7">7.0</option>
-                <option value="10">10.0</option>
-                <option value="15">15.0</option>
-                <option value="25">25.0</option>
-              </select>
-              <span class="filter-range-sep">–</span>
-              <select id="abv-max" class="filter-select" aria-label="ABV maximum">
-                <option value="">Max</option>
-                <option value="0">0.0</option>
-                <option value="3">3.0</option>
-                <option value="5">5.0</option>
-                <option value="7">7.0</option>
-                <option value="10">10.0</option>
-                <option value="15">15.0</option>
-                <option value="25" selected>25.0</option>
-              </select>
+  <div class="section">
+    <div class="container beers-page">
+      <h1 class="visually-hidden">Rated Beers</h1>
+      <div class="box filter-panel">
+        <div class="filter-form">
+          <div class="columns is-multiline is-variable is-2">
+            <div class="column is-12-mobile is-4-tablet">
+              <div class="field">
+                <label for="quick-search" class="label filter-label">Quick Search</label>
+                <div class="control">
+                  <input type="text" id="quick-search" class="input filter-input" placeholder="Search beers and breweries by name" aria-label="Quick search beers and breweries">
+                </div>
+              </div>
             </div>
-          </div>
-          <div class="filter-group">
-            <label for="tap-min" class="filter-label">TAP</label>
-            <div class="filter-range">
-              <select id="tap-min" class="filter-select" aria-label="TAP minimum">
-                <option value="">Min</option>
-                <option value="-15" selected>-15.0</option>
-                <option value="0">0.0</option>
-                <option value="5">5.0</option>
-                <option value="10">10.0</option>
-                <option value="15">15.0</option>
-                <option value="19">19.0</option>
-              </select>
-              <span class="filter-range-sep">–</span>
-              <select id="tap-max" class="filter-select" aria-label="TAP maximum">
-                <option value="" selected>Max</option>
-                <option value="-15">-15.0</option>
-                <option value="0">0.0</option>
-                <option value="5">5.0</option>
-                <option value="10">10.0</option>
-                <option value="15">15.0</option>
-                <option value="19">19.0</option>
-                <option value="25">25.0</option>
-                <option value="35">35.0</option>
-                <option value="50">50.0</option>
-              </select>
+            <div class="column is-12-mobile is-4-tablet">
+              <div class="field">
+                <label for="filter-breweries" class="label filter-label">Brewery</label>
+                <div class="control">
+                  <input type="text" id="filter-breweries" list="brewery-datalist" class="input filter-input" placeholder="All breweries or type to search" aria-label="Filter by brewery" autocomplete="off">
+                </div>
+                <datalist id="brewery-datalist"></datalist>
+              </div>
             </div>
-          </div>
-          <div class="filter-group filter-group--actions">
-            <button type="button" class="btn btn--primary btn--nowrap" id="filter-apply" aria-label="Apply filters">
-              <span class="btn-icon" aria-hidden="true">&#9660;</span> Filter Leaderboards
-            </button>
-            <button type="button" class="btn btn--secondary" id="filter-reset">Reset</button>
+            <div class="column is-12-mobile is-4-tablet">
+              <div class="field">
+                <label for="filter-styles" class="label filter-label">Styles <span class="filter-label-hint">(20 max)</span></label>
+                <div class="control">
+                  <input type="text" id="filter-styles" list="styles-datalist" class="input filter-input" placeholder="All styles or type to search (e.g. IPA, Stout)" aria-label="Filter by styles" autocomplete="off">
+                </div>
+                <datalist id="styles-datalist"></datalist>
+              </div>
+            </div>
+            <div class="column is-12-mobile is-4-tablet">
+              <div class="field">
+                <label for="abv-min" class="label filter-label">ABV</label>
+                <div class="field has-addons filter-range">
+                  <div class="control">
+                    <div class="select">
+                      <select id="abv-min" class="filter-select" aria-label="ABV minimum">
+                      <option value="">Min</option>
+                      <option value="0" selected>0.0</option>
+                      <option value="3">3.0</option>
+                      <option value="5">5.0</option>
+                      <option value="7">7.0</option>
+                      <option value="10">10.0</option>
+                      <option value="15">15.0</option>
+                      <option value="25">25.0</option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="control"><span class="filter-range-sep">–</span></div>
+                  <div class="control">
+                    <div class="select">
+                      <select id="abv-max" class="filter-select" aria-label="ABV maximum">
+                      <option value="">Max</option>
+                      <option value="0">0.0</option>
+                      <option value="3">3.0</option>
+                      <option value="5">5.0</option>
+                      <option value="7">7.0</option>
+                      <option value="10">10.0</option>
+                      <option value="15">15.0</option>
+                      <option value="25" selected>25.0</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="column is-12-mobile is-4-tablet">
+              <div class="field">
+                <label for="tap-min" class="label filter-label">TAP</label>
+                <div class="field has-addons filter-range">
+                  <div class="control">
+                    <div class="select">
+                      <select id="tap-min" class="filter-select" aria-label="TAP minimum">
+                      <option value="">Min</option>
+                      <option value="-15" selected>-15.0</option>
+                      <option value="0">0.0</option>
+                      <option value="5">5.0</option>
+                      <option value="10">10.0</option>
+                      <option value="15">15.0</option>
+                      <option value="19">19.0</option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="control"><span class="filter-range-sep">–</span></div>
+                  <div class="control">
+                    <div class="select">
+                      <select id="tap-max" class="filter-select" aria-label="TAP maximum">
+                      <option value="" selected>Max</option>
+                      <option value="-15">-15.0</option>
+                      <option value="0">0.0</option>
+                      <option value="5">5.0</option>
+                      <option value="10">10.0</option>
+                      <option value="15">15.0</option>
+                      <option value="19">19.0</option>
+                      <option value="25">25.0</option>
+                      <option value="35">35.0</option>
+                      <option value="50">50.0</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="column is-12-mobile is-12-tablet is-flex is-align-items-flex-end filter-actions-column">
+              <div class="field is-grouped filter-group--actions">
+                <div class="control">
+                  <button type="button" class="button is-primary btn--nowrap" id="filter-apply" aria-label="Apply filters">
+                    <span class="btn-icon" aria-hidden="true">&#9660;</span> Filter Leaderboards
+                  </button>
+                </div>
+                <div class="control">
+                  <button type="button" class="button is-light" id="filter-reset">Reset</button>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="table-wrap">
+      <div class="table-wrap">
       <table class="beers-leaderboard-table">
         <thead>
           <tr>
@@ -125,9 +166,22 @@
         </tbody>
       </table>
     </div>
-    <div id="beers-pagination"></div>
+      <div id="beers-pagination"></div>
+    </div>
   </div>
   <script src="js/site.js"></script>
+  <script>
+    document.querySelectorAll('.navbar-burger').forEach(function (el) {
+      el.addEventListener('click', function () {
+        var targetId = this.getAttribute('data-target');
+        var target = targetId ? document.getElementById(targetId) : null;
+        if (target) {
+          this.classList.toggle('is-active');
+          target.classList.toggle('is-active');
+        }
+      });
+    });
+  </script>
   <script>
     if (window.HallOfTaps) HallOfTaps.loadBeers(document.getElementById('beers-table'), document.getElementById('beers-pagination'));
   </script>

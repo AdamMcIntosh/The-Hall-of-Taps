@@ -4,22 +4,31 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Welcome to the Hall of Taps</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
   <link rel="stylesheet" href="css/site.css">
 </head>
 <body>
-  <nav class="main-nav">
-    <div class="nav-inner">
-      <a href="index.html" class="logo">Hall of Taps</a>
-      <ul class="nav-links">
-        <li><a href="beers.html">Rated Beers</a></li>
-        <li><a href="welcome.html">Welcome</a></li>
-        <li><a href="math-primer.html">How we rate</a></li>
-        <li><a href="about.html">About</a></li>
-      </ul>
+  <nav class="navbar main-nav" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a href="index.html" class="navbar-item logo">Hall of Taps</a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="halloftaps-navbar-menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="halloftaps-navbar-menu" class="navbar-menu">
+      <div class="navbar-end">
+        <a href="beers.html" class="navbar-item">Rated Beers</a>
+        <a href="welcome.html" class="navbar-item">Welcome</a>
+        <a href="math-primer.html" class="navbar-item">How we rate</a>
+        <a href="about.html" class="navbar-item">About</a>
+      </div>
     </div>
     <div class="nav-divider"></div>
   </nav>
-  <div class="wrap">
+  <div class="section">
+    <div class="container">
     <h1 class="page-title">Welcome to the Hall of Taps</h1>
     <p>
       <strong>Welcome</strong>, to what I believe is the third iteration of the Hall of Taps. You can view all the beers and their hall rating right <a href="beers.html">here</a>.
@@ -36,6 +45,19 @@
     <blockquote>
       Adam is an amateur blogger by night and works in IT by day. You can see his work at his github <a href="https://github.com/AdamMcIntosh">page</a>.
     </blockquote>
+    </div>
   </div>
+  <script>
+    document.querySelectorAll('.navbar-burger').forEach(function (el) {
+      el.addEventListener('click', function () {
+        var targetId = this.getAttribute('data-target');
+        var target = targetId ? document.getElementById(targetId) : null;
+        if (target) {
+          this.classList.toggle('is-active');
+          target.classList.toggle('is-active');
+        }
+      });
+    });
+  </script>
 </body>
 </html>
