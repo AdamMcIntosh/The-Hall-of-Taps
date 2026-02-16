@@ -131,6 +131,14 @@ function run() {
     writeChunked('beers', beers);
     writeChunked('breweries', breweries);
 
+    // Full beers list for client-side filtering (one file for filter-by-brewery etc.)
+    const beersDir = path.join(DATA_DIR, 'beers');
+    fs.writeFileSync(
+      path.join(beersDir, 'all.json'),
+      JSON.stringify(beers, null, 0) + '\n',
+      { encoding: 'utf8' }
+    );
+
     // Brewery names list for filter dropdown (sorted, unique, non-empty)
     const breweryNames = [...new Set(
       breweries
@@ -160,7 +168,7 @@ function run() {
       { encoding: 'utf8' }
     );
 
-    console.log('Exported: preview.json (%d), beers (%d in %d pages), breweries (%d in %d pages), brewery names (%d)',
+    console.log('Exported: preview.json (%d), beers (%d in %d pages + all.json), breweries (%d in %d pages), brewery names (%d)',
       preview.length,
       beers.length,
       Math.ceil(beers.length / PAGE_SIZE),
