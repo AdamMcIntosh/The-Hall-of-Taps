@@ -37,7 +37,10 @@
           </div>
           <div class="filter-group filter-group--equal">
             <label for="filter-styles" class="filter-label">Styles <span class="filter-label-hint">(20 max)</span></label>
-            <input type="text" id="filter-styles" class="filter-input" placeholder="e.g. IPA, Stout" aria-label="Filter by styles">
+            <input type="text" id="filter-styles" list="styles-datalist" class="filter-input" placeholder="All styles or type to search (e.g. IPA, Stout)" aria-label="Filter by styles" autocomplete="off">
+            <datalist id="styles-datalist">
+              <!-- Populated from data/beers/styles.json -->
+            </datalist>
           </div>
         </div>
         <div class="filter-row filter-row--horizontal">
