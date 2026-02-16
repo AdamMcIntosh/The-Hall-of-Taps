@@ -118,15 +118,15 @@
         var fs = document.getElementById('filter-styles');
         var abvMinEl = document.getElementById('abv-min');
         var abvMaxEl = document.getElementById('abv-max');
-        var barMinEl = document.getElementById('bar-min');
-        var barMaxEl = document.getElementById('bar-max');
+        var tapMinEl = document.getElementById('tap-min');
+        var tapMaxEl = document.getElementById('tap-max');
         filters.q = quickSearch ? quickSearch.value.trim() : '';
         filters.breweries = fb && fb.value ? fb.value.trim() : '';
         filters.styles = fs ? fs.value.trim() : '';
         filters.abvMin = abvMinEl ? abvMinEl.value : '';
         filters.abvMax = abvMaxEl ? abvMaxEl.value : '';
-        filters.barMin = barMinEl ? barMinEl.value : '';
-        filters.barMax = barMaxEl ? barMaxEl.value : '';
+        filters.barMin = tapMinEl ? tapMinEl.value : '';
+        filters.barMax = tapMaxEl ? tapMaxEl.value : '';
       }
 
       var breweryParam = (function () {
@@ -389,8 +389,8 @@
         var quickSearch = document.getElementById('quick-search');
         var abvMin = document.getElementById('abv-min');
         var abvMax = document.getElementById('abv-max');
-        var barMin = document.getElementById('bar-min');
-        var barMax = document.getElementById('bar-max');
+        var tapMin = document.getElementById('tap-min');
+        var tapMax = document.getElementById('tap-max');
         var btnApply = document.getElementById('filter-apply');
         var btnReset = document.getElementById('filter-reset');
         function readFilters() {
@@ -403,8 +403,8 @@
           var fs = document.getElementById('filter-styles'); if (fs) fs.value = '';
           if (abvMin) abvMin.value = '0';
           if (abvMax) abvMax.value = '25';
-          if (barMin) barMin.value = '-15';
-          if (barMax) barMax.value = '';
+          if (tapMin) tapMin.value = '-15';
+          if (tapMax) tapMax.value = '';
           readFilters();
           applyFiltersAndRender();
           if (window.history && window.history.replaceState) {
@@ -424,8 +424,8 @@
         }
         if (abvMin) abvMin.addEventListener('change', function () { applyFiltersAndRender(); });
         if (abvMax) abvMax.addEventListener('change', function () { applyFiltersAndRender(); });
-        if (barMin) barMin.addEventListener('change', function () { applyFiltersAndRender(); });
-        if (barMax) barMax.addEventListener('change', function () { applyFiltersAndRender(); });
+        if (tapMin) tapMin.addEventListener('change', function () { applyFiltersAndRender(); });
+        if (tapMax) tapMax.addEventListener('change', function () { applyFiltersAndRender(); });
       }
 
       fetch(DATA + '/beers/meta.json', { cache: 'no-store' })
