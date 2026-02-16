@@ -7,6 +7,40 @@
   const DATA = 'data';
   const DEFAULT_PAGE_SIZE = 25;
 
+  /**
+   * Build segmented pager: « [page numbers] » and summary "N items in M pages".
+   * goToPage(page) is called when user clicks prev/next or a page number.
+   */
+  function buildPager(paginationEl, currentPage, totalPages, total, label, goToPage) {
+    if (!paginationEl) return;
+    label = label || 'items';
+    var prevDisabled = currentPage <= 1;
+    var nextDisabled = currentPage >= totalPages;
+    var start = Math.max(1, currentPage - 4);
+    var end = Math.min(totalPages, start + 9);
+    if (end - start < 9) start = Math.max(1, end - 9);
+    var pageNumbers = [];
+    for (var p = start; p <= end; p++) pageNumbers.push(p);
+    var pagerHtml = '<div class="pagination-pager">' +
+      '<button type="button" class="pagination-nav" data-page="prev" ' + (prevDisabled ? 'disabled' : '') + ' aria-label="Previous">«</button>';
+    pageNumbers.forEach(function (p) {
+      var active = p === currentPage;
+      pagerHtml += '<button type="button" class="pagination-page' + (active ? ' is-active' : '') + '" data-page="' + p + '">' + p + '</button>';
+    });
+    pagerHtml += '<button type="button" class="pagination-nav" data-page="next" ' + (nextDisabled ? 'disabled' : '') + ' aria-label="Next">»</button></div>';
+    pagerHtml += '<p class="pagination-summary"><strong>' + total + '</strong> ' + label + ' in <strong>' + totalPages + '</strong> pages</p>';
+    paginationEl.innerHTML = '<div class="pagination">' + pagerHtml + '</div>';
+    paginationEl.querySelectorAll('.pagination-nav, .pagination-page').forEach(function (btn) {
+      if (btn.disabled) return;
+      btn.addEventListener('click', function () {
+        var page = this.getAttribute('data-page');
+        if (page === 'prev') goToPage(currentPage - 1);
+        else if (page === 'next') goToPage(currentPage + 1);
+        else goToPage(parseInt(page, 10));
+      });
+    });
+  }
+
   window.HallOfTaps = {
     loadPreview: function (listEl) {
       if (!listEl) return;
@@ -194,28 +228,15 @@
       }
 
       function updatePagination() {
-        if (!paginationEl) return;
-        var end = Math.min(currentStart + pageSize, total);
-        var prevDisabled = currentPage <= 1;
-        var nextDisabled = currentPage >= totalPages;
-        paginationEl.innerHTML =
-          '<div class="pagination">' +
-          '<button type="button" class="pagination-btn" data-page="prev" ' + (prevDisabled ? 'disabled' : '') + '>Previous</button>' +
-          '<span class="pagination-info">Page ' + currentPage + ' of ' + totalPages + ' <span class="pagination-range">(' + (total === 0 ? 0 : currentStart + 1) + '–' + end + ' of ' + total + ')</span></span>' +
-          '<button type="button" class="pagination-btn" data-page="next" ' + (nextDisabled ? 'disabled' : '') + '>Next</button>' +
-          '</div>';
-        paginationEl.querySelectorAll('.pagination-btn').forEach(function (btn) {
-          btn.addEventListener('click', function () {
-            if (this.disabled) return;
-            var next = this.getAttribute('data-page') === 'next' ? currentPage + 1 : currentPage - 1;
-            if (filteredFullList) {
-              currentPage = next;
-              renderFilteredPage();
-              updatePagination();
-            } else {
-              fetchAndRender(next);
-            }
-          });
+        buildPager(paginationEl, currentPage, totalPages, total, 'beers', function (next) {
+          if (next < 1 || next > totalPages) return;
+          if (filteredFullList) {
+            currentPage = next;
+            renderFilteredPage();
+            updatePagination();
+          } else {
+            fetchAndRender(next);
+          }
         });
       }
 
@@ -265,21 +286,8 @@
               bindSortAndFilter();
             }
             if (!paginationEl) return;
-            var end = Math.min(currentStart + chunk.length, total);
-            var prevDisabled = currentPage <= 1;
-            var nextDisabled = currentPage >= totalPages;
-            paginationEl.innerHTML =
-              '<div class="pagination">' +
-              '<button type="button" class="pagination-btn" data-page="prev" ' + (prevDisabled ? 'disabled' : '') + '>Previous</button>' +
-              '<span class="pagination-info">Page ' + currentPage + ' of ' + totalPages + ' <span class="pagination-range">(' + (total === 0 ? 0 : currentStart + 1) + '–' + end + ' of ' + total + ')</span></span>' +
-              '<button type="button" class="pagination-btn" data-page="next" ' + (nextDisabled ? 'disabled' : '') + '>Next</button>' +
-              '</div>';
-            paginationEl.querySelectorAll('.pagination-btn').forEach(function (btn) {
-              btn.addEventListener('click', function () {
-                if (this.disabled) return;
-                var next = this.getAttribute('data-page') === 'next' ? currentPage + 1 : currentPage - 1;
-                fetchAndRender(next);
-              });
+            buildPager(paginationEl, currentPage, totalPages, total, 'beers', function (next) {
+              if (next >= 1 && next <= totalPages) fetchAndRender(next);
             });
           })
           .catch(function () {
@@ -451,22 +459,8 @@
             .then(function (chunk) {
               tableEl.innerHTML = chunk.map(rowFn).join('');
               if (!paginationEl) return;
-              var start = (currentPage - 1) * pageSize;
-              var end = Math.min(start + chunk.length, total);
-              var prevDisabled = currentPage <= 1;
-              var nextDisabled = currentPage >= totalPages;
-              paginationEl.innerHTML =
-                '<div class="pagination">' +
-                '<button type="button" class="pagination-btn" data-page="prev" ' + (prevDisabled ? 'disabled' : '') + '>Previous</button>' +
-                '<span class="pagination-info">Page ' + currentPage + ' of ' + totalPages + ' <span class="pagination-range">(' + (total === 0 ? 0 : start + 1) + '–' + end + ' of ' + total + ')</span></span>' +
-                '<button type="button" class="pagination-btn" data-page="next" ' + (nextDisabled ? 'disabled' : '') + '>Next</button>' +
-                '</div>';
-              paginationEl.querySelectorAll('.pagination-btn').forEach(function (btn) {
-                btn.addEventListener('click', function () {
-                  if (this.disabled) return;
-                  var next = this.getAttribute('data-page') === 'next' ? currentPage + 1 : currentPage - 1;
-                  fetchAndRender(next);
-                });
+              buildPager(paginationEl, currentPage, totalPages, total, 'breweries', function (next) {
+                if (next >= 1 && next <= totalPages) fetchAndRender(next);
               });
             })
             .catch(function () {
