@@ -511,7 +511,7 @@
     var name = escapeHtml(beer.BeerName || '');
     var brewery = escapeHtml(beer.BreweryName || '');
     var breweryUrl = 'beers.html?brewery=' + encodeURIComponent(beer.BreweryName || '');
-    var labelUrl = beer.BeerLabelUrl || beer.beer_label || '';
+    var labelUrl = beer.BeerLabelUrl || beer.BeerLabel || beer.beer_label || '';
     var labelImg = labelUrl
       ? '<img class="beer-label-img" src="' + escapeHtml(labelUrl) + '" alt="" width="80" height="80">'
       : '<span class="beer-label-placeholder" aria-hidden="true"></span>';
