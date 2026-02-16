@@ -480,19 +480,10 @@
         '</div>' +
       '</header>' +
       '<div class="beer-stats">' +
-        '<div class="beer-stat"><span class="beer-stat-label">BAR</span><span class="beer-stat-value">' + (bar != null ? bar : '—') + '</span><span class="beer-stat-desc">' + barDesc + '</span></div>' +
+        '<div class="beer-stat"><span class="beer-stat-label">Hall Rating</span><span class="beer-stat-value">' + (bar != null ? bar : '—') + '</span><span class="beer-stat-desc">' + barDesc + '</span></div>' +
         '<div class="beer-stat"><span class="beer-stat-label">Style+</span><span class="beer-stat-value">' + (styleText || '—') + '</span><span class="beer-stat-desc">' + stylePlusDesc + '</span></div>' +
-        '<div class="beer-stat"><span class="beer-stat-label">In-Brewery Ranking</span><span class="beer-stat-value">—</span><span class="beer-stat-desc">Rank within brewery (coming soon)</span></div>' +
         '<div class="beer-stat"><span class="beer-stat-label">ABV</span><span class="beer-stat-value">' + abv + '</span><span class="beer-stat-desc">' + abvDesc + '</span></div>' +
-      '</div>' +
-      '<section class="beer-section">' +
-        '<h2 class="beer-section-title">Distribution data unavailable</h2>' +
-        '<p class="beer-section-desc">We\'re still gathering data for this beer\'s distribution.</p>' +
-      '</section>' +
-      '<section class="beer-section">' +
-        '<h2 class="beer-section-title">What Do You Think About This Beer?</h2>' +
-        '<p class="beer-section-desc">Comments and ratings coming soon.</p>' +
-      '</section>'
+      '</div>'
     );
   }
 
