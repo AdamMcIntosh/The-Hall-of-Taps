@@ -136,6 +136,13 @@
           return v != null ? String(v).trim() : null;
         } catch (e) { return null; }
       })();
+      var styleParam = (function () {
+        try {
+          var p = new URLSearchParams(window.location.search);
+          var v = p.get('style');
+          return v != null ? String(v).trim() : null;
+        } catch (e) { return null; }
+      })();
 
       function loadBreweryDropdown() {
         var listEl = document.getElementById('brewery-datalist');
@@ -205,7 +212,8 @@
         var breweryText = escapeHtml(m.BreweryName || '');
         var breweryHref = 'beers.html?brewery=' + encodeURIComponent(m.BreweryName || '');
         var originText = escapeHtml(m.Origin || m.BreweryLocation || '');
-        return '<tr><td class="beers-col-num">' + rowNum + '</td><td><a href="' + beerLink + '">' + escapeHtml(m.BeerName || '') + '</a></td><td><a href="beers.html">' + styleText + '</a></td><td><a href="' + breweryHref + '">' + breweryText + '</a></td><td><a href="beers.html">' + originText + '</a></td><td>' + (m.BeerAbv != null && m.BeerAbv !== '' ? m.BeerAbv : '—') + '</td><td>—</td><td>' + (m.HallRating != null && m.HallRating !== '' ? m.HallRating : '—') + '</td></tr>';
+        var styleHref = 'beers.html?style=' + encodeURIComponent(m.BeerStyle || '');
+        return '<tr><td class="beers-col-num">' + rowNum + '</td><td><a href="' + beerLink + '">' + escapeHtml(m.BeerName || '') + '</a></td><td><a href="' + styleHref + '">' + styleText + '</a></td><td><a href="' + breweryHref + '">' + breweryText + '</a></td><td><a href="beers.html">' + originText + '</a></td><td>' + (m.BeerAbv != null && m.BeerAbv !== '' ? m.BeerAbv : '—') + '</td><td>—</td><td>' + (m.HallRating != null && m.HallRating !== '' ? m.HallRating : '—') + '</td></tr>';
       }
 
       function applyFilters(chunk) {
@@ -386,9 +394,12 @@
           if (abvMin) abvMin.value = '0';
           if (abvMax) abvMax.value = '25';
           if (barMin) barMin.value = '-15';
-          if (barMax) barMax.value = '19';
+          if (barMax) barMax.value = '';
           readFilters();
           applyFiltersAndRender();
+          if (window.history && window.history.replaceState) {
+            window.history.replaceState({}, '', window.location.pathname || 'beers.html');
+          }
         });
         if (quickSearch) quickSearch.addEventListener('input', function () { applyFiltersAndRender(); });
         var filterBreweries = document.getElementById('filter-breweries');
@@ -422,27 +433,42 @@
             var fb = document.getElementById('filter-breweries');
             if (fb) fb.value = breweryParam;
           }
+          if (styleParam) {
+            var fs = document.getElementById('filter-styles');
+            if (fs) fs.value = styleParam;
+          }
           readFiltersFromDOM();
           applyFiltersAndRender();
 
-          // When already on beers page, clicking a brewery link should filter in-place (no full reload)
+          // When already on beers page, clicking brewery or style links should filter in-place (no full reload)
           var table = tableEl.closest('table');
-          if (table && !table.hasAttribute('data-brewery-links-bound')) {
-            table.setAttribute('data-brewery-links-bound', '1');
+          if (table && !table.hasAttribute('data-filter-links-bound')) {
+            table.setAttribute('data-filter-links-bound', '1');
             table.addEventListener('click', function (e) {
               var a = e.target && e.target.closest ? e.target.closest('a') : null;
               if (!a || !a.href) return;
               var brewery = null;
+              var style = null;
               try {
                 var url = new URL(a.href);
                 if (url.searchParams.get('brewery')) brewery = url.searchParams.get('brewery').trim();
+                if (url.searchParams.get('style')) style = url.searchParams.get('style').trim();
               } catch (err) { return; }
-              if (!brewery) return;
+              if (!brewery && !style) return;
               e.preventDefault();
-              var fb = document.getElementById('filter-breweries');
-              if (fb) fb.value = brewery;
-              if (window.history && window.history.replaceState) {
-                window.history.replaceState({}, '', '?brewery=' + encodeURIComponent(brewery));
+              if (brewery) {
+                var fb = document.getElementById('filter-breweries');
+                if (fb) fb.value = brewery;
+                if (window.history && window.history.replaceState) {
+                  window.history.replaceState({}, '', '?brewery=' + encodeURIComponent(brewery));
+                }
+              }
+              if (style) {
+                var fs = document.getElementById('filter-styles');
+                if (fs) fs.value = style;
+                if (window.history && window.history.replaceState) {
+                  window.history.replaceState({}, '', '?style=' + encodeURIComponent(style));
+                }
               }
               readFiltersFromDOM();
               applyFiltersAndRender();
