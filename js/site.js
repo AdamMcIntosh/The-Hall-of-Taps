@@ -129,10 +129,18 @@
         filters.barMax = barMaxEl ? barMaxEl.value : '';
       }
 
+      var breweryParam = (function () {
+        try {
+          var p = new URLSearchParams(window.location.search);
+          var v = p.get('brewery');
+          return v != null ? String(v).trim() : null;
+        } catch (e) { return null; }
+      })();
+
       function loadBreweryDropdown() {
         var sel = document.getElementById('filter-breweries');
-        if (!sel || sel.tagName !== 'SELECT') return;
-        fetch(DATA + '/breweries/names.json')
+        if (!sel || sel.tagName !== 'SELECT') return Promise.resolve();
+        return fetch(DATA + '/breweries/names.json')
           .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load brewery names')); })
           .then(function (names) {
             while (sel.options.length > 1) sel.remove(1);
@@ -145,14 +153,14 @@
           })
           .catch(function () { /* ignore: dropdown stays with "All breweries" only */ });
       }
-      loadBreweryDropdown();
 
       function beerRow(m, rowNum) {
         var beerLink = (m.BID != null) ? 'beer.html#' + encodeURIComponent(m.BID) : 'beers.html';
         var styleText = escapeHtml(m.BeerStyle || '');
         var breweryText = escapeHtml(m.BreweryName || '');
+        var breweryHref = 'beers.html?brewery=' + encodeURIComponent(m.BreweryName || '');
         var originText = escapeHtml(m.Origin || m.BreweryLocation || '');
-        return '<tr><td class="beers-col-num">' + rowNum + '</td><td><a href="' + beerLink + '">' + escapeHtml(m.BeerName || '') + '</a></td><td><a href="beers.html">' + styleText + '</a></td><td><a href="breweries.html">' + breweryText + '</a></td><td><a href="beers.html">' + originText + '</a></td><td>' + (m.BeerAbv != null && m.BeerAbv !== '' ? m.BeerAbv : '—') + '</td><td>—</td><td>' + (m.HallRating != null && m.HallRating !== '' ? m.HallRating : '—') + '</td></tr>';
+        return '<tr><td class="beers-col-num">' + rowNum + '</td><td><a href="' + beerLink + '">' + escapeHtml(m.BeerName || '') + '</a></td><td><a href="beers.html">' + styleText + '</a></td><td><a href="' + breweryHref + '">' + breweryText + '</a></td><td><a href="beers.html">' + originText + '</a></td><td>' + (m.BeerAbv != null && m.BeerAbv !== '' ? m.BeerAbv : '—') + '</td><td>—</td><td>' + (m.HallRating != null && m.HallRating !== '' ? m.HallRating : '—') + '</td></tr>';
       }
 
       function applyFilters(chunk) {
@@ -353,8 +361,69 @@
           metaTotal = meta.total || 0;
           totalPages = metaTotalPages;
           total = metaTotal;
+          return loadBreweryDropdown();
+        })
+        .then(function () {
+          if (breweryParam) {
+            var fb = document.getElementById('filter-breweries');
+            if (fb) {
+              var found = false;
+              for (var i = 0; i < fb.options.length; i++) {
+                if (fb.options[i].value === breweryParam) {
+                  found = true;
+                  break;
+                }
+              }
+              if (!found) {
+                var opt = document.createElement('option');
+                opt.value = breweryParam;
+                opt.textContent = breweryParam;
+                fb.appendChild(opt);
+              }
+              fb.value = breweryParam;
+            }
+          }
           readFiltersFromDOM();
           applyFiltersAndRender();
+
+          // When already on beers page, clicking a brewery link should filter in-place (no full reload)
+          var table = tableEl.closest('table');
+          if (table && !table.hasAttribute('data-brewery-links-bound')) {
+            table.setAttribute('data-brewery-links-bound', '1');
+            table.addEventListener('click', function (e) {
+              var a = e.target && e.target.closest ? e.target.closest('a') : null;
+              if (!a || !a.href) return;
+              var brewery = null;
+              try {
+                var url = new URL(a.href);
+                if (url.searchParams.get('brewery')) brewery = url.searchParams.get('brewery').trim();
+              } catch (err) { return; }
+              if (!brewery) return;
+              e.preventDefault();
+              var fb = document.getElementById('filter-breweries');
+              if (fb) {
+                var found = false;
+                for (var i = 0; i < fb.options.length; i++) {
+                  if (fb.options[i].value === brewery) {
+                    found = true;
+                    break;
+                  }
+                }
+                if (!found) {
+                  var opt = document.createElement('option');
+                  opt.value = brewery;
+                  opt.textContent = brewery;
+                  fb.appendChild(opt);
+                }
+                fb.value = brewery;
+              }
+              if (window.history && window.history.replaceState) {
+                window.history.replaceState({}, '', '?brewery=' + encodeURIComponent(brewery));
+              }
+              readFiltersFromDOM();
+              applyFiltersAndRender();
+            });
+          }
         })
         .catch(function () {
           tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="error">Could not load beers data.</td></tr>';
@@ -391,7 +460,7 @@
   function renderBeerDetail(beer) {
     var name = escapeHtml(beer.BeerName || '');
     var brewery = escapeHtml(beer.BreweryName || '');
-    var breweryUrl = 'breweries.html';
+    var breweryUrl = 'beers.html?brewery=' + encodeURIComponent(beer.BreweryName || '');
     var labelUrl = beer.BeerLabelUrl || beer.beer_label || '';
     var labelImg = labelUrl
       ? '<img class="beer-label-img" src="' + escapeHtml(labelUrl) + '" alt="" width="80" height="80">'
@@ -425,54 +494,6 @@
         '<p class="beer-section-desc">Comments and ratings coming soon.</p>' +
       '</section>'
     );
-  }
-
-  window.HallOfTaps.loadBreweries = function (tableEl, paginationEl, pageSize) {
-    if (!tableEl) return;
-    pageSize = pageSize || DEFAULT_PAGE_SIZE;
-    tableEl.innerHTML = '<tr><td colspan="4" class="loading">Loading breweries…</td></tr>';
-    if (paginationEl) paginationEl.innerHTML = '';
-    loadChunked(tableEl, paginationEl, 'breweries', pageSize, 4, function (m) {
-      return '<tr><td>' + escapeHtml(m.BreweryName || '') + '</td><td>' + escapeHtml(m.City || '') +
-        '</td><td>' + escapeHtml(m.BreweryState || '') + '</td><td>' + escapeHtml(m.country || '') + '</td></tr>';
-    });
-  };
-
-  /**
-   * Load chunked data: fetch meta, then fetch one page at a time. Pagination loads only the requested page.
-   */
-  function loadChunked(tableEl, paginationEl, dir, pageSize, colspan, rowFn) {
-    fetch(DATA + '/' + dir + '/meta.json')
-      .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load ' + dir + ' meta')); })
-      .then(function (meta) {
-        var totalPages = meta.totalPages || 1;
-        var total = meta.total || 0;
-        var currentPage = 1;
-
-        function fetchAndRender(page) {
-          var pageIndex = page - 1;
-          if (pageIndex < 0 || pageIndex >= totalPages) return;
-          currentPage = page;
-          tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="loading">Loading…</td></tr>';
-          fetch(DATA + '/' + dir + '/page-' + pageIndex + '.json')
-            .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load page')); })
-            .then(function (chunk) {
-              tableEl.innerHTML = chunk.map(rowFn).join('');
-              if (!paginationEl) return;
-              buildPager(paginationEl, currentPage, totalPages, total, 'breweries', function (next) {
-                if (next >= 1 && next <= totalPages) fetchAndRender(next);
-              });
-            })
-            .catch(function () {
-              tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="error">Could not load ' + dir + ' data.</td></tr>';
-            });
-        }
-
-        fetchAndRender(1);
-      })
-      .catch(function () {
-        tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="error">Could not load ' + dir + ' data.</td></tr>';
-      });
   }
 
   function escapeHtml(s) {
