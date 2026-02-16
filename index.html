@@ -17,15 +17,6 @@
         <li><a href="math-primer.html">How we rate</a></li>
         <li><a href="about.html">About</a></li>
       </ul>
-      <div class="nav-right">
-        <form class="search-form" role="search" action="beers.html" method="get">
-          <label for="search-input" class="visually-hidden">Search beers and content</label>
-          <input type="search" id="search-input" name="q" placeholder="Search beers and content" aria-label="Search beers and content">
-          <button type="submit" class="search-btn" aria-label="Search">
-            <span aria-hidden="true">&#8981;</span>
-          </button>
-        </form>
-      </div>
     </div>
     <div class="nav-divider"></div>
   </nav>
@@ -41,7 +32,7 @@
     <main class="content-main">
       <article class="featured">
         <h1 class="featured-title">Hall of Taps Beers of the Year</h1>
-        <p class="featured-meta">Hall of Taps, <span id="current-year"></span> – In which we pick our favorites.</p>
+        <p class="featured-meta">Hall of Taps, <span id="current-year"></span> — Top beers of the year, ranked by Hall Rating.</p>
         <script>document.getElementById('current-year').textContent=new Date().getFullYear();</script>
         <figure class="featured-figure">
           <div class="featured-image-placeholder" aria-hidden="true">
@@ -69,13 +60,6 @@
             <span class="list-meta">– BAR, wOBAR, Hall Rating, and the math behind the rankings.</span>
           </li>
           <li>
-            <a href="beers.html">Rated Beers</a>
-            <span class="list-meta">– Full list of beers and Hall ratings.</span>
-          </li>
-          <li>
-            <a href="beers.html">Rated Beers by brewery</a>
-            <span class="list-meta">– Filter the beers list by brewery.</span>
-          </li>
         </ul>
       </section>
     </main>
