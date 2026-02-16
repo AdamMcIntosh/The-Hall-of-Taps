@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How we rate our beers – Hall of Taps</title>
+  <link rel="stylesheet" href="css/site.css">
+  <style>
+    .primer-formula { display: block; margin: 0.5rem 0 1rem; font-family: ui-monospace, monospace; font-size: 0.95rem; }
+    .primer-formula.inline { display: inline; margin: 0; }
+    .primer-section { margin-top: 2rem; }
+    .primer-section:first-of-type { margin-top: 0; }
+    .primer-table { margin: 1rem 0; }
+    .primer-table th { text-align: left; }
+    .primer-table td, .primer-table th { padding: 0.4rem 0.6rem; vertical-align: top; }
+    .primer-table tbody tr:nth-child(even) { background: var(--table-stripe); }
+    .primer-glossary dt { font-weight: 600; margin-top: 0.75rem; }
+    .primer-glossary dt:first-child { margin-top: 0; }
+    .primer-glossary dd { margin-left: 0; margin-bottom: 0.25rem; }
+  </style>
+</head>
+<body>
+  <nav class="main-nav">
+    <div class="nav-inner">
+      <a href="index.html" class="logo">Hall of Taps</a>
+      <ul class="nav-links">
+        <li><a href="beers.html">Rated Beers</a></li>
+        <li><a href="welcome.html">Welcome</a></li>
+        <li><a href="math-primer.html">How we rate</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+      <div class="nav-right">
+        <form class="search-form" role="search" action="beers.html" method="get">
+          <label for="search-input-primer" class="visually-hidden">Search beers and content</label>
+          <input type="search" id="search-input-primer" name="q" placeholder="Search beers and content" aria-label="Search beers and content">
+          <button type="submit" class="search-btn" aria-label="Search"><span aria-hidden="true">&#8981;</span></button>
+        </form>
+      </div>
+    </div>
+    <div class="nav-divider"></div>
+  </nav>
+  <div class="wrap">
+    <h1 class="page-title">How we rate our beers</h1>
+    <p>
+      This page explains how we measure beer quality and popularity so that highly rated beers with few check-ins can be compared fairly to widely distributed beers with tens of thousands of ratings. The system is inspired by baseball’s Wins Above Replacement (WAR). The metrics <strong>wOBAR</strong> (weighted Overall Beer Average Rating) and <strong>Beers Above Replacement (BAR)</strong> originated from <a href="https://beergraphs.com/">Beergraphs.com</a>; we use and extend that framework here.
+    </p>
+
+    <section class="primer-section" aria-labelledby="overview-heading">
+      <h2 id="overview-heading">Overview</h2>
+      <ul>
+        <li><strong>Replacement level</strong> is the “floor” for each style: the worst-rated beer in the top 70% of that style by check-in volume. Beers are judged against this floor.</li>
+        <li><strong>wOBAR</strong> (weighted Overall Beer Average Rating) is how much better a beer is than that floor: average rating minus replacement level.</li>
+        <li><strong>Volume</strong> uses a logarithmic scale so that the first 10 check-ins matter as much as the next 90, and the first 100 as much as the next 9,900. This keeps low-volume beers meaningful.</li>
+        <li><strong>BAR</strong> combines quality (wOBAR), volume, and a style-specific <strong>scale</strong> so that a “perfect” beer (5.0 rating, 1,000 check-ins) equals 15.0 BAR, matching the scale of peak single-season WAR.</li>
+        <li><strong>Adjusted Volume</strong> adds a boost for low-check-in beers so they can compete on a more level playing field. <strong>ABR</strong> (Adjusted BAR) / <strong>TAP</strong> (Hall Rating) uses this adjusted volume instead of raw volume.</li>
+      </ul>
+    </section>
+
+    <section class="primer-section" aria-labelledby="formulas-heading">
+      <h2 id="formulas-heading">Core formulas</h2>
+
+      <h3 id="replacement">1. Replacement level (per style)</h3>
+      <ul>
+        <li>Restrict to beers in that style with valid ratings and at least a minimum number of check-ins (e.g. &gt; 5).</li>
+        <li>Sort those beers by <strong>number of check-ins</strong>, descending.</li>
+        <li>Take the <strong>top 70% by count</strong> (e.g. <code>count = floor(0.70 × listCount)</code>, minimum 1).</li>
+        <li><strong>Replacement level</strong> = the <strong>lowest</strong> average rating among those top-70%-by-volume beers.</li>
+      </ul>
+      <p>So replacement level is “the worst beer in the set of beers that get most of the check-ins in that style.”</p>
+
+      <h3 id="wobar">2. wOBAR (weighted Overall Beer Average Rating)</h3>
+      <p>How much better than the style floor a beer is:</p>
+      <code class="primer-formula">wOBAR = Average Rating − Replacement Level</code>
+      <p>Example: If the replacement level for American IPA is 3.4 and a beer’s average rating is 4.1, then wOBAR = 4.1 − 3.4 = 0.7.</p>
+
+      <h3 id="volume">3. Volume (raw)</h3>
+      <p>We use base-10 log of check-ins so that volume doesn’t dominate and small beers still matter:</p>
+      <code class="primer-formula">Volume = log₁₀(# of check-ins)</code>
+      <ul>
+        <li>10 check-ins → 1</li>
+        <li>100 → 2</li>
+        <li>1,000 → 3</li>
+        <li>10,000 → 4</li>
+      </ul>
+
+      <h3 id="scale">4. Scale (per style)</h3>
+      <p>We scale so that a “perfect” beer (5.0 rating, 1,000 check-ins) equals 15.0 BAR (analogous to Babe Ruth’s 1923 WAR). Scale depends on the style’s replacement level:</p>
+      <code class="primer-formula">Scale = (15.0 / log₁₀(1,000)) / (5 − Replacement Level)</code>
+      <p>Since log₁₀(1,000) = 3:</p>
+      <code class="primer-formula">Scale = 5 / (5 − Replacement Level)</code>
+      <p>If (5 − Replacement Level) ≤ 0, the scale is guarded (e.g. no division by zero).</p>
+
+      <h3 id="bar">5. BAR (Beers Above Replacement) — raw volume</h3>
+      <code class="primer-formula">BAR = wOBAR × Volume × Scale</code>
+      <p>This is the main “quality × popularity” metric before any adjustment for low check-ins.</p>
+
+      <h3 id="abr">6. Adjusted Volume and ABR / TAP (Hall Rating)</h3>
+      <p>To give low-check-in beers a fairer shot, we add an <strong>Adjustment Factor (AF)</strong> to volume.</p>
+      <p><strong>Adjustment Factor (AF):</strong></p>
+      <code class="primer-formula">AF = (C / log₁₀(check-ins + E)) + 1</code>
+      <p>Defaults: <strong>C = 5</strong>, <strong>E = 1</strong>.</p>
+      <code class="primer-formula">Adjusted Volume = log₁₀(# of check-ins) + AF</code>
+      <p>Then the Hall Rating (TAP / ABR) is:</p>
+      <code class="primer-formula">ABR = wOBAR × Adjusted Volume × Scale</code>
+      <p>So: same wOBAR and Scale as BAR, but Volume is replaced by Adjusted Volume.</p>
+      <p><strong>Interpretation of AF:</strong></p>
+      <ul>
+        <li>The term <code>log₁₀(check-ins)</code> is the raw volume.</li>
+        <li>The term <code>(C / log₁₀(check-ins + E)) + 1</code> is larger when check-ins are low, so low-volume beers get a volume boost.</li>
+        <li>As check-ins grow, AF shrinks toward 1, and Adjusted Volume behaves more like raw volume.</li>
+      </ul>
+      <p><strong>Example (C = 5, E = 1):</strong></p>
+      <table class="primer-table" aria-label="Adjusted volume example">
+        <thead>
+          <tr>
+            <th>Beer</th>
+            <th>Check-ins</th>
+            <th>log₁₀(check-ins)</th>
+            <th>AF (approx)</th>
+            <th>Adjusted Volume (approx)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Beer A</td>
+            <td>10</td>
+            <td>1</td>
+            <td>5.81</td>
+            <td>6.81</td>
+          </tr>
+          <tr>
+            <td>Beer B</td>
+            <td>1,000</td>
+            <td>3</td>
+            <td>2.67</td>
+            <td>5.67</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>So a beer with 10 check-ins can have a <em>higher</em> adjusted volume than one with 1,000 check-ins, illustrating how the adjustment “levels the playing field” for underdogs.</p>
+    </section>
+
+    <section class="primer-section" aria-labelledby="bar-scale-heading">
+      <h2 id="bar-scale-heading">BAR scale and descriptors</h2>
+      <p>BAR (and similarly ABR/TAP) can be interpreted using the following ranges:</p>
+      <table class="primer-table" aria-label="BAR range descriptors">
+        <thead>
+          <tr>
+            <th>BAR range</th>
+            <th>% of population (approx)</th>
+            <th>Descriptor</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>10+</td><td>0.10%</td><td>Hall-of-Famer</td></tr>
+          <tr><td>8 to 10</td><td>0.40%</td><td>MVP</td></tr>
+          <tr><td>6 to 8</td><td>1.10%</td><td>All Star</td></tr>
+          <tr><td>4 to 6</td><td>4.70%</td><td>Very Good</td></tr>
+          <tr><td>2 to 4</td><td>18.60%</td><td>Above Average</td></tr>
+          <tr><td>0 to 2</td><td>45.70%</td><td>Useful to Average</td></tr>
+          <tr><td>Below 0</td><td>29.40%</td><td>Not Good</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="primer-section primer-glossary" aria-labelledby="glossary-heading">
+      <h2 id="glossary-heading">Glossary</h2>
+      <dl>
+        <dt>ABV</dt>
+        <dd>Alcohol by volume.</dd>
+        <dt>ABR</dt>
+        <dd>Adjusted BAR; same as Hall Rating (TAP). Uses Adjusted Volume instead of raw Volume so low-check-in beers get a volume boost. <code class="primer-formula inline">ABR = wOBAR × Adjusted Volume × Scale</code>.</dd>
+        <dt>BAR</dt>
+        <dd>Beers Above Replacement. A measure of a beer's quality (originated at <a href="https://beergraphs.com/">Beergraphs.com</a>): indexed to style (replacement level) and weighted by volume. <code class="primer-formula inline">BAR = wOBAR × Volume × Scale</code>. See also the BAR scale table above.</dd>
+        <dt>BAR25</dt>
+        <dd>Sum of BAR for the top 25% of a brewery’s beers (by BAR or by some defined ordering). Measures the brewery’s “peak” output.</dd>
+        <dt>IBU</dt>
+        <dd>International Bittering Units; a measure of bitterness (with known limitations).</dd>
+        <dt>Replacement level</dt>
+        <dd>For a given style, the worst average rating among beers in the <strong>top 70% by check-in volume</strong> for that style. Represents the “lowest common denominator” widely available in that style.</dd>
+        <dt>Scale</dt>
+        <dd>Style-specific factor so that a perfect beer (5.0, 1,000 check-ins) equals 15.0 BAR. <code class="primer-formula inline">Scale = 5 / (5 − Replacement Level)</code> (with guard when denominator ≤ 0).</dd>
+        <dt>Solid%</dt>
+        <dd>Percentage of a brewery’s beers that are above average (e.g. using Style+ or a chosen threshold). Example: Solid% = 50% means half of the brewery’s output is above average.</dd>
+        <dt>SOLID</dt>
+        <dd>Measure of how likely you are to get a great beer from a brewery. Based on distance from the mean and put on a 0–100 scale.</dd>
+        <dt>Style+</dt>
+        <dd>A beer’s rating compared to its style, with no volume weighting. <code class="primer-formula inline">Style+ = (Beer’s rating / Average style rating) × 100</code>. Good for finding lesser-known beers that rate highly within their style.</dd>
+        <dt>TAP / Hall Rating</dt>
+        <dd>Same as ABR: <code class="primer-formula inline">wOBAR × Adjusted Volume × Scale</code>. This is the metric used for Hall of Taps rankings.</dd>
+        <dt>Volume</dt>
+        <dd>Raw volume term: <code class="primer-formula inline">log₁₀(# of check-ins)</code>.</dd>
+        <dt>wOBAR</dt>
+        <dd>Weighted Overall Beer Average Rating (from <a href="https://beergraphs.com/">Beergraphs.com</a>): <code class="primer-formula inline">Average Rating − Replacement Level</code>. Quality relative to the style floor.</dd>
+      </dl>
+    </section>
+
+    <section class="primer-section" aria-labelledby="relative-score-heading">
+      <h2 id="relative-score-heading">Relative Beer Score (your rating vs style)</h2>
+      <p>If you want to compare a <em>personal</em> rating to the style average:</p>
+      <code class="primer-formula">Relative Beer Score = (Your Rating / Average Style Rating) × 100</code>
+      <p>Example: You rate an American IPA 4.2; average for the style is 3.8.<br>
+      Relative Beer Score = (4.2 / 3.8) × 100 ≈ 110.5 (you rated it about 10.5% above the style average).</p>
+    </section>
+
+    <section class="primer-section" aria-labelledby="implementation-heading">
+      <h2 id="implementation-heading">Implementation summary</h2>
+      <ul>
+        <li><strong>Replacement level:</strong> Top 70% of style beers by check-in count; replacement level = min(rating) in that set.</li>
+        <li><strong>wOBAR</strong> = Average Rating − Replacement Level.</li>
+        <li><strong>Volume</strong> = log₁₀(check-ins).</li>
+        <li><strong>Scale</strong> = 5 / (5 − Replacement Level), guarded.</li>
+        <li><strong>BAR</strong> = wOBAR × Volume × Scale.</li>
+        <li><strong>AF</strong> = (C / log₁₀(check-ins + E)) + 1, with C = 5, E = 1.</li>
+        <li><strong>Adjusted Volume</strong> = log₁₀(check-ins) + AF.</li>
+        <li><strong>ABR / TAP</strong> = wOBAR × Adjusted Volume × Scale.</li>
+        <li><strong>Style+</strong> = (Rating / Average style rating) × 100.</li>
+      </ul>
+      <p>This formulation keeps the Hall of Taps math consistent across the site and any backend calculations.</p>
+    </section>
+  </div>
+</body>
+</html>
