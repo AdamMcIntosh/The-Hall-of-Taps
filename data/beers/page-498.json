@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4631679",
-    "BeerName": "Batch 54",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "Caketown Craft Brewers",
-    "Origin": "Deventer, Overijssel Netherlands",
-    "BeerAbv": "7.6",
-    "BeerIbu": "78",
-    "HallRating": null
+    "BID": 7669,
+    "BeerName": "White Hawk (I.P.A.)",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Mendocino Brewing Company",
+    "Origin": "Ukiah, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4446876",
-    "BeerName": "purplemiata",
+    "BID": 909,
+    "BeerName": "Talon Barley Wine Ale",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Mendocino Brewing Company",
+    "Origin": "Ukiah, CA United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9660,
+    "BeerName": "Black Eye Ale",
+    "BeerStyle": "Black & Tan",
+    "BreweryName": "Mendocino Brewing Company",
+    "Origin": "Ukiah, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9806,
+    "BeerName": "Imperial IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Mendocino Brewing Company",
+    "Origin": "Ukiah, CA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 85.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673844,
+    "BeerName": "Peanut Butter Porter",
+    "BeerStyle": "Homebrew, Porter - English",
+    "BreweryName": "Three Birds Homebrewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341181,
+    "BeerName": "Roggen Roll",
+    "BeerStyle": "Historical Beer - Roggenbier",
+    "BreweryName": "Brauerei Zwönitz",
+    "Origin": "Zwönitz, Sachsen Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673845,
+    "BeerName": "Horatio",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "@6s&7s; Fermentationists",
+    "Origin": "United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673851,
+    "BeerName": "Flor De Tres",
+    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
+    "BreweryName": "@6s&7s; Fermentationists",
+    "Origin": "United States",
+    "BeerAbv": 7.25,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673854,
+    "BeerName": "Franzia",
+    "BeerStyle": "Homebrew, Wheat Beer - Witbier / Blanche",
+    "BreweryName": "@6s&7s; Fermentationists",
+    "Origin": "United States",
+    "BeerAbv": 5.25,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341184,
+    "BeerName": "Øst-Nor Weissbier",
+    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
+    "BreweryName": "Øst-Nor",
+    "Origin": "Norway",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341212,
+    "BeerName": "Øst-Nor Kölsch Gunnar",
+    "BeerStyle": "Homebrew, Kölsch",
+    "BreweryName": "Øst-Nor",
+    "Origin": "Norway",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341290,
+    "BeerName": "Øst-Nor Gunnar Special Pale Ale",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Øst-Nor",
+    "Origin": "Norway",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341186,
+    "BeerName": "Mezzo Baffo Bionda",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Birrificio Del Sud",
+    "Origin": "Italy",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341188,
+    "BeerName": "Kleines Märzen",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Kleines Brauhaus",
+    "Origin": "Seligenstadt, Hessen Germany",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673860,
+    "BeerName": "Rasp-liner Weisse",
+    "BeerStyle": "Homebrew, Sour - Berliner Weisse",
+    "BreweryName": "Warnerbrau",
+    "Origin": "United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 8.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673853,
+    "BeerName": "Ginga' Ninja Saison",
+    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
+    "BreweryName": "Warnerbrau",
+    "Origin": "United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673865,
+    "BeerName": "Lem-liner Weisse",
+    "BeerStyle": "Homebrew, Sour - Berliner Weisse",
+    "BreweryName": "Warnerbrau",
+    "Origin": "United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 8.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341189,
+    "BeerName": "New Zealand Pale Ale",
+    "BeerStyle": "Pale Ale - New Zealand",
+    "BreweryName": "Dva kohouti",
+    "Origin": "81, Hlavní město Praha Czech Republic",
+    "BeerAbv": 4.30,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341587,
+    "BeerName": "New Zealand Pale Ale",
+    "BeerStyle": "Pale Ale - New Zealand",
+    "BreweryName": "Dva kohouti",
+    "Origin": "81, Hlavní město Praha Czech Republic",
+    "BeerAbv": 4.30,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673855,
+    "BeerName": "Wicked Happy V2",
     "BeerStyle": "IPA - American",
-    "BreweryName": "The Veil Brewing Co.",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Franklins Brewery",
+    "Origin": "Hyattsville, MD United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4816455",
-    "BeerName": "The Classic Pale",
-    "BeerStyle": "Pale Ale - Australian",
-    "BreweryName": "Three Tails Brewery",
-    "Origin": "Mudgee, New South Wales Australia",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446877",
-    "BeerName": "FLIPMODE That Thing, That Thing, That Thing",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Scorched Earth Brewing Company",
-    "Origin": "Algonquin, IL United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4631680",
-    "BeerName": "Wet Hop Azacca",
+    "BID": 1674003,
+    "BeerName": "Wicked Happy VI",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Brygghus 19",
-    "Origin": "Karlshamn, Blekinge län Sweden",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Franklins Brewery",
+    "Origin": "Hyattsville, MD United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4816456",
-    "BeerName": "Chocolate Clover Shake",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Viking Artisan Ales",
-    "Origin": "Merrillville, IN United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 13787,
+    "BeerName": "Pumpkin Pie Stout",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Franklins Brewery",
+    "Origin": "Hyattsville, MD United States",
+    "BeerAbv": 6.25,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4631681",
-    "BeerName": "Wet Hop Azacca",
+    "BID": 13073,
+    "BeerName": "Twisted Turtle Pale Ale",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Franklins Brewery",
+    "Origin": "Hyattsville, MD United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 44.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13060,
+    "BeerName": "Sierra Madre",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Franklins Brewery",
+    "Origin": "Hyattsville, MD United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13252,
+    "BeerName": "Private IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Brygghus 19",
-    "Origin": "Karlshamn, Blekinge län Sweden",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816457",
-    "BeerName": "Hop the Ratio",
-    "BeerStyle": "Lager - IPL (India Pale Lager)",
-    "BreweryName": "People Like Us",
-    "Origin": "København, Region Hovedstaden Denmark",
-    "BeerAbv": "5.2",
-    "BeerIbu": "55",
-    "HallRating": null
-  },
-  {
-    "BID": "4446878",
-    "BeerName": "Беляш",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Пивоварня Николая Копытова",
-    "Origin": "Barnaul, Алтайский край Russia",
-    "BeerAbv": "6",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4631682",
-    "BeerName": "Countess Brut IPA",
-    "BeerStyle": "IPA - Brut",
-    "BreweryName": "Cycad Brewing",
-    "Origin": "Tokyo, Japan",
-    "BeerAbv": "7.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446879",
-    "BeerName": "Leaner Is Meaner",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Hemauer Brewing Co.",
-    "Origin": "Mechanicsburg, PA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816458",
-    "BeerName": "Mango Mudder Thudder",
-    "BeerStyle": "Homebrew, Fruit Beer",
-    "BreweryName": "Bear Aware Brewing",
-    "Origin": "England",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446880",
-    "BeerName": "WIT",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Conshohocken Brewing Company",
-    "Origin": "Conshohocken, PA United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631683",
-    "BeerName": "Batch 55",
-    "BeerStyle": "IPA - Red",
-    "BreweryName": "Caketown Craft Brewers",
-    "Origin": "Deventer, Overijssel Netherlands",
-    "BeerAbv": "7",
-    "BeerIbu": "65",
-    "HallRating": null
-  },
-  {
-    "BID": "4631684",
-    "BeerName": "Passion Fruit Blonde",
-    "BeerStyle": "Brett Beer",
-    "BreweryName": "Beech Mountain Brewing Company",
-    "Origin": "Beech Mountain, NC United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446881",
-    "BeerName": "#Mosaic&Chill",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Device Brewing Company",
-    "Origin": "Sacramento, CA United States",
-    "BeerAbv": "8",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4816459",
-    "BeerName": "Island Weekdays",
-    "BeerStyle": "Pale Ale - Australian",
-    "BreweryName": "Switch Brewing",
-    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
-    "BeerAbv": "6",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "4631685",
-    "BeerName": "Phase Inversion",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Banded Brewing Co.",
-    "Origin": "Biddeford, ME United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446882",
-    "BeerName": "Barmy Lemon",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Lady Luck Brewery",
-    "Origin": "Whitby, North Yorkshire England",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631686",
-    "BeerName": "Stalsberget Single Hop Brygg#008",
-    "BeerStyle": "Homebrew, Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "Jensegbrygg",
-    "Origin": "Tronvik, Østfold Norway",
-    "BeerAbv": "7.47",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816460",
-    "BeerName": "Dregs&Mix&Wait",
-    "BeerStyle": "Wild Ale - Other",
-    "BreweryName": "ZBS Project (Zen Brewing Solutions)",
-    "Origin": "Moscow, Москва Russia",
-    "BeerAbv": "5",
-    "BeerIbu": "1",
-    "HallRating": null
-  },
-  {
-    "BID": "4446883",
-    "BeerName": "Gala Schankbier",
-    "BeerStyle": "Table Beer",
-    "BreweryName": "National Jürgens Brauerei Braunschweig",
-    "Origin": "Braunschweig, Niedersachsen Germany",
-    "BeerAbv": "2.5",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4631687",
-    "BeerName": "Stratasphere",
-    "BeerStyle": "IPA - Brett",
-    "BreweryName": "Banded Brewing Co.",
-    "Origin": "Biddeford, ME United States",
-    "BeerAbv": "9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446884",
-    "BeerName": "Sjarmör",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Segull 67",
-    "Origin": "Siglufjörður, Fjallabyggð Iceland",
-    "BeerAbv": "4.6",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "4816461",
-    "BeerName": "You Don't Win Friends With Salad",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Sureshot Brewing",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": "3.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Franklins Brewery",
+    "Origin": "Hyattsville, MD United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

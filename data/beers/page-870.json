@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4941475",
-    "BeerName": "Seed Series #138 - Table Beer W/ Lemon Peel",
-    "BeerStyle": "Table Beer",
-    "BreweryName": "Fernson Brewing Company",
-    "Origin": "Sioux Falls, SD United States",
-    "BeerAbv": "3.9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4445260,
+    "BeerName": "Outsider",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Basqueland Brewing",
+    "Origin": "Hernani, Euskadi Spain",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961844",
-    "BeerName": "Royals 1998/99",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Phantom Brewing Co.",
-    "Origin": "Reading, Berkshire England",
-    "BeerAbv": "4.4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4815365,
+    "BeerName": "Slam Dunkel",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "Basqueland Brewing",
+    "Origin": "Hernani, Euskadi Spain",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4941476",
-    "BeerName": "Aloha!",
+    "BID": 4815370,
+    "BeerName": "Mister Dough",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Basqueland Brewing",
+    "Origin": "Hernani, Euskadi Spain",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3481,
+    "BeerName": "High Rollers Wheat Beer",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Anderson Valley Brewing Company",
+    "Origin": "Boonville, CA United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3706,
+    "BeerName": "Deep Enders Dark Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Anderson Valley Brewing Company",
+    "Origin": "Boonville, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4481,
+    "BeerName": "Boont Amber Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Anderson Valley Brewing Company",
+    "Origin": "Boonville, CA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4482,
+    "BeerName": "Hop Ottin' IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Anderson Valley Brewing Company",
+    "Origin": "Boonville, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4508,
+    "BeerName": "Summer Solstice",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Anderson Valley Brewing Company",
+    "Origin": "Boonville, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 5.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9568,
+    "BeerName": "Brother David's Triple",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Anderson Valley Brewing Company",
+    "Origin": "Boonville, CA United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8821,
+    "BeerName": "Barney Flats Oatmeal Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Anderson Valley Brewing Company",
+    "Origin": "Boonville, CA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 14.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980654,
+    "BeerName": "Saxy Machismo (Strawberry Brandy Oak Barrel Aged)",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Haw River Farmhouse Ales",
+    "Origin": "Saxapahaw, NC United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631155,
+    "BeerName": "In the Name of Toad",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Haw River Farmhouse Ales",
+    "Origin": "Saxapahaw, NC United States",
+    "BeerAbv": 12.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669945,
+    "BeerName": "Saxy Machismo (2016)",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Haw River Farmhouse Ales",
+    "Origin": "Saxapahaw, NC United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670322,
+    "BeerName": "Experimental Extra Pale Ale",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Wantsum Brewery",
-    "Origin": "St Nicholas-at-Wade, Kent England",
-    "BeerAbv": "4.2",
-    "BeerIbu": "50",
-    "HallRating": null
+    "BreweryName": "Haw River Farmhouse Ales",
+    "Origin": "Saxapahaw, NC United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4982188",
-    "BeerName": "YouYou Lele Cheese Tea Beer: Raspberry Mango",
+    "BID": 1670373,
+    "BeerName": "Golden Bloody Mary Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Haw River Farmhouse Ales",
+    "Origin": "Saxapahaw, NC United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668100,
+    "BeerName": "\"Hot N' Saxy\" Machismo",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Haw River Farmhouse Ales",
+    "Origin": "Saxapahaw, NC United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668113,
+    "BeerName": "Cask-Aged Coffee Saxy Machismo",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Haw River Farmhouse Ales",
+    "Origin": "Saxapahaw, NC United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668121,
+    "BeerName": "Black Cherry Saxy Machismo",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Haw River Farmhouse Ales",
+    "Origin": "Saxapahaw, NC United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673746,
+    "BeerName": "Territorialis (A Provision Ale)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Haw River Farmhouse Ales",
+    "Origin": "Saxapahaw, NC United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 26.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673154,
+    "BeerName": "Rusted Plow Farmhouse Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Haw River Farmhouse Ales",
+    "Origin": "Saxapahaw, NC United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667546,
+    "BeerName": "Oyster Bay Brewing",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Oyster Bay Brewing Company",
+    "Origin": "Oyster Bay, NY United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 57.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667553,
+    "BeerName": "Shark Bait-Blood Orange Citrus Ale",
     "BeerStyle": "Fruit Beer",
-    "BreweryName": "SLOWBOAT BREWING 悠航鲜啤",
-    "Origin": "Bei Jing Shi, China / People's Republic of China",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Oyster Bay Brewing Company",
+    "Origin": "Oyster Bay, NY United States",
+    "BeerAbv": 3.50,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961845",
-    "BeerName": "Royals 2015/16",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Phantom Brewing Co.",
-    "Origin": "Reading, Berkshire England",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941477",
-    "BeerName": "Super Dee Duper Beast",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Monkey Town Brewing Company",
-    "Origin": "Dayton, TN United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961846",
-    "BeerName": "Milkshake IPA Touch",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "La Mousse Touch'",
-    "Origin": "Lille, Hauts-de-France France",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941478",
-    "BeerName": "Quantum Brewing: Density Matrix",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Browar Bojanowo",
-    "Origin": "Bojanowo, Greater Poland Voivodeship Poland",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4982189",
-    "BeerName": "PURPLE - Winter Seasonal IPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Ocho Beer",
-    "Origin": "Beaconsfield, Tasmania Australia",
-    "BeerAbv": "6.5",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4961847",
-    "BeerName": "Royals 1987/88",
+    "BID": 3340206,
+    "BeerName": "Light American Lager",
     "BeerStyle": "Lager - American",
-    "BreweryName": "Phantom Brewing Co.",
-    "Origin": "Reading, Berkshire England",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Oyster Bay Brewing Company",
+    "Origin": "Oyster Bay, NY United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4941479",
-    "BeerName": "American Wheat",
-    "BeerStyle": "Homebrew, Wheat Beer - American Pale Wheat",
-    "BreweryName": "Merc Ale",
-    "Origin": "England",
-    "BeerAbv": "5.2",
-    "BeerIbu": "66",
-    "HallRating": null
+    "BID": 4447092,
+    "BeerName": "War Horse Light",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "War Horse Brewing Company",
+    "Origin": "Geneva, NY United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961848",
-    "BeerName": "La Framboise",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Ferme Marineau",
-    "Origin": "Laval, QC Canada",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4982190",
-    "BeerName": "West Coast IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Palling Bros Brewery",
-    "Origin": "Heathcote, Victoria Australia",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941480",
-    "BeerName": "55 In a 54",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Back Shed Brewing",
-    "Origin": "Waite Park, MN United States",
-    "BeerAbv": "6.7",
-    "BeerIbu": "38",
-    "HallRating": null
-  },
-  {
-    "BID": "4961849",
-    "BeerName": "Ambrée Touch",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "La Mousse Touch'",
-    "Origin": "Lille, Hauts-de-France France",
-    "BeerAbv": "3.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941481",
-    "BeerName": "YEP!",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Grindhaus Brew Lab",
-    "Origin": "Clearwater, FL United States",
-    "BeerAbv": "5",
-    "BeerIbu": "37",
-    "HallRating": null
-  },
-  {
-    "BID": "4982191",
-    "BeerName": "Gadao Cave",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Antigu Brewing",
-    "Origin": "Guam",
-    "BeerAbv": "8",
-    "BeerIbu": "48",
-    "HallRating": null
-  },
-  {
-    "BID": "4961850",
-    "BeerName": "Ryefield IPA",
-    "BeerStyle": "IPA - Rye",
-    "BreweryName": "BentSpoke Brewing Co",
-    "Origin": "Braddon, Australian Capital Territory Australia",
-    "BeerAbv": "7.3",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4941482",
-    "BeerName": "#106 Ta Heller En øl...",
-    "BeerStyle": "Homebrew, Lager - Helles",
-    "BreweryName": "Rolvsøy Ølverksted",
-    "Origin": "Norway",
-    "BeerAbv": "5.4",
-    "BeerIbu": "22",
-    "HallRating": null
-  },
-  {
-    "BID": "4982192",
-    "BeerName": "Footsteps",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Potum Brewery",
-    "Origin": "Strömsfors, Östergötlands län Sweden",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961851",
-    "BeerName": "Mango Madness",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "Phat Brew Club",
-    "Origin": "West Perth, Western Australia Australia",
-    "BeerAbv": "6",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4941483",
-    "BeerName": "Chopp de Vinho",
-    "BeerStyle": "RTD - Wine Cocktail",
-    "BreweryName": "Hettwer Bier",
-    "Origin": "Três de Maio, Rio Grande do Sul Brazil",
-    "BeerAbv": "5.5",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4961852",
-    "BeerName": "Hoppy Ending",
-    "BeerStyle": "Homebrew, Belgian Strong Golden Ale",
-    "BreweryName": "Sping Pong",
-    "Origin": null,
-    "BeerAbv": "11",
-    "BeerIbu": "70",
-    "HallRating": null
-  },
-  {
-    "BID": "4941484",
-    "BeerName": "Passango Pale Ale",
-    "BeerStyle": "Homebrew, Pale Ale - Milkshake",
-    "BreweryName": "Cow Hill Brewery",
-    "Origin": "Norway",
-    "BeerAbv": "5.1",
-    "BeerIbu": "16",
-    "HallRating": null
-  },
-  {
-    "BID": "4982193",
-    "BeerName": "Strawberry Vortice",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Pastore Brewing and Blending",
-    "Origin": "Waterbeach, Cambridgeshire England",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3334419,
+    "BeerName": "War Horse Light: Mixed Berry",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "War Horse Brewing Company",
+    "Origin": "Geneva, NY United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00
   }
 ]

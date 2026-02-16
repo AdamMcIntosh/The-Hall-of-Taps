@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4815417",
-    "BeerName": "De Poes",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Mad Giant",
-    "Origin": "Johannesburg, Gauteng South Africa",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4981390,
+    "BeerName": "Irish Red Ale 2",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "Imperio De Maltas",
+    "Origin": "San Bernardino Tlaxcalancingo, Puebla Mexico",
+    "BeerAbv": 4.50,
+    "BeerIbu": 26.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4630662",
-    "BeerName": "Czechpoint",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "GameCraft Brewing",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4445905",
-    "BeerName": "Evenings On Melrose",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Trolley Barn Fermentory",
-    "Origin": "Charlotte, NC United States",
-    "BeerAbv": "6.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4445906",
-    "BeerName": "West Coast Vibes",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Findlay Brewing Company",
-    "Origin": "Findlay, OH United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "90",
-    "HallRating": null
-  },
-  {
-    "BID": "4815418",
-    "BeerName": "Oktober In August - Trøstival",
-    "BeerStyle": "Homebrew, Märzen",
-    "BreweryName": "Dama Dama",
-    "Origin": null,
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630663",
-    "BeerName": "Bonobo Blond",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Brew Monkey",
-    "Origin": "Netherlands",
-    "BeerAbv": "7.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4445907",
-    "BeerName": "Raspberry And Hibiscus Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Tuatara Brewery",
-    "Origin": "Paraparaumu, Wellington New Zealand",
-    "BeerAbv": "4.6",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "4445908",
-    "BeerName": "Seek Advice Elsewhere",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Vinyl Brewing",
-    "Origin": "Hammonton, NJ United States",
-    "BeerAbv": "5.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815419",
-    "BeerName": "Perzik Wit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Brouwerij Klein Duimpje",
-    "Origin": "Hillegom, Zuid-Holland Netherlands",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630664",
-    "BeerName": "Dunkel Dessert",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Jacob Leinenkugel Brewing Company",
-    "Origin": "Chippewa Falls, WI United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815420",
-    "BeerName": "Crushed Velvet",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630665",
-    "BeerName": "Blitzen (2021)",
-    "BeerStyle": "IPA - Rye",
-    "BreweryName": "Hogna Brygg",
-    "Origin": "Singsås, Trøndelag Norway",
-    "BeerAbv": "7.4",
-    "BeerIbu": "50",
-    "HallRating": null
-  },
-  {
-    "BID": "4445909",
-    "BeerName": "Sour Ipa",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Shelter Brewing Company",
-    "Origin": "Saskatoon, SK Canada",
-    "BeerAbv": "4.5",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4815421",
-    "BeerName": "'Lil Jazz",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Steep Ravine Brewing Company",
-    "Origin": "Highland Park, IL United States",
-    "BeerAbv": "10",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630666",
-    "BeerName": "Cafe De Olla Stout",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "Cervecería Colorado",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": "6.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4445910",
-    "BeerName": "Mega S'mores",
-    "BeerStyle": "Stout - Pastry",
-    "BreweryName": "Kills Boro Brewing Company",
-    "Origin": "Richmond County, NY United States",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815422",
-    "BeerName": "India Pale Ale (IPA v6.12)",
+    "BID": 4981406,
+    "BeerName": "Neipa Citra&Galaxy",
     "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Abjuration Brewing",
-    "Origin": "McKees Rocks, PA United States",
-    "BeerAbv": "7.3",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Imperio De Maltas",
+    "Origin": "San Bernardino Tlaxcalancingo, Puebla Mexico",
+    "BeerAbv": 6.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4445911",
-    "BeerName": "Experimental Series Batch 11",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Ocean Lab Brewing Co.",
-    "Origin": "Carolina, Puerto Rico",
-    "BeerAbv": "6.67",
-    "BeerIbu": "40",
-    "HallRating": null
+    "BID": 4981397,
+    "BeerName": "Belgian Dark Strong Ale",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Imperio De Maltas",
+    "Origin": "San Bernardino Tlaxcalancingo, Puebla Mexico",
+    "BeerAbv": 10.00,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4630667",
-    "BeerName": "Sour Series: Blood Orange & Cranberry",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Timberyard Brewing Company",
-    "Origin": "East Brookfield, MA United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "4815423",
-    "BeerName": "Franconian Lager (FR v1.0)",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Abjuration Brewing",
-    "Origin": "McKees Rocks, PA United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "22",
-    "HallRating": null
-  },
-  {
-    "BID": "4630668",
-    "BeerName": "O'Riordan Wheat",
-    "BeerStyle": "Wheat Beer - Other",
-    "BreweryName": "Dog Rose Brewing Co.",
-    "Origin": "St Augustine, FL United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "12",
-    "HallRating": null
-  },
-  {
-    "BID": "4445912",
-    "BeerName": "Froothie - Passionfruit, Lime, & Coconut",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Barrel Theory Beer Company",
-    "Origin": "Saint Paul, MN United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815424",
-    "BeerName": "Mad Giant Lager",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Mad Giant",
-    "Origin": "Johannesburg, Gauteng South Africa",
-    "BeerAbv": "4.2",
-    "BeerIbu": "14",
-    "HallRating": null
-  },
-  {
-    "BID": "4815425",
-    "BeerName": "NOT WITH THAT ATTITUDE",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "BlackStack Brewing",
-    "Origin": "Saint Paul, MN United States",
-    "BeerAbv": "10.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4630669",
-    "BeerName": "COASTIN' - WITH WHITE TRUFFLE",
+    "BID": 4981403,
+    "BeerName": "Kölsh 01",
     "BeerStyle": "Kölsch",
-    "BreweryName": "TALEA Beer Co.",
-    "Origin": "Kings County, NY United States",
-    "BeerAbv": "4.6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Imperio De Maltas",
+    "Origin": "San Bernardino Tlaxcalancingo, Puebla Mexico",
+    "BeerAbv": 4.70,
+    "BeerIbu": 26.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961359,
+    "BeerName": "Velvet Fog",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Hop Chaos Brewing Company",
+    "Origin": "Spokane, WA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 31.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940693,
+    "BeerName": "Hop Paradox",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Hop Chaos Brewing Company",
+    "Origin": "Spokane, WA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940699,
+    "BeerName": "Unintentional Creativity",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Hop Chaos Brewing Company",
+    "Origin": "Spokane, WA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 34.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341710,
+    "BeerName": "Wicked Rye Red IPA",
+    "BeerStyle": "IPA - Rye",
+    "BreweryName": "Kings Bluff Brewery",
+    "Origin": "Clarksville, TN United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341726,
+    "BeerName": "Porch Swing IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Kings Bluff Brewery",
+    "Origin": "Clarksville, TN United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981408,
+    "BeerName": "Golden Hour, Golden Sour",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Kings Bluff Brewery",
+    "Origin": "Clarksville, TN United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981392,
+    "BeerName": "Sunflower Fields",
+    "BeerStyle": "IPA - Cold",
+    "BreweryName": "Kings Bluff Brewery",
+    "Origin": "Clarksville, TN United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940701,
+    "BeerName": "Barú Seltzer Mango Maracuyá",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Fábrica de Licores de Antioquía",
+    "Origin": "Medellín, Antioquia Colombia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940695,
+    "BeerName": "Barú Seltzer Granada",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Fábrica de Licores de Antioquía",
+    "Origin": "Medellín, Antioquia Colombia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961053,
+    "BeerName": "Jaa!reszeit Reloaded",
+    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
+    "BreweryName": "Navibräu",
+    "Origin": "Germany",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961074,
+    "BeerName": "Hopfenbleiche",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Navibräu",
+    "Origin": "Germany",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940696,
+    "BeerName": "Wee Heavy",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "El Paso Brewing Company",
+    "Origin": "El Paso, TX United States",
+    "BeerAbv": 9.10,
+    "BeerIbu": 32.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 413,
+    "BeerName": "Nieuw Ligt Grand Cru (2006)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Brouwerij De Hemel",
+    "Origin": "Nijmegen, Gelderland Netherlands",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341128,
+    "BeerName": "Blarenbier",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij De Hemel",
+    "Origin": "Nijmegen, Gelderland Netherlands",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981395,
+    "BeerName": "KEsätappo Ahhh Oispa NEiparoma",
+    "BeerStyle": "Homebrew, IPA - New England / Hazy",
+    "BreweryName": "Hervannan Harrastus Ja Pano",
+    "Origin": "Finland",
+    "BeerAbv": 6.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961054,
+    "BeerName": "Pinky Dora",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Giustospirito",
+    "Origin": "Rubiera, Emilia-Romagna Italy",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676784,
+    "BeerName": "Fei Mi",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "Giustospirito",
+    "Origin": "Rubiera, Emilia-Romagna Italy",
+    "BeerAbv": 4.90,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981398,
+    "BeerName": "Brown IPA",
+    "BeerStyle": "IPA - Brown",
+    "BreweryName": "4 Hermanos Cervecería",
+    "Origin": "Medellín, Antioquia Colombia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961057,
+    "BeerName": "Scapegoat",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Pennine Brewing Co",
+    "Origin": "Well, North Yorkshire England",
+    "BeerAbv": 4.20,
+    "BeerIbu": 2.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4940700,
+    "BeerName": "Donkey Dr. Health Tonic",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Outpost Brewing",
+    "Origin": "Coeur d'Alene, ID United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337808,
+    "BeerName": "Hartz American Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Danville Brewing Company",
+    "Origin": "Danville, CA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
   }
 ]

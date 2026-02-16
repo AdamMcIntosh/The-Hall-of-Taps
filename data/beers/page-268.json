@@ -1,252 +1,252 @@
 [
   {
-    "BID": "3335465",
-    "BeerName": "Knock On Wood",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Tack o Brew",
-    "Origin": "Borgholm, Kalmar län Sweden",
-    "BeerAbv": "6.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3070",
-    "BeerName": "Nut Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "River West Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335466",
-    "BeerName": "Green Ocean (2019 Session IPA)",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "3 Sons Brewing Co.",
-    "Origin": "Dania Beach, FL United States",
-    "BeerAbv": "4.15",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668823",
-    "BeerName": "Marguerite",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Sun King Brewery",
-    "Origin": "Indianapolis, IN United States",
-    "BeerAbv": "6",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "3071",
-    "BeerName": "Berliner Weisse",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "River West Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "3.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668824",
-    "BeerName": "John By Imperial Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Scotch Irish Brewing",
-    "Origin": "Ottawa, ON Canada",
-    "BeerAbv": "8.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3072",
-    "BeerName": "Railroad Stout",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "River West Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335467",
-    "BeerName": "Franken-Juice",
+    "BID": 3789,
+    "BeerName": "Water Gap Wheat",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "High And Dry Brewing",
-    "Origin": "Albuquerque, NM United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "10",
-    "HallRating": null
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1668825",
-    "BeerName": "B3 Session IPA",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "More Beer! Riverside",
-    "Origin": "United States",
-    "BeerAbv": "6.1",
-    "BeerIbu": "90",
-    "HallRating": null
+    "BID": 3790,
+    "BeerName": "Mountain Lager",
+    "BeerStyle": "Lager - Dortmunder / Export",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3335468",
-    "BeerName": "Milkshake DIPA Mango",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "Salden's Brewery",
-    "Origin": "Tula, Тульская Область Russia",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3791,
+    "BeerName": "Of Weizen Men",
+    "BeerStyle": "Bock - Weizenbock",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3074",
-    "BeerName": "Oktoberfest",
-    "BeerStyle": "Märzen",
-    "BreweryName": "River West Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335469",
-    "BeerName": "Don Camillo’s Beer",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Birrificio Abusivo",
-    "Origin": "Domagnano, San Marino",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668826",
-    "BeerName": "Coyote",
-    "BeerStyle": "Brown Ale - Other",
-    "BreweryName": "Coyote Bar",
-    "Origin": "Luxembourg",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3075",
-    "BeerName": "Lighthouse Weizen",
-    "BeerStyle": "Wheat Beer - Kristallweizen",
-    "BreweryName": "River West Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "3.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3076",
-    "BeerName": "India Pale Ale",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "River West Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335470",
-    "BeerName": "Float Session - Cashmere Hopped",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Highside Brewing",
-    "Origin": "Frisco, CO United States",
-    "BeerAbv": "5",
-    "BeerIbu": "50",
-    "HallRating": null
-  },
-  {
-    "BID": "1668827",
-    "BeerName": "For the Love of Lilac",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "WildCraft Cider Works",
-    "Origin": "Eugene, OR United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3077",
-    "BeerName": "Red Fox Amber Ale",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "River West Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668828",
-    "BeerName": "Unforeseen Circumstances",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "The Commons Brewery",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3078",
-    "BeerName": "Bullfrog Bitter ESB",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "River West Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "4.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335471",
-    "BeerName": "Barrel Aged Series: Abbaye De Gembloux",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Uncle Billy's Brewery",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "28",
-    "HallRating": null
-  },
-  {
-    "BID": "1668829",
-    "BeerName": "Muskoka Lakes Classic",
+    "BID": 3792,
+    "BeerName": "Purist Pale Ale",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Griffin Gastropub",
-    "Origin": "Bracebridge, ON Canada",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3080",
-    "BeerName": "Whistle Stop Hefe-Weiss",
+    "BID": 3793,
+    "BeerName": "Jolly Scot Scottish Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3794,
+    "BeerName": "Hoppy Trails IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 63.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3795,
+    "BeerName": "Susquehanna Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3796,
+    "BeerName": "Zoigl Star Lager",
+    "BeerStyle": "Historical Beer - Zoigl",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3797,
+    "BeerName": "Abbey Roade Belgian Ale",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3798,
+    "BeerName": "Celtic Knot Irish Red Ale",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3799,
+    "BeerName": "Peregrine Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3800,
+    "BeerName": "Anniversary Maibock",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3801,
+    "BeerName": "Hinterland Hefe Weizen",
     "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "River West Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3335472",
-    "BeerName": "IPA Handdesinfektion",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Dalens Sjukhus",
-    "Origin": null,
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3802,
+    "BeerName": "Dom Blonde Kölsch",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1668830",
-    "BeerName": "Belgian Tripel",
-    "BeerStyle": "Homebrew, Belgian Tripel",
-    "BreweryName": "Phillip Dickey",
-    "Origin": "United States",
-    "BeerAbv": "7.6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3803,
+    "BeerName": "Kipona Fest",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3804,
+    "BeerName": "Trail Blaze Organic Maple Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3805,
+    "BeerName": "Pennypacker Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 26.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3806,
+    "BeerName": "Grinnin' Grizzly Spiced Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3807,
+    "BeerName": "Sophie's Sparkling Ale",
+    "BeerStyle": "Mead - Braggot",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 4.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3808,
+    "BeerName": "Coconut Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3809,
+    "BeerName": "Wildflower Honey Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341511,
+    "BeerName": "Coffee Ipa",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 69.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5102,
+    "BeerName": "Rauchbock",
+    "BeerStyle": "Rauchbier",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5827,
+    "BeerName": "Batch No. 666",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5829,
+    "BeerName": "IPA Series w/ Simcoe",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Appalachian Brewing Company",
+    "Origin": "Harrisburg, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

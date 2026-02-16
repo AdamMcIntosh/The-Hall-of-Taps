@@ -1,252 +1,252 @@
 [
   {
-    "BID": "3334044",
-    "BeerName": "Peachy Beachy IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Uncle Bear’s Brewery, Taproom & Yard",
-    "Origin": "Gilbert, AZ United States",
-    "BeerAbv": "6",
-    "BeerIbu": "65",
-    "HallRating": null
+    "BID": 1159,
+    "BeerName": "Dogtoberfest",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Flying Dog Brewery",
+    "Origin": "Utica, NY United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 20.00,
+    "HallRating": 16.74
   },
   {
-    "BID": "2055",
-    "BeerName": "Roundhouse Raspberry",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Flossmoor Station Restaurant and Brewery",
-    "Origin": "Flossmoor, IL United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2056",
-    "BeerName": "Eclipse",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "FiftyFifty Brewing Co.",
-    "Origin": "Truckee, CA United States",
-    "BeerAbv": "11.9",
-    "BeerIbu": "75",
-    "HallRating": null
-  },
-  {
-    "BID": "1668044",
-    "BeerName": "Belgian Spiced Ale",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "White Rabbit",
-    "Origin": "Kryvyi Rih, Dnepropetrovsk Oblast Ukraine",
-    "BeerAbv": "5",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "3334045",
-    "BeerName": "C-Cider",
-    "BeerStyle": "Homebrew, Cider - Dry",
-    "BreweryName": "Castelijn",
-    "Origin": "Netherlands",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2057",
-    "BeerName": "Kilt Kicker Wee Heavy",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "Flossmoor Station Restaurant and Brewery",
-    "Origin": "Flossmoor, IL United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668045",
-    "BeerName": "Chimera",
-    "BeerStyle": "IPA - White / Wheat",
-    "BreweryName": "George's Island Brewing",
-    "Origin": "Halifax, NS Canada",
-    "BeerAbv": "7.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334046",
-    "BeerName": "Merlin Černý",
-    "BeerStyle": "Lager - Tmavé (Czech Dark)",
-    "BreweryName": "Pivovar Protivín",
-    "Origin": "Protivín, Jihočeský kraj Czech Republic",
-    "BeerAbv": "4.7",
-    "BeerIbu": "34",
-    "HallRating": null
-  },
-  {
-    "BID": "2058",
-    "BeerName": "El Diablo Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Flossmoor Station Restaurant and Brewery",
-    "Origin": "Flossmoor, IL United States",
-    "BeerAbv": "11",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2059",
-    "BeerName": "Bavarian Helles",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Flossmoor Station Restaurant and Brewery",
-    "Origin": "Flossmoor, IL United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334047",
-    "BeerName": "Ничего святого",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "4BREWERS",
-    "Origin": "Vladimir, Vladimirskaya oblast' Russia",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668046",
-    "BeerName": "Papa Don't Peach",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Elm Street Brewing Company",
-    "Origin": "Muncie, IN United States",
-    "BeerAbv": "5.9",
-    "BeerIbu": "26",
-    "HallRating": null
-  },
-  {
-    "BID": "2060",
-    "BeerName": "Zephyr German Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Flossmoor Station Restaurant and Brewery",
-    "Origin": "Flossmoor, IL United States",
-    "BeerAbv": "5",
-    "BeerIbu": "24",
-    "HallRating": null
-  },
-  {
-    "BID": "2061",
-    "BeerName": "Station Master American Wheat",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Flossmoor Station Restaurant and Brewery",
-    "Origin": "Flossmoor, IL United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "27",
-    "HallRating": null
-  },
-  {
-    "BID": "1668047",
-    "BeerName": "Razzberry Beret",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Bathtub Row Brewing Co-op",
-    "Origin": "Los Alamos, NM United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334048",
-    "BeerName": "Скрытый смысл [Raspberry Coconut]",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "4BREWERS",
-    "Origin": "Vladimir, Vladimirskaya oblast' Russia",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2063",
-    "BeerName": "Harry Baals Irish Stout",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Mad Anthony Brewing Company",
-    "Origin": "Fort Wayne, IN United States",
-    "BeerAbv": "4.2",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "1668048",
-    "BeerName": "Wedded Bliss",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Glentworth Brewery",
-    "Origin": "Doncaster, South Yorkshire England",
-    "BeerAbv": "4.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334049",
-    "BeerName": "Art Ležák",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Pivovar JungBerg",
-    "Origin": "Hořice v Podkrkonoší, Královéhradecký kraj Czech Republic",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2064",
-    "BeerName": "Old Fort Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Mad Anthony Brewing Company",
-    "Origin": "Fort Wayne, IN United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668049",
-    "BeerName": "Tennent's Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Tennent's Caledonian Brewery",
-    "Origin": "Glasgow, Glasgow City Scotland",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334050",
-    "BeerName": "Splash Up [Peach]",
-    "BeerStyle": "Pale Ale - Milkshake",
-    "BreweryName": "4BREWERS",
-    "Origin": "Vladimir, Vladimirskaya oblast' Russia",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2065",
-    "BeerName": "Big Daddy Brown",
+    "BID": 12378,
+    "BeerName": "Cubano-style Espresso Brown Ale",
     "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Mad Anthony Brewing Company",
-    "Origin": "Fort Wayne, IN United States",
-    "BeerAbv": "4.4",
-    "BeerIbu": "17",
-    "HallRating": null
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 25.00,
+    "HallRating": 16.74
   },
   {
-    "BID": "3334051",
-    "BeerName": "Continental Brekkie",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Variant Brewing Company",
-    "Origin": "Roswell, GA United States",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 11489,
+    "BeerName": "Serpent's Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "The Lost Abbey",
+    "Origin": "San Marcos, CA United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 55.00,
+    "HallRating": 16.73
   },
   {
-    "BID": "2066",
-    "BeerName": "Ol' Woody Pale Ale",
+    "BID": 11474,
+    "BeerName": "Interurban IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Fremont Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 80.00,
+    "HallRating": 16.73
+  },
+  {
+    "BID": 12331,
+    "BeerName": "Golden Naked Christmas Ale",
+    "BeerStyle": "Strong Ale - English",
+    "BreweryName": "Jacobsen",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 7.50,
+    "BeerIbu": 23.00,
+    "HallRating": 16.72
+  },
+  {
+    "BID": 10137,
+    "BeerName": "Green Gold",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Mikkeller",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 16.72
+  },
+  {
+    "BID": 1036,
+    "BeerName": "90/~ Wee Heavy",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Belhaven Brewery",
+    "Origin": "Dunbar, East Lothian Scotland",
+    "BeerAbv": 7.40,
+    "BeerIbu": 26.00,
+    "HallRating": 16.70
+  },
+  {
+    "BID": 1001,
+    "BeerName": "Scottish Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 16.69
+  },
+  {
+    "BID": 12154,
+    "BeerName": "Granite (2009)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Hardknott",
+    "Origin": "Millom, Cumberland England",
+    "BeerAbv": 10.40,
+    "BeerIbu": 0.00,
+    "HallRating": 16.69
+  },
+  {
+    "BID": 11849,
+    "BeerName": "Columbian Supreme",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Oskar Blues Brewery®",
+    "Origin": "Longmont, CO United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 0.00,
+    "HallRating": 16.69
+  },
+  {
+    "BID": 12359,
+    "BeerName": "Bourbon Barrel Aged Belgian Strong Ale",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Rock Bottom Restaurant & Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 16.69
+  },
+  {
+    "BID": 10370,
+    "BeerName": "Batch 222: The Golden Princess",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Sun King Brewery",
+    "Origin": "Indianapolis, IN United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 50.00,
+    "HallRating": 16.69
+  },
+  {
+    "BID": 10057,
+    "BeerName": "Grave Robber (Brew It Forward 2010)",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Lonerider Brewing Company",
+    "Origin": "Raleigh, NC United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 16.69
+  },
+  {
+    "BID": 10053,
+    "BeerName": "Tocobaga®",
+    "BeerStyle": "IPA - Red",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 75.00,
+    "HallRating": 16.64
+  },
+  {
+    "BID": 1144,
+    "BeerName": "Autumn Ale",
+    "BeerStyle": "Brown Ale - Other",
+    "BreweryName": "Breckenridge Brewery",
+    "Origin": "Littleton, CO United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 21.00,
+    "HallRating": 16.64
+  },
+  {
+    "BID": 1258,
+    "BeerName": "Stone Pale Ale",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Mad Anthony Brewing Company",
-    "Origin": "Fort Wayne, IN United States",
-    "BeerAbv": "5",
-    "BeerIbu": "40",
-    "HallRating": null
+    "BreweryName": "Stone Brewing",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 41.00,
+    "HallRating": 16.64
+  },
+  {
+    "BID": 10291,
+    "BeerName": "Dry Hopped APA (American Pale Ale)",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Schlafly - The Saint Louis Brewery",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 50.00,
+    "HallRating": 16.63
+  },
+  {
+    "BID": 11838,
+    "BeerName": "Full Nelson",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Blue Mountain Brewery",
+    "Origin": "Afton, VA United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 60.00,
+    "HallRating": 16.62
+  },
+  {
+    "BID": 11483,
+    "BeerName": "Craft Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Upslope Brewing Company",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 15.00,
+    "HallRating": 16.62
+  },
+  {
+    "BID": 11780,
+    "BeerName": "Troubadour Obscura",
+    "BeerStyle": "Stout - Belgian",
+    "BreweryName": "Brouwerij The Musketeers",
+    "Origin": "Sint-Gillis-Waas, Vlaams Gewest Belgium",
+    "BeerAbv": 8.20,
+    "BeerIbu": 30.00,
+    "HallRating": 16.61
+  },
+  {
+    "BID": 11179,
+    "BeerName": "Wake Up Dead",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Left Hand Brewing Company",
+    "Origin": "Longmont, CO United States",
+    "BeerAbv": 10.20,
+    "BeerIbu": 45.00,
+    "HallRating": 16.61
+  },
+  {
+    "BID": 12325,
+    "BeerName": "Noir de Dottignies",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Brouwerij De Ranke",
+    "Origin": "Mouscron, Région Wallonne Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 46.00,
+    "HallRating": 16.58
+  },
+  {
+    "BID": 10740,
+    "BeerName": "The Great'er Pumpkin",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Heavy Seas Beer",
+    "Origin": "Baltimore, MD United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 16.57
+  },
+  {
+    "BID": 12498,
+    "BeerName": "Arend Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij De Ryck",
+    "Origin": "Herzele, Vlaams Gewest Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 35.00,
+    "HallRating": 16.57
+  },
+  {
+    "BID": 117,
+    "BeerName": "Ename Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij Roman",
+    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 16.57
   }
 ]

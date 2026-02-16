@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4981101",
-    "BeerName": "Carolina Sunset",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Magnetic South Brewery",
-    "Origin": "Anderson, SC United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1676665,
+    "BeerName": "La Leche Grande",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Free Range Brewing",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 51.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940418",
-    "BeerName": "Great Burn IPA Nitro",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Great Burn Brewing",
-    "Origin": "Missoula, MT United States",
-    "BeerAbv": "6.7",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "4960759",
-    "BeerName": "Abricot",
-    "BeerStyle": "Homebrew, Belgian Blonde",
-    "BreweryName": "Lindgrist Homebrew",
-    "Origin": "Brazil",
-    "BeerAbv": "6.5",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4960760",
-    "BeerName": "Pick Me Up! Tiramisu Stout",
-    "BeerStyle": "Stout - Pastry",
-    "BreweryName": "Mordecai Beverage Company",
-    "Origin": "Raleigh, NC United States",
-    "BeerAbv": "7.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981102",
-    "BeerName": "White Peach Hard Water",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "3 Keys Brewing & Gastrobrew",
-    "Origin": "Bradenton, FL United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940419",
-    "BeerName": "Yoju - Yogurt Soju Cocktail",
-    "BeerStyle": "Other",
-    "BreweryName": "Drunk Fruit",
-    "Origin": "Sterling, VA United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960761",
-    "BeerName": "Malina",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "UWE Cider & Ales",
-    "Origin": "Elst, Gelderland Netherlands",
-    "BeerAbv": "5.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981103",
-    "BeerName": "Olicana In Your Heart",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Cloudwater Brew Co.",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": "4.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981104",
-    "BeerName": "Dog Dad",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "Bearded Iris Brewing",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": "5.46",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940420",
-    "BeerName": "Ükskõik Pale Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Saku Õlletehas",
-    "Origin": "Saku, Harju maakond Estonia",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960762",
-    "BeerName": "Weissbier",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Santa Maria Cerveza Artesenal",
-    "Origin": "Bolivia",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981105",
-    "BeerName": "Hazy Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "SEVEN BRO7HERS",
-    "Origin": "Salford, Greater Manchester England",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940421",
-    "BeerName": "NEIPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Satirus Brewery",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": "6.5",
-    "BeerIbu": "50",
-    "HallRating": null
-  },
-  {
-    "BID": "4960763",
-    "BeerName": "YAM YAM RED BERRIES PASTRY MARSHMALLOW SOUR",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "MUZA BREWING CO",
-    "Origin": "Lviv, Львівська область Ukraine",
-    "BeerAbv": "6.8",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "4981106",
-    "BeerName": "Strawberry Hard Water",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "3 Keys Brewing & Gastrobrew",
-    "Origin": "Bradenton, FL United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940422",
-    "BeerName": "Pineapple Win!",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Malty National Brewing",
-    "Origin": "Regina, SK Canada",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981107",
-    "BeerName": "Blue Raspberry Hard Water",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "3 Keys Brewing & Gastrobrew",
-    "Origin": "Bradenton, FL United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940423",
-    "BeerName": "Sturm Crazy AF",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Crazytown Brue Werks",
-    "Origin": "United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "26",
-    "HallRating": null
-  },
-  {
-    "BID": "4960764",
-    "BeerName": "Salty Wind Gose w/ Strawberry & Pineapple",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Crystal Coast Brewing Company",
-    "Origin": "Morehead City, NC United States",
-    "BeerAbv": "4.4",
-    "BeerIbu": "5",
-    "HallRating": null
-  },
-  {
-    "BID": "4981108",
-    "BeerName": "The Pilot Series: Purple Rain",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Homestead Beer Company",
-    "Origin": "Heath, OH United States",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960765",
-    "BeerName": "Cider",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Mill Creek Brewing Co.",
-    "Origin": "Nolensville, TN United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981109",
-    "BeerName": "Zero To One",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "RISE & WIN Brewing Co.",
-    "Origin": "Kamikatsu-cho, Katsuura-gun, Tokushima Japan",
-    "BeerAbv": "4.5",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4940424",
-    "BeerName": "Farmcore Saison",
+    "BID": 1676674,
+    "BeerName": "Rise And Shine",
     "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Cold Garden Beverage Company",
-    "Origin": "Calgary, AB Canada",
-    "BeerAbv": "5.4",
-    "BeerIbu": "24",
-    "HallRating": null
+    "BreweryName": "Free Range Brewing",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4960766",
-    "BeerName": "Lil' Turbie",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Moksa Brewing Co",
-    "Origin": "Rocklin, CA United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3343960,
+    "BeerName": "Don't Doubt the Yeastie Boys",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Brown Beard Brewing Co.",
+    "Origin": "Charleston, WV United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940425",
-    "BeerName": "Black Cherry, Cranberry, Ginger, And Lime",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Urban Artifact",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1676666,
+    "BeerName": "Decadence",
+    "BeerStyle": "Strong Ale - English",
+    "BreweryName": "Purple Moose Brewery (Bragdy Mŵs Piws)",
+    "Origin": "Porthmadog, Gwynedd Wales",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342849,
+    "BeerName": "Hopical Storm (2019)",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Big Dog’s Brewing Company",
+    "Origin": "Las Vegas, NV United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4941676,
+    "BeerName": "Dog Daze",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Big Dog’s Brewing Company",
+    "Origin": "Las Vegas, NV United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4445918,
+    "BeerName": "Canis Minor",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Big Dog’s Brewing Company",
+    "Origin": "Las Vegas, NV United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4631336,
+    "BeerName": "Blueberry Pancake",
+    "BeerStyle": "Bock - Single / Traditional",
+    "BreweryName": "Big Dog’s Brewing Company",
+    "Origin": "Las Vegas, NV United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343679,
+    "BeerName": "Juicy IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Aurum Brew Works",
+    "Origin": "Bengaluru, Karnataka India",
+    "BeerAbv": 5.90,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343660,
+    "BeerName": "Dos Amigos",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Aurum Brew Works",
+    "Origin": "Bengaluru, Karnataka India",
+    "BeerAbv": 4.80,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343663,
+    "BeerName": "Maya",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Aurum Brew Works",
+    "Origin": "Bengaluru, Karnataka India",
+    "BeerAbv": 4.80,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343665,
+    "BeerName": "Sunflower - The Belgian Wit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Aurum Brew Works",
+    "Origin": "Bengaluru, Karnataka India",
+    "BeerAbv": 5.80,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343672,
+    "BeerName": "Chocolate Stout",
+    "BeerStyle": "Stout - English",
+    "BreweryName": "Aurum Brew Works",
+    "Origin": "Bengaluru, Karnataka India",
+    "BeerAbv": 4.50,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343675,
+    "BeerName": "Raspberry IPA",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Aurum Brew Works",
+    "Origin": "Bengaluru, Karnataka India",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13525,
+    "BeerName": "Effinheimer Christmas Ale",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "Lagniappe Brewing Company",
+    "Origin": "Minneola, FL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343677,
+    "BeerName": "Harlot Honey",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Union Brewery",
+    "Origin": "Virginia City, NV United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343673,
+    "BeerName": "Pan Head",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Union Brewery",
+    "Origin": "Virginia City, NV United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343666,
+    "BeerName": "Cemetery",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Union Brewery",
+    "Origin": "Virginia City, NV United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343662,
+    "BeerName": "Silent Rider",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Union Brewery",
+    "Origin": "Virginia City, NV United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676348,
+    "BeerName": "Pear-o-Sweaty Gloves",
+    "BeerStyle": "Homebrew, Sour - Traditional Gose",
+    "BreweryName": "Misconduct Brewery",
+    "Origin": "United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343664,
+    "BeerName": "Pilsen",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Confraria do Porão",
+    "Origin": "Belo Horizonte, Minas Gerais Brazil",
+    "BeerAbv": 4.80,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13535,
+    "BeerName": "Sand Digger Honey Wheat",
+    "BeerStyle": "Homebrew, Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Barking Spiders Brewery",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343668,
+    "BeerName": "Person Place Or Pilsner",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Tar Banks Brewing Co.",
+    "Origin": "Louisburg, NC United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676354,
+    "BeerName": "Sumarnatt",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Sælebrygg",
+    "Origin": null,
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343670,
+    "BeerName": "Black Beaer",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Forestia",
+    "Origin": "Theux, Région Wallonne Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4939199",
-    "BeerName": "Saving Daylight",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "The Virginia Beer Co. (VBC)",
-    "Origin": "Williamsburg, VA United States",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 13700,
+    "BeerName": "BarnStorm Ale",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Tractor Brewing Co.",
+    "Origin": "Albuquerque, NM United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4979820",
-    "BeerName": "Virtual Insanity TDH East Coast IPA",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Far Yeast Brewing Company",
-    "Origin": "Kosuge, Yamanashi Japan",
-    "BeerAbv": "6.7",
-    "BeerIbu": "33",
-    "HallRating": null
-  },
-  {
-    "BID": "4939200",
-    "BeerName": "Ubertschuss",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Reaver Beach Brewing Company",
-    "Origin": "Virginia Beach, VA United States",
-    "BeerAbv": "4.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959508",
-    "BeerName": "Aviatik 12",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Pivovar U Vojtěchů",
-    "Origin": "Pardubice, Pardubický kraj Czech Republic",
-    "BeerAbv": "4.8",
-    "BeerIbu": "38",
-    "HallRating": null
-  },
-  {
-    "BID": "4979821",
-    "BeerName": "Strange Blue Slurry",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Shades Brewing",
-    "Origin": "Salt Lake City, UT United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939201",
-    "BeerName": "Pomegranate Açaí Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Floating Feathers Brewing Company",
-    "Origin": "Mill Hall, PA United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979822",
-    "BeerName": "Raspberry Saison",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Red Arrow Brewing Company",
-    "Origin": "Duncan, BC Canada",
-    "BeerAbv": "7.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959509",
-    "BeerName": "Dabinett",
-    "BeerStyle": "Cider - Dry",
-    "BreweryName": "Temple Cider",
-    "Origin": "Beaminster, Dorset England",
-    "BeerAbv": "8.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939202",
-    "BeerName": "Cold IPA",
-    "BeerStyle": "IPA - Cold",
-    "BreweryName": "Galena Brewing Company (Illinois)",
-    "Origin": "Galena, IL United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979823",
-    "BeerName": "Good Time Charlie's Got the Blues Berry",
-    "BeerStyle": "Homebrew, Wheat Beer - American Pale Wheat",
-    "BreweryName": "Cabrea Brewing",
+    "BID": 11808,
+    "BeerName": "Survivor",
+    "BeerStyle": "Homebrew, Stout - Russian Imperial",
+    "BreweryName": "GBGH Brewing",
     "Origin": "United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "9",
-    "HallRating": null
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4959510",
-    "BeerName": "Обліпиха",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "ЗЛАК брюері",
-    "Origin": "Kyiv, Київ Ukraine",
-    "BeerAbv": "4.8",
-    "BeerIbu": "5",
-    "HallRating": null
-  },
-  {
-    "BID": "4939203",
-    "BeerName": "Summer IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Fracture Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4979824",
-    "BeerName": "Azumino Fruit Ale",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Azumino Brewery",
-    "Origin": "Azumino, Nagano Japan",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959511",
-    "BeerName": "Class In Session",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Forbes Trail Brewing",
-    "Origin": "Stoystown, PA United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "16",
-    "HallRating": null
-  },
-  {
-    "BID": "4979825",
-    "BeerName": "Azumino Malt Juice",
-    "BeerStyle": "Other",
-    "BreweryName": "Azumino Brewery",
-    "Origin": "Azumino, Nagano Japan",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939204",
-    "BeerName": "Loeb Creek Heat Index",
-    "BeerStyle": "Homebrew, Wheat Beer - Other",
-    "BreweryName": "Loeb Creek Brewhouse",
+    "BID": 11809,
+    "BeerName": "Chocolate Survivor",
+    "BeerStyle": "Homebrew, Stout - Imperial / Double",
+    "BreweryName": "GBGH Brewing",
     "Origin": "United States",
-    "BeerAbv": "2.9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4979826",
-    "BeerName": "DDH Pale Ale",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Brasseria Della Fonte",
-    "Origin": "Pienza, Toscana Italy",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 9104,
+    "BeerName": "Pain in the BIPA",
+    "BeerStyle": "Homebrew, IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "GBGH Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4959512",
-    "BeerName": "Librarians From Outer Space",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Cushwa Brewing Co.",
-    "Origin": "Williamsport, MD United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "60",
-    "HallRating": null
-  },
-  {
-    "BID": "4939205",
-    "BeerName": "Złoty Łan Pils",
+    "BID": 3340341,
+    "BeerName": "Schaffner Pilsner",
     "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Jako",
-    "Origin": "Kokanin, Greater Poland Voivodeship Poland",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Victor 23 Brewing",
+    "Origin": "Vancouver, WA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4959513",
-    "BeerName": "Non-Linear Progession",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Origin Beer Project",
-    "Origin": "Providence, RI United States",
-    "BeerAbv": "3.8",
-    "BeerIbu": "22",
-    "HallRating": null
+    "BID": 3340354,
+    "BeerName": "No Funny Stuff",
+    "BeerStyle": "Stout - White / Golden",
+    "BreweryName": "Victor 23 Brewing",
+    "Origin": "Vancouver, WA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4979827",
-    "BeerName": "3 Bolt",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Green Beacon",
-    "Origin": "Teneriffe, Queensland Australia",
-    "BeerAbv": "4.5",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "4979828",
-    "BeerName": "Temper Tantrum",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "June Lake Brewing",
-    "Origin": "June Lake, CA United States",
-    "BeerAbv": "8",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4939206",
-    "BeerName": "Pentamerous Tiger",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Tripping Animals Brewing Co.",
-    "Origin": "Doral, FL United States",
-    "BeerAbv": "15",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4959514",
-    "BeerName": "Dental Floss Tycoon",
+    "BID": 3341498,
+    "BeerName": "YIPPIE IPA MF! CHERRY",
     "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Forbes Trail Brewing",
-    "Origin": "Stoystown, PA United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "23",
-    "HallRating": null
+    "BreweryName": "Wedgewood Brewing Company",
+    "Origin": "Middlebury, IN United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4939207",
-    "BeerName": "Killing Me Softly (HBC 586)",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Viator's Brew",
-    "Origin": "Broussard, LA United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1673014,
+    "BeerName": "YIPSTER",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Wedgewood Brewing Company",
+    "Origin": "Middlebury, IN United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 48.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676199,
+    "BeerName": "RED RED RYE",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Wedgewood Brewing Company",
+    "Origin": "Middlebury, IN United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 81.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333902,
+    "BeerName": "Disco Solaris",
+    "BeerStyle": "Homebrew, Lambic - Gueuze",
+    "BreweryName": "Bringsjur GaRaSjEBrYgGeRi",
+    "Origin": "Norway",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340342,
+    "BeerName": "Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Maysville Brewing Company",
+    "Origin": "Maysville, KY United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 12794,
+    "BeerName": "McCaffery's Irish Cream Ale",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Argus Brewery",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 4.14,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 11451,
+    "BeerName": "Pegasus IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Argus Brewery",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9106,
+    "BeerName": "Patron's Reserve",
+    "BeerStyle": "California Common",
+    "BreweryName": "Argus Brewery",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673017,
+    "BeerName": "Mango Remedy",
+    "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
+    "BreweryName": "Mango Remedy",
+    "Origin": "United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9108,
+    "BeerName": "The Pumpkin",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Clocktower Brew Pub",
+    "Origin": "Ottawa, on Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340351,
+    "BeerName": "Mystery IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Flashback Brewing",
+    "Origin": "Chilliwack, BC Canada",
+    "BeerAbv": 7.70,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340346,
+    "BeerName": "My Red Mac",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Flashback Brewing",
+    "Origin": "Chilliwack, BC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 3.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9110,
+    "BeerName": "Silver Fox Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "The Silver Fox",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673020,
+    "BeerName": "Whiskey Aged Imperial Porter",
+    "BeerStyle": "Homebrew, Porter - Imperial / Double",
+    "BreweryName": "Spooky Hollow Brewing",
+    "Origin": "Tillsonburg, ON Canada",
+    "BeerAbv": 7.35,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673028,
+    "BeerName": "Galaxy Saison",
+    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
+    "BreweryName": "Spooky Hollow Brewing",
+    "Origin": "Tillsonburg, ON Canada",
+    "BeerAbv": 6.60,
+    "BeerIbu": 26.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340347,
+    "BeerName": "Tropic Punch Ale",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Anderson Team",
+    "Origin": "United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340570,
+    "BeerName": "Bandit's Paw",
+    "BeerStyle": "Homebrew, Stout - Imperial / Double Milk",
+    "BreweryName": "Anderson Team",
+    "Origin": "United States",
+    "BeerAbv": 17.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673022,
+    "BeerName": "Brett the Pale Monk",
+    "BeerStyle": "Homebrew, Belgian Strong Golden Ale",
+    "BreweryName": "Drei's Concoctions",
+    "Origin": "United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673023,
+    "BeerName": "Temple Mound Stout",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Nature Coast Brewing Company",
+    "Origin": "Crystal River, FL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

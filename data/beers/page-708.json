@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4980820",
-    "BeerName": "King Crispy",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Deschutes Brewery",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3343193,
+    "BeerName": "Cream Ale",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Räye",
+    "Origin": "Arruda, Pernambuco Brazil",
+    "BeerAbv": 4.70,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4960488",
-    "BeerName": "Tjejer Är Bäst",
+    "BID": 12875,
+    "BeerName": "Little Kings",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Little Kings Brewery",
+    "Origin": "Cincinnati, OH United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675870,
+    "BeerName": "Dank And Hazy V. 1.0",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "YOGBO Brewing",
+    "Origin": "United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343195,
+    "BeerName": "Brick And Morter Porter",
+    "BeerStyle": "Homebrew, Porter - American",
+    "BreweryName": "ZFA Structural Engineers Brewing",
+    "Origin": "United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334089,
+    "BeerName": "Bohemian Travesty",
+    "BeerStyle": "Homebrew, Pilsner - Czech / Bohemian",
+    "BreweryName": "Sala Backe Gårdsbryggeri",
+    "Origin": "Sweden",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667391,
+    "BeerName": "Flannel Lingerie",
+    "BeerStyle": "Homebrew, Porter - Other",
+    "BreweryName": "Beeros",
+    "Origin": "United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675871,
+    "BeerName": "Kristallklare Kölsch",
+    "BeerStyle": "Homebrew, Kölsch",
+    "BreweryName": "Three Jackasses Brewing Co.",
+    "Origin": "United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675874,
+    "BeerName": "Made in Mexico",
+    "BeerStyle": "Homebrew, Lager - Vienna",
+    "BreweryName": "Three Jackasses Brewing Co.",
+    "Origin": "United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343196,
+    "BeerName": "Drizzle Fo Sizzle",
+    "BeerStyle": "Homebrew, IPA - Imperial / Double",
+    "BreweryName": "Murgo Labs Brewing",
+    "Origin": "United States",
+    "BeerAbv": 7.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 12880,
+    "BeerName": "Wheat Stout",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Downton Brewery",
+    "Origin": "Downton, Wiltshire England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343197,
+    "BeerName": "Strawberry Wheat",
+    "BeerStyle": "Homebrew, Wheat Beer - Other",
+    "BreweryName": "World Of Wortcraft",
+    "Origin": "United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343365,
+    "BeerName": "Scottish Ale",
+    "BeerStyle": "Homebrew, Scottish Ale",
+    "BreweryName": "World Of Wortcraft",
+    "Origin": "United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343366,
+    "BeerName": "Scottish Ale",
+    "BeerStyle": "Homebrew, Scottish Ale",
+    "BreweryName": "World Of Wortcraft",
+    "Origin": "United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343198,
+    "BeerName": "Backpacker Imperial Porter with Vanilla Beans",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Barrel Mountain Brewing",
+    "Origin": "Battle Ground, WA United States",
+    "BeerAbv": 9.30,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675875,
+    "BeerName": "Blue Stache",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Southpaw Brewing",
+    "Origin": "Baldwin, PA United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675876,
+    "BeerName": "Kolsch",
+    "BeerStyle": "Homebrew, Kölsch",
+    "BreweryName": "Montgomery Meadery",
+    "Origin": "United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343202,
+    "BeerName": "HSD Batch #2",
+    "BeerStyle": "Homebrew, Kvass",
+    "BreweryName": "Cameldeej",
+    "Origin": "United States",
+    "BeerAbv": 1.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675879,
+    "BeerName": "Hi, My Name Is Slim Shandy",
+    "BeerStyle": "Homebrew, Fruit Beer",
+    "BreweryName": "Nose Twitch Brewing",
+    "Origin": "United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343203,
+    "BeerName": "Lagerita",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Propaganda Brewing",
+    "Origin": "Santa Catarina, Nuevo León Mexico",
+    "BeerAbv": 4.20,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816465,
+    "BeerName": "Corsendonk Grand Hops (2022)",
+    "BeerStyle": "IPA - Belgian",
+    "BreweryName": "Brouwerij Corsendonk",
+    "Origin": "Turnhout, Vlaams Gewest Belgium",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1829,
+    "BeerName": "Corsendonk Pater Dubbel / Abbey Brown Ale",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "Brouwerij Corsendonk",
+    "Origin": "Turnhout, Vlaams Gewest Belgium",
+    "BeerAbv": 7.50,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676276,
+    "BeerName": "Stout Is For Life Not Just For Breakfast",
+    "BeerStyle": "Homebrew, Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Dodgy Homebrew",
+    "Origin": "England",
+    "BeerAbv": 7.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343602,
+    "BeerName": "Winter Zjef",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "'t Paenhuys",
+    "Origin": "Sint-Niklaas, Vlaams Gewest Belgium",
+    "BeerAbv": 9.00,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343604,
+    "BeerName": "Winter Zjef (2014)",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "'t Paenhuys",
+    "Origin": "Sint-Niklaas, Vlaams Gewest Belgium",
+    "BeerAbv": 9.00,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676277,
+    "BeerName": "Great Dane",
     "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Brahehus Brewery",
-    "Origin": "Gränna, Jönköpings län Sweden",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980821",
-    "BeerName": "988 Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Beaver Street Brewery",
-    "Origin": "Flagstaff, AZ United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "31",
-    "HallRating": null
-  },
-  {
-    "BID": "4940145",
-    "BeerName": "Cascade Wheat",
-    "BeerStyle": "Wheat Beer - Other",
-    "BreweryName": "Urbanowicz Braukollektiv",
-    "Origin": "Dresden, Sachsen Germany",
-    "BeerAbv": "4.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980822",
-    "BeerName": "Vanilla Blonde",
-    "BeerStyle": "Brown Ale - Other",
-    "BreweryName": "Hoppy Days Brewery",
-    "Origin": "Glenwood, IN United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960489",
-    "BeerName": "Another Forking Hazy",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Fork & Brewer",
-    "Origin": "Wellington City, Wellington New Zealand",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980823",
-    "BeerName": "Mango Tequila & Soda",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Mamitas",
-    "Origin": null,
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960490",
-    "BeerName": "Pilot #4 Single Hop IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": "7.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940146",
-    "BeerName": "Rosé",
-    "BeerStyle": "Wheat Beer - Other",
-    "BreweryName": "One Beer",
-    "Origin": "Neuilly-sur-Seine, Île-de-France France",
-    "BeerAbv": "3.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960491",
-    "BeerName": "Belgian Tripel Calvados Barrel Aged",
-    "BeerStyle": "Homebrew, Belgian Tripel",
-    "BreweryName": "the Bad Alliance brewery",
-    "Origin": "Almaty, Almaty Province Kazakhstan",
-    "BeerAbv": "8.31",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4980824",
-    "BeerName": "Parade Rest",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "At Ease Brewing Company",
-    "Origin": "Sacramento, CA United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "4960492",
-    "BeerName": "Cocktail Gin & Tonic",
-    "BeerStyle": "Other",
-    "BreweryName": "Train Station Brewery",
-    "Origin": "Knivsta, Uppsala län Sweden",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940147",
-    "BeerName": "Hay Rye’d",
-    "BeerStyle": "IPA - Rye",
-    "BreweryName": "Daft Cow Brewery",
-    "Origin": "Alachua, FL United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960493",
-    "BeerName": "Zythos Skaterboy",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Uiltje Brewing Company",
-    "Origin": "Haarlem, Noord-Holland Netherlands",
-    "BeerAbv": "5.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980825",
-    "BeerName": "Smashed Crisp",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Drynks Unlimited",
-    "Origin": "Sale, Greater Manchester England",
-    "BeerAbv": "0.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960494",
-    "BeerName": "Fausttophel",
-    "BeerStyle": "Red Ale - Other",
-    "BreweryName": "BARBARUS Brewery",
-    "Origin": "Raisemenovskoe, Московская область Russia",
-    "BeerAbv": "5.8",
-    "BeerIbu": "38",
-    "HallRating": null
-  },
-  {
-    "BID": "4940148",
-    "BeerName": "Precious Mirror",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Agile Brewing",
-    "Origin": "Baton Rouge, LA United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "4980826",
-    "BeerName": "If It's Free, It's For Me",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "One Eyed Pug Brewing Company",
-    "Origin": "Albuquerque, NM United States",
-    "BeerAbv": "6.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960495",
-    "BeerName": "Gottish Gose",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "BARBARUS Brewery",
-    "Origin": "Raisemenovskoe, Московская область Russia",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940149",
-    "BeerName": "Ukiyo #2",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "orca brau",
-    "Origin": "Nuremberg, Bayern Germany",
-    "BeerAbv": "6.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960496",
-    "BeerName": "Zázvor",
-    "BeerStyle": "Hard Ginger Beer",
-    "BreweryName": "Ebina Beer",
-    "Origin": "Ebina-shi, Kanagawa Japan",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980827",
-    "BeerName": "Hefeweizen",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Bootleg Brewery Ltd",
-    "Origin": "Matangi, Waikato New Zealand",
-    "BeerAbv": "4.7",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4940150",
-    "BeerName": "Pool Beer",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "SEMOH",
-    "Origin": "Ann Arbor, MI United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980828",
-    "BeerName": "Rotator",
-    "BeerStyle": "Altbier - Traditional",
-    "BreweryName": "Fernie Brewing Company",
-    "Origin": "Fernie, BC Canada",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960497",
-    "BeerName": "Yuzu Ale",
-    "BeerStyle": "Pale Ale - Fruited",
-    "BreweryName": "Elektrárna",
-    "Origin": "Plzeň-město, Plzeňský kraj Czech Republic",
-    "BeerAbv": "4.9",
-    "BeerIbu": "28",
-    "HallRating": null
+    "BreweryName": "Gallaghers' Where-U-Brew",
+    "Origin": "Edmonds, WA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
   }
 ]

@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4445264",
-    "BeerName": "Flunk 3",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Lagabière",
-    "Origin": "Saint-Jean-sur-Richelieu, QC Canada",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3333720,
+    "BeerName": "Divided Sky",
+    "BeerStyle": "Cider - Dry",
+    "BreweryName": "Shacksbury Cider",
+    "Origin": "Vergennes, VT United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3335736",
-    "BeerName": "Alfa (Aλφα) Beer",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Athenian Brewery",
-    "Origin": "Greece",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4445265",
-    "BeerName": "O'Hara's Irish Stout",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "O'Hara's Brewery",
-    "Origin": "Carlow, County Carlow Ireland",
-    "BeerAbv": "4.3",
-    "BeerIbu": "36",
-    "HallRating": null
-  },
-  {
-    "BID": "3890498",
-    "BeerName": "Decadent Summer",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Nano 108 Brewing Company",
-    "Origin": "Colorado Springs, CO United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "26",
-    "HallRating": null
-  },
-  {
-    "BID": "3335737",
-    "BeerName": "Ivy League",
-    "BeerStyle": "Cream Ale",
-    "BreweryName": "Scale House Brewery",
-    "Origin": "Hector, NY United States",
-    "BeerAbv": "6",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "3890499",
-    "BeerName": "Pearfection",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Meridian Hive",
-    "Origin": "Taylor, TX United States",
-    "BeerAbv": "11.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4445266",
-    "BeerName": "Four Stars",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Funk Factory Geuzeria",
-    "Origin": "Madison, WI United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3890500",
-    "BeerName": "Fresh Squeezed",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Deschutes Brewery",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": "6.4",
-    "BeerIbu": "60",
-    "HallRating": null
-  },
-  {
-    "BID": "3335738",
-    "BeerName": "The Name Is Dalton",
-    "BeerStyle": "Stout - White / Golden",
-    "BreweryName": "South Bend Brew Werks",
-    "Origin": "South Bend, IN United States",
-    "BeerAbv": "6.3",
-    "BeerIbu": "31",
-    "HallRating": null
-  },
-  {
-    "BID": "3890501",
-    "BeerName": "Brotha Bear's Stash",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Patuxent Brewing Co",
-    "Origin": "Waldorf, MD United States",
-    "BeerAbv": "7.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335739",
-    "BeerName": "River Bend Brazil",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "River Bend Hop Farm and Brewery",
-    "Origin": "Newport, PA United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4445267",
-    "BeerName": "Black Operation",
-    "BeerStyle": "Homebrew, Mead - Melomel",
-    "BreweryName": "Victorious Brewing Co.",
-    "Origin": "Sweden",
-    "BeerAbv": "13.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335740",
-    "BeerName": "Table Beer: Summer Seasonal",
-    "BeerStyle": "Table Beer",
-    "BreweryName": "Brewhouse & Kitchen - Cheltenham",
-    "Origin": "Cheltenham, Gloucestershire England",
-    "BeerAbv": "3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3890502",
-    "BeerName": "Life Above - Hazy IPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Sunriver Brewing Company",
-    "Origin": "Sunriver, OR United States",
-    "BeerAbv": "6.8",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "4445268",
-    "BeerName": "El Chiringuito Lavagna",
-    "BeerStyle": "IPA - Red",
-    "BreweryName": "El Chiringuito",
-    "Origin": "Italy",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335741",
-    "BeerName": "Streetgoat Amber",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Goat Patch Brewing Company",
-    "Origin": "Colorado Springs, CO United States",
-    "BeerAbv": "6.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3890503",
-    "BeerName": "Milkshake IPA",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "Browar Przystanek Tleń",
-    "Origin": "Tleń, Województwo kujawsko-pomorskie Poland",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4445269",
-    "BeerName": "Placebo Pils - Gluten Free",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Monday Night Brewing",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4445270",
-    "BeerName": "Elk River Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335742",
-    "BeerName": "Bunún Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Fuego Brew Co.",
-    "Origin": "Savegre, Provincia de Puntarenas Costa Rica",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3890504",
-    "BeerName": "Chapéu de Couro",
-    "BeerStyle": "IPA - Rye",
-    "BreweryName": "Cordel Cerveja",
-    "Origin": "Natal, Rio Grande do Norte Brazil",
-    "BeerAbv": "5.5",
-    "BeerIbu": "31",
-    "HallRating": null
-  },
-  {
-    "BID": "4445271",
-    "BeerName": "Beyond the Peel",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Brookville Brewing Co",
+    "BID": 1669686,
+    "BeerName": "Space Race IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Common Core Brewing Company",
     "Origin": "United States",
-    "BeerAbv": "5.6",
-    "BeerIbu": "39",
-    "HallRating": null
+    "BeerAbv": 5.90,
+    "BeerIbu": 85.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3335743",
-    "BeerName": "Säuerlich Berliner Weisse",
+    "BID": 1669689,
+    "BeerName": "The Foreman",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Lucky Luke Brewing Co",
+    "Origin": "Palmdale, CA United States",
+    "BeerAbv": 9.80,
+    "BeerIbu": 160.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675923,
+    "BeerName": "Keeper of the Grove",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Lucky Luke Brewing Co",
+    "Origin": "Palmdale, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340143,
+    "BeerName": "Belly Flop Contest",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Lucky Luke Brewing Co",
+    "Origin": "Palmdale, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340271,
+    "BeerName": "Elizabeth",
     "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Bozeman Brewing Company",
-    "Origin": "Bozeman, MT United States",
-    "BeerAbv": "4.3",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Lucky Luke Brewing Co",
+    "Origin": "Palmdale, CA United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4445272",
-    "BeerName": "That Was Then, This Is Now – West Coast IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Sunriver Brewing Company",
-    "Origin": "Sunriver, OR United States",
-    "BeerAbv": "7",
-    "BeerIbu": "72",
-    "HallRating": null
+    "BID": 3340049,
+    "BeerName": "Midnight Cruiser",
+    "BeerStyle": "Porter - Baltic",
+    "BreweryName": "Fenders Brewing",
+    "Origin": "Polk City, IA United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3890505",
-    "BeerName": "Aromatic Variance #2",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Crux Fermentation Project",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": "6.1",
-    "BeerIbu": "50",
-    "HallRating": null
+    "BID": 3336848,
+    "BeerName": "Whimcycle Raspberry Wheat",
+    "BeerStyle": "Wheat Beer - Other",
+    "BreweryName": "Fenders Brewing",
+    "Origin": "Polk City, IA United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341416,
+    "BeerName": "Sir Dudley Marjorbanks First Baron Tweedmouth",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Brooks Brewing",
+    "Origin": "Shelby Township, MI United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341569,
+    "BeerName": "Almond Buddy Porter",
+    "BeerStyle": "Porter - Baltic",
+    "BreweryName": "Brooks Brewing",
+    "Origin": "Shelby Township, MI United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669690,
+    "BeerName": "Extra Innings Session IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Brooks Brewing",
+    "Origin": "Shelby Township, MI United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669935,
+    "BeerName": "Strange Loops",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Saint Errant Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336849,
+    "BeerName": "Energy Void",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Saint Errant Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 7.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336850,
+    "BeerName": "Debeurdineuse Blonde Poivre",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Sorme",
+    "Origin": "Charmoy, Bourgogne-Franche-Comté France",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669693,
+    "BeerName": "Vanilla Bourbon Oak Aged Stout 2013",
+    "BeerStyle": "Homebrew, Stout - Imperial / Double",
+    "BreweryName": "Free Brewing Co",
+    "Origin": "United States",
+    "BeerAbv": 11.80,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669696,
+    "BeerName": "Honey Wheat Lager",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Greenspring Brewing Company",
+    "Origin": "Chesapeake Beach, MD United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336854,
+    "BeerName": "Bitter Truth",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Finne Brauerei",
+    "Origin": "Münster, Nordrhein-Westfalen Germany",
+    "BeerAbv": 5.70,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669698,
+    "BeerName": "Golden Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Westen",
+    "Origin": "Trenque Lauquen, Provincia de Buenos Aires Argentina",
+    "BeerAbv": 5.00,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816846,
+    "BeerName": "Citra",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Wädi-Brau-Huus",
+    "Origin": "Wädenswil, Zürich Switzerland",
+    "BeerAbv": 3.50,
+    "BeerIbu": 9.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4446859,
+    "BeerName": "Raschle Gartenbier 2021",
+    "BeerStyle": "Hard Ginger Beer",
+    "BreweryName": "Wädi-Brau-Huus",
+    "Origin": "Wädenswil, Zürich Switzerland",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 561,
+    "BeerName": "Wädenswiler Single Malt",
+    "BeerStyle": "Rauchbier",
+    "BreweryName": "Wädi-Brau-Huus",
+    "Origin": "Wädenswil, Zürich Switzerland",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 562,
+    "BeerName": "Wädenswiler Ur-Pil's",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Wädi-Brau-Huus",
+    "Origin": "Wädenswil, Zürich Switzerland",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 563,
+    "BeerName": "Wädenswiler Weizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Wädi-Brau-Huus",
+    "Origin": "Wädenswil, Zürich Switzerland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 564,
+    "BeerName": "Wädenswiler Hanf",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Wädi-Brau-Huus",
+    "Origin": "Wädenswil, Zürich Switzerland",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 566,
+    "BeerName": "Wädenswiler Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Wädi-Brau-Huus",
+    "Origin": "Wädenswil, Zürich Switzerland",
+    "BeerAbv": 4.80,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00
   }
 ]

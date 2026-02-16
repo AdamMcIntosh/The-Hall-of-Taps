@@ -1,252 +1,252 @@
 [
   {
-    "BID": "1668808",
-    "BeerName": "Doom Bar",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Sharp's Brewery",
-    "Origin": "Rock, Cornwall England",
-    "BeerAbv": "4",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "3044",
-    "BeerName": "Off The Rail Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Blue Cat Brew Pub",
-    "Origin": "Rock Island, IL United States",
-    "BeerAbv": "5.7",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "3335446",
-    "BeerName": "Mr. Browning",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "High And Dry Brewing",
-    "Origin": "Albuquerque, NM United States",
-    "BeerAbv": "3.8",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "3045",
-    "BeerName": "Wigged Pig Wheat",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Blue Cat Brew Pub",
-    "Origin": "Rock Island, IL United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668809",
-    "BeerName": "Term Oil 2-B",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": "12",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335447",
-    "BeerName": "Tête De Mort Red",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Brasserie du Bocq",
-    "Origin": "Yvoir, Région Wallonne Belgium",
-    "BeerAbv": "8.2",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "3335448",
-    "BeerName": "Dark Horse Reserva (2014)",
-    "BeerStyle": "Wild Ale - Other",
-    "BreweryName": "De Struise Brouwers",
-    "Origin": "Vleteren, Vlaams Gewest Belgium",
-    "BeerAbv": "7",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "1668810",
-    "BeerName": "Sweet Taaart",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "3rd Sign Brewery",
-    "Origin": "Waunakee, WI United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335449",
-    "BeerName": "Hot Girl Summer",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Turk's Head Brewery",
-    "Origin": "Cooper Jack Bay Settlement, Caicos Islands Turks and Caicos Islands",
-    "BeerAbv": "4.8",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "3049",
-    "BeerName": "Hefe-weizen (retired)",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Front Street Brewery",
-    "Origin": "Wilmington, NC United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335450",
-    "BeerName": "Salt Marsh Belgian Table",
+    "BID": 8097,
+    "BeerName": "Blond",
     "BeerStyle": "Belgian Blonde",
-    "BreweryName": "Salt Marsh Brewing",
-    "Origin": "Bluffton, SC United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Brouwerij West",
+    "Origin": "San Pedro, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1668811",
-    "BeerName": "Rouge De Noel",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Brasserie du Marcaire",
-    "Origin": "Muhlbach-sur-Munster, Grand Est France",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335451",
-    "BeerName": "Hurry Sundown (w/ Watermelon)",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "High And Dry Brewing",
-    "Origin": "Albuquerque, NM United States",
-    "BeerAbv": "5.9",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "3335452",
-    "BeerName": "Bonfire",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "New Trail Brewing Co.",
-    "Origin": "Williamsport, PA United States",
-    "BeerAbv": "9.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3051",
-    "BeerName": "Stonecutter Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Raccoon River Brewing",
-    "Origin": "Des Moines, IA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668812",
-    "BeerName": "Pale House Rock (American Pale Ale)",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Keystone Homebrew",
-    "Origin": "United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335453",
-    "BeerName": "Rånäs Slott Jubileumsöl",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Skebo Bruksbryggeri",
-    "Origin": "Skebobruk, Stockholms län Sweden",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3052",
-    "BeerName": "Bandit IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Raccoon River Brewing",
-    "Origin": "Des Moines, IA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668813",
-    "BeerName": "Duvel Tripel Hop 2010 - Amarillo",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Duvel Moortgat",
-    "Origin": "Puurs-Sint-Amands, Vlaams Gewest Belgium",
-    "BeerAbv": "9.5",
-    "BeerIbu": "48",
-    "HallRating": null
-  },
-  {
-    "BID": "3053",
-    "BeerName": "Railyard Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Raccoon River Brewing",
-    "Origin": "Des Moines, IA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668814",
-    "BeerName": "JarrylOrange",
-    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "Brew Club Seminole County",
-    "Origin": "United States",
-    "BeerAbv": "8.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335454",
-    "BeerName": "Dark Skies: Ara",
-    "BeerStyle": "Porter - English",
-    "BreweryName": "New Trail Brewing Co.",
-    "Origin": "Williamsport, PA United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3054",
-    "BeerName": "Maibock",
-    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
-    "BreweryName": "Raccoon River Brewing",
-    "Origin": "Des Moines, IA United States",
-    "BeerAbv": "10.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668815",
-    "BeerName": "Sed Vicious",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Brew Pub Le Sec",
-    "Origin": "Barcelona, Catalunya Spain",
-    "BeerAbv": "5.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335455",
-    "BeerName": "Lance White",
+    "BID": 1669309,
+    "BeerName": "Third Planet",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "High And Dry Brewing",
-    "Origin": "Albuquerque, NM United States",
-    "BeerAbv": "5.9",
-    "BeerIbu": "40",
-    "HallRating": null
+    "BreweryName": "Willoughby Brewing Co.",
+    "Origin": "Willoughby, OH United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336466,
+    "BeerName": "Complementation",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Campanology Brewing (Trader Joe’s)",
+    "Origin": "Waunakee, WI United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673271,
+    "BeerName": "High Life",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673992,
+    "BeerName": "High Life",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 12849,
+    "BeerName": "Milwaukee's Best Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3777,
+    "BeerName": "Miller Chill Lime",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3778,
+    "BeerName": "High Life",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 7.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3779,
+    "BeerName": "Miller Genuine Draft",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3782,
+    "BeerName": "Milwaukee's Best Premium",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3811,
+    "BeerName": "Miller Lite",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4539,
+    "BeerName": "Red Dog",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4540,
+    "BeerName": "Mickey's Ice",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4542,
+    "BeerName": "Olde English 800",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5566,
+    "BeerName": "Miller Genuine Draft Light 64",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 2.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6396,
+    "BeerName": "High Life Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6419,
+    "BeerName": "Hamm's",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7907,
+    "BeerName": "SKYY  Blue",
+    "BeerStyle": "Flavored Malt Beverage",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7378,
+    "BeerName": "Mickey's",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669312,
+    "BeerName": "Not Carl's Beer",
+    "BeerStyle": "Homebrew, Pilsner - Other",
+    "BreweryName": "Beeton's Best",
+    "Origin": "Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336470,
+    "BeerName": "Antes Klosterbruder",
+    "BeerStyle": "Homebrew, Pilsner - German",
+    "BreweryName": "Antes Kandel",
+    "Origin": "Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3781,
+    "BeerName": "Icehouse",
+    "BeerStyle": "Freeze-Distilled Beer",
+    "BreweryName": "The Plank Road Brewery",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669314,
+    "BeerName": "Fist Boner",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Broken Toaster",
+    "Origin": "United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668981,
+    "BeerName": "Azaccquinox",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Rhinegeist Brewery",
+    "Origin": "Cincinnati, OH United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 44.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670225,
+    "BeerName": "Azaccquinox",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Rhinegeist Brewery",
+    "Origin": "Cincinnati, OH United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 44.00,
+    "HallRating": 0.00
   }
 ]

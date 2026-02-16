@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4981568",
-    "BeerName": "Mids",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Cellar West Brewery",
-    "Origin": "Lafayette, CO United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 341,
+    "BeerName": "Blarney Stone Stout",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "LABCo Restaurant & Market",
+    "Origin": "Manhattan, KS United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961223",
-    "BeerName": "Saison De Magelungen",
-    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "Green Deli Brewing",
-    "Origin": "Sweden",
-    "BeerAbv": "6",
-    "BeerIbu": "40",
-    "HallRating": null
+    "BID": 339,
+    "BeerName": "Bovine Belgian Winter Ale",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "LABCo Restaurant & Market",
+    "Origin": "Manhattan, KS United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940862",
-    "BeerName": "Boozy Adams",
-    "BeerStyle": "Cider - Sweet",
-    "BreweryName": "Mash Brewing",
-    "Origin": "Henley Brook, Western Australia Australia",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 340,
+    "BeerName": "XX Black Angus Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "LABCo Restaurant & Market",
+    "Origin": "Manhattan, KS United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 32.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981569",
-    "BeerName": "Delusion",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "NONSense Brewery",
-    "Origin": "Russia",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940863",
-    "BeerName": "Mååsn",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Big Creek Brewery",
-    "Origin": "Finland",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981570",
-    "BeerName": "Prerower Radler",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Darßer Brauhaus",
-    "Origin": "Prerow, Mecklenburg-Vorpommern Germany",
-    "BeerAbv": "2.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961224",
-    "BeerName": "Hatchetations Blackberry NEIPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Broken Hatchet Brewing",
-    "Origin": "Belton, MO United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "4940864",
-    "BeerName": "Luscious Summer Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Fujiyama Hunter's Beer",
-    "Origin": "Fujinomiya, Shizuoka Japan",
-    "BeerAbv": "5.5",
-    "BeerIbu": "16",
-    "HallRating": null
-  },
-  {
-    "BID": "4981571",
-    "BeerName": "Green Colada",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Die Bierkanzlei",
-    "Origin": "Halle, Sachsen-Anhalt Germany",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961225",
-    "BeerName": "1906 Amber",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Westgate Brewery",
-    "Origin": "Wakefield, West Yorkshire England",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981572",
-    "BeerName": "La Encantada APA",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Cervezas Gaitanejo",
-    "Origin": "Ardales, Andalucía Spain",
-    "BeerAbv": "5.4",
-    "BeerIbu": "31",
-    "HallRating": null
-  },
-  {
-    "BID": "4961226",
-    "BeerName": "One Last Good Time For All",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Vanished Valley Brewing Company",
-    "Origin": "Ludlow, MA United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981573",
-    "BeerName": "Fat Elvis - Stout",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "Red Dragon Brewery",
-    "Origin": "Fredericksburg, VA United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940865",
-    "BeerName": "Olivia Kveik Session IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Brouwerij de HopHemel",
-    "Origin": "Hasselt, Vlaams Gewest Belgium",
-    "BeerAbv": "4.2",
-    "BeerIbu": "46",
-    "HallRating": null
-  },
-  {
-    "BID": "4961227",
-    "BeerName": "Fresh Fruit Tart Strawberry Rhubarb",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Urban Artifact",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981574",
-    "BeerName": "Waldi's Gym (2022)",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Lieber Waldi",
-    "Origin": "Köln, Nordrhein-Westfalen Germany",
-    "BeerAbv": "7.7",
-    "BeerIbu": "53",
-    "HallRating": null
-  },
-  {
-    "BID": "4940866",
-    "BeerName": "Strawberry Raspberry Passion Fruit Sour",
-    "BeerStyle": "Homebrew, Sour - Other",
-    "BreweryName": "Big Creek Brewery",
-    "Origin": "Finland",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961228",
-    "BeerName": "Waitoreke",
-    "BeerStyle": "Homebrew, Pilsner - Other",
-    "BreweryName": "G&M Brewery",
-    "Origin": "Sweden",
-    "BeerAbv": "5.4",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "4981575",
-    "BeerName": "OUTDOOR PALE ALE [ KANPAI & TAKIBI ] 2022",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Matsumoto Brewery",
-    "Origin": "Matsumoto, Nagano Japan",
-    "BeerAbv": "5.5",
-    "BeerIbu": "70",
-    "HallRating": null
-  },
-  {
-    "BID": "4940867",
-    "BeerName": "Storbäckgård Export",
-    "BeerStyle": "Homebrew, Lager - Dortmunder / Export",
-    "BreweryName": "Big Creek Brewery",
-    "Origin": "Finland",
-    "BeerAbv": "5.3",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "4961229",
-    "BeerName": "Ernst",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Buschenschank Hubenbauer Hofbrauerei",
-    "Origin": "Varna, Trentino-Alto Adige Italy",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940868",
-    "BeerName": "In Spontaneity",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Lone Gum Farmhouse",
-    "Origin": "Pages Flat Road, South Australia Australia",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981576",
-    "BeerName": "Tap-It Tuezday: Fruit Punch Ale",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Coastal Dayz Brewery",
-    "Origin": "Fort Myers, FL United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961230",
-    "BeerName": "The Broken String",
+    "BID": 1668111,
+    "BeerName": "Paradise Weisse",
     "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Rock Brothers Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "LABCo Restaurant & Market",
+    "Origin": "Manhattan, KS United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940869",
-    "BeerName": "Leggero",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Pulfer Brewery",
-    "Origin": "Zagreb, Grad Zagreb Croatia",
-    "BeerAbv": "6",
-    "BeerIbu": "30",
-    "HallRating": null
+    "BID": 3334558,
+    "BeerName": "Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Latitude 20º",
+    "Origin": "Ouro Preto, Minas Gerais Brazil",
+    "BeerAbv": 8.50,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337585,
+    "BeerName": "Barley Wine",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Latitude 20º",
+    "Origin": "Ouro Preto, Minas Gerais Brazil",
+    "BeerAbv": 9.50,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1873,
+    "BeerName": "New Hops Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Moosejaw Pizza & Dells Brewing Co.",
+    "Origin": "Wisconsin Dells, WI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1874,
+    "BeerName": "Okto Beard Fest",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Moosejaw Pizza & Dells Brewing Co.",
+    "Origin": "Wisconsin Dells, WI United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1875,
+    "BeerName": "North of the Border Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Moosejaw Pizza & Dells Brewing Co.",
+    "Origin": "Wisconsin Dells, WI United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1876,
+    "BeerName": "Dunkel Lager",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "Moosejaw Pizza & Dells Brewing Co.",
+    "Origin": "Wisconsin Dells, WI United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1880,
+    "BeerName": "The Dells Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Moosejaw Pizza & Dells Brewing Co.",
+    "Origin": "Wisconsin Dells, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1881,
+    "BeerName": "Schmitz Pale Ale No. 5",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Moosejaw Pizza & Dells Brewing Co.",
+    "Origin": "Wisconsin Dells, WI United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1882,
+    "BeerName": "Light Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Moosejaw Pizza & Dells Brewing Co.",
+    "Origin": "Wisconsin Dells, WI United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1878,
+    "BeerName": "Rustic Red",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Moosejaw Pizza & Dells Brewing Co.",
+    "Origin": "Wisconsin Dells, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1879,
+    "BeerName": "Weissbier",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Moosejaw Pizza & Dells Brewing Co.",
+    "Origin": "Wisconsin Dells, WI United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1468,
+    "BeerName": "Blonde Bock",
+    "BeerStyle": "Bock - Single / Traditional",
+    "BreweryName": "Moosejaw Pizza & Dells Brewing Co.",
+    "Origin": "Wisconsin Dells, WI United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667685,
+    "BeerName": "LittleMan",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Aleman Brewing Company",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337701,
+    "BeerName": "WoMan 2019",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Aleman Brewing Company",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3344391,
+    "BeerName": "It’s Not A Trapp!",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Water Street Brewery",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 7.80,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668719,
+    "BeerName": "Doppelbock",
+    "BeerStyle": "Bock - Single / Traditional",
+    "BreweryName": "Water Street Brewery",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669227,
+    "BeerName": "Ramberger Rauch Bier",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Water Street Brewery",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670357,
+    "BeerName": "Bamberger Rauch Bier",
+    "BeerStyle": "Rauchbier",
+    "BreweryName": "Water Street Brewery",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670796,
+    "BeerName": "Belgian Wit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Water Street Brewery",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1469,
+    "BeerName": "Irish Red Ale",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "Water Street Brewery",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 2573,
+    "BeerName": "Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Water Street Brewery",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

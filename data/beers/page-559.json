@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4632201",
-    "BeerName": "Hopfenkuss Hallertau Blanc",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Brauminator",
-    "Origin": "Limburg an der Lahn, Hessen Germany",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3342281,
+    "BeerName": "Ett Halvvetes öl",
+    "BeerStyle": "Homebrew, Wheat Beer - American Pale Wheat",
+    "BreweryName": "Lilla Prinsens Bryggeri",
+    "Origin": "Sweden",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4447370",
+    "BID": 1674944,
+    "BeerName": "Cold Brew Hops Are the New Hops",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "GrassLands Brewing Company",
+    "Origin": "Tallahassee, FL United States",
+    "BeerAbv": 8.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 11943,
+    "BeerName": "Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Old Harbor Brewery",
+    "Origin": "Carolina, Puerto Rico",
+    "BeerAbv": 6.10,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 11660,
+    "BeerName": "Ringwood",
+    "BeerStyle": "Homebrew, Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "FIGJAM Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 12179,
+    "BeerName": "Soured Cream Ale",
+    "BeerStyle": "Homebrew, Cream Ale",
+    "BreweryName": "FIGJAM Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342258,
+    "BeerName": "Jules Fort",
+    "BeerStyle": "Homebrew, Belgian Strong Dark Ale",
+    "BreweryName": "Hanewijk Home Brewery",
+    "Origin": "Belgium",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342157,
     "BeerName": "West Coast IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "BPJ Brewing",
-    "Origin": "France",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Sons of Liberty Beer & Spirits Co.",
+    "Origin": "South Kingstown, RI United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4816964",
-    "BeerName": "Wanderlust #33: Imperial Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Väsen Brewing Company",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": "11",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4447371",
-    "BeerName": "Сова",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Сова",
-    "Origin": "Moscow, Москва Russia",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816965",
-    "BeerName": "Crop Top",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Yellowhammer Brewing",
-    "Origin": "Huntsville, AL United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632202",
-    "BeerName": "Pharaoh Rocher",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Lost Pier Brewing",
-    "Origin": "Brighton, Brighton and Hove England",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816966",
-    "BeerName": "Wanderlust #33: Imperial Stout on Nitro",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Väsen Brewing Company",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": "11",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4447372",
-    "BeerName": "L’AtreBida",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "BdeGust",
-    "Origin": "Spain",
-    "BeerAbv": "6",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4816967",
-    "BeerName": "Rågbergs",
-    "BeerStyle": "Homebrew, Historical Beer - Roggenbier",
-    "BreweryName": "Björkebo Hembryggning",
-    "Origin": "Sweden",
-    "BeerAbv": "4.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632203",
-    "BeerName": "Liquid Lollipop: Blueberry, Strawberry, Maple Syrup, Vanilla, & Waffles",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Froth Brewing Co.",
-    "Origin": "Buffalo, NY United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632204",
-    "BeerName": "Whirly Brain (2021)",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "FUERST WIACEK Berlin",
-    "Origin": "Berlin, Germany",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4447373",
-    "BeerName": "Park Hopper Hazy",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Smog City Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": "6.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816968",
-    "BeerName": "Blonde Korry",
-    "BeerStyle": "Belgian Blonde",
-    "BreweryName": "Fokkmeister",
-    "Origin": "Vriezenveen, Overijssel Netherlands",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632205",
-    "BeerName": "BA Moon Butter W/Marshmallow",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": "10.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4447374",
-    "BeerName": "Nene",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Spark Beer",
-    "Origin": "Ottawa, ON Canada",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632206",
-    "BeerName": "Lager of the Plains",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Baere Brewing Co",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816969",
-    "BeerName": "The Beat Gose On",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Wolf Brewing Co.",
-    "Origin": "Mechanicsburg, PA United States",
-    "BeerAbv": "4.6",
-    "BeerIbu": "8",
-    "HallRating": null
-  },
-  {
-    "BID": "4632207",
-    "BeerName": "Do the Rye Thing",
-    "BeerStyle": "Rye Beer",
-    "BreweryName": "DaleView Biscuits and Beer",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": "5.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4447375",
-    "BeerName": "Honey Wheat",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Yes Brewing",
-    "Origin": "Westbrook, ME United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816970",
-    "BeerName": "Farmhouse Sour Series: Strawberry",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Back Bay's Farmhouse Brewing Co",
-    "Origin": "Virginia Beach, VA United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632208",
-    "BeerName": "Blueberry Churro",
-    "BeerStyle": "Cream Ale",
-    "BreweryName": "Six Capital Brewing",
-    "Origin": "Aurora, CO United States",
-    "BeerAbv": "5",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "4447376",
-    "BeerName": "Ales For ALS 2021",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Grist House Craft Brewery",
-    "Origin": "Pittsburgh, PA United States",
-    "BeerAbv": "5.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4447377",
-    "BeerName": "Sundew IPA",
+    "BID": 1456,
+    "BeerName": "Centennial IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Amber Lantern Brewing Company",
-    "Origin": "Warsaw, NY United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4816971",
-    "BeerName": "Panty Radler",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "BURLY Brewing Company",
-    "Origin": "Castle Rock, CO United States",
-    "BeerAbv": "4.9",
-    "BeerIbu": "20",
-    "HallRating": null
+    "BID": 1668313,
+    "BeerName": "Porter (w/ Peppermint Extract)",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4632209",
-    "BeerName": "Canucky Derby",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "River Horse Brewing Co.",
-    "Origin": "Ewing, NJ United States",
-    "BeerAbv": "8",
-    "BeerIbu": "40",
-    "HallRating": null
+    "BID": 1668746,
+    "BeerName": "Porter (w/ Peppermint Extract)",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343378,
+    "BeerName": "Kentucky Breakfast Stout (KBS) (2018) (Coconut/Cocoa Nibs)",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 12.31,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4445477,
+    "BeerName": "Treppenwitz Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3890707,
+    "BeerName": "Marvelroast (2020)",
+    "BeerStyle": "Blonde / Golden Ale - American",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337659,
+    "BeerName": "Mint Chocolate Chip Breakfast Stout",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337626,
+    "BeerName": "Solid Gold",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4586,
+    "BeerName": "Imperial Stout",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4588,
+    "BeerName": "Black Rye",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 78.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4589,
+    "BeerName": "Breakfast Stout",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4590,
+    "BeerName": "Rübæus",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4593,
+    "BeerName": "Devil Dancer",
+    "BeerStyle": "IPA - Triple",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 112.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4594,
+    "BeerName": "Red’s Rye IPA",
+    "BeerStyle": "IPA - Rye",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7009,
+    "BeerName": "Harvest Ale",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6951,
+    "BeerName": "Bottle Shop Series: Nemesis",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 11.20,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6830,
+    "BeerName": "Backwoods Bastard",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7876,
+    "BeerName": "Nemesis (2009)",
+    "BeerStyle": "Wheat Beer - Wheat Wine",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

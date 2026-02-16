@@ -1,252 +1,252 @@
 [
   {
-    "BID": "168",
-    "BeerName": "Okocim Mistrzowski Porter",
-    "BeerStyle": "Porter - Baltic",
-    "BreweryName": "Browar Okocim",
-    "Origin": "Brzesko, Województwo małopolskie Poland",
-    "BeerAbv": "9.6",
-    "BeerIbu": "38",
-    "HallRating": null
+    "BID": 12633,
+    "BeerName": "Skyscraper",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Tin Mill Brewery",
+    "Origin": "Hermann, MO United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 9.65
   },
   {
-    "BID": "3333456",
-    "BeerName": "Go Ahead & CRYOver It",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "StormBreaker Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": "6.6",
-    "BeerIbu": "67",
-    "HallRating": null
+    "BID": 11986,
+    "BeerName": "Seis Hermanos Lager",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Esker Beer Co.",
+    "Origin": "Rouse Hill, New South Wales Australia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 16.00,
+    "HallRating": 9.63
   },
   {
-    "BID": "1666794",
-    "BeerName": "Mango Guppy",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Pipeworks Brewing Company",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "4.6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 12494,
+    "BeerName": "Ambar Manzana 0,0",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "La Zaragozana",
+    "Origin": "Zaragoza, Aragón Spain",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 9.62
   },
   {
-    "BID": "3333457",
-    "BeerName": "Emerald Dragon - Summer Wheat v2 SPLATCH",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Tannery Run Brew Works",
-    "Origin": "Ambler, PA United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "170",
-    "BeerName": "Pannepot - Old Fisherman's Ale",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "De Struise Brouwers",
-    "Origin": "Vleteren, Vlaams Gewest Belgium",
-    "BeerAbv": "10",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "1666795",
-    "BeerName": "Mango Blonde",
+    "BID": 11423,
+    "BeerName": "Summer sun",
     "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Southern Brewing & Winemaking",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Williams Brothers Brewing Co.",
+    "Origin": "Kelliebank, Clackmannanshire Scotland",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 9.59
   },
   {
-    "BID": "171",
-    "BeerName": "Samurai",
-    "BeerStyle": "Lager - Japanese Rice",
-    "BreweryName": "Great Divide Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": "5",
-    "BeerIbu": "20",
-    "HallRating": null
+    "BID": 10545,
+    "BeerName": "Saranac Summer Ale",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Saranac Brewery",
+    "Origin": "Utica, NY United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 9.59
   },
   {
-    "BID": "3333458",
-    "BeerName": "Hazy Bling",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Bridge Road Brewers",
-    "Origin": "Beechworth, Victoria Australia",
-    "BeerAbv": "6.5",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "1666796",
-    "BeerName": "Tropical Getaway IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Soaring Ridge Craft Brewers",
-    "Origin": "Roanoke, VA United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "84",
-    "HallRating": null
-  },
-  {
-    "BID": "172",
-    "BeerName": "Crystal Ale",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Big Sky Brewing Company",
-    "Origin": "Missoula, MT United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333459",
-    "BeerName": "Peach Shake IPA",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "Saddle Rock Pub & Brewery",
-    "Origin": "Wenatchee, WA United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "23",
-    "HallRating": null
-  },
-  {
-    "BID": "1666797",
-    "BeerName": "Jittery Coffee Porter",
-    "BeerStyle": "Porter - Coffee",
-    "BreweryName": "Fox and Crown Brewing Co.",
-    "Origin": "Port Saint Lucie, FL United States",
-    "BeerAbv": "7",
-    "BeerIbu": "22",
-    "HallRating": null
-  },
-  {
-    "BID": "173",
-    "BeerName": "Gavroche",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Brasserie 3 MONTS",
-    "Origin": "Saint-Sylvestre-Cappel, Hauts-de-France France",
-    "BeerAbv": "8.5",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "1666798",
-    "BeerName": "L'Antique",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Brasserie L'Art de la Joie",
-    "Origin": "Rivesaltes, Occitanie France",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333460",
-    "BeerName": "Saison D'ete",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Rogue Ales",
-    "Origin": "Newport, OR United States",
-    "BeerAbv": "5",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "3333461",
-    "BeerName": "Lumber Dad",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Cerebral Brewing",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": "8.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "174",
-    "BeerName": "Coney Island Lager",
-    "BeerStyle": "Lager - American Amber / Red",
-    "BreweryName": "Coney Island Brewery",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666799",
-    "BeerName": "Lost Gold IPA (w/ Peaches)",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Real Ale Brewing Company",
-    "Origin": "Blanco, TX United States",
-    "BeerAbv": "6.6",
-    "BeerIbu": "62",
-    "HallRating": null
-  },
-  {
-    "BID": "3333462",
-    "BeerName": "Rum Barrel Aged Dark Sour Ale",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Hi-Wire Brewing",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": "11",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "175",
-    "BeerName": "Saisis",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Brasserie des Légendes",
-    "Origin": "Ath, Région Wallonne Belgium",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666800",
-    "BeerName": "Purgatory's 50th Anniversary",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Ska Brewing",
-    "Origin": "Durango, CO United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333463",
-    "BeerName": "I Didn’t Know That I Was Starving Till I Tasted You",
-    "BeerStyle": "Homebrew, Fruit Beer",
-    "BreweryName": "RockMann Brewing Co.",
-    "Origin": "Long Island, NY United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666801",
-    "BeerName": "Doubly Interdependent",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Beer Farm",
-    "Origin": "Brookeville, MD United States",
-    "BeerAbv": "9",
-    "BeerIbu": "84",
-    "HallRating": null
-  },
-  {
-    "BID": "1666802",
-    "BeerName": "Red IPA",
-    "BeerStyle": "IPA - Red",
-    "BreweryName": "North",
-    "Origin": "Leeds, West Yorkshire England",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333464",
-    "BeerName": "Guava Peach",
+    "BID": 10812,
+    "BeerName": "Blood Orange Cider",
     "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Swift Cider",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Two Rivers Cider Company",
+    "Origin": "Sacramento, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 9.57
+  },
+  {
+    "BID": 12287,
+    "BeerName": "Gambler's Golden Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Mountain Town Brewing Company",
+    "Origin": "Mt Pleasant, MI United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 9.55
+  },
+  {
+    "BID": 10133,
+    "BeerName": "Endeavor",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Green's Beers",
+    "Origin": "Lochristi, Vlaams Gewest Belgium",
+    "BeerAbv": 7.00,
+    "BeerIbu": 24.00,
+    "HallRating": 9.52
+  },
+  {
+    "BID": 10541,
+    "BeerName": "Cart Blanche",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "The Kelburn Brewing Company",
+    "Origin": "Barrhead, East Renfrewshire Scotland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 9.49
+  },
+  {
+    "BID": 12491,
+    "BeerName": "Ambar Negra",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "La Zaragozana",
+    "Origin": "Zaragoza, Aragón Spain",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 9.48
+  },
+  {
+    "BID": 11359,
+    "BeerName": "Golden Goose Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Goose Island Brewhouse",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 9.43
+  },
+  {
+    "BID": 10842,
+    "BeerName": "Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Butcombe Brewing Co.",
+    "Origin": "Bristol, City of Bristol England",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 9.43
+  },
+  {
+    "BID": 11196,
+    "BeerName": "Blonde Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Twisted Pine Brewing Company",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 29.00,
+    "HallRating": 9.42
+  },
+  {
+    "BID": 12269,
+    "BeerName": "Natural Blonde Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "The People’s Pint Restaurant & Brewery",
+    "Origin": "Greenfield, MA United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 9.36
+  },
+  {
+    "BID": 12511,
+    "BeerName": "Gallo / Famosa Light",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Cervecería Centro Americana",
+    "Origin": "Ciudad de Guatemala, Guatemala",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 9.34
+  },
+  {
+    "BID": 11958,
+    "BeerName": "Sternburg Doppelkaramel",
+    "BeerStyle": "Malt Beer",
+    "BreweryName": "Sternburg Brauerei GmbH",
+    "Origin": "Leipzig, Sachsen Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 9.34
+  },
+  {
+    "BID": 12604,
+    "BeerName": "American Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "CJ’s Brewing Company",
+    "Origin": "Commerce Township, MI United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 0.00,
+    "HallRating": 9.31
+  },
+  {
+    "BID": 12435,
+    "BeerName": "Big Helga",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Matilda Bay Brewing Company",
+    "Origin": "Healesville, Victoria Australia",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 9.31
+  },
+  {
+    "BID": 11617,
+    "BeerName": "2010 Reserve Pale Ale",
+    "BeerStyle": "Pale Ale - Australian",
+    "BreweryName": "Endeavour Brewing Co.",
+    "Origin": "The Rocks, New South Wales Australia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 9.28
+  },
+  {
+    "BID": 12262,
+    "BeerName": "Gordon Finest Copper",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Brewery John Martin & Brewery Timmermans",
+    "Origin": "Rixensart, Région Wallonne Belgium",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 9.27
+  },
+  {
+    "BID": 11606,
+    "BeerName": "Third Street Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Golden Valley Brewery and Pub",
+    "Origin": "McMinnville, OR United States",
+    "BeerAbv": 3.70,
+    "BeerIbu": 0.00,
+    "HallRating": 9.27
+  },
+  {
+    "BID": 10274,
+    "BeerName": "Modelo Chope Clara",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Grupo Modelo",
+    "Origin": "Ciudad de México, Mexico",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 9.26
+  },
+  {
+    "BID": 10980,
+    "BeerName": "Brewberry",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Astoria Brewing Co.",
+    "Origin": "Astoria, OR United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 12.00,
+    "HallRating": 9.25
+  },
+  {
+    "BID": 10243,
+    "BeerName": "Northwest Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Henry Weinhard's",
+    "Origin": "Eugene, OR United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 9.23
+  },
+  {
+    "BID": 11362,
+    "BeerName": "Agave Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Uncle Billy's Brewery",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 9.23
   }
 ]

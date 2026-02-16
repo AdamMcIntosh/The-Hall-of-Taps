@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4446395",
-    "BeerName": "Kvass",
-    "BeerStyle": "Homebrew, Kvass",
-    "BreweryName": "8-bit Brewery",
-    "Origin": "Norway",
-    "BeerAbv": "1.5",
-    "BeerIbu": "3",
-    "HallRating": null
+    "BID": 3342120,
+    "BeerName": "Czech Lager",
+    "BeerStyle": "Lager - Světlé (Czech Pale)",
+    "BreweryName": "Canyon Lakes Brewing Company",
+    "Origin": "Johnson Lake, NE United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 39.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4631174",
-    "BeerName": "N'oeuf Ans",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Brasserie Artisanale Gallicus",
-    "Origin": "Gatineau, QC Canada",
-    "BeerAbv": "6.5",
-    "BeerIbu": "20",
-    "HallRating": null
+    "BID": 4941277,
+    "BeerName": "Ammaic",
+    "BeerStyle": "IPA - Red",
+    "BreweryName": "Brouwerij 't Smakt",
+    "Origin": "Smakt, Limburg Netherlands",
+    "BeerAbv": 6.60,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4815940",
-    "BeerName": "Lemon Meringue Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Wolf Branch Brewing",
-    "Origin": "Eustis, FL United States",
-    "BeerAbv": "5",
-    "BeerIbu": "8",
-    "HallRating": null
-  },
-  {
-    "BID": "4446396",
-    "BeerName": "Wild PeachQ",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Mlinarica",
-    "Origin": "Zagreb, Grad Zagreb Croatia",
-    "BeerAbv": "5.8",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4815941",
-    "BeerName": "Sippin' On Some Sizzurp",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Cultured Collective",
-    "Origin": "Orange Park, FL United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631175",
-    "BeerName": "Alt Bier",
-    "BeerStyle": "Altbier - Traditional",
-    "BreweryName": "Jeremiah Johnson Brewing Co.",
-    "Origin": "Great Falls, MT United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446397",
-    "BeerName": "Runestone",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "The Uraidla Brewery",
-    "Origin": "Uraidla, South Australia Australia",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815942",
-    "BeerName": "Watermelon Seltzer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Hopkins Farm Brewery",
-    "Origin": "Havre de Grace, MD United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631176",
-    "BeerName": "Freudian Pils",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Cultured Collective",
-    "Origin": "Orange Park, FL United States",
-    "BeerAbv": "4.6",
-    "BeerIbu": "11",
-    "HallRating": null
-  },
-  {
-    "BID": "4631177",
-    "BeerName": "1833 Munich Dunkel (2021)",
-    "BeerStyle": "Lager - Munich Dunkel",
-    "BreweryName": "Buffalo Brewing Company",
-    "Origin": "Buffalo, NY United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "29",
-    "HallRating": null
-  },
-  {
-    "BID": "4446398",
-    "BeerName": "Brett Extract 2021",
-    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "8-bit Brewery",
-    "Origin": "Norway",
-    "BeerAbv": "4",
-    "BeerIbu": "12",
-    "HallRating": null
-  },
-  {
-    "BID": "4815943",
-    "BeerName": "Fresa",
-    "BeerStyle": "Other",
-    "BreweryName": "Mamá Dolores",
-    "Origin": "Mexico",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631178",
-    "BeerName": "Barbed Wire Love Ale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Circa Brewing Co.",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": "6.47",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "4446399",
-    "BeerName": "Abyss Blueberry Imperial Stout (2021)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Varvar Brew",
-    "Origin": "Kyiv, Ukraine",
-    "BeerAbv": "10.2",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "4815944",
-    "BeerName": "5,5 Dioptrin",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Brauhaus Faust - Miltenberg",
-    "Origin": "Miltenberg, Bayern Germany",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631179",
-    "BeerName": "Peppermint Patty Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Ashton Brewing",
-    "Origin": "Middlesex, NJ United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815945",
-    "BeerName": "Summerville Black Tea And Ginger",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Elevation Beer Company",
-    "Origin": "Poncha Springs, CO United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446400",
-    "BeerName": "Cherry Fizz",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Potlatch Brewing",
-    "Origin": "Hoodsport, WA United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4815946",
-    "BeerName": "Märzen (2022)",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Feldschlösschen",
-    "Origin": "Rheinfelden, Aargau Switzerland",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631180",
-    "BeerName": "Bitter Cocoa Ale",
-    "BeerStyle": "Homebrew, Wheat Beer - Wheat Wine",
-    "BreweryName": "Preserve 32",
-    "Origin": "United States",
-    "BeerAbv": "4.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446401",
-    "BeerName": "8 Spice Thai Green Curry Beer",
+    "BID": 4981990,
+    "BeerName": "Astronauta",
     "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Whistling Sisters Beer Co",
-    "Origin": "Wellington, New Zealand",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Strange Beers PTY",
+    "Origin": "Panama",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4815947",
-    "BeerName": "Double IPA No. 4",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Powers Creek Brewery",
-    "Origin": "Blue Lake, CA United States",
-    "BeerAbv": "8.6",
-    "BeerIbu": "94",
-    "HallRating": null
+    "BID": 4961638,
+    "BeerName": "Keep On Duckin'",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Duck Foot Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4631181",
-    "BeerName": "Drunken Giraffe Brown",
-    "BeerStyle": "Homebrew, Brown Ale - American",
-    "BreweryName": "Drunken Giraffe Brewing",
+    "BID": 4981991,
+    "BeerName": "Princess Peach",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Nostalgia Brewing",
+    "Origin": "Gahanna, OH United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 471,
+    "BeerName": "Aecht Schlenkerla Rauchbier – Märzen",
+    "BeerStyle": "Rauchbier",
+    "BreweryName": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "Origin": "Bamberg, Bayern Germany",
+    "BeerAbv": 5.10,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 472,
+    "BeerName": "Aecht Schlenkerla Rauchbier – Weizen",
+    "BeerStyle": "Rauchbier",
+    "BreweryName": "Schlenkerla (\"Heller-Bräu\" Trum)",
+    "Origin": "Bamberg, Bayern Germany",
+    "BeerAbv": 5.20,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981962,
+    "BeerName": "Rindless Watermelon Gose",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Hopworks Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 5.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9017,
+    "BeerName": "Pig War NW Style Ale",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Hopworks Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9008,
+    "BeerName": "Dark Helmet",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "Hopworks Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7470,
+    "BeerName": "Abominable Winter Ale",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Hopworks Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5264,
+    "BeerName": "Hopworks IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Hopworks Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5265,
+    "BeerName": "Organic Velvet ESB",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Hopworks Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5266,
+    "BeerName": "Crosstown Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Hopworks Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5267,
+    "BeerName": "Deluxe Organic Ale (DOA)",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Hopworks Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5268,
+    "BeerName": "Survival Stout",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Hopworks Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981963,
+    "BeerName": "Maddie Hops",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Dog Beers Brewery",
     "Origin": "United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "20",
-    "HallRating": null
+    "BeerAbv": 6.20,
+    "BeerIbu": 48.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4446402",
-    "BeerName": "Brett Extract #2 -- 2021",
-    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "8-bit Brewery",
-    "Origin": "Norway",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4941251,
+    "BeerName": "Sebastian Dunkel",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Privatbrauerei Wilhelm Ketterer",
+    "Origin": "Pforzheim, Baden-Württemberg Germany",
+    "BeerAbv": 5.40,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4815948",
-    "BeerName": "Lambs Creek",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Ghost Monkey Brewery",
-    "Origin": "North Charleston, SC United States",
-    "BeerAbv": "7.4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 4961613,
+    "BeerName": "Orangesicle Cream Ale",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "The Corkscrew",
+    "Origin": "Ocala, FL United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981965,
+    "BeerName": "Pumpkin Pie Porter (2022)",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Deep River Brewing Company",
+    "Origin": "Clayton, NC United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339573,
+    "BeerName": "Pineapple Strawberry Sublime Keylime",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Deep River Brewing Company",
+    "Origin": "Clayton, NC United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675165,
+    "BeerName": "Mac Daddy Milk Chocolate Macadamia Nut Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Deep River Brewing Company",
+    "Origin": "Clayton, NC United States",
+    "BeerAbv": 6.25,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675166,
+    "BeerName": "Mac Daddy Milk Chocolate Macadamia Nut Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Deep River Brewing Company",
+    "Origin": "Clayton, NC United States",
+    "BeerAbv": 6.25,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675550,
+    "BeerName": "Lucky Beer (Lucky Buddha)",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Hangzhou Qiandaohu Beer Co. (Cheerday Brewery - 千岛湖)",
+    "Origin": "Hang Zhou Shi, Zhe Jiang Sheng China / People's Republic of China",
+    "BeerAbv": 4.80,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667000,
+    "BeerName": "Lucky Beer (Lucky Buddha)",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Hangzhou Qiandaohu Beer Co. (Cheerday Brewery - 千岛湖)",
+    "Origin": "Hang Zhou Shi, Zhe Jiang Sheng China / People's Republic of China",
+    "BeerAbv": 4.80,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
   }
 ]

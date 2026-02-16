@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4941055",
-    "BeerName": "PAPER HANDS | m:o:a:s:s series 4/5",
+    "BID": 1667702,
+    "BeerName": "The Snowball",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Mountain Goat Beer",
+    "Origin": "Richmond, Victoria Australia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667758,
+    "BeerName": "In-Breed: The Naz",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Mountain Goat Beer",
+    "Origin": "Richmond, Victoria Australia",
+    "BeerAbv": 6.50,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9234,
+    "BeerName": "Hightail Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Mountain Goat Beer",
+    "Origin": "Richmond, Victoria Australia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9536,
+    "BeerName": "Rare Breed: Double Hightail",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Mountain Goat Beer",
+    "Origin": "Richmond, Victoria Australia",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7733,
+    "BeerName": "Cucapá Clásica",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Cervecería de Baja California (Cucapa Brewing Co.)",
+    "Origin": "Mexicali, Baja California Mexico",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7734,
+    "BeerName": "Cucapá Obscura",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Cervecería de Baja California (Cucapa Brewing Co.)",
+    "Origin": "Mexicali, Baja California Mexico",
+    "BeerAbv": 4.80,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7735,
+    "BeerName": "Cucapá Chupacabras Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Cervecería de Baja California (Cucapa Brewing Co.)",
+    "Origin": "Mexicali, Baja California Mexico",
+    "BeerAbv": 5.80,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7737,
+    "BeerName": "Cucapá Runaway IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Cervecería de Baja California (Cucapa Brewing Co.)",
+    "Origin": "Mexicali, Baja California Mexico",
+    "BeerAbv": 7.50,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7738,
+    "BeerName": "Cucapá La Migra",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Cervecería de Baja California (Cucapa Brewing Co.)",
+    "Origin": "Mexicali, Baja California Mexico",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7739,
+    "BeerName": "Cucapá Lowrider Ale",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Cervecería de Baja California (Cucapa Brewing Co.)",
+    "Origin": "Mexicali, Baja California Mexico",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7740,
+    "BeerName": "Cucapá Green Card",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Cervecería de Baja California (Cucapa Brewing Co.)",
+    "Origin": "Mexicali, Baja California Mexico",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5699,
+    "BeerName": "Cucapá Honey Amber Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Cervecería de Baja California (Cucapa Brewing Co.)",
+    "Origin": "Mexicali, Baja California Mexico",
+    "BeerAbv": 4.50,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334578,
+    "BeerName": "Tlaquebeer",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Cervecería de Baja California (Cucapa Brewing Co.)",
+    "Origin": "Mexicali, Baja California Mexico",
+    "BeerAbv": 7.50,
+    "BeerIbu": 41.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675810,
+    "BeerName": "Replicale (2016)",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Bent River Brewing Company",
+    "Origin": "Moline, IL United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1494,
+    "BeerName": "Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Bent River Brewing Company",
+    "Origin": "Moline, IL United States",
+    "BeerAbv": 5.99,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4445515,
+    "BeerName": "Pinata Party Gose",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Bent River Brewing Company",
+    "Origin": "Moline, IL United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4445518,
+    "BeerName": "Juiciorn IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bent River Brewing Company",
+    "Origin": "Moline, IL United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4815952,
+    "BeerName": "Local Uncommon Country Club Coffee 2022",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Bent River Brewing Company",
+    "Origin": "Moline, IL United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4446322,
+    "BeerName": "The Fuzz",
     "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "ATELIER VRAI",
-    "Origin": "Heidelbach, Hessen Germany",
-    "BeerAbv": "6.7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Woods Beer & Wine Co.",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981760",
-    "BeerName": "Island Orchard Spruce Tree",
-    "BeerStyle": "Cider - Ice",
-    "BreweryName": "Island Orchard Cider",
-    "Origin": "Ellison Bay, WI United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1667715,
+    "BeerName": "Golden Hour",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Woods Beer & Wine Co.",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961414",
-    "BeerName": "Brewmaster IPA Series V2: Sour Peach IPA",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "City Lights Brewing Company",
-    "Origin": "Milwaukee, WI United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1667704,
+    "BeerName": "Bramble",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Woods Beer & Wine Co.",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4941056",
-    "BeerName": "Barrel Aged Space And Time",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": "9.9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1669118,
+    "BeerName": "Island Club Sour",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Woods Beer & Wine Co.",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981761",
-    "BeerName": "Second Wind Fresh Hop Double IPA (2022)",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Alaro Craft Brewery",
-    "Origin": "Sacramento, CA United States",
-    "BeerAbv": "7.9",
-    "BeerIbu": "65",
-    "HallRating": null
+    "BID": 1670971,
+    "BeerName": "Rocky Mountain Rye",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Woods Beer & Wine Co.",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4941057",
-    "BeerName": "Ieperlink In De Leute (2022 Edition)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Brouwerij Adriaensen",
-    "Origin": "Ieper, Vlaams Gewest Belgium",
-    "BeerAbv": "17",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3334991,
+    "BeerName": "Mahogany Quad",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Woods Beer & Wine Co.",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 11.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981762",
-    "BeerName": "Wicked",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Granite City Brewery",
-    "Origin": "Ellsworth, IA United States",
-    "BeerAbv": "6.8",
-    "BeerIbu": "52",
-    "HallRating": null
-  },
-  {
-    "BID": "4961415",
-    "BeerName": "White Chocolate Mocha",
-    "BeerStyle": "Stout - White / Golden",
-    "BreweryName": "Southern Roots Brewing Company",
-    "Origin": "Waco, TX United States",
-    "BeerAbv": "8.4",
-    "BeerIbu": "28",
-    "HallRating": null
-  },
-  {
-    "BID": "4981763",
-    "BeerName": "741WZW",
+    "BID": 3335010,
+    "BeerName": "Isle Style IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "D and G Brewing Company",
-    "Origin": "Saint Charles, IL United States",
-    "BeerAbv": "5.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961416",
-    "BeerName": "2022 Watermelon Mead",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Liquid Alchemy Beverages",
-    "Origin": "Wilmington, DE United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941058",
-    "BeerName": "Summer Vibes",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "IberWolf",
-    "Origin": "Maia, Porto District Portugal",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981764",
-    "BeerName": "Blackberry and Vanilla Bean",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Six Mile Bridge",
-    "Origin": "Maryland Heights, MO United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4961417",
-    "BeerName": "Creamsicle Fruited Blonde",
-    "BeerStyle": "Blonde Ale",
-    "BreweryName": "14th Star Brewing Company",
-    "Origin": "St Albans, VT United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "13",
-    "HallRating": null
-  },
-  {
-    "BID": "4941059",
-    "BeerName": "Surf Camp",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Gusto Brewing Company",
-    "Origin": "North Cape May, NJ United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981765",
-    "BeerName": "El Toona",
-    "BeerStyle": "Lager - Mexican",
-    "BreweryName": "Ombibulous Brewing Co.",
-    "Origin": "Altoona, WI United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961418",
-    "BeerName": "Model 97",
-    "BeerStyle": "Homebrew, Porter - American",
-    "BreweryName": "All Quiet On The Yeastern Front",
-    "Origin": "United States",
-    "BeerAbv": "6.4",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "4941060",
-    "BeerName": "Double Trouble",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Post Scriptum Brewery",
-    "Origin": "Alvarelhos, Porto Portugal",
-    "BeerAbv": "7.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981766",
-    "BeerName": "It's About Time",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "DryHop Brewers",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "5",
-    "BeerIbu": "19",
-    "HallRating": null
-  },
-  {
-    "BID": "4961419",
-    "BeerName": "El Dorado IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Cult Classic Brewing Co.",
-    "Origin": "Stevensville, MD United States",
-    "BeerAbv": "7.4",
-    "BeerIbu": "45",
-    "HallRating": null
-  },
-  {
-    "BID": "4941061",
-    "BeerName": "Get Off My Damn Lawn!",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "PetSkull Brewing Company",
-    "Origin": "Manitowoc, WI United States",
-    "BeerAbv": "8.2",
-    "BeerIbu": "70",
-    "HallRating": null
-  },
-  {
-    "BID": "4981767",
-    "BeerName": "Final Countdown",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Stock House Brewing Co.",
-    "Origin": "Wauwatosa, WI United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "50",
-    "HallRating": null
-  },
-  {
-    "BID": "4961420",
-    "BeerName": "2022 Watermelon Cider",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Liquid Alchemy Beverages",
-    "Origin": "Wilmington, DE United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941062",
-    "BeerName": "Dogfish Head ESB",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": "5.7",
-    "BeerIbu": "34",
-    "HallRating": null
-  },
-  {
-    "BID": "4981768",
-    "BeerName": "101 St Airborne Amber",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Allied Brewing Company",
-    "Origin": "Altamont, NY United States",
-    "BeerAbv": "5.6",
-    "BeerIbu": "22",
-    "HallRating": null
-  },
-  {
-    "BID": "4961421",
-    "BeerName": "Thou Shall Not Pass",
-    "BeerStyle": "Pale Ale - New Zealand",
-    "BreweryName": "Somewhere In Particular Brewing",
-    "Origin": "Columbus, OH United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Woods Beer & Wine Co.",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

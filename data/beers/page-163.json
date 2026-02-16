@@ -1,252 +1,252 @@
 [
   {
-    "BID": "3334625",
-    "BeerName": "Oud Bruin",
-    "BeerStyle": "Sour - Flanders Oud Bruin",
-    "BreweryName": "Alewerks Brewing Company",
-    "Origin": "Williamsburg, VA United States",
-    "BeerAbv": "6.4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1671084,
+    "BeerName": "Halfwit Cream Ale",
+    "BeerStyle": "Homebrew, Cream Ale",
+    "BreweryName": "Sunderbrew",
+    "Origin": "United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1667747",
-    "BeerName": "Tokumei Kibou (匿名希望)",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Kyoto Brewing Company (京都醸造)",
-    "Origin": "Kyoto, Japan",
-    "BeerAbv": "6.3",
-    "BeerIbu": "56",
-    "HallRating": null
-  },
-  {
-    "BID": "1558",
-    "BeerName": "Tripel Crown",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Middle Ages Brewing",
-    "Origin": "Syracuse, NY United States",
-    "BeerAbv": "10",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1559",
-    "BeerName": "Fish Tale Reel Ales: Monkfish",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Fish Brewing Company",
-    "Origin": "Olympia, WA United States",
-    "BeerAbv": "9",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "3334626",
-    "BeerName": "Stoere Snor",
-    "BeerStyle": "IPA - English",
-    "BreweryName": "Brouwerij De Snor",
-    "Origin": "Velp, Gelderland Netherlands",
-    "BeerAbv": "6.4",
-    "BeerIbu": "53",
-    "HallRating": null
-  },
-  {
-    "BID": "1667748",
-    "BeerName": "Tangerines Gose By the Rocks",
-    "BeerStyle": "Homebrew, Sour - Traditional Gose",
-    "BreweryName": "Earl Street Beewing",
-    "Origin": "Australia",
-    "BeerAbv": "5.2",
-    "BeerIbu": "32",
-    "HallRating": null
-  },
-  {
-    "BID": "1560",
-    "BeerName": "Old Hooky",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Hook Norton Brewery Co Ltd",
-    "Origin": "Hook Norton, Oxfordshire England",
-    "BeerAbv": "4.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1561",
-    "BeerName": "Best Bitter",
-    "BeerStyle": "Bitter - Best",
-    "BreweryName": "Hook Norton Brewery Co Ltd",
-    "Origin": "Hook Norton, Oxfordshire England",
-    "BeerAbv": "3.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334627",
-    "BeerName": "60/40 Grapefruit Lime Sour",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Detroit Beer Company",
-    "Origin": "Detroit, MI United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667749",
-    "BeerName": "Daniel Radcliffe's Delicious Asshole",
-    "BeerStyle": "Homebrew, Stout - Milk / Sweet",
-    "BreweryName": "Mediocre Astronauts Brewery",
-    "Origin": "New Zealand",
-    "BeerAbv": "8.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1562",
-    "BeerName": "Generation",
-    "BeerStyle": "Blonde / Golden Ale - English",
-    "BreweryName": "Hook Norton Brewery Co Ltd",
-    "Origin": "Hook Norton, Oxfordshire England",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1563",
-    "BeerName": "Gale's Prize Old Ale",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Fuller's Griffin Brewery",
-    "Origin": "London, Greater London England",
-    "BeerAbv": "9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334628",
-    "BeerName": "Gouden Carolus Classic",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Brouwerij Het Anker",
-    "Origin": "Mechelen, Vlaams Gewest Belgium",
-    "BeerAbv": "8.5",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "1667750",
-    "BeerName": "Elemental Series Dry Hopped Sour",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Category 12 Brewing",
-    "Origin": "Victoria, BC Canada",
-    "BeerAbv": "5",
-    "BeerIbu": "14",
-    "HallRating": null
-  },
-  {
-    "BID": "1564",
-    "BeerName": "Meister Pilsener",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Martini-Brauerei",
-    "Origin": "Kassel, Hessen Germany",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334629",
-    "BeerName": "Impeach",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Imperial Brewery",
-    "Origin": "Mexborough, South Yorkshire England",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667751",
-    "BeerName": "La Goudale - Blonde à l'Ancienne",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Brasserie Goudale",
-    "Origin": "Arques, Hauts-de-France France",
-    "BeerAbv": "7.2",
-    "BeerIbu": "28",
-    "HallRating": null
-  },
-  {
-    "BID": "1565",
-    "BeerName": "Weissbier Dunkel",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Martini-Brauerei",
-    "Origin": "Kassel, Hessen Germany",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3334630",
-    "BeerName": "Dark",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Wellspent Brewing Company",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667752",
-    "BeerName": "Mr. Simcoe",
+    "BID": 1671171,
+    "BeerName": "Citracalifragilistic....",
     "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Ye Old Rutherglen",
-    "Origin": "Australia",
-    "BeerAbv": "5.75",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Sunderbrew",
+    "Origin": "United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1566",
-    "BeerName": "Kasseler Premium Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Martini-Brauerei",
-    "Origin": "Kassel, Hessen Germany",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1671214,
+    "BeerName": "Ten Twenty Five",
+    "BeerStyle": "Homebrew, Stout - Imperial / Double",
+    "BreweryName": "Sunderbrew",
+    "Origin": "United States",
+    "BeerAbv": 10.25,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1567",
-    "BeerName": "Weissbier Hell",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Martini-Brauerei",
-    "Origin": "Kassel, Hessen Germany",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3338306,
+    "BeerName": "IPA 1.0",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Beerslog Brew",
+    "Origin": "Russia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3334631",
-    "BeerName": "Pale Ale Galaxy Mosaic Simcoe Zeus",
+    "BID": 1671087,
+    "BeerName": "5:00 Afternoon Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Renegade Brewing",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675699,
+    "BeerName": "Smolder",
+    "BeerStyle": "Rauchbier",
+    "BreweryName": "Renegade Brewing",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8049,
+    "BeerName": "Madtown Nutbrown",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Ale Asylum",
+    "Origin": "Madison, WI United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9251,
+    "BeerName": "Hopalicious",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "The Kernel Brewery",
+    "BreweryName": "Ale Asylum",
+    "Origin": "Madison, WI United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 52.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6404,
+    "BeerName": "Contorter Porter",
+    "BeerStyle": "Porter - English",
+    "BreweryName": "Ale Asylum",
+    "Origin": "Madison, WI United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7810,
+    "BeerName": "Ambergeddon",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Ale Asylum",
+    "Origin": "Madison, WI United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7562,
+    "BeerName": "Mercy",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Ale Asylum",
+    "Origin": "Madison, WI United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7563,
+    "BeerName": "Tripel Nova",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Ale Asylum",
+    "Origin": "Madison, WI United States",
+    "BeerAbv": 9.80,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674675,
+    "BeerName": "Sway 83",
+    "BeerStyle": "Homebrew, Rye Beer",
+    "BreweryName": "Grensebrygg",
+    "Origin": "Norway",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338311,
+    "BeerName": "Sway 176 Urban Hymns",
+    "BeerStyle": "Homebrew, Pale Ale - Other",
+    "BreweryName": "Grensebrygg",
+    "Origin": "Norway",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338313,
+    "BeerName": "Sway 177 Storm In Heaven",
+    "BeerStyle": "Homebrew, Fruit Beer",
+    "BreweryName": "Grensebrygg",
+    "Origin": "Norway",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667136,
+    "BeerName": "Dukes Pacific Ipa",
+    "BeerStyle": "Homebrew, IPA - White / Wheat",
+    "BreweryName": "Martha's Magic Brew",
+    "Origin": "United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671090,
+    "BeerName": "Lost Voyage",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Granite Brewery",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7664,
+    "BeerName": "Hopping Mad",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Granite Brewery",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 6.00,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8730,
+    "BeerName": "Best Bitter",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Granite Brewery",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671091,
+    "BeerName": "Steve Brown's All Access Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "406 Brewing Company",
+    "Origin": "Manhattan, MT United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671092,
+    "BeerName": "Peachy Keen",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "The Berger Brewery",
+    "Origin": "United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338315,
+    "BeerName": "Hop Idle",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "East London Brewing Company",
     "Origin": "London, Greater London England",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1667753",
-    "BeerName": "Bourbon Barrel Aged Soft Serv With Peanut Butter",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "South Street Brewery",
-    "Origin": "Charlottesville, VA United States",
-    "BeerAbv": "9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1671093,
+    "BeerName": "Crazy Mary",
+    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
+    "BreweryName": "Crooked Tree Brewing",
+    "Origin": "United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1568",
-    "BeerName": "Angel Ale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Federation Brewery Ltd",
-    "Origin": "Gateshead, Tyne and Wear England",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1671105,
+    "BeerName": "State of Love And Trust",
+    "BeerStyle": "Homebrew, Stout - Milk / Sweet",
+    "BreweryName": "Crooked Tree Brewing",
+    "Origin": "United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338318,
+    "BeerName": "Schneespitzen 峻岭雪",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Thaiwoo Brewery 太舞精酿",
+    "Origin": "Zhang Jia Kou Shi, He Bei Sheng China / People's Republic of China",
+    "BeerAbv": 5.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
   }
 ]

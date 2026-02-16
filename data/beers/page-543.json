@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4816831",
-    "BeerName": "Odin the First",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Vòl Biòu Brewing",
-    "Origin": "France",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 966,
+    "BeerName": "Regiment Pale Ale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Valley Forge Brewing",
+    "Origin": "Valley Forge, PA United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4632061",
-    "BeerName": "Lavender Honey Cream",
-    "BeerStyle": "Cream Ale",
-    "BreweryName": "Lone Tree Brewing Company",
-    "Origin": "Lone Tree, CO United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4447243",
-    "BeerName": "Farmer",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "KBK - Kornheddinge BryggeriKompani",
-    "Origin": "Staffanstorps kommun, Skåne län Sweden",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632062",
-    "BeerName": "Hoops 67",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Camerons Brewery",
-    "Origin": "Hartlepool, England",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816832",
-    "BeerName": "High Noon Sun Sips",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "E. & J. Gallo Winery",
-    "Origin": null,
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632063",
-    "BeerName": "Saison Vigneronne",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Les Insulaires Microbrasseurs",
-    "Origin": "Laval, QC Canada",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4447244",
-    "BeerName": "Shin Shoga",
-    "BeerStyle": "Hard Ginger Beer",
-    "BreweryName": "Olde Mother Brewing Co.",
-    "Origin": "Frederick, MD United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632064",
-    "BeerName": "Semper Fermentis (Batch 1)",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Coastal Fermentory",
-    "Origin": "Newport News, VA United States",
-    "BeerAbv": "7",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "4816833",
-    "BeerName": "Rahu",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Pühaste Brewery",
-    "Origin": "Tartu, Tartu maakond Estonia",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632065",
-    "BeerName": "Mexican Strawberry Margarita",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Lone Tree Brewing Company",
-    "Origin": "Lone Tree, CO United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "27",
-    "HallRating": null
-  },
-  {
-    "BID": "4447245",
-    "BeerName": "Dinkel Bier",
-    "BeerStyle": "Specialty Grain",
-    "BreweryName": "Dark Sky Brewing Company",
-    "Origin": "Flagstaff, AZ United States",
-    "BeerAbv": "4.2",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "4816834",
-    "BeerName": "Svelli's Treasure",
-    "BeerStyle": "Homebrew, Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Sven Bräu",
-    "Origin": "Solingen, Nordrhein-Westfalen Germany",
-    "BeerAbv": "4.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632066",
-    "BeerName": "Just My Saison",
-    "BeerStyle": "Homebrew, Belgian Blonde",
-    "BreweryName": "Egnahems Bryggeri",
-    "Origin": "Sweden",
-    "BeerAbv": "5.8",
-    "BeerIbu": "28",
-    "HallRating": null
-  },
-  {
-    "BID": "4816835",
-    "BeerName": "Plumage Archer",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Newbarns Brewery",
-    "Origin": "Edinburgh, Scotland",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4447246",
-    "BeerName": "Lighthouse",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Pontus Brewing",
-    "Origin": "Amsterdam, Noord-Holland Netherlands",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816836",
-    "BeerName": "Lychee Stout",
-    "BeerStyle": "Homebrew, Stout - Other",
-    "BreweryName": "Charactory",
-    "Origin": "Thailand",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632067",
-    "BeerName": "Sterk - En - Fruitig - Pear & Cranberry",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Restoration Brew Worx",
-    "Origin": "Delaware, OH United States",
-    "BeerAbv": "8",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4447247",
-    "BeerName": "Birra Artigianale Sarda Con Liquirizia Di Orosei",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Vianello's",
-    "Origin": "Italy",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816837",
-    "BeerName": "Dirty Hop Water: Moonage Daydream",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Arizona Wilderness Brewing Co.",
-    "Origin": "Gilbert, AZ United States",
-    "BeerAbv": "6.6",
-    "BeerIbu": "4",
-    "HallRating": null
-  },
-  {
-    "BID": "4447248",
-    "BeerName": "De Kleine Beer",
-    "BeerStyle": "Homebrew, Stout - Milk / Sweet",
-    "BreweryName": "Buch Bier",
-    "Origin": "Netherlands",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4632068",
-    "BeerName": "Alabama High Test",
+    "BID": 3341834,
+    "BeerName": "Lucid Dreaming",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Birmingham District Brewing Company",
-    "Origin": "Birmingham, AL United States",
-    "BeerAbv": "7",
-    "BeerIbu": "78",
-    "HallRating": null
+    "BreweryName": "White Elm Brewing Company",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4816838",
-    "BeerName": "Piranha Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Stadshaven Brouwerij",
-    "Origin": "Rotterdam, Zuid-Holland Netherlands",
-    "BeerAbv": "8",
-    "BeerIbu": "20",
-    "HallRating": null
+    "BID": 3341835,
+    "BeerName": "Wingmen Good Times Brew",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Coastal Empire Beer Co.",
+    "Origin": "Savannah, GA United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4632069",
-    "BeerName": "Saison D'Hiver",
+    "BID": 3344103,
+    "BeerName": "Global Soul Blackberry Mint Shandy",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Coastal Empire Beer Co.",
+    "Origin": "Savannah, GA United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674497,
+    "BeerName": "Fernie Lager",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Fernie Castle",
+    "Origin": "Letham, Angus Scotland",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341837,
+    "BeerName": "Wheat IPA",
+    "BeerStyle": "Homebrew, IPA - White / Wheat",
+    "BreweryName": "Plumber's Brew",
+    "Origin": "United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341838,
+    "BeerName": "Baltic Mayhem",
+    "BeerStyle": "Homebrew, Porter - Baltic",
+    "BreweryName": "PA Alers",
+    "Origin": "United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674500,
+    "BeerName": "Yankee Dave",
+    "BeerStyle": "Homebrew, Pale Ale - Other",
+    "BreweryName": "Bleadon Ale",
+    "Origin": "England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674867,
+    "BeerName": "Tea-riffic",
+    "BeerStyle": "Homebrew, Other",
+    "BreweryName": "Bleadon Ale",
+    "Origin": "England",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674841,
+    "BeerName": "Admiral Hammerfist",
+    "BeerStyle": "Homebrew, Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Bleadon Ale",
+    "Origin": "England",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341839,
+    "BeerName": "Left 4 Red (2019)",
+    "BeerStyle": "Homebrew, Red Ale - Other",
+    "BreweryName": "Beerpath Brewing",
+    "Origin": "United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674501,
+    "BeerName": "Pink Is the New White",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Brasserie Vivat",
+    "Origin": "Le Cateau-Cambrésis, Hauts-de-France France",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341840,
+    "BeerName": "Takes Two To Mango",
     "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Waypost Brewing Co",
-    "Origin": "Fennville, MI United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "27",
-    "HallRating": null
+    "BreweryName": "MERIT Brewing",
+    "Origin": "Hamilton, ON Canada",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4447249",
-    "BeerName": "All Day Bae",
+    "BID": 3341927,
+    "BeerName": "Never Far",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "MERIT Brewing",
+    "Origin": "Hamilton, ON Canada",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674503,
+    "BeerName": "Oblivion",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Zombie Brew",
+    "Origin": "Moscow, Москва Russia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 42.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333977,
+    "BeerName": "21 Days",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "21 Days Brew",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333978,
+    "BeerName": "Northern Blanche",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "21 Days Brew",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674504,
+    "BeerName": "Rabagasten",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Stjørdalsbryggeriet",
+    "Origin": "Norway",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674616,
+    "BeerName": "Okkelberg",
+    "BeerStyle": "Farmhouse Ale - Stjørdalsøl",
+    "BreweryName": "Stjørdalsbryggeriet",
+    "Origin": "Norway",
+    "BeerAbv": 7.00,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676324,
+    "BeerName": "Hausten",
+    "BeerStyle": "Porter - Coffee",
+    "BreweryName": "Stjørdalsbryggeriet",
+    "Origin": "Norway",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341843,
+    "BeerName": "Area 53 Unfiltered Blonde",
     "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "The Perch Brewery",
-    "Origin": "Chandler, AZ United States",
-    "BeerAbv": "4.6",
-    "BeerIbu": "10",
-    "HallRating": null
+    "BreweryName": "Second Salem Brewing Company",
+    "Origin": "Whitewater, WI United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4816839",
-    "BeerName": "Rose Larsen",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Exhibit ‘A’ Brewing Company",
-    "Origin": "Framingham, MA United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3341844,
+    "BeerName": "Twin Lakes Chocolate Covered Cherry",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Twin Lakes Brewing Co.",
+    "Origin": "Newport, DE United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 62.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341855,
+    "BeerName": "Glea Willow Cider",
+    "BeerStyle": "Cider - Dry",
+    "BreweryName": "Twin Lakes Brewing Co.",
+    "Origin": "Newport, DE United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674506,
+    "BeerName": "CitraCascade Homegrown Dry-Hopped IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Jeff Kimball Home Brew",
+    "Origin": "Westborough, MA United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341845,
+    "BeerName": "B’Ale Yeah",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Hop Rock",
+    "Origin": "France",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

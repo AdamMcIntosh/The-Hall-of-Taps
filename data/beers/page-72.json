@@ -1,252 +1,252 @@
 [
   {
-    "BID": "500",
-    "BeerName": "Meckatzer Weiss-Gold",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Meckatzer Löwenbräu",
-    "Origin": "Heimenkirch, Bayern Germany",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667022",
-    "BeerName": "Radio Gold Passion Fruit Ipa With Mango And Papaya",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Whole Foods Market Brewing Company",
-    "Origin": "Houston, TX United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333678",
-    "BeerName": "20$ AAA Batteries",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Clarkhaus Brewery",
+    "BID": 3338137,
+    "BeerName": "Lucky 7",
+    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
+    "BreweryName": "CataCombs HomeBrew",
     "Origin": "United States",
-    "BeerAbv": "7.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 7.60,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "501",
-    "BeerName": "Zwickelbier",
-    "BeerStyle": "Kellerbier / Zwickelbier",
-    "BreweryName": "Brauereigasthof Adler Hundersingen",
-    "Origin": "Hundersingen, Baden-Württemberg Germany",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667023",
-    "BeerName": "Eldo's Dry Hopped Australian Summer",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Green Man Brewery",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333679",
-    "BeerName": "Old World Hefeweisbier",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Four Winds Brewing",
-    "Origin": "Delta, BC Canada",
-    "BeerAbv": "5.6",
-    "BeerIbu": "12",
-    "HallRating": null
-  },
-  {
-    "BID": "1667024",
-    "BeerName": "Strawberry Thunder",
-    "BeerStyle": "Hard Kombucha / Jun",
-    "BreweryName": "Rowdy Mermaid Kombucha",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "502",
-    "BeerName": "Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Brauereigasthof Adler Hundersingen",
-    "Origin": "Hundersingen, Baden-Württemberg Germany",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667025",
-    "BeerName": "096 Mind Your Strike Zone",
-    "BeerStyle": "Homebrew, Bitter - Session / Ordinary",
-    "BreweryName": "Cracking Cask Brewery",
+    "BID": 3338134,
+    "BeerName": "Abbey-normal Tripel",
+    "BeerStyle": "Homebrew, Belgian Tripel",
+    "BreweryName": "CataCombs HomeBrew",
     "Origin": "United States",
-    "BeerAbv": "4.6",
-    "BeerIbu": "27",
-    "HallRating": null
+    "BeerAbv": 9.70,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3333680",
-    "BeerName": "Panty Dropper",
-    "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
-    "BreweryName": "Clarkhaus Brewery",
+    "BID": 3338149,
+    "BeerName": "Thistle Do Nicely",
+    "BeerStyle": "Homebrew, Scotch Ale / Wee Heavy",
+    "BreweryName": "CataCombs HomeBrew",
     "Origin": "United States",
-    "BeerAbv": "9.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 4.90,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "503",
-    "BeerName": "Spezial",
-    "BeerStyle": "Lager - Dortmunder / Export",
-    "BreweryName": "Brauereigasthof Adler Hundersingen",
-    "Origin": "Hundersingen, Baden-Württemberg Germany",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333681",
-    "BeerName": "Buclas Sunset",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Cerveza Buclas",
-    "Origin": "Bucerías, Nayarit Mexico",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "504",
-    "BeerName": "Hefe-Weizen",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Schussenrieder Brauerei Ott",
-    "Origin": "Bad Schussenried, Baden-Württemberg Germany",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667026",
-    "BeerName": "Juicy J-17",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Noble Ale Works",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333682",
-    "BeerName": "Kid Dyn-O-Mite",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Sonoma Springs Brewing Co.",
-    "Origin": "Sonoma, CA United States",
-    "BeerAbv": "8.5",
-    "BeerIbu": "44",
-    "HallRating": null
-  },
-  {
-    "BID": "505",
-    "BeerName": "Schwarzbier",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "Schussenrieder Brauerei Ott",
-    "Origin": "Bad Schussenried, Baden-Württemberg Germany",
-    "BeerAbv": "5.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667027",
-    "BeerName": "Pineapple Glass Hopper",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Maumee Bay Brewing Company",
-    "Origin": "Toledo, OH United States",
-    "BeerAbv": "7",
-    "BeerIbu": "80",
-    "HallRating": null
-  },
-  {
-    "BID": "3333683",
-    "BeerName": "On the DL (Orange Slushy)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Dionysus Brewing Company",
-    "Origin": "Bakersfield, CA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "506",
-    "BeerName": "Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Schussenrieder Brauerei Ott",
-    "Origin": "Bad Schussenried, Baden-Württemberg Germany",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667028",
-    "BeerName": "Raptorberry Hefe 2016",
-    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
-    "BreweryName": "Knickmeyer Brewing",
-    "Origin": "Carrollton, TX United States",
-    "BeerAbv": "5.25",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "507",
-    "BeerName": "Original N°1",
-    "BeerStyle": "Kellerbier / Zwickelbier",
-    "BreweryName": "Schussenrieder Brauerei Ott",
-    "Origin": "Bad Schussenried, Baden-Württemberg Germany",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333684",
-    "BeerName": "Psycho-delic Haze",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Bald Man Brewing",
-    "Origin": "Eagan, MN United States",
-    "BeerAbv": "7.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "508",
-    "BeerName": "Schwarze",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "Barfüßer Hausbrauerei Nürnberg",
-    "Origin": "Nürnberg, Bayern Germany",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667029",
-    "BeerName": "Diablo",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Z Brewing",
+    "BID": 3338146,
+    "BeerName": "Chocolate Drop",
+    "BeerStyle": "Homebrew, Stout - Other",
+    "BreweryName": "CataCombs HomeBrew",
     "Origin": "United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "70",
-    "HallRating": null
+    "BeerAbv": 4.60,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3333685",
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - English",
-    "BreweryName": "9zero2 Brewing Company",
-    "Origin": "Arisaig, NS Canada",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3338093,
+    "BeerName": "I Dream of Jeannie With the Nut Brown Ale",
+    "BeerStyle": "Homebrew, Brown Ale - Other",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338128,
+    "BeerName": "Solstice Winterfest",
+    "BeerStyle": "Homebrew, Belgian Dubbel",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338160,
+    "BeerName": "Labyrinth Barley Wine '10",
+    "BeerStyle": "Homebrew, Barleywine - English",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 9.20,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338157,
+    "BeerName": "Labyrinth Barley Wine '12",
+    "BeerStyle": "Homebrew, Barleywine - English",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 9.20,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338158,
+    "BeerName": "Rosie, the Riveting",
+    "BeerStyle": "Homebrew, Red Ale - Irish",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 3.90,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338151,
+    "BeerName": "PoCo - Chocolate Porter",
+    "BeerStyle": "Homebrew, Porter - Other",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338154,
+    "BeerName": "It's A Trappist!",
+    "BeerStyle": "Homebrew, Belgian Dubbel",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 37.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340438,
+    "BeerName": "The Tart With the Cart",
+    "BeerStyle": "Homebrew, Red Ale - Irish",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340439,
+    "BeerName": "Labyrinth Barley Wine '06",
+    "BeerStyle": "Homebrew, Barleywine - English",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 9.20,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340441,
+    "BeerName": "June Bug Stout",
+    "BeerStyle": "Homebrew, Stout - Irish Dry",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340449,
+    "BeerName": "11th Hour Wheat",
+    "BeerStyle": "Homebrew, Wheat Beer - Other",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340450,
+    "BeerName": "Hair of the Dog",
+    "BeerStyle": "Homebrew, Stout - Coffee",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340456,
+    "BeerName": "Double-Bubble Eclipse Stout",
+    "BeerStyle": "Homebrew, Stout - English",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340458,
+    "BeerName": "Double Dark-of-the-Moon Eclipse Stout",
+    "BeerStyle": "Homebrew, Stout - English",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340434,
+    "BeerName": "Mingo Merciless Maple Wheat",
+    "BeerStyle": "Homebrew, Wheat Beer - Other",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340395,
+    "BeerName": "Razzle-Dazzle Wheat",
+    "BeerStyle": "Homebrew, Wheat Beer - Other",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340384,
+    "BeerName": "Wedded Wheat",
+    "BeerStyle": "Homebrew, Wheat Beer - American Pale Wheat",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340390,
+    "BeerName": "Razzle-Wheat",
+    "BeerStyle": "Homebrew, Wheat Beer - Other",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340428,
+    "BeerName": "… And Make It A Dopple!",
+    "BeerStyle": "Homebrew, Bock - Doppelbock",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340431,
+    "BeerName": "EarthQuaker",
+    "BeerStyle": "Homebrew, Stout - Oatmeal",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340414,
+    "BeerName": "Oktoberfest",
+    "BeerStyle": "Homebrew, Märzen",
+    "BreweryName": "CataCombs HomeBrew",
+    "Origin": "United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00
   }
 ]

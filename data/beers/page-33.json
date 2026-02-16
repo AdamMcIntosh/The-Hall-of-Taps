@@ -1,252 +1,252 @@
 [
   {
-    "BID": "1666702",
-    "BeerName": "Brown Bag",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "The Bear and Peacock",
-    "Origin": "Winter Park, FL United States",
-    "BeerAbv": "6.4",
-    "BeerIbu": "40",
-    "HallRating": null
+    "BID": 10013,
+    "BeerName": "St. James Brown Ale",
+    "BeerStyle": "Brown Ale - English",
+    "BreweryName": "Iron Hill Brewery",
+    "Origin": "Exton, PA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 25.00,
+    "HallRating": 13.98
   },
   {
-    "BID": "3333367",
-    "BeerName": "Brut Rose IPA",
-    "BeerStyle": "IPA - Brut",
-    "BreweryName": "Untitled Art",
-    "Origin": "Waunakee, WI United States",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666703",
-    "BeerName": "XOCO",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Right Brain Brewery",
-    "Origin": "Traverse City, MI United States",
-    "BeerAbv": "9.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333368",
-    "BeerName": "Brut IPA the Filthy Whore",
-    "BeerStyle": "Homebrew, IPA - Brut",
-    "BreweryName": "The Filthy Whore",
-    "Origin": "United States",
-    "BeerAbv": "7.5",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "1666704",
-    "BeerName": "PsycHOPs",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Wisconsin Brewing Company",
-    "Origin": "Verona, WI United States",
-    "BeerAbv": "8",
-    "BeerIbu": "80",
-    "HallRating": null
-  },
-  {
-    "BID": "50",
-    "BeerName": "Zinnebir",
-    "BeerStyle": "Pale Ale - Belgian",
-    "BreweryName": "Brasserie de la Senne",
-    "Origin": "Molenbeek-Saint-Jean, Bruxelles Belgium",
-    "BeerAbv": "5.8",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "51",
-    "BeerName": "Saison Imperiale",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "De Proefbrouwerij",
-    "Origin": "Lochristi, Vlaams Gewest Belgium",
-    "BeerAbv": "8.5",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "3333369",
-    "BeerName": "Buggy Bitter",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Porter Brewing Co.",
-    "Origin": "Redmond, OR United States",
-    "BeerAbv": "4.3",
-    "BeerIbu": "31",
-    "HallRating": null
-  },
-  {
-    "BID": "1666705",
-    "BeerName": "Archie",
-    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
-    "BreweryName": "Earth Eagle Brewings",
-    "Origin": "Portsmouth, NH United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "52",
-    "BeerName": "La Moneuse",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Brasserie de Blaugies",
-    "Origin": "Dour, Région Wallonne Belgium",
-    "BeerAbv": "8",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "53",
-    "BeerName": "Red Sled Winter Ale",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Nebraska Brewing Company",
-    "Origin": "La Vista, NE United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "24",
-    "HallRating": null
-  },
-  {
-    "BID": "3333370",
-    "BeerName": "Snake Mountain Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Otter Creek Brewing",
-    "Origin": "Middlebury, VT United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666706",
-    "BeerName": "Diamonds And Pearls w/ Citra & Experimental Hop 07270",
-    "BeerStyle": "Sour - Traditional Gose",
-    "BreweryName": "Union Craft Brewing",
-    "Origin": "Baltimore, MD United States",
-    "BeerAbv": "5.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333371",
-    "BeerName": "Hipster Viking",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Portland Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "52",
-    "HallRating": null
-  },
-  {
-    "BID": "1666707",
-    "BeerName": "Rio",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Antön Beer",
-    "Origin": "Nova Lima, Minas Gerais Brazil",
-    "BeerAbv": "4.7",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "55",
-    "BeerName": "Equinox",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Brasserie de la Senne",
-    "Origin": "Molenbeek-Saint-Jean, Bruxelles Belgium",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "56",
-    "BeerName": "Serafijn Christmas Angel",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Brouwerij Pirlot",
-    "Origin": "Zandhoven, Vlaams Gewest Belgium",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333372",
-    "BeerName": "ZOMBIE JUICE",
-    "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Musikant Bryggeriet",
-    "Origin": "Sweden",
-    "BeerAbv": "6.6",
-    "BeerIbu": "29",
-    "HallRating": null
-  },
-  {
-    "BID": "1666708",
-    "BeerName": "Session IPA With Grapefruit",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Susquehanna Brewing Company",
-    "Origin": "Pittston, PA United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "57",
-    "BeerName": "Obovoid",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Boulder Beer",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333373",
-    "BeerName": "Lemon Drop Wheat",
-    "BeerStyle": "Wheat Beer - Other",
-    "BreweryName": "Over Yonder Brewing Co",
-    "Origin": "Golden, CO United States",
-    "BeerAbv": "5.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1666709",
-    "BeerName": "Imperial Sküll Och Hati BBA",
+    "BID": 11796,
+    "BeerName": "Eclipse - Evan Williams (2010)",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Hammerheart Brewing Company",
-    "Origin": "Ely, MN United States",
-    "BeerAbv": "9.5",
-    "BeerIbu": "35",
-    "HallRating": null
+    "BreweryName": "FiftyFifty Brewing Co.",
+    "Origin": "Truckee, CA United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 13.98
   },
   {
-    "BID": "3333374",
-    "BeerName": "Rum Barrel Aged Hefeweizen",
-    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
-    "BreweryName": "Yar-brew",
-    "Origin": "United States",
-    "BeerAbv": "6.83",
-    "BeerIbu": "18",
-    "HallRating": null
+    "BID": 1100,
+    "BeerName": "Solidarity",
+    "BeerStyle": "Porter - Baltic",
+    "BreweryName": "New Albanian Brewing Company",
+    "Origin": "New Albany, IN United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 30.00,
+    "HallRating": 13.97
   },
   {
-    "BID": "1666710",
-    "BeerName": "Foxcatcher",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "49th State Brewing",
-    "Origin": "Anchorage, AK United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "25",
-    "HallRating": null
+    "BID": 1086,
+    "BeerName": "Loyal Duke Scotch Ale",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Amicas Microbrewery & Pizza",
+    "Origin": "Salida, CO United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 0.00,
+    "HallRating": 13.97
   },
   {
-    "BID": "59",
-    "BeerName": "Bender",
+    "BID": 12158,
+    "BeerName": "Thunderfoot",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "New Albanian Brewing Company",
+    "Origin": "New Albany, IN United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 90.00,
+    "HallRating": 13.97
+  },
+  {
+    "BID": 11584,
+    "BeerName": "Thomas Hardy's Ale (2003)",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Hanlons Brewery",
+    "Origin": "Newton Saint Cyres, Devon England",
+    "BeerAbv": 11.70,
+    "BeerIbu": 0.00,
+    "HallRating": 13.97
+  },
+  {
+    "BID": 10419,
+    "BeerName": "Bosun's Black Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Maritime Pacific Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 23.00,
+    "HallRating": 13.97
+  },
+  {
+    "BID": 10393,
+    "BeerName": "Ocean Beach (O.B.) Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Local Brewing Co.",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 34.00,
+    "HallRating": 13.96
+  },
+  {
+    "BID": 1150,
+    "BeerName": "Oatmeal Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Wind River Brewing Company",
+    "Origin": "Pinedale, WY United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 0.00,
+    "HallRating": 13.96
+  },
+  {
+    "BID": 10301,
+    "BeerName": "Cleveland Brown Ale",
     "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Surly Brewing Company",
-    "Origin": "Minneapolis, MN United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "25",
-    "HallRating": null
+    "BreweryName": "Mountain Sun Pubs & Breweries",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 13.96
+  },
+  {
+    "BID": 11198,
+    "BeerName": "2004 Stone Old Guardian Barley Wine",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Stone Brewing",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 10.06,
+    "BeerIbu": 0.00,
+    "HallRating": 13.96
+  },
+  {
+    "BID": 12180,
+    "BeerName": "Frambozenbier",
+    "BeerStyle": "Lambic - Traditional",
+    "BreweryName": "ShawneeCraft Brewing Company",
+    "Origin": "Shawnee on Delaware, PA United States",
+    "BeerAbv": 5.75,
+    "BeerIbu": 15.00,
+    "HallRating": 13.96
+  },
+  {
+    "BID": 11657,
+    "BeerName": "Gude Greg's Wee Heavy Private Reserve Bourbon Barrel Aged Scotch Ale",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Berkshire Brewing Company",
+    "Origin": "South Deerfield, MA United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 29.00,
+    "HallRating": 13.95
+  },
+  {
+    "BID": 12050,
+    "BeerName": "English-Style Old Ale (Holiday Ale)",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Schlafly - The Saint Louis Brewery",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 40.00,
+    "HallRating": 13.95
+  },
+  {
+    "BID": 11178,
+    "BeerName": "No. 8 Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Duggan's Brewery",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 13.95
+  },
+  {
+    "BID": 10707,
+    "BeerName": "Piledriver",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "Hopworks Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 18.00,
+    "HallRating": 13.95
+  },
+  {
+    "BID": 11141,
+    "BeerName": "Puma IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Elk Mountain Brewing Company",
+    "Origin": "Parker, CO United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 88.00,
+    "HallRating": 13.94
+  },
+  {
+    "BID": 11055,
+    "BeerName": "3 Fonteinen Straffe Winter (2008)",
+    "BeerStyle": "Lambic - Faro",
+    "BreweryName": "Brouwerij 3 Fonteinen",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.94
+  },
+  {
+    "BID": 12631,
+    "BeerName": "Belgian Dubbel",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "McCoy’s Public House",
+    "Origin": "Kansas City, MO United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.94
+  },
+  {
+    "BID": 12495,
+    "BeerName": "Zomerhop",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Brouwerij de Molen",
+    "Origin": "Bodegraven, Zuid-Holland Netherlands",
+    "BeerAbv": 6.20,
+    "BeerIbu": 42.00,
+    "HallRating": 13.94
+  },
+  {
+    "BID": 12135,
+    "BeerName": "Altared Amber (Moveable Yeast)",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Saint Arnold Brewing Company",
+    "Origin": "Houston, TX United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 13.92
+  },
+  {
+    "BID": 11095,
+    "BeerName": "Jupiler Tauro 8.3%",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Brasserie Jupiler",
+    "Origin": "Liège, Région Wallonne Belgium",
+    "BeerAbv": 8.30,
+    "BeerIbu": 0.00,
+    "HallRating": 13.92
+  },
+  {
+    "BID": 11350,
+    "BeerName": "Premium Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Bluetongue Brewery (Pacific Beverages)",
+    "Origin": "Warnervale, New South Wales Australia",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 13.91
+  },
+  {
+    "BID": 11835,
+    "BeerName": "Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Deeside Brewery",
+    "Origin": "Banchory, Aberdeenshire Scotland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.91
+  },
+  {
+    "BID": 11373,
+    "BeerName": "Old Toad Barleywine (Oak-Aged)",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Bullfrog Brewery",
+    "Origin": "Williamsport, PA United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.91
   }
 ]

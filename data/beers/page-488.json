@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4816371",
-    "BeerName": "Foeder-aged Smoked Helles",
-    "BeerStyle": "Smoked Beer",
-    "BreweryName": "Upright Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446794",
-    "BeerName": "Chillsicle Limoncello",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Great Raft Brewing",
-    "Origin": "Shreveport, LA United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631595",
-    "BeerName": "Brixton 2024",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "Brix Brygghus",
-    "Origin": "Bryne, Rogaland Norway",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816372",
-    "BeerName": "Vic Juicy",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Growlers2Go",
-    "Origin": "Rio de Janeiro, Brazil",
-    "BeerAbv": "5",
-    "BeerIbu": "33",
-    "HallRating": null
-  },
-  {
-    "BID": "4631596",
-    "BeerName": "Julbrygd",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Eskilstuna Ölkultur",
-    "Origin": "Eskilstuna, Södermanlands län Sweden",
-    "BeerAbv": "3.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446795",
-    "BeerName": "43 - Tarte-Tastic",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Weyermann Braumanufaktur",
-    "Origin": "Bamberg, Bayern Germany",
-    "BeerAbv": "4.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816373",
-    "BeerName": "Light Year",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Flux Brewing Company",
-    "Origin": "Scotland, ON Canada",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446796",
-    "BeerName": "Sira",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Brasserie Auros",
-    "Origin": "Cordes-sur-Ciel, Occitanie France",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631597",
-    "BeerName": "El Dorado Pale Ale",
+    "BID": 12557,
+    "BeerName": "Benny's American Pale Ale",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Wamahoy Classic Beers",
-    "Origin": "Curitiba, Paraná Brazil",
-    "BeerAbv": "5.6",
-    "BeerIbu": "40",
-    "HallRating": null
+    "BreweryName": "Shoreline Brewery",
+    "Origin": "Michigan City, IN United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4816374",
-    "BeerName": "Little Lamplight 2022",
+    "BID": 9999,
+    "BeerName": "5th Anniversary Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Shoreline Brewery",
+    "Origin": "Michigan City, IN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673656,
+    "BeerName": "Summer Lightning",
+    "BeerStyle": "Homebrew, Pale Ale - English",
+    "BreweryName": "Hawley Brewing Company",
+    "Origin": "United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341002,
+    "BeerName": "Festival Special",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Turpin Brewery",
+    "Origin": "Hook Norton, Oxfordshire England",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9522,
+    "BeerName": "Devil's Peak IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Copper Canyon Brewery",
+    "Origin": "Southfield, MI United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9461,
+    "BeerName": "Buffalo Jump Stout",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Copper Canyon Brewery",
+    "Origin": "Southfield, MI United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9463,
+    "BeerName": "Rye PA",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Copper Canyon Brewery",
+    "Origin": "Southfield, MI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340625,
+    "BeerName": "Brews Bits",
     "BeerStyle": "Homebrew, IPA - New England / Hazy",
-    "BreweryName": "Reverse Brewing",
+    "BreweryName": "Bolo Brewing",
     "Origin": "United States",
-    "BeerAbv": "4.6",
-    "BeerIbu": "25",
-    "HallRating": null
+    "BeerAbv": 6.98,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4446797",
-    "BeerName": "Blondine Reserva Russian Imperial Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Blondine",
-    "Origin": "Itupeva, São Paulo Brazil",
-    "BeerAbv": "11.7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1673274,
+    "BeerName": "Farm Pale",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "New Avalon Grower Ciders",
+    "Origin": "Hotchkiss, CO United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4631598",
-    "BeerName": "American 5 Hop - V51",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Blue Bee Brewery",
-    "Origin": "Sheffield, South Yorkshire England",
-    "BeerAbv": "4.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816375",
-    "BeerName": "Freshly Squeezed",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Jim Fish Homebrew",
+    "BID": 1673275,
+    "BeerName": "Porter",
+    "BeerStyle": "Homebrew, Porter - English",
+    "BreweryName": "#2408brewing",
     "Origin": "United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 6.90,
+    "BeerIbu": 69.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4631599",
-    "BeerName": "Prism",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Temper Brewing Company",
-    "Origin": "Dronfield, Derbyshire England",
-    "BeerAbv": "5",
-    "BeerIbu": "48",
-    "HallRating": null
-  },
-  {
-    "BID": "4446798",
-    "BeerName": "Peach & ElderFlower Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Pravda Brewery",
-    "Origin": "L'viv, L'vivs'ka oblast Ukraine",
-    "BeerAbv": "3.8",
-    "BeerIbu": "7",
-    "HallRating": null
-  },
-  {
-    "BID": "4631600",
-    "BeerName": "Lunar Tune-Up",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Winter Hill Brewing Company",
-    "Origin": "Somerville, MA United States",
-    "BeerAbv": "8.2",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "4816376",
-    "BeerName": "Lowe Down IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Hobart Brewing Co.",
-    "Origin": "Hobart, Tasmania Australia",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446799",
-    "BeerName": "Pina Colada Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Black Cloak Brewing",
-    "Origin": "Colwyn Bay, Conwy Wales",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631601",
-    "BeerName": "Angry Bastard",
-    "BeerStyle": "IPA - English",
-    "BreweryName": "Tomos & Lilford",
-    "Origin": "Llandow, Vale of Glamorgan Wales",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816377",
-    "BeerName": "Belgian Tripel",
-    "BeerStyle": "Homebrew, Belgian Tripel",
-    "BreweryName": "Baas Brews",
-    "Origin": "United States",
-    "BeerAbv": "8.3",
-    "BeerIbu": "31",
-    "HallRating": null
-  },
-  {
-    "BID": "4446800",
-    "BeerName": "Dikke PIMA Tripel",
-    "BeerStyle": "Homebrew, Belgian Tripel",
-    "BreweryName": "Gommans-Kolenberg Brewery",
-    "Origin": "Netherlands",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631602",
-    "BeerName": "Mikal’s Juleøl 2021",
-    "BeerStyle": "Homebrew, Dark Ale",
-    "BreweryName": "Mikal’s Hjemmebryggeri",
-    "Origin": "Norway",
-    "BeerAbv": "7.6",
-    "BeerIbu": "54",
-    "HallRating": null
-  },
-  {
-    "BID": "4816378",
-    "BeerName": "Red I.P.A.",
+    "BID": 1673277,
+    "BeerName": "Red IPA",
     "BeerStyle": "IPA - Red",
-    "BreweryName": "Santos Brewery",
-    "Origin": "Quito, Pichincha Ecuador",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Cerveza Davok (Cervecería del Sur)",
+    "Origin": "Montevideo, Departamento de Montevideo Uruguay",
+    "BeerAbv": 6.60,
+    "BeerIbu": 49.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4631603",
-    "BeerName": "Duque - Q Ipa Linda",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Cerveja Artesanal Duque",
-    "Origin": "Lisboa, Portugal",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 12967,
+    "BeerName": "Adam's Grand Cru",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "5 Seasons Brewing",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4446801",
-    "BeerName": "Mortified And Stupefied",
-    "BeerStyle": "Homebrew, Barleywine - English",
-    "BreweryName": "Gatherum Beer Project",
-    "Origin": "Villa Park, IL United States",
-    "BeerAbv": "11.2",
-    "BeerIbu": "58",
-    "HallRating": null
+    "BID": 9470,
+    "BeerName": "Golden Boy Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "5 Seasons Brewing",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673278,
+    "BeerName": "Smoked Golden",
+    "BeerStyle": "Smoked Beer",
+    "BreweryName": "Cerveza Alem",
+    "Origin": "Ciudad Autónoma de Buenos Aires, Argentina",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333912,
+    "BeerName": "Ipazia",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Maccarello Bibione",
+    "Origin": "Bibione, Veneto Italy",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961064,
+    "BeerName": "Maccarello",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Maccarello Bibione",
+    "Origin": "Bibione, Veneto Italy",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673280,
+    "BeerName": "The Great Black North",
+    "BeerStyle": "Homebrew, IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Beta Dog Brewing",
+    "Origin": "United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9666,
+    "BeerName": "Birdie 3",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Angus Ales",
+    "Origin": "Carnoustie, Angus Scotland",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9640,
+    "BeerName": "Mashie Niblick",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Angus Ales",
+    "Origin": "Carnoustie, Angus Scotland",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9663,
+    "BeerName": "Gowfers' Gold",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Angus Ales",
+    "Origin": "Carnoustie, Angus Scotland",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9664,
+    "BeerName": "Driver Dark",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Angus Ales",
+    "Origin": "Carnoustie, Angus Scotland",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673396,
+    "BeerName": "Seu Vidal",
+    "BeerStyle": "Wheat Beer - Kristallweizen",
+    "BreweryName": "Seu Vidal",
+    "Origin": "Copacabana, Rio de Janeiro Brazil",
+    "BeerAbv": 4.50,
+    "BeerIbu": 8.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333919,
+    "BeerName": "Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Halles Kron Bier",
+    "Origin": "Barueri, São Paulo Brazil",
+    "BeerAbv": 4.50,
+    "BeerIbu": 8.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334733,
+    "BeerName": "Black",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Halles Kron Bier",
+    "Origin": "Barueri, São Paulo Brazil",
+    "BeerAbv": 4.50,
+    "BeerIbu": 8.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340752,
+    "BeerName": "Boss Hogg",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Woodstock Brewing Co.",
+    "Origin": "Hokitika, West Coast New Zealand",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

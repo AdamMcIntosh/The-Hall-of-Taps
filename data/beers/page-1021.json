@@ -1,0 +1,252 @@
+[
+  {
+    "BID": 3334712,
+    "BeerName": "Agent Seven",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Harlem Brewing Company",
+    "Origin": "Harlem, NY United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667830,
+    "BeerName": "Red Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Rockland Brewery",
+    "Origin": "South Africa",
+    "BeerAbv": 4.50,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670281,
+    "BeerName": "State Street",
+    "BeerStyle": "Lager - American Amber / Red",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334713,
+    "BeerName": "Haze the Day",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336449,
+    "BeerName": "Galaxy SMASHA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336446,
+    "BeerName": "Big DIPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336447,
+    "BeerName": "Space Jam",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673057,
+    "BeerName": "Act of Kindness Baltic Porter",
+    "BeerStyle": "Porter - Baltic",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816158,
+    "BeerName": "Mango Cart",
+    "BeerStyle": "Wheat Beer - Fruited",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337074,
+    "BeerName": "Construction IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 43.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337107,
+    "BeerName": "Ladybug Red",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343069,
+    "BeerName": "Southern Haze",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981214,
+    "BeerName": "Dank IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668123,
+    "BeerName": "Black Rye Ale",
+    "BeerStyle": "Homebrew, Rye Beer",
+    "BreweryName": "Cupp Brew",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667831,
+    "BeerName": "Witbeer",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Casa Da Cerveja Artesanal",
+    "Origin": "Lourinhã, Lisboa Portugal",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3335138,
+    "BeerName": "Benediktiner Weissbier",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Benediktiner Weissbräu",
+    "Origin": "Ettal, Bayern Germany",
+    "BeerAbv": 5.40,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1681,
+    "BeerName": "Benediktiner Weissbier Dunkel",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Benediktiner Weissbräu",
+    "Origin": "Ettal, Bayern Germany",
+    "BeerAbv": 5.40,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4447061,
+    "BeerName": "Benediktiner Bananenweizen",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Benediktiner Weissbräu",
+    "Origin": "Ettal, Bayern Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816282,
+    "BeerName": "Land of 10,000 Lagers",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Boathouse Brothers Brewing",
+    "Origin": "Prior Lake, MN United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334714,
+    "BeerName": "Doctor Punch",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Boathouse Brothers Brewing",
+    "Origin": "Prior Lake, MN United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667832,
+    "BeerName": "APA Jango",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Jango",
+    "Origin": "South Korea",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334715,
+    "BeerName": "Sap Guava",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334724,
+    "BeerName": "I Will Not Be Afraid Chocolate Truffle",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 9.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816716,
+    "BeerName": "That's What She Said",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4816999,
+    "BeerName": "Crew Beer",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  }
+]

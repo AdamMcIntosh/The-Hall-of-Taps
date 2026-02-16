@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4982032",
-    "BeerName": "Rotating Hazy IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Kings Brewing Company",
-    "Origin": "Upland, CA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961680",
-    "BeerName": "KILTKINNY",
-    "BeerStyle": "Homebrew, Red Ale - Irish",
-    "BreweryName": "Kilted Bees",
+    "BID": 1667463,
+    "BeerName": "Tour Sauce IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Mariano Del Rey Brewing Company",
     "Origin": "United States",
-    "BeerAbv": "5",
-    "BeerIbu": "30",
-    "HallRating": null
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4982033",
-    "BeerName": "Birds Fly South Saison",
-    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "Anthony C Homebrew",
-    "Origin": "United States",
-    "BeerAbv": "6.4",
-    "BeerIbu": "20",
-    "HallRating": null
+    "BID": 1132,
+    "BeerName": "St. Charles ESB",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4941319",
-    "BeerName": "The Empire Kveiks Back (2022-07)",
-    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "Milky Road Homebrew",
-    "Origin": "Netherlands",
-    "BeerAbv": "7.7",
-    "BeerIbu": "28",
-    "HallRating": null
-  },
-  {
-    "BID": "4961681",
-    "BeerName": "Křupavý 12°",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Twin Elephant Brewing Company",
-    "Origin": "Chatham Borough, NJ United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4982034",
-    "BeerName": "POG Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Common Language Brewing",
-    "Origin": "Spokane, WA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941320",
-    "BeerName": "Galaxy Summer Pale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Ossett Brewery",
-    "Origin": "Ossett, West Yorkshire England",
-    "BeerAbv": "3.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961682",
-    "BeerName": "Altered Realms",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "ForeLand Beer",
-    "Origin": "McMinnville, OR United States",
-    "BeerAbv": "6.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4982035",
-    "BeerName": "Sendit",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "3rd Barrel Brewery",
-    "Origin": "Shimane, Japan",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941321",
-    "BeerName": "Hazy Situation IPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Lena Brewing Company",
-    "Origin": "Lena, IL United States",
-    "BeerAbv": "5.7",
-    "BeerIbu": "43",
-    "HallRating": null
-  },
-  {
-    "BID": "4961683",
-    "BeerName": "Watercolors - Apricot, Cherry, Tangerine, Blueberry, Marshmallow And Milk Sugar",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Skygazer Brewing Company",
-    "Origin": "North Haven, CT United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961684",
-    "BeerName": "Peach Punk Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "CSA",
-    "Origin": "Salinas, CA United States",
-    "BeerAbv": "7.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4982036",
-    "BeerName": "Hibiscus Ginger",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Shuswap Cider Co",
-    "Origin": "Salmon Arm, BC Canada",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941322",
-    "BeerName": "High Noon Flavors",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "E. & J. Gallo Winery",
-    "Origin": null,
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961685",
-    "BeerName": "Berliner Weisse",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "5 Rights Brewing",
-    "Origin": "Marysville, WA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4982037",
-    "BeerName": "Sindicato Cervecero",
-    "BeerStyle": "Pilsner - Italian",
-    "BreweryName": "Cervecería de Colima",
-    "Origin": "Cuauhtémoc, Colima Mexico",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941323",
-    "BeerName": "Black Ribes",
-    "BeerStyle": "Brown Ale - Other",
-    "BreweryName": "3 Brasseurs | 3 Brewers Canada (officiel)",
-    "Origin": "Montreal, QC Canada",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961686",
-    "BeerName": "Kitchen Sink Stout, With Becherovka",
-    "BeerStyle": "Homebrew, Stout - Other",
-    "BreweryName": "Hooker Brewing By Frank Walshton",
-    "Origin": "United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "4941324",
-    "BeerName": "Utepils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Grans Bryggeri",
-    "Origin": "Sandefjord, Vestfold Norway",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4982038",
-    "BeerName": "Macorix Lemonlime",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Macorix",
-    "Origin": null,
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941325",
-    "BeerName": "Agent X014",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Artillery Brewing Company",
-    "Origin": "West Chester, PA United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "4961687",
-    "BeerName": "La Saint-Sau",
-    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
-    "BreweryName": "Shawbridge - Microbrasserie et Charcuteries",
-    "Origin": "Prévost, QC Canada",
-    "BeerAbv": "5.3",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4961688",
-    "BeerName": "Hero Dirt",
+    "BID": 1673723,
+    "BeerName": "C. Andy Brown Ale",
     "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Vail Brewing Company",
-    "Origin": "Avon, CO United States",
-    "BeerAbv": "5.7",
-    "BeerIbu": "35",
-    "HallRating": null
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4982039",
-    "BeerName": "Cherri Cola",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Malty National Brewing",
-    "Origin": "Regina, SK Canada",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 6660,
+    "BeerName": "Belgorado Belgian-Style IPA",
+    "BeerStyle": "IPA - Belgian",
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4941326",
-    "BeerName": "Blueberry Blackberry Raspberry Lemonade",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Dewey Beer Company",
-    "Origin": "Dewey Beach, DE United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 6740,
+    "BeerName": "Cowtown Milk Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6417,
+    "BeerName": "Silverback Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5122,
+    "BeerName": "B3K Black Lager",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5123,
+    "BeerName": "Wixa Weiss",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5124,
+    "BeerName": "Patty's Chile Beer",
+    "BeerStyle": "Chilli / Chile Beer",
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5125,
+    "BeerName": "Two Guns Pilsner",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5126,
+    "BeerName": "Light Rail Ale",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 3.80,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5127,
+    "BeerName": "Sagebrush Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5128,
+    "BeerName": "Obamanator",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8747,
+    "BeerName": "Coconut Milk Stout (w/Vanilla)",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Wynkoop Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5249,
+    "BeerName": "Bock Beer",
+    "BeerStyle": "Bock - Single / Traditional",
+    "BreweryName": "Yuengling Brewery",
+    "Origin": "Pottsville, PA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676542,
+    "BeerName": "Light Lager",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Yuengling Brewery",
+    "Origin": "Pottsville, PA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676520,
+    "BeerName": "Traditional Lager",
+    "BeerStyle": "Lager - American Amber / Red",
+    "BreweryName": "Yuengling Brewery",
+    "Origin": "Pottsville, PA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334332,
+    "BeerName": "Light Lager",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Yuengling Brewery",
+    "Origin": "Pottsville, PA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3813,
+    "BeerName": "Light Lager",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Yuengling Brewery",
+    "Origin": "Pottsville, PA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3814,
+    "BeerName": "Dark Brewed Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Yuengling Brewery",
+    "Origin": "Pottsville, PA United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3815,
+    "BeerName": "Black & Tan",
+    "BeerStyle": "Black & Tan",
+    "BreweryName": "Yuengling Brewery",
+    "Origin": "Pottsville, PA United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3816,
+    "BeerName": "Lord Chesterfield Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Yuengling Brewery",
+    "Origin": "Pottsville, PA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 32.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3817,
+    "BeerName": "Premium Beer",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Yuengling Brewery",
+    "Origin": "Pottsville, PA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339051,
+    "BeerName": "Yuengling 50/50",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Yuengling Brewery",
+    "Origin": "Pottsville, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4959765,
+    "BeerName": "Traditional Lager",
+    "BeerStyle": "Lager - American Amber / Red",
+    "BreweryName": "Yuengling Brewery",
+    "Origin": "Pottsville, PA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
   }
 ]

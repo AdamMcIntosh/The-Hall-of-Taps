@@ -1,0 +1,252 @@
+[
+  {
+    "BID": 4980581,
+    "BeerName": "Mexican Beer",
+    "BeerStyle": "Lager - Mexican",
+    "BreweryName": "First Dnipro Brewery",
+    "Origin": "Dnipro, Dnipropetrovsk Oblast Ukraine",
+    "BeerAbv": 4.50,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672326,
+    "BeerName": "Belgian Boy",
+    "BeerStyle": "IPA - Belgian",
+    "BreweryName": "First Dnipro Brewery",
+    "Origin": "Dnipro, Dnipropetrovsk Oblast Ukraine",
+    "BeerAbv": 6.70,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4939861,
+    "BeerName": "L.APA",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "First Dnipro Brewery",
+    "Origin": "Dnipro, Dnipropetrovsk Oblast Ukraine",
+    "BeerAbv": 5.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4939870,
+    "BeerName": "Mr. Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "First Dnipro Brewery",
+    "Origin": "Dnipro, Dnipropetrovsk Oblast Ukraine",
+    "BeerAbv": 4.00,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960203,
+    "BeerName": "HEADBAND IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Truckee Brewing Company",
+    "Origin": "Truckee Court, CA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 64.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981526,
+    "BeerName": "SEQUOIA IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Truckee Brewing Company",
+    "Origin": "Truckee Court, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 62.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1666892,
+    "BeerName": "Malt House Amber",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Elk Street Brewery & Tap Room",
+    "Origin": "Sandusky, MI United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4941234,
+    "BeerName": "Doggy Style 1",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "The Kennel Brewery",
+    "Origin": "Paarl, Western Cape South Africa",
+    "BeerAbv": 5.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4941241,
+    "BeerName": "Doggy Style 2",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "The Kennel Brewery",
+    "Origin": "Paarl, Western Cape South Africa",
+    "BeerAbv": 5.00,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4939862,
+    "BeerName": "Nelson Maltdela",
+    "BeerStyle": "Other",
+    "BreweryName": "The Kennel Brewery",
+    "Origin": "Paarl, Western Cape South Africa",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340882,
+    "BeerName": "Black Oil",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "The Kennel Brewery",
+    "Origin": "Paarl, Western Cape South Africa",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4982072,
+    "BeerName": "West Coast Ipa",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "The Kennel Brewery",
+    "Origin": "Paarl, Western Cape South Africa",
+    "BeerAbv": 5.00,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961853,
+    "BeerName": "East Coast Ipa",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "The Kennel Brewery",
+    "Origin": "Paarl, Western Cape South Africa",
+    "BeerAbv": 5.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980519,
+    "BeerName": "La Mayennaise - L'étonnante",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "L'Éveilleuse",
+    "Origin": "France",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4981081,
+    "BeerName": "La Mayennaise - La Douce Passion",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "L'Éveilleuse",
+    "Origin": "France",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4939863,
+    "BeerName": "Blanche Ipa / Sauge",
+    "BeerStyle": "Homebrew, Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Brasserie De L’Hydre",
+    "Origin": "France",
+    "BeerAbv": 5.00,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4939975,
+    "BeerName": "Sorachi",
+    "BeerStyle": "Homebrew, Belgian Blonde",
+    "BreweryName": "Brasserie De L’Hydre",
+    "Origin": "France",
+    "BeerAbv": 5.10,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339879,
+    "BeerName": "Nova Wild Raspberry Ale",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "The BottleHouse Brewing Company",
+    "Origin": "Cleveland Heights, OH United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669882,
+    "BeerName": "Centurion",
+    "BeerStyle": "Mead - Cyser",
+    "BreweryName": "The BottleHouse Brewing Company",
+    "Origin": "Cleveland Heights, OH United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675930,
+    "BeerName": "Tempo",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "The BottleHouse Brewing Company",
+    "Origin": "Cleveland Heights, OH United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980521,
+    "BeerName": "Eric",
+    "BeerStyle": "Märzen",
+    "BreweryName": "The BottleHouse Brewing Company",
+    "Origin": "Cleveland Heights, OH United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960206,
+    "BeerName": "Bees! Belgian Honey Ale",
+    "BeerStyle": "Honey Beer",
+    "BreweryName": "Dog Mountain Brewing",
+    "Origin": "Port Alberni, BC Canada",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4939864,
+    "BeerName": "Ink&Dagger IPA",
+    "BeerStyle": "Homebrew, IPA - Other",
+    "BreweryName": "Brunes Gårdsbryggeri",
+    "Origin": "Norway",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960207,
+    "BeerName": "Chocolate Peanut Butter Porter",
+    "BeerStyle": "Homebrew, Porter - Other",
+    "BreweryName": "Dee Dub Brewing",
+    "Origin": "United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4939865,
+    "BeerName": "Lucky N°69",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Brouwkotje Lendelede",
+    "Origin": "Lendelede, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  }
+]

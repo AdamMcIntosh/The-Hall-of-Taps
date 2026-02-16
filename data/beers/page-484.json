@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4446761",
-    "BeerName": "Strawberry Lemon Soda",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Lake City Cider",
-    "Origin": "Dartmouth, NS Canada",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1673947,
+    "BeerName": "Saint Tonsure",
+    "BeerStyle": "Homebrew, Belgian Quadrupel",
+    "BreweryName": "B T S Brewing (Better Than Swill)",
+    "Origin": "United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 29.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4816337",
-    "BeerName": "Pear Core Mead",
-    "BeerStyle": "Homebrew, Mead - Melomel",
-    "BreweryName": "Big Daddy Green Man Brewing",
-    "Origin": "Woodbine, GA United States",
-    "BeerAbv": "12.21",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3341281,
+    "BeerName": "Altbier",
+    "BeerStyle": "Altbier - Traditional",
+    "BreweryName": "BrauStil",
+    "Origin": "Frankfurt, Hessen Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 32.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4631562",
-    "BeerName": "Dortmunder Comb Over",
-    "BeerStyle": "Lager - Dortmunder / Export",
-    "BreweryName": "Howling Hops",
-    "Origin": "London, Greater London England",
-    "BeerAbv": "5.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446762",
-    "BeerName": "Vinohradská 12",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Vinohradský pivovar",
-    "Origin": "Hlavní město Praha, Czech Republic",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631563",
-    "BeerName": "Fram Booze",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Frank Seltzer",
-    "Origin": null,
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816338",
-    "BeerName": "Europe '72",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Little Log Cabin Brewing Co.",
-    "Origin": "Ardmore, PA United States",
-    "BeerAbv": "7.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446763",
-    "BeerName": "The Golden Hind",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Cerveceria Corsario Perú",
-    "Origin": "Peru",
-    "BeerAbv": "5.7",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "4816339",
-    "BeerName": "Party Like Citra Birthday",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Lucky Envelope Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": "6.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631564",
-    "BeerName": "Riders On the Storm",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Sønderby Bryghus",
-    "Origin": "Denmark",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816340",
-    "BeerName": "Master of the Knights w/ Vanilla",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "Deviate Brewing",
-    "Origin": "Indianapolis, IN United States",
-    "BeerAbv": "7.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446764",
-    "BeerName": "Hop Ship Idaho 7",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Brasserie Roue Libre",
-    "Origin": "Strasbourg, Grand Est France",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631565",
-    "BeerName": "Flirty Peach",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "ETKO Brewing",
-    "Origin": "Kerava, Uusimaa Finland",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816341",
-    "BeerName": "Mine Shaft",
-    "BeerStyle": "Lager - Dortmunder / Export",
-    "BreweryName": "Devils Backbone Brewing Company",
-    "Origin": "Roseland, VA United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816342",
-    "BeerName": "Commander Chimpy's Lime Visor",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Devils Backbone Brewing Company",
-    "Origin": "Roseland, VA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446765",
-    "BeerName": "Honahlee-Land Triple IPA 2021",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Fire Maker Brewing Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": "9.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816343",
-    "BeerName": "Raspberry Hibiscus Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Devils Backbone Brewing Company",
-    "Origin": "Roseland, VA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631566",
-    "BeerName": "Тогучинское",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Старый Тогучин",
-    "Origin": "Russia",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816344",
-    "BeerName": "Pilsen Premium",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Cerveja Nordhaus",
-    "Origin": "Juazeiro, Bahia Brazil",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446766",
-    "BeerName": "Into the Æther (Version 7)",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Hoppy Trout Brewing Company",
-    "Origin": "Andrews, NC United States",
-    "BeerAbv": "6.7",
-    "BeerIbu": "52",
-    "HallRating": null
-  },
-  {
-    "BID": "4631567",
-    "BeerName": "Ipa Neumann",
+    "BID": 4446876,
+    "BeerName": "purplemiata",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Masis Brewery",
-    "Origin": "Espoo, Uusimaa Finland",
-    "BeerAbv": "5.5",
-    "BeerIbu": "60",
-    "HallRating": null
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4816345",
-    "BeerName": "Red Pilsen",
-    "BeerStyle": "Lager - American Amber / Red",
-    "BreweryName": "Cerveja Nordhaus",
-    "Origin": "Juazeiro, Bahia Brazil",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4446767",
-    "BeerName": "Brouwtijd Summertime NEIPA",
-    "BeerStyle": "Homebrew, IPA - English",
-    "BreweryName": "Brouwtijd",
-    "Origin": "Netherlands",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631568",
-    "BeerName": "Winter Brew",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Mithril Ales",
-    "Origin": "Richmond, North Yorkshire England",
-    "BeerAbv": "3.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816346",
-    "BeerName": "IPA Bahia",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Cerveja Nordhaus",
-    "Origin": "Juazeiro, Bahia Brazil",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816347",
-    "BeerName": "Imperial Stout",
+    "BID": 4815254,
+    "BeerName": "Eternal Slumber (2022)",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Cerveja Nordhaus",
-    "Origin": "Juazeiro, Bahia Brazil",
-    "BeerAbv": "9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676070,
+    "BeerName": "Cheryl From Accounting",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333945,
+    "BeerName": "Hollow Place: Oreo",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333948,
+    "BeerName": "Soft Block",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333953,
+    "BeerName": "Quy (2019)",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1671433,
+    "BeerName": "Toof Ache",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4980638,
+    "BeerName": "Norse Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675954,
+    "BeerName": "West Coast Mild",
+    "BeerStyle": "Homebrew, IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Beagle Brewing Company",
+    "Origin": "United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341286,
+    "BeerName": "Scotts Turf Cutter",
+    "BeerStyle": "Homebrew, Scottish Ale",
+    "BreweryName": "Beagle Brewing Company",
+    "Origin": "United States",
+    "BeerAbv": 3.75,
+    "BeerIbu": 14.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673954,
+    "BeerName": "Little Buddy",
+    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
+    "BreweryName": "Jeff Ryan Brewery",
+    "Origin": "Canada",
+    "BeerAbv": 3.80,
+    "BeerIbu": 140.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341291,
+    "BeerName": "Simcoe Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Crafty Corner",
+    "Origin": "Lisboa, Portugal",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673959,
+    "BeerName": "Brown",
+    "BeerStyle": "Brown Ale - English",
+    "BreweryName": "Threshers Brewing Co",
+    "Origin": "Searsmont, ME United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673962,
+    "BeerName": "Wild West Wheat Ale",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Brewsters Brewing Company - Saskatchewan",
+    "Origin": "Regina, SK Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673964,
+    "BeerName": "Belgian White Ale",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Brewsters Brewing Company - Saskatchewan",
+    "Origin": "Regina, SK Canada",
+    "BeerAbv": 5.20,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673967,
+    "BeerName": "Rum Barrel",
+    "BeerStyle": "Brown Ale - English",
+    "BreweryName": "Brewsters Brewing Company - Saskatchewan",
+    "Origin": "Regina, SK Canada",
+    "BeerAbv": 6.00,
+    "BeerIbu": 24.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341295,
+    "BeerName": "Cream Ale 2019",
+    "BeerStyle": "Homebrew, Cream Ale",
+    "BreweryName": "C&F's Homebrew",
+    "Origin": "United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341296,
+    "BeerName": "Festbier",
+    "BeerStyle": "Festbier",
+    "BreweryName": "Löwenbrauerei Passau",
+    "Origin": "Passau, Bayern Germany",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673965,
+    "BeerName": "Mittrowsky Světlý ležák 11%",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Centrum Eden",
+    "Origin": "Bystřice nad Pernštejnem, Kraj Vysočina Czech Republic",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673972,
+    "BeerName": "Mittrowsky Tmavý speciál 14%",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Centrum Eden",
+    "Origin": "Bystřice nad Pernštejnem, Kraj Vysočina Czech Republic",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673976,
+    "BeerName": "Mittrowsky Porter 18%",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Centrum Eden",
+    "Origin": "Bystřice nad Pernštejnem, Kraj Vysočina Czech Republic",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341298,
+    "BeerName": "Belgotrysch",
+    "BeerStyle": "Homebrew, Belgian Blonde",
+    "BreweryName": "Max Trysch Brewing",
+    "Origin": "Sweden",
+    "BeerAbv": 7.20,
+    "BeerIbu": 26.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3341306,
+    "BeerName": "Secret Trysch",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Max Trysch Brewing",
+    "Origin": "Sweden",
+    "BeerAbv": 6.00,
+    "BeerIbu": 68.00,
+    "HallRating": 0.00
   }
 ]

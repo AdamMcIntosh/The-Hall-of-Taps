@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4939701",
-    "BeerName": "Poisson Cornu",
-    "BeerStyle": "Lager - IPL (India Pale Lager)",
-    "BreweryName": "Microbrasserie Jackalhop",
-    "Origin": "Plessisville, QC Canada",
-    "BeerAbv": "5.6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 8866,
+    "BeerName": "Yellow Hammer",
+    "BeerStyle": "Blonde / Golden Ale - English",
+    "BreweryName": "Hanlons Brewery",
+    "Origin": "Newton Saint Cyres, Devon England",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4980355",
-    "BeerName": "Kettu Kehveli",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Olaf Brewing",
-    "Origin": "Savonlinna, Etelä-Savo Finland",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3343937,
+    "BeerName": "Witz Up",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "2nd Bridge Brewing Co.",
+    "Origin": "Manchester, CT United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4939702",
-    "BeerName": "Cherry Limeade Hard Seltzer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Odd Side Ales",
-    "Origin": "Grand Haven, MI United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3343938,
+    "BeerName": "Witz Up",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "2nd Bridge Brewing Co.",
+    "Origin": "Manchester, CT United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4980356",
-    "BeerName": "Pineapple Wheat",
+    "BID": 3339705,
+    "BeerName": "Hazel's Nut Brown Ale",
+    "BeerStyle": "Brown Ale - Other",
+    "BreweryName": "2nd Bridge Brewing Co.",
+    "Origin": "Manchester, CT United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672405,
+    "BeerName": "Sauerlump",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Hawidere",
+    "Origin": "Vienna, Wien Austria",
+    "BeerAbv": 3.00,
+    "BeerIbu": 6.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339706,
+    "BeerName": "General Nelson",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Brasserie La Bouquine",
+    "Origin": "Courlandon, Grand Est France",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8270,
+    "BeerName": "WEDNESDAY Wheat Beer",
     "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Midwest Coast Brewing Co",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "AND UNION",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4960046",
-    "BeerName": "Farregats Reyerish Red Ale DDH",
-    "BeerStyle": "Homebrew, Red Ale - Irish",
-    "BreweryName": "JPBier",
-    "Origin": "Netherlands",
-    "BeerAbv": "4.9",
-    "BeerIbu": "24",
-    "HallRating": null
-  },
-  {
-    "BID": "4939703",
-    "BeerName": "What if There’s Another World",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Burial Beer Co.",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "33",
-    "HallRating": null
-  },
-  {
-    "BID": "4939704",
-    "BeerName": "SOUR SPICE",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Trofeja",
-    "Origin": "Latvia",
-    "BeerAbv": "6",
-    "BeerIbu": "50",
-    "HallRating": null
-  },
-  {
-    "BID": "4980357",
-    "BeerName": "Leia IPL 12°",
-    "BeerStyle": "Lager - IPL (India Pale Lager)",
-    "BreweryName": "Panský pivovar Bojnice",
-    "Origin": "Bojnice, Trenčiansky kraj Slovakia",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960047",
-    "BeerName": "Estivale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Brasserie Bouyer",
-    "Origin": "Saint-Nazaire, Pays de la Loire France",
-    "BeerAbv": "3.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939705",
-    "BeerName": "Lucky Joe",
-    "BeerStyle": "Mild - Dark",
-    "BreweryName": "Renner",
-    "Origin": "Germany",
-    "BeerAbv": "5",
-    "BeerIbu": "22",
-    "HallRating": null
-  },
-  {
-    "BID": "4960048",
-    "BeerName": "Summer Slammer",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "First Line Brewing",
-    "Origin": "Orchard Park, NY United States",
-    "BeerAbv": "4.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980358",
-    "BeerName": "Lovely Bunch Coconut",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Grand Strand Brewing Company",
-    "Origin": "Myrtle Beach, SC United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939706",
-    "BeerName": "In Different Spaces And In the Same",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Burial Beer Co.",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": "8.2",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "4939707",
-    "BeerName": "Acoustic Armadillo",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Tallgrass Tap House",
-    "Origin": "Manhattan, KS United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "29",
-    "HallRating": null
-  },
-  {
-    "BID": "4960049",
-    "BeerName": "Cottonwood Station Blue Dia",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Allagash Brewing Company",
-    "Origin": "Portland, ME United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980359",
-    "BeerName": "Masa Azul",
-    "BeerStyle": "Lager - Mexican",
-    "BreweryName": "Evans Brewing Co.",
-    "Origin": "Corona, CA United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939708",
-    "BeerName": "Pint",
+    "BID": 1672406,
+    "BeerName": "Poldark Ale",
     "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Marble Beers Ltd",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": "3.9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Cribbar",
+    "Origin": "England",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4980360",
-    "BeerName": "Smuttynose Lemon Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Smuttynose Brewing Co.",
-    "Origin": "Hampton, NH United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 8271,
+    "BeerName": "Fest Beer",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Mountaineer Brewing Company",
+    "Origin": "Martinsburg, WV United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4960050",
-    "BeerName": "West Coast Chill Nectarine",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Public Coast Brewing Co.",
-    "Origin": "Cannon Beach, OR United States",
-    "BeerAbv": "6.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939709",
-    "BeerName": "Medium-Sweet Sparkling",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Glyders",
-    "Origin": "Ilton, Somerset England",
-    "BeerAbv": "6.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960051",
-    "BeerName": "Parva Tactus",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Messorem",
-    "Origin": "Montreal, QC Canada",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980361",
-    "BeerName": "KyleBräu Kölsch",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Evans Brewing Co.",
-    "Origin": "Corona, CA United States",
-    "BeerAbv": "5.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960052",
-    "BeerName": "Kaggens Red Bitter",
-    "BeerStyle": "Homebrew, Bitter - Session / Ordinary",
-    "BreweryName": "Pontus I Ålem",
-    "Origin": "Sweden",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939710",
-    "BeerName": "Ambrosia Pale Ale",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Kweza Craft Brewery",
-    "Origin": "Kigali, Kigali City Rwanda",
-    "BeerAbv": "5.3",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4980362",
-    "BeerName": "323 Learning By Doing Lemon",
-    "BeerStyle": "Homebrew, Other",
-    "BreweryName": "Skaret Brewing",
+    "BID": 3339708,
+    "BeerName": "#1",
+    "BeerStyle": "Homebrew, IPA - Imperial / Double",
+    "BreweryName": "Sveholt For Hire",
     "Origin": "Norway",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672411,
+    "BeerName": "Honey Red X Session East",
+    "BeerStyle": "Homebrew, Red Ale - American Amber / Red",
+    "BreweryName": "Funky Whisker",
+    "Origin": "United States",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333871,
+    "BeerName": "Wizard",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Tricky Cider",
+    "Origin": "Taunton, Somerset England",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960802,
+    "BeerName": "Rainbow",
+    "BeerStyle": "Cider - Dry",
+    "BreweryName": "Tricky Cider",
+    "Origin": "Taunton, Somerset England",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339712,
+    "BeerName": "Summa",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Wave Maker Craft Brewery",
+    "Origin": "Cambridge, ON Canada",
+    "BeerAbv": 5.90,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339714,
+    "BeerName": "Barkly Oos",
+    "BeerStyle": "Homebrew, Barleywine - Other",
+    "BreweryName": "Wyldernis",
+    "Origin": "Netherlands",
+    "BeerAbv": 12.60,
+    "BeerIbu": 84.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672413,
+    "BeerName": "Little Big Session IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Madison Brewing Company",
+    "Origin": "Bennington, VT United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 10163,
+    "BeerName": "Willoughby's Scottish Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Madison Brewing Company",
+    "Origin": "Bennington, VT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13448,
+    "BeerName": "Hop Harvest Gold",
+    "BeerStyle": "Blonde / Golden Ale - English",
+    "BreweryName": "Humpty Dumpty Brewery",
+    "Origin": "Reedham, Norfolk England",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339715,
+    "BeerName": "One Small Step",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Humpty Dumpty Brewery",
+    "Origin": "Reedham, Norfolk England",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339737,
+    "BeerName": "The Eagle Has Landed",
+    "BeerStyle": "Red Ale - Other",
+    "BreweryName": "Humpty Dumpty Brewery",
+    "Origin": "Reedham, Norfolk England",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340956,
+    "BeerName": "Sea of Tranquility",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Humpty Dumpty Brewery",
+    "Origin": "Reedham, Norfolk England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672414,
+    "BeerName": "KUMITE IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Flat State Brewing",
+    "Origin": "United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672415,
+    "BeerName": "Gourmet Burger Kitchen Pale Ale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Laverstoke Park Farm",
+    "Origin": "Overton, Hampshire England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3339717,
+    "BeerName": "CONUS Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Clubhouse Brewing Company",
+    "Origin": "Warren, OH United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 14015,
+    "BeerName": "Jock Frost",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Houston",
+    "Origin": "Houston, Renfrewshire Scotland",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

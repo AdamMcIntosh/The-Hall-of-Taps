@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4631993",
-    "BeerName": "Chojnicki Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Browar Gościniec Chojnice",
-    "Origin": "Chojnice, Pomeranian Voivodeship Poland",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1674795,
+    "BeerName": "White IPA",
+    "BeerStyle": "IPA - White / Wheat",
+    "BreweryName": "La Birra Meraviglia",
+    "Origin": "Italy",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4816763",
-    "BeerName": "Baronia De Calpe",
-    "BeerStyle": "Blonde Ale",
-    "BreweryName": "Cervezas Althaia",
-    "Origin": "Altea, Comunidad Valenciana Spain",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4447179",
-    "BeerName": "Lighten Up",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "BrewDog Outpost Dublin",
-    "Origin": "Dublin, County Dublin Ireland",
-    "BeerAbv": "4.2",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4631994",
-    "BeerName": "Hvit Jul (2021)",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Nøgne Ø",
-    "Origin": "Grimstad, Agder Norway",
-    "BeerAbv": "4.5",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "4816764",
-    "BeerName": "Seaside IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Kahakka Brewery",
-    "Origin": "Kokkola, Keski-Pohjanmaa Finland",
-    "BeerAbv": "7",
-    "BeerIbu": "71",
-    "HallRating": null
-  },
-  {
-    "BID": "4447180",
-    "BeerName": "BREEZEBLOCKS",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Cervejaria EverBrew",
-    "Origin": "Santos, São Paulo Brazil",
-    "BeerAbv": "7.4",
-    "BeerIbu": "65",
-    "HallRating": null
-  },
-  {
-    "BID": "4631995",
-    "BeerName": "Oblivion",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "The Brew Bridge",
-    "Origin": "Owensboro, KY United States",
-    "BeerAbv": "11",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4447181",
-    "BeerName": "Buzzsaw En Fuego",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Arbor Brewing Company",
-    "Origin": "Ypsilanti, MI United States",
-    "BeerAbv": "6.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816765",
-    "BeerName": "La Blanche Des Eduens",
-    "BeerStyle": "Belgian Blonde",
-    "BreweryName": "Brasserie des Eduens",
-    "Origin": null,
-    "BeerAbv": "4.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4447182",
-    "BeerName": "Gueuze 100% Lambic Bio (2019) (Apr-03-2019 bottling)",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631996",
-    "BeerName": "Haaramoukku",
-    "BeerStyle": "Red Ale - Other",
-    "BreweryName": "Maistila",
-    "Origin": "Oulu, Pohjois-Pohjanmaa Finland",
-    "BeerAbv": "5.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4447183",
-    "BeerName": "Honey Radler",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Scholz Garten",
-    "Origin": null,
-    "BeerAbv": "2.5",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "4816766",
-    "BeerName": "Sima!",
-    "BeerStyle": "Homebrew, Mead - Other",
-    "BreweryName": "NIMBY Brewing",
-    "Origin": "Finland",
-    "BeerAbv": "4.7",
-    "BeerIbu": "38",
-    "HallRating": null
-  },
-  {
-    "BID": "4631997",
-    "BeerName": "North of the Border",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Picaroons Brewing Company",
-    "Origin": "Fredericton, NB Canada",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4447184",
-    "BeerName": "Peace, Love & Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Sand City Brewing Co.",
-    "Origin": "Northport, NY United States",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816767",
-    "BeerName": "Triple Cirtry Hop",
-    "BeerStyle": "Homebrew, Belgian Tripel",
-    "BreweryName": "JS Home Brewery",
-    "Origin": "Netherlands",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631998",
-    "BeerName": "Cobb’s Logger",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Black & Gray Brewing Co.",
-    "Origin": "East Dundee, IL United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4447185",
-    "BeerName": "Tunø Cider",
-    "BeerStyle": "Cider - Dry",
-    "BreweryName": "Tunø Bryggeri",
-    "Origin": "Denmark",
-    "BeerAbv": "9.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4631999",
-    "BeerName": "When Life Gives You Hops",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Third Barrel Brewing",
-    "Origin": "Dublin, County Dublin Ireland",
-    "BeerAbv": "8.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816768",
-    "BeerName": "Triple IPA",
-    "BeerStyle": "Homebrew, IPA - Triple",
-    "BreweryName": "Mousse de Thoune",
-    "Origin": "Thun, Bern Switzerland",
-    "BeerAbv": "10.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4816769",
-    "BeerName": "Catherine the Second W/raspberries And Cacao",
-    "BeerStyle": "Homebrew, Stout - Other",
-    "BreweryName": "Imagine Brewery",
+    "BID": 3342132,
+    "BeerName": "Triangulum Saison",
+    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
+    "BreweryName": "Borealis Brewing",
     "Origin": "United States",
-    "BeerAbv": "9.3",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4447186",
-    "BeerName": "Fruit Box: Neutron",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Sandbox Brewing Company",
-    "Origin": "Montclair, CA United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3342137,
+    "BeerName": "Stellar Winds",
+    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
+    "BreweryName": "Borealis Brewing",
+    "Origin": "United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4632000",
-    "BeerName": "Mmm...Fruit (Blood Orange/Hibiscus)",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Other Half Brewing Co.",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1674796,
+    "BeerName": "NY Lager",
+    "BeerStyle": "Lager - American Amber / Red",
+    "BreweryName": "Stormly",
+    "Origin": "Denmark",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4447187",
-    "BeerName": "Update Your Bowser Settings",
+    "BID": 1674797,
+    "BeerName": "Pucel Kolsch",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Dorset Brewing Company",
+    "Origin": "Dorchester, Dorset England",
+    "BeerAbv": 0.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674799,
+    "BeerName": "Púcel",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Dorset Brewing Company",
+    "Origin": "Dorchester, Dorset England",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342138,
+    "BeerName": "5th Anniversary Ale",
     "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Sawbelly Brewing",
-    "Origin": "Exeter, NH United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Mare Island Brewing Co.",
+    "Origin": "Vallejo, CA United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4632001",
-    "BeerName": "Rudolph’s Blitz Again",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Brown Iron Brewhouse",
-    "Origin": "Washington, MI United States",
-    "BeerAbv": "8.9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1674801,
+    "BeerName": "Weizen Dunkel",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Brauhaus Am Turm",
+    "Origin": "Kirchheimbolanden, Rheinland-Pfalz Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674802,
+    "BeerName": "Republic Beer",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Beer Republic",
+    "Origin": "Kolkata, West Bengal India",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676303,
+    "BeerName": "Brunette Beer",
+    "BeerStyle": "Dark Ale",
+    "BreweryName": "Beer Republic",
+    "Origin": "Kolkata, West Bengal India",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676285,
+    "BeerName": "Blonde Beer",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Beer Republic",
+    "Origin": "Kolkata, West Bengal India",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342139,
+    "BeerName": "Quadrupel",
+    "BeerStyle": "Homebrew, Belgian Quadrupel",
+    "BreweryName": "Schuttingtaal",
+    "Origin": "Netherlands",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674805,
+    "BeerName": "Moonbeam",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Charleston Brewing",
+    "Origin": "Charleston, WV United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 11512,
+    "BeerName": "Rock Steady Red Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "The Rock Wood Fired Kitchen",
+    "Origin": "Sumner, WA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667345,
+    "BeerName": "Easy Peasy Lemon Squeezey",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "22 Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342148,
+    "BeerName": "Rosentaler Märzen",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Vereinigte Kärntner Brauereien",
+    "Origin": "Villach, Kärnten Austria",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667343,
+    "BeerName": "Mean Old Tom",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Maine Beer Company",
+    "Origin": "Freeport, ME United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 13088,
+    "BeerName": "Peeper",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Maine Beer Company",
+    "Origin": "Freeport, ME United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4959660,
+    "BeerName": "Black Barn Program No. 36",
+    "BeerStyle": "Altbier - Traditional",
+    "BreweryName": "Maine Beer Company",
+    "Origin": "Freeport, ME United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674785,
+    "BeerName": "Equinox IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Charlotte's Brewery",
+    "Origin": "Norway",
+    "BeerAbv": 6.00,
+    "BeerIbu": 47.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342119,
+    "BeerName": "Haus Hazy",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "The Dam Brewhaus",
+    "Origin": "Benton, KY United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342362,
+    "BeerName": "Dam Dirty Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "The Dam Brewhaus",
+    "Origin": "Benton, KY United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342122,
+    "BeerName": "Freedom 35",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Angry Pepper Taphouse",
+    "Origin": "Seminole, FL United States",
+    "BeerAbv": 7.80,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674789,
+    "BeerName": "Solkatt",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Exalted Beer",
+    "Origin": "Sweden",
+    "BeerAbv": 6.50,
+    "BeerIbu": 89.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1674815,
+    "BeerName": "Iller",
+    "BeerStyle": "Homebrew, Lager - IPL (India Pale Lager)",
+    "BreweryName": "Exalted Beer",
+    "Origin": "Sweden",
+    "BeerAbv": 6.10,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
   }
 ]

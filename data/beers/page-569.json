@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4939018",
-    "BeerName": "Farmtastic",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Lone Oak Farm Brewing Co.",
-    "Origin": "Olney, MD United States",
-    "BeerAbv": "5.7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3344010,
+    "BeerName": "I Love Vetter -Stephanie",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Vetter's Alt Heidelberger Brauhaus",
+    "Origin": "Heidelberg, Baden-Württemberg Germany",
+    "BeerAbv": 8.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4817044",
-    "BeerName": "Cold IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Great Divide Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": "6.4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1675043,
+    "BeerName": "Penny: Centennial",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Five N9ne",
+    "Origin": "Canada",
+    "BeerAbv": 7.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4939019",
-    "BeerName": "BarleyQuad Kraken Infused",
-    "BeerStyle": "Homebrew, Barleywine - American",
-    "BreweryName": "Vriendenbrouwerij De Hoptagondiërs",
-    "Origin": "Netherlands",
-    "BeerAbv": "11.11",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3342400,
+    "BeerName": "Skål For Alle Venner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Land Mikrobryggeri Tsjoch",
+    "Origin": "Odnes, Oppland Norway",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4817045",
-    "BeerName": "Hex",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Shellring Aleworks",
-    "Origin": "Port Royal, SC United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "10",
-    "HallRating": null
+    "BID": 3342406,
+    "BeerName": "Skål For Alle Venner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Land Mikrobryggeri Tsjoch",
+    "Origin": "Odnes, Oppland Norway",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4878030",
-    "BeerName": "Apple",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Bold Rock Hard Cider",
-    "Origin": "Nellysford, VA United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4817046",
-    "BeerName": "Cold Embrace",
-    "BeerStyle": "Homebrew, Lager - IPL (India Pale Lager)",
-    "BreweryName": "Guts & Glory",
-    "Origin": "Netherlands",
-    "BeerAbv": "5.8",
-    "BeerIbu": "87",
-    "HallRating": null
-  },
-  {
-    "BID": "4939020",
-    "BeerName": "La Passion'ante",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Dan's Beer",
-    "Origin": "France",
-    "BeerAbv": "0",
-    "BeerIbu": "5",
-    "HallRating": null
-  },
-  {
-    "BID": "4878031",
-    "BeerName": "Summer Shandy",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Resurgence Brewing Company",
-    "Origin": "Buffalo, NY United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939021",
-    "BeerName": "Talk To Me, Juice!",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "CooperSmith’s Pub & Brewing",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "29",
-    "HallRating": null
-  },
-  {
-    "BID": "4817047",
-    "BeerName": "H2OP",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Northern Monk",
-    "Origin": "Leeds, West Yorkshire England",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4878032",
-    "BeerName": "Forest Blanche",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Underwood Brewery",
-    "Origin": "Stari Petrivtsi, Kyivs'ka oblast Ukraine",
-    "BeerAbv": "4.6",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4817048",
-    "BeerName": "Rosina Pineapple Milkshake IPA",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "Brouwerij de HopHemel",
-    "Origin": "Hasselt, Vlaams Gewest Belgium",
-    "BeerAbv": "6",
-    "BeerIbu": "54",
-    "HallRating": null
-  },
-  {
-    "BID": "4878033",
-    "BeerName": "Limonada de Patilla",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Cervecería Tresquince",
-    "Origin": "Barranquilla, Atlántico Colombia",
-    "BeerAbv": "4.2",
-    "BeerIbu": "11",
-    "HallRating": null
-  },
-  {
-    "BID": "4939022",
-    "BeerName": "La Passion'ante",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Dan's Beer",
-    "Origin": "France",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939023",
-    "BeerName": "Funkey Monkey Perle",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Perle Bräu",
-    "Origin": "Switzerland",
-    "BeerAbv": "5.5",
-    "BeerIbu": "12",
-    "HallRating": null
-  },
-  {
-    "BID": "4817049",
-    "BeerName": "Session IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Cervejaria 4 Árvores",
-    "Origin": "Porto Alegre, Rio Grande do Sul Brazil",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4878034",
-    "BeerName": "Water Street Whit",
-    "BeerStyle": "Belgian Blonde",
-    "BreweryName": "Horn Run Brewing",
-    "Origin": "Eastport, ME United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939024",
-    "BeerName": "Bière Maison IPA",
-    "BeerStyle": "Homebrew, IPA - Brut",
-    "BreweryName": "Elle Ecrit",
-    "Origin": "France",
-    "BeerAbv": "7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4817050",
-    "BeerName": "Radler Raspberry Rhubarb",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Gubernija Brewery",
-    "Origin": "Šiauliai, Šiaulių apskritis Lithuania",
-    "BeerAbv": "2.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4878035",
-    "BeerName": "Lucy: Tangerine Wit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Common Crown Brewing",
-    "Origin": "Calgary, AB Canada",
-    "BeerAbv": "4.4",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4817051",
-    "BeerName": "Moninger Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Hatz-Moninger Brauhaus",
-    "Origin": "Karlsruhe, Baden-Württemberg Germany",
-    "BeerAbv": "4.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4939025",
-    "BeerName": "BarleyQuad Madeira Infused",
-    "BeerStyle": "Homebrew, Barleywine - Other",
-    "BreweryName": "Vriendenbrouwerij De Hoptagondiërs",
-    "Origin": "Netherlands",
-    "BeerAbv": "11.11",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4878036",
-    "BeerName": "Velocette",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Strap Tank Brewing Co.",
-    "Origin": "Springville, UT United States",
-    "BeerAbv": "5",
-    "BeerIbu": "24",
-    "HallRating": null
-  },
-  {
-    "BID": "4939026",
-    "BeerName": "Raspberry Apple Sparkling Cider",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Rex Apples",
+    "BID": 1675048,
+    "BeerName": "Into the Past",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Brewerman",
     "Origin": "Ukraine",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 4.50,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4817052",
-    "BeerName": "Hibiscus Honey Saison",
+    "BID": 1675062,
+    "BeerName": "Good Morning",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Brewerman",
+    "Origin": "Ukraine",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675049,
+    "BeerName": "Saison",
     "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Wild North Brewing Co.",
-    "Origin": "Creston, BC Canada",
-    "BeerAbv": "5.8",
-    "BeerIbu": "33",
-    "HallRating": null
+    "BreweryName": "Mylius-Erichsen Bryghus",
+    "Origin": "Denmark",
+    "BeerAbv": 4.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342403,
+    "BeerName": "Boaz's Mild",
+    "BeerStyle": "Homebrew, Mild - Other",
+    "BreweryName": "Lanner (לנר)",
+    "Origin": "Israel",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667359,
+    "BeerName": "Citra Mosaic Amarillo IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Drü's Brü",
+    "Origin": "United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342404,
+    "BeerName": "Stiner Belgian Dubbel",
+    "BeerStyle": "Homebrew, Belgian Dubbel",
+    "BreweryName": "Stiner Home Brew",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675052,
+    "BeerName": "Hyper Hyper",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Tombobryggeriet",
+    "Origin": "Sweden",
+    "BeerAbv": 7.20,
+    "BeerIbu": 120.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342405,
+    "BeerName": "Lover’s Lager",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Beer Hound Brewery",
+    "Origin": "Culpeper, VA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675053,
+    "BeerName": "Highlander",
+    "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
+    "BreweryName": "G-man",
+    "Origin": null,
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342407,
+    "BeerName": "Parady's Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Domaine Nicolo & Paradis",
+    "Origin": "Arsonval, Grand Est France",
+    "BeerAbv": 5.60,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675055,
+    "BeerName": "Pahsimeroi Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "River of No Return Brewing Co.",
+    "Origin": "Challis, ID United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 52.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 11854,
+    "BeerName": "Profftoberfest",
+    "BeerStyle": "Homebrew, Märzen",
+    "BreweryName": "Amalgam Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 11861,
+    "BeerName": "Solid IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Amalgam Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 11863,
+    "BeerName": "Watch Out Cider",
+    "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
+    "BreweryName": "Amalgam Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 11864,
+    "BeerName": "Victor Charlie Porter",
+    "BeerStyle": "Homebrew, Porter - American",
+    "BreweryName": "Amalgam Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 11865,
+    "BeerName": "Reign In Blood Orange Pale Ale",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Amalgam Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675057,
+    "BeerName": "Ace",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Watt's Brewing Co.",
+    "Origin": "Stockport, Greater Manchester England",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342414,
+    "BeerName": "Honey",
+    "BeerStyle": "Honey Beer",
+    "BreweryName": "Donkey Punch Brewing Co",
+    "Origin": "Tijuana, Baja California Mexico",
+    "BeerAbv": 4.00,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3342417,
+    "BeerName": "Supreme Grätzer",
+    "BeerStyle": "Homebrew, Historical Beer - Grodziskie / Grätzer",
+    "BreweryName": "Kregür",
+    "Origin": "France",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960205,
+    "BeerName": "Untitled Gose Game W/ Mango & Tajin",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "8-Bit Aleworks",
+    "Origin": "Avondale, AZ United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4960217,
+    "BeerName": "Untitled Gose Game W/ Mango & Tajin",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "8-Bit Aleworks",
+    "Origin": "Avondale, AZ United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

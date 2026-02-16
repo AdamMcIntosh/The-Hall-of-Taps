@@ -1,252 +1,252 @@
 [
   {
-    "BID": "1668778",
-    "BeerName": "No Strings",
-    "BeerStyle": "Homebrew, Cream Ale",
-    "BreweryName": "Murph's Homebrew",
-    "Origin": "United States",
-    "BeerAbv": "5",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "2995",
-    "BeerName": "Red Line Amber",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Sanford’s Grub & Pub",
-    "Origin": "Casper, WY United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335413",
-    "BeerName": "WEST COASTER BRAKE",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Crank Arm Brewing Company",
-    "Origin": "Raleigh, NC United States",
-    "BeerAbv": "7.1",
-    "BeerIbu": "65",
-    "HallRating": null
-  },
-  {
-    "BID": "1668779",
-    "BeerName": "Farmhouse Beer",
-    "BeerStyle": "Homebrew, Smoked Beer",
-    "BreweryName": "Homebrew Latvia",
-    "Origin": "Latvia",
-    "BeerAbv": "6.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2997",
-    "BeerName": "Firehouse Red",
-    "BeerStyle": "Red Ale - Irish",
-    "BreweryName": "Firehouse Brewing Company (South Dakota)",
-    "Origin": "Rapid City, SD United States",
-    "BeerAbv": "6",
-    "BeerIbu": "23",
-    "HallRating": null
-  },
-  {
-    "BID": "3335414",
-    "BeerName": "Snipperdag V2",
-    "BeerStyle": "Homebrew, Belgian Tripel",
-    "BreweryName": "Brouwerij Keelblusser",
-    "Origin": "Breda, Noord-Brabant Netherlands",
-    "BeerAbv": "7.9",
-    "BeerIbu": "10",
-    "HallRating": null
-  },
-  {
-    "BID": "1668780",
-    "BeerName": "Summer Funk",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "White Bluffs Brewing",
-    "Origin": "Richland, WA United States",
-    "BeerAbv": "4.3",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "2998",
-    "BeerName": "Brown Cow Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Firehouse Brewing Company (South Dakota)",
-    "Origin": "Rapid City, SD United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "2999",
-    "BeerName": "Barely Blond",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Firehouse Brewing Company (South Dakota)",
-    "Origin": "Rapid City, SD United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335415",
-    "BeerName": "Sweet Baby Muffin Tropical Stout",
-    "BeerStyle": "Stout - Foreign / Export",
-    "BreweryName": "Fat Head’s Brewery",
-    "Origin": "Middleburg Heights, OH United States",
-    "BeerAbv": "9.3",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "1668781",
-    "BeerName": "Sunburst Saison",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Big Rig Brewery",
-    "Origin": "Kanata, ON Canada",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3000",
-    "BeerName": "Wilderness Wheat",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Firehouse Brewing Company (South Dakota)",
-    "Origin": "Rapid City, SD United States",
-    "BeerAbv": "5.9",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "3001",
-    "BeerName": "Buffalo Stout",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Sioux Falls Brewing",
-    "Origin": "Sioux Falls, SD United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668782",
-    "BeerName": "Summit Run Northwest Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Three Creeks Brewing Company",
-    "Origin": "Sisters, OR United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "58",
-    "HallRating": null
-  },
-  {
-    "BID": "3335416",
-    "BeerName": "Doppelbock",
-    "BeerStyle": "Bock - Doppelbock",
-    "BreweryName": "Röhrlbräu Straubing",
-    "Origin": "Straubing, Bayern Germany",
-    "BeerAbv": "7.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668783",
+    "BID": 1676502,
     "BeerName": "Oktoberfest",
     "BeerStyle": "Märzen",
-    "BreweryName": "Rhinelander Brewing Company",
-    "Origin": "Rhinelander, WI United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "21",
-    "HallRating": null
+    "BreweryName": "Old Bust Head Brewing Company",
+    "Origin": "Vint Hill, VA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3002",
-    "BeerName": "Ringneck Red Ale",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Sioux Falls Brewing",
-    "Origin": "Sioux Falls, SD United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668784",
-    "BeerName": "Jingle All the Wit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Flat12 Bierwerks",
-    "Origin": "Indianapolis, IN United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "19",
-    "HallRating": null
-  },
-  {
-    "BID": "3335417",
-    "BeerName": "Banana Havoc",
-    "BeerStyle": "Mead - Bochet",
-    "BreweryName": "Superstition Meadery",
-    "Origin": "Prescott, AZ United States",
-    "BeerAbv": "15",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3003",
-    "BeerName": "Midnight Star Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Sioux Falls Brewing",
-    "Origin": "Sioux Falls, SD United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1668785",
-    "BeerName": "Witte House",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "29 Brew Pub",
-    "Origin": "Marion, OH United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3004",
-    "BeerName": "Canary Wheat",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Sioux Falls Brewing",
-    "Origin": "Sioux Falls, SD United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3335418",
-    "BeerName": "Just Shuckin' Around",
-    "BeerStyle": "Stout - Oyster",
-    "BreweryName": "Helmsman",
-    "Origin": "Newport Beach, CA United States",
-    "BeerAbv": "9.5",
-    "BeerIbu": "45",
-    "HallRating": null
-  },
-  {
-    "BID": "3005",
-    "BeerName": "Belgian Summer Ale",
+    "BID": 1669256,
+    "BeerName": "Leathercoat",
     "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Titletown Brewing Company",
-    "Origin": "Green Bay, WI United States",
-    "BeerAbv": "7.8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Old Bust Head Brewing Company",
+    "Origin": "Vint Hill, VA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "1668786",
-    "BeerName": "Goutteuse Cuvée Wedfest",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Le Cercle De La Goutte",
-    "Origin": "France",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3336406,
+    "BeerName": "Toma De Zacatecas. 27 De Junio De 1914.",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Chacuaco Cervecera",
+    "Origin": "Zacatecas City, Zacatecas Mexico",
+    "BeerAbv": 5.50,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336413,
+    "BeerName": "Adela",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Chacuaco Cervecera",
+    "Origin": "Zacatecas City, Zacatecas Mexico",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333702,
+    "BeerName": "Mow the Monestary",
+    "BeerStyle": "Homebrew, Belgian Enkel / Patersbier",
+    "BreweryName": "Pool House Brewing",
+    "Origin": "United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 31.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3697,
+    "BeerName": "Romakloster",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Vivungs Bryggeri",
+    "Origin": "Romakloster, Gotlands län Sweden",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3698,
+    "BeerName": "Dragöl",
+    "BeerStyle": "Mead - Braggot",
+    "BreweryName": "Vivungs Bryggeri",
+    "Origin": "Romakloster, Gotlands län Sweden",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669257,
+    "BeerName": "India Pale Ale 15",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Pivovar Novej svět",
+    "Origin": "Byšice, Středočeský kraj Czech Republic",
+    "BeerAbv": 7.50,
+    "BeerIbu": 58.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670952,
+    "BeerName": "Cascadian Dark Ale #2",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Pivovar Novej svět",
+    "Origin": "Byšice, Středočeský kraj Czech Republic",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669174,
+    "BeerName": "Jimmy Thinks You're Hot",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Dave’s BrewFarm",
+    "Origin": "Wilson, WI United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669533,
+    "BeerName": "HBC-438 Single Hop Lager",
+    "BeerStyle": "Lager - IPL (India Pale Lager)",
+    "BreweryName": "Dave’s BrewFarm",
+    "Origin": "Wilson, WI United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3589,
+    "BeerName": "Stout",
+    "BeerStyle": "Homebrew, Stout - Milk / Sweet",
+    "BreweryName": "Sharktooth Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3590,
+    "BeerName": "Big Kahuna Brown",
+    "BeerStyle": "Homebrew, Brown Ale - American",
+    "BreweryName": "Sharktooth Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3591,
+    "BeerName": "Amber",
+    "BeerStyle": "Homebrew, Red Ale - American Amber / Red",
+    "BreweryName": "Sharktooth Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3592,
+    "BeerName": "Poi Dog Wheat",
+    "BeerStyle": "Homebrew, Wheat Beer - American Pale Wheat",
+    "BreweryName": "Sharktooth Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3593,
+    "BeerName": "Hula Girl Pale Ale",
+    "BeerStyle": "Homebrew, Pale Ale - American",
+    "BreweryName": "Sharktooth Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669175,
+    "BeerName": "Demonens Blod",
+    "BeerStyle": "Homebrew, Stout - Imperial / Double",
+    "BreweryName": "Kaldavatnet Amatørbrygg & Humlekokeri",
+    "Origin": "Norway",
+    "BeerAbv": 6.90,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670369,
+    "BeerName": "Pale Sky Pale Ale",
+    "BeerStyle": "Homebrew, Pale Ale - Other",
+    "BreweryName": "Kaldavatnet Amatørbrygg & Humlekokeri",
+    "Origin": "Norway",
+    "BeerAbv": 5.50,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336320,
+    "BeerName": "Black IPA",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Good George Brewing",
+    "Origin": "Hamilton, Waikato Region New Zealand",
+    "BeerAbv": 5.80,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336337,
+    "BeerName": "Toffee Apple Cider - Beervana 2019",
+    "BeerStyle": "Cider - Herbed / Spiced",
+    "BreweryName": "Good George Brewing",
+    "Origin": "Hamilton, Waikato Region New Zealand",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336333,
+    "BeerName": "Fruits of the Forest Sour - Beervana 2019",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Good George Brewing",
+    "Origin": "Hamilton, Waikato Region New Zealand",
+    "BeerAbv": 4.30,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336334,
+    "BeerName": "Mango Smoothie IPA - Beervana 2019",
+    "BeerStyle": "IPA - Milkshake",
+    "BreweryName": "Good George Brewing",
+    "Origin": "Hamilton, Waikato Region New Zealand",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669176,
+    "BeerName": "Slow Roast Amber",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "20 Corners Brewing Company",
+    "Origin": "Woodinville, WA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 36.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343099,
+    "BeerName": "7 Berry Wheat",
+    "BeerStyle": "Wheat Beer - Other",
+    "BreweryName": "20 Corners Brewing Company",
+    "Origin": "Woodinville, WA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1669223,
+    "BeerName": "Pecan Sandie",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Spring House Brewing Company",
+    "Origin": "Lancaster, PA United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

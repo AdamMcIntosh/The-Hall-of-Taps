@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4981480",
-    "BeerName": "Altbier",
-    "BeerStyle": "Altbier - Traditional",
-    "BreweryName": "Bäupbärger",
-    "Origin": "Switzerland",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961141",
-    "BeerName": "Frozen Granita Strawberry Daiquiri",
+    "BID": 3344260,
+    "BeerName": "Läsbälly Delyx",
     "BeerStyle": "Fruit Beer",
-    "BreweryName": "Levante Brewing Company",
-    "Origin": "West Chester, PA United States",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Vara Bryggeri",
+    "Origin": "Vara, Västra Götalands län Sweden",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940782",
-    "BeerName": "Truskawkowy",
+    "BID": 3344265,
+    "BeerName": "Pörple Ponü",
     "BeerStyle": "Fruit Beer",
-    "BreweryName": "WRCLW",
-    "Origin": "Wrocław, Dolnośląskie Poland",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Vara Bryggeri",
+    "Origin": "Vara, Västra Götalands län Sweden",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981481",
-    "BeerName": "Even Keel",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Stumpnose Brewery & Taproom",
-    "Origin": "South Africa",
-    "BeerAbv": "4",
-    "BeerIbu": "15",
-    "HallRating": null
+    "BID": 3344268,
+    "BeerName": "For Helvede",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Vara Bryggeri",
+    "Origin": "Vara, Västra Götalands län Sweden",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961142",
-    "BeerName": "Time Is Money",
-    "BeerStyle": "Lager - IPL (India Pale Lager)",
-    "BreweryName": "Grove Cartel Brewing Co.",
-    "Origin": "China Grove, NC United States",
-    "BeerAbv": "7.4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1676971,
+    "BeerName": "Miss Universe",
+    "BeerStyle": "Homebrew, Porter - American",
+    "BreweryName": "Miss Håndbryg",
+    "Origin": "Aarhus, select state... Denmark",
+    "BeerAbv": 6.50,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940783",
-    "BeerName": "Trial By Combat",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Thirst Class Ale",
-    "Origin": "Stockport, Greater Manchester England",
-    "BeerAbv": "4.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3344261,
+    "BeerName": "Saskatoon Berry",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "NOMAD Handcrafted Cider",
+    "Origin": "Summerland, BC Canada",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961143",
-    "BeerName": "Квас Домашний",
-    "BeerStyle": "Kvass",
-    "BreweryName": "ИП Аракелян А.Э.",
-    "Origin": "Russia",
-    "BeerAbv": "1.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1676974,
+    "BeerName": "Erminig",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "La Fréheloise",
+    "Origin": "Fréhel, Bretagne France",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981482",
-    "BeerName": "Astral : Épisode 6",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Toltèk Brasseur Artisan",
-    "Origin": "Boucherville, QC Canada",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940784",
-    "BeerName": "Letní APA 9",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Rodinný pivovar Rampušák",
-    "Origin": "Dobruška, Královéhradecký kraj Czech Republic",
-    "BeerAbv": "3.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961144",
-    "BeerName": "Planet Hopper IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Mariner Brewing",
-    "Origin": "Coquitlam, BC Canada",
-    "BeerAbv": "6",
-    "BeerIbu": "50",
-    "HallRating": null
-  },
-  {
-    "BID": "4981483",
-    "BeerName": "Spanish Temptation IPA",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Brouwhoeve",
-    "Origin": "Benissa, Comunidad Valenciana Spain",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940785",
-    "BeerName": "Scrunch Up! - Passionfruit Sorbet Sour",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Tanker Brewery",
-    "Origin": "Jüri, Harju maakond Estonia",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961145",
-    "BeerName": "CHASING THE LOTUS / Peach, Passionfruit, Mango & Macadamia Nut",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Ink Factory Brewing",
-    "Origin": "Jacksonville Beach, FL United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940786",
-    "BeerName": "塩 JOY サマー 桜ゼソン (Enjoy Summer SAKURA Saison)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hiroshima Neighborly Brewing",
-    "Origin": "Hiroshima, Japan",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961146",
-    "BeerName": "Samlesbury Brewery 50th Anniversary Beer",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Samlesbury Brewery",
-    "Origin": "London, Greater London England",
-    "BeerAbv": "7.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981484",
-    "BeerName": "Welcome, This Is A Farmhouse Sour",
-    "BeerStyle": "Farmhouse Ale - Other",
-    "BreweryName": "Lumpy Ridge Brewing Company",
-    "Origin": "Estes Park, CO United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981485",
-    "BeerName": "Tim Smash - Cashmere",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Saint-Houblon - La Microbrasserie",
-    "Origin": "Montréal, QC Canada",
-    "BeerAbv": "5.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940787",
-    "BeerName": "Sperkle Concord Grape",
-    "BeerStyle": "Grape Ale - Other",
-    "BreweryName": "SUNMAI",
-    "Origin": "Sanchong District, New Taipei City Taiwan",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961147",
-    "BeerName": "Holistic",
-    "BeerStyle": "Pale Ale - XPA (Extra Pale)",
-    "BreweryName": "Paradigm Brewery",
-    "Origin": "Sarratt, Hertfordshire England",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981486",
-    "BeerName": "Orange Crush",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Panther Creek Brews",
-    "Origin": "Murfreesboro, TN United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940788",
-    "BeerName": "Alheds Jubilæumsbryg",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Bryggeriet Refsvindinge",
-    "Origin": "Refsvindinge, Region Syddanmark Denmark",
-    "BeerAbv": "2.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961148",
-    "BeerName": "San Miguel (5.0%)",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "AB InBev UK",
-    "Origin": "England",
-    "BeerAbv": "5",
-    "BeerIbu": "4",
-    "HallRating": null
-  },
-  {
-    "BID": "4981487",
-    "BeerName": "Crispy IPA",
-    "BeerStyle": "IPA - Brut",
-    "BreweryName": "Great Divide Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940789",
-    "BeerName": "Quorum. Maker's Mark BA",
+    "BID": 1676608,
+    "BeerName": "Mercenary",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Bugtown Project",
-    "Origin": "Russia",
-    "BeerAbv": "12",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 12.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961149",
-    "BeerName": "VVV-Blond #3",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Brouwerij Puuro",
-    "Origin": "Blerick, Limburg Netherlands",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1676552,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 51.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676530,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 51.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1676531,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 51.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675734,
+    "BeerName": "DayTime (w/ Tangelo, Kumquat, & Sage)",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673881,
+    "BeerName": "TuberFest (2016)",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673832,
+    "BeerName": "Ginger Snap Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673956,
+    "BeerName": "Aunt Sally Wit (w/ Kiwis, Motueka & Nelson Sauvin Hops)",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1672549,
+    "BeerName": "Stoopid Wit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336288,
+    "BeerName": "Wilco Tango Foxtrot (WTF)",
+    "BeerStyle": "Brown Ale - Imperial / Double",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 8.10,
+    "BeerIbu": 64.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3336181,
+    "BeerName": "A Little Sumpin' Hazy",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 201,
+    "BeerName": "Undercover Investigation Shut-Down Ale",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 9.70,
+    "BeerIbu": 66.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334093,
+    "BeerName": "Hoppy Refresher",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3333850,
+    "BeerName": "Lagunitas Hop",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 5.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 14385,
+    "BeerName": "Sonoma Farmhouse Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1307,
+    "BeerName": "Sirius Ale",
+    "BeerStyle": "Cream Ale - Imperial / Double",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1351,
+    "BeerName": "The Hairy Eyeball",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 9.10,
+    "BeerIbu": 57.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 10718,
+    "BeerName": "Wilco Tango Foxtrot (WTF)",
+    "BeerStyle": "Brown Ale - Imperial / Double",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 8.10,
+    "BeerIbu": 64.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 11068,
+    "BeerName": "Point Belgian White",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Stevens Point Brewery",
+    "Origin": "Stevens Point, WI United States",
+    "BeerAbv": 5.38,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

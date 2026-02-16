@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4940351",
-    "BeerName": "Big Ben",
-    "BeerStyle": "IPA - New Zealand",
-    "BreweryName": "Emerson's Brewery",
-    "Origin": "Dunedin, Otago New Zealand",
-    "BeerAbv": "7.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981031",
-    "BeerName": "Vedett Extra IPA",
-    "BeerStyle": "IPA - Belgian",
-    "BreweryName": "Duvel Moortgat",
-    "Origin": "Puurs-Sint-Amands, Vlaams Gewest Belgium",
-    "BeerAbv": "5.5",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "4940352",
-    "BeerName": "Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Seve-N-Dots",
-    "Origin": "Carlisle, PA United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960696",
-    "BeerName": "West-Vlie IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Fortuna Vlieland",
-    "Origin": "Oost-Vlieland, Fryslân Netherlands",
-    "BeerAbv": "6",
-    "BeerIbu": "40",
-    "HallRating": null
-  },
-  {
-    "BID": "4981032",
-    "BeerName": "High Speed Steel",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "3 Floyds Brewing",
-    "Origin": "Munster, IN United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "23",
-    "HallRating": null
-  },
-  {
-    "BID": "4981033",
-    "BeerName": "St. Stephen's",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Fjordfolk Mikrobryggeri",
-    "Origin": "Sandefjord, Vestfold Norway",
-    "BeerAbv": "4.7",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "4960697",
-    "BeerName": "Here To Mango Tango",
-    "BeerStyle": "Homebrew, Kölsch",
-    "BreweryName": "Bauch Brewing",
+    "BID": 1675909,
+    "BeerName": "Boyce IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Boyce Craft Brewing",
     "Origin": "United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940353",
-    "BeerName": "Pale Rider",
+    "BID": 3343229,
+    "BeerName": "What’s Up West Coast",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Big Sexy Brewing Company",
+    "Origin": "Sacramento, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343234,
+    "BeerName": "Altbier",
+    "BeerStyle": "Altbier - Traditional",
+    "BreweryName": "Lady Justice Brewing",
+    "Origin": "Englewood, CO United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675915,
+    "BeerName": "Black IPA",
+    "BeerStyle": "Homebrew, IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Mike And Cindy Homebrew",
+    "Origin": "United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 91.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667392,
+    "BeerName": "Sangria Bretta",
+    "BeerStyle": "Brett Beer",
+    "BreweryName": "Coalition Brewing Co.",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 5.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3340581,
+    "BeerName": "Hi-Lo the Wanderer CBD IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Coalition Brewing Co.",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9056,
+    "BeerName": "Liquid Sterling",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "10 Barrel Brewing Co.",
+    "BreweryName": "Coalition Brewing Co.",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343236,
+    "BeerName": "White IPA",
+    "BeerStyle": "IPA - White / Wheat",
+    "BreweryName": "BeerDock",
+    "Origin": "Recife, Pernambuco Brazil",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675917,
+    "BeerName": "Raspberry Blossom",
+    "BeerStyle": "Mead - Traditional",
+    "BreweryName": "Misbeehavin’ Meads",
+    "Origin": "Valparaiso, IN United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675920,
+    "BeerName": "Alpha Overdrive (2016)",
+    "BeerStyle": "IPA - Triple",
+    "BreweryName": "Valiant Brewing Company",
+    "Origin": "Orange, CA United States",
+    "BeerAbv": 14.30,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343240,
+    "BeerName": "Motueka Mo Problems",
+    "BeerStyle": "Homebrew, Pale Ale - New Zealand",
+    "BreweryName": "Steel Republic Brewing",
+    "Origin": "United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675921,
+    "BeerName": "McKendry Brothers Collaboration In Your Mouth!  Dark Abbey Ale",
+    "BeerStyle": "Homebrew, Belgian Strong Dark Ale",
+    "BreweryName": "McKnasty's Garage Brewery",
+    "Origin": "Grove City, OH United States",
+    "BeerAbv": 7.80,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343242,
+    "BeerName": "Two Become One",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Downey Brewing Company",
+    "Origin": "Dearborn, MI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343279,
+    "BeerName": "Cana",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Downey Brewing Company",
+    "Origin": "Dearborn, MI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343284,
+    "BeerName": "Pineapple Hop Express",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Downey Brewing Company",
+    "Origin": "Dearborn, MI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675922,
+    "BeerName": "603 IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "El Cudar-Millsy",
+    "Origin": "United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675925,
+    "BeerName": "Picture Perfect Mosaic",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Hogebrau",
+    "Origin": "United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 56.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343246,
+    "BeerName": "Rye Ba Buck Cherry",
+    "BeerStyle": "Homebrew, Mead - Melomel",
+    "BreweryName": "Sweet Tooth Meadworks",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3343248,
+    "BeerName": "Proofreader Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Oblivion Brewing Company",
     "Origin": "Bend, OR United States",
-    "BeerAbv": "5.6",
-    "BeerIbu": "38",
-    "HallRating": null
+    "BeerAbv": 5.40,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981034",
-    "BeerName": "Sottish Harlequin 2022 SUMMER",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Brew Classic",
-    "Origin": "Ishikawa, Japan",
-    "BeerAbv": "9.5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3343686,
+    "BeerName": "Skagen Bunker Brown Ale",
+    "BeerStyle": "Brown Ale - Other",
+    "BreweryName": "Bryggeriet Vestkysten",
+    "Origin": "Løkken, Region Nordjylland Denmark",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940354",
-    "BeerName": "Berry Brown",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Buck's Brewing Co & Taproom",
-    "Origin": "Newark, OH United States",
-    "BeerAbv": "5.9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3343710,
+    "BeerName": "Skagen Bunker Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Bryggeriet Vestkysten",
+    "Origin": "Løkken, Region Nordjylland Denmark",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4960698",
-    "BeerName": "Темерницкое Пшеничное",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "БирХоф",
-    "Origin": "Rostov, Rostovskaya oblast' Russia",
-    "BeerAbv": "4.6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3334273,
+    "BeerName": "Skagen Bunker India Pale Ale",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Bryggeriet Vestkysten",
+    "Origin": "Løkken, Region Nordjylland Denmark",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981035",
-    "BeerName": "St. Nicholas'",
-    "BeerStyle": "Lager - Tmavé (Czech Dark)",
-    "BreweryName": "Fjordfolk Mikrobryggeri",
-    "Origin": "Sandefjord, Vestfold Norway",
-    "BeerAbv": "4.7",
-    "BeerIbu": "25",
-    "HallRating": null
+    "BID": 1675928,
+    "BeerName": "Spiced Out Pumpkin",
+    "BeerStyle": "Homebrew, Brown Ale - Belgian",
+    "BreweryName": "Arbrew",
+    "Origin": "United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4940355",
-    "BeerName": "Lithuanian Goddess Collab With Break Rock Brewing",
-    "BeerStyle": "Farmhouse Ale - Other",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 12949,
+    "BeerName": "IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Home Brews and Gardens",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981036",
-    "BeerName": "Phubba Bubba",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Phat Brew Club",
-    "Origin": "West Perth, Western Australia Australia",
-    "BeerAbv": "5.5",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "4960699",
-    "BeerName": "Dark Field",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Aeronaut Brewing Company",
-    "Origin": "Somerville, MA United States",
-    "BeerAbv": "8.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940356",
-    "BeerName": "Wild Berry Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Homer Hops Brewing",
-    "Origin": "Cortland, NY United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "4960700",
-    "BeerName": "Happy Birthday Dan",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Cloudwater Brew Co.",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": "3.5",
-    "BeerIbu": "4",
-    "HallRating": null
-  },
-  {
-    "BID": "4940357",
-    "BeerName": "Resolve",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Big Thompson Brewery",
-    "Origin": "Loveland, CO United States",
-    "BeerAbv": "4.9",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "4981037",
-    "BeerName": "St Leopold's",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Fjordfolk Mikrobryggeri",
-    "Origin": "Sandefjord, Vestfold Norway",
-    "BeerAbv": "4.7",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "4960701",
-    "BeerName": "Cross Town #2",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "GAS Brew",
-    "Origin": "Sankt-Peterburg, Russia",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940358",
-    "BeerName": "Mango Oblivex",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Tired Hands Brewing Company",
-    "Origin": "Ardmore, PA United States",
-    "BeerAbv": "9.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981038",
-    "BeerName": "La 69",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Maltman & Cumbres Craft Beer S.L.",
-    "Origin": "Spain",
-    "BeerAbv": "5.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960702",
-    "BeerName": "Broken Dream",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Siren Craft Brew",
-    "Origin": "Wokingham, Berkshire England",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4940359",
-    "BeerName": "Strata Hazy Hefe",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Wicked Weed Brewing",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4960703",
-    "BeerName": "LimeBerry",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Hattmakarens Bryggeri",
-    "Origin": "Mörarp, Skåne län Sweden",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 1675929,
+    "BeerName": "Wave Rye-der Session IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Rip Current Brewing Company",
+    "Origin": "San Marcos, CA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00
   }
 ]

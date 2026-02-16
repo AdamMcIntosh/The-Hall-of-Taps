@@ -1,252 +1,252 @@
 [
   {
-    "BID": "1667183",
-    "BeerName": "Drunken Farmer Saison",
-    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
-    "BreweryName": "Phillip Dickey",
+    "BID": 3337926,
+    "BeerName": "Rosetta",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Dageraad Brewing",
+    "Origin": "Burnaby, BC Canada",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5889,
+    "BeerName": "pb preisel&bier",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Brauerei Murau",
+    "Origin": "Murau, Steiermark Austria",
+    "BeerAbv": 2.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5890,
+    "BeerName": "Murauer Steirer Gold",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Brauerei Murau",
+    "Origin": "Murau, Steiermark Austria",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670736,
+    "BeerName": "Bourbon Barrel Oatmeal Stout",
+    "BeerStyle": "Homebrew, Stout - Oatmeal",
+    "BreweryName": "Wisjohnson Brewing",
     "Origin": "United States",
-    "BeerAbv": "11",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BeerAbv": 5.25,
+    "BeerIbu": 29.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "757",
-    "BeerName": "Belgian White",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "E9 Brewing Co.",
-    "Origin": "Tacoma, WA United States",
-    "BeerAbv": "4.1",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333844",
-    "BeerName": "Tê Tê So Co La Porter",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Tê Tê Brewing",
-    "Origin": "Da Kao, Thành phố Hồ Chí Minh Vietnam",
-    "BeerAbv": "5.8",
-    "BeerIbu": "20",
-    "HallRating": null
-  },
-  {
-    "BID": "1667184",
-    "BeerName": "Stone IPA (Virginia Brewery Prototype)",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "77",
-    "HallRating": null
-  },
-  {
-    "BID": "759",
-    "BeerName": "Thornton Creek Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Fish Brewing Company",
-    "Origin": "Olympia, WA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667185",
-    "BeerName": "Golden Mare",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Stable 12 Brewing Company",
-    "Origin": "Phoenixville, PA United States",
-    "BeerAbv": "4.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "3333845",
-    "BeerName": "Tê Tê Trippping Tripppel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Tê Tê Brewing",
-    "Origin": "Da Kao, Thành phố Hồ Chí Minh Vietnam",
-    "BeerAbv": "7.2",
-    "BeerIbu": "24",
-    "HallRating": null
-  },
-  {
-    "BID": "1667186",
-    "BeerName": "Red As Rain",
-    "BeerStyle": "Red Ale - Irish",
-    "BreweryName": "Big Storm Brewing Co.",
-    "Origin": "Clearwater, FL United States",
-    "BeerAbv": "5.1",
-    "BeerIbu": "23",
-    "HallRating": null
-  },
-  {
-    "BID": "3333846",
-    "BeerName": "Tê Tê Serious IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tê Tê Brewing",
-    "Origin": "Da Kao, Thành phố Hồ Chí Minh Vietnam",
-    "BeerAbv": "6.7",
-    "BeerIbu": "68",
-    "HallRating": null
-  },
-  {
-    "BID": "1667187",
-    "BeerName": "Baobab Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Fairport Brewing Company",
-    "Origin": "Fairport, NY United States",
-    "BeerAbv": "5",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "3333847",
-    "BeerName": "Soul Doubt Cryo NEIPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Einbar Brauerei Berlin",
-    "Origin": "Berlin, Germany",
-    "BeerAbv": "6",
-    "BeerIbu": "23",
-    "HallRating": null
-  },
-  {
-    "BID": "762",
-    "BeerName": "Fish Tale Winterfish",
-    "BeerStyle": "Winter Warmer",
-    "BreweryName": "Fish Brewing Company",
-    "Origin": "Olympia, WA United States",
-    "BeerAbv": "7.5",
-    "BeerIbu": "70",
-    "HallRating": null
-  },
-  {
-    "BID": "763",
-    "BeerName": "Fish Tale Mudshark Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Fish Brewing Company",
-    "Origin": "Olympia, WA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "24",
-    "HallRating": null
-  },
-  {
-    "BID": "1667188",
-    "BeerName": "Gare De La Plage",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Le Renard Microbrasserie",
-    "Origin": "Belo Horizonte, Minas Gerais Brazil",
-    "BeerAbv": "4.3",
-    "BeerIbu": "23",
-    "HallRating": null
-  },
-  {
-    "BID": "3333848",
-    "BeerName": "savanyü",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "hübris",
-    "Origin": "Hungary",
-    "BeerAbv": "3.6",
-    "BeerIbu": "8",
-    "HallRating": null
-  },
-  {
-    "BID": "764",
-    "BeerName": "Fish Tale Organic India Pale Ale (IPA)",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Fish Brewing Company",
-    "Origin": "Olympia, WA United States",
-    "BeerAbv": "6.7",
-    "BeerIbu": "42",
-    "HallRating": null
-  },
-  {
-    "BID": "765",
-    "BeerName": "Fish Tale Organic Wild Salmon Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Fish Brewing Company",
-    "Origin": "Olympia, WA United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "32",
-    "HallRating": null
-  },
-  {
-    "BID": "1667189",
-    "BeerName": "Hulk Smash",
+    "BID": 3337927,
+    "BeerName": "Viatmin C-trus Ale",
     "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Circle City Zymurgy",
-    "Origin": "Indianapolis, IN United States",
-    "BeerAbv": "5.3",
-    "BeerIbu": "62",
-    "HallRating": null
-  },
-  {
-    "BID": "3333849",
-    "BeerName": "Brown Ale",
-    "BeerStyle": "Brown Ale - Other",
-    "BreweryName": "Arena Beer House",
-    "Origin": "Kyiv, Київ Ukraine",
-    "BeerAbv": "0",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "766",
-    "BeerName": "Fish Tale Organic Red Ale",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Fish Brewing Company",
-    "Origin": "Olympia, WA United States",
-    "BeerAbv": "5",
-    "BeerIbu": "22",
-    "HallRating": null
-  },
-  {
-    "BID": "767",
-    "BeerName": "Leavenworth Blind Pig Dunkelweizen",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Fish Brewing Company",
-    "Origin": "Olympia, WA United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "1667190",
-    "BeerName": "Sunrise Delivery",
-    "BeerStyle": "Homebrew, IPA - Session",
-    "BreweryName": "Reynolds Brewing Co.",
+    "BreweryName": "John Gopel",
     "Origin": "United States",
-    "BeerAbv": "4",
-    "BeerIbu": "17",
-    "HallRating": null
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "3333850",
-    "BeerName": "Lagunitas Hop",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Lagunitas Brewing Company",
-    "Origin": "Petaluma, CA United States",
-    "BeerAbv": "0",
-    "BeerIbu": "5",
-    "HallRating": null
-  },
-  {
-    "BID": "768",
-    "BeerName": "Leavenworth Whistling Pig Hefeweizen",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Fish Brewing Company",
-    "Origin": "Olympia, WA United States",
-    "BeerAbv": "5.4",
-    "BeerIbu": "22",
-    "HallRating": null
-  },
-  {
-    "BID": "1667191",
-    "BeerName": "Crank It Hop - Experimental Hop HBC 342",
+    "BID": 1670738,
+    "BeerName": "Bear Gryll IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Imperial Oak Brewing",
-    "Origin": "Willow Springs, IL United States",
-    "BeerAbv": "6",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "YodBeer เบียร์หมี",
+    "Origin": "Thailand",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670754,
+    "BeerName": "Siam Blood Ale",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "YodBeer เบียร์หมี",
+    "Origin": "Thailand",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 5892,
+    "BeerName": "Donnybrook IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Donnybrook Home Brewery",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670469,
+    "BeerName": "Hoppy Endings IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Clemson Bros. Brewery",
+    "Origin": "Middletown, NY United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667116,
+    "BeerName": "OH Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Clemson Bros. Brewery",
+    "Origin": "Middletown, NY United States",
+    "BeerAbv": 7.25,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670823,
+    "BeerName": "The Pink Panther",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Twelve Rounds Brewing Company",
+    "Origin": "Sacramento, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670739,
+    "BeerName": "Pink Panther",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Twelve Rounds Brewing Company",
+    "Origin": "Sacramento, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670741,
+    "BeerName": "Kalamansi Gose",
+    "BeerStyle": "Sour - Traditional Gose",
+    "BreweryName": "4204 Main Street Brewing Company",
+    "Origin": "Belleville, IL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670758,
+    "BeerName": "Pineapple IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "4204 Main Street Brewing Company",
+    "Origin": "Belleville, IL United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 73.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3337936,
+    "BeerName": "Bavarian Hefeweizen 2019",
+    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
+    "BreweryName": "The Winchester Brewhouse",
+    "Origin": "United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670743,
+    "BeerName": "Althea's IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Gritty McDuff’s Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670919,
+    "BeerName": "Red Rye-der",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Gritty McDuff’s Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1673536,
+    "BeerName": "Black Fly Stout",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Gritty McDuff’s Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 6803,
+    "BeerName": "Black Fly Stout",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Gritty McDuff’s Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 7325,
+    "BeerName": "Red Claws Ale",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "Gritty McDuff’s Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8654,
+    "BeerName": "21 IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Gritty McDuff’s Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8011,
+    "BeerName": "Halloween Ale",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Gritty McDuff’s Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 8098,
+    "BeerName": "Best Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Gritty McDuff’s Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 9574,
+    "BeerName": "Christmas Ale",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Gritty McDuff’s Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 29.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1670748,
+    "BeerName": "Porter Alon (פורטר אלון)",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Negev Brewery (נגב)",
+    "Origin": "Kiryat Gat, South District Israel",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]

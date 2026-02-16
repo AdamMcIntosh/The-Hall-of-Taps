@@ -1,252 +1,252 @@
 [
   {
-    "BID": "4961604",
-    "BeerName": "Summer Saison (2022)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Third Window Brewing Company",
-    "Origin": "Santa Barbara, CA United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "27",
-    "HallRating": null
+    "BID": 1667739,
+    "BeerName": "Saccharophobic",
+    "BeerStyle": "Brown Ale - Other",
+    "BreweryName": "Doctor's Orders Brewing",
+    "Origin": "New South Wales, Australia",
+    "BeerAbv": 7.00,
+    "BeerIbu": 29.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981957",
-    "BeerName": "Bing Cherry Stout",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Local Relic Artisan Ales",
-    "Origin": "Colorado Springs, CO United States",
-    "BeerAbv": "6.9",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941245",
-    "BeerName": "Something Black",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "Esbjerg Bryghus",
-    "Origin": "Denmark",
-    "BeerAbv": "6.5",
-    "BeerIbu": "25",
-    "HallRating": null
-  },
-  {
-    "BID": "4961605",
-    "BeerName": "POG Red Ale",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Arkose Brewery",
-    "Origin": "Palmer, AK United States",
-    "BeerAbv": "6.3",
-    "BeerIbu": "24",
-    "HallRating": null
-  },
-  {
-    "BID": "4981958",
-    "BeerName": "Paint It Black RIS",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Zigurat",
-    "Origin": "Maipú, Región Metropolitana Chile",
-    "BeerAbv": "8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961606",
-    "BeerName": "The Local Cream",
-    "BeerStyle": "Cream Ale",
-    "BreweryName": "Okay Beer Company",
-    "Origin": "Honeoye Falls, NY United States",
-    "BeerAbv": "4.7",
-    "BeerIbu": "18",
-    "HallRating": null
-  },
-  {
-    "BID": "4961607",
-    "BeerName": "Screaming Thru Space",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Adobe Creek Brewing",
-    "Origin": "Novato, CA United States",
-    "BeerAbv": "6.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981959",
-    "BeerName": "Watermelon Basil",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Rad! Water",
-    "Origin": "Edmonton, AB Canada",
-    "BeerAbv": "5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941246",
-    "BeerName": "Fluid Dynamics",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Mr Winter's Beers",
-    "Origin": "Norwich, Norfolk England",
-    "BeerAbv": "3.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961608",
-    "BeerName": "Tempered Red",
-    "BeerStyle": "Red Ale - Other",
-    "BreweryName": "Angry Erik Brewing",
-    "Origin": "Newton, NJ United States",
-    "BeerAbv": "4.8",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4941247",
-    "BeerName": "Chai de l'Ermitage V3",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "L'Ermitage",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": "5.6",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981960",
-    "BeerName": "Green Outlaw St. Patricks Edition",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Tivoli Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": "4.2",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961609",
-    "BeerName": "Barrel Aged Color Me Curious",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Severance Brewing Company",
-    "Origin": "Sioux Falls, SD United States",
-    "BeerAbv": "7.9",
-    "BeerIbu": "12",
-    "HallRating": null
-  },
-  {
-    "BID": "4941248",
-    "BeerName": "PF-RT22",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Hoosier Brewing Co",
-    "Origin": "Greenwood, IN United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981961",
-    "BeerName": "Steady Cruisin'",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Rocky Ridge Brewing Co.",
-    "Origin": "Busselton, Western Australia Australia",
-    "BeerAbv": "5.5",
-    "BeerIbu": "35",
-    "HallRating": null
-  },
-  {
-    "BID": "4961610",
-    "BeerName": "Light Years",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Audio Graph Beer Co.",
-    "Origin": "Los Angeles, CA United States",
-    "BeerAbv": "5.8",
-    "BeerIbu": "30",
-    "HallRating": null
-  },
-  {
-    "BID": "4941249",
-    "BeerName": "Party Glasses Barrel-Aged Sour",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Sacred Waters Brewing Company",
-    "Origin": "Kalispell, MT United States",
-    "BeerAbv": "7.2",
-    "BeerIbu": "15",
-    "HallRating": null
-  },
-  {
-    "BID": "4981962",
-    "BeerName": "Rindless Watermelon Gose",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Hopworks Brewery",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": "5.2",
-    "BeerIbu": "5",
-    "HallRating": null
-  },
-  {
-    "BID": "4941250",
-    "BeerName": "Sour Cherry Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Sweeten Creek Brewing",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": "5.5",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4961611",
-    "BeerName": "Guy On the Couch - Ales For ALS",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Noon Whistle Brewing",
-    "Origin": "Naperville, IL United States",
-    "BeerAbv": "7.4",
-    "BeerIbu": "0",
-    "HallRating": null
-  },
-  {
-    "BID": "4981963",
-    "BeerName": "Maddie Hops",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Dog Beers Brewery",
+    "BID": 3334617,
+    "BeerName": "DDDIPA",
+    "BeerStyle": "Homebrew, IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Czarniak Brewery",
     "Origin": "United States",
-    "BeerAbv": "6.2",
-    "BeerIbu": "48",
-    "HallRating": null
+    "BeerAbv": 8.04,
+    "BeerIbu": 106.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961612",
-    "BeerName": "Fruit Flight Session Ale With Ginger & Lime",
+    "BID": 1667740,
+    "BeerName": "Gypsy IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Yet To Be Named Brewery",
+    "Origin": "Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334618,
+    "BeerName": "Morning Dew",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Envy Brewing",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1677121,
+    "BeerName": "Uiltje Bar Weizen Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Ramses Bier",
+    "Origin": "Hooge Zwaluwe, Noord-Brabant Netherlands",
+    "BeerAbv": 6.00,
+    "BeerIbu": 48.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1668116,
+    "BeerName": "Formiga Sauva",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Ramses Bier",
+    "Origin": "Hooge Zwaluwe, Noord-Brabant Netherlands",
+    "BeerAbv": 5.80,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4630909,
+    "BeerName": "Shire Stout Whisky Barrel (2011)",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Ramses Bier",
+    "Origin": "Hooge Zwaluwe, Noord-Brabant Netherlands",
+    "BeerAbv": 8.60,
+    "BeerIbu": 88.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4447017,
+    "BeerName": "Boergondisch Genieten",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Ramses Bier",
+    "Origin": "Hooge Zwaluwe, Noord-Brabant Netherlands",
+    "BeerAbv": 3.50,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667742,
+    "BeerName": "Call Me Hal",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Beer Haven Brewery",
+    "Origin": "New Zealand",
+    "BeerAbv": 6.80,
+    "BeerIbu": 54.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1667743,
+    "BeerName": "Late Summer Kilt Scottish 70, Nitro",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Foamers' Folly Brewing Co.",
+    "Origin": "Pitt Meadows, BC Canada",
+    "BeerAbv": 3.50,
+    "BeerIbu": 16.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338218,
+    "BeerName": "Amaretto Wild Sour Ale",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Foamers' Folly Brewing Co.",
+    "Origin": "Pitt Meadows, BC Canada",
+    "BeerAbv": 9.50,
+    "BeerIbu": 2.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3890474,
+    "BeerName": "Yarrow Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Foamers' Folly Brewing Co.",
+    "Origin": "Pitt Meadows, BC Canada",
+    "BeerAbv": 5.30,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338195,
+    "BeerName": "231",
+    "BeerStyle": "Table Beer",
+    "BreweryName": "Rake Beer Project",
+    "Origin": "Muskegon, MI United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338189,
+    "BeerName": "VIBES",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Rake Beer Project",
+    "Origin": "Muskegon, MI United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338193,
+    "BeerName": "Whispered Mantra (Simcoe)",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Rake Beer Project",
+    "Origin": "Muskegon, MI United States",
+    "BeerAbv": 3.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338186,
+    "BeerName": "Dying Day",
+    "BeerStyle": "Farmhouse Ale - Other",
+    "BreweryName": "Rake Beer Project",
+    "Origin": "Muskegon, MI United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3338197,
+    "BeerName": "231",
+    "BeerStyle": "Table Beer",
+    "BreweryName": "Rake Beer Project",
+    "Origin": "Muskegon, MI United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4445989,
+    "BeerName": "Bad Acid Joose",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Rake Beer Project",
+    "Origin": "Muskegon, MI United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334621,
+    "BeerName": "Whispered Mantra (Mosaic)",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Rake Beer Project",
+    "Origin": "Muskegon, MI United States",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 3334644,
+    "BeerName": "Dead & Dreaming",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Rake Beer Project",
+    "Origin": "Muskegon, MI United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 4961669,
+    "BeerName": "Mangonade Joose",
     "BeerStyle": "Fruit Beer",
-    "BreweryName": "Bell’s Brewery",
-    "Origin": "Comstock, MI United States",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BreweryName": "Rake Beer Project",
+    "Origin": "Muskegon, MI United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4941251",
-    "BeerName": "Sebastian Dunkel",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Privatbrauerei Wilhelm Ketterer",
-    "Origin": "Pforzheim, Baden-Württemberg Germany",
-    "BeerAbv": "5.4",
-    "BeerIbu": "10",
-    "HallRating": null
+    "BID": 1667744,
+    "BeerName": "Gruit Vibrations Dark",
+    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
+    "BreweryName": "Freigeist Bierkultur",
+    "Origin": "Stolberg, Nordrhein-Westfalen Germany",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4961613",
-    "BeerName": "Orangesicle Cream Ale",
-    "BeerStyle": "Cream Ale",
-    "BreweryName": "The Corkscrew",
-    "Origin": "Ocala, FL United States",
-    "BeerAbv": "4",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3337033,
+    "BeerName": "Agua de Valencia",
+    "BeerStyle": "Wheat Beer - Other",
+    "BreweryName": "Freigeist Bierkultur",
+    "Origin": "Stolberg, Nordrhein-Westfalen Germany",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   },
   {
-    "BID": "4981964",
-    "BeerName": "Mood: Relaxation",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Captain Lawrence Brewing Company",
-    "Origin": "Elmsford, NY United States",
-    "BeerAbv": "9",
-    "BeerIbu": "0",
-    "HallRating": null
+    "BID": 3334622,
+    "BeerName": "Quarter Horse Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Strange Colt Brewery",
+    "Origin": "Niceville, FL United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
+  },
+  {
+    "BID": 1675718,
+    "BeerName": "Judgment Day (2016)",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "The Lost Abbey",
+    "Origin": "San Marcos, CA United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00
   }
 ]
