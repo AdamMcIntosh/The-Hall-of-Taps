@@ -138,33 +138,33 @@
       })();
 
       function loadBreweryDropdown() {
-        var sel = document.getElementById('filter-breweries');
-        if (!sel || sel.tagName !== 'SELECT') return Promise.resolve();
+        var listEl = document.getElementById('brewery-datalist');
+        if (!listEl || listEl.tagName !== 'DATALIST') return Promise.resolve();
         return fetch(DATA + '/breweries/names.json', { cache: 'no-store' })
           .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load brewery names (' + r.status + ')')); })
           .then(function (names) {
             if (!Array.isArray(names)) names = [];
-            while (sel.options.length > 1) sel.remove(1);
+            listEl.innerHTML = '';
+            var fragment = document.createDocumentFragment();
             names.forEach(function (name) {
               try {
                 var s = name != null ? String(name) : '';
+                if (s === '') return;
                 var opt = document.createElement('option');
                 opt.value = s;
-                opt.textContent = s;
-                sel.appendChild(opt);
+                fragment.appendChild(opt);
               } catch (e) {
-                console.warn('Brewery dropdown: skip invalid name', name, e);
+                console.warn('Brewery datalist: skip invalid name', name, e);
               }
             });
+            listEl.appendChild(fragment);
           })
           .catch(function (err) {
-            console.warn('Brewery dropdown: could not load data/breweries/names.json', err);
-            while (sel.options.length > 1) sel.remove(1);
-            var opt = document.createElement('option');
-            opt.value = '';
-            opt.textContent = '(brewery list failed to load — serve site from repo root)';
-            opt.disabled = true;
-            sel.appendChild(opt);
+            console.warn('Brewery datalist: could not load data/breweries/names.json', err);
+            var inputEl = document.getElementById('filter-breweries');
+            if (inputEl && inputEl.placeholder !== undefined) {
+              inputEl.placeholder = 'Brewery list failed to load — serve site from repo root';
+            }
           });
       }
 
@@ -361,7 +361,10 @@
         });
         if (quickSearch) quickSearch.addEventListener('input', function () { applyFiltersAndRender(); });
         var filterBreweries = document.getElementById('filter-breweries');
-        if (filterBreweries) filterBreweries.addEventListener('change', function () { applyFiltersAndRender(); });
+        if (filterBreweries) {
+          filterBreweries.addEventListener('change', function () { applyFiltersAndRender(); });
+          filterBreweries.addEventListener('input', function () { applyFiltersAndRender(); });
+        }
         if (abvMin) abvMin.addEventListener('change', function () { applyFiltersAndRender(); });
         if (abvMax) abvMax.addEventListener('change', function () { applyFiltersAndRender(); });
         if (barMin) barMin.addEventListener('change', function () { applyFiltersAndRender(); });
@@ -380,22 +383,7 @@
         .then(function () {
           if (breweryParam) {
             var fb = document.getElementById('filter-breweries');
-            if (fb) {
-              var found = false;
-              for (var i = 0; i < fb.options.length; i++) {
-                if (fb.options[i].value === breweryParam) {
-                  found = true;
-                  break;
-                }
-              }
-              if (!found) {
-                var opt = document.createElement('option');
-                opt.value = breweryParam;
-                opt.textContent = breweryParam;
-                fb.appendChild(opt);
-              }
-              fb.value = breweryParam;
-            }
+            if (fb) fb.value = breweryParam;
           }
           readFiltersFromDOM();
           applyFiltersAndRender();
@@ -415,22 +403,7 @@
               if (!brewery) return;
               e.preventDefault();
               var fb = document.getElementById('filter-breweries');
-              if (fb) {
-                var found = false;
-                for (var i = 0; i < fb.options.length; i++) {
-                  if (fb.options[i].value === brewery) {
-                    found = true;
-                    break;
-                  }
-                }
-                if (!found) {
-                  var opt = document.createElement('option');
-                  opt.value = brewery;
-                  opt.textContent = brewery;
-                  fb.appendChild(opt);
-                }
-                fb.value = brewery;
-              }
+              if (fb) fb.value = brewery;
               if (window.history && window.history.replaceState) {
                 window.history.replaceState({}, '', '?brewery=' + encodeURIComponent(brewery));
               }

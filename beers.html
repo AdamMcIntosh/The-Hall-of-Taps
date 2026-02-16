@@ -30,10 +30,10 @@
           </div>
           <div class="filter-group filter-group--equal">
             <label for="filter-breweries" class="filter-label">Brewery</label>
-            <select id="filter-breweries" class="filter-select filter-select--brewery" aria-label="Filter by brewery">
-              <option value="">All breweries</option>
+            <input type="text" id="filter-breweries" list="brewery-datalist" class="filter-input" placeholder="All breweries or type to search" aria-label="Filter by brewery" autocomplete="off">
+            <datalist id="brewery-datalist">
               <!-- Populated from data/breweries/names.json -->
-            </select>
+            </datalist>
           </div>
           <div class="filter-group filter-group--equal">
             <label for="filter-styles" class="filter-label">Styles <span class="filter-label-hint">(20 max)</span></label>
@@ -93,18 +93,6 @@
                 <option value="50">50.0</option>
               </select>
             </div>
-          </div>
-          <div class="filter-group">
-            <label for="filter-popularity" class="filter-label">Popularity</label>
-            <select id="filter-popularity" class="filter-select" aria-label="Popularity">
-              <option value="all">All beers</option>
-            </select>
-          </div>
-          <div class="filter-group">
-            <label for="filter-regions" class="filter-label">Regions</label>
-            <select id="filter-regions" class="filter-select" aria-label="Regions">
-              <option value="">---</option>
-            </select>
           </div>
           <div class="filter-group filter-group--actions">
             <button type="button" class="btn btn--primary btn--nowrap" id="filter-apply" aria-label="Apply filters">
