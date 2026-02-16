@@ -214,7 +214,17 @@
         var originText = escapeHtml(m.Origin || m.BreweryLocation || '');
         var styleHref = 'beers.html?style=' + encodeURIComponent(m.BeerStyle || '');
         var stylePlusText = (m.StylePlus != null && m.StylePlus !== '') ? m.StylePlus : '—';
-        return '<tr><td class="beers-col-num">' + rowNum + '</td><td><a href="' + beerLink + '">' + escapeHtml(m.BeerName || '') + '</a></td><td><a href="' + styleHref + '">' + styleText + '</a></td><td><a href="' + breweryHref + '">' + breweryText + '</a></td><td><a href="beers.html">' + originText + '</a></td><td>' + (m.BeerAbv != null && m.BeerAbv !== '' ? m.BeerAbv : '—') + '</td><td>' + stylePlusText + '</td><td>' + (m.HallRating != null && m.HallRating !== '' ? m.HallRating : '—') + '</td></tr>';
+        var abvText = (m.BeerAbv != null && m.BeerAbv !== '') ? m.BeerAbv : '—';
+        var tapText = (m.HallRating != null && m.HallRating !== '') ? m.HallRating : '—';
+        return '<tr class="beer-card-row">' +
+          '<td class="beers-col-num" data-label="#">' + rowNum + '</td>' +
+          '<td data-label="Beer"><a href="' + beerLink + '">' + escapeHtml(m.BeerName || '') + '</a></td>' +
+          '<td data-label="Style"><a href="' + styleHref + '">' + styleText + '</a></td>' +
+          '<td data-label="Brewery"><a href="' + breweryHref + '">' + breweryText + '</a></td>' +
+          '<td data-label="Origin"><a href="beers.html">' + originText + '</a></td>' +
+          '<td data-label="ABV">' + abvText + '</td>' +
+          '<td data-label="Style+">' + stylePlusText + '</td>' +
+          '<td data-label="TAP">' + tapText + '</td></tr>';
       }
 
       function applyFilters(chunk) {

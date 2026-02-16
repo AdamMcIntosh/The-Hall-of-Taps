@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>How we rate our beers – Hall of Taps</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
   <link rel="stylesheet" href="css/site.css">
   <style>
     .primer-formula { display: block; margin: 0.5rem 0 1rem; font-family: ui-monospace, monospace; font-size: 0.95rem; }
@@ -20,19 +21,27 @@
   </style>
 </head>
 <body>
-  <nav class="main-nav">
-    <div class="nav-inner">
-      <a href="index.html" class="logo">Hall of Taps</a>
-      <ul class="nav-links">
-        <li><a href="beers.html">Rated Beers</a></li>
-        <li><a href="welcome.html">Welcome</a></li>
-        <li><a href="math-primer.html">How we rate</a></li>
-        <li><a href="about.html">About</a></li>
-      </ul>
+  <nav class="navbar main-nav" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a href="index.html" class="navbar-item logo">Hall of Taps</a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="halloftaps-navbar-menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="halloftaps-navbar-menu" class="navbar-menu">
+      <div class="navbar-end">
+        <a href="beers.html" class="navbar-item">Rated Beers</a>
+        <a href="welcome.html" class="navbar-item">Welcome</a>
+        <a href="math-primer.html" class="navbar-item">How we rate</a>
+        <a href="about.html" class="navbar-item">About</a>
+      </div>
     </div>
     <div class="nav-divider"></div>
   </nav>
-  <div class="wrap">
+  <div class="section">
+    <div class="container">
     <h1 class="page-title">How we rate our beers</h1>
     <p>
       This page explains how we measure beer quality and popularity so that highly rated beers with few check-ins can be compared fairly to widely distributed beers with tens of thousands of ratings. The system is inspired by baseball’s Wins Above Replacement (WAR). The metrics <strong>wOBAR</strong> (weighted Overall Beer Average Rating) and <strong>Beers Above Replacement (BAR)</strong> originated from <a href="https://beergraphs.com/">Beergraphs.com</a>; we use and extend that framework here.
@@ -211,6 +220,19 @@
       </ul>
       <p>This formulation keeps the Hall of Taps math consistent across the site and any backend calculations.</p>
     </section>
+    </div>
   </div>
+  <script>
+    document.querySelectorAll('.navbar-burger').forEach(function (el) {
+      el.addEventListener('click', function () {
+        var targetId = this.getAttribute('data-target');
+        var target = targetId ? document.getElementById(targetId) : null;
+        if (target) {
+          this.classList.toggle('is-active');
+          target.classList.toggle('is-active');
+        }
+      });
+    });
+  </script>
 </body>
 </html>
