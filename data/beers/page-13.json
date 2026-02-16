@@ -7,6 +7,7 @@
     "Origin": "Enterprise, OR United States",
     "BeerAbv": 7.10,
     "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1075_d117f_sm.jpeg",
     "HallRating": 15.57,
     "BAR": 9.92,
     "StylePlus": "104"
@@ -19,6 +20,7 @@
     "Origin": "Fort Collins, CO United States",
     "BeerAbv": 8.10,
     "BeerIbu": 48.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12075_fec21_sm.jpeg",
     "HallRating": 15.56,
     "BAR": 9.90,
     "StylePlus": "106"
@@ -31,6 +33,7 @@
     "Origin": "Stromness, Orkney Islands Scotland",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1200_b9705_sm.jpeg",
     "HallRating": 15.56,
     "BAR": 9.90,
     "StylePlus": "106"
@@ -43,6 +46,7 @@
     "Origin": "San Antonio, TX United States",
     "BeerAbv": 5.80,
     "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11738_d36d6_sm.jpeg",
     "HallRating": 15.56,
     "BAR": 9.91,
     "StylePlus": "110"
@@ -55,6 +59,7 @@
     "Origin": "Victor, ID United States",
     "BeerAbv": 8.00,
     "BeerIbu": 117.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10400_3461b_sm.jpeg",
     "HallRating": 15.56,
     "BAR": 9.91,
     "StylePlus": "101"
@@ -67,6 +72,7 @@
     "Origin": "Torrechiara, Emilia-Romagna Italy",
     "BeerAbv": 8.00,
     "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PanilBarriquee_11659.jpeg",
     "HallRating": 15.55,
     "BAR": 9.89,
     "StylePlus": "103"
@@ -79,6 +85,7 @@
     "Origin": "Sheffield, South Yorkshire England",
     "BeerAbv": 4.10,
     "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10892_9b485_sm.jpeg",
     "HallRating": 15.54,
     "BAR": 9.88,
     "StylePlus": "109"
@@ -91,6 +98,7 @@
     "Origin": "Titting, Bayern Germany",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12473_cefbc_sm.jpeg",
     "HallRating": 15.54,
     "BAR": 9.87,
     "StylePlus": "109"
@@ -103,6 +111,7 @@
     "Origin": "Ashland, WI United States",
     "BeerAbv": 5.80,
     "BeerIbu": 17.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1059_6932d_sm.jpeg",
     "HallRating": 15.54,
     "BAR": 9.88,
     "StylePlus": "111"
@@ -115,6 +124,7 @@
     "Origin": "Chico, CA United States",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-OvilaAbbeyDubbel_11816.jpeg",
     "HallRating": 15.54,
     "BAR": 9.88,
     "StylePlus": "107"
@@ -127,6 +137,7 @@
     "Origin": "Temecula, CA United States",
     "BeerAbv": 7.50,
     "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10657_4d69b_sm.jpeg",
     "HallRating": 15.54,
     "BAR": 9.88,
     "StylePlus": "103"
@@ -139,6 +150,7 @@
     "Origin": "New York, NY United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-FarmerJonsOatmealStout_10970.jpeg",
     "HallRating": 15.53,
     "BAR": 9.86,
     "StylePlus": "104"
@@ -151,6 +163,7 @@
     "Origin": "Downingtown, PA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1326_4578e.jpeg",
     "HallRating": 15.53,
     "BAR": 3.08,
     "StylePlus": "111"
@@ -163,6 +176,7 @@
     "Origin": "Durango, CO United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SkaBrewingCompany_1150.jpeg",
     "HallRating": 15.53,
     "BAR": 3.08,
     "StylePlus": "105"
@@ -175,6 +189,7 @@
     "Origin": "San Diego, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-404_4dbae.jpeg",
     "HallRating": 15.53,
     "BAR": 3.08,
     "StylePlus": "104"
@@ -187,6 +202,7 @@
     "Origin": "Oceanport, NJ United States",
     "BeerAbv": 3.70,
     "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-HometownBeveragesBrewingCo_15094_3db18.jpeg",
     "HallRating": 15.53,
     "BAR": 3.08,
     "StylePlus": "98"
@@ -199,6 +215,7 @@
     "Origin": "Boise, ID United States",
     "BeerAbv": 6.20,
     "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1171572_1f05b_sm.jpeg",
     "HallRating": 15.53,
     "BAR": 9.86,
     "StylePlus": "104"
@@ -211,6 +228,7 @@
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 8.50,
     "BeerIbu": 95.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12316_be783_sm.jpeg",
     "HallRating": 15.53,
     "BAR": 9.85,
     "StylePlus": "101"
@@ -223,6 +241,7 @@
     "Origin": "Launceston, Tasmania Australia",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-19249_66111.jpeg",
     "HallRating": 15.53,
     "BAR": 3.08,
     "StylePlus": "107"
@@ -235,6 +254,7 @@
     "Origin": "Leipzig, Sachsen Germany",
     "BeerAbv": 3.10,
     "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_10251_sm_472538136c3a10f091462980e088ff.jpeg",
     "HallRating": 15.52,
     "BAR": 9.85,
     "StylePlus": "105"
@@ -247,6 +267,7 @@
     "Origin": "Bloomington, IN United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12197_8fbee_sm.jpeg",
     "HallRating": 15.52,
     "BAR": 9.85,
     "StylePlus": "102"
@@ -259,6 +280,7 @@
     "Origin": "Kansas City, MO United States",
     "BeerAbv": 9.50,
     "BeerIbu": 42.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_12189_sm_00a4aa17c11ad5c05f715a7d783d93.jpeg",
     "HallRating": 15.51,
     "BAR": 9.83,
     "StylePlus": "102"
@@ -271,6 +293,7 @@
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 6.40,
     "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10466_647fd_sm.jpeg",
     "HallRating": 15.51,
     "BAR": 9.83,
     "StylePlus": "110"
@@ -283,6 +306,7 @@
     "Origin": "Seattle, WA United States",
     "BeerAbv": 6.70,
     "BeerIbu": 62.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10083_054a0_sm.jpeg",
     "HallRating": 15.51,
     "BAR": 9.83,
     "StylePlus": "104"
@@ -295,6 +319,7 @@
     "Origin": "Houston, TX United States",
     "BeerAbv": 5.60,
     "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WinterStout_11117.jpeg",
     "HallRating": 15.50,
     "BAR": 9.81,
     "StylePlus": "103"
