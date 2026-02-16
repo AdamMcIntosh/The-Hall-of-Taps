@@ -118,15 +118,15 @@
         var fs = document.getElementById('filter-styles');
         var abvMinEl = document.getElementById('abv-min');
         var abvMaxEl = document.getElementById('abv-max');
-        var barMinEl = document.getElementById('bar-min');
-        var barMaxEl = document.getElementById('bar-max');
+        var tapMinEl = document.getElementById('tap-min');
+        var tapMaxEl = document.getElementById('tap-max');
         filters.q = quickSearch ? quickSearch.value.trim() : '';
         filters.breweries = fb && fb.value ? fb.value.trim() : '';
         filters.styles = fs ? fs.value.trim() : '';
         filters.abvMin = abvMinEl ? abvMinEl.value : '';
         filters.abvMax = abvMaxEl ? abvMaxEl.value : '';
-        filters.barMin = barMinEl ? barMinEl.value : '';
-        filters.barMax = barMaxEl ? barMaxEl.value : '';
+        filters.barMin = tapMinEl ? tapMinEl.value : '';
+        filters.barMax = tapMaxEl ? tapMaxEl.value : '';
       }
 
       var breweryParam = (function () {
@@ -214,7 +214,17 @@
         var originText = escapeHtml(m.Origin || m.BreweryLocation || '');
         var styleHref = 'beers.html?style=' + encodeURIComponent(m.BeerStyle || '');
         var stylePlusText = (m.StylePlus != null && m.StylePlus !== '') ? m.StylePlus : '—';
-        return '<tr><td class="beers-col-num">' + rowNum + '</td><td><a href="' + beerLink + '">' + escapeHtml(m.BeerName || '') + '</a></td><td><a href="' + styleHref + '">' + styleText + '</a></td><td><a href="' + breweryHref + '">' + breweryText + '</a></td><td><a href="beers.html">' + originText + '</a></td><td>' + (m.BeerAbv != null && m.BeerAbv !== '' ? m.BeerAbv : '—') + '</td><td>' + stylePlusText + '</td><td>' + (m.HallRating != null && m.HallRating !== '' ? m.HallRating : '—') + '</td></tr>';
+        var abvText = (m.BeerAbv != null && m.BeerAbv !== '') ? m.BeerAbv : '—';
+        var tapText = (m.HallRating != null && m.HallRating !== '') ? m.HallRating : '—';
+        return '<tr class="beer-card-row">' +
+          '<td class="beers-col-num" data-label="#">' + rowNum + '</td>' +
+          '<td data-label="Beer"><a href="' + beerLink + '">' + escapeHtml(m.BeerName || '') + '</a></td>' +
+          '<td data-label="Style"><a href="' + styleHref + '">' + styleText + '</a></td>' +
+          '<td data-label="Brewery"><a href="' + breweryHref + '">' + breweryText + '</a></td>' +
+          '<td data-label="Origin"><a href="beers.html">' + originText + '</a></td>' +
+          '<td data-label="ABV">' + abvText + '</td>' +
+          '<td data-label="Style+">' + stylePlusText + '</td>' +
+          '<td data-label="TAP">' + tapText + '</td></tr>';
       }
 
       function applyFilters(chunk) {
@@ -379,8 +389,8 @@
         var quickSearch = document.getElementById('quick-search');
         var abvMin = document.getElementById('abv-min');
         var abvMax = document.getElementById('abv-max');
-        var barMin = document.getElementById('bar-min');
-        var barMax = document.getElementById('bar-max');
+        var tapMin = document.getElementById('tap-min');
+        var tapMax = document.getElementById('tap-max');
         var btnApply = document.getElementById('filter-apply');
         var btnReset = document.getElementById('filter-reset');
         function readFilters() {
@@ -393,8 +403,8 @@
           var fs = document.getElementById('filter-styles'); if (fs) fs.value = '';
           if (abvMin) abvMin.value = '0';
           if (abvMax) abvMax.value = '25';
-          if (barMin) barMin.value = '-15';
-          if (barMax) barMax.value = '';
+          if (tapMin) tapMin.value = '-15';
+          if (tapMax) tapMax.value = '';
           readFilters();
           applyFiltersAndRender();
           if (window.history && window.history.replaceState) {
@@ -414,8 +424,8 @@
         }
         if (abvMin) abvMin.addEventListener('change', function () { applyFiltersAndRender(); });
         if (abvMax) abvMax.addEventListener('change', function () { applyFiltersAndRender(); });
-        if (barMin) barMin.addEventListener('change', function () { applyFiltersAndRender(); });
-        if (barMax) barMax.addEventListener('change', function () { applyFiltersAndRender(); });
+        if (tapMin) tapMin.addEventListener('change', function () { applyFiltersAndRender(); });
+        if (tapMax) tapMax.addEventListener('change', function () { applyFiltersAndRender(); });
       }
 
       fetch(DATA + '/beers/meta.json', { cache: 'no-store' })

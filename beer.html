@@ -4,26 +4,49 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Beer – Hall of Taps</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
   <link rel="stylesheet" href="css/site.css">
 </head>
 <body>
-  <nav class="main-nav">
-    <div class="nav-inner">
-      <a href="index.html" class="logo">Hall of Taps</a>
-      <ul class="nav-links">
-        <li><a href="beers.html">Rated Beers</a></li>
-        <li><a href="welcome.html">Welcome</a></li>
-        <li><a href="about.html">About</a></li>
-      </ul>
+  <nav class="navbar main-nav" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a href="index.html" class="navbar-item logo">Hall of Taps</a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="halloftaps-navbar-menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div id="halloftaps-navbar-menu" class="navbar-menu">
+      <div class="navbar-end">
+        <a href="beers.html" class="navbar-item">Rated Beers</a>
+        <a href="welcome.html" class="navbar-item">Welcome</a>
+        <a href="math-primer.html" class="navbar-item">How we rate</a>
+        <a href="about.html" class="navbar-item">About</a>
+      </div>
     </div>
     <div class="nav-divider"></div>
   </nav>
-  <div class="wrap beer-detail-wrap">
+  <div class="section">
+    <div class="container beer-detail-wrap">
     <div id="beer-detail">
       <p class="loading">Loading beer…</p>
     </div>
+    </div>
   </div>
   <script src="js/site.js"></script>
+  <script>
+    document.querySelectorAll('.navbar-burger').forEach(function (el) {
+      el.addEventListener('click', function () {
+        var targetId = this.getAttribute('data-target');
+        var target = targetId ? document.getElementById(targetId) : null;
+        if (target) {
+          this.classList.toggle('is-active');
+          target.classList.toggle('is-active');
+        }
+      });
+    });
+  </script>
   <script>
     (function () {
       var id;
