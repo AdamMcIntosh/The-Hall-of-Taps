@@ -1,173 +1,63 @@
 [
   {
-    "BID": 3341888,
-    "BeerName": "Anniversary Beer",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Good Knight Brewery",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "BID": 2009,
+    "BeerName": "Redwood Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Paskenta Mad River Brewing Company",
+    "Origin": "Blue Lake, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 36.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
-    "BID": 3342045,
-    "BeerName": "Lemon Shandy",
-    "BeerStyle": "Homebrew, Shandy / Radler",
-    "BreweryName": "Good Knight Brewery",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341889,
-    "BeerName": "Маракуйя",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Shagov'S Brewing Co.",
-    "Origin": "Lyubertsy, Московская область Russia",
-    "BeerAbv": 8.50,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674554,
-    "BeerName": "Hop Stupid Mosaic",
-    "BeerStyle": "Homebrew, IPA - Session",
-    "BreweryName": "Stumblen' Dog Brewery",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341890,
-    "BeerName": "Dirty Blonde Triple",
-    "BeerStyle": "Homebrew, Belgian Tripel",
-    "BreweryName": "Poseidon's Brewery",
-    "Origin": "United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674555,
-    "BeerName": "TsemppiHefe",
-    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
-    "BreweryName": "Kuraparta Brewing Co.",
-    "Origin": "Finland",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674558,
-    "BeerName": "Glamarillo",
-    "BeerStyle": "Homebrew, IPA - Session",
-    "BreweryName": "Palm and Pine Brewing (Florida)",
-    "Origin": "United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 63.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674570,
-    "BeerName": "Full Moon Rye'it",
-    "BeerStyle": "Homebrew, Rye Beer",
-    "BreweryName": "Palm and Pine Brewing (Florida)",
-    "Origin": "United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 55.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3333981,
-    "BeerName": "Колос Барное",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Borinskoe (Боринское)",
-    "Origin": "Borinskoye, Липецкая область Russia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674561,
-    "BeerName": "Cherry Cider House Rules",
-    "BeerStyle": "Homebrew, Cider - Traditional / Apfelwein",
-    "BreweryName": "Shuttlecock Brewers",
-    "Origin": "United States",
-    "BeerAbv": 8.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341899,
-    "BeerName": "Cashin' Czech Pilsner",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Dalton Brewing Company",
-    "Origin": "Dalton, GA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 38.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341903,
-    "BeerName": "Pitayana",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Brasserie Générale (No longer in business)",
-    "Origin": "Québec, QC Canada",
-    "BeerAbv": 5.80,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675657,
-    "BeerName": "Brumaire",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "Brasserie Générale (No longer in business)",
-    "Origin": "Québec, QC Canada",
-    "BeerAbv": 8.50,
-    "BeerIbu": 18.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674569,
-    "BeerName": "Jolimeau",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Brasserie Jolimont",
-    "Origin": "Switzerland",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341907,
-    "BeerName": "Dankish",
-    "BeerStyle": "Homebrew, IPA - Imperial / Double",
-    "BreweryName": "Craft Brews Supplies",
-    "Origin": "Wyoming, RI United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341908,
-    "BeerName": "English Pale Ale",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Swans Brewery, Pub & Hotel",
-    "Origin": "Victoria, BC Canada",
-    "BeerAbv": 5.60,
-    "BeerIbu": 26.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674572,
-    "BeerName": "Negra",
+    "BID": 2021,
+    "BeerName": "Uniontown Porter",
     "BeerStyle": "Porter - Other",
-    "BreweryName": "Chata",
-    "Origin": "Camas, Andalucía Spain",
-    "BeerAbv": 6.00,
+    "BreweryName": "Paskenta Mad River Brewing Company",
+    "Origin": "Blue Lake, CA United States",
+    "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 3337566,
+    "BeerName": "Red Rum",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Paskenta Mad River Brewing Company",
+    "Origin": "Blue Lake, CA United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 1668082,
+    "BeerName": "New England IPA",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Kovach Brew Works",
+    "Origin": "United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1667343,
+    "BeerName": "Mean Old Tom",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Maine Beer Company",
+    "Origin": "Freeport, ME United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 11620,
@@ -177,7 +67,9 @@
     "Origin": "The Rocks, New South Wales Australia",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 3334233,
@@ -187,7 +79,9 @@
     "Origin": "Spain",
     "BeerAbv": 4.00,
     "BeerIbu": 135.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3334246,
@@ -197,7 +91,9 @@
     "Origin": "Spain",
     "BeerAbv": 2.40,
     "BeerIbu": 120.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1674885,
@@ -207,7 +103,9 @@
     "Origin": "Northern Ireland",
     "BeerAbv": 3.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3342228,
@@ -217,7 +115,9 @@
     "Origin": "Houston, TX United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3342233,
@@ -227,7 +127,9 @@
     "Origin": "Houston, TX United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
     "BID": 3343164,
@@ -237,7 +139,9 @@
     "Origin": "Houston, TX United States",
     "BeerAbv": 8.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3343141,
@@ -247,6 +151,152 @@
     "Origin": "Houston, TX United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3343181,
+    "BeerName": "Imperfect Citrus Cyser",
+    "BeerStyle": "Mead - Cyser",
+    "BreweryName": "Houston Cider Company",
+    "Origin": "Houston, TX United States",
+    "BeerAbv": 18.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674890,
+    "BeerName": "Framboise",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Une Année Brewery",
+    "Origin": "Niles, IL United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 1.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 1674891,
+    "BeerName": "Ouais",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Une Année Brewery",
+    "Origin": "Niles, IL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 1.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 1674888,
+    "BeerName": "Pêche",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Une Année Brewery",
+    "Origin": "Niles, IL United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 1.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 13869,
+    "BeerName": "Strong Back Stout",
+    "BeerStyle": "Stout - Foreign / Export",
+    "BreweryName": "Bahamian Brewery & Beverage Co.",
+    "Origin": "Freeport, Bahamas",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "81"
+  },
+  {
+    "BID": 3342316,
+    "BeerName": "Huckleberry",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Boathouse Beverage Co.",
+    "Origin": "Norwalk, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342251,
+    "BeerName": "Raspberry",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Boathouse Beverage Co.",
+    "Origin": "Norwalk, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674908,
+    "BeerName": "The Bones",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Bryggerifabriken",
+    "Origin": "Karlskrona, Blekinge län Sweden",
+    "BeerAbv": 6.60,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 1674909,
+    "BeerName": "NC-17",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Hop Religion",
+    "Origin": "United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342343,
+    "BeerName": "Misslyckande #2",
+    "BeerStyle": "Homebrew, IPA - Milkshake",
+    "BreweryName": "Bunny Hops",
+    "Origin": "Sweden",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342253,
+    "BeerName": "Jag Gillar Nya Matte Som Dricker öl Istället För Cola",
+    "BeerStyle": "Homebrew, IPA - Imperial / Double",
+    "BreweryName": "Bunny Hops",
+    "Origin": "Sweden",
+    "BeerAbv": 8.70,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342254,
+    "BeerName": "You're One In A Melon Wheat",
+    "BeerStyle": "Wheat Beer - Other",
+    "BreweryName": "Canyon Ferry Brewing Company",
+    "Origin": "Townsend, MT United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 11.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   }
 ]

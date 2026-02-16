@@ -1,95 +1,5 @@
 [
   {
-    "BID": 8866,
-    "BeerName": "Yellow Hammer",
-    "BeerStyle": "Blonde / Golden Ale - English",
-    "BreweryName": "Hanlons Brewery",
-    "Origin": "Newton Saint Cyres, Devon England",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3343937,
-    "BeerName": "Witz Up",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "2nd Bridge Brewing Co.",
-    "Origin": "Manchester, CT United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3343938,
-    "BeerName": "Witz Up",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "2nd Bridge Brewing Co.",
-    "Origin": "Manchester, CT United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339705,
-    "BeerName": "Hazel's Nut Brown Ale",
-    "BeerStyle": "Brown Ale - Other",
-    "BreweryName": "2nd Bridge Brewing Co.",
-    "Origin": "Manchester, CT United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672405,
-    "BeerName": "Sauerlump",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Hawidere",
-    "Origin": "Vienna, Wien Austria",
-    "BeerAbv": 3.00,
-    "BeerIbu": 6.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339706,
-    "BeerName": "General Nelson",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Brasserie La Bouquine",
-    "Origin": "Courlandon, Grand Est France",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8270,
-    "BeerName": "WEDNESDAY Wheat Beer",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "AND UNION",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672406,
-    "BeerName": "Poldark Ale",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Cribbar",
-    "Origin": "England",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8271,
-    "BeerName": "Fest Beer",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Mountaineer Brewing Company",
-    "Origin": "Martinsburg, WV United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 3339708,
     "BeerName": "#1",
     "BeerStyle": "Homebrew, IPA - Imperial / Double",
@@ -97,7 +7,9 @@
     "Origin": "Norway",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672411,
@@ -107,7 +19,9 @@
     "Origin": "United States",
     "BeerAbv": 3.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3333871,
@@ -117,7 +31,9 @@
     "Origin": "Taunton, Somerset England",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "81"
   },
   {
     "BID": 4960802,
@@ -127,7 +43,9 @@
     "Origin": "Taunton, Somerset England",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
   },
   {
     "BID": 3339712,
@@ -137,7 +55,9 @@
     "Origin": "Cambridge, ON Canada",
     "BeerAbv": 5.90,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 3339714,
@@ -147,7 +67,9 @@
     "Origin": "Netherlands",
     "BeerAbv": 12.60,
     "BeerIbu": 84.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672413,
@@ -157,7 +79,9 @@
     "Origin": "Bennington, VT United States",
     "BeerAbv": 4.70,
     "BeerIbu": 55.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   },
   {
     "BID": 10163,
@@ -167,7 +91,9 @@
     "Origin": "Bennington, VT United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 13448,
@@ -177,7 +103,9 @@
     "Origin": "Reedham, Norfolk England",
     "BeerAbv": 4.90,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "93"
   },
   {
     "BID": 3339715,
@@ -187,7 +115,9 @@
     "Origin": "Reedham, Norfolk England",
     "BeerAbv": 3.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3339737,
@@ -197,7 +127,9 @@
     "Origin": "Reedham, Norfolk England",
     "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3340956,
@@ -207,7 +139,9 @@
     "Origin": "Reedham, Norfolk England",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672414,
@@ -217,7 +151,9 @@
     "Origin": "United States",
     "BeerAbv": 5.10,
     "BeerIbu": 80.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672415,
@@ -227,7 +163,9 @@
     "Origin": "Overton, Hampshire England",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
   },
   {
     "BID": 3339717,
@@ -237,7 +175,9 @@
     "Origin": "Warren, OH United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 14015,
@@ -247,6 +187,116 @@
     "Origin": "Houston, Renfrewshire Scotland",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 8286,
+    "BeerName": "Killellan",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Houston",
+    "Origin": "Houston, Renfrewshire Scotland",
+    "BeerAbv": 3.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
+  },
+  {
+    "BID": 3339718,
+    "BeerName": "L'Enjoleuse",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "Microbrasserie La Shed",
+    "Origin": "Donnacona, QC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 3344003,
+    "BeerName": "Blanche Aux Framboises",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Microbrasserie La Shed",
+    "Origin": "Donnacona, QC Canada",
+    "BeerAbv": 5.50,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 3344030,
+    "BeerName": "Domagaya",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Microbrasserie La Shed",
+    "Origin": "Donnacona, QC Canada",
+    "BeerAbv": 6.50,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1672417,
+    "BeerName": "Scipa",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Delphin Microbirrificcio",
+    "Origin": "Selva, Abruzzo Italy",
+    "BeerAbv": 5.50,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 2385,
+    "BeerName": "Super Natural IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Hawks Brewing",
+    "Origin": "Roseburg, OR United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 2551,
+    "BeerName": "Super Natural ESB",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Hawks Brewing",
+    "Origin": "Roseburg, OR United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 803,
+    "BeerName": "Super Natural Oatmeal Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Hawks Brewing",
+    "Origin": "Roseburg, OR United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 807,
+    "BeerName": "Imperial Gold Malt Liquor",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Hawks Brewing",
+    "Origin": "Roseburg, OR United States",
+    "BeerAbv": 9.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

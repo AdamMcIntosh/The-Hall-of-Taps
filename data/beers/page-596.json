@@ -1,15 +1,5 @@
 [
   {
-    "BID": 1673663,
-    "BeerName": "Juiciest Galaxy",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Social Kitchen & Brewery",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 35.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 1675770,
     "BeerName": "None of the Above",
     "BeerStyle": "Farmhouse Ale - Saison",
@@ -17,27 +7,9 @@
     "Origin": "Philadelphia, PA United States",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675635,
-    "BeerName": "None of the Above",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Earth Bread + Brewery",
-    "Origin": "Philadelphia, PA United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9185,
-    "BeerName": "Sedgwick IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Earth Bread + Brewery",
-    "Origin": "Philadelphia, PA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 1673079,
@@ -47,7 +19,9 @@
     "Origin": "Ecuador",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3340410,
@@ -57,7 +31,9 @@
     "Origin": "Charleston, SC United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
   },
   {
     "BID": 3340411,
@@ -67,7 +43,9 @@
     "Origin": "St Louis, MO United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1673081,
@@ -77,17 +55,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1676037,
-    "BeerName": "Raskolnikov",
-    "BeerStyle": "Porter - Baltic",
-    "BreweryName": "Svaneke Bryghus",
-    "Origin": "Svaneke, Region Hovedstaden Denmark",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 9189,
@@ -97,7 +67,21 @@
     "Origin": "Svaneke, Region Hovedstaden Denmark",
     "BeerAbv": 5.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "94"
+  },
+  {
+    "BID": 1676037,
+    "BeerName": "Raskolnikov",
+    "BeerStyle": "Porter - Baltic",
+    "BreweryName": "Svaneke Bryghus",
+    "Origin": "Svaneke, Region Hovedstaden Denmark",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 1673082,
@@ -107,7 +91,9 @@
     "Origin": "Longstreet, LA United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1673084,
@@ -117,7 +103,9 @@
     "Origin": "Longstreet, LA United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1667252,
@@ -127,7 +115,9 @@
     "Origin": "United States",
     "BeerAbv": 11.00,
     "BeerIbu": 70.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1673083,
@@ -137,7 +127,9 @@
     "Origin": "Pittsfield, MA United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3340416,
@@ -147,7 +139,9 @@
     "Origin": "United States",
     "BeerAbv": 5.80,
     "BeerIbu": 35.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1673086,
@@ -157,7 +151,9 @@
     "Origin": "United States",
     "BeerAbv": 9.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1674257,
@@ -167,7 +163,9 @@
     "Origin": "Seattle, WA United States",
     "BeerAbv": 15.40,
     "BeerIbu": 100.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 1674255,
@@ -177,7 +175,9 @@
     "Origin": "Seattle, WA United States",
     "BeerAbv": 15.40,
     "BeerIbu": 100.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 14077,
@@ -187,7 +187,9 @@
     "Origin": "Seattle, WA United States",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 3340427,
@@ -197,7 +199,9 @@
     "Origin": "Seattle, WA United States",
     "BeerAbv": 7.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3340418,
@@ -207,7 +211,9 @@
     "Origin": "Seattle, WA United States",
     "BeerAbv": 7.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1673088,
@@ -217,7 +223,9 @@
     "Origin": "United States",
     "BeerAbv": 5.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 9199,
@@ -227,7 +235,9 @@
     "Origin": "Napa, CA United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3340421,
@@ -237,7 +247,9 @@
     "Origin": "Niagara Falls, ON Canada",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 1673091,
@@ -247,6 +259,44 @@
     "Origin": "Brazil",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3340423,
+    "BeerName": "Bog Nectar",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Block North Brew Pub",
+    "Origin": "Aitkin, MN United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 3341499,
+    "BeerName": "Bog Nectar",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Block North Brew Pub",
+    "Origin": "Aitkin, MN United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 3342918,
+    "BeerName": "Knox Bridge",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Block North Brew Pub",
+    "Origin": "Aitkin, MN United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   }
 ]

@@ -1,23 +1,183 @@
 [
   {
-    "BID": 3342059,
-    "BeerName": "Melrose",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Beachwood Brewing",
-    "Origin": "Huntington Beach, CA United States",
-    "BeerAbv": 7.10,
-    "BeerIbu": 70.00,
-    "HallRating": 0.00
+    "BID": 1668735,
+    "BeerName": "Kölschbier (Pilot)",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Ploughshare Brewing Co",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 3342441,
-    "BeerName": "Strawberry Margarita So...Smoothie",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Beachwood Brewing",
-    "Origin": "Huntington Beach, CA United States",
+    "BID": 3335373,
+    "BeerName": "Cattlestar Galactica",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Proclamation Ale Company",
+    "Origin": "Warwick, RI United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "99"
+  },
+  {
+    "BID": 3336378,
+    "BeerName": "The Unyielding Wrath of the Alpaca Magi (Batch 2)",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Proclamation Ale Company",
+    "Origin": "Warwick, RI United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 3336137,
+    "BeerName": "Black Napkins Batch 3",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Proclamation Ale Company",
+    "Origin": "Warwick, RI United States",
+    "BeerAbv": 8.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 3337580,
+    "BeerName": "Derivative | Mystery",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Proclamation Ale Company",
+    "Origin": "Warwick, RI United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 4959806,
+    "BeerName": "Nooit Rust",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "Proclamation Ale Company",
+    "Origin": "Warwick, RI United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 3334186,
+    "BeerName": "Woodpeckers Hole",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Gribble Inn",
+    "Origin": "Oving, West Sussex England",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 2934,
+    "BeerName": "Black Honey Ale",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Devil Mountain Brewing",
+    "Origin": "Benicia, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 3125,
+    "BeerName": "Five Malt Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Devil Mountain Brewing",
+    "Origin": "Benicia, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 1668736,
+    "BeerName": "Unfiltered Blood Orange",
+    "BeerStyle": "Other",
+    "BreweryName": "Crooked Letter Brewing Co.",
+    "Origin": "Ocean Springs, MS United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3338011,
+    "BeerName": "Crooked Letter Blueberry Heffy",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Crooked Letter Brewing Co.",
+    "Origin": "Ocean Springs, MS United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3335375,
+    "BeerName": "Raspberry Lemonade Prison Grog",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Trider's Craft Beer",
+    "Origin": "Amherst, NS Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1668737,
+    "BeerName": "Unleaded Ale",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Pumphouse",
+    "Origin": "Wichita, KS United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "96"
+  },
+  {
+    "BID": 3335376,
+    "BeerName": "Freudian Sip",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Beachwood Brewing",
+    "Origin": "Huntington Beach, CA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "117"
+  },
+  {
+    "BID": 3336912,
+    "BeerName": "Dry Hopped Loma Prieta",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Beachwood Brewing",
+    "Origin": "Huntington Beach, CA United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "122"
   },
   {
     "BID": 4815695,
@@ -27,7 +187,9 @@
     "Origin": "Huntington Beach, CA United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815691,
@@ -37,7 +199,9 @@
     "Origin": "Huntington Beach, CA United States",
     "BeerAbv": 7.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445803,
@@ -47,7 +211,69 @@
     "Origin": "Huntington Beach, CA United States",
     "BeerAbv": 7.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 3342059,
+    "BeerName": "Melrose",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Beachwood Brewing",
+    "Origin": "Huntington Beach, CA United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 3342441,
+    "BeerName": "Strawberry Margarita So...Smoothie",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Beachwood Brewing",
+    "Origin": "Huntington Beach, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 3342600,
+    "BeerName": "Double Gator",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Beachwood Brewing",
+    "Origin": "Huntington Beach, CA United States",
+    "BeerAbv": 9.60,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3342725,
+    "BeerName": "Double Gator Mosaic Cask",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Beachwood Brewing",
+    "Origin": "Huntington Beach, CA United States",
+    "BeerAbv": 9.90,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3343237,
+    "BeerName": "Vanilla Fudge Smores",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Beachwood Brewing",
+    "Origin": "Huntington Beach, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4980618,
@@ -57,17 +283,9 @@
     "Origin": "Huntington Beach, CA United States",
     "BeerAbv": 5.80,
     "BeerIbu": 45.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981752,
-    "BeerName": "Night Sky Ipa",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Culmination Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4979719,
@@ -77,176 +295,8 @@
     "Origin": "Portland, OR United States",
     "BeerAbv": 5.13,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4979748,
-    "BeerName": "All Fear Altbier",
-    "BeerStyle": "Altbier - Traditional",
-    "BreweryName": "Culmination Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675494,
-    "BeerName": "Pinnacle IPA",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Culmination Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 45.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668738,
-    "BeerName": "MusDef",
-    "BeerStyle": "Pale Ale - Belgian",
-    "BreweryName": "Culmination Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1669310,
-    "BeerName": "Stung Mosaic Mead",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "Culmination Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 6.25,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1669931,
-    "BeerName": "Man O' Mandarin",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Culmination Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1670983,
-    "BeerName": "Sun Rey Strawberry Lime Twist Radler",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Culmination Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335379,
-    "BeerName": "Batch #006",
-    "BeerStyle": "Homebrew, Pilsner - German",
-    "BreweryName": "G.B.P. Brewery",
-    "Origin": "Netherlands",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335389,
-    "BeerName": "Batch #007",
-    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
-    "BreweryName": "G.B.P. Brewery",
-    "Origin": "Netherlands",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668836,
-    "BeerName": "Tempête Divine",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Brasserie du Bois Blanc",
-    "Origin": "Coteau-du-Lac, QC Canada",
-    "BeerAbv": 8.30,
-    "BeerIbu": 91.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668742,
-    "BeerName": "42 & 2",
-    "BeerStyle": "California Common",
-    "BreweryName": "Brasserie du Bois Blanc",
-    "Origin": "Coteau-du-Lac, QC Canada",
-    "BeerAbv": 5.10,
-    "BeerIbu": 18.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335381,
-    "BeerName": "MexicOAT Lager",
-    "BeerStyle": "Lager - IPL (India Pale Lager)",
-    "BreweryName": "Divine Barrel Brewing",
-    "Origin": "Charlotte, NC United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 48.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339398,
-    "BeerName": "I’d Like To Meet His Tailor",
-    "BeerStyle": "Porter - English",
-    "BreweryName": "Divine Barrel Brewing",
-    "Origin": "Charlotte, NC United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 33.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668743,
-    "BeerName": "Summer Break",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Birranova",
-    "Origin": "Triggianello, Puglia Italy",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668177,
-    "BeerName": "Живе Жигулівське",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Луцький пивзавод",
-    "Origin": "Luts'k, Volyns'ka oblast Ukraine",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674492,
-    "BeerName": "Zeman Premium",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Луцький пивзавод",
-    "Origin": "Luts'k, Volyns'ka oblast Ukraine",
-    "BeerAbv": 4.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335383,
-    "BeerName": "Добрый Финн (Махровый эль Ver.2)",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "GoodFox Brewery",
-    "Origin": "Kirov, Кировская область Russia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 13.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668745,
-    "BeerName": "Weizenbock",
-    "BeerStyle": "Bock - Weizenbock",
-    "BreweryName": "Lambisgóia Mundana",
-    "Origin": "Uberlândia, Minas Gerais Brazil",
-    "BeerAbv": 8.50,
-    "BeerIbu": 35.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   }
 ]

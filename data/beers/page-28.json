@@ -1,5 +1,137 @@
 [
   {
+    "BID": 12677,
+    "BeerName": "Hefeweizen (NOW CALLED HEIDI WEISSE)",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "WEST Brewery",
+    "Origin": "Glasgow, Glasgow City Scotland",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 14.32,
+    "BAR": 7.82,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 12624,
+    "BeerName": "Monster Mash",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Lompoc Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 8.10,
+    "BeerIbu": 0.00,
+    "HallRating": 14.32,
+    "BAR": 7.84,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 11426,
+    "BeerName": "Ramstein Dunkel Hefe-weizen",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "High Point Brewing Company",
+    "Origin": "Butler, NJ United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 14.31,
+    "BAR": 7.81,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 12028,
+    "BeerName": "Hawaii Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Mehana Brewing Company",
+    "Origin": "Hilo, HI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.31,
+    "BAR": 3.95,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 10988,
+    "BeerName": "Belgian-Style Quad (Brewmaster's Signature series)",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Choc Beer Company (Pete's Place)",
+    "Origin": "Krebs, OK United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.31,
+    "BAR": 3.95,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 11902,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Old Harbor Brewery",
+    "Origin": "Carolina, Puerto Rico",
+    "BeerAbv": 7.60,
+    "BeerIbu": 70.00,
+    "HallRating": 14.30,
+    "BAR": 7.78,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11441,
+    "BeerName": "Tuverbol",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Brouwerij Loterbol",
+    "Origin": "Diest, Vlaams Gewest Belgium",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.30,
+    "BAR": 7.80,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 11228,
+    "BeerName": "Jackalope IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Chama River Brewing Company",
+    "Origin": "Albuquerque, NM United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 75.00,
+    "HallRating": 14.29,
+    "BAR": 7.78,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11297,
+    "BeerName": "Christmas Ale",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Red Hill Brewery",
+    "Origin": "Red Hill South, Victoria Australia",
+    "BeerAbv": 8.30,
+    "BeerIbu": 0.00,
+    "HallRating": 14.29,
+    "BAR": 7.76,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11596,
+    "BeerName": "Belgian Ardennes",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Tuatara Brewery",
+    "Origin": "Paraparaumu, Wellington New Zealand",
+    "BeerAbv": 6.50,
+    "BeerIbu": 24.00,
+    "HallRating": 14.29,
+    "BAR": 7.77,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 1065,
+    "BeerName": "Knock Out (K-O)",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "De Proefbrouwerij",
+    "Origin": "Lochristi, Vlaams Gewest Belgium",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.29,
+    "BAR": 7.78,
+    "StylePlus": "107"
+  },
+  {
     "BID": 12012,
     "BeerName": "Hoptilicus",
     "BeerStyle": "Strong Ale - American",
@@ -7,7 +139,57 @@
     "Origin": "Denmark",
     "BeerAbv": 9.00,
     "BeerIbu": 80.00,
-    "HallRating": 14.28
+    "HallRating": 14.28,
+    "BAR": 7.75,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 10248,
+    "BeerName": "Rodenbach Vintage 2007 (Barrel No. 230)",
+    "BeerStyle": "Sour - Flanders Red Ale",
+    "BreweryName": "Brouwerij Rodenbach",
+    "Origin": "Roeselare, Vlaams Gewest Belgium",
+    "BeerAbv": 7.00,
+    "BeerIbu": 8.00,
+    "HallRating": 14.28,
+    "BAR": 7.75,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 11597,
+    "BeerName": "Hoe Hoe Hoe",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Swamp Head Brewery",
+    "Origin": "Gainesville, FL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 14.28,
+    "BAR": 7.75,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 11443,
+    "BeerName": "Anniversary XII (12) Ale (2008)",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Firestone Walker Brewing Company",
+    "Origin": "Paso Robles, CA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.28,
+    "BAR": 7.74,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 10432,
+    "BeerName": "Riverside Red",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Intuition Ale Works",
+    "Origin": "Jacksonville, FL United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 0.00,
+    "HallRating": 14.28,
+    "BAR": 7.74,
+    "StylePlus": "115"
   },
   {
     "BID": 11645,
@@ -17,7 +199,9 @@
     "Origin": "Broumy, Středočeský kraj Czech Republic",
     "BeerAbv": 6.90,
     "BeerIbu": 55.00,
-    "HallRating": 14.27
+    "HallRating": 14.27,
+    "BAR": 7.72,
+    "StylePlus": "104"
   },
   {
     "BID": 11820,
@@ -27,7 +211,21 @@
     "Origin": "Chico, CA United States",
     "BeerAbv": 4.30,
     "BeerIbu": 35.00,
-    "HallRating": 14.27
+    "HallRating": 14.27,
+    "BAR": 7.73,
+    "StylePlus": "122"
+  },
+  {
+    "BID": 12713,
+    "BeerName": "Harvest Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Frankenmuth Brewery",
+    "Origin": "Frankenmuth, MI United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 32.00,
+    "HallRating": 14.27,
+    "BAR": 7.73,
+    "StylePlus": "110"
   },
   {
     "BID": 11613,
@@ -37,7 +235,9 @@
     "Origin": "McMinnville, OR United States",
     "BeerAbv": 5.90,
     "BeerIbu": 40.00,
-    "HallRating": 14.26
+    "HallRating": 14.26,
+    "BAR": 7.70,
+    "StylePlus": "104"
   },
   {
     "BID": 10116,
@@ -47,7 +247,9 @@
     "Origin": "Bridgewater Corners, VT United States",
     "BeerAbv": 8.30,
     "BeerIbu": 56.00,
-    "HallRating": 14.26
+    "HallRating": 14.26,
+    "BAR": 7.71,
+    "StylePlus": "104"
   },
   {
     "BID": 1088,
@@ -57,7 +259,9 @@
     "Origin": "Carpinteria, CA United States",
     "BeerAbv": 6.80,
     "BeerIbu": 28.00,
-    "HallRating": 14.26
+    "HallRating": 14.26,
+    "BAR": 7.71,
+    "StylePlus": "103"
   },
   {
     "BID": 11245,
@@ -67,7 +271,9 @@
     "Origin": "Agoura Hills, CA United States",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.26
+    "HallRating": 14.26,
+    "BAR": 7.70,
+    "StylePlus": "104"
   },
   {
     "BID": 1163,
@@ -77,7 +283,9 @@
     "Origin": "New Brighton, MN United States",
     "BeerAbv": 12.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.25
+    "HallRating": 14.25,
+    "BAR": 7.68,
+    "StylePlus": "101"
   },
   {
     "BID": 12063,
@@ -87,166 +295,8 @@
     "Origin": "Whitefish, MT United States",
     "BeerAbv": 4.60,
     "BeerIbu": 15.00,
-    "HallRating": 14.25
-  },
-  {
-    "BID": 12597,
-    "BeerName": "Midtown Brown",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "Boscos Restaurant & Brewing Co.",
-    "Origin": "Memphis, TN United States",
-    "BeerAbv": 5.78,
-    "BeerIbu": 28.00,
-    "HallRating": 14.25
-  },
-  {
-    "BID": 11079,
-    "BeerName": "Table Saison",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.25
-  },
-  {
-    "BID": 11408,
-    "BeerName": "3 Fonteinen Oude Geuze Vintage",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Brouwerij 3 Fonteinen",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.23
-  },
-  {
-    "BID": 11491,
-    "BeerName": "Bourbon Barrel Warmer",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Upland Brewing Company",
-    "Origin": "Bloomington, IN United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.23
-  },
-  {
-    "BID": 11496,
-    "BeerName": "Cherry Bomb Stout",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Strange Craft Beer Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.23
-  },
-  {
-    "BID": 11696,
-    "BeerName": "Barnacle Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Barrier Brewing Company",
-    "Origin": "Oceanside, NY United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 42.00,
-    "HallRating": 14.23
-  },
-  {
-    "BID": 11120,
-    "BeerName": "Imperial Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Silver City Brewery",
-    "Origin": "Bremerton, WA United States",
-    "BeerAbv": 9.20,
-    "BeerIbu": 60.00,
-    "HallRating": 14.23
-  },
-  {
-    "BID": 10987,
-    "BeerName": "Belgian-Style Dubbel (Brewmaster's Signature series)",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Choc Beer Company (Pete's Place)",
-    "Origin": "Krebs, OK United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.22
-  },
-  {
-    "BID": 11244,
-    "BeerName": "Murree Beer",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Murree Brewery",
-    "Origin": "Rawalpindi, ضلع راولپنڈی Pakistan",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.22
-  },
-  {
-    "BID": 10566,
-    "BeerName": "C-Sons Greetings",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Lompoc Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 100.00,
-    "HallRating": 14.22
-  },
-  {
-    "BID": 10624,
-    "BeerName": "Black Butte XXII",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Deschutes Brewery",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.21
-  },
-  {
-    "BID": 11126,
-    "BeerName": "Edgar's Ale",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Craftsman Brewing Company",
-    "Origin": "Pasadena, CA United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "HallRating": 14.21
-  },
-  {
-    "BID": 10968,
-    "BeerName": "Bavarian Black Lager",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "Heartland Brewery",
-    "Origin": "New York, NY United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.21
-  },
-  {
-    "BID": 10985,
-    "BeerName": "Double Bastard Ale (2006)",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Arrogant Consortia",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 11.20,
-    "BeerIbu": 0.00,
-    "HallRating": 14.21
-  },
-  {
-    "BID": 10491,
-    "BeerName": "Bob's Old 15-B Robust Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "New Albanian Brewing Company",
-    "Origin": "New Albany, IN United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 35.00,
-    "HallRating": 14.20
-  },
-  {
-    "BID": 11685,
-    "BeerName": "Imperial Porter",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Thomas Hooker Brewing Co.",
-    "Origin": "Bloomfield, CT United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 65.00,
-    "HallRating": 14.20
+    "HallRating": 14.25,
+    "BAR": 7.68,
+    "StylePlus": "98"
   }
 ]

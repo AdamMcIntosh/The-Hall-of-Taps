@@ -1,13 +1,75 @@
 [
   {
-    "BID": 1675927,
-    "BeerName": "The Abstract",
-    "BeerStyle": "IPA - English",
+    "BID": 1674951,
+    "BeerName": "SixPointSix",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Tight Pants Brewery",
+    "Origin": "Norway",
+    "BeerAbv": 6.60,
+    "BeerIbu": 64.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342293,
+    "BeerName": "Peach Hard Seltzer",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Old 690 Brewing Company",
+    "Origin": "Purcellville, VA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674954,
+    "BeerName": "Low End Theory Session",
+    "BeerStyle": "IPA - American",
     "BreweryName": "Argilla Brewing Company",
     "Origin": "Newark, DE United States",
-    "BeerAbv": 5.50,
+    "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1675073,
+    "BeerName": "Chocolate Chicken",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Argilla Brewing Company",
+    "Origin": "Newark, DE United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1675066,
+    "BeerName": "5 Hop Assassin",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Argilla Brewing Company",
+    "Origin": "Newark, DE United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1675110,
+    "BeerName": "Juice From the Mind",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Argilla Brewing Company",
+    "Origin": "Newark, DE United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 1676975,
@@ -17,7 +79,45 @@
     "Origin": "Newark, DE United States",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1675945,
+    "BeerName": "Check the Rind",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Argilla Brewing Company",
+    "Origin": "Newark, DE United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1675938,
+    "BeerName": "Birre De Relaxation",
+    "BeerStyle": "IPA - Belgian",
+    "BreweryName": "Argilla Brewing Company",
+    "Origin": "Newark, DE United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1675927,
+    "BeerName": "The Abstract",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Argilla Brewing Company",
+    "Origin": "Newark, DE United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3342295,
@@ -27,7 +127,9 @@
     "Origin": "Benton Harbor, MI United States",
     "BeerAbv": 3.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "121"
   },
   {
     "BID": 3337710,
@@ -37,17 +139,9 @@
     "Origin": "San Diego, CA United States",
     "BeerAbv": 7.00,
     "BeerIbu": 70.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1667355,
-    "BeerName": "Seismic Brewing Co. Pale Ale (Collab)",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Rough Draft Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 35.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1671701,
@@ -57,7 +151,21 @@
     "Origin": "San Diego, CA United States",
     "BeerAbv": 7.00,
     "BeerIbu": 70.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1667355,
+    "BeerName": "Seismic Brewing Co. Pale Ale (Collab)",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Rough Draft Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 3342296,
@@ -67,7 +175,9 @@
     "Origin": "Rimini, Emilia-Romagna Italy",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1674956,
@@ -77,7 +187,9 @@
     "Origin": "Sweden",
     "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1674958,
@@ -87,7 +199,9 @@
     "Origin": "Spain",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3342302,
@@ -97,7 +211,9 @@
     "Origin": "Bremerton, WA United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 1674961,
@@ -107,7 +223,9 @@
     "Origin": "Norway",
     "BeerAbv": 7.40,
     "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1674965,
@@ -117,7 +235,9 @@
     "Origin": "Lincoln, NE United States",
     "BeerAbv": 8.40,
     "BeerIbu": 48.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 11727,
@@ -127,7 +247,9 @@
     "Origin": "Herzele, Vlaams Gewest Belgium",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 11729,
@@ -137,116 +259,44 @@
     "Origin": "Herzele, Vlaams Gewest Belgium",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
   },
   {
-    "BID": 3342308,
-    "BeerName": "Cherry Wild Wit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Granville Brewing Co.",
-    "Origin": "Granville, OH United States",
-    "BeerAbv": 7.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674966,
-    "BeerName": "Lemon Beer",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Danilovskaya Pivovarnya (Даниловская Пивоварня)",
-    "Origin": "Bryansk, Брянская область Russia",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342312,
-    "BeerName": "Slacker Hill",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Pond Farm Brewing Co.",
-    "Origin": "San Rafael, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 60.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3344192,
-    "BeerName": "Positively 4th Street",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Pond Farm Brewing Co.",
-    "Origin": "San Rafael, CA United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 10.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3334240,
-    "BeerName": "I’ll Saison That (w/Raspberry & Habanero)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Palm City Brewing",
-    "Origin": "Fort Myers, FL United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3334911,
-    "BeerName": "Thinking Man",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Palm City Brewing",
-    "Origin": "Fort Myers, FL United States",
+    "BID": 12241,
+    "BeerName": "Graff",
+    "BeerStyle": "Homebrew, Other",
+    "BreweryName": "FIGJAM Brewing",
+    "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 4961488,
-    "BeerName": "Primate Party",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Palm City Brewing",
-    "Origin": "Fort Myers, FL United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "BID": 13543,
+    "BeerName": "Winter Warmer",
+    "BeerStyle": "Homebrew, Winter Ale",
+    "BreweryName": "FIGJAM Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 3342313,
-    "BeerName": "Brick Pond Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Brickfield Brewing",
-    "Origin": "Grantsburg, WI United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342320,
-    "BeerName": "Mai Limonata",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Brickfield Brewing",
-    "Origin": "Grantsburg, WI United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 33.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674973,
-    "BeerName": "Super Crisp Mosaic",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "523",
-    "Origin": "Köniz, Bern/Berne Switzerland",
-    "BeerAbv": 5.05,
-    "BeerIbu": 24.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342315,
-    "BeerName": "Cloudbusting",
-    "BeerStyle": "Homebrew, IPA - Brut",
-    "BreweryName": "M Square",
-    "Origin": "Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 47.00,
-    "HallRating": 0.00
+    "BID": 14425,
+    "BeerName": "Belgian Pale Ale",
+    "BeerStyle": "Homebrew, Pale Ale - Belgian",
+    "BreweryName": "FIGJAM Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

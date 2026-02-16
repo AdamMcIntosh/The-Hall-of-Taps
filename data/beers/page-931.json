@@ -1,13 +1,27 @@
 [
   {
-    "BID": 3343060,
-    "BeerName": "Magnificent Desolation Schwarzbier",
-    "BeerStyle": "Lager - Dark",
+    "BID": 3339146,
+    "BeerName": "French Toast Donut Stout",
+    "BeerStyle": "Stout - Pastry",
     "BreweryName": "Two Roads Brewing Company",
     "Origin": "Stratford, CT United States",
-    "BeerAbv": 5.00,
+    "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3344212,
+    "BeerName": "Two Juicy",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Two Roads Brewing Company",
+    "Origin": "Stratford, CT United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 42.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 3342591,
@@ -17,17 +31,45 @@
     "Origin": "Stratford, CT United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
-    "BID": 1669240,
-    "BeerName": "Zesty Bourbon IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Golden City Brewery",
-    "Origin": "Golden, CO United States",
-    "BeerAbv": 7.20,
+    "BID": 3343060,
+    "BeerName": "Magnificent Desolation Schwarzbier",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Two Roads Brewing Company",
+    "Origin": "Stratford, CT United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "114"
+  },
+  {
+    "BID": 4447232,
+    "BeerName": "Passion Fruit Gose W/ Raspberry Puree",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Two Roads Brewing Company",
+    "Origin": "Stratford, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4961313,
+    "BeerName": "Conntucky Lightnin' (2021)",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Two Roads Brewing Company",
+    "Origin": "Stratford, CT United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 1674937,
@@ -37,17 +79,21 @@
     "Origin": "Golden, CO United States",
     "BeerAbv": 7.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
-    "BID": 2549,
-    "BeerName": "Brain Damage",
-    "BeerStyle": "Old / Stock Ale",
+    "BID": 1669240,
+    "BeerName": "Zesty Bourbon IPA",
+    "BeerStyle": "IPA - American",
     "BreweryName": "Golden City Brewery",
     "Origin": "Golden, CO United States",
-    "BeerAbv": 0.00,
+    "BeerAbv": 7.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 6928,
@@ -57,7 +103,21 @@
     "Origin": "Golden, CO United States",
     "BeerAbv": 7.30,
     "BeerIbu": 65.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 2549,
+    "BeerName": "Brain Damage",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Golden City Brewery",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 6462,
@@ -67,17 +127,9 @@
     "Origin": "Golden, CO United States",
     "BeerAbv": 11.20,
     "BeerIbu": 32.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 7454,
-    "BeerName": "Klassika",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Saku Õlletehas",
-    "Origin": "Saku, Harju maakond Estonia",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 2238,
@@ -87,7 +139,21 @@
     "Origin": "Saku, Harju maakond Estonia",
     "BeerAbv": 6.90,
     "BeerIbu": 23.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
+  },
+  {
+    "BID": 7454,
+    "BeerName": "Klassika",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Saku Õlletehas",
+    "Origin": "Saku, Harju maakond Estonia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4940420,
@@ -97,17 +163,9 @@
     "Origin": "Saku, Harju maakond Estonia",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335105,
-    "BeerName": "Royal Ionian Pink Grapefruit Bergamot",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Corfu Microbrewery",
-    "Origin": "Corfu, Πελοπόννησος, Δυτική Ελλάδα και Ιόνιο Greece",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
   },
   {
     "BID": 1676941,
@@ -117,7 +175,21 @@
     "Origin": "Corfu, Πελοπόννησος, Δυτική Ελλάδα και Ιόνιο Greece",
     "BeerAbv": 5.00,
     "BeerIbu": 26.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
+  },
+  {
+    "BID": 3335105,
+    "BeerName": "Royal Ionian Pink Grapefruit Bergamot",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Corfu Microbrewery",
+    "Origin": "Corfu, Πελοπόννησος, Δυτική Ελλάδα και Ιόνιο Greece",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "127"
   },
   {
     "BID": 1669032,
@@ -127,7 +199,9 @@
     "Origin": "Chalfont, PA United States",
     "BeerAbv": 2.50,
     "BeerIbu": 21.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
   },
   {
     "BID": 1668458,
@@ -137,7 +211,9 @@
     "Origin": "Chalfont, PA United States",
     "BeerAbv": 4.00,
     "BeerIbu": 35.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 3335106,
@@ -147,7 +223,9 @@
     "Origin": "Zagreb, Grad Zagreb Croatia",
     "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 3336455,
@@ -157,57 +235,9 @@
     "Origin": "Zagreb, Grad Zagreb Croatia",
     "BeerAbv": 5.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668459,
-    "BeerName": "Piña Muerte",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Mockery Brewing",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668486,
-    "BeerName": "Negative Ghostrider",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Mockery Brewing",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668473,
-    "BeerName": "Mukduk",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Mockery Brewing",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 3.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668512,
-    "BeerName": "Xmas In July",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Mockery Brewing",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668525,
-    "BeerName": "Reinhopsgebrown",
-    "BeerStyle": "Brown Ale - Other",
-    "BreweryName": "Mockery Brewing",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
   },
   {
     "BID": 4815622,
@@ -217,36 +247,56 @@
     "Origin": "Denver, CO United States",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
-    "BID": 1671450,
-    "BeerName": "La Charlemagne Brune",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Brasserie de Silenrieux",
-    "Origin": "Cerfontaine, Région Wallonne Belgium",
-    "BeerAbv": 9.00,
+    "BID": 1668459,
+    "BeerName": "Piña Muerte",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Mockery Brewing",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
-    "BID": 10527,
-    "BeerName": "Sara Blonde",
-    "BeerStyle": "Specialty Grain",
-    "BreweryName": "Brasserie de Silenrieux",
-    "Origin": "Cerfontaine, Région Wallonne Belgium",
-    "BeerAbv": 6.00,
+    "BID": 1668473,
+    "BeerName": "Mukduk",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Mockery Brewing",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 3.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
-    "BID": 2553,
-    "BeerName": "Joseph",
-    "BeerStyle": "Specialty Grain",
-    "BreweryName": "Brasserie de Silenrieux",
-    "Origin": "Cerfontaine, Région Wallonne Belgium",
-    "BeerAbv": 5.40,
+    "BID": 1668486,
+    "BeerName": "Negative Ghostrider",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Mockery Brewing",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1668512,
+    "BeerName": "Xmas In July",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Mockery Brewing",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

@@ -1,5 +1,245 @@
 [
   {
+    "BID": 10473,
+    "BeerName": "Baltic Porter",
+    "BeerStyle": "Porter - Baltic",
+    "BreweryName": "Foothills Brewing",
+    "Origin": "Winston-Salem, NC United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 52.00,
+    "HallRating": 14.03,
+    "BAR": 7.16,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 12691,
+    "BeerName": "Willemoes Jul 2010",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Bryggeriet Vestfyen",
+    "Origin": "Denmark",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.03,
+    "BAR": 4.31,
+    "StylePlus": "114"
+  },
+  {
+    "BID": 11985,
+    "BeerName": "Galloway Gold",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Sulwath Brewers Ltd",
+    "Origin": "Castle Douglas, Dumfries and Galloway Scotland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.02,
+    "BAR": 7.15,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 10198,
+    "BeerName": "Hudy 14-K",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Hudepohl Brewing Co.",
+    "Origin": "Cincinnati, OH United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 14.02,
+    "BAR": 7.15,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 11507,
+    "BeerName": "Oktober-Fiesta",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Mt Baldy Brewery",
+    "Origin": "Upland, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 14.01,
+    "BAR": 7.12,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 1051,
+    "BeerName": "XXX English Ale",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Fitger’s Brewhouse",
+    "Origin": "Duluth, MN United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 0.00,
+    "HallRating": 14.01,
+    "BAR": 7.13,
+    "StylePlus": "122"
+  },
+  {
+    "BID": 10072,
+    "BeerName": "Trader Joe's Vintage Ale (2009)",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Unibroue",
+    "Origin": "Chambly, QC Canada",
+    "BeerAbv": 9.20,
+    "BeerIbu": 0.00,
+    "HallRating": 14.01,
+    "BAR": 7.11,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 12246,
+    "BeerName": "Streaking the Quad",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Deschutes Brewery",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.01,
+    "BAR": 4.33,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 11241,
+    "BeerName": "Lane Xang",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Lao Brewery Co., Ltd",
+    "Origin": "Vientiane, Vientiane Prefecture Laos",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.01,
+    "BAR": 7.13,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 12575,
+    "BeerName": "Lame Devil Farmhouse Ale",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "The Gamble Mill Restaurant & Microbrewery",
+    "Origin": "Bellefonte, PA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.00,
+    "BAR": 4.35,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 10823,
+    "BeerName": "Bohemian Pilsner",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Red Hill Brewery",
+    "Origin": "Red Hill South, Victoria Australia",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 13.99,
+    "BAR": 4.37,
+    "StylePlus": "119"
+  },
+  {
+    "BID": 11725,
+    "BeerName": "Scottish Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Selin's Grove Brewing",
+    "Origin": "Selinsgrove, PA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 13.99,
+    "BAR": 7.07,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 11909,
+    "BeerName": "Doggie Claws (2010)",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Hair of the Dog Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.99,
+    "BAR": 7.08,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 10765,
+    "BeerName": "McGritty's Scotch Ale",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Aviator Brewing Company",
+    "Origin": "Fuquay-Varina, NC United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 13.98,
+    "BAR": 7.04,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 12606,
+    "BeerName": "Old School Irish Stout",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Mountain Sun Pubs & Breweries",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 13.98,
+    "BAR": 7.06,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 10302,
+    "BeerName": "Kringle Krack",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Calapooia Brewing Co.",
+    "Origin": "Albany, OR United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 40.00,
+    "HallRating": 13.98,
+    "BAR": 7.05,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11527,
+    "BeerName": "Boysenberry Nectar",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Redstone Meadery",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.98,
+    "BAR": 7.06,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 11311,
+    "BeerName": "Golden Eagle",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Mohan Meakin",
+    "Origin": "Barwala, Himachal Pradesh India",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.98,
+    "BAR": 7.05,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 1110,
+    "BeerName": "Thunderhead Amber Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Sequoia Brewing Company",
+    "Origin": "Fresno, CA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 13.98,
+    "BAR": 7.05,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 12558,
+    "BeerName": "One Tun Imperial Stout (OTIS)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Off The Rails Brewing Co.",
+    "Origin": "Sunnyvale, CA United States",
+    "BeerAbv": 9.80,
+    "BeerIbu": 0.00,
+    "HallRating": 13.98,
+    "BAR": 7.03,
+    "StylePlus": "100"
+  },
+  {
     "BID": 10013,
     "BeerName": "St. James Brown Ale",
     "BeerStyle": "Brown Ale - English",
@@ -7,7 +247,9 @@
     "Origin": "Exton, PA United States",
     "BeerAbv": 5.20,
     "BeerIbu": 25.00,
-    "HallRating": 13.98
+    "HallRating": 13.98,
+    "BAR": 7.04,
+    "StylePlus": "111"
   },
   {
     "BID": 11796,
@@ -17,7 +259,9 @@
     "Origin": "Truckee, CA United States",
     "BeerAbv": 9.50,
     "BeerIbu": 0.00,
-    "HallRating": 13.98
+    "HallRating": 13.98,
+    "BAR": 7.05,
+    "StylePlus": "100"
   },
   {
     "BID": 1100,
@@ -27,17 +271,9 @@
     "Origin": "New Albany, IN United States",
     "BeerAbv": 8.50,
     "BeerIbu": 30.00,
-    "HallRating": 13.97
-  },
-  {
-    "BID": 1086,
-    "BeerName": "Loyal Duke Scotch Ale",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "Amicas Microbrewery & Pizza",
-    "Origin": "Salida, CO United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 0.00,
-    "HallRating": 13.97
+    "HallRating": 13.97,
+    "BAR": 7.03,
+    "StylePlus": "105"
   },
   {
     "BID": 12158,
@@ -47,206 +283,20 @@
     "Origin": "New Albany, IN United States",
     "BeerAbv": 12.00,
     "BeerIbu": 90.00,
-    "HallRating": 13.97
+    "HallRating": 13.97,
+    "BAR": 7.01,
+    "StylePlus": "100"
   },
   {
-    "BID": 11584,
-    "BeerName": "Thomas Hardy's Ale (2003)",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Hanlons Brewery",
-    "Origin": "Newton Saint Cyres, Devon England",
-    "BeerAbv": 11.70,
-    "BeerIbu": 0.00,
-    "HallRating": 13.97
-  },
-  {
-    "BID": 10419,
-    "BeerName": "Bosun's Black Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Maritime Pacific Brewing Company",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 23.00,
-    "HallRating": 13.97
-  },
-  {
-    "BID": 10393,
-    "BeerName": "Ocean Beach (O.B.) Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Local Brewing Co.",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 34.00,
-    "HallRating": 13.96
-  },
-  {
-    "BID": 1150,
-    "BeerName": "Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Wind River Brewing Company",
-    "Origin": "Pinedale, WY United States",
-    "BeerAbv": 7.40,
-    "BeerIbu": 0.00,
-    "HallRating": 13.96
-  },
-  {
-    "BID": 10301,
-    "BeerName": "Cleveland Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Mountain Sun Pubs & Breweries",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "HallRating": 13.96
-  },
-  {
-    "BID": 11198,
-    "BeerName": "2004 Stone Old Guardian Barley Wine",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 10.06,
-    "BeerIbu": 0.00,
-    "HallRating": 13.96
-  },
-  {
-    "BID": 12180,
-    "BeerName": "Frambozenbier",
-    "BeerStyle": "Lambic - Traditional",
-    "BreweryName": "ShawneeCraft Brewing Company",
-    "Origin": "Shawnee on Delaware, PA United States",
-    "BeerAbv": 5.75,
-    "BeerIbu": 15.00,
-    "HallRating": 13.96
-  },
-  {
-    "BID": 11657,
-    "BeerName": "Gude Greg's Wee Heavy Private Reserve Bourbon Barrel Aged Scotch Ale",
+    "BID": 1086,
+    "BeerName": "Loyal Duke Scotch Ale",
     "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "Berkshire Brewing Company",
-    "Origin": "South Deerfield, MA United States",
-    "BeerAbv": 8.30,
-    "BeerIbu": 29.00,
-    "HallRating": 13.95
-  },
-  {
-    "BID": 12050,
-    "BeerName": "English-Style Old Ale (Holiday Ale)",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Schlafly - The Saint Louis Brewery",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 40.00,
-    "HallRating": 13.95
-  },
-  {
-    "BID": 11178,
-    "BeerName": "No. 8 Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Duggan's Brewery",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 5.70,
+    "BreweryName": "Amicas Microbrewery & Pizza",
+    "Origin": "Salida, CO United States",
+    "BeerAbv": 8.60,
     "BeerIbu": 0.00,
-    "HallRating": 13.95
-  },
-  {
-    "BID": 10707,
-    "BeerName": "Piledriver",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Hopworks Brewery",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 18.00,
-    "HallRating": 13.95
-  },
-  {
-    "BID": 11141,
-    "BeerName": "Puma IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Elk Mountain Brewing Company",
-    "Origin": "Parker, CO United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 88.00,
-    "HallRating": 13.94
-  },
-  {
-    "BID": 11055,
-    "BeerName": "3 Fonteinen Straffe Winter (2008)",
-    "BeerStyle": "Lambic - Faro",
-    "BreweryName": "Brouwerij 3 Fonteinen",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 13.94
-  },
-  {
-    "BID": 12631,
-    "BeerName": "Belgian Dubbel",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "McCoy’s Public House",
-    "Origin": "Kansas City, MO United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 13.94
-  },
-  {
-    "BID": 12495,
-    "BeerName": "Zomerhop",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Brouwerij de Molen",
-    "Origin": "Bodegraven, Zuid-Holland Netherlands",
-    "BeerAbv": 6.20,
-    "BeerIbu": 42.00,
-    "HallRating": 13.94
-  },
-  {
-    "BID": 12135,
-    "BeerName": "Altared Amber (Moveable Yeast)",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Saint Arnold Brewing Company",
-    "Origin": "Houston, TX United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "HallRating": 13.92
-  },
-  {
-    "BID": 11095,
-    "BeerName": "Jupiler Tauro 8.3%",
-    "BeerStyle": "Lager - Strong",
-    "BreweryName": "Brasserie Jupiler",
-    "Origin": "Liège, Région Wallonne Belgium",
-    "BeerAbv": 8.30,
-    "BeerIbu": 0.00,
-    "HallRating": 13.92
-  },
-  {
-    "BID": 11350,
-    "BeerName": "Premium Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Bluetongue Brewery (Pacific Beverages)",
-    "Origin": "Warnervale, New South Wales Australia",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "HallRating": 13.91
-  },
-  {
-    "BID": 11835,
-    "BeerName": "Stout",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Deeside Brewery",
-    "Origin": "Banchory, Aberdeenshire Scotland",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 13.91
-  },
-  {
-    "BID": 11373,
-    "BeerName": "Old Toad Barleywine (Oak-Aged)",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Bullfrog Brewery",
-    "Origin": "Williamsport, PA United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "HallRating": 13.91
+    "HallRating": 13.97,
+    "BAR": 4.41,
+    "StylePlus": "103"
   }
 ]

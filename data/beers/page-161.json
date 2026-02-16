@@ -1,143 +1,27 @@
 [
   {
-    "BID": 13133,
-    "BeerName": "Cup A Joe Coffee Crème Stout",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 35.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1667132,
-    "BeerName": "Melt My Brain",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 24.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1669839,
-    "BeerName": "Anniversary Ale",
+    "BID": 4816933,
+    "BeerName": "Anniversary Ale XVIII",
     "BeerStyle": "Wheat Beer - Wheat Wine",
     "BreweryName": "Short’s Brewing Company",
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 10.00,
     "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
-    "BID": 1669812,
-    "BeerName": "Soft Parade",
-    "BeerStyle": "Fruit Beer",
+    "BID": 4816069,
+    "BeerName": "Black Diamond",
+    "BeerStyle": "Lager - Dark",
     "BreweryName": "Short’s Brewing Company",
     "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 15.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1667535,
-    "BeerName": "Spruce Pilsner",
-    "BeerStyle": "Pilsner - Imperial / Double",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 85.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1667600,
-    "BeerName": "Chocolate Wheat (w/ Blood Orange)",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 6.10,
-    "BeerIbu": 32.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335139,
-    "BeerName": "Picture Me Rollin'",
-    "BeerStyle": "IPA - Brut",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 31.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672884,
-    "BeerName": "Local's Light",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 11.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1673054,
-    "BeerName": "Guess the Dry Hop Local's",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 36.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672991,
-    "BeerName": "Cerveza de Julie",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675905,
-    "BeerName": "Chipotle Chocolate Wheat",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 6.10,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1676310,
-    "BeerName": "Creamiest of the Peach",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 44.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 7752,
-    "BeerName": "Bloody Beer",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 8.30,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 7665,
-    "BeerName": "Anniversary Ale",
-    "BeerStyle": "Wheat Beer - Wheat Wine",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "BeerAbv": 5.10,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "114"
   },
   {
     "BID": 6349,
@@ -147,7 +31,9 @@
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 7.50,
     "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
   },
   {
     "BID": 8751,
@@ -157,7 +43,9 @@
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 7.00,
     "BeerIbu": 19.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   },
   {
     "BID": 9245,
@@ -167,7 +55,9 @@
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 9.50,
     "BeerIbu": 85.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "87"
   },
   {
     "BID": 9197,
@@ -177,27 +67,9 @@
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 6.50,
     "BeerIbu": 22.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8356,
-    "BeerName": "Key Lime Pie",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 17.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8320,
-    "BeerName": "Black Cherry Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 9.20,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
   },
   {
     "BID": 9997,
@@ -207,46 +79,224 @@
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 5.20,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
-    "BID": 4981343,
-    "BeerName": "Cask Conditioned Autumn Ale With Peaches",
-    "BeerStyle": "Lager - Amber / Red",
+    "BID": 12315,
+    "BeerName": "The Golden Rule",
+    "BeerStyle": "IPA - English",
     "BreweryName": "Short’s Brewing Company",
     "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "BeerAbv": 5.80,
+    "BeerIbu": 64.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
-    "BID": 1671043,
-    "BeerName": "Imperial Tight Skirt Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "9 Foot Brewing",
-    "Origin": "Blue Springs, MO United States",
-    "BeerAbv": 10.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1671044,
-    "BeerName": "Mass Hysteria",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Rainhard Brewing",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 5.90,
+    "BID": 13323,
+    "BeerName": "PB&J",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Short’s Brewing Company",
+    "Origin": "Elk Rapids, MI United States",
+    "BeerAbv": 8.00,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "77"
   },
   {
-    "BID": 1676447,
-    "BeerName": "Lightning Bug",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Rainhard Brewing",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 5.20,
+    "BID": 13133,
+    "BeerName": "Cup A Joe Coffee Crème Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Short’s Brewing Company",
+    "Origin": "Elk Rapids, MI United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 12317,
+    "BeerName": "Über Goober",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Short’s Brewing Company",
+    "Origin": "Elk Rapids, MI United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 1671064,
+    "BeerName": "Brewer's Choice - Experimental IPA (HBC 344)",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Dru Bru",
+    "Origin": "Snoqualmie Pass, WA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 63.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 3338287,
+    "BeerName": "Ghost Cherries",
+    "BeerStyle": "Wild Ale - Other",
+    "BreweryName": "Cervesa Màger",
+    "Origin": "La Llacuna, Catalunya Spain",
+    "BeerAbv": 6.50,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3338289,
+    "BeerName": "Valerie",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Cervesa Màger",
+    "Origin": "La Llacuna, Catalunya Spain",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1667133,
+    "BeerName": "Mystery Beer",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Don't Know",
+    "Origin": null,
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1671065,
+    "BeerName": "War Bond IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Inland Empire Brewing Company",
+    "Origin": "Riverside, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 63.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 3338288,
+    "BeerName": "Gwen",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Brasserie des Diaoulig",
+    "Origin": "Saint-Cast-le-Guildo, Bretagne France",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1671069,
+    "BeerName": "Belgian Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Goza La Vida Brewing",
+    "Origin": "Aguascalientes, Mexico",
+    "BeerAbv": 6.50,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 3338291,
+    "BeerName": "Citra Express",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Modern Madness",
+    "Origin": "Kuala Lumpur, Malaysia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "81"
+  },
+  {
+    "BID": 3338292,
+    "BeerName": "Under Fire",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Schwarzkaiser Brewery",
+    "Origin": "Чёлохово, Московская область Russia",
+    "BeerAbv": 5.25,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "121"
+  },
+  {
+    "BID": 1674604,
+    "BeerName": "Dr. Watson (Доктор Ватсон)",
+    "BeerStyle": "Porter - English",
+    "BreweryName": "Schwarzkaiser Brewery",
+    "Origin": "Чёлохово, Московская область Russia",
+    "BeerAbv": 5.80,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 1671071,
+    "BeerName": "Abbaye d'Aulne Triple Brune",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Brasserie de l'Abbaye d'Aulne",
+    "Origin": "Thuin, Région Wallonne Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 7916,
+    "BeerName": "Abbaye d'Aulne Triple Blonde",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Brasserie de l'Abbaye d'Aulne",
+    "Origin": "Thuin, Région Wallonne Belgium",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 7918,
+    "BeerName": "Abbaye d'Aulne Val de Sambre Ambrée",
+    "BeerStyle": "Pale Ale - Belgian",
+    "BreweryName": "Brasserie de l'Abbaye d'Aulne",
+    "Origin": "Thuin, Région Wallonne Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 3338293,
+    "BeerName": "Let There Be Bock",
+    "BeerStyle": "Bock - Single / Traditional",
+    "BreweryName": "The Eleventh Order",
+    "Origin": "Lachlan, Tasmania Australia",
+    "BeerAbv": 6.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

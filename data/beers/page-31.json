@@ -1,5 +1,209 @@
 [
   {
+    "BID": 12549,
+    "BeerName": "Whambo IPA (Carlsbad)",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Pizza Port Brewing Company",
+    "Origin": "Carlsbad, CA United States",
+    "BeerAbv": 7.80,
+    "BeerIbu": 0.00,
+    "HallRating": 14.12,
+    "BAR": 4.18,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11538,
+    "BeerName": "Raging Bull",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Bootleg Brewery",
+    "Origin": "Margaret River, Western Australia Australia",
+    "BeerAbv": 7.10,
+    "BeerIbu": 0.00,
+    "HallRating": 14.12,
+    "BAR": 7.38,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 10100,
+    "BeerName": "American Wit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Flat12 Bierwerks",
+    "Origin": "Indianapolis, IN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.12,
+    "BAR": 4.18,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 1115,
+    "BeerName": "Calico Espresso Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Thunderhead Brewing",
+    "Origin": "Kearney, NE United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 40.00,
+    "HallRating": 14.12,
+    "BAR": 7.39,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 11133,
+    "BeerName": "Fritz Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Bold City Brewery",
+    "Origin": "Jacksonville, FL United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.12,
+    "BAR": 7.38,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 10931,
+    "BeerName": "Special Holiday Ale (2010)",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "Nøgne Ø",
+    "Origin": "Grimstad, Agder Norway",
+    "BeerAbv": 8.50,
+    "BeerIbu": 50.00,
+    "HallRating": 14.12,
+    "BAR": 7.40,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 12388,
+    "BeerName": "'t Smisje Calva Reserva",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Brouwerij Smisje",
+    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.12,
+    "BAR": 7.39,
+    "StylePlus": "114"
+  },
+  {
+    "BID": 11015,
+    "BeerName": "Batch One",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Amager Bryghus",
+    "Origin": "Denmark",
+    "BeerAbv": 9.20,
+    "BeerIbu": 80.00,
+    "HallRating": 14.11,
+    "BAR": 7.37,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 11217,
+    "BeerName": "ESB",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Real Ale Brewing Company",
+    "Origin": "Blanco, TX United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 45.00,
+    "HallRating": 14.11,
+    "BAR": 7.37,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 12069,
+    "BeerName": "Cheyenne Canon Pinon Nut Brown",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Bristol Brewing Company",
+    "Origin": "Colorado Springs, CO United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 25.00,
+    "HallRating": 14.11,
+    "BAR": 7.37,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 1250,
+    "BeerName": "Old Town Nut Brown",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "San Diego Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 14.11,
+    "BAR": 7.38,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 10412,
+    "BeerName": "Humulus Ludicrous",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Half Pints Brewing Company",
+    "Origin": "Winnipeg, MB Canada",
+    "BeerAbv": 8.00,
+    "BeerIbu": 100.00,
+    "HallRating": 14.11,
+    "BAR": 7.36,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 12548,
+    "BeerName": "Iguana",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Cervecería y Maltería Quilmes",
+    "Origin": "Quilmes, Provincia de Buenos Aires Argentina",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 14.10,
+    "BAR": 7.34,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 12699,
+    "BeerName": "Industrial Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Crown Brewing Company",
+    "Origin": "Crown Point, IN United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 32.00,
+    "HallRating": 14.10,
+    "BAR": 7.34,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 12497,
+    "BeerName": "Sputnik",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "La Zaragozana",
+    "Origin": "Zaragoza, Aragón Spain",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 14.10,
+    "BAR": 7.35,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 10513,
+    "BeerName": "Shewolf",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Half Acre Beer Company",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 14.10,
+    "BAR": 7.35,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 12722,
+    "BeerName": "Winter Bock Lager",
+    "BeerStyle": "Bock - Single / Traditional",
+    "BreweryName": "Frankenmuth Brewery",
+    "Origin": "Frankenmuth, MI United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 24.00,
+    "HallRating": 14.09,
+    "BAR": 7.32,
+    "StylePlus": "117"
+  },
+  {
     "BID": 12278,
     "BeerName": "Resinous Rye",
     "BeerStyle": "Rye Beer",
@@ -7,7 +211,21 @@
     "Origin": "Boulder, CO United States",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.09
+    "HallRating": 14.09,
+    "BAR": 7.32,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 12087,
+    "BeerName": "Cuvee Des Fleurs",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Southampton Publick House",
+    "Origin": "Southampton, NY United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "HallRating": 14.09,
+    "BAR": 7.33,
+    "StylePlus": "105"
   },
   {
     "BID": 12014,
@@ -17,7 +235,9 @@
     "Origin": "Montegioco, Piemonte Italy",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 14.09
+    "HallRating": 14.09,
+    "BAR": 7.32,
+    "StylePlus": "106"
   },
   {
     "BID": 11781,
@@ -27,7 +247,9 @@
     "Origin": "Salt Lake City, UT United States",
     "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": 14.09
+    "HallRating": 14.09,
+    "BAR": 7.32,
+    "StylePlus": "110"
   },
   {
     "BID": 11104,
@@ -37,7 +259,9 @@
     "Origin": "Bend, OR United States",
     "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.09
+    "HallRating": 14.09,
+    "BAR": 7.32,
+    "StylePlus": "104"
   },
   {
     "BID": 10008,
@@ -47,7 +271,9 @@
     "Origin": "North Charleston, SC United States",
     "BeerAbv": 9.30,
     "BeerIbu": 0.00,
-    "HallRating": 14.08
+    "HallRating": 14.08,
+    "BAR": 4.23,
+    "StylePlus": "100"
   },
   {
     "BID": 11096,
@@ -57,7 +283,9 @@
     "Origin": "Squamish, BC Canada",
     "BeerAbv": 6.80,
     "BeerIbu": 76.00,
-    "HallRating": 14.08
+    "HallRating": 14.08,
+    "BAR": 7.31,
+    "StylePlus": "104"
   },
   {
     "BID": 1177,
@@ -67,186 +295,8 @@
     "Origin": "Minneapolis, MN United States",
     "BeerAbv": 5.30,
     "BeerIbu": 24.00,
-    "HallRating": 14.08
-  },
-  {
-    "BID": 11014,
-    "BeerName": "Bruce/Lee Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Prodigal Son Brewery",
-    "Origin": "Pendleton, OR United States",
-    "BeerAbv": 7.40,
-    "BeerIbu": 30.00,
-    "HallRating": 14.08
-  },
-  {
-    "BID": 10295,
-    "BeerName": "Black Mamba Black IPA",
-    "BeerStyle": "Homebrew, IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "Homebrew",
-    "Origin": "Other",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.08
-  },
-  {
-    "BID": 12082,
-    "BeerName": "Le Chat Noir",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Portsmouth Brewery",
-    "Origin": "Portsmouth, NH United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.08
-  },
-  {
-    "BID": 12164,
-    "BeerName": "Boston Blackstone Porter",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Great Baraboo Brewing Company",
-    "Origin": "Clinton Township, MI United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.07
-  },
-  {
-    "BID": 10760,
-    "BeerName": "Weissbier",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Denison's Brewing Co.",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "HallRating": 14.07
-  },
-  {
-    "BID": 10830,
-    "BeerName": "Gothic Stout",
-    "BeerStyle": "Stout - English",
-    "BreweryName": "Enville Brewery",
-    "Origin": "Stourbridge, Staffordshire England",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 14.07
-  },
-  {
-    "BID": 12452,
-    "BeerName": "Imperial Olde Brune",
-    "BeerStyle": "Sour - Flanders Oud Bruin",
-    "BreweryName": "Kuhnhenn Brewing Company",
-    "Origin": "Warren, MI United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "HallRating": 14.07
-  },
-  {
-    "BID": 10745,
-    "BeerName": "Dawk's Classic Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "North End Tavern & Brewery",
-    "Origin": "Parkersburg, WV United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 12.00,
-    "HallRating": 14.06
-  },
-  {
-    "BID": 11115,
-    "BeerName": "Schwarz Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Victory Brewing Company",
-    "Origin": "Downingtown, PA United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "HallRating": 14.06
-  },
-  {
-    "BID": 12348,
-    "BeerName": "Monkey See Monkey Do",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Craftsman Brewing Company",
-    "Origin": "Pasadena, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.05
-  },
-  {
-    "BID": 12501,
-    "BeerName": "Monkey See Monkey Do",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Craftsman Brewing Company",
-    "Origin": "Pasadena, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.05
-  },
-  {
-    "BID": 11802,
-    "BeerName": "Almond Marzen Project (Beer Camp 26)",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Sierra Nevada Brewing Co.",
-    "Origin": "Chico, CA United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 29.00,
-    "HallRating": 14.05
-  },
-  {
-    "BID": 12074,
-    "BeerName": "Porter - Wood aged",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Sierra Nevada Brewing Co.",
-    "Origin": "Chico, CA United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "HallRating": 14.05
-  },
-  {
-    "BID": 11984,
-    "BeerName": "The Black Galloway",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Sulwath Brewers Ltd",
-    "Origin": "Castle Douglas, Dumfries and Galloway Scotland",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.05
-  },
-  {
-    "BID": 11234,
-    "BeerName": "Coffee Torpor Porter",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Freetail Brewing Co.",
-    "Origin": "San Antonio, TX United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "HallRating": 14.05
-  },
-  {
-    "BID": 12237,
-    "BeerName": "Red Dragon",
-    "BeerStyle": "Red Ale - Irish",
-    "BreweryName": "C'est What Durham Brewing",
-    "Origin": "Pickering, ON Canada",
-    "BeerAbv": 5.20,
-    "BeerIbu": 27.00,
-    "HallRating": 14.05
-  },
-  {
-    "BID": 12146,
-    "BeerName": "King Oak Milk Stout",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Opa-Opa Brewing Company",
-    "Origin": "Williamsburg, MA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.04
-  },
-  {
-    "BID": 11922,
-    "BeerName": "Chocolate Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Pub Dog Brewing Company",
-    "Origin": "Westminster, MD United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 25.00,
-    "HallRating": 14.04
+    "HallRating": 14.08,
+    "BAR": 4.23,
+    "StylePlus": "116"
   }
 ]

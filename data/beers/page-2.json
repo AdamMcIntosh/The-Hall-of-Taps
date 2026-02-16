@@ -1,5 +1,29 @@
 [
   {
+    "BID": 10049,
+    "BeerName": "Chimay Cinq Cents (White)",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Bières de Chimay",
+    "Origin": "Chimay, Région Wallonne Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 38.00,
+    "HallRating": 18.37,
+    "BAR": 13.56,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 11499,
+    "BeerName": "The Jacket",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Crispin Cider Company",
+    "Origin": "Colfax, CA United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 0.00,
+    "HallRating": 18.25,
+    "BAR": 7.07,
+    "StylePlus": "108"
+  },
+  {
     "BID": 10877,
     "BeerName": "Black Currant Cider",
     "BeerStyle": "Cider - Other Fruit",
@@ -7,7 +31,9 @@
     "Origin": "Colfax, CA United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 18.24
+    "HallRating": 18.24,
+    "BAR": 7.13,
+    "StylePlus": "107"
   },
   {
     "BID": 11473,
@@ -17,7 +43,9 @@
     "Origin": "Rochefort, Région Wallonne Belgium",
     "BeerAbv": 9.20,
     "BeerIbu": 22.00,
-    "HallRating": 18.20
+    "HallRating": 18.20,
+    "BAR": 13.36,
+    "StylePlus": "104"
   },
   {
     "BID": 11982,
@@ -27,7 +55,9 @@
     "Origin": "Kelheim, Bayern Germany",
     "BeerAbv": 5.40,
     "BeerIbu": 14.00,
-    "HallRating": 17.97
+    "HallRating": 17.97,
+    "BAR": 13.09,
+    "StylePlus": "111"
   },
   {
     "BID": 12049,
@@ -37,7 +67,9 @@
     "Origin": "Cleveland, OH United States",
     "BeerAbv": 6.00,
     "BeerIbu": 37.00,
-    "HallRating": 17.94
+    "HallRating": 17.94,
+    "BAR": 13.05,
+    "StylePlus": "104"
   },
   {
     "BID": 10519,
@@ -47,7 +79,9 @@
     "Origin": "Żywiec, Województwo Śląskie Poland",
     "BeerAbv": 5.50,
     "BeerIbu": 24.00,
-    "HallRating": 17.93
+    "HallRating": 17.93,
+    "BAR": 13.03,
+    "StylePlus": "98"
   },
   {
     "BID": 11097,
@@ -57,7 +91,9 @@
     "Origin": "Puurs-Sint-Amands, Vlaams Gewest Belgium",
     "BeerAbv": 4.70,
     "BeerIbu": 4.00,
-    "HallRating": 17.92
+    "HallRating": 17.92,
+    "BAR": 13.02,
+    "StylePlus": "113"
   },
   {
     "BID": 11561,
@@ -67,7 +103,9 @@
     "Origin": "Evergem, Vlaams Gewest Belgium",
     "BeerAbv": 10.50,
     "BeerIbu": 18.00,
-    "HallRating": 17.80
+    "HallRating": 17.80,
+    "BAR": 12.88,
+    "StylePlus": "107"
   },
   {
     "BID": 11845,
@@ -77,7 +115,9 @@
     "Origin": "Middleburg Heights, OH United States",
     "BeerAbv": 7.50,
     "BeerIbu": 75.00,
-    "HallRating": 17.78
+    "HallRating": 17.78,
+    "BAR": 12.85,
+    "StylePlus": "104"
   },
   {
     "BID": 10722,
@@ -87,7 +127,9 @@
     "Origin": "Rochefort, Région Wallonne Belgium",
     "BeerAbv": 7.50,
     "BeerIbu": 35.00,
-    "HallRating": 17.71
+    "HallRating": 17.71,
+    "BAR": 12.76,
+    "StylePlus": "107"
   },
   {
     "BID": 10050,
@@ -97,7 +139,9 @@
     "Origin": "Paso Robles, CA United States",
     "BeerAbv": 9.50,
     "BeerIbu": 54.00,
-    "HallRating": 17.64
+    "HallRating": 17.64,
+    "BAR": 12.68,
+    "StylePlus": "101"
   },
   {
     "BID": 11093,
@@ -107,7 +151,9 @@
     "Origin": "Dublin, County Dublin Ireland",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 17.60
+    "HallRating": 17.60,
+    "BAR": 12.62,
+    "StylePlus": "107"
   },
   {
     "BID": 1238,
@@ -117,7 +163,9 @@
     "Origin": "Paso Robles, CA United States",
     "BeerAbv": 5.00,
     "BeerIbu": 30.00,
-    "HallRating": 17.58
+    "HallRating": 17.58,
+    "BAR": 12.60,
+    "StylePlus": "119"
   },
   {
     "BID": 12541,
@@ -127,7 +175,9 @@
     "Origin": "Bodegraven, Zuid-Holland Netherlands",
     "BeerAbv": 6.20,
     "BeerIbu": 63.00,
-    "HallRating": 17.58
+    "HallRating": 17.58,
+    "BAR": 12.60,
+    "StylePlus": "104"
   },
   {
     "BID": 11091,
@@ -137,7 +187,9 @@
     "Origin": "Alken, Vlaams Gewest Belgium",
     "BeerAbv": 8.50,
     "BeerIbu": 29.00,
-    "HallRating": 17.57
+    "HallRating": 17.57,
+    "BAR": 12.59,
+    "StylePlus": "107"
   },
   {
     "BID": 11936,
@@ -147,7 +199,9 @@
     "Origin": "Warstein, Nordrhein-Westfalen Germany",
     "BeerAbv": 4.80,
     "BeerIbu": 28.00,
-    "HallRating": 17.57
+    "HallRating": 17.57,
+    "BAR": 12.59,
+    "StylePlus": "116"
   },
   {
     "BID": 10773,
@@ -157,7 +211,9 @@
     "Origin": "Boulder, CO United States",
     "BeerAbv": 6.50,
     "BeerIbu": 69.00,
-    "HallRating": 17.52
+    "HallRating": 17.52,
+    "BAR": 12.53,
+    "StylePlus": "104"
   },
   {
     "BID": 11921,
@@ -167,7 +223,9 @@
     "Origin": "Oakland Park, FL United States",
     "BeerAbv": 7.00,
     "BeerIbu": 50.00,
-    "HallRating": 17.52
+    "HallRating": 17.52,
+    "BAR": 12.53,
+    "StylePlus": "104"
   },
   {
     "BID": 11746,
@@ -177,7 +235,9 @@
     "Origin": "Escondido, CA United States",
     "BeerAbv": 6.90,
     "BeerIbu": 77.00,
-    "HallRating": 17.52
+    "HallRating": 17.52,
+    "BAR": 12.53,
+    "StylePlus": "105"
   },
   {
     "BID": 11810,
@@ -187,7 +247,9 @@
     "Origin": "Chico, CA United States",
     "BeerAbv": 11.00,
     "BeerIbu": 100.00,
-    "HallRating": 17.49
+    "HallRating": 17.49,
+    "BAR": 12.48,
+    "StylePlus": "100"
   },
   {
     "BID": 1199,
@@ -197,7 +259,9 @@
     "Origin": "Dublin, County Dublin Ireland",
     "BeerAbv": 7.50,
     "BeerIbu": 47.00,
-    "HallRating": 17.47
+    "HallRating": 17.47,
+    "BAR": 12.46,
+    "StylePlus": "108"
   },
   {
     "BID": 11988,
@@ -207,7 +271,9 @@
     "Origin": "Comstock, MI United States",
     "BeerAbv": 5.50,
     "BeerIbu": 23.00,
-    "HallRating": 17.44
+    "HallRating": 17.44,
+    "BAR": 12.43,
+    "StylePlus": "109"
   },
   {
     "BID": 10080,
@@ -217,7 +283,9 @@
     "Origin": "Cleveland, OH United States",
     "BeerAbv": 7.70,
     "BeerIbu": 70.00,
-    "HallRating": 17.42
+    "HallRating": 17.42,
+    "BAR": 12.40,
+    "StylePlus": "115"
   },
   {
     "BID": 11027,
@@ -227,26 +295,8 @@
     "Origin": "Kelheim, Bayern Germany",
     "BeerAbv": 8.20,
     "BeerIbu": 40.00,
-    "HallRating": 17.41
-  },
-  {
-    "BID": 11563,
-    "BeerName": "Hoppyum IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Foothills Brewing",
-    "Origin": "Winston-Salem, NC United States",
-    "BeerAbv": 6.25,
-    "BeerIbu": 78.00,
-    "HallRating": 17.40
-  },
-  {
-    "BID": 11397,
-    "BeerName": "Burning River Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Great Lakes Brewing Company",
-    "Origin": "Cleveland, OH United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 45.00,
-    "HallRating": 17.38
+    "HallRating": 17.41,
+    "BAR": 12.38,
+    "StylePlus": "109"
   }
 ]

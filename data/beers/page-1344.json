@@ -1,163 +1,27 @@
 [
   {
-    "BID": 4980026,
-    "BeerName": "Dark Ale",
-    "BeerStyle": "Dark Ale",
-    "BreweryName": "Sak Pub",
-    "Origin": "Phnom Penh, Cambodia",
-    "BeerAbv": 5.50,
-    "BeerIbu": 44.00,
-    "HallRating": 0.00
+    "BID": 4816230,
+    "BeerName": "Nutrl Watermellon",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Anheuser-Busch",
+    "Origin": "St. Louis, MO United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 4959725,
-    "BeerName": "Chilita Diabla",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Chilita",
-    "Origin": "Spain",
+    "BID": 4816398,
+    "BeerName": "Bud Light Seltzer Classic Lime Margarita",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Anheuser-Busch",
+    "Origin": "St. Louis, MO United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939403,
-    "BeerName": "Viking Blud",
-    "BeerStyle": "Homebrew, Mead - Other",
-    "BreweryName": "Tir Na Nog Brewing",
-    "Origin": "United States",
-    "BeerAbv": 22.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939404,
-    "BeerName": "Strawberry Blonde",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Hudson Brewhouse",
-    "Origin": "Victoria, BC Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4959728,
-    "BeerName": "Habicht Das Hefeweizen",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Stubaicraft",
-    "Origin": "Austria",
-    "BeerAbv": 5.50,
-    "BeerIbu": 17.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939405,
-    "BeerName": "Monotone (Bourbon B.A.2020)",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Circada",
-    "Origin": "Moscow, Москва Russia",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980031,
-    "BeerName": "Jordfalls Hamn Sommarpilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Grästorps Bryggeri",
-    "Origin": "Lilla Edet, Västra Götalands län Sweden",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960568,
-    "BeerName": "Uppegårdens Öl",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Grästorps Bryggeri",
-    "Origin": "Lilla Edet, Västra Götalands län Sweden",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4959729,
-    "BeerName": "Schwager Fruit APA",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Čierny Kameň",
-    "Origin": "Ružomberok, Žilinský kraj Slovakia",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939406,
-    "BeerName": "Double Pale Ale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "ShawneeCraft Brewing Company",
-    "Origin": "Shawnee on Delaware, PA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 50.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3344108,
-    "BeerName": "American Amber Ale",
-    "BeerStyle": "Lager - American Amber / Red",
-    "BreweryName": "ShawneeCraft Brewing Company",
-    "Origin": "Shawnee on Delaware, PA United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1186,
-    "BeerName": "Michelob AmberBock",
-    "BeerStyle": "Bock - Single / Traditional",
-    "BreweryName": "Anheuser-Busch",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 19.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 11666,
-    "BeerName": "Bud Ice",
-    "BeerStyle": "Freeze-Distilled Beer",
-    "BreweryName": "Anheuser-Busch",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 15.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1544,
-    "BeerName": "St. Pauli Girl Special Dark",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Anheuser-Busch",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13649,
-    "BeerName": "Michelob ULTRA Amber",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Anheuser-Busch",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 14277,
-    "BeerName": "Michelob Rye PA",
-    "BeerStyle": "IPA - Rye",
-    "BreweryName": "Anheuser-Busch",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 4959608,
@@ -167,17 +31,9 @@
     "Origin": "England",
     "BeerAbv": 5.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4959968,
-    "BeerName": "A Beer They Made",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Nod Hill Brewery",
-    "Origin": "Ridgefield, CT United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4959964,
@@ -187,7 +43,21 @@
     "Origin": "Ridgefield, CT United States",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 4959968,
+    "BeerName": "A Beer They Made",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Nod Hill Brewery",
+    "Origin": "Ridgefield, CT United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 4939290,
@@ -197,7 +67,9 @@
     "Origin": "Ridgefield, CT United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3337019,
@@ -207,7 +79,9 @@
     "Origin": "Ridgefield, CT United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "119"
   },
   {
     "BID": 3339614,
@@ -217,7 +91,9 @@
     "Origin": "Ridgefield, CT United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4979916,
@@ -227,7 +103,9 @@
     "Origin": "Lasne, Région Wallonne Belgium",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4939810,
@@ -237,7 +115,9 @@
     "Origin": "Maribor, Podravska Slovenia",
     "BeerAbv": 2.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "87"
   },
   {
     "BID": 4959609,
@@ -247,6 +127,176 @@
     "Origin": "Maribor, Podravska Slovenia",
     "BeerAbv": 2.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "87"
+  },
+  {
+    "BID": 4960277,
+    "BeerName": "Jones Grapefruit & Blood Orange",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Single Hill Brewing",
+    "Origin": "Yakima, WA United States",
+    "BeerAbv": 3.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
+  },
+  {
+    "BID": 4939293,
+    "BeerName": "Family Time Reserve (2021)",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "Single Hill Brewing",
+    "Origin": "Yakima, WA United States",
+    "BeerAbv": 9.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 4961548,
+    "BeerName": "Strawberry Lime Radler",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Single Hill Brewing",
+    "Origin": "Yakima, WA United States",
+    "BeerAbv": 3.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "116"
+  },
+  {
+    "BID": 4980580,
+    "BeerName": "Dorad-O-Rama",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Single Hill Brewing",
+    "Origin": "Yakima, WA United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4980589,
+    "BeerName": "Polymorph: Rhino",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Single Hill Brewing",
+    "Origin": "Yakima, WA United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4979918,
+    "BeerName": "Vätterns enkla",
+    "BeerStyle": "Homebrew, Belgian Enkel / Patersbier",
+    "BreweryName": "Gustavs hembryggeri",
+    "Origin": "Jönköping, Jönköpings län Sweden",
+    "BeerAbv": 3.80,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4981117,
+    "BeerName": "Citrus Got Real",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "SALT",
+    "Origin": "Shipley, West Yorkshire England",
+    "BeerAbv": 4.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 4959611,
+    "BeerName": "Loom",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "SALT",
+    "Origin": "Shipley, West Yorkshire England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 4959616,
+    "BeerName": "Hop-A-Salt",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "SALT",
+    "Origin": "Shipley, West Yorkshire England",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 3342191,
+    "BeerName": "Just Another Dream",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "SALT",
+    "Origin": "Shipley, West Yorkshire England",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 3336308,
+    "BeerName": "Stout",
+    "BeerStyle": "Homebrew, Stout - American",
+    "BreweryName": "Pierce Gambrills Brewing",
+    "Origin": "Gambrills, MD United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 56.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4939294,
+    "BeerName": "Blackberry Saison",
+    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
+    "BreweryName": "Pierce Gambrills Brewing",
+    "Origin": "Gambrills, MD United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4979932,
+    "BeerName": "КРИК",
+    "BeerStyle": "Homebrew, Lambic - Fruit",
+    "BreweryName": "REDHILL Homebrewery",
+    "Origin": "Russia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4979919,
+    "BeerName": "Sheep Honey Balls",
+    "BeerStyle": "Homebrew, Mead - Melomel",
+    "BreweryName": "REDHILL Homebrewery",
+    "Origin": "Russia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

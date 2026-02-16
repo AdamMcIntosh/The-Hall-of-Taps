@@ -1,95 +1,5 @@
 [
   {
-    "BID": 8286,
-    "BeerName": "Killellan",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Houston",
-    "Origin": "Houston, Renfrewshire Scotland",
-    "BeerAbv": 3.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339718,
-    "BeerName": "L'Enjoleuse",
-    "BeerStyle": "Red Ale - Irish",
-    "BreweryName": "Microbrasserie La Shed",
-    "Origin": "Donnacona, QC Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 12.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3344030,
-    "BeerName": "Domagaya",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Microbrasserie La Shed",
-    "Origin": "Donnacona, QC Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 60.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3344003,
-    "BeerName": "Blanche Aux Framboises",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Microbrasserie La Shed",
-    "Origin": "Donnacona, QC Canada",
-    "BeerAbv": 5.50,
-    "BeerIbu": 18.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672417,
-    "BeerName": "Scipa",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Delphin Microbirrificcio",
-    "Origin": "Selva, Abruzzo Italy",
-    "BeerAbv": 5.50,
-    "BeerIbu": 33.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2385,
-    "BeerName": "Super Natural IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Hawks Brewing",
-    "Origin": "Roseburg, OR United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2551,
-    "BeerName": "Super Natural ESB",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "Hawks Brewing",
-    "Origin": "Roseburg, OR United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 803,
-    "BeerName": "Super Natural Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Hawks Brewing",
-    "Origin": "Roseburg, OR United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 807,
-    "BeerName": "Imperial Gold Malt Liquor",
-    "BeerStyle": "Malt Liquor",
-    "BreweryName": "Hawks Brewing",
-    "Origin": "Roseburg, OR United States",
-    "BeerAbv": 9.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 3339719,
     "BeerName": "Looks Like It's Gonna Rain",
     "BeerStyle": "Farmhouse Ale - Other",
@@ -97,7 +7,9 @@
     "Origin": "New Orleans, LA United States",
     "BeerAbv": 5.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1672418,
@@ -107,7 +19,9 @@
     "Origin": "Cape Town, Western Cape South Africa",
     "BeerAbv": 4.50,
     "BeerIbu": 20.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 3339722,
@@ -117,7 +31,9 @@
     "Origin": "United States",
     "BeerAbv": 4.80,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672421,
@@ -127,7 +43,9 @@
     "Origin": "Vietnam",
     "BeerAbv": 4.60,
     "BeerIbu": 22.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
   },
   {
     "BID": 8294,
@@ -137,7 +55,9 @@
     "Origin": "Ciudad de Guatemala, Guatemala",
     "BeerAbv": 5.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 1672422,
@@ -147,7 +67,9 @@
     "Origin": "Grand Blanc, MI United States",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672425,
@@ -157,7 +79,9 @@
     "Origin": "Grand Blanc, MI United States",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672428,
@@ -167,7 +91,9 @@
     "Origin": "Grand Blanc, MI United States",
     "BeerAbv": 3.50,
     "BeerIbu": 5.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3339724,
@@ -177,7 +103,9 @@
     "Origin": "Hattiesburg, MS United States",
     "BeerAbv": 3.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
   },
   {
     "BID": 1672424,
@@ -187,7 +115,9 @@
     "Origin": "Canela, Rio Grande do Sul Brazil",
     "BeerAbv": 5.50,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 3339729,
@@ -197,37 +127,9 @@
     "Origin": "Green Lane, PA United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672427,
-    "BeerName": "Randy Shandy",
-    "BeerStyle": "Homebrew, Shandy / Radler",
-    "BreweryName": "DaDa Brewing",
-    "Origin": "Spain",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672687,
-    "BeerName": "Diplomatic Randy Shandy",
-    "BeerStyle": "Homebrew, Other",
-    "BreweryName": "DaDa Brewing",
-    "Origin": "Spain",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1673672,
-    "BeerName": "Mexican Squire",
-    "BeerStyle": "Homebrew, Other",
-    "BreweryName": "DaDa Brewing",
-    "Origin": "Spain",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 1676806,
@@ -237,7 +139,45 @@
     "Origin": "Spain",
     "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1672427,
+    "BeerName": "Randy Shandy",
+    "BeerStyle": "Homebrew, Shandy / Radler",
+    "BreweryName": "DaDa Brewing",
+    "Origin": "Spain",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1672687,
+    "BeerName": "Diplomatic Randy Shandy",
+    "BeerStyle": "Homebrew, Other",
+    "BreweryName": "DaDa Brewing",
+    "Origin": "Spain",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1673672,
+    "BeerName": "Mexican Squire",
+    "BeerStyle": "Homebrew, Other",
+    "BreweryName": "DaDa Brewing",
+    "Origin": "Spain",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1667215,
@@ -247,6 +187,116 @@
     "Origin": "Columbus, OH United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1667239,
+    "BeerName": "Hull Melon",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Pigskin Brew Co",
+    "Origin": "Columbus, OH United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1667229,
+    "BeerName": "Equinox",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Pigskin Brew Co",
+    "Origin": "Columbus, OH United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1667245,
+    "BeerName": "Nelson Sauvin",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Pigskin Brew Co",
+    "Origin": "Columbus, OH United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1669280,
+    "BeerName": "Northern Style IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Pigskin Brew Co",
+    "Origin": "Columbus, OH United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1672429,
+    "BeerName": "Monkey Magic",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Monkey Magic",
+    "Origin": "Sheffield, South Yorkshire England",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3339733,
+    "BeerName": "Karkonoskie Pils",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Tyblewski",
+    "Origin": "Karpacz, Dolnośląskie Poland",
+    "BeerAbv": 5.50,
+    "BeerIbu": 500.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 1672430,
+    "BeerName": "Smiley Face Stout",
+    "BeerStyle": "Homebrew, Stout - American",
+    "BreweryName": "HennyFarm Brewing Co.",
+    "Origin": "United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3339734,
+    "BeerName": "Saison Groseille",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "HuygenMeester",
+    "Origin": "Heerhugowaard, Noord-Holland Netherlands",
+    "BeerAbv": 7.70,
+    "BeerIbu": 29.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
+  },
+  {
+    "BID": 1672432,
+    "BeerName": "Goiaba Dreams",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "KNTR Brewing",
+    "Origin": "Gothenburg, Västra Götalands län Sweden",
+    "BeerAbv": 5.10,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

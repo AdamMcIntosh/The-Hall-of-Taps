@@ -1,155 +1,5 @@
 [
   {
-    "BID": 6627,
-    "BeerName": "Colonial Gold",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 17.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6628,
-    "BeerName": "Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 32.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6603,
-    "BeerName": "Krampus Schwarzbeir",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 6604,
-    "BeerName": "Touchdown Nutbrown",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674897,
-    "BeerName": "Märzen Naturtrüb",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Anton Wallner Bräu",
-    "Origin": "Zell am See, Salzburg Austria",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 11636,
-    "BeerName": "Rudolph's Reward",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "No. 18 Yard Brewhouse",
-    "Origin": "Faversham, Kent England",
-    "BeerAbv": 3.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674899,
-    "BeerName": "Donor Cider #88",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "The Moss Cider Project",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342244,
-    "BeerName": "Klaaash",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Gzub",
-    "Origin": "Annopole, Greater Poland Voivodeship Poland",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342245,
-    "BeerName": "Saphir Weizen",
-    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
-    "BreweryName": "Consbeeracy",
-    "Origin": "Austria",
-    "BeerAbv": 5.20,
-    "BeerIbu": 26.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674902,
-    "BeerName": "Berliner Weisse (Żurawina & Plantarum)",
-    "BeerStyle": "Homebrew, Sour - Berliner Weisse",
-    "BreweryName": "Wieża Ciśnień - Browar Domowy (Water Tower - Home Brew)",
-    "Origin": "Poland",
-    "BeerAbv": 2.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674903,
-    "BeerName": "Sommer König",
-    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
-    "BreweryName": "Rattle Can Brewing",
-    "Origin": "United States",
-    "BeerAbv": 3.80,
-    "BeerIbu": 10.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342247,
-    "BeerName": "Peace & Assist 3",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Call to Arms Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674904,
-    "BeerName": "Steam Beer",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Clarkshaws",
-    "Origin": "London, Greater London England",
-    "BeerAbv": 3.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342248,
-    "BeerName": "De Wiebelende Thermometer!!",
-    "BeerStyle": "Homebrew, Belgian Tripel",
-    "BreweryName": "Wessanne",
-    "Origin": "Netherlands",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2119,
-    "BeerName": "Steel Valley Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Ohio Brewing Company",
-    "Origin": "Columbus, OH United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 35.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 2120,
     "BeerName": "Ohio Fest",
     "BeerStyle": "Märzen",
@@ -157,7 +7,9 @@
     "Origin": "Columbus, OH United States",
     "BeerAbv": 6.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
   },
   {
     "BID": 2121,
@@ -167,7 +19,9 @@
     "Origin": "Columbus, OH United States",
     "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
   },
   {
     "BID": 2122,
@@ -177,7 +31,9 @@
     "Origin": "Columbus, OH United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 2123,
@@ -187,7 +43,9 @@
     "Origin": "Columbus, OH United States",
     "BeerAbv": 5.00,
     "BeerIbu": 21.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
   },
   {
     "BID": 1667350,
@@ -197,56 +55,248 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 12787,
-    "BeerName": "Widow Maker",
-    "BeerStyle": "Dark Ale",
-    "BreweryName": "Keweenaw Brewing Company",
-    "Origin": "Houghton, MI United States",
+    "BID": 3342158,
+    "BeerName": "Vieux Chene III",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Two Way Brewing Company",
+    "Origin": "Beacon, NY United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 1674824,
+    "BeerName": "La Vosg' Patt' Rousse",
+    "BeerStyle": "Malt Beer",
+    "BreweryName": "Brasserie Burval",
+    "Origin": "Le Val-d'Ajol, Grand Est France",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 1674826,
+    "BeerName": "EQX",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Hell Mary's Brewery",
+    "Origin": "Bromma, Sverige – svenska Sweden",
+    "BeerAbv": 6.10,
+    "BeerIbu": 58.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 14290,
+    "BeerName": "Bengal India Pale Ale",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Red Duck",
+    "Origin": "Ballarat, Victoria Australia",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1674846,
+    "BeerName": "Fransk Sesongøl",
+    "BeerStyle": "Homebrew, Farmhouse Ale - Saison",
+    "BreweryName": "Hop Mountain",
+    "Origin": "Sandnes, Norge Norway",
+    "BeerAbv": 6.00,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342182,
+    "BeerName": "Half Pint Grapefriut IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Half Pint Brewing Company",
+    "Origin": "Waseca, MN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 3333996,
+    "BeerName": "Extra Hot Strawberry Lemonade El Chupacabrew",
+    "BeerStyle": "Chilli / Chile Beer",
+    "BreweryName": "The Beer Den Cavern @ Lowes Foods",
+    "Origin": "Simpsonville, SC United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342157,
+    "BeerName": "West Coast IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Sons of Liberty Beer & Spirits Co.",
+    "Origin": "South Kingstown, RI United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674828,
+    "BeerName": "Unity",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Home Brewery Applied Science",
+    "Origin": "United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 59.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 11536,
+    "BeerName": "Tom's Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Bootleg Brewery",
+    "Origin": "Margaret River, Western Australia Australia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 11537,
+    "BeerName": "Settlers Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Bootleg Brewery",
+    "Origin": "Margaret River, Western Australia Australia",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 11539,
+    "BeerName": "Amber Light",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Bootleg Brewery",
+    "Origin": "Margaret River, Western Australia Australia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 11540,
+    "BeerName": "Prohibition Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Bootleg Brewery",
+    "Origin": "Margaret River, Western Australia Australia",
+    "BeerAbv": 4.90,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "88"
+  },
+  {
+    "BID": 3333995,
+    "BeerName": "Blue Lagoon",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Cerveza Bacalar",
+    "Origin": "Bacalar, Quintana Roo Mexico",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "88"
+  },
+  {
+    "BID": 3342167,
+    "BeerName": "Jewel of the Puget",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Seattle-Lite Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342168,
+    "BeerName": "Tom Yam",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Great River",
+    "Origin": "Pskov, Псковская область Russia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
+  },
+  {
+    "BID": 1674833,
+    "BeerName": "Søtt, Salt Og Syrlig",
+    "BeerStyle": "Homebrew, Sour - Traditional Gose",
+    "BreweryName": "Paddedammen Bryggeri",
+    "Origin": "Norway",
     "BeerAbv": 5.00,
-    "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "BeerIbu": 5.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 1674945,
-    "BeerName": "Black DIPA",
-    "BeerStyle": "IPA - Imperial / Double Black",
-    "BreweryName": "Waller St. Brewing",
-    "Origin": "Ottawa, ON Canada",
+    "BID": 1675156,
+    "BeerName": "06:45",
+    "BeerStyle": "Homebrew, Stout - Imperial / Double",
+    "BreweryName": "Paddedammen Bryggeri",
+    "Origin": "Norway",
     "BeerAbv": 8.50,
-    "BeerIbu": 80.00,
-    "HallRating": 0.00
+    "BeerIbu": 70.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 3334237,
-    "BeerName": "Krombacher's Fassbrause",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Krombacher Gruppe",
-    "Origin": "Kreuztal, Nordrhein-Westfalen Germany",
+    "BID": 3342170,
+    "BeerName": "A Half For Will",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Matlock Wolds Farm",
+    "Origin": "Matlock, Derbyshire England",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 3334470,
-    "BeerName": "Krombacher‘s Fassbrause Zitrone",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Krombacher Gruppe",
-    "Origin": "Kreuztal, Nordrhein-Westfalen Germany",
-    "BeerAbv": 0.00,
+    "BID": 3342179,
+    "BeerName": "Dont Tell Jen",
+    "BeerStyle": "Dark Ale",
+    "BreweryName": "Matlock Wolds Farm",
+    "Origin": "Matlock, Derbyshire England",
+    "BeerAbv": 3.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3334512,
-    "BeerName": "Krombacher's Fassbrause Maracuja",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Krombacher Gruppe",
-    "Origin": "Kreuztal, Nordrhein-Westfalen Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

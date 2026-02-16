@@ -1,5 +1,101 @@
 [
   {
+    "BID": 5444,
+    "BeerName": "Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "The Duck-Rabbit Craft Brewery",
+    "Origin": "Farmville, NC United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 5445,
+    "BeerName": "Milk Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "The Duck-Rabbit Craft Brewery",
+    "Origin": "Farmville, NC United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 5654,
+    "BeerName": "Schwarzbier",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "The Duck-Rabbit Craft Brewery",
+    "Origin": "Farmville, NC United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 9566,
+    "BeerName": "Wee Heavy Scotch Style Ale",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "The Duck-Rabbit Craft Brewery",
+    "Origin": "Farmville, NC United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 13161,
+    "BeerName": "Barleywine Ale",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "The Duck-Rabbit Craft Brewery",
+    "Origin": "Farmville, NC United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 13165,
+    "BeerName": "Barrel-Aged Milk Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "The Duck-Rabbit Craft Brewery",
+    "Origin": "Farmville, NC United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 13002,
+    "BeerName": "Rabid Duck",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "The Duck-Rabbit Craft Brewery",
+    "Origin": "Farmville, NC United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 3337593,
+    "BeerName": "Hazed & Confused",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Highlands Hollow",
+    "Origin": "Boise, ID United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 42.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
     "BID": 3333752,
     "BeerName": "Playing With ?",
     "BeerStyle": "Fruit Beer",
@@ -7,7 +103,9 @@
     "Origin": "Marrickville, New South Wales Australia",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3333930,
@@ -17,7 +115,9 @@
     "Origin": "Marrickville, New South Wales Australia",
     "BeerAbv": 6.00,
     "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 1670416,
@@ -27,7 +127,9 @@
     "Origin": "Norway",
     "BeerAbv": 4.80,
     "BeerIbu": 17.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1670421,
@@ -37,7 +139,9 @@
     "Origin": "Norway",
     "BeerAbv": 4.70,
     "BeerIbu": 13.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3337595,
@@ -47,27 +151,9 @@
     "Origin": "Columbia, SC United States",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339827,
-    "BeerName": "Strawberry Mint Refresher",
-    "BeerStyle": "Malt Beer",
-    "BreweryName": "CottonTown Brew Lab",
-    "Origin": "Columbia, SC United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339834,
-    "BeerName": "Mango Ginger Refresher",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "CottonTown Brew Lab",
-    "Origin": "Columbia, SC United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 3339839,
@@ -77,7 +163,33 @@
     "Origin": "Columbia, SC United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3339827,
+    "BeerName": "Strawberry Mint Refresher",
+    "BeerStyle": "Malt Beer",
+    "BreweryName": "CottonTown Brew Lab",
+    "Origin": "Columbia, SC United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3339834,
+    "BeerName": "Mango Ginger Refresher",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "CottonTown Brew Lab",
+    "Origin": "Columbia, SC United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3341443,
@@ -87,7 +199,9 @@
     "Origin": "Columbia, SC United States",
     "BeerAbv": 5.00,
     "BeerIbu": 20.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1670417,
@@ -97,7 +211,9 @@
     "Origin": "Norway",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3337596,
@@ -107,7 +223,9 @@
     "Origin": "United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1670419,
@@ -117,7 +235,9 @@
     "Origin": "United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3337598,
@@ -127,7 +247,9 @@
     "Origin": "Macon, GA United States",
     "BeerAbv": 6.50,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 1670420,
@@ -137,7 +259,9 @@
     "Origin": null,
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1670423,
@@ -147,7 +271,9 @@
     "Origin": "Recife, Pernambuco Brazil",
     "BeerAbv": 5.60,
     "BeerIbu": 22.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 1670437,
@@ -157,7 +283,9 @@
     "Origin": "Recife, Pernambuco Brazil",
     "BeerAbv": 5.60,
     "BeerIbu": 22.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 3337602,
@@ -167,86 +295,8 @@
     "Origin": "Winnipeg, MB Canada",
     "BeerAbv": 5.10,
     "BeerIbu": 10.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1670425,
-    "BeerName": "1614 IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Belmont Brewing Company",
-    "Origin": "Long Beach, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674239,
-    "BeerName": "Chocolate Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Belmont Brewing Company",
-    "Origin": "Long Beach, CA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1676078,
-    "BeerName": "Punch Bowl IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Russell Brewing Company",
-    "Origin": "Surrey, BC Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 65.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13197,
-    "BeerName": "Guuud! Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Russell Brewing Company",
-    "Origin": "Surrey, BC Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13549,
-    "BeerName": "Black Death Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Russell Brewing Company",
-    "Origin": "Surrey, BC Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1671978,
-    "BeerName": "Lighten Up Hefe",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Flossmoor Station Restaurant and Brewery",
-    "Origin": "Flossmoor, IL United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668143,
-    "BeerName": "Cascade",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Four Candles",
-    "Origin": "Broadstairs, Kent England",
-    "BeerAbv": 3.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668372,
-    "BeerName": "Magnum Red",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Four Candles",
-    "Origin": "Broadstairs, Kent England",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   }
 ]

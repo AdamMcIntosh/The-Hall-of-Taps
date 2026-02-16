@@ -1,23 +1,27 @@
 [
   {
-    "BID": 4960230,
-    "BeerName": "“Milkshake” Stupid Humid Hazy Neipa W/ Peanut Butter & Lactose",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Two Blokes Brewing",
-    "Origin": "Mount Pleasant, SC United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "BID": 4815245,
+    "BeerName": "Maikrawalle",
+    "BeerStyle": "Homebrew, Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Chapter-H Brewing",
+    "Origin": "Germany",
+    "BeerAbv": 7.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
-    "BID": 3339421,
-    "BeerName": "Badger’s Blackberry Pale Ale",
-    "BeerStyle": "Pale Ale - English",
+    "BID": 4445735,
+    "BeerName": "Boaty Mcboatface",
+    "BeerStyle": "Cream Ale",
     "BreweryName": "Two Blokes Brewing",
     "Origin": "Mount Pleasant, SC United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 28.00,
-    "HallRating": 0.00
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3342055,
@@ -27,17 +31,33 @@
     "Origin": "Mount Pleasant, SC United States",
     "BeerAbv": 5.60,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 4630489,
-    "BeerName": "221B",
-    "BeerStyle": "Wild Ale - Other",
-    "BreweryName": "JAMA Craft Brewery",
-    "Origin": "Chorvátsky Grob, Bratislavský kraj Slovakia",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "BID": 3339421,
+    "BeerName": "Badger’s Blackberry Pale Ale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Two Blokes Brewing",
+    "Origin": "Mount Pleasant, SC United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "119"
+  },
+  {
+    "BID": 4960230,
+    "BeerName": "“Milkshake” Stupid Humid Hazy Neipa W/ Peanut Butter & Lactose",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Two Blokes Brewing",
+    "Origin": "Mount Pleasant, SC United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4631982,
@@ -47,17 +67,21 @@
     "Origin": "Chorvátsky Grob, Bratislavský kraj Slovakia",
     "BeerAbv": 5.90,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 4815246,
-    "BeerName": "Export IPA Sabro",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Brasserie Iron",
-    "Origin": "Montauban, Occitanie France",
-    "BeerAbv": 6.00,
+    "BID": 4630489,
+    "BeerName": "221B",
+    "BeerStyle": "Wild Ale - Other",
+    "BreweryName": "JAMA Craft Brewery",
+    "Origin": "Chorvátsky Grob, Bratislavský kraj Slovakia",
+    "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4632164,
@@ -67,7 +91,21 @@
     "Origin": "Montauban, Occitanie France",
     "BeerAbv": 6.50,
     "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 4815246,
+    "BeerName": "Export IPA Sabro",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Brasserie Iron",
+    "Origin": "Montauban, Occitanie France",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4981439,
@@ -77,7 +115,9 @@
     "Origin": "Montauban, Occitanie France",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
     "BID": 4981567,
@@ -87,27 +127,9 @@
     "Origin": "Fresno, CA United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9367,
-    "BeerName": "Tamarack Amber Lager",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Tioga-Sequoia Brewing Co.",
-    "Origin": "Fresno, CA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8485,
-    "BeerName": "Peak Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Tioga-Sequoia Brewing Co.",
-    "Origin": "Fresno, CA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "128"
   },
   {
     "BID": 4445736,
@@ -117,7 +139,9 @@
     "Origin": "Fresno, CA United States",
     "BeerAbv": 3.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445824,
@@ -127,7 +151,9 @@
     "Origin": "Fresno, CA United States",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3338076,
@@ -137,7 +163,9 @@
     "Origin": "Fresno, CA United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 3338077,
@@ -147,17 +175,9 @@
     "Origin": "Fresno, CA United States",
     "BeerAbv": 6.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336292,
-    "BeerName": "Roast Gose V4 : Redux",
-    "BeerStyle": "Sour - Traditional Gose",
-    "BreweryName": "Tioga-Sequoia Brewing Co.",
-    "Origin": "Fresno, CA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1677140,
@@ -167,17 +187,45 @@
     "Origin": "Fresno, CA United States",
     "BeerAbv": 11.30,
     "BeerIbu": 21.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
-    "BID": 1670112,
-    "BeerName": "Chardonnay Barrel Catacomb Brew (Saison in Chardonnay Barrels)",
-    "BeerStyle": "Farmhouse Ale - Saison",
+    "BID": 3336292,
+    "BeerName": "Roast Gose V4 : Redux",
+    "BeerStyle": "Sour - Traditional Gose",
     "BreweryName": "Tioga-Sequoia Brewing Co.",
     "Origin": "Fresno, CA United States",
-    "BeerAbv": 5.80,
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 8485,
+    "BeerName": "Peak Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Tioga-Sequoia Brewing Co.",
+    "Origin": "Fresno, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "88"
+  },
+  {
+    "BID": 9367,
+    "BeerName": "Tamarack Amber Lager",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Tioga-Sequoia Brewing Co.",
+    "Origin": "Fresno, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
   },
   {
     "BID": 1671337,
@@ -187,7 +235,21 @@
     "Origin": "Fresno, CA United States",
     "BeerAbv": 5.00,
     "BeerIbu": 58.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 1670112,
+    "BeerName": "Chardonnay Barrel Catacomb Brew (Saison in Chardonnay Barrels)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Tioga-Sequoia Brewing Co.",
+    "Origin": "Fresno, CA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 4815247,
@@ -197,7 +259,9 @@
     "Origin": "South Shields, Tyne and Wear England",
     "BeerAbv": 4.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4939787,
@@ -207,7 +271,9 @@
     "Origin": "South Shields, Tyne and Wear England",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630491,
@@ -217,7 +283,9 @@
     "Origin": "Norway",
     "BeerAbv": 10.40,
     "BeerIbu": 44.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630495,
@@ -227,26 +295,8 @@
     "Origin": "Norway",
     "BeerAbv": 7.40,
     "BeerIbu": 32.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630515,
-    "BeerName": "Dark Mild Ale",
-    "BeerStyle": "Homebrew, Mild - Dark",
-    "BreweryName": "Hjelle Nanobryggeri",
-    "Origin": "Norway",
-    "BeerAbv": 3.80,
-    "BeerIbu": 19.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445738,
-    "BeerName": "P45",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Drewes Brews",
-    "Origin": "United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 56.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

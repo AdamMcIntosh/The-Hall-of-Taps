@@ -1,113 +1,255 @@
 [
   {
-    "BID": 4981100,
-    "BeerName": "Maltermeister Turm Kellerbier",
-    "BeerStyle": "Kellerbier / Zwickelbier",
-    "BreweryName": "Maltermeister Turm",
-    "Origin": "Goslar, Niedersachsen Germany",
+    "BID": 3339644,
+    "BeerName": "Tooda Lou",
+    "BeerStyle": "Lager - American Amber / Red",
+    "BreweryName": "Butcher and the Brewer",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
+  },
+  {
+    "BID": 3339628,
+    "BeerName": "Golden Sombrero",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Butcher and the Brewer",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 3344385,
+    "BeerName": "This Space Is Getting Hot",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Butcher and the Brewer",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 1671912,
+    "BeerName": "Dunkelweizen",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Butcher and the Brewer",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 4940365,
+    "BeerName": "Simplicity: German Pilsner & Michigan Neomexicanus",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Butcher and the Brewer",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4981044,
+    "BeerName": "Citadelle Ipa",
+    "BeerStyle": "IPA - Belgian",
+    "BreweryName": "Aux Maboules",
+    "Origin": "France",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 4961121,
-    "BeerName": "Broadsword",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Buzzed Viking Brewing Company",
-    "Origin": "Concord, NC United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4940417,
-    "BeerName": "Wrathchild",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Buzzed Viking Brewing Company",
-    "Origin": "Concord, NC United States",
-    "BeerAbv": 7.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342507,
-    "BeerName": "Yes Please",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Buzzed Viking Brewing Company",
-    "Origin": "Concord, NC United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960909,
-    "BeerName": "C's Get Degrees",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Magnetic South Brewery",
-    "Origin": "Anderson, SC United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 34.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981101,
-    "BeerName": "Carolina Sunset",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Magnetic South Brewery",
-    "Origin": "Anderson, SC United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13781,
-    "BeerName": "Kongens Fadebur Julebryg",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Ørbæk Bryggeri",
-    "Origin": "Ørbæk, Region Syddanmark Denmark",
+    "BID": 4940366,
+    "BeerName": "Dripped Out: Coconut, Pineapple, Lime",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Wildflyer Mead and Beer Company",
+    "Origin": "Navasota, TX United States",
     "BeerAbv": 6.00,
-    "BeerIbu": 22.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13783,
-    "BeerName": "Ekstra Julebryg",
-    "BeerStyle": "Winter Warmer",
-    "BreweryName": "Ørbæk Bryggeri",
-    "Origin": "Ørbæk, Region Syddanmark Denmark",
-    "BeerAbv": 6.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 1672304,
-    "BeerName": "Cider Økologisk Hyldeblomst",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Ørbæk Bryggeri",
-    "Origin": "Ørbæk, Region Syddanmark Denmark",
-    "BeerAbv": 4.20,
+    "BID": 3340549,
+    "BeerName": "Bittersweet",
+    "BeerStyle": "Mead - Metheglin",
+    "BreweryName": "Wildflyer Mead and Beer Company",
+    "Origin": "Navasota, TX United States",
+    "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 1673628,
-    "BeerName": "Weissbier",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Ørbæk Bryggeri",
-    "Origin": "Ørbæk, Region Syddanmark Denmark",
+    "BID": 4960709,
+    "BeerName": "XPA",
+    "BeerStyle": "Pale Ale - XPA (Extra Pale)",
+    "BreweryName": "Moonwake",
+    "Origin": "Edinburgh, Scotland",
+    "BeerAbv": 3.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 4961081,
+    "BeerName": "No Bammer Hopz",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Olarin Panimo",
+    "Origin": "Helsinki, Uusimaa Finland",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4940367,
+    "BeerName": "Truffle Snout Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Olarin Panimo",
+    "Origin": "Helsinki, Uusimaa Finland",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "75"
+  },
+  {
+    "BID": 4940370,
+    "BeerName": "Mic Check: West Coast NEDIPA",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Olarin Panimo",
+    "Origin": "Helsinki, Uusimaa Finland",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 4982141,
+    "BeerName": "Mic Check! American Amber Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Olarin Panimo",
+    "Origin": "Helsinki, Uusimaa Finland",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 4960710,
+    "BeerName": "Bière D‘ été",
+    "BeerStyle": "Wheat Beer - Other",
+    "BreweryName": "Montmorillon",
+    "Origin": "Montmorillon, Nouvelle-Aquitaine France",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 4981047,
+    "BeerName": "Blackest Berries",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Alcove",
+    "Origin": "Vladimir, Vladimir Oblast Russia",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4940368,
+    "BeerName": "Pear Apple Cider",
+    "BeerStyle": "Cider - Perry / Poiré",
+    "BreweryName": "Thornbury Craft Co.",
+    "Origin": "Thornbury, ON Canada",
+    "BeerAbv": 7.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 6743,
+    "BeerName": "King Pilsner",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Thornbury Craft Co.",
+    "Origin": "Thornbury, ON Canada",
     "BeerAbv": 4.80,
-    "BeerIbu": 18.00,
-    "HallRating": 0.00
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
   },
   {
-    "BID": 4940374,
-    "BeerName": "Wedding Beer",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "Ørbæk Bryggeri",
-    "Origin": "Ørbæk, Region Syddanmark Denmark",
-    "BeerAbv": 6.00,
+    "BID": 4960711,
+    "BeerName": "Caramel Fog",
+    "BeerStyle": "Homebrew, Lager - Amber / Red",
+    "BreweryName": "DVIZH Brewery",
+    "Origin": "Russia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4960749,
+    "BeerName": "Absolute Munich",
+    "BeerStyle": "Homebrew, Barleywine - Other",
+    "BreweryName": "DVIZH Brewery",
+    "Origin": "Russia",
+    "BeerAbv": 11.00,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4981049,
+    "BeerName": "Satellites And Astronauts",
+    "BeerStyle": "Homebrew, IPA - New England / Hazy",
+    "BreweryName": "FatFox",
+    "Origin": "Ukraine",
+    "BeerAbv": 5.90,
+    "BeerIbu": 19.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 7566,
+    "BeerName": "Naturtrüb",
+    "BeerStyle": "Kellerbier / Zwickelbier",
+    "BreweryName": "Schloss Eggenberg",
+    "Origin": "Eggenberg, Oberösterreich Austria",
+    "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
     "BID": 1673557,
@@ -117,7 +259,9 @@
     "Origin": "Magog, QC Canada",
     "BeerAbv": 5.60,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1671179,
@@ -127,7 +271,9 @@
     "Origin": "Magog, QC Canada",
     "BeerAbv": 6.50,
     "BeerIbu": 31.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4981053,
@@ -137,7 +283,9 @@
     "Origin": "Magog, QC Canada",
     "BeerAbv": 4.00,
     "BeerIbu": 20.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 4960717,
@@ -147,106 +295,8 @@
     "Origin": "Roma, Lazio Italy",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981054,
-    "BeerName": "Sunshine",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Flack's",
-    "Origin": "Romsey, Hampshire England",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1670251,
-    "BeerName": "Flack's Double Drop",
-    "BeerStyle": "Bitter - Best",
-    "BreweryName": "Flack's",
-    "Origin": "Romsey, Hampshire England",
-    "BeerAbv": 3.70,
-    "BeerIbu": 21.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960718,
-    "BeerName": "Big Mc.",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Drip",
-    "Origin": "Hellertown, PA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4940377,
-    "BeerName": "Black Barrel",
-    "BeerStyle": "Lager - Mexican",
-    "BreweryName": "BuckleDown Brewing",
-    "Origin": "Lyons, IL United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342183,
-    "BeerName": "B4RR3L R0LL Double Barrel Neapolitan Stout 2019",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "BuckleDown Brewing",
-    "Origin": "Lyons, IL United States",
-    "BeerAbv": 14.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341912,
-    "BeerName": "B4RREL RO11 Double Barrel Aged Bourbon  Aged (2019)",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "BuckleDown Brewing",
-    "Origin": "Lyons, IL United States",
-    "BeerAbv": 14.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336864,
-    "BeerName": "B4RR3L R0LL - Chocolate",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "BuckleDown Brewing",
-    "Origin": "Lyons, IL United States",
-    "BeerAbv": 14.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981055,
-    "BeerName": "Whole Lotta Rosie",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "River’s Edge Brewing Co.",
-    "Origin": "Milford, MI United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960719,
-    "BeerName": "Falling Water - Mosaic",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Beltway Brewing Co",
-    "Origin": "Sterling, VA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4816237,
-    "BeerName": "Maple BBA Wizard Potion",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "One Well Brewing",
-    "Origin": "Kalamazoo, MI United States",
-    "BeerAbv": 13.10,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   }
 ]

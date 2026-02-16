@@ -1,5 +1,17 @@
 [
   {
+    "BID": 10469,
+    "BeerName": "Doc’s Draft Raspberry Hard Apple Cider (Framboise)",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Warwick Valley Winery & Distillery",
+    "Origin": "Warwick, NY United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 20.22,
+    "BAR": 12.41,
+    "StylePlus": "108"
+  },
+  {
     "BID": 11594,
     "BeerName": "Wildflower Wheat",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -7,7 +19,9 @@
     "Origin": "Albuquerque, NM United States",
     "BeerAbv": 5.60,
     "BeerIbu": 13.00,
-    "HallRating": 20.17
+    "HallRating": 20.17,
+    "BAR": 12.34,
+    "StylePlus": "115"
   },
   {
     "BID": 12603,
@@ -17,7 +31,9 @@
     "Origin": "Carolina, Puerto Rico",
     "BeerAbv": 5.50,
     "BeerIbu": 38.00,
-    "HallRating": 19.89
+    "HallRating": 19.89,
+    "BAR": 11.89,
+    "StylePlus": "122"
   },
   {
     "BID": 11893,
@@ -27,7 +43,9 @@
     "Origin": "Winkleigh, Devon England",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 19.86
+    "HallRating": 19.86,
+    "BAR": 4.60,
+    "StylePlus": "108"
   },
   {
     "BID": 11650,
@@ -37,7 +55,9 @@
     "Origin": "St. John's, MI United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 19.59
+    "HallRating": 19.59,
+    "BAR": 11.38,
+    "StylePlus": "108"
   },
   {
     "BID": 12651,
@@ -47,7 +67,9 @@
     "Origin": "Sunnyvale, CA United States",
     "BeerAbv": 6.90,
     "BeerIbu": 0.00,
-    "HallRating": 19.43
+    "HallRating": 19.43,
+    "BAR": 11.08,
+    "StylePlus": "107"
   },
   {
     "BID": 11709,
@@ -57,7 +79,9 @@
     "Origin": "Golden, CO United States",
     "BeerAbv": 4.95,
     "BeerIbu": 0.00,
-    "HallRating": 19.41
+    "HallRating": 19.41,
+    "BAR": 11.05,
+    "StylePlus": "122"
   },
   {
     "BID": 11459,
@@ -67,7 +91,9 @@
     "Origin": "Woodend, Victoria Australia",
     "BeerAbv": 5.00,
     "BeerIbu": 20.00,
-    "HallRating": 19.33
+    "HallRating": 19.33,
+    "BAR": 5.02,
+    "StylePlus": "116"
   },
   {
     "BID": 10082,
@@ -77,7 +103,9 @@
     "Origin": "Greeley, CO United States",
     "BeerAbv": 5.00,
     "BeerIbu": 11.00,
-    "HallRating": 19.32
+    "HallRating": 19.32,
+    "BAR": 10.88,
+    "StylePlus": "115"
   },
   {
     "BID": 1009,
@@ -87,7 +115,9 @@
     "Origin": "Exton, PA United States",
     "BeerAbv": 5.00,
     "BeerIbu": 25.00,
-    "HallRating": 19.24
+    "HallRating": 19.24,
+    "BAR": 10.72,
+    "StylePlus": "119"
   },
   {
     "BID": 10785,
@@ -97,7 +127,9 @@
     "Origin": "Sacramento, CA United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 19.13
+    "HallRating": 19.13,
+    "BAR": 10.51,
+    "StylePlus": "107"
   },
   {
     "BID": 11585,
@@ -107,7 +139,9 @@
     "Origin": "Burleigh Heads, Queensland Australia",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 19.08
+    "HallRating": 19.08,
+    "BAR": 10.41,
+    "StylePlus": "114"
   },
   {
     "BID": 10085,
@@ -117,7 +151,9 @@
     "Origin": "Munster, IN United States",
     "BeerAbv": 5.10,
     "BeerIbu": 0.00,
-    "HallRating": 19.01
+    "HallRating": 19.01,
+    "BAR": 5.34,
+    "StylePlus": "119"
   },
   {
     "BID": 11303,
@@ -127,7 +163,9 @@
     "Origin": "Chimacum, WA United States",
     "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "HallRating": 19.00
+    "HallRating": 19.00,
+    "BAR": 10.24,
+    "StylePlus": "108"
   },
   {
     "BID": 11646,
@@ -137,7 +175,21 @@
     "Origin": "St. John's, MI United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 18.95
+    "HallRating": 18.95,
+    "BAR": 10.15,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 12702,
+    "BeerName": "Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Innis & Gunn",
+    "Origin": "Edinburgh, Scotland",
+    "BeerAbv": 6.00,
+    "BeerIbu": 24.00,
+    "HallRating": 18.90,
+    "BAR": 10.02,
+    "StylePlus": "115"
   },
   {
     "BID": 12667,
@@ -147,7 +199,9 @@
     "Origin": "Sunnyvale, CA United States",
     "BeerAbv": 6.90,
     "BeerIbu": 0.00,
-    "HallRating": 18.74
+    "HallRating": 18.74,
+    "BAR": 9.65,
+    "StylePlus": "107"
   },
   {
     "BID": 11392,
@@ -157,7 +211,9 @@
     "Origin": "Longmont, CO United States",
     "BeerAbv": 5.00,
     "BeerIbu": 20.00,
-    "HallRating": 18.69
+    "HallRating": 18.69,
+    "BAR": 9.53,
+    "StylePlus": "115"
   },
   {
     "BID": 11669,
@@ -167,7 +223,9 @@
     "Origin": "Elmsford, NY United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 18.64
+    "HallRating": 18.64,
+    "BAR": 9.39,
+    "StylePlus": "115"
   },
   {
     "BID": 10891,
@@ -177,7 +235,9 @@
     "Origin": "Kansas City, MO United States",
     "BeerAbv": 8.50,
     "BeerIbu": 38.00,
-    "HallRating": 18.62
+    "HallRating": 18.62,
+    "BAR": 13.86,
+    "StylePlus": "105"
   },
   {
     "BID": 12192,
@@ -187,7 +247,9 @@
     "Origin": "Eggenberg, Oberösterreich Austria",
     "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "HallRating": 18.60
+    "HallRating": 18.60,
+    "BAR": 9.28,
+    "StylePlus": "141"
   },
   {
     "BID": 10173,
@@ -197,7 +259,9 @@
     "Origin": "Boise, ID United States",
     "BeerAbv": 4.50,
     "BeerIbu": 17.00,
-    "HallRating": 18.57
+    "HallRating": 18.57,
+    "BAR": 9.19,
+    "StylePlus": "115"
   },
   {
     "BID": 10759,
@@ -207,7 +271,9 @@
     "Origin": "Longmont, CO United States",
     "BeerAbv": 6.50,
     "BeerIbu": 65.00,
-    "HallRating": 18.55
+    "HallRating": 18.55,
+    "BAR": 13.79,
+    "StylePlus": "110"
   },
   {
     "BID": 10207,
@@ -217,7 +283,9 @@
     "Origin": "Boulder, CO United States",
     "BeerAbv": 8.69,
     "BeerIbu": 0.00,
-    "HallRating": 18.52
+    "HallRating": 18.52,
+    "BAR": 9.04,
+    "StylePlus": "114"
   },
   {
     "BID": 1013,
@@ -227,26 +295,8 @@
     "Origin": "Grand Rapids, MI United States",
     "BeerAbv": 8.50,
     "BeerIbu": 50.00,
-    "HallRating": 18.39
-  },
-  {
-    "BID": 10049,
-    "BeerName": "Chimay Cinq Cents (White)",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Bières de Chimay",
-    "Origin": "Chimay, Région Wallonne Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 38.00,
-    "HallRating": 18.37
-  },
-  {
-    "BID": 11499,
-    "BeerName": "The Jacket",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Crispin Cider Company",
-    "Origin": "Colfax, CA United States",
-    "BeerAbv": 8.30,
-    "BeerIbu": 0.00,
-    "HallRating": 18.25
+    "HallRating": 18.39,
+    "BAR": 13.59,
+    "StylePlus": "103"
   }
 ]

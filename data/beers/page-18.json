@@ -1,5 +1,101 @@
 [
   {
+    "BID": 11078,
+    "BeerName": "Kotayk (Котайк)",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Kotayk Brewery",
+    "Origin": "Abovyan, Kotayk Province Armenia",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 15.06,
+    "BAR": 9.14,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 11695,
+    "BeerName": "Saint Botolph's Town",
+    "BeerStyle": "Brown Ale - English",
+    "BreweryName": "Pretty Things Beer & Ale Project",
+    "Origin": "Somerville, MA United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 15.05,
+    "BAR": 9.13,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 12555,
+    "BeerName": "Revolution",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Eagle Rock Brewery",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 40.00,
+    "HallRating": 15.04,
+    "BAR": 9.11,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 11955,
+    "BeerName": "Blackberry Ale (2007)",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Cascade Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 15.04,
+    "BAR": 9.11,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 11756,
+    "BeerName": "Dark White",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Brasserie Fantôme",
+    "Origin": "Érezée, Région Wallonne Belgium",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 15.04,
+    "BAR": 9.11,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 12485,
+    "BeerName": "Gorkha Beer",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Gorkha Brewery",
+    "Origin": "Kathmandu, मध्यमाञ्चल विकास क्षेत्र Nepal",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 15.03,
+    "BAR": 9.10,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 11819,
+    "BeerName": "Black Tokyo* Horizon",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
+    "BeerAbv": 15.20,
+    "BeerIbu": 100.00,
+    "HallRating": 15.03,
+    "BAR": 9.09,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 11528,
+    "BeerName": "Old Knucklehead",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "BridgePort Brewing Co.",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 9.20,
+    "BeerIbu": 60.00,
+    "HallRating": 15.02,
+    "BAR": 9.07,
+    "StylePlus": "102"
+  },
+  {
     "BID": 10154,
     "BeerName": "Christianshavn Pale Ale",
     "BeerStyle": "Pale Ale - American",
@@ -7,7 +103,9 @@
     "Origin": "Denmark",
     "BeerAbv": 5.50,
     "BeerIbu": 45.00,
-    "HallRating": 15.01
+    "HallRating": 15.01,
+    "BAR": 9.06,
+    "StylePlus": "110"
   },
   {
     "BID": 11327,
@@ -17,7 +115,9 @@
     "Origin": "Dunedin, Otago New Zealand",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 15.01
+    "HallRating": 15.01,
+    "BAR": 9.06,
+    "StylePlus": "106"
   },
   {
     "BID": 10905,
@@ -27,7 +127,9 @@
     "Origin": "Vista, CA United States",
     "BeerAbv": 8.10,
     "BeerIbu": 18.00,
-    "HallRating": 15.01
+    "HallRating": 15.01,
+    "BAR": 9.06,
+    "StylePlus": "107"
   },
   {
     "BID": 12095,
@@ -37,7 +139,9 @@
     "Origin": "Victor, ID United States",
     "BeerAbv": 8.50,
     "BeerIbu": 145.00,
-    "HallRating": 15.00
+    "HallRating": 15.00,
+    "BAR": 9.05,
+    "StylePlus": "104"
   },
   {
     "BID": 1143,
@@ -47,7 +151,9 @@
     "Origin": "Littleton, CO United States",
     "BeerAbv": 4.95,
     "BeerIbu": 0.00,
-    "HallRating": 15.00
+    "HallRating": 15.00,
+    "BAR": 9.04,
+    "StylePlus": "104"
   },
   {
     "BID": 11152,
@@ -57,7 +163,9 @@
     "Origin": "Middleton, Greater Manchester England",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 15.00
+    "HallRating": 15.00,
+    "BAR": 9.05,
+    "StylePlus": "114"
   },
   {
     "BID": 10221,
@@ -67,7 +175,9 @@
     "Origin": "Missoula, MT United States",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 14.99
+    "HallRating": 14.99,
+    "BAR": 9.04,
+    "StylePlus": "104"
   },
   {
     "BID": 12647,
@@ -77,7 +187,9 @@
     "Origin": "Orp-Jauche, Région Wallonne Belgium",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.99
+    "HallRating": 14.99,
+    "BAR": 9.04,
+    "StylePlus": "105"
   },
   {
     "BID": 10772,
@@ -87,7 +199,9 @@
     "Origin": "Verona, WI United States",
     "BeerAbv": 6.40,
     "BeerIbu": 38.00,
-    "HallRating": 14.98
+    "HallRating": 14.98,
+    "BAR": 9.01,
+    "StylePlus": "106"
   },
   {
     "BID": 12421,
@@ -97,7 +211,9 @@
     "Origin": "Warrenville, IL United States",
     "BeerAbv": 6.90,
     "BeerIbu": 0.00,
-    "HallRating": 14.98
+    "HallRating": 14.98,
+    "BAR": 9.01,
+    "StylePlus": "104"
   },
   {
     "BID": 10439,
@@ -107,7 +223,9 @@
     "Origin": "Fredericksburg, TX United States",
     "BeerAbv": 5.30,
     "BeerIbu": 0.00,
-    "HallRating": 14.98
+    "HallRating": 14.98,
+    "BAR": 9.01,
+    "StylePlus": "115"
   },
   {
     "BID": 11661,
@@ -117,7 +235,9 @@
     "Origin": "South Deerfield, MA United States",
     "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.98
+    "HallRating": 14.98,
+    "BAR": 9.01,
+    "StylePlus": "102"
   },
   {
     "BID": 11969,
@@ -127,7 +247,9 @@
     "Origin": "Paraparaumu, Wellington New Zealand",
     "BeerAbv": 5.00,
     "BeerIbu": 42.00,
-    "HallRating": 14.98
+    "HallRating": 14.98,
+    "BAR": 9.01,
+    "StylePlus": "115"
   },
   {
     "BID": 10460,
@@ -137,37 +259,9 @@
     "Origin": "Drammen, Buskerud Norway",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 14.98
-  },
-  {
-    "BID": 123,
-    "BeerName": "Falcon IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Rock Bottom Restaurant & Brewery",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 66.00,
-    "HallRating": 14.97
-  },
-  {
-    "BID": 11689,
-    "BeerName": "Uppity Jag-Off IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Rock Bottom Restaurant & Brewery",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 60.00,
-    "HallRating": 14.97
-  },
-  {
-    "BID": 10356,
-    "BeerName": "FrostNipper",
-    "BeerStyle": "Winter Warmer",
-    "BreweryName": "Aviator Brewing Company",
-    "Origin": "Fuquay-Varina, NC United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 65.00,
-    "HallRating": 14.97
+    "HallRating": 14.98,
+    "BAR": 9.01,
+    "StylePlus": "107"
   },
   {
     "BID": 11429,
@@ -177,76 +271,32 @@
     "Origin": "Pittsburgh, PA United States",
     "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": 14.97
+    "HallRating": 14.97,
+    "BAR": 8.99,
+    "StylePlus": "103"
   },
   {
-    "BID": 10321,
-    "BeerName": "Breakout Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Jailhouse Brewing Company",
-    "Origin": "Hampton, GA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 45.00,
-    "HallRating": 14.97
-  },
-  {
-    "BID": 12373,
-    "BeerName": "Indian Boundary Ale",
-    "BeerStyle": "IPA - Brown",
-    "BreweryName": "Limestone Brewing Company",
-    "Origin": "Plainfield, IL United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 65.00,
-    "HallRating": 14.96
-  },
-  {
-    "BID": 12176,
-    "BeerName": "Golden Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Dave’s BrewFarm",
-    "Origin": "Wilson, WI United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.96
-  },
-  {
-    "BID": 10293,
-    "BeerName": "Illusion Dweller IPA",
-    "BeerStyle": "IPA - English",
-    "BreweryName": "Mountain Sun Pubs & Breweries",
-    "Origin": "Boulder, CO United States",
+    "BID": 10356,
+    "BeerName": "FrostNipper",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "Aviator Brewing Company",
+    "Origin": "Fuquay-Varina, NC United States",
     "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "HallRating": 14.95
+    "BeerIbu": 65.00,
+    "HallRating": 14.97,
+    "BAR": 8.99,
+    "StylePlus": "109"
   },
   {
-    "BID": 11758,
-    "BeerName": "Infinite Wisdom Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Upland Brewing Company",
-    "Origin": "Bloomington, IN United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 30.00,
-    "HallRating": 14.95
-  },
-  {
-    "BID": 12007,
-    "BeerName": "Anvil Porter",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "French Broad River Brewery",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 34.00,
-    "HallRating": 14.95
-  },
-  {
-    "BID": 10366,
-    "BeerName": "Bière Ambrée parfumée au Tarry Suchong (BATS)",
-    "BeerStyle": "Smoked Beer",
-    "BreweryName": "Brasserie des Franches-Montagnes (BFM)",
-    "Origin": "Saignelégier, Jura Switzerland",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.94
+    "BID": 123,
+    "BeerName": "Falcon IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Rock Bottom Restaurant & Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 66.00,
+    "HallRating": 14.97,
+    "BAR": 8.99,
+    "StylePlus": "104"
   }
 ]

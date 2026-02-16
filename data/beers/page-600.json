@@ -1,103 +1,183 @@
 [
   {
-    "BID": 3339792,
-    "BeerName": "Push Up Pop - Peach Raspberry",
-    "BeerStyle": "Homebrew, Fruit Beer",
-    "BreweryName": "Monomyth Brewing Co.",
+    "BID": 3339828,
+    "BeerName": "Caramel And Chocolate Dark Lager",
+    "BeerStyle": "Homebrew, Lager - Dark",
+    "BreweryName": "Ray Hoefer Brewing Co.",
     "Origin": "United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8397,
-    "BeerName": "Maverick's Full Bore Double IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Breakwater Brewing Company",
-    "Origin": "Vista, CA United States",
-    "BeerAbv": 8.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939399,
-    "BeerName": "Chunk Town Funk",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "The Libertine Brewing Company",
-    "Origin": "San Luis Obispo, CA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1667376,
-    "BeerName": "Kettle Sour Orange (KSO)",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "The Libertine Brewing Company",
-    "Origin": "San Luis Obispo, CA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1667218,
-    "BeerName": "Summer Breeze w/ Persimmons, Raspberries, & Blackberries",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "The Libertine Brewing Company",
-    "Origin": "San Luis Obispo, CA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339793,
-    "BeerName": "DEWEY SMALLS!",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Alta Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 2.10,
-    "BeerIbu": 18.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13836,
-    "BeerName": "Uncle Tom's Top Hat Porter",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Oceanside Ale Works",
-    "Origin": "Oceanside, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 8400,
-    "BeerName": "Buccaneer Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Oceanside Ale Works",
-    "Origin": "Oceanside, CA United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 18.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8399,
-    "BeerName": "American Strong Ale",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Oceanside Ale Works",
-    "Origin": "Oceanside, CA United States",
-    "BeerAbv": 9.20,
-    "BeerIbu": 55.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8428,
-    "BeerName": "Strong Blonde - Tap Blend",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Oceanside Ale Works",
-    "Origin": "Oceanside, CA United States",
+    "BID": 3339808,
+    "BeerName": "Gose W/Lime And Lemon",
+    "BeerStyle": "Homebrew, Sour - Traditional Gose",
+    "BreweryName": "Ray Hoefer Brewing Co.",
+    "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3339800,
+    "BeerName": "Hoefer Session IPA",
+    "BeerStyle": "Homebrew, IPA - Session",
+    "BreweryName": "Ray Hoefer Brewing Co.",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3339818,
+    "BeerName": "Belgian Single",
+    "BeerStyle": "Homebrew, Belgian Blonde",
+    "BreweryName": "Ray Hoefer Brewing Co.",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1676717,
+    "BeerName": "Hr Kolsch",
+    "BeerStyle": "Homebrew, Kölsch",
+    "BreweryName": "Pico Bryggeriet SNAS",
+    "Origin": "Norway",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1672498,
+    "BeerName": "Oregon Stout",
+    "BeerStyle": "Homebrew, Stout - American",
+    "BreweryName": "Pico Bryggeriet SNAS",
+    "Origin": "Norway",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3339802,
+    "BeerName": "EHT Kentucky Common",
+    "BeerStyle": "Historical Beer - Kentucky Common",
+    "BreweryName": "Sig Luscher Brewery",
+    "Origin": "Frankfort, KY United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 4.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 3333875,
+    "BeerName": "The Flying Dutchman",
+    "BeerStyle": "Homebrew, Pilsner - Other",
+    "BreweryName": "The Edward's Paddle",
+    "Origin": "Australia",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3333879,
+    "BeerName": "Black Out Ale",
+    "BeerStyle": "Homebrew, Dark Ale",
+    "BreweryName": "The Edward's Paddle",
+    "Origin": "Australia",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 8410,
+    "BeerName": "The Pope IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Hollister Brewing Company",
+    "Origin": "Goleta, CA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 9113,
+    "BeerName": "Belgian Quad aged in Pinot barrels",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Hollister Brewing Company",
+    "Origin": "Goleta, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 10714,
+    "BeerName": "Kristalweiss",
+    "BeerStyle": "Wheat Beer - Kristallweizen",
+    "BreweryName": "Hollister Brewing Company",
+    "Origin": "Goleta, CA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "92"
+  },
+  {
+    "BID": 3340088,
+    "BeerName": "Harvest Cider 2nd Edition",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Eden Specialty Ciders",
+    "Origin": "Newport, VT United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 5393,
+    "BeerName": "King's Peak Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Uinta Brewing Company",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 1672402,
+    "BeerName": "Row Lake Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Five Rings Brewing",
+    "Origin": "Italy",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 1672492,
@@ -107,7 +187,9 @@
     "Origin": "Phillipsburg, NJ United States",
     "BeerAbv": 9.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 1673914,
@@ -117,7 +199,9 @@
     "Origin": "Crete, IL United States",
     "BeerAbv": 6.50,
     "BeerIbu": 32.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 3339796,
@@ -127,7 +211,9 @@
     "Origin": "Crete, IL United States",
     "BeerAbv": 9.00,
     "BeerIbu": 100.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 1672493,
@@ -137,7 +223,9 @@
     "Origin": "Älta, Stockholms län Sweden",
     "BeerAbv": 5.30,
     "BeerIbu": 32.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "87"
   },
   {
     "BID": 1672494,
@@ -147,106 +235,68 @@
     "Origin": "Sherborne, Dorset England",
     "BeerAbv": 5.00,
     "BeerIbu": 51.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
   },
   {
-    "BID": 6749,
-    "BeerName": "R&R Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "LumberYard Brewing Company",
-    "Origin": "Flagstaff, AZ United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4962096,
-    "BeerName": "Tropical Pineapple Wheat",
-    "BeerStyle": "Wheat Beer - Other",
-    "BreweryName": "LumberYard Brewing Company",
-    "Origin": "Flagstaff, AZ United States",
-    "BeerAbv": 5.00,
+    "BID": 1672954,
+    "BeerName": "Belgian Golden",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Corsair Brewery",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 10.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
-    "BID": 3340284,
-    "BeerName": "Happy Place",
-    "BeerStyle": "Farmhouse Ale - Other",
-    "BreweryName": "Hedgehog Brewing",
-    "Origin": "Cedar Park, TX United States",
-    "BeerAbv": 7.00,
+    "BID": 1672971,
+    "BeerName": "Barrel Aged Chocolate Hazelnut Stout On Nitro",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Corsair Brewery",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 8.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
-    "BID": 1672960,
-    "BeerName": "Vossa Ø1 Anno 1814 Juniper Ale",
-    "BeerStyle": "Farmhouse Ale - Vossaøl / Heimabrugg",
-    "BreweryName": "Sigmund Gjernes",
-    "Origin": "Norway",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13823,
-    "BeerName": "Good Hope IPA",
+    "BID": 1672955,
+    "BeerName": "Southern Fresh IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "75th Street Brewery",
-    "Origin": "Kansas City, MO United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 69.00,
-    "HallRating": 0.00
+    "BreweryName": "Crazy Dingo Brewing Co.",
+    "Origin": "Fort Myers, FL United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 56.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
-    "BID": 9031,
-    "BeerName": "Royal Raspberry Wheat",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "75th Street Brewery",
-    "Origin": "Kansas City, MO United States",
-    "BeerAbv": 5.25,
+    "BID": 3341354,
+    "BeerName": "Mound Key Mild",
+    "BeerStyle": "Mild - Other",
+    "BreweryName": "Crazy Dingo Brewing Co.",
+    "Origin": "Fort Myers, FL United States",
+    "BeerAbv": 4.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
-    "BID": 3340285,
-    "BeerName": "Small But Mighty",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Unsung Brewing Co",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 4.50,
+    "BID": 3341644,
+    "BeerName": "Back Bay Brown",
+    "BeerStyle": "Brown Ale - Other",
+    "BreweryName": "Crazy Dingo Brewing Co.",
+    "Origin": "Fort Myers, FL United States",
+    "BeerAbv": 5.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3343282,
-    "BeerName": "Preston, Idaho",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Unsung Brewing Co",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672961,
-    "BeerName": "Rochester Amber Ale",
-    "BeerStyle": "Homebrew, Red Ale - American Amber / Red",
-    "BreweryName": "Schuster Home Brew",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672962,
-    "BeerName": "Sparkling Pear",
-    "BeerStyle": "Cider - Perry / Poiré",
-    "BreweryName": "Spire Mountain Cider",
-    "Origin": "Olympia, WA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

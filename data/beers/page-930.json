@@ -1,5 +1,41 @@
 [
   {
+    "BID": 4630533,
+    "BeerName": "Holy Night - Bright Christmas Ale",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "7 Fjell Bryggeri",
+    "Origin": "Bønes, Vestland Norway",
+    "BeerAbv": 6.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 4815349,
+    "BeerName": "Bareksten Passionfruit Gin Fizz",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "7 Fjell Bryggeri",
+    "Origin": "Bønes, Vestland Norway",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 4815353,
+    "BeerName": "Bareksten 04 Seasonal Gin & Tonic",
+    "BeerStyle": "Other",
+    "BreweryName": "7 Fjell Bryggeri",
+    "Origin": "Bønes, Vestland Norway",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
     "BID": 4815355,
     "BeerName": "Bareksten Orange Zest Gin & Tonic",
     "BeerStyle": "Other",
@@ -7,7 +43,9 @@
     "Origin": "Bønes, Vestland Norway",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815356,
@@ -17,7 +55,21 @@
     "Origin": "Bønes, Vestland Norway",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4961992,
+    "BeerName": "Hop Heroes",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "7 Fjell Bryggeri",
+    "Origin": "Bønes, Vestland Norway",
+    "BeerAbv": 6.00,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 3335099,
@@ -27,7 +79,9 @@
     "Origin": "Netherlands",
     "BeerAbv": 9.00,
     "BeerIbu": 35.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 1668156,
@@ -37,7 +91,9 @@
     "Origin": "Foča, Republika Srpska Bosnia and Herzegovina",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1668453,
@@ -47,7 +103,9 @@
     "Origin": "Norway",
     "BeerAbv": 5.70,
     "BeerIbu": 35.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 2545,
@@ -57,7 +115,9 @@
     "Origin": "Nederland, CO United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1668454,
@@ -67,7 +127,9 @@
     "Origin": "United States",
     "BeerAbv": 6.20,
     "BeerIbu": 70.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3335102,
@@ -77,7 +139,9 @@
     "Origin": "England",
     "BeerAbv": 10.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 2546,
@@ -87,7 +151,9 @@
     "Origin": "Castle Rock, CO United States",
     "BeerAbv": 7.00,
     "BeerIbu": 72.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
   },
   {
     "BID": 4940213,
@@ -97,7 +163,9 @@
     "Origin": "Castle Rock, CO United States",
     "BeerAbv": 5.80,
     "BeerIbu": 65.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4939274,
@@ -107,7 +175,9 @@
     "Origin": "Tillamook, OR United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4941604,
@@ -117,17 +187,9 @@
     "Origin": "Tillamook, OR United States",
     "BeerAbv": 8.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445964,
-    "BeerName": "The Purple Kriek (Batch 6)",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "de Garde Brewing",
-    "Origin": "Tillamook, OR United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 1668455,
@@ -137,7 +199,21 @@
     "Origin": "Tillamook, OR United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 4445964,
+    "BeerName": "The Purple Kriek (Batch 6)",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "de Garde Brewing",
+    "Origin": "Tillamook, OR United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 3335103,
@@ -147,7 +223,9 @@
     "Origin": "Madrid, Comunidad de Madrid Spain",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3335104,
@@ -157,7 +235,9 @@
     "Origin": "Casablanca, Casablanca-Settat Morocco",
     "BeerAbv": 7.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "95"
   },
   {
     "BID": 1676111,
@@ -167,7 +247,9 @@
     "Origin": "Casablanca, Casablanca-Settat Morocco",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 9208,
@@ -177,37 +259,9 @@
     "Origin": "Casablanca, Casablanca-Settat Morocco",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4961313,
-    "BeerName": "Conntucky Lightnin' (2021)",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "Two Roads Brewing Company",
-    "Origin": "Stratford, CT United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675318,
-    "BeerName": "Honeyspot Road IPA",
-    "BeerStyle": "IPA - White / Wheat",
-    "BreweryName": "Two Roads Brewing Company",
-    "Origin": "Stratford, CT United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 55.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675758,
-    "BeerName": "Road 2 Ruin Double IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Two Roads Brewing Company",
-    "Origin": "Stratford, CT United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 78.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
   },
   {
     "BID": 1668457,
@@ -217,36 +271,32 @@
     "Origin": "Stratford, CT United States",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
-    "BID": 4447232,
-    "BeerName": "Passion Fruit Gose W/ Raspberry Puree",
-    "BeerStyle": "Sour - Fruited Gose",
+    "BID": 1675318,
+    "BeerName": "Honeyspot Road IPA",
+    "BeerStyle": "IPA - White / Wheat",
     "BreweryName": "Two Roads Brewing Company",
     "Origin": "Stratford, CT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "BeerAbv": 6.00,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
   },
   {
-    "BID": 3339146,
-    "BeerName": "French Toast Donut Stout",
-    "BeerStyle": "Stout - Pastry",
+    "BID": 1675758,
+    "BeerName": "Road 2 Ruin Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "Two Roads Brewing Company",
     "Origin": "Stratford, CT United States",
     "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3344212,
-    "BeerName": "Two Juicy",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Two Roads Brewing Company",
-    "Origin": "Stratford, CT United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 42.00,
-    "HallRating": 0.00
+    "BeerIbu": 78.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   }
 ]

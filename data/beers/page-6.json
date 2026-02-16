@@ -1,5 +1,53 @@
 [
   {
+    "BID": 12325,
+    "BeerName": "Noir de Dottignies",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Brouwerij De Ranke",
+    "Origin": "Mouscron, Région Wallonne Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 46.00,
+    "HallRating": 16.58,
+    "BAR": 11.32,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 10740,
+    "BeerName": "The Great'er Pumpkin",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Heavy Seas Beer",
+    "Origin": "Baltimore, MD United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 16.57,
+    "BAR": 11.30,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 12498,
+    "BeerName": "Arend Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij De Ryck",
+    "Origin": "Herzele, Vlaams Gewest Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 35.00,
+    "HallRating": 16.57,
+    "BAR": 11.31,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 117,
+    "BeerName": "Ename Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij Roman",
+    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 16.57,
+    "BAR": 11.30,
+    "StylePlus": "106"
+  },
+  {
     "BID": 11779,
     "BeerName": "Sleigh'r",
     "BeerStyle": "Winter Ale",
@@ -7,7 +55,9 @@
     "Origin": "Eugene, OR United States",
     "BeerAbv": 7.20,
     "BeerIbu": 60.00,
-    "HallRating": 16.57
+    "HallRating": 16.57,
+    "BAR": 11.31,
+    "StylePlus": "114"
   },
   {
     "BID": 12645,
@@ -17,7 +67,9 @@
     "Origin": "Woodinville, WA United States",
     "BeerAbv": 6.90,
     "BeerIbu": 68.00,
-    "HallRating": 16.56
+    "HallRating": 16.56,
+    "BAR": 11.30,
+    "StylePlus": "104"
   },
   {
     "BID": 10530,
@@ -27,7 +79,9 @@
     "Origin": "Cleveland, OH United States",
     "BeerAbv": 5.40,
     "BeerIbu": 20.00,
-    "HallRating": 16.56
+    "HallRating": 16.56,
+    "BAR": 11.29,
+    "StylePlus": "113"
   },
   {
     "BID": 11577,
@@ -37,7 +91,9 @@
     "Origin": "Cape Canaveral, FL United States",
     "BeerAbv": 10.00,
     "BeerIbu": 83.00,
-    "HallRating": 16.56
+    "HallRating": 16.56,
+    "BAR": 11.30,
+    "StylePlus": "101"
   },
   {
     "BID": 12522,
@@ -47,7 +103,9 @@
     "Origin": "Durango, CO United States",
     "BeerAbv": 10.00,
     "BeerIbu": 80.00,
-    "HallRating": 16.55
+    "HallRating": 16.55,
+    "BAR": 11.28,
+    "StylePlus": "101"
   },
   {
     "BID": 12438,
@@ -57,7 +115,9 @@
     "Origin": "Marshall, MI United States",
     "BeerAbv": 8.75,
     "BeerIbu": 36.00,
-    "HallRating": 16.53
+    "HallRating": 16.53,
+    "BAR": 11.25,
+    "StylePlus": "109"
   },
   {
     "BID": 10485,
@@ -67,7 +127,9 @@
     "Origin": "San Francisco, CA United States",
     "BeerAbv": 8.30,
     "BeerIbu": 34.00,
-    "HallRating": 16.53
+    "HallRating": 16.53,
+    "BAR": 11.26,
+    "StylePlus": "104"
   },
   {
     "BID": 10616,
@@ -77,7 +139,9 @@
     "Origin": "Fort Collins, CO United States",
     "BeerAbv": 7.50,
     "BeerIbu": 12.00,
-    "HallRating": 16.52
+    "HallRating": 16.52,
+    "BAR": 11.25,
+    "StylePlus": "102"
   },
   {
     "BID": 10125,
@@ -87,7 +151,9 @@
     "Origin": "Escondido, CA United States",
     "BeerAbv": 8.50,
     "BeerIbu": 0.00,
-    "HallRating": 16.52
+    "HallRating": 16.52,
+    "BAR": 11.25,
+    "StylePlus": "102"
   },
   {
     "BID": 10433,
@@ -97,7 +163,9 @@
     "Origin": "Jacksonville, FL United States",
     "BeerAbv": 6.75,
     "BeerIbu": 65.00,
-    "HallRating": 16.50
+    "HallRating": 16.50,
+    "BAR": 11.21,
+    "StylePlus": "104"
   },
   {
     "BID": 10175,
@@ -107,7 +175,9 @@
     "Origin": "Akron, OH United States",
     "BeerAbv": 5.80,
     "BeerIbu": 24.00,
-    "HallRating": 16.46
+    "HallRating": 16.46,
+    "BAR": 11.16,
+    "StylePlus": "104"
   },
   {
     "BID": 10554,
@@ -117,7 +187,9 @@
     "Origin": "Houston, TX United States",
     "BeerAbv": 6.00,
     "BeerIbu": 24.00,
-    "HallRating": 16.46
+    "HallRating": 16.46,
+    "BAR": 11.17,
+    "StylePlus": "103"
   },
   {
     "BID": 1066,
@@ -127,7 +199,9 @@
     "Origin": "Le Rœulx, Région Wallonne Belgium",
     "BeerAbv": 8.50,
     "BeerIbu": 24.00,
-    "HallRating": 16.45
+    "HallRating": 16.45,
+    "BAR": 11.14,
+    "StylePlus": "107"
   },
   {
     "BID": 10691,
@@ -137,7 +211,9 @@
     "Origin": "Kansas City, MO United States",
     "BeerAbv": 5.90,
     "BeerIbu": 27.00,
-    "HallRating": 16.45
+    "HallRating": 16.45,
+    "BAR": 11.15,
+    "StylePlus": "109"
   },
   {
     "BID": 12415,
@@ -147,7 +223,9 @@
     "Origin": "San Diego, CA United States",
     "BeerAbv": 12.00,
     "BeerIbu": 23.00,
-    "HallRating": 16.45
+    "HallRating": 16.45,
+    "BAR": 11.14,
+    "StylePlus": "107"
   },
   {
     "BID": 12475,
@@ -157,7 +235,9 @@
     "Origin": "Littleton, CO United States",
     "BeerAbv": 7.20,
     "BeerIbu": 11.00,
-    "HallRating": 16.43
+    "HallRating": 16.43,
+    "BAR": 11.12,
+    "StylePlus": "100"
   },
   {
     "BID": 11159,
@@ -167,7 +247,9 @@
     "Origin": "Chandler, AZ United States",
     "BeerAbv": 5.50,
     "BeerIbu": 45.00,
-    "HallRating": 16.42
+    "HallRating": 16.42,
+    "BAR": 11.11,
+    "StylePlus": "110"
   },
   {
     "BID": 10735,
@@ -177,7 +259,9 @@
     "Origin": "Philadelphia, PA United States",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 16.42
+    "HallRating": 16.42,
+    "BAR": 2.70,
+    "StylePlus": "86"
   },
   {
     "BID": 1044,
@@ -187,7 +271,9 @@
     "Origin": "Superior, WI United States",
     "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "HallRating": 16.42
+    "HallRating": 16.42,
+    "BAR": 2.70,
+    "StylePlus": "103"
   },
   {
     "BID": 10187,
@@ -197,7 +283,9 @@
     "Origin": "Saskatoon, SK Canada",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 16.42
+    "HallRating": 16.42,
+    "BAR": 2.70,
+    "StylePlus": "122"
   },
   {
     "BID": 10109,
@@ -207,46 +295,8 @@
     "Origin": "Cairndow, Argyll and Bute Scotland",
     "BeerAbv": 3.80,
     "BeerIbu": 40.00,
-    "HallRating": 16.41
-  },
-  {
-    "BID": 10674,
-    "BeerName": "Mad Manatee IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Bold City Brewery",
-    "Origin": "Jacksonville, FL United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 60.00,
-    "HallRating": 16.40
-  },
-  {
-    "BID": 11761,
-    "BeerName": "Olde GnarlyWine",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Lagunitas Brewing Company",
-    "Origin": "Petaluma, CA United States",
-    "BeerAbv": 10.60,
-    "BeerIbu": 69.00,
-    "HallRating": 16.39
-  },
-  {
-    "BID": 1221,
-    "BeerName": "Horny Devil",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "AleSmith Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 25.00,
-    "HallRating": 16.38
-  },
-  {
-    "BID": 102,
-    "BeerName": "Pride & Joy Mild Ale",
-    "BeerStyle": "Mild - Light",
-    "BreweryName": "3 Floyds Brewing",
-    "Origin": "Munster, IN United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 42.00,
-    "HallRating": 16.36
+    "HallRating": 16.41,
+    "BAR": 11.10,
+    "StylePlus": "116"
   }
 ]

@@ -1,13 +1,27 @@
 [
   {
-    "BID": 3341244,
-    "BeerName": "Velvet Puma 2.0",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Sandhills Brewing",
-    "Origin": "Hutchinson, KS United States",
-    "BeerAbv": 8.40,
+    "BID": 4960372,
+    "BeerName": "Mango Pineapple Lime Gose",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Lucky Labrador Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3890932,
+    "BeerName": "12th Man",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Penton Park Brewery",
+    "Origin": "Andover, Hampshire England",
+    "BeerAbv": 4.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 4445723,
@@ -17,7 +31,21 @@
     "Origin": "Hutchinson, KS United States",
     "BeerAbv": 6.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3341244,
+    "BeerName": "Velvet Puma 2.0",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Sandhills Brewing",
+    "Origin": "Hutchinson, KS United States",
+    "BeerAbv": 8.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4940602,
@@ -27,57 +55,9 @@
     "Origin": "Hutchinson, KS United States",
     "BeerAbv": 7.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1670596,
-    "BeerName": "2013 Cellar Series Nightmare On Brett Grand Cru",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Crooked Stave Brewing Co.",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 9.67,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336200,
-    "BeerName": "OMNIPOLLOSCOPE®️ #5 FATAMOSAICDDHDREAMATOMICDOBISHREDDER IIIPA - Crooked Stave Version",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Crooked Stave Brewing Co.",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674363,
-    "BeerName": "L'Brett d'Blueberry",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Crooked Stave Brewing Co.",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674029,
-    "BeerName": "St. Bretta (2016)",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Crooked Stave Brewing Co.",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1673441,
-    "BeerName": "Batch #200",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Crooked Stave Brewing Co.",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4961318,
@@ -87,7 +67,69 @@
     "Origin": "Denver, CO United States",
     "BeerAbv": 5.00,
     "BeerIbu": 2.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 3336200,
+    "BeerName": "OMNIPOLLOSCOPE®️ #5 FATAMOSAICDDHDREAMATOMICDOBISHREDDER IIIPA - Crooked Stave Version",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Crooked Stave Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "99"
+  },
+  {
+    "BID": 1670596,
+    "BeerName": "2013 Cellar Series Nightmare On Brett Grand Cru",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Crooked Stave Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 9.67,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 1674363,
+    "BeerName": "L'Brett d'Blueberry",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Crooked Stave Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 1673441,
+    "BeerName": "Batch #200",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Crooked Stave Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 1674029,
+    "BeerName": "St. Bretta (2016)",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Crooked Stave Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 1672666,
@@ -97,7 +139,9 @@
     "Origin": "Passau, Bayern Germany",
     "BeerAbv": 4.90,
     "BeerIbu": 12.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "119"
   },
   {
     "BID": 3890933,
@@ -107,17 +151,9 @@
     "Origin": "Passau, Bayern Germany",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336973,
-    "BeerName": "RISky Business - Bourbon BA",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "vandeStreek bier",
-    "Origin": "Utrecht, Netherlands",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
   },
   {
     "BID": 4445724,
@@ -127,7 +163,9 @@
     "Origin": "Utrecht, Netherlands",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4446692,
@@ -137,7 +175,21 @@
     "Origin": "Utrecht, Netherlands",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "77"
+  },
+  {
+    "BID": 3336973,
+    "BeerName": "RISky Business - Bourbon BA",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "vandeStreek bier",
+    "Origin": "Utrecht, Netherlands",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 1672680,
@@ -147,7 +199,9 @@
     "Origin": "Utrecht, Netherlands",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1673719,
@@ -157,7 +211,9 @@
     "Origin": "Nashville, TN United States",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 1675216,
@@ -167,17 +223,9 @@
     "Origin": "Nashville, TN United States",
     "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336201,
-    "BeerName": "Kolsch This",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Southern Grist Brewing Company",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1670518,
@@ -187,37 +235,9 @@
     "Origin": "Nashville, TN United States",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446749,
-    "BeerName": "DDH Mixed Greens LIII (53)",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Southern Grist Brewing Company",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445991,
-    "BeerName": "Strange Horizons",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Southern Grist Brewing Company",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631853,
-    "BeerName": "Citra Crisp",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Southern Grist Brewing Company",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 3336668,
@@ -227,17 +247,9 @@
     "Origin": "Nashville, TN United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339761,
-    "BeerName": "Moon Crane",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Southern Grist Brewing Company",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 3339775,
@@ -247,6 +259,44 @@
     "Origin": "Nashville, TN United States",
     "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3339761,
+    "BeerName": "Moon Crane",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Southern Grist Brewing Company",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3336201,
+    "BeerName": "Kolsch This",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Southern Grist Brewing Company",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 4446749,
+    "BeerName": "DDH Mixed Greens LIII (53)",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Southern Grist Brewing Company",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   }
 ]

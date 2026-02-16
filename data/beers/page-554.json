@@ -1,163 +1,15 @@
 [
   {
-    "BID": 1674889,
-    "BeerName": "Utkikken Dobbel",
-    "BeerStyle": "Homebrew, Belgian Dubbel",
-    "BreweryName": "janjens' Munngodt",
-    "Origin": "Norway",
-    "BeerAbv": 7.20,
-    "BeerIbu": 19.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674914,
-    "BeerName": "janjens' Oriental",
-    "BeerStyle": "Homebrew, IPA - Other",
-    "BreweryName": "janjens' Munngodt",
-    "Origin": "Norway",
-    "BeerAbv": 7.40,
-    "BeerIbu": 82.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342235,
-    "BeerName": "Wedding Veil Ale",
-    "BeerStyle": "Homebrew, Pale Ale - Other",
-    "BreweryName": "Speisschaert Road Brewery",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342236,
-    "BeerName": "Stay Pufft",
-    "BeerStyle": "IPA - Imperial / Double Milkshake",
-    "BreweryName": "Ebb & Flow Fermentations",
-    "Origin": "Cape Girardeau, MO United States",
-    "BeerAbv": 6.24,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342243,
-    "BeerName": "Peg Leg",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Ebb & Flow Fermentations",
-    "Origin": "Cape Girardeau, MO United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674894,
-    "BeerName": "Killa' Citra IPA (2016)",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Beckman's Homebrew",
-    "Origin": "United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 57.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674895,
-    "BeerName": "Hopsy Lager",
-    "BeerStyle": "Homebrew, Lager - IPL (India Pale Lager)",
-    "BreweryName": "Dahlen Bryggeriet",
-    "Origin": "Sweden",
-    "BeerAbv": 4.40,
-    "BeerIbu": 15.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342239,
-    "BeerName": "Golden Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Switchyard Brewing Company",
-    "Origin": "Bloomington, IN United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 13.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342648,
-    "BeerName": "John Harvards Sommer Fest",
-    "BeerStyle": "Kellerbier / Zwickelbier",
+    "BID": 7765,
+    "BeerName": "Stormcatcher IPA",
+    "BeerStyle": "IPA - American",
     "BreweryName": "John Harvard’s Brewery & Ale House",
     "Origin": "Stamford, CT United States",
-    "BeerAbv": 4.90,
+    "BeerAbv": 7.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2525,
-    "BeerName": "Wilmington Roggen Beer",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1000,
-    "BeerName": "Winterfest Lager",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 14581,
-    "BeerName": "Cranberry Fat Turkey Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13025,
-    "BeerName": "Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13790,
-    "BeerName": "Crooked Caber Scottish Ale",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9092,
-    "BeerName": "Late Autumn Amber",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9094,
-    "BeerName": "Double Deuce",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
   },
   {
     "BID": 7200,
@@ -167,7 +19,9 @@
     "Origin": "Stamford, CT United States",
     "BeerAbv": 5.10,
     "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 7334,
@@ -177,7 +31,9 @@
     "Origin": "Stamford, CT United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
   },
   {
     "BID": 7330,
@@ -187,47 +43,57 @@
     "Origin": "Stamford, CT United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
-    "BID": 7765,
-    "BeerName": "Stormcatcher IPA",
-    "BeerStyle": "IPA - American",
+    "BID": 9094,
+    "BeerName": "Double Deuce",
+    "BeerStyle": "Barleywine - American",
     "BreweryName": "John Harvard’s Brewery & Ale House",
     "Origin": "Stamford, CT United States",
-    "BeerAbv": 7.30,
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
-    "BID": 7696,
-    "BeerName": "Pumpkin Spice Ale",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "John Harvard’s Brewery & Ale House",
-    "Origin": "Stamford, CT United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 7775,
-    "BeerName": "Off Camber Copper",
+    "BID": 9092,
+    "BeerName": "Late Autumn Amber",
     "BeerStyle": "Red Ale - American Amber / Red",
     "BreweryName": "John Harvard’s Brewery & Ale House",
     "Origin": "Stamford, CT United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 7778,
-    "BeerName": "London Brown",
-    "BeerStyle": "Brown Ale - American",
+    "BID": 2525,
+    "BeerName": "Wilmington Roggen Beer",
+    "BeerStyle": "Lager - American",
     "BreweryName": "John Harvard’s Brewery & Ale House",
     "Origin": "Stamford, CT United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1000,
+    "BeerName": "Winterfest Lager",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
   },
   {
     "BID": 6421,
@@ -237,7 +103,33 @@
     "Origin": "Stamford, CT United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
+  },
+  {
+    "BID": 6603,
+    "BeerName": "Krampus Schwarzbeir",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 6604,
+    "BeerName": "Touchdown Nutbrown",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 6712,
@@ -247,6 +139,164 @@
     "Origin": "Stamford, CT United States",
     "BeerAbv": 7.70,
     "BeerIbu": 26.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
+  },
+  {
+    "BID": 6627,
+    "BeerName": "Colonial Gold",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 6628,
+    "BeerName": "Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 32.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 1674897,
+    "BeerName": "Märzen Naturtrüb",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Anton Wallner Bräu",
+    "Origin": "Zell am See, Salzburg Austria",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 11636,
+    "BeerName": "Rudolph's Reward",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "No. 18 Yard Brewhouse",
+    "Origin": "Faversham, Kent England",
+    "BeerAbv": 3.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 1674899,
+    "BeerName": "Donor Cider #88",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "The Moss Cider Project",
+    "Origin": "Manchester, Greater Manchester England",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342244,
+    "BeerName": "Klaaash",
+    "BeerStyle": "IPA - Sour",
+    "BreweryName": "Gzub",
+    "Origin": "Annopole, Greater Poland Voivodeship Poland",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3342245,
+    "BeerName": "Saphir Weizen",
+    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
+    "BreweryName": "Consbeeracy",
+    "Origin": "Austria",
+    "BeerAbv": 5.20,
+    "BeerIbu": 26.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674902,
+    "BeerName": "Berliner Weisse (Żurawina & Plantarum)",
+    "BeerStyle": "Homebrew, Sour - Berliner Weisse",
+    "BreweryName": "Wieża Ciśnień - Browar Domowy (Water Tower - Home Brew)",
+    "Origin": "Poland",
+    "BeerAbv": 2.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674903,
+    "BeerName": "Sommer König",
+    "BeerStyle": "Homebrew, Wheat Beer - Hefeweizen",
+    "BreweryName": "Rattle Can Brewing",
+    "Origin": "United States",
+    "BeerAbv": 3.80,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342247,
+    "BeerName": "Peace & Assist 3",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Call to Arms Brewing Company",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 1674904,
+    "BeerName": "Steam Beer",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Clarkshaws",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 3.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
+  },
+  {
+    "BID": 3342248,
+    "BeerName": "De Wiebelende Thermometer!!",
+    "BeerStyle": "Homebrew, Belgian Tripel",
+    "BreweryName": "Wessanne",
+    "Origin": "Netherlands",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 2119,
+    "BeerName": "Steel Valley Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Ohio Brewing Company",
+    "Origin": "Columbus, OH United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "77"
   }
 ]

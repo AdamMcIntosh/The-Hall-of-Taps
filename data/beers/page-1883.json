@@ -1,33 +1,27 @@
 [
   {
-    "BID": 11767,
-    "BeerName": "Haus Pale Ale",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "FIGJAM Brewing",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "BID": 12330,
+    "BeerName": "Tolchock (2010)",
+    "BeerStyle": "Homebrew, Stout - Russian Imperial",
+    "BreweryName": "Heidrun Brewery (Heiðrún)",
+    "Origin": "Sweden",
+    "BeerAbv": 11.00,
+    "BeerIbu": 100.00,
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 10565,
-    "BeerName": "Breinheitsgebot",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Flossmoor Station Restaurant and Brewery",
-    "Origin": "Flossmoor, IL United States",
-    "BeerAbv": 0.00,
+    "BID": 11545,
+    "BeerName": "Monty’s Mild",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Feral Brewing Company",
+    "Origin": "Bassendean, Western Australia Australia",
+    "BeerAbv": 3.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
-  },
-  {
-    "BID": 12231,
-    "BeerName": "Bockus",
-    "BeerStyle": "Bock - Single / Traditional",
-    "BreweryName": "Double Mountain Brewery & Cidery",
-    "Origin": "Hood River, OR United States",
-    "BeerAbv": 7.10,
-    "BeerIbu": 45.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 12193,
@@ -37,7 +31,9 @@
     "Origin": "Alexandria, VA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -132.07
+    "HallRating": -132.07,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 11379,
@@ -47,7 +43,9 @@
     "Origin": "Newark, DE United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -142.86
+    "HallRating": -142.86,
+    "BAR": -18.06,
+    "StylePlus": null
   },
   {
     "BID": 10414,
@@ -57,7 +55,9 @@
     "Origin": "United States",
     "BeerAbv": 5.00,
     "BeerIbu": 30.00,
-    "HallRating": -162.49
+    "HallRating": -162.49,
+    "BAR": -13.98,
+    "StylePlus": null
   },
   {
     "BID": 10514,
@@ -67,7 +67,9 @@
     "Origin": "Montclair, NJ United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -162.49
+    "HallRating": -162.49,
+    "BAR": -13.98,
+    "StylePlus": null
   },
   {
     "BID": 10719,
@@ -77,7 +79,9 @@
     "Origin": "Other",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -162.49
+    "HallRating": -162.49,
+    "BAR": -13.98,
+    "StylePlus": null
   },
   {
     "BID": 12437,
@@ -87,7 +91,9 @@
     "Origin": "Other",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -175.11
+    "HallRating": -175.11,
+    "BAR": -12.04,
+    "StylePlus": null
   },
   {
     "BID": 12024,
@@ -97,7 +103,21 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -195.64
+    "HallRating": -195.64,
+    "BAR": -9.54,
+    "StylePlus": null
+  },
+  {
+    "BID": 12694,
+    "BeerName": "Spiced Winter Porter",
+    "BeerStyle": "Homebrew, Winter Warmer",
+    "BreweryName": "Great Fermentations",
+    "Origin": "Indianapolis, IN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -235.61,
+    "BAR": -6.02,
+    "StylePlus": null
   },
   {
     "BID": 12186,
@@ -107,7 +127,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -235.61
+    "HallRating": -235.61,
+    "BAR": -6.02,
+    "StylePlus": null
   },
   {
     "BID": 11679,
@@ -117,7 +139,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -235.61
+    "HallRating": -235.61,
+    "BAR": -6.02,
+    "StylePlus": null
   },
   {
     "BID": 11502,
@@ -127,7 +151,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -235.61
+    "HallRating": -235.61,
+    "BAR": -6.02,
+    "StylePlus": null
   },
   {
     "BID": 11801,
@@ -137,7 +163,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -235.61
+    "HallRating": -235.61,
+    "BAR": -6.02,
+    "StylePlus": null
   },
   {
     "BID": 11000,
@@ -147,7 +175,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -235.61
+    "HallRating": -235.61,
+    "BAR": -6.02,
+    "StylePlus": null
   },
   {
     "BID": 11409,
@@ -157,7 +187,9 @@
     "Origin": "Fullerton, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -235.61
+    "HallRating": -235.61,
+    "BAR": -6.02,
+    "StylePlus": null
   },
   {
     "BID": 12626,
@@ -167,17 +199,9 @@
     "Origin": "Philadelphia, PA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -352.19
-  },
-  {
-    "BID": 10778,
-    "BeerName": "Barleywine",
-    "BeerStyle": "Homebrew, Barleywine - American",
-    "BreweryName": "Shvitzing Matilda Beer",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -352.19
+    "HallRating": -352.19,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 11690,
@@ -187,7 +211,21 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -352.19
+    "HallRating": -352.19,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 10778,
+    "BeerName": "Barleywine",
+    "BeerStyle": "Homebrew, Barleywine - American",
+    "BreweryName": "Shvitzing Matilda Beer",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -352.19,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 11121,
@@ -197,7 +235,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -352.19
+    "HallRating": -352.19,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 12206,
@@ -207,7 +247,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -352.19
+    "HallRating": -352.19,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 12177,
@@ -217,7 +259,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -352.19
+    "HallRating": -352.19,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 11855,
@@ -227,7 +271,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -352.19
+    "HallRating": -352.19,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 10209,
@@ -237,7 +283,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -352.19
+    "HallRating": -352.19,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 10204,
@@ -247,6 +295,8 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -352.19
+    "HallRating": -352.19,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

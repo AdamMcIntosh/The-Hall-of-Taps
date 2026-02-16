@@ -1,145 +1,5 @@
 [
   {
-    "BID": 4979921,
-    "BeerName": "High Five 5th Birthday Beer",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Leigh On Sea Brewery",
-    "Origin": "Leigh on Sea, Southend-on-Sea England",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4979923,
-    "BeerName": "Hare of the Dog (5th Birthday Beer With Neil Fendell)",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Leigh On Sea Brewery",
-    "Origin": "Leigh on Sea, Southend-on-Sea England",
-    "BeerAbv": 3.10,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939296,
-    "BeerName": "Krispy Treats",
-    "BeerStyle": "Cream Ale",
-    "BreweryName": "Stubborn German Brewing Company",
-    "Origin": "Waterloo, IL United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1670527,
-    "BeerName": "Midnight Rye IPA",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "Stubborn German Brewing Company",
-    "Origin": "Waterloo, IL United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336368,
-    "BeerName": "Ohana Friendship Porter With Macadamia Nut",
-    "BeerStyle": "Porter - Coffee",
-    "BreweryName": "Stubborn German Brewing Company",
-    "Origin": "Waterloo, IL United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672907,
-    "BeerName": "Lemon-Lime IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Stubborn German Brewing Company",
-    "Origin": "Waterloo, IL United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4959615,
-    "BeerName": "Princesse",
-    "BeerStyle": "Homebrew, Historical Beer - Other",
-    "BreweryName": "Brouwerij Johannes Westkapelle",
-    "Origin": "Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4959620,
-    "BeerName": "Scotch Ale",
-    "BeerStyle": "Homebrew, Scottish Ale",
-    "BreweryName": "Brouwerij Johannes Westkapelle",
-    "Origin": "Netherlands",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3343971,
-    "BeerName": "Rispberry 24 Amarone BA",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Doctor Brew",
-    "Origin": "Wrocław, Lower Silesian Voivodeship Poland",
-    "BeerAbv": 10.50,
-    "BeerIbu": 85.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674685,
-    "BeerName": "Barley Wine",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Doctor Brew",
-    "Origin": "Wrocław, Lower Silesian Voivodeship Poland",
-    "BeerAbv": 10.50,
-    "BeerIbu": 80.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4979922,
-    "BeerName": "Red Currant Barley Wine Jägermeister BA",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Doctor Brew",
-    "Origin": "Wrocław, Lower Silesian Voivodeship Poland",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4959617,
-    "BeerName": "Paprsek 9,8",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Pivovar Zábřeh",
-    "Origin": "Zábřeh, Olomoucký kraj Czech Republic",
-    "BeerAbv": 3.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4979924,
-    "BeerName": "Bono Biere Blanche-Charly",
-    "BeerStyle": "Belgian Blonde",
-    "BreweryName": "Ebene Beers - BONO",
-    "Origin": "Belgium",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939300,
-    "BeerName": "Black Lager",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Roslyn Brewing Company",
-    "Origin": "Roslyn, WA United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 4959619,
     "BeerName": "Bergens Goud",
     "BeerStyle": "Belgian Blonde",
@@ -147,7 +7,9 @@
     "Origin": "Bergen, Noord-Holland Netherlands",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 4939301,
@@ -157,7 +19,9 @@
     "Origin": "Chile",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4446940,
@@ -167,7 +31,9 @@
     "Origin": "Indianapolis, IN United States",
     "BeerAbv": 6.70,
     "BeerIbu": 47.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 3333505,
@@ -177,7 +43,9 @@
     "Origin": "Indianapolis, IN United States",
     "BeerAbv": 5.10,
     "BeerIbu": 6.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
   },
   {
     "BID": 4959621,
@@ -187,7 +55,9 @@
     "Origin": "Finland",
     "BeerAbv": 7.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 4939304,
@@ -197,7 +67,9 @@
     "Origin": "Miami, FL United States",
     "BeerAbv": 8.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4979930,
@@ -207,7 +79,9 @@
     "Origin": "France",
     "BeerAbv": 4.70,
     "BeerIbu": 11.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4979942,
@@ -217,7 +91,9 @@
     "Origin": "France",
     "BeerAbv": 5.50,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4979931,
@@ -227,17 +103,9 @@
     "Origin": "Chorley, Lancashire England",
     "BeerAbv": 3.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4959627,
-    "BeerName": "Perla 11° Klasik",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Banskobystrická Perla",
-    "Origin": "Slovakia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "113"
   },
   {
     "BID": 4959625,
@@ -247,6 +115,188 @@
     "Origin": "Slovakia",
     "BeerAbv": 5.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4959627,
+    "BeerName": "Perla 11° Klasik",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Banskobystrická Perla",
+    "Origin": "Slovakia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "130"
+  },
+  {
+    "BID": 4939308,
+    "BeerName": "SB Sour Pants",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Barrio Brewing Company",
+    "Origin": "Tucson, AZ United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 8493,
+    "BeerName": "Red Cat Amber",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Barrio Brewing Company",
+    "Origin": "Tucson, AZ United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 4979933,
+    "BeerName": "Ostara",
+    "BeerStyle": "Bitter - Best",
+    "BreweryName": "Bob's Brewing Company",
+    "Origin": "Ossett, West Yorkshire England",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4959626,
+    "BeerName": "Golden Age",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Morgan Brewmasters",
+    "Origin": "Derby, Derbyshire England",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4939309,
+    "BeerName": "Red Ale",
+    "BeerStyle": "Red Ale - Other",
+    "BreweryName": "Cervecería Magia Negra",
+    "Origin": "Envigado, Antioquia Colombia",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4939310,
+    "BeerName": "Ale Pinhão",
+    "BeerStyle": "Farmhouse Ale - Other",
+    "BreweryName": "Caiçara Beer",
+    "Origin": "Ilhabela, São Paulo Brazil",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4939313,
+    "BeerName": "Summer IPA",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Caiçara Beer",
+    "Origin": "Ilhabela, São Paulo Brazil",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4939796,
+    "BeerName": "Löwenbräu Hamburg",
+    "BeerStyle": "Malt Beer",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 2.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "71"
+  },
+  {
+    "BID": 1547,
+    "BeerName": "Spaten Oktoberfest Ur-Märzen / Winter",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.90,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 241,
+    "BeerName": "Spaten Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
+  },
+  {
+    "BID": 537,
+    "BeerName": "Löwenbräu LöwenWeisse",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 1704,
+    "BeerName": "Spaten Maibock",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 1693,
+    "BeerName": "Löwenbräu Schwarze Weisse",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 1633,
+    "BeerName": "Spaten München / Münchner Hell / Premium Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.20,
+    "BeerIbu": 21.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
   }
 ]

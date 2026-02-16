@@ -1,5 +1,101 @@
 [
   {
+    "BID": 10777,
+    "BeerName": "Little White Lie",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Russian River Brewing Company",
+    "Origin": "Windsor, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 14.00,
+    "HallRating": 15.37,
+    "BAR": 9.62,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 10437,
+    "BeerName": "Snow Melt Winter Ale",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "East End Brewing Company",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 15.36,
+    "BAR": 9.61,
+    "StylePlus": "114"
+  },
+  {
+    "BID": 11639,
+    "BeerName": "Mackinac Chocolate Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Arbor Brewing Company",
+    "Origin": "Ypsilanti, MI United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 15.00,
+    "HallRating": 15.36,
+    "BAR": 9.61,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 12228,
+    "BeerName": "Abbey Ale",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "Abita Brewing Company",
+    "Origin": "Abita Springs, LA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 25.00,
+    "HallRating": 15.36,
+    "BAR": 9.60,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 12045,
+    "BeerName": "Coffee Porter",
+    "BeerStyle": "Porter - Coffee",
+    "BreweryName": "Meantime Brewing Company",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 15.35,
+    "BAR": 9.59,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 10638,
+    "BeerName": "Gold Digger IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Auburn Alehouse",
+    "Origin": "Auburn, CA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 80.00,
+    "HallRating": 15.35,
+    "BAR": 9.59,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 121,
+    "BeerName": "Triple Exultation",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Eel River Brewing Company",
+    "Origin": "Fortuna, CA United States",
+    "BeerAbv": 9.70,
+    "BeerIbu": 76.00,
+    "HallRating": 15.35,
+    "BAR": 9.60,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 12510,
+    "BeerName": "Duck-Rabbator",
+    "BeerStyle": "Bock - Doppelbock",
+    "BreweryName": "The Duck-Rabbit Craft Brewery",
+    "Origin": "Farmville, NC United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 15.34,
+    "BAR": 9.58,
+    "StylePlus": "106"
+  },
+  {
     "BID": 12113,
     "BeerName": "Halida",
     "BeerStyle": "Lager - Pale",
@@ -7,7 +103,9 @@
     "Origin": "Thành phố Huế, Vietnam",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 15.34
+    "HallRating": 15.34,
+    "BAR": 9.58,
+    "StylePlus": "98"
   },
   {
     "BID": 11110,
@@ -17,7 +115,9 @@
     "Origin": "San Francisco, CA United States",
     "BeerAbv": 9.50,
     "BeerIbu": 50.00,
-    "HallRating": 15.33
+    "HallRating": 15.33,
+    "BAR": 9.57,
+    "StylePlus": "100"
   },
   {
     "BID": 1076,
@@ -27,7 +127,9 @@
     "Origin": "Portland, OR United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 15.33
+    "HallRating": 15.33,
+    "BAR": 9.56,
+    "StylePlus": "110"
   },
   {
     "BID": 12540,
@@ -37,7 +139,9 @@
     "Origin": "San Diego, CA United States",
     "BeerAbv": 10.20,
     "BeerIbu": 75.00,
-    "HallRating": 15.33
+    "HallRating": 15.33,
+    "BAR": 9.56,
+    "StylePlus": "100"
   },
   {
     "BID": 12328,
@@ -47,7 +151,9 @@
     "Origin": "Bonner-West Riverside, MT United States",
     "BeerAbv": 6.50,
     "BeerIbu": 65.00,
-    "HallRating": 15.32
+    "HallRating": 15.32,
+    "BAR": 9.55,
+    "StylePlus": "115"
   },
   {
     "BID": 12426,
@@ -57,7 +163,9 @@
     "Origin": "Edinburgh, Scotland",
     "BeerAbv": 7.10,
     "BeerIbu": 0.00,
-    "HallRating": 15.31
+    "HallRating": 15.31,
+    "BAR": 9.53,
+    "StylePlus": "111"
   },
   {
     "BID": 11485,
@@ -67,7 +175,9 @@
     "Origin": "Bracebridge, ON Canada",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "HallRating": 15.30
+    "HallRating": 15.30,
+    "BAR": 3.20,
+    "StylePlus": "96"
   },
   {
     "BID": 12642,
@@ -77,7 +187,9 @@
     "Origin": "Victoria, BC Canada",
     "BeerAbv": 6.00,
     "BeerIbu": 25.00,
-    "HallRating": 15.30
+    "HallRating": 15.30,
+    "BAR": 9.52,
+    "StylePlus": "106"
   },
   {
     "BID": 11564,
@@ -87,7 +199,9 @@
     "Origin": "Smithfield, New South Wales Australia",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 15.30
+    "HallRating": 15.30,
+    "BAR": 3.20,
+    "StylePlus": "98"
   },
   {
     "BID": 10320,
@@ -97,7 +211,9 @@
     "Origin": "Hampton, GA United States",
     "BeerAbv": 6.50,
     "BeerIbu": 50.00,
-    "HallRating": 15.30
+    "HallRating": 15.30,
+    "BAR": 9.51,
+    "StylePlus": "104"
   },
   {
     "BID": 10978,
@@ -107,7 +223,9 @@
     "Origin": "Indianapolis, IN United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 15.30
+    "HallRating": 15.30,
+    "BAR": 3.20,
+    "StylePlus": "108"
   },
   {
     "BID": 109,
@@ -117,7 +235,9 @@
     "Origin": "Portland, OR United States",
     "BeerAbv": 6.00,
     "BeerIbu": 73.00,
-    "HallRating": 15.30
+    "HallRating": 15.30,
+    "BAR": 3.20,
+    "StylePlus": "104"
   },
   {
     "BID": 11461,
@@ -127,7 +247,9 @@
     "Origin": "Woodend, Victoria Australia",
     "BeerAbv": 6.00,
     "BeerIbu": 31.00,
-    "HallRating": 15.30
+    "HallRating": 15.30,
+    "BAR": 9.51,
+    "StylePlus": "104"
   },
   {
     "BID": 1167,
@@ -137,17 +259,9 @@
     "Origin": "New Brighton, MN United States",
     "BeerAbv": 7.20,
     "BeerIbu": 50.00,
-    "HallRating": 15.29
-  },
-  {
-    "BID": 11237,
-    "BeerName": "Brownstone",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Sixpoint Brewery",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 45.00,
-    "HallRating": 15.29
+    "HallRating": 15.29,
+    "BAR": 9.50,
+    "StylePlus": "108"
   },
   {
     "BID": 11328,
@@ -157,7 +271,21 @@
     "Origin": "Dunedin, Otago New Zealand",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 15.29
+    "HallRating": 15.29,
+    "BAR": 9.50,
+    "StylePlus": "119"
+  },
+  {
+    "BID": 11237,
+    "BeerName": "Brownstone",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Sixpoint Brewery",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 45.00,
+    "HallRating": 15.29,
+    "BAR": 9.51,
+    "StylePlus": "108"
   },
   {
     "BID": 12318,
@@ -167,86 +295,8 @@
     "Origin": "Elk Rapids, MI United States",
     "BeerAbv": 5.80,
     "BeerIbu": 20.00,
-    "HallRating": 15.29
-  },
-  {
-    "BID": 12022,
-    "BeerName": "Christmas Ale",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Olde Hickory Brewery",
-    "Origin": "Hickory, NC United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 11.00,
-    "HallRating": 15.28
-  },
-  {
-    "BID": 10264,
-    "BeerName": "Hoptimus",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "New Albanian Brewing Company",
-    "Origin": "New Albany, IN United States",
-    "BeerAbv": 10.70,
-    "BeerIbu": 100.00,
-    "HallRating": 15.26
-  },
-  {
-    "BID": 10587,
-    "BeerName": "Rise Up Red",
-    "BeerStyle": "IPA - Red",
-    "BreweryName": "Hopworks Brewery",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 6.10,
-    "BeerIbu": 65.00,
-    "HallRating": 15.26
-  },
-  {
-    "BID": 11374,
-    "BeerName": "Fantôme de Noël",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Brasserie Fantôme",
-    "Origin": "Érezée, Région Wallonne Belgium",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "HallRating": 15.26
-  },
-  {
-    "BID": 1117,
-    "BeerName": "Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Blue Point Brewing Company",
-    "Origin": "Patchogue, NY United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 17.00,
-    "HallRating": 15.24
-  },
-  {
-    "BID": 11812,
-    "BeerName": "Gran Sport Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "COOP Ale Works",
-    "Origin": "Oklahoma City, OK United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 43.00,
-    "HallRating": 15.23
-  },
-  {
-    "BID": 10265,
-    "BeerName": "Fathead Barleywine",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Nebraska Brewing Company",
-    "Origin": "La Vista, NE United States",
-    "BeerAbv": 12.10,
-    "BeerIbu": 34.00,
-    "HallRating": 15.22
-  },
-  {
-    "BID": 11283,
-    "BeerName": "Double IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Dry Dock Brewing Company",
-    "Origin": "Aurora, CO United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 90.00,
-    "HallRating": 15.22
+    "HallRating": 15.29,
+    "BAR": 9.51,
+    "StylePlus": "107"
   }
 ]

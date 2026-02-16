@@ -1,95 +1,5 @@
 [
   {
-    "BID": 3336186,
-    "BeerName": "Chocolate Covered Raspberry",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Glover Park Brewery",
-    "Origin": "Marietta, GA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445903,
-    "BeerName": "GPB Mexican Lager",
-    "BeerStyle": "Lager - Mexican",
-    "BreweryName": "Glover Park Brewery",
-    "Origin": "Marietta, GA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3890923,
-    "BeerName": "Pi-je-ma",
-    "BeerStyle": "Lager - Amber",
-    "BreweryName": "Smisken Brewery",
-    "Origin": "Hökarängen, Stockholms län Sweden",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336188,
-    "BeerName": "Sangria Rosa",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Loon Juice",
-    "Origin": "Spring Valley, MN United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3890924,
-    "BeerName": "Малиновый Sour Ale",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Tri Olenya (Три Оленя)",
-    "Origin": "Samara, Самарская область Russia",
-    "BeerAbv": 5.40,
-    "BeerIbu": 10.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445712,
-    "BeerName": "Newfie Long Jump",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Chestnut Hill Brewing Company",
-    "Origin": "Philadelphia, PA United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446207,
-    "BeerName": "Imperial Galaxy Ipa",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Psicotella",
-    "Origin": "Avellaneda, Santa Fe Argentina",
-    "BeerAbv": 7.50,
-    "BeerIbu": 60.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336189,
-    "BeerName": "Blonde Ice",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Psicotella",
-    "Origin": "Avellaneda, Santa Fe Argentina",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 14650,
-    "BeerName": "Amber Shock",
-    "BeerStyle": "Bock - Doppelbock",
-    "BreweryName": "Birrificio Italiano",
-    "Origin": "Limido Comasco, Lombardia Italy",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 13769,
     "BeerName": "Vùdù",
     "BeerStyle": "Wheat Beer - Dunkelweizen",
@@ -97,7 +7,9 @@
     "Origin": "Limido Comasco, Lombardia Italy",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
   },
   {
     "BID": 13776,
@@ -107,7 +19,9 @@
     "Origin": "Limido Comasco, Lombardia Italy",
     "BeerAbv": 5.20,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 1669237,
@@ -117,27 +31,9 @@
     "Origin": "Limido Comasco, Lombardia Italy",
     "BeerAbv": 6.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445811,
-    "BeerName": "ROUGE SOUR",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Birrificio Italiano",
-    "Origin": "Limido Comasco, Lombardia Italy",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3890925,
-    "BeerName": "IMPATTO ZERO",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Birrificio Italiano",
-    "Origin": "Limido Comasco, Lombardia Italy",
-    "BeerAbv": 3.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3890926,
@@ -147,7 +43,9 @@
     "Origin": "Kaniv, Cherkasy Oblast Ukraine",
     "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3890930,
@@ -157,17 +55,33 @@
     "Origin": "Kaniv, Cherkasy Oblast Ukraine",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
-    "BID": 422,
-    "BeerName": "Espresso Porter",
-    "BeerStyle": "Porter - Coffee",
+    "BID": 1674871,
+    "BeerName": "Upsession IPA: 7th Chamber of Secrets",
+    "BeerStyle": "IPA - Session",
     "BreweryName": "Upstream Brewing Company",
     "Origin": "Omaha, NE United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "BeerAbv": 5.10,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 1674863,
+    "BeerName": "Saison Blanc",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Upstream Brewing Company",
+    "Origin": "Omaha, NE United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 18.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
   },
   {
     "BID": 4026,
@@ -177,7 +91,9 @@
     "Origin": "Omaha, NE United States",
     "BeerAbv": 4.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 4027,
@@ -187,7 +103,9 @@
     "Origin": "Omaha, NE United States",
     "BeerAbv": 5.00,
     "BeerIbu": 16.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "119"
   },
   {
     "BID": 4028,
@@ -197,7 +115,9 @@
     "Origin": "Omaha, NE United States",
     "BeerAbv": 4.90,
     "BeerIbu": 4.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
   },
   {
     "BID": 4029,
@@ -207,7 +127,9 @@
     "Origin": "Omaha, NE United States",
     "BeerAbv": 4.50,
     "BeerIbu": 10.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 4031,
@@ -217,7 +139,9 @@
     "Origin": "Omaha, NE United States",
     "BeerAbv": 3.80,
     "BeerIbu": 4.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "96"
   },
   {
     "BID": 4032,
@@ -227,7 +151,9 @@
     "Origin": "Omaha, NE United States",
     "BeerAbv": 5.00,
     "BeerIbu": 28.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 4033,
@@ -237,7 +163,9 @@
     "Origin": "Omaha, NE United States",
     "BeerAbv": 6.60,
     "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4035,
@@ -247,6 +175,128 @@
     "Origin": "Omaha, NE United States",
     "BeerAbv": 9.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4036,
+    "BeerName": "Railyard Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Upstream Brewing Company",
+    "Origin": "Omaha, NE United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4037,
+    "BeerName": "Russ Irish Red Ale",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "Upstream Brewing Company",
+    "Origin": "Omaha, NE United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 15,
+    "BeerName": "Oak Aged Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Upstream Brewing Company",
+    "Origin": "Omaha, NE United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 60,
+    "BeerName": "Oak Aged Ebenezer",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Upstream Brewing Company",
+    "Origin": "Omaha, NE United States",
+    "BeerAbv": 9.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 13872,
+    "BeerName": "Grazias",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Mike Hess Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 1669631,
+    "BeerName": "Double Red IPA",
+    "BeerStyle": "Red Ale - Imperial / Double",
+    "BreweryName": "Mike Hess Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1669942,
+    "BeerName": "Mango Wit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Mike Hess Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1673132,
+    "BeerName": "Hess Fest 6",
+    "BeerStyle": "Red Ale - Imperial / Double",
+    "BreweryName": "Mike Hess Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4939980,
+    "BeerName": "Mike-a-Rita",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Mike Hess Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4939972,
+    "BeerName": "Hesseweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Mike Hess Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 13.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   }
 ]

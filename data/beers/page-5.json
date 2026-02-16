@@ -1,5 +1,29 @@
 [
   {
+    "BID": 11923,
+    "BeerName": "Happy Camper IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Santa Fe Brewing Company",
+    "Origin": "Santa Fe, NM United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 82.00,
+    "HallRating": 16.75,
+    "BAR": 11.54,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 10018,
+    "BeerName": "Peg Leg",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Heavy Seas Beer",
+    "Origin": "Baltimore, MD United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 30.00,
+    "HallRating": 16.75,
+    "BAR": 11.54,
+    "StylePlus": "100"
+  },
+  {
     "BID": 1159,
     "BeerName": "Dogtoberfest",
     "BeerStyle": "Märzen",
@@ -7,7 +31,9 @@
     "Origin": "Utica, NY United States",
     "BeerAbv": 5.60,
     "BeerIbu": 20.00,
-    "HallRating": 16.74
+    "HallRating": 16.74,
+    "BAR": 11.53,
+    "StylePlus": "109"
   },
   {
     "BID": 12378,
@@ -17,7 +43,21 @@
     "Origin": "Tampa, FL United States",
     "BeerAbv": 5.50,
     "BeerIbu": 25.00,
-    "HallRating": 16.74
+    "HallRating": 16.74,
+    "BAR": 11.53,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 12720,
+    "BeerName": "Guinness Special Export",
+    "BeerStyle": "Stout - Foreign / Export",
+    "BreweryName": "Guinness",
+    "Origin": "Dublin, County Dublin Ireland",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 16.73,
+    "BAR": 11.52,
+    "StylePlus": "108"
   },
   {
     "BID": 11489,
@@ -27,7 +67,9 @@
     "Origin": "San Marcos, CA United States",
     "BeerAbv": 11.00,
     "BeerIbu": 55.00,
-    "HallRating": 16.73
+    "HallRating": 16.73,
+    "BAR": 11.52,
+    "StylePlus": "100"
   },
   {
     "BID": 11474,
@@ -37,17 +79,9 @@
     "Origin": "Seattle, WA United States",
     "BeerAbv": 6.20,
     "BeerIbu": 80.00,
-    "HallRating": 16.73
-  },
-  {
-    "BID": 12331,
-    "BeerName": "Golden Naked Christmas Ale",
-    "BeerStyle": "Strong Ale - English",
-    "BreweryName": "Jacobsen",
-    "Origin": "Copenhagen, Region Hovedstaden Denmark",
-    "BeerAbv": 7.50,
-    "BeerIbu": 23.00,
-    "HallRating": 16.72
+    "HallRating": 16.73,
+    "BAR": 11.52,
+    "StylePlus": "104"
   },
   {
     "BID": 10137,
@@ -57,7 +91,21 @@
     "Origin": "Copenhagen, Region Hovedstaden Denmark",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 16.72
+    "HallRating": 16.72,
+    "BAR": 11.50,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 12331,
+    "BeerName": "Golden Naked Christmas Ale",
+    "BeerStyle": "Strong Ale - English",
+    "BreweryName": "Jacobsen",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 7.50,
+    "BeerIbu": 23.00,
+    "HallRating": 16.72,
+    "BAR": 11.50,
+    "StylePlus": "107"
   },
   {
     "BID": 1036,
@@ -67,7 +115,9 @@
     "Origin": "Dunbar, East Lothian Scotland",
     "BeerAbv": 7.40,
     "BeerIbu": 26.00,
-    "HallRating": 16.70
+    "HallRating": 16.70,
+    "BAR": 11.48,
+    "StylePlus": "103"
   },
   {
     "BID": 1001,
@@ -77,7 +127,9 @@
     "Origin": "Stamford, CT United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 16.69
+    "HallRating": 16.69,
+    "BAR": 2.60,
+    "StylePlus": "111"
   },
   {
     "BID": 12154,
@@ -87,7 +139,9 @@
     "Origin": "Millom, Cumberland England",
     "BeerAbv": 10.40,
     "BeerIbu": 0.00,
-    "HallRating": 16.69
+    "HallRating": 16.69,
+    "BAR": 2.60,
+    "StylePlus": "102"
   },
   {
     "BID": 11849,
@@ -97,7 +151,9 @@
     "Origin": "Longmont, CO United States",
     "BeerAbv": 6.10,
     "BeerIbu": 0.00,
-    "HallRating": 16.69
+    "HallRating": 16.69,
+    "BAR": 2.60,
+    "StylePlus": "103"
   },
   {
     "BID": 12359,
@@ -107,7 +163,9 @@
     "Origin": "Denver, CO United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 16.69
+    "HallRating": 16.69,
+    "BAR": 2.60,
+    "StylePlus": "104"
   },
   {
     "BID": 10370,
@@ -117,7 +175,9 @@
     "Origin": "Indianapolis, IN United States",
     "BeerAbv": 10.00,
     "BeerIbu": 50.00,
-    "HallRating": 16.69
+    "HallRating": 16.69,
+    "BAR": 2.60,
+    "StylePlus": "106"
   },
   {
     "BID": 10057,
@@ -127,17 +187,9 @@
     "Origin": "Raleigh, NC United States",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 16.69
-  },
-  {
-    "BID": 10053,
-    "BeerName": "Tocobaga®",
-    "BeerStyle": "IPA - Red",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 75.00,
-    "HallRating": 16.64
+    "HallRating": 16.69,
+    "BAR": 2.60,
+    "StylePlus": "104"
   },
   {
     "BID": 1144,
@@ -147,7 +199,21 @@
     "Origin": "Littleton, CO United States",
     "BeerAbv": 7.00,
     "BeerIbu": 21.00,
-    "HallRating": 16.64
+    "HallRating": 16.64,
+    "BAR": 11.39,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 10053,
+    "BeerName": "Tocobaga®",
+    "BeerStyle": "IPA - Red",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 75.00,
+    "HallRating": 16.64,
+    "BAR": 11.39,
+    "StylePlus": "105"
   },
   {
     "BID": 1258,
@@ -157,7 +223,9 @@
     "Origin": "Escondido, CA United States",
     "BeerAbv": 5.40,
     "BeerIbu": 41.00,
-    "HallRating": 16.64
+    "HallRating": 16.64,
+    "BAR": 11.39,
+    "StylePlus": "110"
   },
   {
     "BID": 10291,
@@ -167,17 +235,9 @@
     "Origin": "Saint Louis, MO United States",
     "BeerAbv": 5.90,
     "BeerIbu": 50.00,
-    "HallRating": 16.63
-  },
-  {
-    "BID": 11838,
-    "BeerName": "Full Nelson",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Blue Mountain Brewery",
-    "Origin": "Afton, VA United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 60.00,
-    "HallRating": 16.62
+    "HallRating": 16.63,
+    "BAR": 11.39,
+    "StylePlus": "110"
   },
   {
     "BID": 11483,
@@ -187,7 +247,33 @@
     "Origin": "Boulder, CO United States",
     "BeerAbv": 4.80,
     "BeerIbu": 15.00,
-    "HallRating": 16.62
+    "HallRating": 16.62,
+    "BAR": 11.37,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 11838,
+    "BeerName": "Full Nelson",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Blue Mountain Brewery",
+    "Origin": "Afton, VA United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 60.00,
+    "HallRating": 16.62,
+    "BAR": 11.37,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 12693,
+    "BeerName": "Porter",
+    "BeerStyle": "Porter - English",
+    "BreweryName": "Green Man Brewery",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 40.00,
+    "HallRating": 16.61,
+    "BAR": 11.35,
+    "StylePlus": "106"
   },
   {
     "BID": 11780,
@@ -197,7 +283,9 @@
     "Origin": "Sint-Gillis-Waas, Vlaams Gewest Belgium",
     "BeerAbv": 8.20,
     "BeerIbu": 30.00,
-    "HallRating": 16.61
+    "HallRating": 16.61,
+    "BAR": 11.36,
+    "StylePlus": "107"
   },
   {
     "BID": 11179,
@@ -207,46 +295,8 @@
     "Origin": "Longmont, CO United States",
     "BeerAbv": 10.20,
     "BeerIbu": 45.00,
-    "HallRating": 16.61
-  },
-  {
-    "BID": 12325,
-    "BeerName": "Noir de Dottignies",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Brouwerij De Ranke",
-    "Origin": "Mouscron, Région Wallonne Belgium",
-    "BeerAbv": 8.50,
-    "BeerIbu": 46.00,
-    "HallRating": 16.58
-  },
-  {
-    "BID": 10740,
-    "BeerName": "The Great'er Pumpkin",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Heavy Seas Beer",
-    "Origin": "Baltimore, MD United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "HallRating": 16.57
-  },
-  {
-    "BID": 12498,
-    "BeerName": "Arend Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij De Ryck",
-    "Origin": "Herzele, Vlaams Gewest Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 35.00,
-    "HallRating": 16.57
-  },
-  {
-    "BID": 117,
-    "BeerName": "Ename Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij Roman",
-    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
-    "BeerAbv": 8.50,
-    "BeerIbu": 0.00,
-    "HallRating": 16.57
+    "HallRating": 16.61,
+    "BAR": 11.35,
+    "StylePlus": "100"
   }
 ]

@@ -1,5 +1,77 @@
 [
   {
+    "BID": 1210,
+    "BeerName": "Maibock",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Gordon Biersch Brew Co.",
+    "Origin": "San Jose, CA United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 25.00,
+    "HallRating": 15.66,
+    "BAR": 10.06,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 12550,
+    "BeerName": "Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Stoudts Brewing Company",
+    "Origin": "Adamstown, PA United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 90.00,
+    "HallRating": 15.66,
+    "BAR": 10.06,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 10223,
+    "BeerName": "Dunkel",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "Franconia Brewing Company",
+    "Origin": "McKinney, TX United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 15.66,
+    "BAR": 10.06,
+    "StylePlus": "116"
+  },
+  {
+    "BID": 1021,
+    "BeerName": "Four",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Allagash Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 8.80,
+    "BeerIbu": 0.00,
+    "HallRating": 15.65,
+    "BAR": 10.03,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 11549,
+    "BeerName": "Old 21",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "The Brew Kettle",
+    "Origin": "Strongsville, OH United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 90.00,
+    "HallRating": 15.64,
+    "BAR": 10.02,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 11950,
+    "BeerName": "Scurvy",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Tyranena Brewing Co.",
+    "Origin": "Lake Mills, WI United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 68.00,
+    "HallRating": 15.64,
+    "BAR": 10.02,
+    "StylePlus": "104"
+  },
+  {
     "BID": 10884,
     "BeerName": "Claritas",
     "BeerStyle": "Kölsch",
@@ -7,17 +79,21 @@
     "Origin": "San Diego, CA United States",
     "BeerAbv": 5.80,
     "BeerIbu": 28.00,
-    "HallRating": 15.63
+    "HallRating": 15.63,
+    "BAR": 10.01,
+    "StylePlus": "110"
   },
   {
-    "BID": 10981,
-    "BeerName": "Cereal Killer Barleywine",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Arcadia Brewing Co.",
+    "BID": 12696,
+    "BeerName": "The Magician",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "Short’s Brewing Company",
     "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 70.00,
-    "HallRating": 15.62
+    "BeerAbv": 6.80,
+    "BeerIbu": 15.00,
+    "HallRating": 15.63,
+    "BAR": 10.01,
+    "StylePlus": "113"
   },
   {
     "BID": 11433,
@@ -27,27 +103,21 @@
     "Origin": "Fort Collins, CO United States",
     "BeerAbv": 5.50,
     "BeerIbu": 32.00,
-    "HallRating": 15.62
+    "HallRating": 15.62,
+    "BAR": 9.99,
+    "StylePlus": "110"
   },
   {
-    "BID": 12578,
-    "BeerName": "Fireman's Brew Brunette Beer",
-    "BeerStyle": "Bock - Doppelbock",
-    "BreweryName": "Fireman’s Brew",
-    "Origin": "Canoga Park, CA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 19.00,
-    "HallRating": 15.61
-  },
-  {
-    "BID": 12314,
-    "BeerName": "S'more Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Short’s Brewing Company",
+    "BID": 10981,
+    "BeerName": "Cereal Killer Barleywine",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Arcadia Brewing Co.",
     "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 20.00,
-    "HallRating": 15.61
+    "BeerAbv": 10.00,
+    "BeerIbu": 70.00,
+    "HallRating": 15.62,
+    "BAR": 10.00,
+    "StylePlus": "102"
   },
   {
     "BID": 10670,
@@ -57,27 +127,33 @@
     "Origin": "Munlochy, Highland Scotland",
     "BeerAbv": 7.00,
     "BeerIbu": 49.00,
-    "HallRating": 15.61
+    "HallRating": 15.61,
+    "BAR": 9.98,
+    "StylePlus": "104"
   },
   {
-    "BID": 12556,
-    "BeerName": "Isseki Nichō",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Brasserie Dieu du Ciel!",
-    "Origin": "Montréal, QC Canada",
-    "BeerAbv": 9.50,
-    "BeerIbu": 0.00,
-    "HallRating": 15.60
+    "BID": 12578,
+    "BeerName": "Fireman's Brew Brunette Beer",
+    "BeerStyle": "Bock - Doppelbock",
+    "BreweryName": "Fireman’s Brew",
+    "Origin": "Canoga Park, CA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 19.00,
+    "HallRating": 15.61,
+    "BAR": 9.98,
+    "StylePlus": "106"
   },
   {
-    "BID": 10086,
-    "BeerName": "Route des Épices",
-    "BeerStyle": "Rye Beer",
-    "BreweryName": "Brasserie Dieu du Ciel!",
-    "Origin": "Montréal, QC Canada",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "HallRating": 15.60
+    "BID": 12314,
+    "BeerName": "S'more Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Short’s Brewing Company",
+    "Origin": "Elk Rapids, MI United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 20.00,
+    "HallRating": 15.61,
+    "BAR": 9.97,
+    "StylePlus": "103"
   },
   {
     "BID": 12350,
@@ -87,17 +163,33 @@
     "Origin": "Kingston, NY United States",
     "BeerAbv": 8.00,
     "BeerIbu": 50.00,
-    "HallRating": 15.60
+    "HallRating": 15.60,
+    "BAR": 9.97,
+    "StylePlus": "100"
   },
   {
-    "BID": 11581,
-    "BeerName": "Carlton Dry",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Carlton & United Breweries",
-    "Origin": "Abbotsford, Victoria Australia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 12.00,
-    "HallRating": 15.59
+    "BID": 12556,
+    "BeerName": "Isseki Nichō",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Brasserie Dieu du Ciel!",
+    "Origin": "Montréal, QC Canada",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "HallRating": 15.60,
+    "BAR": 9.96,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 10086,
+    "BeerName": "Route des Épices",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Brasserie Dieu du Ciel!",
+    "Origin": "Montréal, QC Canada",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "HallRating": 15.60,
+    "BAR": 9.96,
+    "StylePlus": "107"
   },
   {
     "BID": 10413,
@@ -107,7 +199,9 @@
     "Origin": "Copenhagen, Region Hovedstaden Denmark",
     "BeerAbv": 9.75,
     "BeerIbu": 0.00,
-    "HallRating": 15.59
+    "HallRating": 15.59,
+    "BAR": 9.95,
+    "StylePlus": "101"
   },
   {
     "BID": 10969,
@@ -117,7 +211,9 @@
     "Origin": "Copenhagen, Region Hovedstaden Denmark",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 15.59
+    "HallRating": 15.59,
+    "BAR": 9.95,
+    "StylePlus": "104"
   },
   {
     "BID": 10621,
@@ -127,17 +223,21 @@
     "Origin": "Hood River, OR United States",
     "BeerAbv": 6.50,
     "BeerIbu": 65.00,
-    "HallRating": 15.59
+    "HallRating": 15.59,
+    "BAR": 9.95,
+    "StylePlus": "104"
   },
   {
-    "BID": 12131,
-    "BeerName": "Stewart's 80/-",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "Stewart Brewing",
-    "Origin": "Loanhead, Midlothian Scotland",
-    "BeerAbv": 4.40,
-    "BeerIbu": 18.00,
-    "HallRating": 15.58
+    "BID": 11581,
+    "BeerName": "Carlton Dry",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Carlton & United Breweries",
+    "Origin": "Abbotsford, Victoria Australia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 12.00,
+    "HallRating": 15.59,
+    "BAR": 9.94,
+    "StylePlus": "98"
   },
   {
     "BID": 11775,
@@ -147,7 +247,9 @@
     "Origin": "Ellensburg, WA United States",
     "BeerAbv": 7.50,
     "BeerIbu": 22.00,
-    "HallRating": 15.58
+    "HallRating": 15.58,
+    "BAR": 9.94,
+    "StylePlus": "103"
   },
   {
     "BID": 1151,
@@ -157,7 +259,21 @@
     "Origin": "Kailua-Kona, HI United States",
     "BeerAbv": 6.50,
     "BeerIbu": 45.00,
-    "HallRating": 15.58
+    "HallRating": 15.58,
+    "BAR": 9.94,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 12131,
+    "BeerName": "Stewart's 80/-",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Stewart Brewing",
+    "Origin": "Loanhead, Midlothian Scotland",
+    "BeerAbv": 4.40,
+    "BeerIbu": 18.00,
+    "HallRating": 15.58,
+    "BAR": 9.93,
+    "StylePlus": "111"
   },
   {
     "BID": 10167,
@@ -167,7 +283,9 @@
     "Origin": "Thisted, Region Nordjylland Denmark",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 15.58
+    "HallRating": 15.58,
+    "BAR": 9.94,
+    "StylePlus": "98"
   },
   {
     "BID": 11069,
@@ -177,76 +295,8 @@
     "Origin": "Shrewsbury, Shropshire England",
     "BeerAbv": 4.30,
     "BeerIbu": 0.00,
-    "HallRating": 15.57
-  },
-  {
-    "BID": 1075,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Terminal Gravity Brewing",
-    "Origin": "Enterprise, OR United States",
-    "BeerAbv": 7.10,
-    "BeerIbu": 70.00,
-    "HallRating": 15.57
-  },
-  {
-    "BID": 12075,
-    "BeerName": "Double Chocolate Stout",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Fort Collins Brewery (FCB)",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 8.10,
-    "BeerIbu": 48.00,
-    "HallRating": 15.56
-  },
-  {
-    "BID": 1200,
-    "BeerName": "Dragonhead",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Orkney Brewery",
-    "Origin": "Stromness, Orkney Islands Scotland",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 15.56
-  },
-  {
-    "BID": 11738,
-    "BeerName": "OPA (Oatmeal Pale Ale)",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Ranger Creek Brewing & Distilling",
-    "Origin": "San Antonio, TX United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 35.00,
-    "HallRating": 15.56
-  },
-  {
-    "BID": 10400,
-    "BeerName": "Lost Continent",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Grand Teton Brewing",
-    "Origin": "Victor, ID United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 117.00,
-    "HallRating": 15.56
-  },
-  {
-    "BID": 11659,
-    "BeerName": "Panil Barriquée",
-    "BeerStyle": "Sour - Flanders Red Ale",
-    "BreweryName": "Panil Birrificio Torrechiara",
-    "Origin": "Torrechiara, Emilia-Romagna Italy",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 15.55
-  },
-  {
-    "BID": 10892,
-    "BeerName": "Deception",
-    "BeerStyle": "Pale Ale - New Zealand",
-    "BreweryName": "Abbeydale Brewery",
-    "Origin": "Sheffield, South Yorkshire England",
-    "BeerAbv": 4.10,
-    "BeerIbu": 45.00,
-    "HallRating": 15.54
+    "HallRating": 15.57,
+    "BAR": 9.93,
+    "StylePlus": "122"
   }
 ]

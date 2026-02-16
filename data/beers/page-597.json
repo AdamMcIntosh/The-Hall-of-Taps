@@ -1,35 +1,5 @@
 [
   {
-    "BID": 3340423,
-    "BeerName": "Bog Nectar",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Block North Brew Pub",
-    "Origin": "Aitkin, MN United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341499,
-    "BeerName": "Bog Nectar",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Block North Brew Pub",
-    "Origin": "Aitkin, MN United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342918,
-    "BeerName": "Knox Bridge",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Block North Brew Pub",
-    "Origin": "Aitkin, MN United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 3343221,
     "BeerName": "Jurassic Ipa",
     "BeerStyle": "IPA - American",
@@ -37,7 +7,9 @@
     "Origin": "St. Catharines, ON Canada",
     "BeerAbv": 4.60,
     "BeerIbu": 68.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1673093,
@@ -47,7 +19,9 @@
     "Origin": "St. Catharines, ON Canada",
     "BeerAbv": 5.50,
     "BeerIbu": 45.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
     "BID": 3333905,
@@ -57,7 +31,9 @@
     "Origin": "China / People's Republic of China",
     "BeerAbv": 5.00,
     "BeerIbu": 8.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 9206,
@@ -67,7 +43,9 @@
     "Origin": null,
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 9207,
@@ -77,176 +55,248 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 11542,
-    "BeerName": "White",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Feral Brewing Company",
-    "Origin": "Bassendean, Western Australia Australia",
-    "BeerAbv": 4.60,
-    "BeerIbu": 11.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8931,
-    "BeerName": "X-MyASs (2010)",
-    "BeerStyle": "Homebrew, Winter Ale",
-    "BreweryName": "Heidrun Brewery (Heiðrún)",
-    "Origin": "Sweden",
-    "BeerAbv": 7.60,
-    "BeerIbu": 80.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8940,
-    "BeerName": "Ronza Imperial Stout",
-    "BeerStyle": "Homebrew, Stout - Imperial / Double",
-    "BreweryName": "Heidrun Brewery (Heiðrún)",
-    "Origin": "Sweden",
+    "BID": 10388,
+    "BeerName": "Mango Wheat",
+    "BeerStyle": "Homebrew, Other",
+    "BreweryName": "Shvitzing Matilda Beer",
+    "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 9200,
-    "BeerName": "Ninja",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Heidrun Brewery (Heiðrún)",
-    "Origin": "Sweden",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8131,
-    "BeerName": "Sorachi-ken",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Heidrun Brewery (Heiðrún)",
-    "Origin": "Sweden",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9689,
-    "BeerName": "lemonAle Voodoo Juice",
-    "BeerStyle": "Homebrew, Spiced / Herbed Beer",
-    "BreweryName": "Heidrun Brewery (Heiðrún)",
-    "Origin": "Sweden",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672312,
-    "BeerName": "Fish River Gold",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Red Tape Brewing Co.",
-    "Origin": "Sydney, New South Wales Australia",
-    "BeerAbv": 5.00,
-    "BeerIbu": 18.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672314,
-    "BeerName": "Perfect Storm",
-    "BeerStyle": "Kellerbier / Zwickelbier",
-    "BreweryName": "Red Tape Brewing Co.",
-    "Origin": "Sydney, New South Wales Australia",
-    "BeerAbv": 4.80,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339600,
-    "BeerName": "Square Mile",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "9 Mile Legacy Brewing",
-    "Origin": "Saskatoon, SK Canada",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341403,
-    "BeerName": "SMaSH (Denali)",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Cedar Creek Brewing Company",
-    "Origin": "Ferny Grove, QLD Australia",
-    "BeerAbv": 4.70,
-    "BeerIbu": 45.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672315,
-    "BeerName": "Henry the 8th",
-    "BeerStyle": "Homebrew, Stout - American",
-    "BreweryName": "Cedar Creek Brewing Company",
-    "Origin": "Ferny Grove, QLD Australia",
-    "BeerAbv": 6.40,
-    "BeerIbu": 53.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672313,
-    "BeerName": "Astro Zombie",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Cedar Creek Brewing Company",
-    "Origin": "Ferny Grove, QLD Australia",
-    "BeerAbv": 6.30,
-    "BeerIbu": 52.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339605,
-    "BeerName": "Brut IPA",
-    "BeerStyle": "IPA - Brut",
-    "BreweryName": "Koehler Brewing Company",
-    "Origin": "Ellwood City, PA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339623,
-    "BeerName": "Belgian Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Koehler Brewing Company",
-    "Origin": "Ellwood City, PA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3343056,
-    "BeerName": "One Giant Leap",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Walking Man Brewing",
-    "Origin": "Stevenson, WA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 90.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3344470,
-    "BeerName": "One Small Step ISA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Walking Man Brewing",
-    "Origin": "Stevenson, WA United States",
-    "BeerAbv": 4.20,
+    "BID": 1673097,
+    "BeerName": "Fuller's Indian Pale Ale",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Indian Pale Ale Fuller's",
+    "Origin": null,
+    "BeerAbv": 5.30,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 8379,
-    "BeerName": "Knuckle Dragger",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Walking Man Brewing",
-    "Origin": "Stevenson, WA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 100.00,
-    "HallRating": 0.00
+    "BID": 3340430,
+    "BeerName": "Bean There, Done That",
+    "BeerStyle": "Porter - Coffee",
+    "BreweryName": "Bone Hook Brewing Company",
+    "Origin": "Naples, FL United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 9210,
+    "BeerName": "Wilkins Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Wilkins Farmhouse Cider",
+    "Origin": "Wedmore, Somerset England",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 1673101,
+    "BeerName": "Lost Scotch",
+    "BeerStyle": "Homebrew, Scotch Ale / Wee Heavy",
+    "BreweryName": "Clockwise Brewing",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1673106,
+    "BeerName": "Bravo! Bravo! IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Four Mile Brewing Company",
+    "Origin": "Olean, NY United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 3340440,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Timothy's - Le Brasseur du Pape",
+    "Origin": "France",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3340462,
+    "BeerName": "Belgian Ale",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Timothy's - Le Brasseur du Pape",
+    "Origin": "France",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1673107,
+    "BeerName": "Whitefly",
+    "BeerStyle": "IPA - White / Wheat",
+    "BreweryName": "Deer Creek Brewery",
+    "Origin": "Noblesville, IN United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
+  },
+  {
+    "BID": 1673108,
+    "BeerName": "ALTernate Brewality",
+    "BeerStyle": "Homebrew, Altbier - Traditional",
+    "BreweryName": "BRU",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1674212,
+    "BeerName": "2nd Best Collaboration Ever!",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Central State Brewing Company",
+    "Origin": "Indianapolis, IN United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 1667253,
+    "BeerName": "2nd Best Collaboration Ever!",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Central State Brewing Company",
+    "Origin": "Indianapolis, IN United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 3338573,
+    "BeerName": "Beach",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Central State Brewing Company",
+    "Origin": "Indianapolis, IN United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 1673109,
+    "BeerName": "Invern Ale",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Raices",
+    "Origin": "Maldonado, Uruguay",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 9225,
+    "BeerName": "Big Cheese IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "The Big Cheese Pizza Co. & Brewery",
+    "Origin": "Riverside, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 1673110,
+    "BeerName": "Golden Bear",
+    "BeerStyle": "Homebrew, Belgian Blonde",
+    "BreweryName": "Hillbilly Bruin",
+    "Origin": "United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1675473,
+    "BeerName": "Bog Bear",
+    "BeerStyle": "Homebrew, Stout - Imperial / Double",
+    "BreweryName": "Hillbilly Bruin",
+    "Origin": "United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1673111,
+    "BeerName": "Shuksan Raspberry",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Crate Hard Cider",
+    "Origin": "United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 3340453,
+    "BeerName": "American Girl",
+    "BeerStyle": "Homebrew, Blonde / Golden Ale - Other",
+    "BreweryName": "The Wizard's Brew",
+    "Origin": "United States",
+    "BeerAbv": 7.90,
+    "BeerIbu": 42.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1673115,
+    "BeerName": "Wreckless Red",
+    "BeerStyle": "Homebrew, Red Ale - Irish",
+    "BreweryName": "Long Island Ales",
+    "Origin": "United States",
+    "BeerAbv": 5.61,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

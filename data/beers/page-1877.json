@@ -1,35 +1,5 @@
 [
   {
-    "BID": 12178,
-    "BeerName": "Smoked Helles",
-    "BeerStyle": "Smoked Beer",
-    "BreweryName": "Rock Bottom Restaurant & Brewery",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -52.16
-  },
-  {
-    "BID": 10852,
-    "BeerName": "Jefferson Julle Bryg",
-    "BeerStyle": "Bock - Weizenbock",
-    "BreweryName": "Ørbæk Bryggeri",
-    "Origin": "Ørbæk, Region Syddanmark Denmark",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "HallRating": -52.16
-  },
-  {
-    "BID": 11073,
-    "BeerName": "Flying Salmon Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Rock Bottom Restaurant & Brewery",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -53.57
-  },
-  {
     "BID": 10069,
     "BeerName": "Oatmeal Stout",
     "BeerStyle": "Stout - Oatmeal",
@@ -37,7 +7,9 @@
     "Origin": "St. Francis, WI United States",
     "BeerAbv": 5.70,
     "BeerIbu": 0.00,
-    "HallRating": -53.57
+    "HallRating": -53.57,
+    "BAR": -6.77,
+    "StylePlus": null
   },
   {
     "BID": 12661,
@@ -47,7 +19,9 @@
     "Origin": "Morgan Hill, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -53.57
+    "HallRating": -53.57,
+    "BAR": -6.77,
+    "StylePlus": null
   },
   {
     "BID": 11231,
@@ -57,17 +31,9 @@
     "Origin": "San Antonio, TX United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -53.57
-  },
-  {
-    "BID": 12478,
-    "BeerName": "Winterfest",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "WEST Brewery",
-    "Origin": "Glasgow, Glasgow City Scotland",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "HallRating": -53.57
+    "HallRating": -53.57,
+    "BAR": -6.77,
+    "StylePlus": null
   },
   {
     "BID": 11348,
@@ -77,7 +43,21 @@
     "Origin": "Moonta Bay, South Australia Australia",
     "BeerAbv": 4.90,
     "BeerIbu": 0.00,
-    "HallRating": -53.57
+    "HallRating": -53.57,
+    "BAR": -6.77,
+    "StylePlus": null
+  },
+  {
+    "BID": 12478,
+    "BeerName": "Winterfest",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "WEST Brewery",
+    "Origin": "Glasgow, Glasgow City Scotland",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": -53.57,
+    "BAR": -6.77,
+    "StylePlus": null
   },
   {
     "BID": 12124,
@@ -87,17 +67,9 @@
     "Origin": "Saddle Brook, NJ United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -53.57
-  },
-  {
-    "BID": 11331,
-    "BeerName": "Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Emerson's Brewery",
-    "Origin": "Dunedin, Otago New Zealand",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -55.36
+    "HallRating": -53.57,
+    "BAR": -6.77,
+    "StylePlus": null
   },
   {
     "BID": 11336,
@@ -107,7 +79,21 @@
     "Origin": "Dunedin, Otago New Zealand",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -55.36
+    "HallRating": -55.36,
+    "BAR": -6.34,
+    "StylePlus": null
+  },
+  {
+    "BID": 11331,
+    "BeerName": "Oatmeal Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Emerson's Brewery",
+    "Origin": "Dunedin, Otago New Zealand",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -55.36,
+    "BAR": -6.34,
+    "StylePlus": null
   },
   {
     "BID": 11815,
@@ -117,7 +103,9 @@
     "Origin": "Chico, CA United States",
     "BeerAbv": 5.20,
     "BeerIbu": 39.00,
-    "HallRating": -55.36
+    "HallRating": -55.36,
+    "BAR": -6.34,
+    "StylePlus": null
   },
   {
     "BID": 12486,
@@ -127,7 +115,9 @@
     "Origin": "Manchester, Greater Manchester England",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -55.36
+    "HallRating": -55.36,
+    "BAR": -6.34,
+    "StylePlus": null
   },
   {
     "BID": 10756,
@@ -137,7 +127,9 @@
     "Origin": "Fullerton, CA United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": -55.36
+    "HallRating": -55.36,
+    "BAR": -6.34,
+    "StylePlus": null
   },
   {
     "BID": 11452,
@@ -147,7 +139,9 @@
     "Origin": "Woodend, Victoria Australia",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": -57.71
+    "HallRating": -57.71,
+    "BAR": -5.84,
+    "StylePlus": null
   },
   {
     "BID": 1176,
@@ -157,7 +151,9 @@
     "Origin": "Minneapolis, MN United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": -57.71
+    "HallRating": -57.71,
+    "BAR": -5.84,
+    "StylePlus": null
   },
   {
     "BID": 12149,
@@ -167,7 +163,9 @@
     "Origin": "Laguna Beach, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -57.71
+    "HallRating": -57.71,
+    "BAR": -5.84,
+    "StylePlus": null
   },
   {
     "BID": 11532,
@@ -177,7 +175,9 @@
     "Origin": "Ballarat, Victoria Australia",
     "BeerAbv": 8.30,
     "BeerIbu": 0.00,
-    "HallRating": -57.71
+    "HallRating": -57.71,
+    "BAR": -5.84,
+    "StylePlus": null
   },
   {
     "BID": 12047,
@@ -187,7 +187,9 @@
     "Origin": "Ottawa, on Canada",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -57.71
+    "HallRating": -57.71,
+    "BAR": -5.84,
+    "StylePlus": null
   },
   {
     "BID": 10572,
@@ -197,7 +199,9 @@
     "Origin": "Flossmoor, IL United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -57.71
+    "HallRating": -57.71,
+    "BAR": -5.84,
+    "StylePlus": null
   },
   {
     "BID": 12232,
@@ -207,17 +211,9 @@
     "Origin": "Peekskill, NY United States",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": -57.71
-  },
-  {
-    "BID": 11349,
-    "BeerName": "Miner's Light",
-    "BeerStyle": "Table Beer",
-    "BreweryName": "Copper Coast Wines",
-    "Origin": "Moonta Bay, South Australia Australia",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": -58.70
+    "HallRating": -57.71,
+    "BAR": -5.84,
+    "StylePlus": null
   },
   {
     "BID": 11569,
@@ -227,7 +223,21 @@
     "Origin": "Smithfield, New South Wales Australia",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -58.70
+    "HallRating": -58.70,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 11349,
+    "BeerName": "Miner's Light",
+    "BeerStyle": "Table Beer",
+    "BreweryName": "Copper Coast Wines",
+    "Origin": "Moonta Bay, South Australia Australia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": -58.70,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 10384,
@@ -237,7 +247,21 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -58.70
+    "HallRating": -58.70,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 11144,
+    "BeerName": "Phantom Limb Raspberry Stout",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Catawba Brewing Co.",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": -58.70,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 11415,
@@ -247,6 +271,32 @@
     "Origin": "Saint Louis, MO United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": -58.70
+    "HallRating": -58.70,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 10767,
+    "BeerName": "Kyoho Ruby Ale (巨峰ルビーエール)",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Sankt Gallen Brewery",
+    "Origin": "Atsugi-shi, Kanagawa Japan",
+    "BeerAbv": 5.00,
+    "BeerIbu": 19.00,
+    "HallRating": -58.70,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 12089,
+    "BeerName": "Ne'tra Gal",
+    "BeerStyle": "Dark Ale",
+    "BreweryName": "Southern Tier Brewing Company",
+    "Origin": "Lakewood, NY United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "HallRating": -60.93,
+    "BAR": -5.24,
+    "StylePlus": null
   }
 ]

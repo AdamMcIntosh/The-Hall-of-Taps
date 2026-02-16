@@ -1,185 +1,5 @@
 [
   {
-    "BID": 4940078,
-    "BeerName": "Braxton Barrel House Fort Mitchell Imperial Stout 2.0",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Braxton Brewing Company",
-    "Origin": "Covington, KY United States",
-    "BeerAbv": 14.30,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342932,
-    "BeerName": "2019 Blown Gasket Barrel-aged",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Braxton Brewing Company",
-    "Origin": "Covington, KY United States",
-    "BeerAbv": 11.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341738,
-    "BeerName": "Yesterday's Headlines Vol. 4",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Braxton Brewing Company",
-    "Origin": "Covington, KY United States",
-    "BeerAbv": 7.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341598,
-    "BeerName": "2019 Dark Charge Bourbon Barrel Aged Base",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Braxton Brewing Company",
-    "Origin": "Covington, KY United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3890520,
-    "BeerName": "Extra Strawberry Shortcake",
-    "BeerStyle": "Cream Ale",
-    "BreweryName": "Braxton Brewing Company",
-    "Origin": "Covington, KY United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1677097,
-    "BeerName": "Oktober Fuel",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Braxton Brewing Company",
-    "Origin": "Covington, KY United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1666681,
-    "BeerName": "Trophy: Dr. Rudi Dry Hopped With Citra And Mosaic",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Braxton Brewing Company",
-    "Origin": "Covington, KY United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4961639,
-    "BeerName": "Bourbon Barrel Aged Blown Gasket Robust Porter",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Braxton Brewing Company",
-    "Origin": "Covington, KY United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981693,
-    "BeerName": "Hurricane Brandy",
-    "BeerStyle": "Cream Ale - Imperial / Double",
-    "BreweryName": "Braxton Brewing Company",
-    "Origin": "Covington, KY United States",
-    "BeerAbv": 11.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445769,
-    "BeerName": "Svetle Pivo",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Backroads Brewing Co.",
-    "Origin": "Nelson, BC Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630524,
-    "BeerName": "Vitriolic Bar'Stard",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Horncastle Ales",
-    "Origin": "Horncastle, Lincolnshire England",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338358,
-    "BeerName": "Damnation",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Horncastle Ales",
-    "Origin": "Horncastle, Lincolnshire England",
-    "BeerAbv": 4.10,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815277,
-    "BeerName": "Singabeera Officinale",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Khoffner Brewery",
-    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
-    "BeerAbv": 6.00,
-    "BeerIbu": 6.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960652,
-    "BeerName": "Easy Radler",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Khoffner Brewery",
-    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
-    "BeerAbv": 2.50,
-    "BeerIbu": 5.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445771,
-    "BeerName": "Southside",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Twisted Knot Brewing Co.",
-    "Origin": "Newport News, VA United States",
-    "BeerAbv": 8.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339391,
-    "BeerName": "Wheatie Pops (Dark)",
-    "BeerStyle": "Wheat Beer - Other",
-    "BreweryName": "Twisted Knot Brewing Co.",
-    "Origin": "Newport News, VA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630526,
-    "BeerName": "Heidehoning Bier",
-    "BeerStyle": "Homebrew, Altbier - Traditional",
-    "BreweryName": "Kommer Bieren Garderen",
-    "Origin": "Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815278,
-    "BeerName": "Pour Behaviour",
-    "BeerStyle": "Homebrew, Pilsner - German",
-    "BreweryName": "Pour Souls Craft Brewery Ltd.",
-    "Origin": "England",
-    "BeerAbv": 4.90,
-    "BeerIbu": 35.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 4815299,
     "BeerName": "WTF James?",
     "BeerStyle": "Homebrew, Lager - Dark",
@@ -187,7 +7,9 @@
     "Origin": "England",
     "BeerAbv": 5.40,
     "BeerIbu": 32.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445772,
@@ -197,7 +19,9 @@
     "Origin": "Panamá, Provincia de Panamá Panama",
     "BeerAbv": 4.80,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   },
   {
     "BID": 4630527,
@@ -207,7 +31,9 @@
     "Origin": "Charlottesville, VA United States",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4630537,
@@ -217,7 +43,9 @@
     "Origin": "Charlottesville, VA United States",
     "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 4815279,
@@ -227,7 +55,9 @@
     "Origin": "Ashigarashimo District, Kanagawa Japan",
     "BeerAbv": 6.50,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4815280,
@@ -237,7 +67,9 @@
     "Origin": "Russia",
     "BeerAbv": 8.00,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4960504,
@@ -247,6 +79,224 @@
     "Origin": "Russia",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "118"
+  },
+  {
+    "BID": 4815645,
+    "BeerName": "Hop Shovel™ Double IPA Mosaic Magic",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 65.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4815663,
+    "BeerName": "NorCal IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 3339460,
+    "BeerName": "Red Racer (Ales For ALS 2019)",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3339511,
+    "BeerName": "Republic of Hops",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1671181,
+    "BeerName": "Sacre Blue",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "77"
+  },
+  {
+    "BID": 1671288,
+    "BeerName": "Red Racer 2016 Ales For Als",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 2391,
+    "BeerName": "XP Pale Ale™",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 2026,
+    "BeerName": "Heritage Ale™",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 2034,
+    "BeerName": "Racer X®",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 1425,
+    "BeerName": "Hop Rod Rye™",
+    "BeerStyle": "IPA - Rye",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 80.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 1557,
+    "BeerName": "Big Bear Black Stout™",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 8.10,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 1553,
+    "BeerName": "Racer 5 IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 5172,
+    "BeerName": "Late Harvest Lager™",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 5795,
+    "BeerName": "Apex™",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 8.25,
+    "BeerIbu": 100.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 5569,
+    "BeerName": "Red Rocket Ale®",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 67.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 3335472,
+    "BeerName": "IPA Handdesinfektion",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Dalens Sjukhus",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1676922,
+    "BeerName": "SchuppenBoer Tripel Whisky Barrel Aged",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij Het Nest",
+    "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
+    "BeerAbv": 9.00,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 3343449,
+    "BeerName": "Schuppenboer Speyside Whisky Barrel Aged Peated",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij Het Nest",
+    "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 38.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
   }
 ]

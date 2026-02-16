@@ -1,5 +1,221 @@
 [
   {
+    "BID": 1668728,
+    "BeerName": "Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Mosquito County Beer Company",
+    "Origin": "Orlando, FL United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3335368,
+    "BeerName": "Rail Trail Shandy",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Laurel Highlands Brewing",
+    "Origin": "Uniontown, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "116"
+  },
+  {
+    "BID": 4630550,
+    "BeerName": "Österlen Black Session IPA",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Österlenbryggarna",
+    "Origin": "Tomelilla kommun, Skåne län Sweden",
+    "BeerAbv": 3.50,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 1668730,
+    "BeerName": "Jeppssons Lager",
+    "BeerStyle": "Lager - American Amber / Red",
+    "BreweryName": "Österlenbryggarna",
+    "Origin": "Tomelilla kommun, Skåne län Sweden",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
+  },
+  {
+    "BID": 4941403,
+    "BeerName": "Batch No7",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Österlenbryggarna",
+    "Origin": "Tomelilla kommun, Skåne län Sweden",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 1668731,
+    "BeerName": "B99 Lager",
+    "BeerStyle": "Lager - American Amber / Red",
+    "BreweryName": "Brewery 99",
+    "Origin": "New Bern, NC United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342096,
+    "BeerName": "Blueberry Tart",
+    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
+    "BreweryName": "Brewery 99",
+    "Origin": "New Bern, NC United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342130,
+    "BeerName": "Mesquite Smoked Wheat W/Black Peppercorns And Jalapeno",
+    "BeerStyle": "Smoked Beer",
+    "BreweryName": "Brewery 99",
+    "Origin": "New Bern, NC United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4445264,
+    "BeerName": "Flunk 3",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Lagabière",
+    "Origin": "Saint-Jean-sur-Richelieu, QC Canada",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 3343807,
+    "BeerName": "Dubbel Province Aux Mures",
+    "BeerStyle": "Sour - Flanders Oud Bruin",
+    "BreweryName": "Lagabière",
+    "Origin": "Saint-Jean-sur-Richelieu, QC Canada",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3343590,
+    "BeerName": "Lars Andersen Combo (Café, Cacao, Vanille, Lactose, Cerise Marasquin)",
+    "BeerStyle": "Porter - Baltic",
+    "BreweryName": "Lagabière",
+    "Origin": "Saint-Jean-sur-Richelieu, QC Canada",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3344322,
+    "BeerName": "How I Learned To Stop Worrying And Love the Berries",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Lagabière",
+    "Origin": "Saint-Jean-sur-Richelieu, QC Canada",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3344337,
+    "BeerName": "Brett Pas, Vient T’en",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Lagabière",
+    "Origin": "Saint-Jean-sur-Richelieu, QC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4815864,
+    "BeerName": "Série 10e Anniversaire: Southshore IPL",
+    "BeerStyle": "Lager - IPL (India Pale Lager)",
+    "BreweryName": "Lagabière",
+    "Origin": "Saint-Jean-sur-Richelieu, QC Canada",
+    "BeerAbv": 6.50,
+    "BeerIbu": 43.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 3335369,
+    "BeerName": "Balade En Radeau - Août",
+    "BeerStyle": "IPA - Sour",
+    "BreweryName": "Lagabière",
+    "Origin": "Saint-Jean-sur-Richelieu, QC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4939303,
+    "BeerName": "Gose Framboise Et Rhubarbe",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Lagabière",
+    "Origin": "Saint-Jean-sur-Richelieu, QC Canada",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3336613,
+    "BeerName": "Klink W/ Pomegranate",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Prison City Brewing",
+    "Origin": "Auburn, NY United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3336614,
+    "BeerName": "Turf Wars 5",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Prison City Brewing",
+    "Origin": "Auburn, NY United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
     "BID": 3336611,
     "BeerName": "Papers, Please",
     "BeerStyle": "IPA - Imperial / Double",
@@ -7,7 +223,9 @@
     "Origin": "Auburn, NY United States",
     "BeerAbv": 8.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 1668733,
@@ -17,7 +235,9 @@
     "Origin": "Auburn, NY United States",
     "BeerAbv": 11.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1670526,
@@ -27,7 +247,9 @@
     "Origin": "Auburn, NY United States",
     "BeerAbv": 7.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 1671953,
@@ -37,7 +259,9 @@
     "Origin": "Auburn, NY United States",
     "BeerAbv": 8.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 3335372,
@@ -47,7 +271,9 @@
     "Origin": "Grimslöv, Kronobergs län Sweden",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1673968,
@@ -57,7 +283,9 @@
     "Origin": "Lincoln, NE United States",
     "BeerAbv": 10.20,
     "BeerIbu": 29.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 1669982,
@@ -67,186 +295,8 @@
     "Origin": "Lincoln, NE United States",
     "BeerAbv": 5.00,
     "BeerIbu": 21.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668735,
-    "BeerName": "Kölschbier (Pilot)",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Ploughshare Brewing Co",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 23.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335373,
-    "BeerName": "Cattlestar Galactica",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Proclamation Ale Company",
-    "Origin": "Warwick, RI United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336378,
-    "BeerName": "The Unyielding Wrath of the Alpaca Magi (Batch 2)",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Proclamation Ale Company",
-    "Origin": "Warwick, RI United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336137,
-    "BeerName": "Black Napkins Batch 3",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Proclamation Ale Company",
-    "Origin": "Warwick, RI United States",
-    "BeerAbv": 8.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4959806,
-    "BeerName": "Nooit Rust",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Proclamation Ale Company",
-    "Origin": "Warwick, RI United States",
-    "BeerAbv": 7.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3337580,
-    "BeerName": "Derivative | Mystery",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Proclamation Ale Company",
-    "Origin": "Warwick, RI United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3334186,
-    "BeerName": "Woodpeckers Hole",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Gribble Inn",
-    "Origin": "Oving, West Sussex England",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2934,
-    "BeerName": "Black Honey Ale",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Devil Mountain Brewing",
-    "Origin": "Benicia, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3125,
-    "BeerName": "Five Malt Ale",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Devil Mountain Brewing",
-    "Origin": "Benicia, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668736,
-    "BeerName": "Unfiltered Blood Orange",
-    "BeerStyle": "Other",
-    "BreweryName": "Crooked Letter Brewing Co.",
-    "Origin": "Ocean Springs, MS United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338011,
-    "BeerName": "Crooked Letter Blueberry Heffy",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Crooked Letter Brewing Co.",
-    "Origin": "Ocean Springs, MS United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335375,
-    "BeerName": "Raspberry Lemonade Prison Grog",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Trider's Craft Beer",
-    "Origin": "Amherst, NS Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668737,
-    "BeerName": "Unleaded Ale",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Pumphouse",
-    "Origin": "Wichita, KS United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335376,
-    "BeerName": "Freudian Sip",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Beachwood Brewing",
-    "Origin": "Huntington Beach, CA United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 22.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336912,
-    "BeerName": "Dry Hopped Loma Prieta",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Beachwood Brewing",
-    "Origin": "Huntington Beach, CA United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 35.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3343237,
-    "BeerName": "Vanilla Fudge Smores",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Beachwood Brewing",
-    "Origin": "Huntington Beach, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342600,
-    "BeerName": "Double Gator",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Beachwood Brewing",
-    "Origin": "Huntington Beach, CA United States",
-    "BeerAbv": 9.60,
-    "BeerIbu": 100.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342725,
-    "BeerName": "Double Gator Mosaic Cask",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Beachwood Brewing",
-    "Origin": "Huntington Beach, CA United States",
-    "BeerAbv": 9.90,
-    "BeerIbu": 100.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "116"
   }
 ]

@@ -1,185 +1,5 @@
 [
   {
-    "BID": 1675511,
-    "BeerName": "FrankenFroth",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Division Brewing",
-    "Origin": "Arlington, TX United States",
-    "BeerAbv": 8.30,
-    "BeerIbu": 115.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1669299,
-    "BeerName": "FrankenFroth",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Division Brewing",
-    "Origin": "Arlington, TX United States",
-    "BeerAbv": 8.30,
-    "BeerIbu": 115.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4961335,
-    "BeerName": "Tiki Tease",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Division Brewing",
-    "Origin": "Arlington, TX United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 1.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631016,
-    "BeerName": "Are You Serious Clark?",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Local Motive Brewing",
-    "Origin": "Florence, SC United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631060,
-    "BeerName": "Blue Razz Lemonade",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Local Motive Brewing",
-    "Origin": "Florence, SC United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631044,
-    "BeerName": "Fragile Christmas Amber",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Local Motive Brewing",
-    "Origin": "Florence, SC United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939739,
-    "BeerName": "Local Motive Tropical Gose",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Local Motive Brewing",
-    "Origin": "Florence, SC United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446253,
-    "BeerName": "PTY Clone",
-    "BeerStyle": "Homebrew, IPA - Triple",
-    "BreweryName": "Alchemy Ales",
-    "Origin": "United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 100.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 14076,
-    "BeerName": "Homegrown Hop Ale",
-    "BeerStyle": "Homebrew, Pale Ale - American",
-    "BreweryName": "Alchemy Ales",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13178,
-    "BeerName": "IPA",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Alchemy Ales",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 12867,
-    "BeerName": "Smoaked Russian Imperial Stout",
-    "BeerStyle": "Homebrew, Stout - Russian Imperial",
-    "BreweryName": "Alchemy Ales",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815787,
-    "BeerName": "Ode To the Harvest (2021)",
-    "BeerStyle": "Farmhouse Ale - Other",
-    "BreweryName": "Aegir Project",
-    "Origin": "Cape Town, Western Cape South Africa",
-    "BeerAbv": 9.10,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4982261,
-    "BeerName": "American Amber Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Aegir Project",
-    "Origin": "Cape Town, Western Cape South Africa",
-    "BeerAbv": 5.40,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446254,
-    "BeerName": "Stone Hunter",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Freebridge Brewing",
-    "Origin": "The Dalles, OR United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3337345,
-    "BeerName": "The Dirty Juicy IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Freebridge Brewing",
-    "Origin": "The Dalles, OR United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 56.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631018,
-    "BeerName": "Darwin",
-    "BeerStyle": "IPA - English",
-    "BreweryName": "La Birreria",
-    "Origin": "Argentina",
-    "BeerAbv": 5.50,
-    "BeerIbu": 50.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815788,
-    "BeerName": "Che Hostels Session Ipa",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "BrewHigh Ingeniería S.A. de C.V.",
-    "Origin": "Papalotla, Tlaxcala Mexico",
-    "BeerAbv": 4.10,
-    "BeerIbu": 50.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4446255,
-    "BeerName": "Bad Golly Gee",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Monkey Legs Brewing Company",
-    "Origin": "United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 4631019,
     "BeerName": "American Logg-rrr",
     "BeerStyle": "Lager - American",
@@ -187,7 +7,9 @@
     "Origin": "Spearfish, SD United States",
     "BeerAbv": 4.50,
     "BeerIbu": 10.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "121"
   },
   {
     "BID": 85,
@@ -197,7 +19,9 @@
     "Origin": "Swansea, Wales",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
   },
   {
     "BID": 4815789,
@@ -207,7 +31,9 @@
     "Origin": "Shawnee, KS United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 4446256,
@@ -217,7 +43,9 @@
     "Origin": "Portsmouth, NH United States",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "118"
   },
   {
     "BID": 1676737,
@@ -227,7 +55,9 @@
     "Origin": "Portsmouth, NH United States",
     "BeerAbv": 4.60,
     "BeerIbu": 10.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
   },
   {
     "BID": 4631020,
@@ -237,7 +67,9 @@
     "Origin": "Norcross, GA United States",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 4446257,
@@ -247,6 +79,224 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4631021,
+    "BeerName": "Lawn Stripes IPL",
+    "BeerStyle": "Lager - IPL (India Pale Lager)",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 4631041,
+    "BeerName": "Hunt the Wumpus IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4631747,
+    "BeerName": "Sadie Sue's Brew",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 4816961,
+    "BeerName": "Enshrined",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 3343145,
+    "BeerName": "Summer School",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3336215,
+    "BeerName": "The Wilson Regiment",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3336918,
+    "BeerName": "40 Mile to the Border (2019)",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 3339698,
+    "BeerName": "Azaccattack",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 1669195,
+    "BeerName": "Hops Addition",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 54.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 1669856,
+    "BeerName": "Game Theory",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 1669531,
+    "BeerName": "Peach Ghost",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 1669650,
+    "BeerName": "Dominion",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4981738,
+    "BeerName": "Strange Encounters",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 28.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "116"
+  },
+  {
+    "BID": 4939237,
+    "BeerName": "First Batch Sample",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 4941536,
+    "BeerName": "Lemon Squeezee - Pink Lemonade Sour",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Three Notch’d Brewing",
+    "Origin": "Charlottesville, VA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 4.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4446258,
+    "BeerName": "Golf View Ipa",
+    "BeerStyle": "Homebrew, IPA - New England / Hazy",
+    "BreweryName": "Golf View Brew",
+    "Origin": "United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4815793,
+    "BeerName": "Nordic Hard Seltzer Passion Fruit/Mango",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Föroya Bjór",
+    "Origin": "Klaksvík, Northern Isles Faroe Islands",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 4446259,
+    "BeerName": "Adventure Tom's IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Black Kite 黑鳶",
+    "Origin": "Hong Kong Island, Hong Kong",
+    "BeerAbv": 5.70,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "BID": 3335118,
+    "BeerName": "Pepper Weizen",
+    "BeerStyle": "Wheat Beer - Other",
+    "BreweryName": "Cheery Brewery",
+    "Origin": "Hai Kou Shi, Hai Nan Sheng China / People's Republic of China",
+    "BeerAbv": 4.50,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3335145,
+    "BeerName": "Uncle Sam’s IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Cheery Brewery",
+    "Origin": "Hai Kou Shi, Hai Nan Sheng China / People's Republic of China",
+    "BeerAbv": 6.50,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
     "BID": 1668471,
     "BeerName": "Sons of the Hoppy",
     "BeerStyle": "Homebrew, Pale Ale - American",
@@ -7,7 +31,9 @@
     "Origin": "United States",
     "BeerAbv": 4.90,
     "BeerIbu": 45.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3335119,
@@ -17,7 +43,9 @@
     "Origin": "Veinge, Hallands län Sweden",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1668472,
@@ -27,7 +55,9 @@
     "Origin": "Picton, ON Canada",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
   },
   {
     "BID": 3335120,
@@ -37,7 +67,9 @@
     "Origin": "Jeonju, 전라북도 South Korea",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3335123,
@@ -47,7 +79,9 @@
     "Origin": "Jeonju, 전라북도 South Korea",
     "BeerAbv": 8.50,
     "BeerIbu": 75.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3335124,
@@ -57,7 +91,9 @@
     "Origin": "Jeonju, 전라북도 South Korea",
     "BeerAbv": 6.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
   },
   {
     "BID": 3335127,
@@ -67,7 +103,9 @@
     "Origin": "Jeonju, 전라북도 South Korea",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
   },
   {
     "BID": 3335121,
@@ -77,37 +115,9 @@
     "Origin": "Beograd, Grad Beograd Serbia",
     "BeerAbv": 4.50,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338383,
-    "BeerName": "Just A Berry Gose",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Dogma Brewery",
-    "Origin": "Beograd, Grad Beograd Serbia",
-    "BeerAbv": 3.50,
-    "BeerIbu": 10.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338357,
-    "BeerName": "Linden",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Dogma Brewery",
-    "Origin": "Beograd, Grad Beograd Serbia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338350,
-    "BeerName": "SMALL TALK, Big Brew Micro IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Dogma Brewery",
-    "Origin": "Beograd, Grad Beograd Serbia",
-    "BeerAbv": 3.60,
-    "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 3339166,
@@ -117,17 +127,45 @@
     "Origin": "Beograd, Grad Beograd Serbia",
     "BeerAbv": 7.50,
     "BeerIbu": 65.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
-    "BID": 4939575,
-    "BeerName": "6th Anniversary No.6 - Talus NEIPA",
-    "BeerStyle": "IPA - New England / Hazy",
+    "BID": 3338357,
+    "BeerName": "Linden",
+    "BeerStyle": "Kölsch",
     "BreweryName": "Dogma Brewery",
     "Origin": "Beograd, Grad Beograd Serbia",
-    "BeerAbv": 6.50,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "BeerAbv": 4.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
+  },
+  {
+    "BID": 3338350,
+    "BeerName": "SMALL TALK, Big Brew Micro IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Dogma Brewery",
+    "Origin": "Beograd, Grad Beograd Serbia",
+    "BeerAbv": 3.60,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 3338383,
+    "BeerName": "Just A Berry Gose",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Dogma Brewery",
+    "Origin": "Beograd, Grad Beograd Serbia",
+    "BeerAbv": 3.50,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 4939555,
@@ -137,17 +175,9 @@
     "Origin": "Beograd, Grad Beograd Serbia",
     "BeerAbv": 10.00,
     "BeerIbu": 60.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939559,
-    "BeerName": "6th Anniversary No.2 - Apricot & Tarragon Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Dogma Brewery",
-    "Origin": "Beograd, Grad Beograd Serbia",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4939562,
@@ -157,7 +187,21 @@
     "Origin": "Beograd, Grad Beograd Serbia",
     "BeerAbv": 4.80,
     "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 4939559,
+    "BeerName": "6th Anniversary No.2 - Apricot & Tarragon Sour",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Dogma Brewery",
+    "Origin": "Beograd, Grad Beograd Serbia",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4939567,
@@ -167,7 +211,9 @@
     "Origin": "Beograd, Grad Beograd Serbia",
     "BeerAbv": 6.80,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
   },
   {
     "BID": 4939571,
@@ -177,7 +223,21 @@
     "Origin": "Beograd, Grad Beograd Serbia",
     "BeerAbv": 4.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "77"
+  },
+  {
+    "BID": 4939575,
+    "BeerName": "6th Anniversary No.6 - Talus NEIPA",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Dogma Brewery",
+    "Origin": "Beograd, Grad Beograd Serbia",
+    "BeerAbv": 6.50,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4980992,
@@ -187,17 +247,9 @@
     "Origin": "Beograd, Grad Beograd Serbia",
     "BeerAbv": 8.00,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342013,
-    "BeerName": "Killer Rabbit",
-    "BeerStyle": "Homebrew, IPA - Belgian",
-    "BreweryName": "Gjæringskaran",
-    "Origin": "Norway",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 3335122,
@@ -207,7 +259,9 @@
     "Origin": "Norway",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3335128,
@@ -217,7 +271,9 @@
     "Origin": "Norway",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3335129,
@@ -227,7 +283,9 @@
     "Origin": "Norway",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3335133,
@@ -237,16 +295,8 @@
     "Origin": "Norway",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335131,
-    "BeerName": "Silly Walks",
-    "BeerStyle": "Homebrew, Other",
-    "BreweryName": "Gjæringskaran",
-    "Origin": "Norway",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

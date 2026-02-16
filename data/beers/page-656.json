@@ -1,95 +1,5 @@
 [
   {
-    "BID": 1667229,
-    "BeerName": "Equinox",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Pigskin Brew Co",
-    "Origin": "Columbus, OH United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1667239,
-    "BeerName": "Hull Melon",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Pigskin Brew Co",
-    "Origin": "Columbus, OH United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1667245,
-    "BeerName": "Nelson Sauvin",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Pigskin Brew Co",
-    "Origin": "Columbus, OH United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1669280,
-    "BeerName": "Northern Style IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Pigskin Brew Co",
-    "Origin": "Columbus, OH United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672429,
-    "BeerName": "Monkey Magic",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Monkey Magic",
-    "Origin": "Sheffield, South Yorkshire England",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339733,
-    "BeerName": "Karkonoskie Pils",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Tyblewski",
-    "Origin": "Karpacz, Dolnośląskie Poland",
-    "BeerAbv": 5.50,
-    "BeerIbu": 500.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672430,
-    "BeerName": "Smiley Face Stout",
-    "BeerStyle": "Homebrew, Stout - American",
-    "BreweryName": "HennyFarm Brewing Co.",
-    "Origin": "United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 50.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339734,
-    "BeerName": "Saison Groseille",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "HuygenMeester",
-    "Origin": "Heerhugowaard, Noord-Holland Netherlands",
-    "BeerAbv": 7.70,
-    "BeerIbu": 29.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672432,
-    "BeerName": "Goiaba Dreams",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "KNTR Brewing",
-    "Origin": "Gothenburg, Västra Götalands län Sweden",
-    "BeerAbv": 5.10,
-    "BeerIbu": 45.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 1672433,
     "BeerName": "Pussy Juice",
     "BeerStyle": "IPA - Other",
@@ -97,7 +7,9 @@
     "Origin": "Gothenburg, Västra Götalands län Sweden",
     "BeerAbv": 6.00,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3339736,
@@ -107,7 +19,9 @@
     "Origin": "Brighton, CO United States",
     "BeerAbv": 7.70,
     "BeerIbu": 76.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3343170,
@@ -117,7 +31,9 @@
     "Origin": "Brighton, CO United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 14333,
@@ -127,17 +43,9 @@
     "Origin": "Philadelphia, PA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 10391,
-    "BeerName": "You Don't Know Jack",
-    "BeerStyle": "Homebrew, Pumpkin / Yam Beer",
-    "BreweryName": "Passion Beer Brewing",
-    "Origin": "Philadelphia, PA United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 8313,
@@ -147,7 +55,21 @@
     "Origin": "Philadelphia, PA United States",
     "BeerAbv": 8.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 10391,
+    "BeerName": "You Don't Know Jack",
+    "BeerStyle": "Homebrew, Pumpkin / Yam Beer",
+    "BreweryName": "Passion Beer Brewing",
+    "Origin": "Philadelphia, PA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672436,
@@ -157,7 +79,9 @@
     "Origin": "Buckingham, PA United States",
     "BeerAbv": 5.10,
     "BeerIbu": 21.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
   },
   {
     "BID": 1672437,
@@ -167,7 +91,9 @@
     "Origin": "Southampton, Southampton Parish Bermuda",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672462,
@@ -177,17 +103,9 @@
     "Origin": "Southampton, Southampton Parish Bermuda",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1672521,
-    "BeerName": "Hammerhead Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Bermuda Triangle Brewing",
-    "Origin": "Southampton, Southampton Parish Bermuda",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1672511,
@@ -197,7 +115,21 @@
     "Origin": "Southampton, Southampton Parish Bermuda",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1672521,
+    "BeerName": "Hammerhead Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Bermuda Triangle Brewing",
+    "Origin": "Southampton, Southampton Parish Bermuda",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3339740,
@@ -207,7 +139,9 @@
     "Origin": "Ashtabula, OH United States",
     "BeerAbv": 5.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
   },
   {
     "BID": 3333872,
@@ -217,7 +151,9 @@
     "Origin": "Alonnah, Tasmania Australia",
     "BeerAbv": 6.90,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3339741,
@@ -227,7 +163,9 @@
     "Origin": "Sylvania, OH United States",
     "BeerAbv": 9.50,
     "BeerIbu": 76.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 1672439,
@@ -237,7 +175,9 @@
     "Origin": "De Meern, Utrecht Netherlands",
     "BeerAbv": 12.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "64"
   },
   {
     "BID": 1672440,
@@ -247,6 +187,116 @@
     "Origin": "Santa Cruz do Sul, Rio Grande do Sul Brazil",
     "BeerAbv": 6.20,
     "BeerIbu": 19.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
+  },
+  {
+    "BID": 3339743,
+    "BeerName": "Short Stack",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Pig Minds Brewing Co.",
+    "Origin": "Machesney Park, IL United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 3339751,
+    "BeerName": "Pua’a Punch",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Pig Minds Brewing Co.",
+    "Origin": "Machesney Park, IL United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 3339744,
+    "BeerName": "Effin Lite",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Effin Beauty",
+    "Origin": "Bellmore, NY United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1672445,
+    "BeerName": "Hop Skip and Jump",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "The Whole Hop Brewery",
+    "Origin": "Hertford, Hertfordshire England",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
+  },
+  {
+    "BID": 14653,
+    "BeerName": "Undertaker",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Wincle Beer Co.",
+    "Origin": "Wincle, Cheshire East England",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "122"
+  },
+  {
+    "BID": 3339748,
+    "BeerName": "Apollo 19",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Wincle Beer Co.",
+    "Origin": "Wincle, Cheshire East England",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 1672446,
+    "BeerName": "Belgian Wit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "The Brew Pub Sarajevo",
+    "Origin": "Sarajevo, Federacija Bosne i Hercegovine Bosnia and Herzegovina",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 1674977,
+    "BeerName": "S-Hefe W",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "The Brew Pub Sarajevo",
+    "Origin": "Sarajevo, Federacija Bosne i Hercegovine Bosnia and Herzegovina",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 3339750,
+    "BeerName": "Shadow Tag",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Street Parking Brewery",
+    "Origin": "Simpsonville, SC United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 70.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

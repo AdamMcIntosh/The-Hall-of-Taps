@@ -1,5 +1,89 @@
 [
   {
+    "BID": 11689,
+    "BeerName": "Uppity Jag-Off IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Rock Bottom Restaurant & Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 60.00,
+    "HallRating": 14.97,
+    "BAR": 8.99,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 10321,
+    "BeerName": "Breakout Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Jailhouse Brewing Company",
+    "Origin": "Hampton, GA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 45.00,
+    "HallRating": 14.97,
+    "BAR": 9.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 12373,
+    "BeerName": "Indian Boundary Ale",
+    "BeerStyle": "IPA - Brown",
+    "BreweryName": "Limestone Brewing Company",
+    "Origin": "Plainfield, IL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 65.00,
+    "HallRating": 14.96,
+    "BAR": 3.40,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 12176,
+    "BeerName": "Golden Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Dave’s BrewFarm",
+    "Origin": "Wilson, WI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.96,
+    "BAR": 3.40,
+    "StylePlus": "98"
+  },
+  {
+    "BID": 12007,
+    "BeerName": "Anvil Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "French Broad River Brewery",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 34.00,
+    "HallRating": 14.95,
+    "BAR": 8.97,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 10293,
+    "BeerName": "Illusion Dweller IPA",
+    "BeerStyle": "IPA - English",
+    "BreweryName": "Mountain Sun Pubs & Breweries",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "HallRating": 14.95,
+    "BAR": 8.96,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 11758,
+    "BeerName": "Infinite Wisdom Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Upland Brewing Company",
+    "Origin": "Bloomington, IN United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 30.00,
+    "HallRating": 14.95,
+    "BAR": 8.97,
+    "StylePlus": "106"
+  },
+  {
     "BID": 10678,
     "BeerName": "Pumpkin Chucker Chocolate Stout",
     "BeerStyle": "Pumpkin / Yam Beer",
@@ -7,7 +91,9 @@
     "Origin": "Middleburg Heights, OH United States",
     "BeerAbv": 8.00,
     "BeerIbu": 52.00,
-    "HallRating": 14.94
+    "HallRating": 14.94,
+    "BAR": 8.95,
+    "StylePlus": "107"
   },
   {
     "BID": 11807,
@@ -17,7 +103,21 @@
     "Origin": "Chico, CA United States",
     "BeerAbv": 9.80,
     "BeerIbu": 0.00,
-    "HallRating": 14.94
+    "HallRating": 14.94,
+    "BAR": 8.94,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 10366,
+    "BeerName": "Bière Ambrée parfumée au Tarry Suchong (BATS)",
+    "BeerStyle": "Smoked Beer",
+    "BreweryName": "Brasserie des Franches-Montagnes (BFM)",
+    "Origin": "Saignelégier, Jura Switzerland",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 14.94,
+    "BAR": 8.95,
+    "StylePlus": "112"
   },
   {
     "BID": 11504,
@@ -27,7 +127,9 @@
     "Origin": "Los Angeles, CA United States",
     "BeerAbv": 3.80,
     "BeerIbu": 16.00,
-    "HallRating": 14.94
+    "HallRating": 14.94,
+    "BAR": 8.95,
+    "StylePlus": "110"
   },
   {
     "BID": 11475,
@@ -37,7 +139,9 @@
     "Origin": "Bellingham, WA United States",
     "BeerAbv": 9.00,
     "BeerIbu": 32.00,
-    "HallRating": 14.94
+    "HallRating": 14.94,
+    "BAR": 8.96,
+    "StylePlus": "114"
   },
   {
     "BID": 10375,
@@ -47,7 +151,9 @@
     "Origin": "Concord, CA United States",
     "BeerAbv": 8.00,
     "BeerIbu": 35.00,
-    "HallRating": 14.93
+    "HallRating": 14.93,
+    "BAR": 8.94,
+    "StylePlus": "101"
   },
   {
     "BID": 1174,
@@ -57,7 +163,9 @@
     "Origin": "Minneapolis, MN United States",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 14.93
+    "HallRating": 14.93,
+    "BAR": 8.93,
+    "StylePlus": "103"
   },
   {
     "BID": 10423,
@@ -67,7 +175,9 @@
     "Origin": "Anchorage, AK United States",
     "BeerAbv": 11.50,
     "BeerIbu": 13.00,
-    "HallRating": 14.92
+    "HallRating": 14.92,
+    "BAR": 8.92,
+    "StylePlus": "104"
   },
   {
     "BID": 1042,
@@ -77,7 +187,9 @@
     "Origin": "Glendale, WI United States",
     "BeerAbv": 7.85,
     "BeerIbu": 31.00,
-    "HallRating": 14.92
+    "HallRating": 14.92,
+    "BAR": 8.92,
+    "StylePlus": "106"
   },
   {
     "BID": 12387,
@@ -87,7 +199,9 @@
     "Origin": "Kifissia, Αττική Greece",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.92
+    "HallRating": 14.92,
+    "BAR": 8.91,
+    "StylePlus": "98"
   },
   {
     "BID": 12101,
@@ -97,7 +211,9 @@
     "Origin": "Morrisville, VT United States",
     "BeerAbv": 8.00,
     "BeerIbu": 80.00,
-    "HallRating": 14.92
+    "HallRating": 14.92,
+    "BAR": 8.92,
+    "StylePlus": "101"
   },
   {
     "BID": 1166,
@@ -107,7 +223,9 @@
     "Origin": "New Brighton, MN United States",
     "BeerAbv": 8.00,
     "BeerIbu": 60.00,
-    "HallRating": 14.91
+    "HallRating": 14.91,
+    "BAR": 8.90,
+    "StylePlus": "105"
   },
   {
     "BID": 10510,
@@ -117,7 +235,9 @@
     "Origin": "Ypsilanti, MI United States",
     "BeerAbv": 8.00,
     "BeerIbu": 50.00,
-    "HallRating": 14.90
+    "HallRating": 14.90,
+    "BAR": 8.88,
+    "StylePlus": "104"
   },
   {
     "BID": 10923,
@@ -127,7 +247,9 @@
     "Origin": "Newport, OR United States",
     "BeerAbv": 6.40,
     "BeerIbu": 0.00,
-    "HallRating": 14.89
+    "HallRating": 14.89,
+    "BAR": 8.86,
+    "StylePlus": "109"
   },
   {
     "BID": 10267,
@@ -137,7 +259,9 @@
     "Origin": "Other",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 14.89
+    "HallRating": 14.89,
+    "BAR": 3.45,
+    "StylePlus": "107"
   },
   {
     "BID": 10227,
@@ -147,7 +271,9 @@
     "Origin": "Chicago, IL United States",
     "BeerAbv": 9.50,
     "BeerIbu": 85.00,
-    "HallRating": 14.89
+    "HallRating": 14.89,
+    "BAR": 8.87,
+    "StylePlus": "101"
   },
   {
     "BID": 12293,
@@ -157,7 +283,9 @@
     "Origin": "Ithaca, MI United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 14.89
+    "HallRating": 14.89,
+    "BAR": 3.45,
+    "StylePlus": "104"
   },
   {
     "BID": 11076,
@@ -167,86 +295,8 @@
     "Origin": "Abovyan, Kotayk Province Armenia",
     "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "HallRating": 14.89
-  },
-  {
-    "BID": 11290,
-    "BeerName": "Alpha Queen Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Boatrocker Brewers & Distillers",
-    "Origin": "Braeside, Victoria Australia",
-    "BeerAbv": 5.00,
-    "BeerIbu": 35.00,
-    "HallRating": 14.89
-  },
-  {
-    "BID": 11411,
-    "BeerName": "Hop Garden Double IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Dock Street Brewing Co.",
-    "Origin": "Philadelphia, PA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.89
-  },
-  {
-    "BID": 11432,
-    "BeerName": "Dunkel Lager",
-    "BeerStyle": "Lager - Munich Dunkel",
-    "BreweryName": "Sly Fox Brewing Company",
-    "Origin": "Pottstown, PA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 21.00,
-    "HallRating": 14.88
-  },
-  {
-    "BID": 1062,
-    "BeerName": "La Moneuse Spéciale Noël",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Brasserie de Blaugies",
-    "Origin": "Dour, Région Wallonne Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "HallRating": 14.88
-  },
-  {
-    "BID": 10224,
-    "BeerName": "Sierra 30 (Our Brewers Reserve)",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Sierra Nevada Brewing Co.",
-    "Origin": "Chico, CA United States",
-    "BeerAbv": 9.20,
-    "BeerIbu": 0.00,
-    "HallRating": 14.88
-  },
-  {
-    "BID": 1148,
-    "BeerName": "Oaked Big Hoppy Monster (2012)",
-    "BeerStyle": "Red Ale - Imperial / Double",
-    "BreweryName": "Terrapin Beer Co.",
-    "Origin": "Athens, GA United States",
-    "BeerAbv": 9.10,
-    "BeerIbu": 75.00,
-    "HallRating": 14.87
-  },
-  {
-    "BID": 10915,
-    "BeerName": "Devil Dog",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Laughing Dog Brewing",
-    "Origin": "Ponderay, ID United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 98.00,
-    "HallRating": 14.87
-  },
-  {
-    "BID": 10786,
-    "BeerName": "Ichor",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Sly Fox Brewing Company",
-    "Origin": "Pottstown, PA United States",
-    "BeerAbv": 10.40,
-    "BeerIbu": 20.00,
-    "HallRating": 14.86
+    "HallRating": 14.89,
+    "BAR": 8.87,
+    "StylePlus": "98"
   }
 ]

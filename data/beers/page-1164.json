@@ -1,115 +1,5 @@
 [
   {
-    "BID": 3342904,
-    "BeerName": "Cherribou",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Friendly Beasts Cider Company",
-    "Origin": "Bloomington, IN United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3890919,
-    "BeerName": "Sommerøl",
-    "BeerStyle": "Homebrew, IPA - American",
-    "BreweryName": "Fribryggeriet",
-    "Origin": "Norway",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338557,
-    "BeerName": "The Blooper",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "The Mitten Brewing Company",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445705,
-    "BeerName": "The Clear",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "The Mitten Brewing Company",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 55.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4941223,
-    "BeerName": "Miles of Smiles",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "The Mitten Brewing Company",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 7.40,
-    "BeerIbu": 29.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4961940,
-    "BeerName": "Roberto Clementines",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "The Mitten Brewing Company",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 8.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980335,
-    "BeerName": "Isaria",
-    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
-    "BreweryName": "The Mitten Brewing Company",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 27.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336183,
-    "BeerName": "Apollo 11",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Other Side Of The Moon Brewery",
-    "Origin": "Clemmons, NC United States",
-    "BeerAbv": 5.24,
-    "BeerIbu": 41.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336184,
-    "BeerName": "Apollo 11",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Other Side Of The Moon Brewery",
-    "Origin": "Clemmons, NC United States",
-    "BeerAbv": 5.24,
-    "BeerIbu": 41.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3336185,
-    "BeerName": "Apollo 11",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Other Side Of The Moon Brewery",
-    "Origin": "Clemmons, NC United States",
-    "BeerAbv": 5.24,
-    "BeerIbu": 41.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3890920,
-    "BeerName": "Teutonic",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Consortium Brewing Co",
-    "Origin": "Louth, Lincolnshire England",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 1666677,
     "BeerName": "Gravity Adjustment Aka \"El Whoppo\" - Lord of the Pool People",
     "BeerStyle": "Homebrew, IPA - American",
@@ -117,7 +7,9 @@
     "Origin": "United States",
     "BeerAbv": 6.90,
     "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3890922,
@@ -127,27 +19,9 @@
     "Origin": "Netherlands",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338487,
-    "BeerName": "Crazy Dave's Blueberry Sour (2019)",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Moo-Duck Brewery",
-    "Origin": "Elizabethtown, PA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 10.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341238,
-    "BeerName": "Hop Twins #6",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Moo-Duck Brewery",
-    "Origin": "Elizabethtown, PA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445708,
@@ -157,7 +31,9 @@
     "Origin": "Elizabethtown, PA United States",
     "BeerAbv": 6.00,
     "BeerIbu": 70.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445715,
@@ -167,7 +43,21 @@
     "Origin": "Elizabethtown, PA United States",
     "BeerAbv": 6.00,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 3341238,
+    "BeerName": "Hop Twins #6",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Moo-Duck Brewery",
+    "Origin": "Elizabethtown, PA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4631618,
@@ -177,7 +67,21 @@
     "Origin": "Elizabethtown, PA United States",
     "BeerAbv": 9.50,
     "BeerIbu": 20.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 3338487,
+    "BeerName": "Crazy Dave's Blueberry Sour (2019)",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Moo-Duck Brewery",
+    "Origin": "Elizabethtown, PA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1674567,
@@ -187,7 +91,9 @@
     "Origin": "Elizabethtown, PA United States",
     "BeerAbv": 3.50,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   },
   {
     "BID": 1674562,
@@ -197,7 +103,9 @@
     "Origin": "Elizabethtown, PA United States",
     "BeerAbv": 5.80,
     "BeerIbu": 65.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 1674560,
@@ -207,7 +115,9 @@
     "Origin": "Elizabethtown, PA United States",
     "BeerAbv": 6.50,
     "BeerIbu": 60.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4960599,
@@ -217,7 +127,9 @@
     "Origin": "Elizabethtown, PA United States",
     "BeerAbv": 10.50,
     "BeerIbu": 100.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4960602,
@@ -227,7 +139,9 @@
     "Origin": "Elizabethtown, PA United States",
     "BeerAbv": 4.00,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   },
   {
     "BID": 4960604,
@@ -237,7 +151,9 @@
     "Origin": "Elizabethtown, PA United States",
     "BeerAbv": 6.00,
     "BeerIbu": 50.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4960953,
@@ -247,6 +163,140 @@
     "Origin": "Elizabethtown, PA United States",
     "BeerAbv": 5.50,
     "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 3336186,
+    "BeerName": "Chocolate Covered Raspberry",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Glover Park Brewery",
+    "Origin": "Marietta, GA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 4445903,
+    "BeerName": "GPB Mexican Lager",
+    "BeerStyle": "Lager - Mexican",
+    "BreweryName": "Glover Park Brewery",
+    "Origin": "Marietta, GA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 3890923,
+    "BeerName": "Pi-je-ma",
+    "BeerStyle": "Lager - Amber",
+    "BreweryName": "Smisken Brewery",
+    "Origin": "Hökarängen, Stockholms län Sweden",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3336188,
+    "BeerName": "Sangria Rosa",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Loon Juice",
+    "Origin": "Spring Valley, MN United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 3890924,
+    "BeerName": "Малиновый Sour Ale",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Tri Olenya (Три Оленя)",
+    "Origin": "Samara, Самарская область Russia",
+    "BeerAbv": 5.40,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "77"
+  },
+  {
+    "BID": 4445712,
+    "BeerName": "Newfie Long Jump",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Chestnut Hill Brewing Company",
+    "Origin": "Philadelphia, PA United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 4446207,
+    "BeerName": "Imperial Galaxy Ipa",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Psicotella",
+    "Origin": "Avellaneda, Santa Fe Argentina",
+    "BeerAbv": 7.50,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3336189,
+    "BeerName": "Blonde Ice",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Psicotella",
+    "Origin": "Avellaneda, Santa Fe Argentina",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4445811,
+    "BeerName": "ROUGE SOUR",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Birrificio Italiano",
+    "Origin": "Limido Comasco, Lombardia Italy",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3890925,
+    "BeerName": "IMPATTO ZERO",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Birrificio Italiano",
+    "Origin": "Limido Comasco, Lombardia Italy",
+    "BeerAbv": 3.90,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 14650,
+    "BeerName": "Amber Shock",
+    "BeerStyle": "Bock - Doppelbock",
+    "BreweryName": "Birrificio Italiano",
+    "Origin": "Limido Comasco, Lombardia Italy",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
   }
 ]

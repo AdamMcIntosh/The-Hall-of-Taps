@@ -1,175 +1,5 @@
 [
   {
-    "BID": 4445765,
-    "BeerName": "Rosecco Barista",
-    "BeerStyle": "Cider - Dry",
-    "BreweryName": "Rosecker",
-    "Origin": "Germany",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630520,
-    "BeerName": "Black Forest Cherry",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Pigeon River Brewing Company",
-    "Origin": "Marion, WI United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1675881,
-    "BeerName": "Wet Willy",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Pigeon River Brewing Company",
-    "Origin": "Marion, WI United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815273,
-    "BeerName": "Lions Wit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Shovel Town Brewery",
-    "Origin": "North Easton, MA United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 19.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939636,
-    "BeerName": "Twine Ninja",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Shovel Town Brewery",
-    "Origin": "North Easton, MA United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 90.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339022,
-    "BeerName": "The Scoop - Christmas In July",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Shovel Town Brewery",
-    "Origin": "North Easton, MA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 32.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815274,
-    "BeerName": "Pat's Mead Blackberry",
-    "BeerStyle": "Homebrew, Mead - Other",
-    "BreweryName": "Feline Bracitorium",
-    "Origin": "Netherlands",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445767,
-    "BeerName": "Katrina",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Road Brew Co.",
-    "Origin": "Quito, Pichincha Ecuador",
-    "BeerAbv": 7.50,
-    "BeerIbu": 37.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445866,
-    "BeerName": "Candy Pop Ale",
-    "BeerStyle": "Red Ale - Irish",
-    "BreweryName": "Road Brew Co.",
-    "Origin": "Quito, Pichincha Ecuador",
-    "BeerAbv": 7.80,
-    "BeerIbu": 34.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445805,
-    "BeerName": "Orange Summer Ale",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Road Brew Co.",
-    "Origin": "Quito, Pichincha Ecuador",
-    "BeerAbv": 6.80,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630522,
-    "BeerName": "NEIPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Bohemik",
-    "Origin": "Czech Republic",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815275,
-    "BeerName": "Schutters Premium Pilsner (2022)",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Brouwerij Martens",
-    "Origin": "Bocholt, Vlaams Gewest Belgium",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341136,
-    "BeerName": "Mexicanos",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Brouwerij Martens",
-    "Origin": "Bocholt, Vlaams Gewest Belgium",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980273,
-    "BeerName": "Mexicanos (2022)",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Brouwerij Martens",
-    "Origin": "Bocholt, Vlaams Gewest Belgium",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4961675,
-    "BeerName": "Prior Restraint",
-    "BeerStyle": "IPA - Triple",
-    "BreweryName": "Odd Side Ales",
-    "Origin": "Grand Haven, MI United States",
-    "BeerAbv": 12.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3341691,
-    "BeerName": "Fat Bottom IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Odd Side Ales",
-    "Origin": "Grand Haven, MI United States",
-    "BeerAbv": 7.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342873,
-    "BeerName": "Lemongrass Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Odd Side Ales",
-    "Origin": "Grand Haven, MI United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 4445768,
     "BeerName": "Oatmeal B.A. Brown",
     "BeerStyle": "Brown Ale - Other",
@@ -177,17 +7,9 @@
     "Origin": "Grand Haven, MI United States",
     "BeerAbv": 11.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4939702,
-    "BeerName": "Cherry Limeade Hard Seltzer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Odd Side Ales",
-    "Origin": "Grand Haven, MI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
     "BID": 1674817,
@@ -197,7 +19,9 @@
     "Origin": "Grand Haven, MI United States",
     "BeerAbv": 10.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 1674934,
@@ -207,7 +31,9 @@
     "Origin": "Grand Haven, MI United States",
     "BeerAbv": 10.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4630523,
@@ -217,7 +43,9 @@
     "Origin": "Bradenton, FL United States",
     "BeerAbv": 5.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4630531,
@@ -227,7 +55,9 @@
     "Origin": "Bradenton, FL United States",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4815276,
@@ -237,7 +67,9 @@
     "Origin": "Birmingham, West Midlands England",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
   },
   {
     "BID": 4940943,
@@ -247,6 +79,224 @@
     "Origin": "Birmingham, West Midlands England",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4940078,
+    "BeerName": "Braxton Barrel House Fort Mitchell Imperial Stout 2.0",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Braxton Brewing Company",
+    "Origin": "Covington, KY United States",
+    "BeerAbv": 14.30,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4961639,
+    "BeerName": "Bourbon Barrel Aged Blown Gasket Robust Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Braxton Brewing Company",
+    "Origin": "Covington, KY United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4981693,
+    "BeerName": "Hurricane Brandy",
+    "BeerStyle": "Cream Ale - Imperial / Double",
+    "BreweryName": "Braxton Brewing Company",
+    "Origin": "Covington, KY United States",
+    "BeerAbv": 11.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3890520,
+    "BeerName": "Extra Strawberry Shortcake",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Braxton Brewing Company",
+    "Origin": "Covington, KY United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 3342932,
+    "BeerName": "2019 Blown Gasket Barrel-aged",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Braxton Brewing Company",
+    "Origin": "Covington, KY United States",
+    "BeerAbv": 11.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3341738,
+    "BeerName": "Yesterday's Headlines Vol. 4",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Braxton Brewing Company",
+    "Origin": "Covington, KY United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 3341598,
+    "BeerName": "2019 Dark Charge Bourbon Barrel Aged Base",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Braxton Brewing Company",
+    "Origin": "Covington, KY United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 1677097,
+    "BeerName": "Oktober Fuel",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Braxton Brewing Company",
+    "Origin": "Covington, KY United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 1666681,
+    "BeerName": "Trophy: Dr. Rudi Dry Hopped With Citra And Mosaic",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Braxton Brewing Company",
+    "Origin": "Covington, KY United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 4445769,
+    "BeerName": "Svetle Pivo",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Backroads Brewing Co.",
+    "Origin": "Nelson, BC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "130"
+  },
+  {
+    "BID": 4630524,
+    "BeerName": "Vitriolic Bar'Stard",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Horncastle Ales",
+    "Origin": "Horncastle, Lincolnshire England",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 3338358,
+    "BeerName": "Damnation",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Horncastle Ales",
+    "Origin": "Horncastle, Lincolnshire England",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4815277,
+    "BeerName": "Singabeera Officinale",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Khoffner Brewery",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 6.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4960652,
+    "BeerName": "Easy Radler",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Khoffner Brewery",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 2.50,
+    "BeerIbu": 5.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4445771,
+    "BeerName": "Southside",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Twisted Knot Brewing Co.",
+    "Origin": "Newport News, VA United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3339391,
+    "BeerName": "Wheatie Pops (Dark)",
+    "BeerStyle": "Wheat Beer - Other",
+    "BreweryName": "Twisted Knot Brewing Co.",
+    "Origin": "Newport News, VA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "110"
+  },
+  {
+    "BID": 4630526,
+    "BeerName": "Heidehoning Bier",
+    "BeerStyle": "Homebrew, Altbier - Traditional",
+    "BreweryName": "Kommer Bieren Garderen",
+    "Origin": "Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4815278,
+    "BeerName": "Pour Behaviour",
+    "BeerStyle": "Homebrew, Pilsner - German",
+    "BreweryName": "Pour Souls Craft Brewery Ltd.",
+    "Origin": "England",
+    "BeerAbv": 4.90,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

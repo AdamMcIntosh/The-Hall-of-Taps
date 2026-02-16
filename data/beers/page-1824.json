@@ -1,5 +1,113 @@
 [
   {
+    "BID": 4960304,
+    "BeerName": "Mango Tango",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Sundog Ciderhouse & Winery",
+    "Origin": "Columbiana, OH United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4960305,
+    "BeerName": "Mango Tango",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Sundog Ciderhouse & Winery",
+    "Origin": "Columbiana, OH United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 4939958,
+    "BeerName": "Bulldog Ale House City Juice",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Bulldog Ale House",
+    "Origin": "Bolingbrook, IL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4939960,
+    "BeerName": "What is Hop #1",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "Jivay Brewing Co",
+    "Origin": "Montpellier, Occitanie France",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 4980628,
+    "BeerName": "Principia",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Principia",
+    "Origin": "Monterrey, Nuevo León Mexico",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4980631,
+    "BeerName": "German Pale Ale",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "Principia",
+    "Origin": "Monterrey, Nuevo León Mexico",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "113"
+  },
+  {
+    "BID": 4980632,
+    "BeerName": "Export Helles Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Principia",
+    "Origin": "Monterrey, Nuevo León Mexico",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "119"
+  },
+  {
+    "BID": 4980635,
+    "BeerName": "Minims - Doppelbock",
+    "BeerStyle": "Bock - Doppelbock",
+    "BreweryName": "Principia",
+    "Origin": "Monterrey, Nuevo León Mexico",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 4939961,
+    "BeerName": "Hopusy",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Brasserie Artisanale De Giez",
+    "Origin": "Giez, Vaud Switzerland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 34.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
     "BID": 4939964,
     "BeerName": "Bohemienne",
     "BeerStyle": "Pilsner - German",
@@ -7,7 +115,9 @@
     "Origin": "Capolona, Toscana Italy",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4960311,
@@ -17,67 +127,9 @@
     "Origin": "United States",
     "BeerAbv": 5.60,
     "BeerIbu": 36.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980725,
-    "BeerName": "Central Scrutinizer",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Bootlegger’s Brewery",
-    "Origin": "Fullerton, CA United States",
-    "BeerAbv": 7.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8058,
-    "BeerName": "Knuckle Sandwich",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Bootlegger’s Brewery",
-    "Origin": "Fullerton, CA United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 88.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8517,
-    "BeerName": "Blackstrap Porter",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Bootlegger’s Brewery",
-    "Origin": "Fullerton, CA United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8595,
-    "BeerName": "Rustic Rye IPA",
-    "BeerStyle": "IPA - Rye",
-    "BreweryName": "Bootlegger’s Brewery",
-    "Origin": "Fullerton, CA United States",
-    "BeerAbv": 6.10,
-    "BeerIbu": 91.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 8538,
-    "BeerName": "Black Phoenix",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Bootlegger’s Brewery",
-    "Origin": "Fullerton, CA United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 37.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 9814,
-    "BeerName": "Silence of the Yams",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Bootlegger’s Brewery",
-    "Origin": "Fullerton, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4959865,
@@ -87,47 +139,33 @@
     "Origin": "Fullerton, CA United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 3341986,
-    "BeerName": "Peach Better Have My Money",
+    "BID": 4980725,
+    "BeerName": "Central Scrutinizer",
     "BeerStyle": "IPA - New England / Hazy",
     "BreweryName": "Bootlegger’s Brewery",
     "Origin": "Fullerton, CA United States",
-    "BeerAbv": 0.00,
+    "BeerAbv": 7.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
-    "BID": 3342160,
-    "BeerName": "Picaroon Brut IPA",
-    "BeerStyle": "IPA - Brut",
+    "BID": 1673238,
+    "BeerName": "Costa Mesa Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
     "BreweryName": "Bootlegger’s Brewery",
     "Origin": "Fullerton, CA United States",
-    "BeerAbv": 6.40,
+    "BeerAbv": 7.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339388,
-    "BeerName": "Grapefruit Sour",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Bootlegger’s Brewery",
-    "Origin": "Fullerton, CA United States",
-    "BeerAbv": 3.70,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3337069,
-    "BeerName": "German Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Bootlegger’s Brewery",
-    "Origin": "Fullerton, CA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 20.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 14211,
@@ -137,17 +175,9 @@
     "Origin": "Fullerton, CA United States",
     "BeerAbv": 7.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 13720,
-    "BeerName": "Lambic #5",
-    "BeerStyle": "Lambic - Traditional",
-    "BreweryName": "Bootlegger’s Brewery",
-    "Origin": "Fullerton, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "114"
   },
   {
     "BID": 13929,
@@ -157,7 +187,9 @@
     "Origin": "Fullerton, CA United States",
     "BeerAbv": 7.00,
     "BeerIbu": 90.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 13918,
@@ -167,7 +199,21 @@
     "Origin": "Fullerton, CA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 13720,
+    "BeerName": "Lambic #5",
+    "BeerStyle": "Lambic - Traditional",
+    "BreweryName": "Bootlegger’s Brewery",
+    "Origin": "Fullerton, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1666899,
@@ -177,7 +223,9 @@
     "Origin": "Fullerton, CA United States",
     "BeerAbv": 7.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 14482,
@@ -187,7 +235,9 @@
     "Origin": "Fullerton, CA United States",
     "BeerAbv": 5.00,
     "BeerIbu": 10.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
   },
   {
     "BID": 14396,
@@ -197,56 +247,56 @@
     "Origin": "Fullerton, CA United States",
     "BeerAbv": 8.50,
     "BeerIbu": 28.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
-    "BID": 4980576,
-    "BeerName": "Doc’s Draft Original Cider",
-    "BeerStyle": "Cider - Dry",
-    "BreweryName": "Warwick Valley Winery & Distillery",
-    "Origin": "Warwick, NY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 5.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 7508,
-    "BeerName": "Doc's Draft Hard Apple Cider",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Warwick Valley Winery & Distillery",
-    "Origin": "Warwick, NY United States",
-    "BeerAbv": 5.00,
+    "BID": 1669303,
+    "BeerName": "Psycho Kiwi Girlfriend",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Bootlegger’s Brewery",
+    "Origin": "Fullerton, CA United States",
+    "BeerAbv": 8.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
-    "BID": 1671411,
-    "BeerName": "Podium",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Long Man Brewery",
-    "Origin": "Litlington, East Sussex England",
-    "BeerAbv": 4.40,
+    "BID": 12545,
+    "BeerName": "Whistler Imperial Pils",
+    "BeerStyle": "Pilsner - Imperial / Double",
+    "BreweryName": "Karl Strauss Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "87"
   },
   {
-    "BID": 4939917,
-    "BeerName": "TWENTY12",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Long Man Brewery",
-    "Origin": "Litlington, East Sussex England",
-    "BeerAbv": 4.60,
+    "BID": 1287,
+    "BeerName": "Abbey Red Ale",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Karl Strauss Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 7.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
   },
   {
-    "BID": 4940310,
-    "BeerName": "NINE80",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Long Man Brewery",
-    "Origin": "Litlington, East Sussex England",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "BID": 1288,
+    "BeerName": "Padre Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Karl Strauss Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   }
 ]

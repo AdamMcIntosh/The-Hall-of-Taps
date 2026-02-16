@@ -1,5 +1,65 @@
 [
   {
+    "BID": 10382,
+    "BeerName": "Finesse",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij De Dochter van de Korenaar",
+    "Origin": "Baarle-Hertog, Vlaams Gewest Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 38.00,
+    "HallRating": 16.21,
+    "BAR": 10.83,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 10164,
+    "BeerName": "Mélange No. 3",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "The Bruery",
+    "Origin": "Placentia, CA United States",
+    "BeerAbv": 16.30,
+    "BeerIbu": 0.00,
+    "HallRating": 16.20,
+    "BAR": 10.81,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 1197,
+    "BeerName": "Benchmark Old Ale",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Portland U-Brew & Pub",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 9.90,
+    "BeerIbu": 0.00,
+    "HallRating": 16.19,
+    "BAR": 2.78,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11701,
+    "BeerName": "Nut Brown",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Two Beers Brewing Co.",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 16.19,
+    "BAR": 2.78,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 11224,
+    "BeerName": "Echt Kriekenbier",
+    "BeerStyle": "Sour - Flanders Red Ale",
+    "BreweryName": "Brouwerij Verhaeghe",
+    "Origin": "Anzegem, Vlaams Gewest Belgium",
+    "BeerAbv": 6.80,
+    "BeerIbu": 17.00,
+    "HallRating": 16.19,
+    "BAR": 10.80,
+    "StylePlus": "103"
+  },
+  {
     "BID": 12233,
     "BeerName": "Busted Knuckle",
     "BeerStyle": "Porter - American",
@@ -7,7 +67,9 @@
     "Origin": "Nashville, IN United States",
     "BeerAbv": 7.30,
     "BeerIbu": 27.00,
-    "HallRating": 16.19
+    "HallRating": 16.19,
+    "BAR": 10.80,
+    "StylePlus": "104"
   },
   {
     "BID": 10723,
@@ -17,7 +79,9 @@
     "Origin": "Half Moon Bay, CA United States",
     "BeerAbv": 6.10,
     "BeerIbu": 0.00,
-    "HallRating": 16.19
+    "HallRating": 16.19,
+    "BAR": 2.78,
+    "StylePlus": "115"
   },
   {
     "BID": 10084,
@@ -27,7 +91,9 @@
     "Origin": "Ewing Township, NJ United States",
     "BeerAbv": 8.30,
     "BeerIbu": 80.00,
-    "HallRating": 16.19
+    "HallRating": 16.19,
+    "BAR": 10.80,
+    "StylePlus": "101"
   },
   {
     "BID": 11931,
@@ -37,7 +103,9 @@
     "Origin": "Hartford, CT United States",
     "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "HallRating": 16.18
+    "HallRating": 16.18,
+    "BAR": 10.78,
+    "StylePlus": "115"
   },
   {
     "BID": 10653,
@@ -47,7 +115,9 @@
     "Origin": "Bremerton, WA United States",
     "BeerAbv": 6.00,
     "BeerIbu": 15.00,
-    "HallRating": 16.18
+    "HallRating": 16.18,
+    "BAR": 10.78,
+    "StylePlus": "113"
   },
   {
     "BID": 11731,
@@ -57,7 +127,9 @@
     "Origin": "Goes, Zeeland Netherlands",
     "BeerAbv": 11.00,
     "BeerIbu": 24.00,
-    "HallRating": 16.17
+    "HallRating": 16.17,
+    "BAR": 10.77,
+    "StylePlus": "100"
   },
   {
     "BID": 10948,
@@ -67,17 +139,9 @@
     "Origin": "Salt Lake City, UT United States",
     "BeerAbv": 12.00,
     "BeerIbu": 56.00,
-    "HallRating": 16.16
-  },
-  {
-    "BID": 10032,
-    "BeerName": "Hr. Frederiksen",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Amager Bryghus",
-    "Origin": "Denmark",
-    "BeerAbv": 10.50,
-    "BeerIbu": 85.00,
-    "HallRating": 16.15
+    "HallRating": 16.16,
+    "BAR": 10.75,
+    "StylePlus": "101"
   },
   {
     "BID": 12553,
@@ -87,7 +151,21 @@
     "Origin": "Austin, TX United States",
     "BeerAbv": 8.00,
     "BeerIbu": 25.00,
-    "HallRating": 16.15
+    "HallRating": 16.15,
+    "BAR": 10.73,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 10032,
+    "BeerName": "Hr. Frederiksen",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Amager Bryghus",
+    "Origin": "Denmark",
+    "BeerAbv": 10.50,
+    "BeerIbu": 85.00,
+    "HallRating": 16.15,
+    "BAR": 10.74,
+    "StylePlus": "100"
   },
   {
     "BID": 10783,
@@ -97,7 +175,9 @@
     "Origin": "Huntington Beach, CA United States",
     "BeerAbv": 3.50,
     "BeerIbu": 16.00,
-    "HallRating": 16.15
+    "HallRating": 16.15,
+    "BAR": 10.74,
+    "StylePlus": "96"
   },
   {
     "BID": 11587,
@@ -107,7 +187,9 @@
     "Origin": "Guelph, ON Canada",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 16.14
+    "HallRating": 16.14,
+    "BAR": 10.73,
+    "StylePlus": "98"
   },
   {
     "BID": 11917,
@@ -117,7 +199,9 @@
     "Origin": "Charleston, SC United States",
     "BeerAbv": 6.00,
     "BeerIbu": 25.00,
-    "HallRating": 16.14
+    "HallRating": 16.14,
+    "BAR": 10.73,
+    "StylePlus": "102"
   },
   {
     "BID": 11722,
@@ -127,7 +211,9 @@
     "Origin": "Goes, Zeeland Netherlands",
     "BeerAbv": 10.00,
     "BeerIbu": 116.00,
-    "HallRating": 16.14
+    "HallRating": 16.14,
+    "BAR": 10.73,
+    "StylePlus": "100"
   },
   {
     "BID": 10868,
@@ -137,7 +223,9 @@
     "Origin": "Turlock, CA United States",
     "BeerAbv": 6.60,
     "BeerIbu": 50.00,
-    "HallRating": 16.12
+    "HallRating": 16.12,
+    "BAR": 10.70,
+    "StylePlus": "104"
   },
   {
     "BID": 10030,
@@ -147,7 +235,21 @@
     "Origin": "Lancaster, PA United States",
     "BeerAbv": 8.50,
     "BeerIbu": 0.00,
-    "HallRating": 16.12
+    "HallRating": 16.12,
+    "BAR": 10.70,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 12684,
+    "BeerName": "Birra Dreher",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Dreher",
+    "Origin": "Milan, Lombardia Italy",
+    "BeerAbv": 4.70,
+    "BeerIbu": 25.00,
+    "HallRating": 16.11,
+    "BAR": 10.69,
+    "StylePlus": "98"
   },
   {
     "BID": 11821,
@@ -157,7 +259,9 @@
     "Origin": "Chambly, QC Canada",
     "BeerAbv": 10.00,
     "BeerIbu": 35.00,
-    "HallRating": 16.09
+    "HallRating": 16.09,
+    "BAR": 10.66,
+    "StylePlus": "104"
   },
   {
     "BID": 10283,
@@ -167,7 +271,9 @@
     "Origin": "Munster, IN United States",
     "BeerAbv": 8.50,
     "BeerIbu": 78.00,
-    "HallRating": 16.08
+    "HallRating": 16.08,
+    "BAR": 10.65,
+    "StylePlus": "115"
   },
   {
     "BID": 10358,
@@ -177,7 +283,9 @@
     "Origin": "Holland, MI United States",
     "BeerAbv": 10.00,
     "BeerIbu": 80.00,
-    "HallRating": 16.08
+    "HallRating": 16.08,
+    "BAR": 10.64,
+    "StylePlus": "101"
   },
   {
     "BID": 12169,
@@ -187,66 +295,8 @@
     "Origin": "Asheville, NC United States",
     "BeerAbv": 5.60,
     "BeerIbu": 26.00,
-    "HallRating": 16.07
-  },
-  {
-    "BID": 10570,
-    "BeerName": "Sapporo Reserve Beer",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Sapporo Breweries",
-    "Origin": "Shibuya-ku, Tokyo Japan",
-    "BeerAbv": 5.00,
-    "BeerIbu": 18.00,
-    "HallRating": 16.07
-  },
-  {
-    "BID": 10769,
-    "BeerName": "Perdition",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Russian River Brewing Company",
-    "Origin": "Windsor, CA United States",
-    "BeerAbv": 6.10,
-    "BeerIbu": 3.00,
-    "HallRating": 16.06
-  },
-  {
-    "BID": 11706,
-    "BeerName": "Siren",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "North Peak Brewing Company",
-    "Origin": "Traverse City, MI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 26.00,
-    "HallRating": 16.06
-  },
-  {
-    "BID": 10602,
-    "BeerName": "The DogFather",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Laughing Dog Brewing",
-    "Origin": "Ponderay, ID United States",
-    "BeerAbv": 9.30,
-    "BeerIbu": 57.00,
-    "HallRating": 16.06
-  },
-  {
-    "BID": 11697,
-    "BeerName": "Pick Axe Blonde Ale",
-    "BeerStyle": "Blonde / Golden Ale - American",
-    "BreweryName": "Keweenaw Brewing Company",
-    "Origin": "Houghton, MI United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 21.00,
-    "HallRating": 16.05
-  },
-  {
-    "BID": 11094,
-    "BeerName": "Stump Knocker Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Swamp Head Brewery",
-    "Origin": "Gainesville, FL United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 42.00,
-    "HallRating": 16.05
+    "HallRating": 16.07,
+    "BAR": 10.63,
+    "StylePlus": "104"
   }
 ]

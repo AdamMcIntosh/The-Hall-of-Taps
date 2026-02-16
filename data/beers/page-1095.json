@@ -1,115 +1,5 @@
 [
   {
-    "BID": 4960390,
-    "BeerName": "Juice Box (Salted Lime)",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Adelbert's Brewery",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3334944,
-    "BeerName": "Travelin' Man Batch 26",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Adelbert's Brewery",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1669871,
-    "BeerName": "Travelin' Man - Bombers (OLD Recipe)",
-    "BeerStyle": "IPA - Belgian",
-    "BreweryName": "Adelbert's Brewery",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 55.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3334945,
-    "BeerName": "Don't Be A Richard",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Dempsey's Brewery, Pub & Restaurant",
-    "Origin": "Watertown, SD United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 58.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4980256,
-    "BeerName": "Dip Dock",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Dempsey's Brewery, Pub & Restaurant",
-    "Origin": "Watertown, SD United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4982065,
-    "BeerName": "Landshark Hard Seltzer Soursop",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Belize Brewing Company",
-    "Origin": "Belize City, Belize District Belize",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 7084,
-    "BeerName": "Belikin Premium",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Belize Brewing Company",
-    "Origin": "Belize City, Belize District Belize",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2357,
-    "BeerName": "Belikin Stout",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Belize Brewing Company",
-    "Origin": "Belize City, Belize District Belize",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2358,
-    "BeerName": "DAB Traditional",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "Dortmunder Actien-Brauerei",
-    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4654,
-    "BeerName": "Hansa Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Dortmunder Actien-Brauerei",
-    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3342309,
-    "BeerName": "DAB Nostalgic 1959",
-    "BeerStyle": "Lager - Dortmunder / Export",
-    "BreweryName": "Dortmunder Actien-Brauerei",
-    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 23.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 3341271,
     "BeerName": "Brinkhoff's No. 1",
     "BeerStyle": "Pilsner - German",
@@ -117,47 +7,9 @@
     "Origin": "Dortmund, Nordrhein-Westfalen Germany",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 7292,
-    "BeerName": "Dortmunder Union Dark Beer",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "Dortmunder Actien-Brauerei",
-    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 5563,
-    "BeerName": "Hansa Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Dortmunder Actien-Brauerei",
-    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981220,
-    "BeerName": "Wild Basin Hard Seltzer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Wild Basin Hard Seltzer",
-    "Origin": "Longmont, CO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4981192,
-    "BeerName": "Various",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Wild Basin Hard Seltzer",
-    "Origin": "Longmont, CO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
   },
   {
     "BID": 3334947,
@@ -167,7 +19,45 @@
     "Origin": "Longmont, CO United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 4981220,
+    "BeerName": "Wild Basin Hard Seltzer",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Wild Basin Hard Seltzer",
+    "Origin": "Longmont, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4981192,
+    "BeerName": "Various",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Wild Basin Hard Seltzer",
+    "Origin": "Longmont, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4960239,
+    "BeerName": "Colossal Claude",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 3334893,
@@ -177,7 +67,9 @@
     "Origin": "Newport, OR United States",
     "BeerAbv": 7.50,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
   },
   {
     "BID": 3334794,
@@ -187,7 +79,9 @@
     "Origin": "Newport, OR United States",
     "BeerAbv": 7.50,
     "BeerIbu": 25.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
   },
   {
     "BID": 3336112,
@@ -197,17 +91,9 @@
     "Origin": "Newport, OR United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 2219,
-    "BeerName": "Old Crustacean (1993)",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Rogue Ales",
-    "Origin": "Newport, OR United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1677085,
@@ -217,27 +103,9 @@
     "Origin": "Newport, OR United States",
     "BeerAbv": 12.50,
     "BeerIbu": 68.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 332,
-    "BeerName": "Old Crustacean (2006)",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Rogue Ales",
-    "Origin": "Newport, OR United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3333460,
-    "BeerName": "Saison D'ete",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Rogue Ales",
-    "Origin": "Newport, OR United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 3333395,
@@ -247,6 +115,188 @@
     "Origin": "Newport, OR United States",
     "BeerAbv": 5.15,
     "BeerIbu": 21.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "114"
+  },
+  {
+    "BID": 3333460,
+    "BeerName": "Saison D'ete",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3340048,
+    "BeerName": "Wombatsquatch IPA",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 41.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3337509,
+    "BeerName": "El Dorado Pale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4993,
+    "BeerName": "Yellow Snow IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 82.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 4994,
+    "BeerName": "Double Dead Guy Ale",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 78.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4171,
+    "BeerName": "Dry Hopped St. Rogue Red Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 44.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 4172,
+    "BeerName": "Dead Guy Ale",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 4173,
+    "BeerName": "American Amber Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 53.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 4174,
+    "BeerName": "Artisan Lager",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 23.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "116"
+  },
+  {
+    "BID": 4176,
+    "BeerName": "Charlie 1981 (2013 Release)",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 9.10,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4177,
+    "BeerName": "Chipotle Ale",
+    "BeerStyle": "Chilli / Chile Beer",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "80"
+  },
+  {
+    "BID": 4178,
+    "BeerName": "Chocolate Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 69.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
+  },
+  {
+    "BID": 4179,
+    "BeerName": "Hazelnut Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 33.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
+  },
+  {
+    "BID": 4180,
+    "BeerName": "Honey Cream Ale",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 29.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
+  },
+  {
+    "BID": 4181,
+    "BeerName": "XS Imperial India Pale Ale (I²PA)",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 75.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   }
 ]

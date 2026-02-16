@@ -1,165 +1,5 @@
 [
   {
-    "BID": 3084,
-    "BeerName": "Calumet Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Rowland's Calumet Brewery",
-    "Origin": "Chilton, WI United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3085,
-    "BeerName": "Calumet Kölsch",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Rowland's Calumet Brewery",
-    "Origin": "Chilton, WI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3086,
-    "BeerName": "Calumet Wheat",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Rowland's Calumet Brewery",
-    "Origin": "Chilton, WI United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335473,
-    "BeerName": "L'Aurelia",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "La Turbulente",
-    "Origin": "La Turballe, Pays de la Loire France",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4961920,
-    "BeerName": "Cashmere",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "La Turbulente",
-    "Origin": "La Turballe, Pays de la Loire France",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4961371,
-    "BeerName": "Fruit Medley Slushie",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Baere Brewing Co",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 3.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668832,
-    "BeerName": "Willie Maze Haze",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Baere Brewing Co",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1670582,
-    "BeerName": "Hippo Treasure #4",
-    "BeerStyle": "Brown Ale - Other",
-    "BreweryName": "Baere Brewing Co",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3338049,
-    "BeerName": "Hop About Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Baere Brewing Co",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4632206,
-    "BeerName": "Lager of the Plains",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Baere Brewing Co",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4632023,
-    "BeerName": "Marvoloso 2021: V9",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Commonwealth Brewing Company",
-    "Origin": "Virginia Beach, VA United States",
-    "BeerAbv": 14.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4632088,
-    "BeerName": "Marvoloso 2021: V10",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Commonwealth Brewing Company",
-    "Origin": "Virginia Beach, VA United States",
-    "BeerAbv": 14.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4632099,
-    "BeerName": "2XDrip",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Commonwealth Brewing Company",
-    "Origin": "Virginia Beach, VA United States",
-    "BeerAbv": 8.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4631916,
-    "BeerName": "Marvoloso 2021: V9",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Commonwealth Brewing Company",
-    "Origin": "Virginia Beach, VA United States",
-    "BeerAbv": 14.60,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960075,
-    "BeerName": "Retrogames",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Commonwealth Brewing Company",
-    "Origin": "Virginia Beach, VA United States",
-    "BeerAbv": 8.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960068,
-    "BeerName": "Kuleana",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Commonwealth Brewing Company",
-    "Origin": "Virginia Beach, VA United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 4959738,
     "BeerName": "Heliophilia",
     "BeerStyle": "Farmhouse Ale - Saison",
@@ -167,27 +7,9 @@
     "Origin": "Virginia Beach, VA United States",
     "BeerAbv": 5.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3339026,
-    "BeerName": "Nordland",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Commonwealth Brewing Company",
-    "Origin": "Virginia Beach, VA United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3335474,
-    "BeerName": "Melon Ball",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Commonwealth Brewing Company",
-    "Origin": "Virginia Beach, VA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
   },
   {
     "BID": 1668833,
@@ -197,7 +19,9 @@
     "Origin": "Bedford, England",
     "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3335476,
@@ -207,7 +31,9 @@
     "Origin": "Oud-Turnhout, Vlaams Gewest Belgium",
     "BeerAbv": 8.50,
     "BeerIbu": 27.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
   },
   {
     "BID": 1668834,
@@ -217,7 +43,9 @@
     "Origin": "Zemun, Central Serbia Serbia",
     "BeerAbv": 5.00,
     "BeerIbu": 32.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
     "BID": 3334193,
@@ -227,17 +55,9 @@
     "Origin": "Copenhagen, Region Hovedstaden Denmark",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3087,
-    "BeerName": "Blonde Double Maibock",
-    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
-    "BreweryName": "Stoudts Brewing Company",
-    "Origin": "Adamstown, PA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 37.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 1676624,
@@ -247,6 +67,236 @@
     "Origin": "Adamstown, PA United States",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "117"
+  },
+  {
+    "BID": 3087,
+    "BeerName": "Blonde Double Maibock",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Stoudts Brewing Company",
+    "Origin": "Adamstown, PA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 37.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 4451,
+    "BeerName": "Fat Dog Stout",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Stoudts Brewing Company",
+    "Origin": "Adamstown, PA United States",
+    "BeerAbv": 8.02,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 3786,
+    "BeerName": "Stoudt's Triple (Belgian Abbey-Style Ale)",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Stoudts Brewing Company",
+    "Origin": "Adamstown, PA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 37.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
+  },
+  {
+    "BID": 3875,
+    "BeerName": "American Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Stoudts Brewing Company",
+    "Origin": "Adamstown, PA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 3876,
+    "BeerName": "Gold Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Stoudts Brewing Company",
+    "Origin": "Adamstown, PA United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "89"
+  },
+  {
+    "BID": 3877,
+    "BeerName": "Scarlet Lady Ale",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Stoudts Brewing Company",
+    "Origin": "Adamstown, PA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 32.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "84"
+  },
+  {
+    "BID": 3878,
+    "BeerName": "Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Stoudts Brewing Company",
+    "Origin": "Adamstown, PA United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 40.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "91"
+  },
+  {
+    "BID": 5587,
+    "BeerName": "Old Abominable Barley Wine Ale",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Stoudts Brewing Company",
+    "Origin": "Adamstown, PA United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 5223,
+    "BeerName": "Smooth Hoperator",
+    "BeerStyle": "Lager - IPL (India Pale Lager)",
+    "BreweryName": "Stoudts Brewing Company",
+    "Origin": "Adamstown, PA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 11745,
+    "BeerName": "Winter Ale",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Stoudts Brewing Company",
+    "Origin": "Adamstown, PA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 13166,
+    "BeerName": "Karnival Kölsch",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Stoudts Brewing Company",
+    "Origin": "Adamstown, PA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 22.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "82"
+  },
+  {
+    "BID": 3006,
+    "BeerName": "BlackHawk Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Court Avenue Brewing Company",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 36.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 3007,
+    "BeerName": "Evidence Supporting Beer",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Court Avenue Brewing Company",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 3008,
+    "BeerName": "Pointer Brown Ale",
+    "BeerStyle": "Brown Ale - English",
+    "BreweryName": "Court Avenue Brewing Company",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "111"
+  },
+  {
+    "BID": 3009,
+    "BeerName": "Topping Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Court Avenue Brewing Company",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 3010,
+    "BeerName": "Capital Raspberry Wheat",
+    "BeerStyle": "Wheat Beer - Fruited",
+    "BreweryName": "Court Avenue Brewing Company",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "112"
+  },
+  {
+    "BID": 3011,
+    "BeerName": "Vimalt Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Court Avenue Brewing Company",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3336060,
+    "BeerName": "Daze In the Court",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Court Avenue Brewing Company",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 3336055,
+    "BeerName": "Daze In the Court",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Court Avenue Brewing Company",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   }
 ]

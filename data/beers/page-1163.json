@@ -1,105 +1,5 @@
 [
   {
-    "BID": 4445698,
-    "BeerName": "Ho-ho-ho Juleøl",
-    "BeerStyle": "IPA - Red",
-    "BreweryName": "Børgefjell Bryggeri",
-    "Origin": "Norway",
-    "BeerAbv": 6.00,
-    "BeerIbu": 40.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3890915,
-    "BeerName": "Geiersberg IPA COVID-19 Brew",
-    "BeerStyle": "Homebrew, IPA - Other",
-    "BreweryName": "Sam Hick Homebrew",
-    "Origin": "Wetzlar, Hessen Germany",
-    "BeerAbv": 5.80,
-    "BeerIbu": 58.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445699,
-    "BeerName": "The \"Sophia\" Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Happy Trails Brewing Co.",
-    "Origin": "Sparta, TN United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 5.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630745,
-    "BeerName": "The Train Station Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Happy Trails Brewing Co.",
-    "Origin": "Sparta, TN United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 5.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3890916,
-    "BeerName": "Into the Everblack Vanilla Slushy",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Magic City Brewing Company",
-    "Origin": "Akron, OH United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 68.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3340501,
-    "BeerName": "OG Barber",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Magic City Brewing Company",
-    "Origin": "Akron, OH United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445494,
-    "BeerName": "Golden On Strawberries",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "Yachats Brewing",
-    "Origin": "Yachats, OR United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445489,
-    "BeerName": "Sea Star Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Yachats Brewing",
-    "Origin": "Yachats, OR United States",
-    "BeerAbv": 3.90,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 3333344,
-    "BeerName": "Norse Thor's Well",
-    "BeerStyle": "IPA - Farmhouse",
-    "BreweryName": "Yachats Brewing",
-    "Origin": "Yachats, OR United States",
-    "BeerAbv": 7.10,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674907,
-    "BeerName": "Plum Loyal",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Yachats Brewing",
-    "Origin": "Yachats, OR United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 1674912,
     "BeerName": "Tears of the Innocent",
     "BeerStyle": "Sour - Other",
@@ -107,17 +7,9 @@
     "Origin": "Yachats, OR United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1669102,
-    "BeerName": "Tears of the Innocent",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Yachats Brewing",
-    "Origin": "Yachats, OR United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 3336178,
@@ -127,7 +19,9 @@
     "Origin": "Lemon Grove, CA United States",
     "BeerAbv": 5.00,
     "BeerIbu": 69.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "108"
   },
   {
     "BID": 3890917,
@@ -137,17 +31,9 @@
     "Origin": "Chanverrie, Pays de la Loire France",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4960039,
-    "BeerName": "Mélusine",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Brasserie Mélusine",
-    "Origin": "Chanverrie, Pays de la Loire France",
-    "BeerAbv": 6.50,
-    "BeerIbu": 17.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 6082,
@@ -157,7 +43,21 @@
     "Origin": "Chanverrie, Pays de la Loire France",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
+  },
+  {
+    "BID": 4960039,
+    "BeerName": "Mélusine",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Brasserie Mélusine",
+    "Origin": "Chanverrie, Pays de la Loire France",
+    "BeerAbv": 6.50,
+    "BeerIbu": 17.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 4445702,
@@ -167,7 +67,9 @@
     "Origin": "Møllergata, Oslo Norway",
     "BeerAbv": 8.50,
     "BeerIbu": 8.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4445722,
@@ -177,7 +79,9 @@
     "Origin": "Møllergata, Oslo Norway",
     "BeerAbv": 4.70,
     "BeerIbu": 5.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4445762,
@@ -187,7 +91,9 @@
     "Origin": "Møllergata, Oslo Norway",
     "BeerAbv": 4.70,
     "BeerIbu": 5.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "79"
   },
   {
     "BID": 3336179,
@@ -197,7 +103,9 @@
     "Origin": "Santa Rosa, CA United States",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   },
   {
     "BID": 1673096,
@@ -207,7 +115,9 @@
     "Origin": "Santa Rosa, CA United States",
     "BeerAbv": 6.70,
     "BeerIbu": 55.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4445703,
@@ -217,7 +127,9 @@
     "Origin": "Aix-en-Provence, Provence-Alpes-Côte d'Azur France",
     "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
   },
   {
     "BID": 4960581,
@@ -227,17 +139,9 @@
     "Origin": "Aix-en-Provence, Provence-Alpes-Côte d'Azur France",
     "BeerAbv": 4.50,
     "BeerIbu": 17.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630528,
-    "BeerName": "Blackcurrant",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Friendly Beasts Cider Company",
-    "Origin": "Bloomington, IN United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 3890918,
@@ -247,6 +151,152 @@
     "Origin": "Bloomington, IN United States",
     "BeerAbv": 7.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3342904,
+    "BeerName": "Cherribou",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Friendly Beasts Cider Company",
+    "Origin": "Bloomington, IN United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 4630528,
+    "BeerName": "Blackcurrant",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Friendly Beasts Cider Company",
+    "Origin": "Bloomington, IN United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 3890919,
+    "BeerName": "Sommerøl",
+    "BeerStyle": "Homebrew, IPA - American",
+    "BreweryName": "Fribryggeriet",
+    "Origin": "Norway",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4445705,
+    "BeerName": "The Clear",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "The Mitten Brewing Company",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 55.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 3338557,
+    "BeerName": "The Blooper",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "The Mitten Brewing Company",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
+  },
+  {
+    "BID": 4941223,
+    "BeerName": "Miles of Smiles",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "The Mitten Brewing Company",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 29.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "105"
+  },
+  {
+    "BID": 4961940,
+    "BeerName": "Roberto Clementines",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "The Mitten Brewing Company",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 8.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4980335,
+    "BeerName": "Isaria",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "The Mitten Brewing Company",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 27.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 3336183,
+    "BeerName": "Apollo 11",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Other Side Of The Moon Brewery",
+    "Origin": "Clemmons, NC United States",
+    "BeerAbv": 5.24,
+    "BeerIbu": 41.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 3336184,
+    "BeerName": "Apollo 11",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Other Side Of The Moon Brewery",
+    "Origin": "Clemmons, NC United States",
+    "BeerAbv": 5.24,
+    "BeerIbu": 41.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 3336185,
+    "BeerName": "Apollo 11",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Other Side Of The Moon Brewery",
+    "Origin": "Clemmons, NC United States",
+    "BeerAbv": 5.24,
+    "BeerIbu": 41.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "78"
+  },
+  {
+    "BID": 3890920,
+    "BeerName": "Teutonic",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Consortium Brewing Co",
+    "Origin": "Louth, Lincolnshire England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   }
 ]

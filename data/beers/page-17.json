@@ -1,5 +1,101 @@
 [
   {
+    "BID": 11072,
+    "BeerName": "Imperial Red Ale",
+    "BeerStyle": "Red Ale - Imperial / Double",
+    "BreweryName": "Epic Brewing Company",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 40.00,
+    "HallRating": 15.16,
+    "BAR": 9.29,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 11329,
+    "BeerName": "Bookbinder",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Emerson's Brewery",
+    "Origin": "Dunedin, Otago New Zealand",
+    "BeerAbv": 3.70,
+    "BeerIbu": 0.00,
+    "HallRating": 15.16,
+    "BAR": 9.29,
+    "StylePlus": "122"
+  },
+  {
+    "BID": 12340,
+    "BeerName": "Leafer Madness",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Beer Valley Brewing Company",
+    "Origin": "Ontario, OR United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 100.00,
+    "HallRating": 15.15,
+    "BAR": 9.29,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 12640,
+    "BeerName": "Kris Kringle",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "McMenamins",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.84,
+    "BeerIbu": 69.00,
+    "HallRating": 15.15,
+    "BAR": 9.29,
+    "StylePlus": "109"
+  },
+  {
+    "BID": 11627,
+    "BeerName": "Single Hop Nelson Sauvin IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Mikkeller",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 6.90,
+    "BeerIbu": 100.00,
+    "HallRating": 15.15,
+    "BAR": 9.29,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 10381,
+    "BeerName": "Iron Horse",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Mountain Town Brewing Company",
+    "Origin": "Mt Pleasant, MI United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 77.00,
+    "HallRating": 15.14,
+    "BAR": 9.27,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 10457,
+    "BeerName": "Washington's Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Alewerks Brewing Company",
+    "Origin": "Williamsburg, VA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "HallRating": 15.14,
+    "BAR": 9.26,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 12654,
+    "BeerName": "Mutton Buster",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Payette Brewing Company",
+    "Origin": "Boise, ID United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 25.00,
+    "HallRating": 15.13,
+    "BAR": 9.26,
+    "StylePlus": "108"
+  },
+  {
     "BID": 11405,
     "BeerName": "Moor is Better - Black IPA",
     "BeerStyle": "Homebrew, IPA - Black / Cascadian Dark Ale",
@@ -7,7 +103,9 @@
     "Origin": "United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 15.12
+    "HallRating": 15.12,
+    "BAR": 3.31,
+    "StylePlus": "107"
   },
   {
     "BID": 10942,
@@ -17,7 +115,9 @@
     "Origin": "Stevenson, WA United States",
     "BeerAbv": 7.50,
     "BeerIbu": 35.00,
-    "HallRating": 15.12
+    "HallRating": 15.12,
+    "BAR": 9.23,
+    "StylePlus": "103"
   },
   {
     "BID": 10943,
@@ -27,7 +127,9 @@
     "Origin": "Stevenson, WA United States",
     "BeerAbv": 7.50,
     "BeerIbu": 35.00,
-    "HallRating": 15.12
+    "HallRating": 15.12,
+    "BAR": 9.23,
+    "StylePlus": "103"
   },
   {
     "BID": 12288,
@@ -37,7 +139,9 @@
     "Origin": "Mt Pleasant, MI United States",
     "BeerAbv": 5.60,
     "BeerIbu": 0.00,
-    "HallRating": 15.12
+    "HallRating": 15.12,
+    "BAR": 9.24,
+    "StylePlus": "112"
   },
   {
     "BID": 10337,
@@ -47,7 +151,9 @@
     "Origin": "Haverhill, MA United States",
     "BeerAbv": 8.40,
     "BeerIbu": 0.00,
-    "HallRating": 15.12
+    "HallRating": 15.12,
+    "BAR": 3.31,
+    "StylePlus": "106"
   },
   {
     "BID": 10660,
@@ -57,7 +163,9 @@
     "Origin": "Ewing, NJ United States",
     "BeerAbv": 8.50,
     "BeerIbu": 0.00,
-    "HallRating": 15.12
+    "HallRating": 15.12,
+    "BAR": 9.24,
+    "StylePlus": "101"
   },
   {
     "BID": 1224,
@@ -67,7 +175,9 @@
     "Origin": "San Diego, CA United States",
     "BeerAbv": 8.90,
     "BeerIbu": 23.00,
-    "HallRating": 15.11
+    "HallRating": 15.11,
+    "BAR": 9.22,
+    "StylePlus": "106"
   },
   {
     "BID": 10697,
@@ -77,17 +187,9 @@
     "Origin": "Warrenville, IL United States",
     "BeerAbv": 8.10,
     "BeerIbu": 0.00,
-    "HallRating": 15.11
-  },
-  {
-    "BID": 11795,
-    "BeerName": "Barrel Aged Old Ruffian",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Great Divide Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 10.20,
-    "BeerIbu": 90.00,
-    "HallRating": 15.10
+    "HallRating": 15.11,
+    "BAR": 9.22,
+    "StylePlus": "101"
   },
   {
     "BID": 10380,
@@ -97,7 +199,21 @@
     "Origin": "Cold Spring, MN United States",
     "BeerAbv": 9.10,
     "BeerIbu": 0.00,
-    "HallRating": 15.10
+    "HallRating": 15.10,
+    "BAR": 9.20,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 11795,
+    "BeerName": "Barrel Aged Old Ruffian",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Great Divide Brewing Company",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 10.20,
+    "BeerIbu": 90.00,
+    "HallRating": 15.10,
+    "BAR": 9.20,
+    "StylePlus": "102"
   },
   {
     "BID": 12125,
@@ -107,27 +223,9 @@
     "Origin": "Newport, OR United States",
     "BeerAbv": 4.80,
     "BeerIbu": 30.00,
-    "HallRating": 15.09
-  },
-  {
-    "BID": 1050,
-    "BeerName": "Big Boat Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Fitger’s Brewhouse",
-    "Origin": "Duluth, MN United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 45.00,
-    "HallRating": 15.08
-  },
-  {
-    "BID": 10197,
-    "BeerName": "Old Monkeyshine",
-    "BeerStyle": "Strong Ale - English",
-    "BreweryName": "Nimbus Brewing Company",
-    "Origin": "Tucson, AZ United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 35.00,
-    "HallRating": 15.08
+    "HallRating": 15.09,
+    "BAR": 9.18,
+    "StylePlus": "114"
   },
   {
     "BID": 10693,
@@ -137,27 +235,33 @@
     "Origin": "Exton, PA United States",
     "BeerAbv": 7.30,
     "BeerIbu": 41.00,
-    "HallRating": 15.08
+    "HallRating": 15.08,
+    "BAR": 9.17,
+    "StylePlus": "104"
   },
   {
-    "BID": 11078,
-    "BeerName": "Kotayk (Котайк)",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Kotayk Brewery",
-    "Origin": "Abovyan, Kotayk Province Armenia",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "HallRating": 15.06
-  },
-  {
-    "BID": 1053,
-    "BeerName": "Starfire Pale Ale",
-    "BeerStyle": "Pale Ale - American",
+    "BID": 1050,
+    "BeerName": "Big Boat Oatmeal Stout",
+    "BeerStyle": "Stout - Oatmeal",
     "BreweryName": "Fitger’s Brewhouse",
     "Origin": "Duluth, MN United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 59.00,
-    "HallRating": 15.06
+    "BeerAbv": 6.60,
+    "BeerIbu": 45.00,
+    "HallRating": 15.08,
+    "BAR": 9.17,
+    "StylePlus": "104"
+  },
+  {
+    "BID": 10197,
+    "BeerName": "Old Monkeyshine",
+    "BeerStyle": "Strong Ale - English",
+    "BreweryName": "Nimbus Brewing Company",
+    "Origin": "Tucson, AZ United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 35.00,
+    "HallRating": 15.08,
+    "BAR": 9.18,
+    "StylePlus": "107"
   },
   {
     "BID": 12397,
@@ -167,7 +271,9 @@
     "Origin": "Rakszawa, Województwo podkarpackie Poland",
     "BeerAbv": 4.60,
     "BeerIbu": 0.00,
-    "HallRating": 15.06
+    "HallRating": 15.06,
+    "BAR": 9.14,
+    "StylePlus": "98"
   },
   {
     "BID": 10230,
@@ -177,76 +283,20 @@
     "Origin": "Squamish, BC Canada",
     "BeerAbv": 7.70,
     "BeerIbu": 20.00,
-    "HallRating": 15.06
+    "HallRating": 15.06,
+    "BAR": 9.13,
+    "StylePlus": "111"
   },
   {
-    "BID": 11695,
-    "BeerName": "Saint Botolph's Town",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "Pretty Things Beer & Ale Project",
-    "Origin": "Somerville, MA United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "HallRating": 15.05
-  },
-  {
-    "BID": 12555,
-    "BeerName": "Revolution",
+    "BID": 1053,
+    "BeerName": "Starfire Pale Ale",
     "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Eagle Rock Brewery",
-    "Origin": "Los Angeles, CA United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 40.00,
-    "HallRating": 15.04
-  },
-  {
-    "BID": 11955,
-    "BeerName": "Blackberry Ale (2007)",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Cascade Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "HallRating": 15.04
-  },
-  {
-    "BID": 11756,
-    "BeerName": "Dark White",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Brasserie Fantôme",
-    "Origin": "Érezée, Région Wallonne Belgium",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "HallRating": 15.04
-  },
-  {
-    "BID": 12485,
-    "BeerName": "Gorkha Beer",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Gorkha Brewery",
-    "Origin": "Kathmandu, मध्यमाञ्चल विकास क्षेत्र Nepal",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 15.03
-  },
-  {
-    "BID": 11819,
-    "BeerName": "Black Tokyo* Horizon",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "BrewDog",
-    "Origin": "Ellon, Aberdeenshire Scotland",
-    "BeerAbv": 15.20,
-    "BeerIbu": 100.00,
-    "HallRating": 15.03
-  },
-  {
-    "BID": 11528,
-    "BeerName": "Old Knucklehead",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "BridgePort Brewing Co.",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 9.20,
-    "BeerIbu": 60.00,
-    "HallRating": 15.02
+    "BreweryName": "Fitger’s Brewhouse",
+    "Origin": "Duluth, MN United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 59.00,
+    "HallRating": 15.06,
+    "BAR": 9.14,
+    "StylePlus": "110"
   }
 ]

@@ -1,23 +1,27 @@
 [
   {
-    "BID": 4630617,
-    "BeerName": "Grünhopfen Pale Ale (2021)",
-    "BeerStyle": "Homebrew, Pale Ale - Other",
-    "BreweryName": "Dycki's Homebrew",
-    "Origin": "Germany",
-    "BeerAbv": 5.50,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "BID": 4815357,
+    "BeerName": "Cask NEIPA",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Habitat Brew Co",
+    "Origin": "England",
+    "BeerAbv": 6.00,
+    "BeerIbu": 10.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 4630622,
-    "BeerName": "Roggen Pale Ale (2021)",
-    "BeerStyle": "Homebrew, Historical Beer - Roggenbier",
+    "BID": 4630603,
+    "BeerName": "Champagnerweizen-Orangenbock (2021)",
+    "BeerStyle": "Homebrew, Bock - Weizendoppelbock",
     "BreweryName": "Dycki's Homebrew",
     "Origin": "Germany",
-    "BeerAbv": 5.50,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "BeerAbv": 10.00,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630607,
@@ -27,7 +31,21 @@
     "Origin": "Germany",
     "BeerAbv": 5.50,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4630622,
+    "BeerName": "Roggen Pale Ale (2021)",
+    "BeerStyle": "Homebrew, Historical Beer - Roggenbier",
+    "BreweryName": "Dycki's Homebrew",
+    "Origin": "Germany",
+    "BeerAbv": 5.50,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630624,
@@ -37,7 +55,9 @@
     "Origin": "Germany",
     "BeerAbv": 8.00,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630628,
@@ -47,37 +67,21 @@
     "Origin": "Germany",
     "BeerAbv": 12.00,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
-    "BID": 4630641,
-    "BeerName": "Imperial Stout (2021)",
-    "BeerStyle": "Homebrew, Stout - Imperial / Double",
+    "BID": 4630617,
+    "BeerName": "Grünhopfen Pale Ale (2021)",
+    "BeerStyle": "Homebrew, Pale Ale - Other",
     "BreweryName": "Dycki's Homebrew",
     "Origin": "Germany",
-    "BeerAbv": 7.50,
-    "BeerIbu": 50.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630633,
-    "BeerName": "Caramel Quadrupel (2021)",
-    "BeerStyle": "Homebrew, Belgian Quadrupel",
-    "BreweryName": "Dycki's Homebrew",
-    "Origin": "Germany",
-    "BeerAbv": 10.00,
-    "BeerIbu": 45.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4630648,
-    "BeerName": "Plum Sour (2021)",
-    "BeerStyle": "Homebrew, Sour - Fruited",
-    "BreweryName": "Dycki's Homebrew",
-    "Origin": "Germany",
-    "BeerAbv": 6.50,
-    "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "BeerAbv": 5.50,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630644,
@@ -87,7 +91,21 @@
     "Origin": "Germany",
     "BeerAbv": 10.00,
     "BeerIbu": 65.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4630641,
+    "BeerName": "Imperial Stout (2021)",
+    "BeerStyle": "Homebrew, Stout - Imperial / Double",
+    "BreweryName": "Dycki's Homebrew",
+    "Origin": "Germany",
+    "BeerAbv": 7.50,
+    "BeerIbu": 50.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630646,
@@ -97,7 +115,33 @@
     "Origin": "Germany",
     "BeerAbv": 6.50,
     "BeerIbu": 15.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4630648,
+    "BeerName": "Plum Sour (2021)",
+    "BeerStyle": "Homebrew, Sour - Fruited",
+    "BreweryName": "Dycki's Homebrew",
+    "Origin": "Germany",
+    "BeerAbv": 6.50,
+    "BeerIbu": 15.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4630633,
+    "BeerName": "Caramel Quadrupel (2021)",
+    "BeerStyle": "Homebrew, Belgian Quadrupel",
+    "BreweryName": "Dycki's Homebrew",
+    "Origin": "Germany",
+    "BeerAbv": 10.00,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445853,
@@ -107,7 +151,9 @@
     "Origin": "United States",
     "BeerAbv": 6.20,
     "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630613,
@@ -117,7 +163,9 @@
     "Origin": "Poznań, Wielkopolskie Poland",
     "BeerAbv": 6.80,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4630604,
@@ -127,7 +175,9 @@
     "Origin": "Poznań, Wielkopolskie Poland",
     "BeerAbv": 7.50,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
   },
   {
     "BID": 4445299,
@@ -137,27 +187,9 @@
     "Origin": "Heidelberg, PA United States",
     "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1666690,
-    "BeerName": "Biere De Miel",
-    "BeerStyle": "Honey Beer",
-    "BreweryName": "Insurrection Aleworks",
-    "Origin": "Heidelberg, PA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1668995,
-    "BeerName": "Biere De Miel",
-    "BeerStyle": "Honey Beer",
-    "BreweryName": "Insurrection Aleworks",
-    "Origin": "Heidelberg, PA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 30.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 1677210,
@@ -167,7 +199,9 @@
     "Origin": "Heidelberg, PA United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 3335830,
@@ -177,7 +211,33 @@
     "Origin": "Heidelberg, PA United States",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 1666690,
+    "BeerName": "Biere De Miel",
+    "BeerStyle": "Honey Beer",
+    "BreweryName": "Insurrection Aleworks",
+    "Origin": "Heidelberg, PA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "119"
+  },
+  {
+    "BID": 1668995,
+    "BeerName": "Biere De Miel",
+    "BeerStyle": "Honey Beer",
+    "BreweryName": "Insurrection Aleworks",
+    "Origin": "Heidelberg, PA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 30.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "119"
   },
   {
     "BID": 4815359,
@@ -187,17 +247,9 @@
     "Origin": "Grad Sveta Nedelja, Istarska županija Croatia",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445855,
-    "BeerName": "Hazed And Confused",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Rock River Brewing Company",
-    "Origin": "Rock Rapids, IA United States",
-    "BeerAbv": 7.40,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "86"
   },
   {
     "BID": 4445868,
@@ -207,7 +259,21 @@
     "Origin": "Rock Rapids, IA United States",
     "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "83"
+  },
+  {
+    "BID": 4445855,
+    "BeerName": "Hazed And Confused",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Rock River Brewing Company",
+    "Origin": "Rock Rapids, IA United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "104"
   },
   {
     "BID": 4630606,
@@ -217,7 +283,9 @@
     "Origin": "Boston, MA United States",
     "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4959990,
@@ -227,26 +295,8 @@
     "Origin": "Boston, MA United States",
     "BeerAbv": 4.20,
     "BeerIbu": 5.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815361,
-    "BeerName": "Voor (2019)",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Tommie Sjef",
-    "Origin": "Den Helder, Noord-Holland Netherlands",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4445856,
-    "BeerName": "Hoppy Habanero Red IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Flying Boat Brewing Company",
-    "Origin": "St. Petersburg, FL United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 42.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   }
 ]

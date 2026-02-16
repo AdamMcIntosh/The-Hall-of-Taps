@@ -1,65 +1,5 @@
 [
   {
-    "BID": 1670196,
-    "BeerName": "Vinter Bryg",
-    "BeerStyle": "Brown Ale - Belgian",
-    "BreweryName": "Det Lille Bryggeri",
-    "Origin": "Ringsted, Region Sjælland Denmark",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1676170,
-    "BeerName": "Wheat Beat",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Det Lille Bryggeri",
-    "Origin": "Ringsted, Region Sjælland Denmark",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674482,
-    "BeerName": "Pale It Again",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Det Lille Bryggeri",
-    "Origin": "Ringsted, Region Sjælland Denmark",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 1674550,
-    "BeerName": "Feel the Bass",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "Det Lille Bryggeri",
-    "Origin": "Ringsted, Region Sjælland Denmark",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815285,
-    "BeerName": "Belgisk Hawaii",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Det Lille Bryggeri",
-    "Origin": "Ringsted, Region Sjælland Denmark",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815296,
-    "BeerName": "Moviebox",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Det Lille Bryggeri",
-    "Origin": "Ringsted, Region Sjælland Denmark",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
     "BID": 4962095,
     "BeerName": "The Old Forge Belgisk Tripel",
     "BeerStyle": "Belgian Tripel",
@@ -67,7 +7,9 @@
     "Origin": "Ringsted, Region Sjælland Denmark",
     "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
   },
   {
     "BID": 4981598,
@@ -77,7 +19,9 @@
     "Origin": "Portland, OR United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "81"
   },
   {
     "BID": 4981601,
@@ -87,7 +31,9 @@
     "Origin": "Portland, OR United States",
     "BeerAbv": 5.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
   },
   {
     "BID": 4445779,
@@ -97,7 +43,9 @@
     "Origin": "Portland, OR United States",
     "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4446081,
@@ -107,7 +55,9 @@
     "Origin": "Portland, OR United States",
     "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
   },
   {
     "BID": 4630535,
@@ -117,7 +67,9 @@
     "Origin": "Oulu, Pohjois-Pohjanmaa Finland",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "76"
   },
   {
     "BID": 4940347,
@@ -127,7 +79,9 @@
     "Origin": "Oulu, Pohjois-Pohjanmaa Finland",
     "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4941611,
@@ -137,7 +91,9 @@
     "Origin": "Oulu, Pohjois-Pohjanmaa Finland",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4941595,
@@ -147,27 +103,9 @@
     "Origin": "Oulu, Pohjois-Pohjanmaa Finland",
     "BeerAbv": 8.10,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4447251,
-    "BeerName": "Gargojl Plum",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Crow Brewery",
-    "Origin": "Vranovo, Централна Србија Serbia",
-    "BeerAbv": 4.10,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
-  },
-  {
-    "BID": 4815286,
-    "BeerName": "Gargojl Strawberry",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Crow Brewery",
-    "Origin": "Vranovo, Централна Србија Serbia",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "75"
   },
   {
     "BID": 4960688,
@@ -177,7 +115,33 @@
     "Origin": "Vranovo, Централна Србија Serbia",
     "BeerAbv": 6.50,
     "BeerIbu": 40.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "101"
+  },
+  {
+    "BID": 4447251,
+    "BeerName": "Gargojl Plum",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Crow Brewery",
+    "Origin": "Vranovo, Централна Србија Serbia",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
+  },
+  {
+    "BID": 4815286,
+    "BeerName": "Gargojl Strawberry",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Crow Brewery",
+    "Origin": "Vranovo, Централна Србија Serbia",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "103"
   },
   {
     "BID": 4631296,
@@ -187,7 +151,9 @@
     "Origin": "Calgary, AB Canada",
     "BeerAbv": 6.70,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "102"
   },
   {
     "BID": 4445780,
@@ -197,7 +163,9 @@
     "Origin": "Calgary, AB Canada",
     "BeerAbv": 5.30,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "117"
   },
   {
     "BID": 4445790,
@@ -207,7 +175,9 @@
     "Origin": "Calgary, AB Canada",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4445798,
@@ -217,7 +187,9 @@
     "Origin": "Calgary, AB Canada",
     "BeerAbv": 4.60,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "106"
   },
   {
     "BID": 4630536,
@@ -227,7 +199,9 @@
     "Origin": "Amsterdam, Noord-Holland Netherlands",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4630553,
@@ -237,7 +211,9 @@
     "Origin": "Amsterdam, Noord-Holland Netherlands",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
   },
   {
     "BID": 4815666,
@@ -247,6 +223,80 @@
     "Origin": "Amsterdam, Noord-Holland Netherlands",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "HallRating": 0.00
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": null
+  },
+  {
+    "BID": 4445795,
+    "BeerName": "Barn Burner Citra Wheat Ale",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Farm Country Brewing",
+    "Origin": "Langley, BC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 35.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "85"
+  },
+  {
+    "BID": 4445782,
+    "BeerName": "Farmer's Tan Amber Rye Ale",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Farm Country Brewing",
+    "Origin": "Langley, BC Canada",
+    "BeerAbv": 5.80,
+    "BeerIbu": 45.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 4630538,
+    "BeerName": "S.I.L.B.I. Series: Debacle",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Deep Ellum Brewing Company®",
+    "Origin": "Dallas, TX United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 20.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "114"
+  },
+  {
+    "BID": 3338075,
+    "BeerName": "Darkest Hour",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Deep Ellum Brewing Company®",
+    "Origin": "Dallas, TX United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 60.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "100"
+  },
+  {
+    "BID": 3340512,
+    "BeerName": "FTW Series: Texas Corn Grisette",
+    "BeerStyle": "Farmhouse Ale - Grisette",
+    "BreweryName": "Deep Ellum Brewing Company®",
+    "Origin": "Dallas, TX United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 12.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "107"
+  },
+  {
+    "BID": 4940002,
+    "BeerName": "Wheatworth Fermington",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Deep Ellum Brewing Company®",
+    "Origin": "Dallas, TX United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 25.00,
+    "HallRating": 0.00,
+    "BAR": 0.00,
+    "StylePlus": "115"
   }
 ]
