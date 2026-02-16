@@ -4,7 +4,7 @@ The Hall of Taps was born out of the idea that objectively some beers are better
 objectively make it the best craft brew. After all people drift towards craft brews to get away from the macro brewed beers.  So in a way the craft beers with many ratings are macro brews.
 
 
-You can read our guide on how we rate our beers [here]()
+You can read our guide on how we rate our beers [here](math-primer.html).
 
 ### The Team
 #### Adam McIntosh
