@@ -1,5 +1,35 @@
 [
   {
+    "BID": 4961996,
+    "BeerName": "Easy Cycling Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Velka Morava",
+    "Origin": "Moskva, Russia",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961996_ca67e_sm.jpeg",
+    "HallRating": 23.73,
+    "BAR": 4.41,
+    "StylePlus": "132",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.4904763808121245116011249561"
+  },
+  {
+    "BID": 1670625,
+    "BeerName": "Summer Citrus Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Barley Creek Brewing Company",
+    "Origin": "Tannersville, PA United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 19.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BarleyCreekBrewingCompany_76.jpeg",
+    "HallRating": 23.73,
+    "BAR": 4.41,
+    "StylePlus": "132",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.4904805056574428121648538162"
+  },
+  {
     "BID": 3346210,
     "BeerName": "Tropical Dreamer",
     "BeerStyle": "Lager - American Light",
@@ -10,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-389555_9cff3.jpeg",
     "HallRating": 23.73,
     "BAR": 4.41,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.490471880980868183713420745"
   },
   {
     "BID": 4960622,
@@ -23,59 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-488351_1d447.jpeg",
     "HallRating": 23.73,
     "BAR": 4.41,
-    "StylePlus": "127"
-  },
-  {
-    "BID": 3342960,
-    "BeerName": "Czech Rye Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "T.F. Brewing - Templin Family",
-    "Origin": "Salt Lake City, UT United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-410388_b024b.jpeg",
-    "HallRating": 23.73,
-    "BAR": 4.41,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 4961996,
-    "BeerName": "Easy Cycling Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Velka Morava",
-    "Origin": "Moskva, Russia",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961996_ca67e_sm.jpeg",
-    "HallRating": 23.73,
-    "BAR": 4.41,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 1670658,
-    "BeerName": "Surfveza",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "The Dudes’ Brewing Company",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-thedudesbrewingcompany_57078.jpeg",
-    "HallRating": 23.73,
-    "BAR": 4.41,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 3341787,
-    "BeerName": "Seafoam Cruiser With Pomegranate And Black Currant Puree",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Sole Syndicate Brewing",
-    "Origin": "Ludlow, MA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-138510_5e51c.jpeg",
-    "HallRating": 23.73,
-    "BAR": 4.41,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.98,
+    "AdjustedRating": "2.4904898803058934952642375893"
   },
   {
     "BID": 4010602,
@@ -88,7 +70,39 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-468446_6d994.jpeg",
     "HallRating": 23.73,
     "BAR": 4.41,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.4904775057699385935730510088"
+  },
+  {
+    "BID": 1670658,
+    "BeerName": "Surfveza",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "The Dudes’ Brewing Company",
+    "Origin": "Torrance, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-thedudesbrewingcompany_57078.jpeg",
+    "HallRating": 23.73,
+    "BAR": 4.41,
+    "StylePlus": "132",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.4904745058824343749812482014"
+  },
+  {
+    "BID": 3342960,
+    "BeerName": "Czech Rye Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "T.F. Brewing - Templin Family",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-410388_b024b.jpeg",
+    "HallRating": 23.73,
+    "BAR": 4.41,
+    "StylePlus": "132",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.4904823805871329487847305709"
   },
   {
     "BID": 8314,
@@ -101,7 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8314_1d208_sm.jpeg",
     "HallRating": 23.65,
     "BAR": 17.06,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.7895250460492321913965449742"
   },
   {
     "BID": 4170,
@@ -114,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4170_df751_sm.jpeg",
     "HallRating": 23.56,
     "BAR": 16.95,
-    "StylePlus": "121"
+    "StylePlus": "121",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.7374743287601645396385923731"
   },
   {
     "BID": 10501,
@@ -127,7 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10501_0b26b_sm.jpeg",
     "HallRating": 23.53,
     "BAR": 16.91,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.7436931861682490483522649865"
   },
   {
     "BID": 2247,
@@ -140,85 +160,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2247_a88a3_sm.jpeg",
     "HallRating": 23.52,
     "BAR": 16.90,
-    "StylePlus": "111"
-  },
-  {
-    "BID": 25115,
-    "BeerName": "Bonita Blonde",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "The Brew House at Eastlake",
-    "Origin": "Chula Vista, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BrewHouseatEastlake_6953.jpeg",
-    "HallRating": 23.50,
-    "BAR": 4.52,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 1672277,
-    "BeerName": "Hoppy Zwickle",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Ballast Point Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-68_a41ff.jpeg",
-    "HallRating": 23.50,
-    "BAR": 4.52,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 1670100,
-    "BeerName": "Toasted Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Burleigh Brewing Co.",
-    "Origin": "Burleigh Heads, Queensland Australia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3168_f39a4.jpeg",
-    "HallRating": 23.50,
-    "BAR": 4.52,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 4445769,
-    "BeerName": "Svetle Pivo",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Backroads Brewing Co.",
-    "Origin": "Nelson, BC Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4445769_f32a6_sm.jpeg",
-    "HallRating": 23.50,
-    "BAR": 4.52,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 4447353,
-    "BeerName": "Sabro Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Popular Brewing",
-    "Origin": "France",
-    "BeerAbv": 6.00,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4447353_61d37_sm.jpeg",
-    "HallRating": 23.50,
-    "BAR": 4.52,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 3342638,
-    "BeerName": "Flapper Girl",
-    "BeerStyle": "Lager - Strong",
-    "BreweryName": "The Cruisery",
-    "Origin": "Santa Barbara, CA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-416656_a0f54.jpeg",
-    "HallRating": 23.50,
-    "BAR": 4.52,
-    "StylePlus": "127"
+    "StylePlus": "111",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.7381829005788097962186660369"
   },
   {
     "BID": 4011172,
@@ -231,7 +175,39 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-253902_647a6.jpeg",
     "HallRating": 23.50,
     "BAR": 4.52,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.4904812044282278371568237253"
+  },
+  {
+    "BID": 3342638,
+    "BeerName": "Flapper Girl",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "The Cruisery",
+    "Origin": "Santa Barbara, CA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-416656_a0f54.jpeg",
+    "HallRating": 23.50,
+    "BAR": 4.52,
+    "StylePlus": "127",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.4904796044922252772592196295"
+  },
+  {
+    "BID": 4447353,
+    "BeerName": "Sabro Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Popular Brewing",
+    "Origin": "France",
+    "BeerAbv": 6.00,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4447353_61d37_sm.jpeg",
+    "HallRating": 23.50,
+    "BAR": 4.52,
+    "StylePlus": "132",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.4904852042682342369008339649"
   },
   {
     "BID": 4446267,
@@ -244,7 +220,69 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4446267_e128f_sm.jpeg",
     "HallRating": 23.50,
     "BAR": 4.52,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.4904776045722220773872145097"
+  },
+  {
+    "BID": 1670100,
+    "BeerName": "Toasted Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Burleigh Brewing Co.",
+    "Origin": "Burleigh Heads, Queensland Australia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3168_f39a4.jpeg",
+    "HallRating": 23.50,
+    "BAR": 4.52,
+    "StylePlus": "132",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.4904756046522188775152093899"
+  },
+  {
+    "BID": 25115,
+    "BeerName": "Bonita Blonde",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "The Brew House at Eastlake",
+    "Origin": "Chula Vista, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BrewHouseatEastlake_6953.jpeg",
+    "HallRating": 23.50,
+    "BAR": 4.52,
+    "StylePlus": "132",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.4904776045722220773872145097"
+  },
+  {
+    "BID": 1672277,
+    "BeerName": "Hoppy Zwickle",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Ballast Point Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-68_a41ff.jpeg",
+    "HallRating": 23.50,
+    "BAR": 4.52,
+    "StylePlus": "132",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.4904796044922252772592196295"
+  },
+  {
+    "BID": 4445769,
+    "BeerName": "Svetle Pivo",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Backroads Brewing Co.",
+    "Origin": "Nelson, BC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4445769_f32a6_sm.jpeg",
+    "HallRating": 23.50,
+    "BAR": 4.52,
+    "StylePlus": "132",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.4904880041562387167216411326"
   },
   {
     "BID": 28682,
@@ -257,7 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1238_c12cb_sm.jpeg",
     "HallRating": 23.44,
     "BAR": 16.79,
-    "StylePlus": "120"
+    "StylePlus": "120",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.7220262535136564649787901684"
   },
   {
     "BID": 11936,
@@ -270,7 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11936_5e731_sm.jpeg",
     "HallRating": 23.43,
     "BAR": 16.78,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.7399421986736063454606893147"
   },
   {
     "BID": 2018,
@@ -283,7 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2018_5e6d4_sm.jpeg",
     "HallRating": 23.42,
     "BAR": 16.77,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.7209985916828194087639722158"
   },
   {
     "BID": 1672224,
@@ -296,7 +340,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-99106_8923e_sm.jpeg",
     "HallRating": 23.40,
     "BAR": 16.75,
-    "StylePlus": "120"
+    "StylePlus": "120",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.708132374885734419023355923"
   },
   {
     "BID": 3336139,
@@ -309,7 +355,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1181009_58096_sm.jpeg",
     "HallRating": 23.37,
     "BAR": 16.72,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.7124614686695103641200718861"
   },
   {
     "BID": 2013873,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1388167_460df_sm.jpeg",
     "HallRating": 23.32,
     "BAR": 16.65,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.7205533869779914966046950601"
   }
 ]

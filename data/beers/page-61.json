@@ -1,18 +1,5 @@
 [
   {
-    "BID": 28305,
-    "BeerName": "Apricot Peach Ale",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Dunedin Brewery",
-    "Origin": "Dunedin, FL United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-28305_efa88_sm.jpeg",
-    "HallRating": 20.39,
-    "BAR": 12.67,
-    "StylePlus": "112"
-  },
-  {
     "BID": 16650,
     "BeerName": "Apricot Peach Ale",
     "BeerStyle": "Fruit Beer",
@@ -23,7 +10,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-28305_efa88_sm.jpeg",
     "HallRating": 20.39,
     "BAR": 12.67,
-    "StylePlus": "113"
+    "StylePlus": "113",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.5768029986052738421152559152"
+  },
+  {
+    "BID": 11328,
+    "BeerName": "1812",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Emerson's Brewery",
+    "Origin": "Dunedin, Otago New Zealand",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11328_320a2_sm.jpeg",
+    "HallRating": 20.39,
+    "BAR": 12.67,
+    "StylePlus": "120",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.507826324279277960060554449"
   },
   {
     "BID": 22287,
@@ -36,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22287_45156_sm.jpeg",
     "HallRating": 20.38,
     "BAR": 12.66,
-    "StylePlus": "114"
+    "StylePlus": "114",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.5065004085137602152907829332"
   },
   {
     "BID": 23876,
@@ -49,7 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-23876_7a687_sm.jpeg",
     "HallRating": 20.37,
     "BAR": 12.65,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.5084839825870029405737932511"
   },
   {
     "BID": 22526,
@@ -62,33 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_22526_19f5d2e51d99df3ece267fbbf47d.jpeg",
     "HallRating": 20.37,
     "BAR": 12.64,
-    "StylePlus": "112"
-  },
-  {
-    "BID": 1671141,
-    "BeerName": "Blueberry Wild Tea",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Wild Ohio Brewing",
-    "Origin": "Columbus, OH United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-884827_9279b_sm.jpeg",
-    "HallRating": 20.36,
-    "BAR": 12.63,
-    "StylePlus": "125"
-  },
-  {
-    "BID": 3347624,
-    "BeerName": "Dirty Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Nine Locks Brewing Co.",
-    "Origin": "Dartmouth, NS Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1446880_8ba5f_sm.jpeg",
-    "HallRating": 20.36,
-    "BAR": 12.63,
-    "StylePlus": "116"
+    "StylePlus": "112",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.5083695970972238303300145732"
   },
   {
     "BID": 2014742,
@@ -101,7 +85,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1863047_e090b_sm.jpeg",
     "HallRating": 20.36,
     "BAR": 12.62,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 4.19,
+    "AdjustedRating": "2.516078501040465041829482329"
+  },
+  {
+    "BID": 3347624,
+    "BeerName": "Dirty Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Nine Locks Brewing Co.",
+    "Origin": "Dartmouth, NS Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1446880_8ba5f_sm.jpeg",
+    "HallRating": 20.36,
+    "BAR": 12.63,
+    "StylePlus": "116",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.507885567651063817523190024"
+  },
+  {
+    "BID": 1671141,
+    "BeerName": "Blueberry Wild Tea",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Wild Ohio Brewing",
+    "Origin": "Columbus, OH United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-884827_9279b_sm.jpeg",
+    "HallRating": 20.36,
+    "BAR": 12.63,
+    "StylePlus": "125",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.5066036575332692827796424861"
   },
   {
     "BID": 6679,
@@ -114,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-411_313a3.jpeg",
     "HallRating": 20.35,
     "BAR": 12.60,
-    "StylePlus": "121"
+    "StylePlus": "121",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.5065086947551804143080439145"
   },
   {
     "BID": 29710,
@@ -127,7 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29710_5cc6b_sm.jpeg",
     "HallRating": 20.33,
     "BAR": 12.58,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.5102080302663444246753869937"
   },
   {
     "BID": 4981939,
@@ -140,7 +160,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4131365_8dc4b_sm.jpeg",
     "HallRating": 20.31,
     "BAR": 12.55,
-    "StylePlus": "109"
+    "StylePlus": "109",
+    "RatingScore": 3.91,
+    "AdjustedRating": "2.5108269705801985720822117618"
   },
   {
     "BID": 7942,
@@ -153,7 +175,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7942_c8d30_sm.jpeg",
     "HallRating": 20.31,
     "BAR": 12.55,
-    "StylePlus": "111"
+    "StylePlus": "111",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.505532082926098557818942532"
   },
   {
     "BID": 16366,
@@ -166,7 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-516054_96fcd_sm.jpeg",
     "HallRating": 20.30,
     "BAR": 12.54,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.5072245018694106761073202932"
   },
   {
     "BID": 8124,
@@ -179,59 +205,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8124_69917_sm.jpeg",
     "HallRating": 20.30,
     "BAR": 12.53,
-    "StylePlus": "120"
-  },
-  {
-    "BID": 24415,
-    "BeerName": "Special Reserve",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Arbor Brewing Company",
-    "Origin": "Ypsilanti, MI United States",
-    "BeerAbv": 9.30,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_24415_sm_edf06cf106f2a17d20b1e27576bed7.jpeg",
-    "HallRating": 20.28,
-    "BAR": 4.34,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 4940471,
-    "BeerName": "Takes 2 To Mango",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Summit Hard Cider and Perry Co.",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-97130_9a5aa.jpeg",
-    "HallRating": 20.28,
-    "BAR": 4.34,
-    "StylePlus": "108"
-  },
-  {
-    "BID": 3342711,
-    "BeerName": "Strawberry Dormie",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Bittersweet Brewing Company",
-    "Origin": "Grover Beach, CA United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-373830_469ea.jpeg",
-    "HallRating": 20.28,
-    "BAR": 4.34,
-    "StylePlus": "116"
-  },
-  {
-    "BID": 3347913,
-    "BeerName": "American Wheat",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Eight-Foot Brewing",
-    "Origin": "Cape Coral, FL United States",
-    "BeerAbv": 4.10,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-293984_53ddf.jpeg",
-    "HallRating": 20.28,
-    "BAR": 4.34,
-    "StylePlus": "115"
+    "StylePlus": "120",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.5054520123685757681635387203"
   },
   {
     "BID": 1675918,
@@ -244,46 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1675918_ed73f_sm.jpeg",
     "HallRating": 20.28,
     "BAR": 4.34,
-    "StylePlus": "116"
-  },
-  {
-    "BID": 1672640,
-    "BeerName": "Hoppy's Chills Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Hoppy Brewing Company",
-    "Origin": "Sacramento, CA United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-HoppyBrewingCompany_674.jpeg",
-    "HallRating": 20.28,
-    "BAR": 4.34,
-    "StylePlus": "121"
-  },
-  {
-    "BID": 4981866,
-    "BeerName": "SLG PINK  Strawberry Lemon Ginger Cider Spritz",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Whitewood Cider Co.",
-    "Origin": "Tenino, WA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-9380_4494c.jpeg",
-    "HallRating": 20.28,
-    "BAR": 4.34,
-    "StylePlus": "108"
-  },
-  {
-    "BID": 1671344,
-    "BeerName": "Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Сибирская пивоварня Йохохо",
-    "Origin": "Novosibirsk, Novosibirskaya oblast' Russia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 37.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1671344_3d325_sm.jpeg",
-    "HallRating": 20.28,
-    "BAR": 4.34,
-    "StylePlus": "119"
+    "StylePlus": "116",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.4904924990514523936506274669"
   },
   {
     "BID": 3337578,
@@ -296,32 +235,143 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-380759_53577.jpeg",
     "HallRating": 20.28,
     "BAR": 4.34,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.4905289972265436390883555805"
   },
   {
-    "BID": 4980347,
-    "BeerName": "Lil Miss Throw #&@! In Everything",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Bolero Snort Brewery",
-    "Origin": "Carlstadt, NJ United States",
-    "BeerAbv": 4.20,
+    "BID": 4981866,
+    "BeerName": "SLG PINK  Strawberry Lemon Ginger Cider Spritz",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Whitewood Cider Co.",
+    "Origin": "Tenino, WA United States",
+    "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980347_da5f3_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-9380_4494c.jpeg",
     "HallRating": 20.28,
     "BAR": 4.34,
-    "StylePlus": "112"
+    "StylePlus": "108",
+    "RatingScore": 3.86,
+    "AdjustedRating": "2.4905024985514773924006899638"
   },
   {
-    "BID": 3338895,
-    "BeerName": "Pineapple Punch",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Hawkes",
-    "Origin": "London, Greater London England",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3338895_c42d3_sm.jpeg",
+    "BID": 3339677,
+    "BeerName": "Jazz Session - Coffee Infused",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Cervejaria Soul Terê",
+    "Origin": "Teresópolis, Rio de Janeiro Brazil",
+    "BeerAbv": 4.70,
+    "BeerIbu": 42.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3339677_92b7f_sm.jpeg",
     "HallRating": 20.28,
-    "BAR": 12.50,
-    "StylePlus": "108"
+    "BAR": 4.34,
+    "StylePlus": "108",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.4904944989514573934006399663"
+  },
+  {
+    "BID": 4013802,
+    "BeerName": "Orange Creamsicle Dreamy",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Neon Desert Brewing",
+    "Origin": "United States",
+    "BeerAbv": 3.50,
+    "BeerIbu": 7.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-386889_bda48.jpeg",
+    "HallRating": 20.28,
+    "BAR": 4.34,
+    "StylePlus": "112",
+    "RatingScore": 4.48,
+    "AdjustedRating": "2.4905334970015548885258837041"
+  },
+  {
+    "BID": 3347913,
+    "BeerName": "American Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Eight-Foot Brewing",
+    "Origin": "Cape Coral, FL United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-293984_53ddf.jpeg",
+    "HallRating": 20.28,
+    "BAR": 4.34,
+    "StylePlus": "115",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.490488999226443644088105593"
+  },
+  {
+    "BID": 1672640,
+    "BeerName": "Hoppy's Chills Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Hoppy Brewing Company",
+    "Origin": "Sacramento, CA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-HoppyBrewingCompany_674.jpeg",
+    "HallRating": 20.28,
+    "BAR": 4.34,
+    "StylePlus": "121",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.490491999076451143713124342"
+  },
+  {
+    "BID": 7656,
+    "BeerName": "Br’er Rabbit Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Crispin Cider Company",
+    "Origin": "Colfax, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-BrerRabbit_7656.jpeg",
+    "HallRating": 20.28,
+    "BAR": 4.34,
+    "StylePlus": "109",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.4904874993014398942755962184"
+  },
+  {
+    "BID": 2016411,
+    "BeerName": "Amber 1-1",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "12 Gates Brewing Company",
+    "Origin": "Williamsville, NY United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220408_84c1e.jpeg",
+    "HallRating": 20.28,
+    "BAR": 4.34,
+    "StylePlus": "115",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.4904844994514323946505774694"
+  },
+  {
+    "BID": 3342711,
+    "BeerName": "Strawberry Dormie",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Bittersweet Brewing Company",
+    "Origin": "Grover Beach, CA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-373830_469ea.jpeg",
+    "HallRating": 20.28,
+    "BAR": 4.34,
+    "StylePlus": "116",
+    "RatingScore": 3.91,
+    "AdjustedRating": "2.490504998426483642088205588"
+  },
+  {
+    "BID": 4981783,
+    "BeerName": "The Carefree",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Harbor Mountain Brewing Company",
+    "Origin": "Sitka, AK United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 8.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-473434_ff439.jpeg",
+    "HallRating": 20.28,
+    "BAR": 4.34,
+    "StylePlus": "108",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.4904944989514573934006399663"
   }
 ]

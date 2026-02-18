@@ -1,18 +1,5 @@
 [
   {
-    "BID": 3343055,
-    "BeerName": "Greenwood Beach",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Temperance Beer Co.",
-    "Origin": "Evanston, IL United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-709016_aef07_sm.jpeg",
-    "HallRating": 20.49,
-    "BAR": 12.83,
-    "StylePlus": "116"
-  },
-  {
     "BID": 5272,
     "BeerName": "Stinger Wild Honey Wheat",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -23,7 +10,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-EstesParkBrewery_509.jpeg",
     "HallRating": 20.49,
     "BAR": 12.82,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.508176351355388233594235086"
+  },
+  {
+    "BID": 3343055,
+    "BeerName": "Greenwood Beach",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Temperance Beer Co.",
+    "Origin": "Evanston, IL United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-709016_aef07_sm.jpeg",
+    "HallRating": 20.49,
+    "BAR": 12.83,
+    "StylePlus": "116",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.5093628878197517552377073326"
   },
   {
     "BID": 1668798,
@@ -36,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1518161_39a70_sm.jpeg",
     "HallRating": 20.47,
     "BAR": 12.79,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.5087971190628697220598981935"
   },
   {
     "BID": 8154,
@@ -49,7 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8154_5d615_sm.jpeg",
     "HallRating": 20.47,
     "BAR": 12.80,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.5091064595870388697946081426"
   },
   {
     "BID": 1666805,
@@ -62,7 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-23693_9fb02.jpeg",
     "HallRating": 20.46,
     "BAR": 12.77,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.508800893498105892422778056"
   },
   {
     "BID": 12756,
@@ -75,7 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12756_dad10_sm.jpeg",
     "HallRating": 20.45,
     "BAR": 12.76,
-    "StylePlus": "108"
+    "StylePlus": "108",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.5104628553494584594591662859"
   },
   {
     "BID": 4010677,
@@ -88,7 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-818856_526d1_sm.jpeg",
     "HallRating": 20.43,
     "BAR": 12.74,
-    "StylePlus": "108"
+    "StylePlus": "108",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.5121379936714276248361540223"
   },
   {
     "BID": 4011155,
@@ -101,7 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4011155_32501_sm.jpeg",
     "HallRating": 20.43,
     "BAR": 12.73,
-    "StylePlus": "108"
+    "StylePlus": "108",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.5087583976983590259326801033"
   },
   {
     "BID": 4011644,
@@ -114,72 +130,69 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-205003_69709_sm.jpeg",
     "HallRating": 20.42,
     "BAR": 12.72,
-    "StylePlus": "108"
+    "StylePlus": "108",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.5071700782707006272568202765"
   },
   {
-    "BID": 4445580,
-    "BeerName": "Pineapple Cider",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Distillery Lane Ciderworks",
-    "Origin": "Jefferson, MD United States",
-    "BeerAbv": 4.50,
+    "BID": 15440,
+    "BeerName": "Orion Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Orion Breweries, Ltd.",
+    "Origin": "Urasoe, Okinawa Japan",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-DistilleryLaneCiderworks_27309.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-6919_9fc1e.jpeg",
     "HallRating": 20.41,
     "BAR": 4.26,
-    "StylePlus": "108"
+    "StylePlus": "109",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.4904838756923095815651856519"
   },
   {
-    "BID": 6008614,
-    "BeerName": "Kurbis Nacht",
-    "BeerStyle": "Lager - Munich Dunkel",
-    "BreweryName": "Freedom’s Edge Brewing Company",
-    "Origin": "Cheyenne, WY United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-26105_43f12.jpeg",
+    "BID": 3349536,
+    "BeerName": "Jobu Needs A Refill",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "NightLife Brewing Co.",
+    "Origin": "Miami, FL United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-77500_abf53.jpeg",
     "HallRating": 20.41,
     "BAR": 4.26,
-    "StylePlus": "115"
+    "StylePlus": "108",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.4904881504892567265757976479"
   },
   {
-    "BID": 14030,
-    "BeerName": "Cable Car Small Batch Winter Brew",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Winery Exchange, World Brews",
-    "Origin": "Novato, CA United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-WineryExchangeWorldBrews_34528_77069.jpeg",
+    "BID": 3347212,
+    "BeerName": "EP",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Dockery's",
+    "Origin": "Charleston, SC United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3347212_8693e_sm.jpeg",
     "HallRating": 20.41,
     "BAR": 4.26,
-    "StylePlus": "116"
+    "StylePlus": "120",
+    "RatingScore": 3.83,
+    "AdjustedRating": "2.4904976500380281599327131944"
   },
   {
-    "BID": 4979726,
-    "BeerName": "Golden Stone American Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Angry James Brewery",
-    "Origin": "Silverthorne, CO United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-380061_b156d.jpeg",
-    "HallRating": 20.41,
-    "BAR": 4.26,
-    "StylePlus": "121"
-  },
-  {
-    "BID": 4960137,
-    "BeerName": "Sparkl Tonic",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Old Irving Brewing Co.",
-    "Origin": "Chicago, IL United States",
+    "BID": 1670145,
+    "BeerName": "Fiamma",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Statale 343",
+    "Origin": "Provincia di Mantova, Lombardia Italy",
     "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4960137_e5ebb_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 20.41,
     "BAR": 4.26,
-    "StylePlus": "112"
+    "StylePlus": "115",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.4904895754215724415793349798"
   },
   {
     "BID": 4015516,
@@ -192,46 +205,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4015516_628e7_sm.jpeg",
     "HallRating": 20.41,
     "BAR": 4.26,
-    "StylePlus": "114"
+    "StylePlus": "114",
+    "RatingScore": 3.83,
+    "AdjustedRating": "2.4904976500380281599327131944"
   },
   {
-    "BID": 1666892,
-    "BeerName": "Malt House Amber",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Elk Street Brewery & Tap Room",
-    "Origin": "Sandusky, MI United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 24.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-171073_09ba7.jpeg",
+    "BID": 1669011,
+    "BeerName": "Four Saints Omie Dry Hopped W/ Mosaic",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Four Saints Brewing Company",
+    "Origin": "Asheboro, NC United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-24337_ebc57.jpeg",
     "HallRating": 20.41,
     "BAR": 4.26,
-    "StylePlus": "115"
-  },
-  {
-    "BID": 4940841,
-    "BeerName": "Orb Weaver",
-    "BeerStyle": "Hard Ginger Beer",
-    "BreweryName": "Hudson Brewing",
-    "Origin": "Wynnum, Queensland Australia",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940841_37b12_sm.jpeg",
-    "HallRating": 20.41,
-    "BAR": 4.26,
-    "StylePlus": "119"
-  },
-  {
-    "BID": 4445711,
-    "BeerName": "Buskey Rva Cider",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Brew Republic Bierwerks",
-    "Origin": "Woodbridge, VA United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-185381_0620e.jpeg",
-    "HallRating": 20.41,
-    "BAR": 4.26,
-    "StylePlus": "109"
+    "StylePlus": "116",
+    "RatingScore": 4.09,
+    "AdjustedRating": "2.4905099994514310232967034048"
   },
   {
     "BID": 6008391,
@@ -244,59 +235,129 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6008391_5955f_sm.jpeg",
     "HallRating": 20.41,
     "BAR": 4.26,
-    "StylePlus": "119"
+    "StylePlus": "119",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.4904957501282738732613300851"
   },
   {
-    "BID": 2014213,
-    "BeerName": "Surly Bird",
+    "BID": 1666892,
+    "BeerName": "Malt House Amber",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Elk Street Brewery & Tap Room",
+    "Origin": "Sandusky, MI United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 24.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-171073_09ba7.jpeg",
+    "HallRating": 20.41,
+    "BAR": 4.26,
+    "StylePlus": "115",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.4904843506697481532330314293"
+  },
+  {
+    "BID": 30590,
+    "BeerName": "80 Shilling Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "The Beer Joint",
+    "Origin": "Leesburg, VA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1328_17c7d.jpeg",
+    "HallRating": 20.41,
+    "BAR": 4.26,
+    "StylePlus": "111",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.4904834007148710098973398746"
+  },
+  {
+    "BID": 3340864,
+    "BeerName": "Sour-son 2019",
     "BeerStyle": "Sour - Other",
-    "BreweryName": "Barrel Brothers Brewing Company",
-    "Origin": "Windsor, CA United States",
-    "BeerAbv": 6.90,
+    "BreweryName": "Platypus Brewing",
+    "Origin": "Houston, TX United States",
+    "BeerAbv": 6.30,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-270290_e1584.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-286564_07f17.jpeg",
     "HallRating": 20.41,
     "BAR": 4.26,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 4.03,
+    "AdjustedRating": "2.4905071495867995932896287409"
   },
   {
-    "BID": 4980038,
-    "BeerName": "Acadie Rock",
+    "BID": 3347598,
+    "BeerName": "Single Hop Series: Mandarina Bavaria",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Twisted Barrel",
+    "Origin": "Coventry, West Midlands England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-74497_062a7.jpeg",
+    "HallRating": 20.41,
+    "BAR": 4.26,
+    "StylePlus": "120",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.4904843506697481532330314293"
+  },
+  {
+    "BID": 2014633,
+    "BeerName": "Puesta Del Sol",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Dark Sky Brewing Company",
+    "Origin": "Flagstaff, AZ United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 27.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-172224_e3893.jpeg",
+    "HallRating": 20.41,
+    "BAR": 4.26,
+    "StylePlus": "115",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.4904943251959581582577927531"
+  },
+  {
+    "BID": 4816296,
+    "BeerName": "Fools Gold",
     "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Flying Boats Brewing",
-    "Origin": "Dieppe, NB Canada",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-212353_5d563.jpeg",
-    "HallRating": 20.41,
-    "BAR": 4.26,
-    "StylePlus": "116"
-  },
-  {
-    "BID": 3345460,
-    "BeerName": "Piper's Pale Ale",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "McGuire’s Irish Pub",
-    "Origin": "Pensacola, FL United States",
+    "BreweryName": "Rusty Truck Brewing",
+    "Origin": "Lincoln City, OR United States",
     "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-840_6c225.jpeg",
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-rustytruckbrewing_13557.jpeg",
     "HallRating": 20.41,
     "BAR": 4.26,
-    "StylePlus": "114"
+    "StylePlus": "116",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.4904853006246252965687229839"
   },
   {
-    "BID": 3337143,
-    "BeerName": "Ticker IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Marshall Brewing Company",
-    "Origin": "Tulsa, OK United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 62.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3337143_c690e_sm.jpeg",
+    "BID": 14030,
+    "BeerName": "Cable Car Small Batch Winter Brew",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Winery Exchange, World Brews",
+    "Origin": "Novato, CA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-WineryExchangeWorldBrews_34528_77069.jpeg",
     "HallRating": 20.41,
     "BAR": 4.26,
-    "StylePlus": "108"
+    "StylePlus": "116",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.4904834007148710098973398746"
+  },
+  {
+    "BID": 6008614,
+    "BeerName": "Kurbis Nacht",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "Freedom’s Edge Brewing Company",
+    "Origin": "Cheyenne, WY United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-26105_43f12.jpeg",
+    "HallRating": 20.41,
+    "BAR": 4.26,
+    "StylePlus": "115",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.4904872005343795832401060932"
   },
   {
     "BID": 16472,
@@ -309,19 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-hunterbeerco_2119.jpeg",
     "HallRating": 20.41,
     "BAR": 4.26,
-    "StylePlus": "116"
-  },
-  {
-    "BID": 4941246,
-    "BeerName": "Fluid Dynamics",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Mr Winter's Beers",
-    "Origin": "Norwich, Norfolk England",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3224_6dc09.jpeg",
-    "HallRating": 20.41,
-    "BAR": 4.26,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.97,
+    "AdjustedRating": "2.4905042997221681632825540769"
   }
 ]

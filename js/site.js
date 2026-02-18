@@ -77,7 +77,7 @@
     loadBeers: function (tableEl, paginationEl, pageSize) {
       if (!tableEl) return;
       pageSize = pageSize || DEFAULT_PAGE_SIZE;
-      var colspan = 8;
+      var colspan = 10;
       tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="loading">Loading beers…</td></tr>';
       if (paginationEl) paginationEl.innerHTML = '';
       var currentChunk = [];
@@ -215,6 +215,9 @@
         var styleHref = 'beers.html?style=' + encodeURIComponent(m.BeerStyle || '');
         var stylePlusText = (m.StylePlus != null && m.StylePlus !== '') ? m.StylePlus : '—';
         var abvText = (m.BeerAbv != null && m.BeerAbv !== '') ? m.BeerAbv : '—';
+        var ratingScoreText = (m.RatingScore != null && m.RatingScore !== '') ? m.RatingScore : '—';
+        var adjNum = (m.AdjustedRating != null && m.AdjustedRating !== '') ? parseFloat(m.AdjustedRating, 10) : NaN;
+        var adjustedRatingText = (adjNum === adjNum) ? adjNum.toFixed(2) : '—';
         var tapText = (m.HallRating != null && m.HallRating !== '') ? m.HallRating : '—';
         return '<tr class="beer-card-row">' +
           '<td class="beers-col-num" data-label="#">' + rowNum + '</td>' +
@@ -224,6 +227,8 @@
           '<td data-label="Origin"><a href="beers.html">' + originText + '</a></td>' +
           '<td data-label="ABV">' + abvText + '</td>' +
           '<td data-label="Style+">' + stylePlusText + '</td>' +
+          '<td data-label="Untappd Rating">' + ratingScoreText + '</td>' +
+          '<td data-label="Adjusted Rating">' + adjustedRatingText + '</td>' +
           '<td data-label="TAP">' + tapText + '</td></tr>';
       }
 
@@ -531,6 +536,9 @@
     var stylePlusDesc = styleText ? 'Style' : '—';
     var abv = beer.BeerAbv != null && beer.BeerAbv !== '' ? beer.BeerAbv : '—';
     var abvDesc = (beer.BeerAbv != null && beer.BeerAbv !== '') ? 'ABV' : '—';
+    var ratingScore = beer.RatingScore != null && beer.RatingScore !== '' ? beer.RatingScore : '—';
+    var adjNum = (beer.AdjustedRating != null && beer.AdjustedRating !== '') ? parseFloat(beer.AdjustedRating, 10) : NaN;
+    var adjustedRating = (adjNum === adjNum) ? adjNum.toFixed(2) : '—';
     return (
       '<header class="beer-header">' +
         '<div class="beer-label-triage">' + labelImg + '</div>' +
@@ -541,6 +549,8 @@
       '</header>' +
       '<div class="beer-stats">' +
         '<div class="beer-stat"><span class="beer-stat-label">Hall Rating</span><span class="beer-stat-value">' + (bar != null ? bar : '—') + '</span><span class="beer-stat-desc">' + barDesc + '</span></div>' +
+        '<div class="beer-stat"><span class="beer-stat-label">Untappd Rating</span><span class="beer-stat-value">' + ratingScore + '</span><span class="beer-stat-desc">Rating score</span></div>' +
+        '<div class="beer-stat"><span class="beer-stat-label">Adjusted Rating</span><span class="beer-stat-value">' + adjustedRating + '</span><span class="beer-stat-desc">Adjusted</span></div>' +
         '<div class="beer-stat"><span class="beer-stat-label">Style</span><span class="beer-stat-value">' + (styleText || '—') + '</span><span class="beer-stat-desc">' + stylePlusDesc + '</span></div>' +
         '<div class="beer-stat"><span class="beer-stat-label">ABV</span><span class="beer-stat-value">' + abv + '</span><span class="beer-stat-desc">' + abvDesc + '</span></div>' +
       '</div>'
