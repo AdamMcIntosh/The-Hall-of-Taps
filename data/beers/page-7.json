@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-198572_c27e7_sm.jpeg",
     "HallRating": 24.31,
     "BAR": 17.87,
-    "StylePlus": "108"
+    "StylePlus": "108",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.8729778798205317832554670757"
   },
   {
     "BID": 3336713,
@@ -23,20 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-198572_c27e7_sm.jpeg",
     "HallRating": 24.31,
     "BAR": 17.87,
-    "StylePlus": "108"
-  },
-  {
-    "BID": 4013874,
-    "BeerName": "Oracle 8",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Last Days of Autumn Brewing",
-    "Origin": "Knoxville, TN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-170382_259ea.jpeg",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "132"
+    "StylePlus": "108",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.9163797073107279297522115663"
   },
   {
     "BID": 3340613,
@@ -49,20 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-403719_89619.jpeg",
     "HallRating": 24.29,
     "BAR": 4.18,
-    "StylePlus": "127"
-  },
-  {
-    "BID": 6009977,
-    "BeerName": "100% Hardcore",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "HARD CORE BEER",
-    "Origin": "Netherlands",
-    "BeerAbv": 4.70,
-    "BeerIbu": 26.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6009977_ddbeb_sm.jpeg",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "132"
+    "StylePlus": "127",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.4904694334198188221585898441"
   },
   {
     "BID": 4816977,
@@ -75,33 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816977_c5629_sm.jpeg",
     "HallRating": 24.29,
     "BAR": 4.18,
-    "StylePlus": "127"
-  },
-  {
-    "BID": 4961106,
-    "BeerName": "KELLERBIER: Festbier",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Little House Brewing Company",
-    "Origin": "Chester, CT United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-368111_57256.jpeg",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 4939027,
-    "BeerName": "Stills & Mash",
-    "BeerStyle": "Lager - Strong",
-    "BreweryName": "Hercynian Distilling Co.",
-    "Origin": "Germany",
-    "BeerAbv": 7.00,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.4904681334620674490782149563"
   },
   {
     "BID": 1674320,
@@ -114,7 +70,39 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-258349_29b21.jpeg",
     "HallRating": 24.29,
     "BAR": 4.18,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.4904723583247594115894333417"
+  },
+  {
+    "BID": 6009977,
+    "BeerName": "100% Hardcore",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "HARD CORE BEER",
+    "Origin": "Netherlands",
+    "BeerAbv": 4.70,
+    "BeerIbu": 26.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6009977_ddbeb_sm.jpeg",
+    "HallRating": 24.29,
+    "BAR": 4.18,
+    "StylePlus": "132",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.4904687834409431356184024002"
+  },
+  {
+    "BID": 4013874,
+    "BeerName": "Oracle 8",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Last Days of Autumn Brewing",
+    "Origin": "Knoxville, TN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-170382_259ea.jpeg",
+    "HallRating": 24.29,
+    "BAR": 4.18,
+    "StylePlus": "132",
+    "RatingScore": 3.90,
+    "AdjustedRating": "2.4904798330818298068015889466"
   },
   {
     "BID": 4010289,
@@ -127,7 +115,39 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-215616_5ef14.jpeg",
     "HallRating": 24.29,
     "BAR": 4.18,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.4904730083036350981296207856"
+  },
+  {
+    "BID": 4961106,
+    "BeerName": "KELLERBIER: Festbier",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Little House Brewing Company",
+    "Origin": "Chester, CT United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-368111_57256.jpeg",
+    "HallRating": 24.29,
+    "BAR": 4.18,
+    "StylePlus": "132",
+    "RatingScore": 4.02,
+    "AdjustedRating": "2.4904837329550839260427136101"
+  },
+  {
+    "BID": 4939027,
+    "BeerName": "Stills & Mash",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Hercynian Distilling Co.",
+    "Origin": "Germany",
+    "BeerAbv": 7.00,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 24.29,
+    "BAR": 4.18,
+    "StylePlus": "127",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.4904710583670080385090584539"
   },
   {
     "BID": 3342664,
@@ -140,7 +160,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5839_f51fd_sm.jpeg",
     "HallRating": 24.21,
     "BAR": 17.75,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.8561580929057723569316416726"
   },
   {
     "BID": 9954,
@@ -153,7 +175,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9954_5d2be_sm.jpeg",
     "HallRating": 24.14,
     "BAR": 17.66,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.93,
+    "AdjustedRating": "2.967726494013325467675783168"
   },
   {
     "BID": 12591,
@@ -166,7 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12591_dde71_sm.jpeg",
     "HallRating": 24.13,
     "BAR": 15.97,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.5343586352552325745360991865"
   },
   {
     "BID": 9254,
@@ -179,7 +205,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9254_014d1_sm.jpeg",
     "HallRating": 24.06,
     "BAR": 17.56,
-    "StylePlus": "119"
+    "StylePlus": "119",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.8573687772172707669494730606"
   },
   {
     "BID": 4590,
@@ -192,7 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4590_3e544_sm.jpeg",
     "HallRating": 24.06,
     "BAR": 17.56,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.8861870149222538012284213481"
   },
   {
     "BID": 2014545,
@@ -205,7 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2014545_b6af9_sm.jpeg",
     "HallRating": 24.04,
     "BAR": 15.85,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.5312150271102010529465259868"
   },
   {
     "BID": 1676867,
@@ -218,7 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-33040_d0fa8_sm.jpeg",
     "HallRating": 24.03,
     "BAR": 17.53,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.831066039792761636742839761"
   },
   {
     "BID": 21857,
@@ -231,7 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-SchofferhoferGrapefruit_21857.jpeg",
     "HallRating": 24.02,
     "BAR": 17.52,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.8755493313058607339502564089"
   },
   {
     "BID": 3344159,
@@ -244,7 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-SchofferhoferGrapefruit_21857.jpeg",
     "HallRating": 24.02,
     "BAR": 17.52,
-    "StylePlus": "117"
+    "StylePlus": "117",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.8284028397383572207215171743"
   },
   {
     "BID": 1667795,
@@ -257,7 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4617_079d1.jpeg",
     "HallRating": 23.99,
     "BAR": 4.30,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.4904693572489012547263945744"
   },
   {
     "BID": 4980757,
@@ -270,7 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1046722_476e9_sm.jpeg",
     "HallRating": 23.98,
     "BAR": 17.46,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.8801861453035399121655726283"
   },
   {
     "BID": 6890,
@@ -283,7 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6890_30d57_sm.jpeg",
     "HallRating": 23.97,
     "BAR": 17.46,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.8222177058871333247938371612"
   },
   {
     "BID": 4445945,
@@ -296,7 +340,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18974_09f64_sm.jpeg",
     "HallRating": 23.75,
     "BAR": 17.18,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.7896539432413246142026927113"
   },
   {
     "BID": 18974,
@@ -309,19 +355,23 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18974_09f64_sm.jpeg",
     "HallRating": 23.75,
     "BAR": 17.18,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.8400632944005778454873074477"
   },
   {
-    "BID": 1670625,
-    "BeerName": "Summer Citrus Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Barley Creek Brewing Company",
-    "Origin": "Tannersville, PA United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 19.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BarleyCreekBrewingCompany_76.jpeg",
+    "BID": 3341787,
+    "BeerName": "Seafoam Cruiser With Pomegranate And Black Currant Puree",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Sole Syndicate Brewing",
+    "Origin": "Ludlow, MA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 8.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-138510_5e51c.jpeg",
     "HallRating": 23.73,
     "BAR": 4.41,
-    "StylePlus": "132"
+    "StylePlus": "127",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.4904823805871329487847305709"
   }
 ]

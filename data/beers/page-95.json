@@ -1,29 +1,33 @@
 [
   {
-    "BID": 4446623,
-    "BeerName": "PLOP - Bomb Plop",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Drekker Brewing Company",
-    "Origin": "Fargo, ND United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4446623_73e11_sm.jpeg",
-    "HallRating": 19.37,
-    "BAR": 10.97,
-    "StylePlus": "112"
-  },
-  {
-    "BID": 1676389,
-    "BeerName": "Basketcase American Helles",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Starr Hill Brewery",
-    "Origin": "Crozet, VA United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1655947_17988_sm.jpeg",
+    "BID": 2015944,
+    "BeerName": "Juicebox Series: Boysenberry Wheat Ale",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "The Dudes’ Brewing Company",
+    "Origin": "Torrance, CA United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1998421_b4563_sm.jpeg",
     "HallRating": 19.37,
     "BAR": 10.98,
-    "StylePlus": "119"
+    "StylePlus": "115",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.4955648115397161108756334489"
+  },
+  {
+    "BID": 4816654,
+    "BeerName": "Eastern Edge",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "Adnams",
+    "Origin": "Southwold, Suffolk England",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4812835_31fca_sm.jpeg",
+    "HallRating": 19.37,
+    "BAR": 10.97,
+    "StylePlus": "114",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.4953592748315433251189145198"
   },
   {
     "BID": 3340393,
@@ -36,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2897033_bc61b_sm.jpeg",
     "HallRating": 19.36,
     "BAR": 10.96,
-    "StylePlus": "119"
+    "StylePlus": "119",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.496353414036005788269556021"
   },
   {
     "BID": 9998,
@@ -49,7 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9998_63bfb_sm.jpeg",
     "HallRating": 19.36,
     "BAR": 10.96,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.495996739530438210471890431"
   },
   {
     "BID": 1667509,
@@ -62,20 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1667509_5d166_sm.jpeg",
     "HallRating": 19.36,
     "BAR": 10.95,
-    "StylePlus": "116"
-  },
-  {
-    "BID": 1667818,
-    "BeerName": "Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Neepsend Brew Co.",
-    "Origin": "Sheffield, South Yorkshire England",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1118232_0162a_sm.jpeg",
-    "HallRating": 19.35,
-    "BAR": 10.93,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.4955271276498561610126190482"
   },
   {
     "BID": 1677017,
@@ -88,20 +85,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1677017_9ea73_sm.jpeg",
     "HallRating": 19.35,
     "BAR": 10.94,
-    "StylePlus": "109"
+    "StylePlus": "109",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.4967459455162922522271863195"
   },
   {
-    "BID": 3341895,
-    "BeerName": "Black Razz",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Axemann Brewery",
-    "Origin": "Bellefonte, PA United States",
-    "BeerAbv": 5.00,
+    "BID": 1667818,
+    "BeerName": "Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Neepsend Brew Co.",
+    "Origin": "Sheffield, South Yorkshire England",
+    "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3341895_21c39_sm.jpeg",
-    "HallRating": 19.34,
-    "BAR": 10.92,
-    "StylePlus": "115"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1118232_0162a_sm.jpeg",
+    "HallRating": 19.35,
+    "BAR": 10.93,
+    "StylePlus": "116",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.4954615358044572164906906307"
   },
   {
     "BID": 6662,
@@ -114,20 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6662_3a7d6_sm.jpeg",
     "HallRating": 19.34,
     "BAR": 10.93,
-    "StylePlus": "112"
-  },
-  {
-    "BID": 1667178,
-    "BeerName": "Vanilla Frambozen",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "The Brew Kettle",
-    "Origin": "Strongsville, OH United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30934_f48e0_sm.jpeg",
-    "HallRating": 19.34,
-    "BAR": 10.92,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.4954798491912384958002169698"
   },
   {
     "BID": 1669811,
@@ -140,7 +130,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1348886_bab68_sm.jpeg",
     "HallRating": 19.34,
     "BAR": 10.92,
-    "StylePlus": "109"
+    "StylePlus": "109",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.4963512457962466819315928799"
+  },
+  {
+    "BID": 3341895,
+    "BeerName": "Black Razz",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Axemann Brewery",
+    "Origin": "Bellefonte, PA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3341895_21c39_sm.jpeg",
+    "HallRating": 19.34,
+    "BAR": 10.92,
+    "StylePlus": "115",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.4954011840992972760998795655"
   },
   {
     "BID": 6010876,
@@ -153,46 +160,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1222684_05466_sm.jpeg",
     "HallRating": 19.34,
     "BAR": 10.91,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.4967372839713693157561243846"
   },
   {
-    "BID": 19666,
-    "BeerName": "Nikka Cidre Rose",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Asahi Breweries",
-    "Origin": "Sumida-ku, Tokyo Japan",
-    "BeerAbv": 3.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-50_09b01.jpeg",
-    "HallRating": 19.33,
-    "BAR": 5.02,
-    "StylePlus": "109"
-  },
-  {
-    "BID": 4961896,
-    "BeerName": "OMBF 2022 III - Espresso ICE Imperial Stout Bourbon Barrel Aged",
-    "BeerStyle": "Freeze-Distilled Beer",
-    "BreweryName": "Trzech Kumpli",
-    "Origin": "Tarnów, Województwo małopolskie Poland",
-    "BeerAbv": 18.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-150195_89da5.jpeg",
-    "HallRating": 19.33,
-    "BAR": 5.02,
-    "StylePlus": "127"
-  },
-  {
-    "BID": 3349539,
-    "BeerName": "Moneda",
-    "BeerStyle": "Hard Kombucha / Jun",
-    "BreweryName": "HoneyMoon Bev Co.",
-    "Origin": "Santa Fe, NM United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 5.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-417373_4dd6c.jpeg",
-    "HallRating": 19.33,
-    "BAR": 5.02,
-    "StylePlus": "108"
+    "BID": 1667178,
+    "BeerName": "Vanilla Frambozen",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "The Brew Kettle",
+    "Origin": "Strongsville, OH United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30934_f48e0_sm.jpeg",
+    "HallRating": 19.34,
+    "BAR": 10.92,
+    "StylePlus": "112",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.4959608131485083631507777122"
   },
   {
     "BID": 1670983,
@@ -205,7 +190,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-181533_b8530.jpeg",
     "HallRating": 19.33,
     "BAR": 5.02,
-    "StylePlus": "117"
+    "StylePlus": "117",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.4905371807019488103654807598"
+  },
+  {
+    "BID": 6008068,
+    "BeerName": "The Temptress",
+    "BeerStyle": "Other",
+    "BreweryName": "Burnish Beer Co.",
+    "Origin": "Salisbury, MD United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6008068_b5b71_sm.jpeg",
+    "HallRating": 19.33,
+    "BAR": 5.02,
+    "StylePlus": "113",
+    "RatingScore": 3.83,
+    "AdjustedRating": "2.4905411803819744083176445867"
   },
   {
     "BID": 16881,
@@ -218,7 +220,39 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-604_427db.jpeg",
     "HallRating": 19.33,
     "BAR": 5.02,
-    "StylePlus": "111"
+    "StylePlus": "111",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.4905363807659436907750479944"
+  },
+  {
+    "BID": 4980120,
+    "BeerName": "Summer Pilsner: Evergreen",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Bierstaat",
+    "Origin": "Viciebsk, Viciebskaja voblasć Belarus",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980120_26dd5_sm.jpeg",
+    "HallRating": 19.33,
+    "BAR": 5.02,
+    "StylePlus": "119",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.4905315811499129732324514021"
+  },
+  {
+    "BID": 4960918,
+    "BeerName": "Apricot Cider",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Begyle Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-34911_8f1c4.jpeg",
+    "HallRating": 19.33,
+    "BAR": 5.02,
+    "StylePlus": "108",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.4905387805739590495463462905"
   },
   {
     "BID": 1669358,
@@ -231,7 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-232224_86d57.jpeg",
     "HallRating": 19.33,
     "BAR": 5.02,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.4905147824938054618333633292"
   },
   {
     "BID": 3350477,
@@ -244,7 +280,84 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-8663_84a32.jpeg",
     "HallRating": 19.33,
     "BAR": 5.02,
-    "StylePlus": "111"
+    "StylePlus": "111",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.4905171823018208206046616253"
+  },
+  {
+    "BID": 1673728,
+    "BeerName": "Light Lab Rat Ale W/Apple Pie",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "R.Shea Brewing",
+    "Origin": "Akron, OH United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-200442_29cb6.jpeg",
+    "HallRating": 19.33,
+    "BAR": 5.02,
+    "StylePlus": "116",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.490529181341897614461153106"
+  },
+  {
+    "BID": 11459,
+    "BeerName": "Big Reg Lager",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Holgate Brewhouse",
+    "Origin": "Woodend, Victoria Australia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_11459_9b273f6347869cec98d66ce14526.jpeg",
+    "HallRating": 19.33,
+    "BAR": 5.02,
+    "StylePlus": "115",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.4905259815978771360994220445"
+  },
+  {
+    "BID": 6007211,
+    "BeerName": "Gaffer - English Pale Ale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Holgate Brewhouse",
+    "Origin": "Woodend, Victoria Australia",
+    "BeerAbv": 4.60,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3143_22933.jpeg",
+    "HallRating": 19.33,
+    "BAR": 5.02,
+    "StylePlus": "120",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.4905187821738310597855271561"
+  },
+  {
+    "BID": 16597,
+    "BeerName": "Dr. Funk Dunkel",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "Phillips Brewing & Malting Co.",
+    "Origin": "Victoria, BC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16597_8b206_sm.jpeg",
+    "HallRating": 19.33,
+    "BAR": 10.89,
+    "StylePlus": "115",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.4954527660017319516639849081"
+  },
+  {
+    "BID": 3345506,
+    "BeerName": "Summer Bine Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Bent Bine Brew Co.",
+    "Origin": "Belfair, WA United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 19.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-310955_7cfc6.jpeg",
+    "HallRating": 19.33,
+    "BAR": 5.02,
+    "StylePlus": "116",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.4905179822378259401950943907"
   },
   {
     "BID": 1676898,
@@ -257,71 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-blackrocksbrewery_9793.jpeg",
     "HallRating": 19.33,
     "BAR": 5.02,
-    "StylePlus": "111"
-  },
-  {
-    "BID": 3348095,
-    "BeerName": "Mango Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Brick & Forge Brew Works (Abilene, TX)",
-    "Origin": "Abilene, TX United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-283291_8578a.jpeg",
-    "HallRating": 19.33,
-    "BAR": 5.02,
-    "StylePlus": "116"
-  },
-  {
-    "BID": 6012163,
-    "BeerName": "Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Roche Winery & Vineyards",
-    "Origin": "Sonoma, CA United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-567148_437ca.jpeg",
-    "HallRating": 19.33,
-    "BAR": 5.02,
-    "StylePlus": "119"
-  },
-  {
-    "BID": 3349563,
-    "BeerName": "Raspberry Pfizz",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Chatham Brewing",
-    "Origin": "Chatham, NY United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3349563_21a7a_sm.jpeg",
-    "HallRating": 19.33,
-    "BAR": 5.02,
-    "StylePlus": "112"
-  },
-  {
-    "BID": 4941135,
-    "BeerName": "Raspberry Hardtop Lemonade",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Big Truck Farm Brewery",
-    "Origin": "Parkton, MD United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-479318_dc3ad.jpeg",
-    "HallRating": 19.33,
-    "BAR": 5.02,
-    "StylePlus": "112"
-  },
-  {
-    "BID": 1671656,
-    "BeerName": "Strawberry Rhubarb Cider",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Toboggan Brewing Co.",
-    "Origin": "London, ON Canada",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-185009_afb3f.jpeg",
-    "HallRating": 19.33,
-    "BAR": 5.02,
-    "StylePlus": "109"
+    "StylePlus": "111",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.490529181341897614461153106"
   }
 ]

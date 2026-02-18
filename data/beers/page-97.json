@@ -1,29 +1,18 @@
 [
   {
-    "BID": 6008560,
-    "BeerName": "Urbanrest Lager Collab",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Ascension Brewing Company",
-    "Origin": "Novi, MI United States",
-    "BeerAbv": 5.50,
+    "BID": 4961896,
+    "BeerName": "OMBF 2022 III - Espresso ICE Imperial Stout Bourbon Barrel Aged",
+    "BeerStyle": "Freeze-Distilled Beer",
+    "BreweryName": "Trzech Kumpli",
+    "Origin": "Tarnów, Województwo małopolskie Poland",
+    "BeerAbv": 18.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-211260_ffd67.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-150195_89da5.jpeg",
     "HallRating": 19.33,
     "BAR": 5.02,
-    "StylePlus": "121"
-  },
-  {
-    "BID": 4010989,
-    "BeerName": "Grahamas Pie (Blueberry)",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Cactus Land Brewing Co.",
-    "Origin": "Adkins, TX United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-167945_7cdb2.jpeg",
-    "HallRating": 19.33,
-    "BAR": 5.02,
-    "StylePlus": "104"
+    "StylePlus": "127",
+    "RatingScore": 4.13,
+    "AdjustedRating": "2.490565178462127996030627548"
   },
   {
     "BID": 6008775,
@@ -36,33 +25,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6008775_bbe49_sm.jpeg",
     "HallRating": 19.33,
     "BAR": 10.90,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.4959340101990304697383752452"
   },
   {
-    "BID": 4632206,
-    "BeerName": "Lager of the Plains",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Baere Brewing Co",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 4.90,
+    "BID": 6008560,
+    "BeerName": "Urbanrest Lager Collab",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Ascension Brewing Company",
+    "Origin": "Novi, MI United States",
+    "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-72447_fe348.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-211260_ffd67.jpeg",
     "HallRating": 19.33,
     "BAR": 5.02,
-    "StylePlus": "121"
+    "StylePlus": "121",
+    "RatingScore": 3.92,
+    "AdjustedRating": "2.4905483798060204846315394751"
   },
   {
-    "BID": 1672778,
-    "BeerName": "Euro Spliff",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Separatist Beer Project",
-    "Origin": "Easton, PA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1641379_d9225_sm.jpeg",
-    "HallRating": 19.32,
-    "BAR": 10.88,
-    "StylePlus": "119"
+    "BID": 6009071,
+    "BeerName": "Helles",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Beer Kitchen",
+    "Origin": "London, ON Canada",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-554844_5d552.jpeg",
+    "HallRating": 19.33,
+    "BAR": 5.02,
+    "StylePlus": "119",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.4905307812139078536420186368"
   },
   {
     "BID": 3337909,
@@ -75,33 +70,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3424889_2c62a_sm.jpeg",
     "HallRating": 19.32,
     "BAR": 10.88,
-    "StylePlus": "117"
+    "StylePlus": "117",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.4951406900573167391457829899"
   },
   {
-    "BID": 4980508,
-    "BeerName": "Holy Mountain",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "L'Ermitage",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3844415_c8ca9_sm.jpeg",
-    "HallRating": 19.32,
-    "BAR": 10.87,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 10082,
-    "BeerName": "Dearfield Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Crabtree Brewing Company",
-    "Origin": "Greeley, CO United States",
+    "BID": 1672778,
+    "BeerName": "Euro Spliff",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Separatist Beer Project",
+    "Origin": "Easton, PA United States",
     "BeerAbv": 5.00,
-    "BeerIbu": 11.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10082_be82d_sm.jpeg",
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1641379_d9225_sm.jpeg",
     "HallRating": 19.32,
     "BAR": 10.88,
-    "StylePlus": "116"
+    "StylePlus": "119",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.4959665573454028402195013894"
   },
   {
     "BID": 3334666,
@@ -114,20 +100,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-505002_e4641_sm.jpeg",
     "HallRating": 19.32,
     "BAR": 10.87,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.4957971949882959246345417289"
   },
   {
-    "BID": 4011743,
-    "BeerName": "Dragon Fruit",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Maui Hard Seltzer",
-    "Origin": "Kihei, HI United States",
-    "BeerAbv": 5.00,
+    "BID": 4980508,
+    "BeerName": "Holy Mountain",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "L'Ermitage",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 3.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3658411_594a3_sm.jpeg",
-    "HallRating": 19.31,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3844415_c8ca9_sm.jpeg",
+    "HallRating": 19.32,
     "BAR": 10.87,
-    "StylePlus": "112"
+    "StylePlus": "104",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.4956153256763781092562819305"
+  },
+  {
+    "BID": 10082,
+    "BeerName": "Dearfield Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Crabtree Brewing Company",
+    "Origin": "Greeley, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 11.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10082_be82d_sm.jpeg",
+    "HallRating": 19.32,
+    "BAR": 10.88,
+    "StylePlus": "116",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.4953103024909962036575583809"
   },
   {
     "BID": 24470,
@@ -140,33 +145,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-304160_367e2_sm.jpeg",
     "HallRating": 19.31,
     "BAR": 10.86,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.4951271719516044401343009435"
   },
   {
-    "BID": 17480,
-    "BeerName": "Setembre",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Ales Agullons",
-    "Origin": "Sant Joan de Mediona, Catalunya Spain",
-    "BeerAbv": 5.50,
+    "BID": 4011743,
+    "BeerName": "Dragon Fruit",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Maui Hard Seltzer",
+    "Origin": "Kihei, HI United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_17480_sm_99a8ead86fb548e978e1fa3ccbd906.jpeg",
-    "HallRating": 19.30,
-    "BAR": 10.84,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 4941736,
-    "BeerName": "Magic Mountain",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Arbor Ales",
-    "Origin": "Bristol, Bristol City England",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941736_95813_sm.jpeg",
-    "HallRating": 19.30,
-    "BAR": 10.85,
-    "StylePlus": "125"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3658411_594a3_sm.jpeg",
+    "HallRating": 19.31,
+    "BAR": 10.87,
+    "StylePlus": "112",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.495145200152709755110170945"
   },
   {
     "BID": 3345988,
@@ -179,7 +175,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345988_b1817_sm.jpeg",
     "HallRating": 19.30,
     "BAR": 10.84,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.4962075723846385168886942004"
   },
   {
     "BID": 4961218,
@@ -192,7 +190,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1164261_47a76_sm.jpeg",
     "HallRating": 19.30,
     "BAR": 10.84,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.495594217524072362808555754"
+  },
+  {
+    "BID": 17480,
+    "BeerName": "Setembre",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Ales Agullons",
+    "Origin": "Sant Joan de Mediona, Catalunya Spain",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_17480_sm_99a8ead86fb548e978e1fa3ccbd906.jpeg",
+    "HallRating": 19.30,
+    "BAR": 10.84,
+    "StylePlus": "104",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.4958965851651056821636546892"
+  },
+  {
+    "BID": 4941736,
+    "BeerName": "Magic Mountain",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Arbor Ales",
+    "Origin": "Bristol, Bristol City England",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941736_95813_sm.jpeg",
+    "HallRating": 19.30,
+    "BAR": 10.85,
+    "StylePlus": "125",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.4959392369581855268632425648"
   },
   {
     "BID": 1675137,
@@ -205,7 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1675137_4331e_sm.jpeg",
     "HallRating": 19.29,
     "BAR": 10.82,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.4958447897059048667592341832"
   },
   {
     "BID": 3341756,
@@ -218,59 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 19.29,
     "BAR": 10.82,
-    "StylePlus": "116"
-  },
-  {
-    "BID": 4940598,
-    "BeerName": "Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Brauerei Fahr",
-    "Origin": "Turner Valley, AB Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 34.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-232278_f01b0.jpeg",
-    "HallRating": 19.28,
-    "BAR": 10.81,
-    "StylePlus": "121"
-  },
-  {
-    "BID": 4011355,
-    "BeerName": "Vienna Lager",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Cervejaria São Joaquim",
-    "Origin": "São Joaquim, Santa Catarina Brazil",
-    "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-449683_da8b1.jpeg",
-    "HallRating": 19.28,
-    "BAR": 5.06,
-    "StylePlus": "115"
-  },
-  {
-    "BID": 3334604,
-    "BeerName": "Peach Cider",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Independent Brewing Company",
-    "Origin": "Bel Air, MD United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-137193_f00ae.jpeg",
-    "HallRating": 19.28,
-    "BAR": 5.06,
-    "StylePlus": "108"
-  },
-  {
-    "BID": 4961815,
-    "BeerName": "Breaking Bat",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Brasserie des Grottes",
-    "Origin": "Boissise-la-Bertrand, Île-de-France France",
-    "BeerAbv": 6.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-465586_7c97d.jpeg",
-    "HallRating": 19.28,
-    "BAR": 5.06,
-    "StylePlus": "115"
+    "StylePlus": "116",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.4948766688003076066489217641"
   },
   {
     "BID": 4816688,
@@ -283,20 +265,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816688_b71be_sm.jpeg",
     "HallRating": 19.28,
     "BAR": 5.06,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.4905404040930672882190319281"
   },
   {
-    "BID": 4010550,
-    "BeerName": "Leaf Me Alone",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "D9 Brewing Company",
-    "Origin": "Cornelius, NC United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-district9brewingcompany_67113.jpeg",
+    "BID": 1675735,
+    "BeerName": "Exertion",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Kinetic Brewing Company",
+    "Origin": "Lancaster, CA United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-KineticBrewingCompany_21211.jpeg",
     "HallRating": 19.28,
     "BAR": 5.06,
-    "StylePlus": "121"
+    "StylePlus": "108",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.4905395791611241735259941037"
+  },
+  {
+    "BID": 3334604,
+    "BeerName": "Peach Cider",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Independent Brewing Company",
+    "Origin": "Bel Air, MD United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-137193_f00ae.jpeg",
+    "HallRating": 19.28,
+    "BAR": 5.06,
+    "StylePlus": "108",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.4905296799778067972095402112"
+  },
+  {
+    "BID": 4011355,
+    "BeerName": "Vienna Lager",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Cervejaria São Joaquim",
+    "Origin": "São Joaquim, Santa Catarina Brazil",
+    "BeerAbv": 5.00,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-449683_da8b1.jpeg",
+    "HallRating": 19.28,
+    "BAR": 5.06,
+    "StylePlus": "115",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.4905288550458636825165023868"
   },
   {
     "BID": 4014876,
@@ -309,7 +325,39 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1534_e34d3.jpeg",
     "HallRating": 19.28,
     "BAR": 5.06,
-    "StylePlus": "119"
+    "StylePlus": "119",
+    "RatingScore": 3.90,
+    "AdjustedRating": "2.4905503032763846645354858207"
+  },
+  {
+    "BID": 7088,
+    "BeerName": "La Noche Del Diablo",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Black Fox Brewing Co.",
+    "Origin": "Colorado Springs, CO United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BlackFoxBrewingCo_10218.jpeg",
+    "HallRating": 19.28,
+    "BAR": 5.06,
+    "StylePlus": "116",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.4905313298416930265956158599"
+  },
+  {
+    "BID": 1669317,
+    "BeerName": "Red Shirt #50 Mango Wheat",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Intergalactic Brewing Company",
+    "Origin": "Fresno, CA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-IntergalacticBrewingCompany_26444.jpeg",
+    "HallRating": 19.28,
+    "BAR": 5.06,
+    "StylePlus": "112",
+    "RatingScore": 3.97,
+    "AdjustedRating": "2.4905560777999864673867505913"
   },
   {
     "BID": 3341714,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-MeckleysCidery_37420_970fc.jpeg",
     "HallRating": 19.28,
     "BAR": 5.06,
-    "StylePlus": "108"
+    "StylePlus": "108",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.4905313298416930265956158599"
   }
 ]
