@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3343061_ab1bb_sm.jpeg",
     "HallRating": 27.42,
     "BAR": 10.28,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.4910122851751300542048616127"
   },
   {
     "BID": 4014656,
@@ -23,7 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4014656_04643_sm.jpeg",
     "HallRating": 27.41,
     "BAR": 11.97,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.4917969095924576425319401953"
   },
   {
     "BID": 4011642,
@@ -36,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4011642_cff88_sm.jpeg",
     "HallRating": 27.39,
     "BAR": 11.85,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.491655705088927943423407305"
   },
   {
     "BID": 4632079,
@@ -49,7 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4632079_c44dd_sm.jpeg",
     "HallRating": 27.39,
     "BAR": 10.43,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.4910833432567116692112005821"
   },
   {
     "BID": 4959713,
@@ -62,7 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
     "HallRating": 27.39,
     "BAR": 10.47,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.491062994148219018374613868"
   },
   {
     "BID": 6012555,
@@ -75,20 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012555_550c6_sm.jpeg",
     "HallRating": 27.38,
     "BAR": 10.52,
-    "StylePlus": "125"
-  },
-  {
-    "BID": 6009245,
-    "BeerName": "Vanilla Tetratomic",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brewlihan",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
-    "HallRating": 27.37,
-    "BAR": 10.62,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.49110042429169235394793153"
   },
   {
     "BID": 3343308,
@@ -101,7 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3343308_9681d_sm.jpeg",
     "HallRating": 27.37,
     "BAR": 10.70,
-    "StylePlus": "124"
+    "StylePlus": "124",
+    "RatingScore": 4.78,
+    "AdjustedRating": "2.4912236515166317283240382051"
   },
   {
     "BID": 6011810,
@@ -114,33 +115,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6011810_ef7fc_sm.jpeg",
     "HallRating": 27.37,
     "BAR": 10.62,
-    "StylePlus": "124"
+    "StylePlus": "124",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.4911418690049608167987244224"
   },
   {
-    "BID": 3333545,
-    "BeerName": "Blackberry Mango Triple Puffsicle",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "The Answer",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 8.81,
+    "BID": 6009245,
+    "BeerName": "Vanilla Tetratomic",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brewlihan",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 12.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333545_540f4_sm.jpeg",
-    "HallRating": 27.36,
-    "BAR": 10.78,
-    "StylePlus": "140"
-  },
-  {
-    "BID": 4631089,
-    "BeerName": "Double Barrel Rat Queen",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Barncat Artisan Ales",
-    "Origin": "Cambridge, ON Canada",
-    "BeerAbv": 16.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-114610_a1311.jpeg",
-    "HallRating": 27.36,
-    "BAR": 11.57,
-    "StylePlus": "125"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
+    "HallRating": 27.37,
+    "BAR": 10.62,
+    "StylePlus": "125",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.4911086300569110433483966564"
   },
   {
     "BID": 11227,
@@ -153,85 +145,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-60627_a3b31_sm.jpeg",
     "HallRating": 27.36,
     "BAR": 11.53,
-    "StylePlus": "126"
+    "StylePlus": "126",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.4915038642249713557356634882"
   },
   {
-    "BID": 6012567,
-    "BeerName": "Modem Tones: Espresso Macaroon Aged in Elias Butte 20 Year Bourbon Barrels (2024)",
+    "BID": 4631089,
+    "BeerName": "Double Barrel Rat Queen",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Modern Times Beer",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 14.40,
+    "BreweryName": "Barncat Artisan Ales",
+    "Origin": "Cambridge, ON Canada",
+    "BeerAbv": 16.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012567_efce7_sm.jpeg",
-    "HallRating": 27.35,
-    "BAR": 10.94,
-    "StylePlus": "125"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-114610_a1311.jpeg",
+    "HallRating": 27.36,
+    "BAR": 11.57,
+    "StylePlus": "125",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.4915250382816898959738834483"
   },
   {
-    "BID": 4446619,
-    "BeerName": "Cerberus | FROZEN Slushie 2021",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 5.50,
+    "BID": 3333545,
+    "BeerName": "Blackberry Mango Triple Puffsicle",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "The Answer",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 8.81,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4446619_51dcf_sm.jpeg",
-    "HallRating": 27.35,
-    "BAR": 11.37,
-    "StylePlus": "125"
-  },
-  {
-    "BID": 4960989,
-    "BeerName": "Blue Mountain Brunch",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 14.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4960989_dda11_sm.jpeg",
-    "HallRating": 27.35,
-    "BAR": 11.31,
-    "StylePlus": "124"
-  },
-  {
-    "BID": 3334136,
-    "BeerName": "Black Forest Raspberry Torte Mead",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334136_68d07_sm.jpeg",
-    "HallRating": 27.35,
-    "BAR": 11.20,
-    "StylePlus": "125"
-  },
-  {
-    "BID": 3338872,
-    "BeerName": "Buffalo Trace Bourbon BA Stay Puft (2019)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Barreled Souls Brewing Company",
-    "Origin": "Saco, ME United States",
-    "BeerAbv": 12.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4856765_388aa_sm.jpeg",
-    "HallRating": 27.35,
-    "BAR": 10.89,
-    "StylePlus": "125"
-  },
-  {
-    "BID": 3345456,
-    "BeerName": "I’ve Seen This Close Before",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Prairie Artisan Ales",
-    "Origin": "Krebs, OK United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-prairieartisanales_37713.jpeg",
-    "HallRating": 27.35,
-    "BAR": 11.23,
-    "StylePlus": "125"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333545_540f4_sm.jpeg",
+    "HallRating": 27.36,
+    "BAR": 10.78,
+    "StylePlus": "140",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.4911914977159715064567517095"
   },
   {
     "BID": 4015512,
@@ -244,33 +190,69 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-245461_75a95.jpeg",
     "HallRating": 27.35,
     "BAR": 11.23,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.491353028343933635470702889"
   },
   {
-    "BID": 4981521,
-    "BeerName": "Diabolical Iridescence (2022)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BID": 4960989,
+    "BeerName": "Blue Mountain Brunch",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
     "BreweryName": "Boiler Brewing Co.",
     "Origin": "Lincoln, NE United States",
-    "BeerAbv": 14.60,
+    "BeerAbv": 14.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4981521_8076d_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4960989_dda11_sm.jpeg",
     "HallRating": 27.35,
-    "BAR": 11.41,
-    "StylePlus": "124"
+    "BAR": 11.31,
+    "StylePlus": "124",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.4913575525960922540640756836"
   },
   {
-    "BID": 6012533,
-    "BeerName": "Member Pick: BA Fruit",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 10.00,
+    "BID": 3334136,
+    "BeerName": "Black Forest Raspberry Torte Mead",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012533_19b2b_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334136_68d07_sm.jpeg",
     "HallRating": 27.35,
-    "BAR": 11.26,
-    "StylePlus": "156"
+    "BAR": 11.20,
+    "StylePlus": "125",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.4913251972156161732349527938"
+  },
+  {
+    "BID": 6012567,
+    "BeerName": "Modem Tones: Espresso Macaroon Aged in Elias Butte 20 Year Bourbon Barrels (2024)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Modern Times Beer",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 14.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012567_efce7_sm.jpeg",
+    "HallRating": 27.35,
+    "BAR": 10.94,
+    "StylePlus": "125",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.4912420454888917429492745276"
+  },
+  {
+    "BID": 3345456,
+    "BeerName": "I’ve Seen This Close Before",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Prairie Artisan Ales",
+    "Origin": "Krebs, OK United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-prairieartisanales_37713.jpeg",
+    "HallRating": 27.35,
+    "BAR": 11.23,
+    "StylePlus": "125",
+    "RatingScore": 4.79,
+    "AdjustedRating": "2.4914453877058144079308204373"
   },
   {
     "BID": 4446791,
@@ -283,7 +265,69 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
     "HallRating": 27.35,
     "BAR": 10.95,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.491262784347470321520720719"
+  },
+  {
+    "BID": 4446619,
+    "BeerName": "Cerberus | FROZEN Slushie 2021",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4446619_51dcf_sm.jpeg",
+    "HallRating": 27.35,
+    "BAR": 11.37,
+    "StylePlus": "125",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.4913874715647695245937509353"
+  },
+  {
+    "BID": 4981521,
+    "BeerName": "Diabolical Iridescence (2022)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 14.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4981521_8076d_sm.jpeg",
+    "HallRating": 27.35,
+    "BAR": 11.41,
+    "StylePlus": "124",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.4914265425023600893276560425"
+  },
+  {
+    "BID": 3338872,
+    "BeerName": "Buffalo Trace Bourbon BA Stay Puft (2019)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Barreled Souls Brewing Company",
+    "Origin": "Saco, ME United States",
+    "BeerAbv": 12.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4856765_388aa_sm.jpeg",
+    "HallRating": 27.35,
+    "BAR": 10.89,
+    "StylePlus": "125",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.4912074428667227784214558986"
+  },
+  {
+    "BID": 6012533,
+    "BeerName": "Member Pick: BA Fruit",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012533_19b2b_sm.jpeg",
+    "HallRating": 27.35,
+    "BAR": 11.26,
+    "StylePlus": "156",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.4913552671943355011335527334"
   },
   {
     "BID": 19686,
@@ -296,7 +340,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19686_89e31_sm.jpeg",
     "HallRating": 25.78,
     "BAR": 18.16,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.6531167699503085192214068579"
+  },
+  {
+    "BID": 3340107,
+    "BeerName": "Loony Bin Chant",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Lost Sanity Brewing",
+    "Origin": "Madelia, MN United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-375130_107c5.jpeg",
+    "HallRating": 25.50,
+    "BAR": 3.75,
+    "StylePlus": "132",
+    "RatingScore": 4.15,
+    "AdjustedRating": "2.4904755117886102510140346474"
   },
   {
     "BID": 4631973,
@@ -309,19 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-447479_39101.jpeg",
     "HallRating": 25.50,
     "BAR": 3.75,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 3335050,
-    "BeerName": "The Kraken",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Steamheads",
-    "Origin": "Auckland, New Zealand",
-    "BeerAbv": 5.20,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3335050_2ccdc_sm.jpeg",
-    "HallRating": 25.50,
-    "BAR": 3.75,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.4904640120761030636937176553"
   }
 ]

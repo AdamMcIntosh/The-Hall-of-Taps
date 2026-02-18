@@ -1,16 +1,18 @@
 [
   {
-    "BID": 4445884,
-    "BeerName": "Hop Juice",
-    "BeerStyle": "IPA - Triple",
-    "BreweryName": "Left Coast Brewing Co.",
-    "Origin": "San Clemente, CA United States",
+    "BID": 1939,
+    "BeerName": "Malheur 10° (Millennium)",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Brouwerij Malheur",
+    "Origin": "Buggenhout, Vlaams Gewest Belgium",
     "BeerAbv": 10.00,
-    "BeerIbu": 100.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5269_4eb09_sm.jpeg",
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1939_80c2d_sm.jpeg",
     "HallRating": 16.81,
     "BAR": 11.62,
-    "StylePlus": "100"
+    "StylePlus": "107",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.6696165552276439846662265382"
   },
   {
     "BID": 4940903,
@@ -23,46 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-HitachinoNestEspressoStout_154.jpeg",
     "HallRating": 16.80,
     "BAR": 11.61,
-    "StylePlus": "103"
-  },
-  {
-    "BID": 20290,
-    "BeerName": "Hofbräu Maibock",
-    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
-    "BreweryName": "Staatliches Hofbräuhaus München",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 7.20,
-    "BeerIbu": 31.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20290_3d6f8_sm.jpeg",
-    "HallRating": 16.80,
-    "BAR": 11.60,
-    "StylePlus": "110"
-  },
-  {
-    "BID": 4013569,
-    "BeerName": "Mountain Time Premium Lager",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "New Belgium Brewing Company",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3160073_4a0ae_sm.jpeg",
-    "HallRating": 16.80,
-    "BAR": 11.60,
-    "StylePlus": "95"
-  },
-  {
-    "BID": 17171,
-    "BeerName": "Hofbräu Maibock",
-    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
-    "BreweryName": "Staatliches Hofbräuhaus München",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 7.20,
-    "BeerIbu": 31.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20290_3d6f8_sm.jpeg",
-    "HallRating": 16.80,
-    "BAR": 11.60,
-    "StylePlus": "110"
+    "StylePlus": "103",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.6134750708668753073953431798"
   },
   {
     "BID": 4653,
@@ -75,7 +40,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-stoneOakedArrogantBastard.jpg",
     "HallRating": 16.80,
     "BAR": 11.61,
-    "StylePlus": "102"
+    "StylePlus": "102",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.6290786326260118349575523316"
+  },
+  {
+    "BID": 4013569,
+    "BeerName": "Mountain Time Premium Lager",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "New Belgium Brewing Company",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3160073_4a0ae_sm.jpeg",
+    "HallRating": 16.80,
+    "BAR": 11.60,
+    "StylePlus": "95",
+    "RatingScore": 3.45,
+    "AdjustedRating": "2.5851053879152064664524273054"
   },
   {
     "BID": 4086,
@@ -88,20 +70,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4086_646f2_sm.jpeg",
     "HallRating": 16.80,
     "BAR": 11.61,
-    "StylePlus": "110"
+    "StylePlus": "110",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.5918050424746026474817104593"
   },
   {
-    "BID": 18693,
-    "BeerName": "Shipwrecked",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Mission Brewing",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 9.25,
-    "BeerIbu": 72.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18693_82c90_sm.jpeg",
-    "HallRating": 16.79,
+    "BID": 20290,
+    "BeerName": "Hofbräu Maibock",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Staatliches Hofbräuhaus München",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 7.20,
+    "BeerIbu": 31.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20290_3d6f8_sm.jpeg",
+    "HallRating": 16.80,
     "BAR": 11.60,
-    "StylePlus": "101"
+    "StylePlus": "110",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.5999292679515586847714012084"
+  },
+  {
+    "BID": 17171,
+    "BeerName": "Hofbräu Maibock",
+    "BeerStyle": "Bock - Hell / Maibock / Lentebock",
+    "BreweryName": "Staatliches Hofbräuhaus München",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 7.20,
+    "BeerIbu": 31.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20290_3d6f8_sm.jpeg",
+    "HallRating": 16.80,
+    "BAR": 11.60,
+    "StylePlus": "110",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.6615027748944874361061851479"
   },
   {
     "BID": 27277,
@@ -114,33 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27277_dd39d_sm.jpeg",
     "HallRating": 16.79,
     "BAR": 11.59,
-    "StylePlus": "100"
-  },
-  {
-    "BID": 1572,
-    "BeerName": "Żywiec Porter",
-    "BeerStyle": "Porter - Baltic",
-    "BreweryName": "Grupa Żywiec",
-    "Origin": "Żywiec, Województwo Śląskie Poland",
-    "BeerAbv": 9.50,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1572_f3677_sm.jpeg",
-    "HallRating": 16.79,
-    "BAR": 11.59,
-    "StylePlus": "105"
-  },
-  {
-    "BID": 7319,
-    "BeerName": "Beck's Gold",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Brauerei Beck",
-    "Origin": "Neustadt, Bremen Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7319_ef21a_sm.jpeg",
-    "HallRating": 16.79,
-    "BAR": 11.59,
-    "StylePlus": "99"
+    "StylePlus": "100",
+    "RatingScore": 3.92,
+    "AdjustedRating": "2.6298187545306826646002247206"
   },
   {
     "BID": 11239,
@@ -153,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-65020_58f33_sm.jpeg",
     "HallRating": 16.79,
     "BAR": 11.60,
-    "StylePlus": "99"
+    "StylePlus": "99",
+    "RatingScore": 3.04,
+    "AdjustedRating": "2.5443820387576362594312215342"
   },
   {
     "BID": 1673187,
@@ -166,20 +145,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-319414_10b1a_sm.jpeg",
     "HallRating": 16.79,
     "BAR": 11.60,
-    "StylePlus": "110"
+    "StylePlus": "110",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.6181271488968587523233916294"
   },
   {
-    "BID": 3102,
-    "BeerName": "Shiner Kosmos Reserve",
+    "BID": 7319,
+    "BeerName": "Beck's Gold",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Spoetzl Brewery",
-    "Origin": "Shiner, TX United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3102_645ca_sm.jpeg",
+    "BreweryName": "Brauerei Beck",
+    "Origin": "Neustadt, Bremen Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7319_ef21a_sm.jpeg",
+    "HallRating": 16.79,
+    "BAR": 11.59,
+    "StylePlus": "99",
+    "RatingScore": 2.95,
+    "AdjustedRating": "2.5352573369820679703723213666"
+  },
+  {
+    "BID": 18693,
+    "BeerName": "Shipwrecked",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Mission Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 9.25,
+    "BeerIbu": 72.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18693_82c90_sm.jpeg",
     "HallRating": 16.79,
     "BAR": 11.60,
-    "StylePlus": "99"
+    "StylePlus": "101",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.6173123170755369920165085074"
   },
   {
     "BID": 7722,
@@ -192,33 +190,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7722_fe000_sm.jpeg",
     "HallRating": 16.79,
     "BAR": 11.59,
-    "StylePlus": "110"
+    "StylePlus": "110",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.6184145028377871460173100982"
   },
   {
-    "BID": 4043,
-    "BeerName": "Don de Dieu",
-    "BeerStyle": "Wheat Beer - Wheat Wine",
-    "BreweryName": "Unibroue",
-    "Origin": "Chambly, QC Canada",
-    "BeerAbv": 9.00,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4043_240f6_sm.jpeg",
-    "HallRating": 16.78,
-    "BAR": 11.58,
-    "StylePlus": "102"
+    "BID": 1572,
+    "BeerName": "Żywiec Porter",
+    "BeerStyle": "Porter - Baltic",
+    "BreweryName": "Grupa Żywiec",
+    "Origin": "Żywiec, Województwo Śląskie Poland",
+    "BeerAbv": 9.50,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1572_f3677_sm.jpeg",
+    "HallRating": 16.79,
+    "BAR": 11.59,
+    "StylePlus": "105",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.5971583421934713915413172151"
   },
   {
-    "BID": 17655,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Good People Brewing Company",
-    "Origin": "Birmingham, AL United States",
-    "BeerAbv": 7.10,
-    "BeerIbu": 76.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17655_de5ca_sm.jpeg",
-    "HallRating": 16.78,
-    "BAR": 11.58,
-    "StylePlus": "104"
+    "BID": 3102,
+    "BeerName": "Shiner Kosmos Reserve",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Spoetzl Brewery",
+    "Origin": "Shiner, TX United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3102_645ca_sm.jpeg",
+    "HallRating": 16.79,
+    "BAR": 11.60,
+    "StylePlus": "99",
+    "RatingScore": 3.35,
+    "AdjustedRating": "2.5748201068452329115220226162"
   },
   {
     "BID": 9208,
@@ -231,7 +235,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9208_05f34_sm.jpeg",
     "HallRating": 16.78,
     "BAR": 11.58,
-    "StylePlus": "99"
+    "StylePlus": "99",
+    "RatingScore": 3.10,
+    "AdjustedRating": "2.5494452360503483756285625241"
+  },
+  {
+    "BID": 17655,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Good People Brewing Company",
+    "Origin": "Birmingham, AL United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 76.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17655_de5ca_sm.jpeg",
+    "HallRating": 16.78,
+    "BAR": 11.58,
+    "StylePlus": "104",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.6077696044900501082647035569"
   },
   {
     "BID": 932,
@@ -244,33 +265,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-932_71748_sm.jpeg",
     "HallRating": 16.78,
     "BAR": 11.58,
-    "StylePlus": "100"
+    "StylePlus": "100",
+    "RatingScore": 4.04,
+    "AdjustedRating": "2.6406633121430115985761689412"
   },
   {
-    "BID": 4457,
-    "BeerName": "Dos Perros",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Yazoo Brewing Company",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4457_8f37f_sm.jpeg",
-    "HallRating": 16.77,
-    "BAR": 11.57,
-    "StylePlus": "109"
+    "BID": 4043,
+    "BeerName": "Don de Dieu",
+    "BeerStyle": "Wheat Beer - Wheat Wine",
+    "BreweryName": "Unibroue",
+    "Origin": "Chambly, QC Canada",
+    "BeerAbv": 9.00,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4043_240f6_sm.jpeg",
+    "HallRating": 16.78,
+    "BAR": 11.58,
+    "StylePlus": "102",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.621378003730548232335301061"
   },
   {
-    "BID": 17904,
-    "BeerName": "Third Coast Old Ale",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Bell’s Brewery",
-    "Origin": "Comstock, MI United States",
-    "BeerAbv": 10.20,
+    "BID": 6372,
+    "BeerName": "Aphrodite",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Brasserie Dieu du Ciel!",
+    "Origin": "Montréal, QC Canada",
+    "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17904_d42e8_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15665_99213_sm.jpeg",
     "HallRating": 16.77,
     "BAR": 11.56,
-    "StylePlus": "102"
+    "StylePlus": "104",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.6925447995574629469314137321"
   },
   {
     "BID": 10532,
@@ -283,20 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10532_7aa07_sm.jpeg",
     "HallRating": 16.77,
     "BAR": 11.57,
-    "StylePlus": "110"
-  },
-  {
-    "BID": 8848,
-    "BeerName": "Quilter's Irish Death",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "Iron Horse Brewery",
-    "Origin": "Ellensburg, WA United States",
-    "BeerAbv": 7.80,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8848_9494f_sm.jpeg",
-    "HallRating": 16.77,
-    "BAR": 11.56,
-    "StylePlus": "105"
+    "StylePlus": "110",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.591351275037875744563630939"
   },
   {
     "BID": 2019395,
@@ -309,7 +325,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15665_99213_sm.jpeg",
     "HallRating": 16.77,
     "BAR": 11.56,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.6307526925672722856195918352"
+  },
+  {
+    "BID": 15665,
+    "BeerName": "Aphrodite",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Brasserie Dieu du Ciel!",
+    "Origin": "Montréal, QC Canada",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15665_99213_sm.jpeg",
+    "HallRating": 16.77,
+    "BAR": 11.56,
+    "StylePlus": "104",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.6925447995574629469314137321"
   },
   {
     "BID": 1672268,
@@ -322,6 +355,23 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-5092_b0a8b.jpeg",
     "HallRating": 16.77,
     "BAR": 11.57,
-    "StylePlus": "100"
+    "StylePlus": "100",
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.6225682335388068506185410387"
+  },
+  {
+    "BID": 17904,
+    "BeerName": "Third Coast Old Ale",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Bell’s Brewery",
+    "Origin": "Comstock, MI United States",
+    "BeerAbv": 10.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17904_d42e8_sm.jpeg",
+    "HallRating": 16.77,
+    "BAR": 11.56,
+    "StylePlus": "102",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.6134074598183076148228014413"
   }
 ]

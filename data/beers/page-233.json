@@ -1,19 +1,36 @@
 [
   {
-    "BID": 5455,
-    "BeerName": "ESB",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "Fuller's Griffin Brewery",
-    "Origin": "London, Greater London England",
-    "BeerAbv": 5.50,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5455_0a690_sm.jpeg",
+    "BID": 3342410,
+    "BeerName": "Caribbean Rum Cask",
+    "BeerStyle": "Scottish Export Ale",
+    "BreweryName": "Innis & Gunn",
+    "Origin": "Edinburgh, Scotland",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13131_0bbc0_sm.jpeg",
     "HallRating": 17.75,
     "BAR": 12.81,
-    "StylePlus": "113"
+    "StylePlus": "109",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.8168976113206433175091028042"
   },
   {
-    "BID": 4014531,
+    "BID": 2016513,
+    "BeerName": "Weissbier",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Hacker-Pschorr",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.50,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5975_fae98_sm.jpeg",
+    "HallRating": 17.75,
+    "BAR": 12.81,
+    "StylePlus": "112",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.7847390323662463629181657835"
+  },
+  {
+    "BID": 3347501,
     "BeerName": "Gouden Carolus Whisky Infused",
     "BeerStyle": "Belgian Strong Dark Ale",
     "BreweryName": "Brouwerij Het Anker",
@@ -23,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2055873_bfcef_sm.jpeg",
     "HallRating": 17.75,
     "BAR": 12.81,
-    "StylePlus": "105"
+    "StylePlus": "105",
+    "RatingScore": 3.98,
+    "AdjustedRating": "2.9133471375527210450503295415"
   },
   {
     "BID": 3346003,
@@ -36,20 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13131_0bbc0_sm.jpeg",
     "HallRating": 17.75,
     "BAR": 12.81,
-    "StylePlus": "109"
-  },
-  {
-    "BID": 3345910,
-    "BeerName": "Gouden Carolus Whisky Infused",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Brouwerij Het Anker",
-    "Origin": "Mechelen, Vlaams Gewest Belgium",
-    "BeerAbv": 11.70,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2055873_bfcef_sm.jpeg",
-    "HallRating": 17.75,
-    "BAR": 12.81,
-    "StylePlus": "105"
+    "StylePlus": "109",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.8169048559407370198975662757"
   },
   {
     "BID": 3346015,
@@ -62,46 +70,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13131_0bbc0_sm.jpeg",
     "HallRating": 17.75,
     "BAR": 12.81,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.7656913047408249836162527865"
   },
   {
-    "BID": 1671899,
-    "BeerName": "Weissbier",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Hacker-Pschorr",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.50,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5975_fae98_sm.jpeg",
+    "BID": 3345910,
+    "BeerName": "Gouden Carolus Whisky Infused",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Brouwerij Het Anker",
+    "Origin": "Mechelen, Vlaams Gewest Belgium",
+    "BeerAbv": 11.70,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2055873_bfcef_sm.jpeg",
     "HallRating": 17.75,
     "BAR": 12.81,
-    "StylePlus": "112"
-  },
-  {
-    "BID": 3762,
-    "BeerName": "Moose Drool Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Big Sky Brewing Company",
-    "Origin": "Missoula, MT United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-MooseDroolBrownAle_3762.jpeg",
-    "HallRating": 17.74,
-    "BAR": 12.79,
-    "StylePlus": "109"
-  },
-  {
-    "BID": 201,
-    "BeerName": "Undercover Investigation Shut-Down Ale",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Lagunitas Brewing Company",
-    "Origin": "Petaluma, CA United States",
-    "BeerAbv": 9.70,
-    "BeerIbu": 66.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-201_b938d_sm.jpeg",
-    "HallRating": 17.74,
-    "BAR": 12.79,
-    "StylePlus": "102"
+    "StylePlus": "105",
+    "RatingScore": 3.98,
+    "AdjustedRating": "2.9133471375527210450503295415"
   },
   {
     "BID": 8731,
@@ -114,7 +100,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8731_60560_sm.jpeg",
     "HallRating": 17.74,
     "BAR": 12.80,
-    "StylePlus": "105"
+    "StylePlus": "105",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.7736695888246934757113893979"
+  },
+  {
+    "BID": 201,
+    "BeerName": "Undercover Investigation Shut-Down Ale",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 9.70,
+    "BeerIbu": 66.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-201_b938d_sm.jpeg",
+    "HallRating": 17.74,
+    "BAR": 12.79,
+    "StylePlus": "102",
+    "RatingScore": 3.86,
+    "AdjustedRating": "2.8282322165563856842206724046"
   },
   {
     "BID": 2193,
@@ -127,7 +130,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8_83e30_sm.jpeg",
     "HallRating": 17.74,
     "BAR": 12.79,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.8138309166139129558696018045"
+  },
+  {
+    "BID": 3762,
+    "BeerName": "Moose Drool Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Big Sky Brewing Company",
+    "Origin": "Missoula, MT United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-MooseDroolBrownAle_3762.jpeg",
+    "HallRating": 17.74,
+    "BAR": 12.79,
+    "StylePlus": "109",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.77421465173921358234961938"
   },
   {
     "BID": 28,
@@ -140,7 +160,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-28_f18ab_sm.jpeg",
     "HallRating": 17.73,
     "BAR": 12.78,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.8204266010477823502456715565"
   },
   {
     "BID": 1668089,
@@ -153,7 +175,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6976_38466_sm.jpeg",
     "HallRating": 17.73,
     "BAR": 12.78,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.7670515901151393964546074067"
   },
   {
     "BID": 4446319,
@@ -166,7 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-32167_fc7d2_sm.jpeg",
     "HallRating": 17.73,
     "BAR": 12.79,
-    "StylePlus": "106"
+    "StylePlus": "106",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.8216959639000043131652918272"
   },
   {
     "BID": 4013,
@@ -179,46 +205,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4013_42d21_sm.jpeg",
     "HallRating": 17.72,
     "BAR": 12.77,
-    "StylePlus": "111"
-  },
-  {
-    "BID": 5956,
-    "BeerName": "Finestkind IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Smuttynose Brewing Co.",
-    "Origin": "Hampton, NH United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 75.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5956_9aeae_sm.jpeg",
-    "HallRating": 17.72,
-    "BAR": 12.77,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 2017588,
-    "BeerName": "Lucky Beer (Lucky Buddha)",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Hangzhou Qiandaohu Beer Co. (Cheerday Brewery - 千岛湖)",
-    "Origin": "Hang Zhou Shi, Zhe Jiang Sheng China / People's Republic of China",
-    "BeerAbv": 4.80,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-50983_a7560_sm.jpeg",
-    "HallRating": 17.72,
-    "BAR": 12.78,
-    "StylePlus": "99"
-  },
-  {
-    "BID": 5964,
-    "BeerName": "(Oktober) Fest-Märzen",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Ayinger Privatbrauerei",
-    "Origin": "Aying, Bayern Germany",
-    "BeerAbv": 5.80,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5964_14f6c_sm.jpeg",
-    "HallRating": 17.72,
-    "BAR": 12.77,
-    "StylePlus": "107"
+    "StylePlus": "111",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.8511336401049007846068696202"
   },
   {
     "BID": 402,
@@ -231,7 +220,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-402_0698a_sm.jpeg",
     "HallRating": 17.72,
     "BAR": 12.77,
-    "StylePlus": "105"
+    "StylePlus": "105",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.8029154375829891925885619887"
+  },
+  {
+    "BID": 5956,
+    "BeerName": "Finestkind IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Smuttynose Brewing Co.",
+    "Origin": "Hampton, NH United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 75.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5956_9aeae_sm.jpeg",
+    "HallRating": 17.72,
+    "BAR": 12.77,
+    "StylePlus": "104",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.7700163268108395229707991344"
   },
   {
     "BID": 401,
@@ -244,7 +250,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-401_5d9c1_sm.jpeg",
     "HallRating": 17.72,
     "BAR": 12.77,
-    "StylePlus": "106"
+    "StylePlus": "106",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.7598413854231531267604781678"
+  },
+  {
+    "BID": 5964,
+    "BeerName": "(Oktober) Fest-Märzen",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Ayinger Privatbrauerei",
+    "Origin": "Aying, Bayern Germany",
+    "BeerAbv": 5.80,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5964_14f6c_sm.jpeg",
+    "HallRating": 17.72,
+    "BAR": 12.77,
+    "StylePlus": "107",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.8104821409415638633242324554"
+  },
+  {
+    "BID": 2017588,
+    "BeerName": "Lucky Beer (Lucky Buddha)",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Hangzhou Qiandaohu Beer Co. (Cheerday Brewery - 千岛湖)",
+    "Origin": "Hang Zhou Shi, Zhe Jiang Sheng China / People's Republic of China",
+    "BeerAbv": 4.80,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-50983_a7560_sm.jpeg",
+    "HallRating": 17.72,
+    "BAR": 12.78,
+    "StylePlus": "99",
+    "RatingScore": 3.00,
+    "AdjustedRating": "2.6146635916918804108994190441"
   },
   {
     "BID": 2016529,
@@ -257,7 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4013_42d21_sm.jpeg",
     "HallRating": 17.72,
     "BAR": 12.77,
-    "StylePlus": "106"
+    "StylePlus": "106",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.7994464894152844276759028588"
   },
   {
     "BID": 1675550,
@@ -270,7 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-50983_a7560_sm.jpeg",
     "HallRating": 17.72,
     "BAR": 12.78,
-    "StylePlus": "99"
+    "StylePlus": "99",
+    "RatingScore": 3.00,
+    "AdjustedRating": "2.6663042164391598289869366182"
   },
   {
     "BID": 5729,
@@ -283,20 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5729_bc30f_sm.jpeg",
     "HallRating": 17.71,
     "BAR": 12.76,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 10722,
-    "BeerName": "Trappistes Rochefort 6",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Abbaye Notre-Dame de Saint-Rémy",
-    "Origin": "Rochefort, Région Wallonne Belgium",
-    "BeerAbv": 7.50,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10722_297d8_sm.jpeg",
-    "HallRating": 17.71,
-    "BAR": 12.76,
-    "StylePlus": "108"
+    "StylePlus": "104",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.7917139762742978092830061229"
   },
   {
     "BID": 4136,
@@ -309,7 +340,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4136_7b717_sm.jpeg",
     "HallRating": 17.71,
     "BAR": 12.76,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.7584905482200270118485448882"
+  },
+  {
+    "BID": 10722,
+    "BeerName": "Trappistes Rochefort 6",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "Abbaye Notre-Dame de Saint-Rémy",
+    "Origin": "Rochefort, Région Wallonne Belgium",
+    "BeerAbv": 7.50,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10722_297d8_sm.jpeg",
+    "HallRating": 17.71,
+    "BAR": 12.76,
+    "StylePlus": "108",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.7844702102356045718245193298"
   },
   {
     "BID": 7834,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7834_5bc3b_sm.jpeg",
     "HallRating": 17.70,
     "BAR": 12.75,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.7800362973586464579300690777"
   }
 ]

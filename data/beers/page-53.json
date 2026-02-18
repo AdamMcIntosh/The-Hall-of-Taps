@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-127559_690ff.jpeg",
     "HallRating": 20.64,
     "BAR": 7.35,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.4907045883825479366147301471"
   },
   {
     "BID": 16240,
@@ -23,20 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16240_95837_sm.jpeg",
     "HallRating": 20.63,
     "BAR": 13.04,
-    "StylePlus": "111"
-  },
-  {
-    "BID": 6011670,
-    "BeerName": "Burgh Lite",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Bandstand Brew Works",
-    "Origin": "Warrensburg, NY United States",
-    "BeerAbv": 3.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-566986_cfdb5.jpeg",
-    "HallRating": 20.62,
-    "BAR": 7.45,
-    "StylePlus": "127"
+    "StylePlus": "111",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.5111872396056381178105099114"
   },
   {
     "BID": 3334069,
@@ -49,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334069_ebe6e_sm.jpeg",
     "HallRating": 20.62,
     "BAR": 9.37,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.4913967202673937252273803678"
   },
   {
     "BID": 4013544,
@@ -62,20 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3995309_ec91c_sm.jpeg",
     "HallRating": 20.62,
     "BAR": 13.02,
-    "StylePlus": "116"
-  },
-  {
-    "BID": 6006812,
-    "BeerName": "Utah Hip Check Ice",
-    "BeerStyle": "Lager - Strong",
-    "BreweryName": "Epic Brewing Company",
-    "Origin": "Salt Lake City, UT United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6006809_27e2d_sm.jpeg",
-    "HallRating": 20.62,
-    "BAR": 9.36,
-    "StylePlus": "127"
+    "StylePlus": "116",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.5155684303053133988961058993"
   },
   {
     "BID": 8279,
@@ -88,7 +70,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-BurgerBunLALager_8279.jpeg",
     "HallRating": 20.62,
     "BAR": 9.35,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.4913533680493264916068566501"
+  },
+  {
+    "BID": 6011670,
+    "BeerName": "Burgh Lite",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Bandstand Brew Works",
+    "Origin": "Warrensburg, NY United States",
+    "BeerAbv": 3.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-566986_cfdb5.jpeg",
+    "HallRating": 20.62,
+    "BAR": 7.45,
+    "StylePlus": "127",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.4907345455491093072632986483"
   },
   {
     "BID": 22769,
@@ -101,7 +100,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22769_a5471_sm.jpeg",
     "HallRating": 20.62,
     "BAR": 13.02,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.511783540741936399412169479"
+  },
+  {
+    "BID": 6006812,
+    "BeerName": "Utah Hip Check Ice",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Epic Brewing Company",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6006809_27e2d_sm.jpeg",
+    "HallRating": 20.62,
+    "BAR": 9.36,
+    "StylePlus": "127",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.4913563123619817155778703147"
   },
   {
     "BID": 2017209,
@@ -114,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-196228_60dbc.jpeg",
     "HallRating": 20.61,
     "BAR": 7.47,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.49072049715460208875856415"
   },
   {
     "BID": 1668619,
@@ -127,33 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-367466_5408d_sm.jpeg",
     "HallRating": 20.60,
     "BAR": 12.99,
-    "StylePlus": "115"
-  },
-  {
-    "BID": 3350497,
-    "BeerName": "3 of Cups Lemongrass",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Dangerous Man Brewing Co.",
-    "Origin": "Maple Lake, MN United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-DangerousManBrewingCo_51096.jpeg",
-    "HallRating": 20.58,
-    "BAR": 7.64,
-    "StylePlus": "127"
-  },
-  {
-    "BID": 1669814,
-    "BeerName": "Nine Pin Signature",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Nine Pin Cider",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-583348_6edec_sm.jpeg",
-    "HallRating": 20.58,
-    "BAR": 12.96,
-    "StylePlus": "109"
+    "StylePlus": "115",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.5138573751604244837769251685"
   },
   {
     "BID": 3347189,
@@ -166,7 +160,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3276151_d15a9_sm.jpeg",
     "HallRating": 20.58,
     "BAR": 9.17,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.4911560202423365423733605127"
+  },
+  {
+    "BID": 3350497,
+    "BeerName": "3 of Cups Lemongrass",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Dangerous Man Brewing Co.",
+    "Origin": "Maple Lake, MN United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-DangerousManBrewingCo_51096.jpeg",
+    "HallRating": 20.58,
+    "BAR": 7.64,
+    "StylePlus": "127",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.4907172282317118247980525289"
+  },
+  {
+    "BID": 1669814,
+    "BeerName": "Nine Pin Signature",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Nine Pin Cider",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-583348_6edec_sm.jpeg",
+    "HallRating": 20.58,
+    "BAR": 12.96,
+    "StylePlus": "109",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.5138569390306741815339658166"
   },
   {
     "BID": 16115,
@@ -179,7 +205,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-168949_62eff_sm.jpeg",
     "HallRating": 20.58,
     "BAR": 12.96,
-    "StylePlus": "111"
+    "StylePlus": "111",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.51187078337207222900029921"
   },
   {
     "BID": 3347542,
@@ -192,72 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3347542_423ce_sm.jpeg",
     "HallRating": 20.58,
     "BAR": 9.13,
-    "StylePlus": "127"
-  },
-  {
-    "BID": 2017581,
-    "BeerName": "Royal Scandal",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Peticolas Brewing Company",
-    "Origin": "Dallas, TX United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 36.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-154678_a2185_sm.jpeg",
-    "HallRating": 20.57,
-    "BAR": 12.94,
-    "StylePlus": "120"
-  },
-  {
-    "BID": 4816253,
-    "BeerName": "Low Life Lager",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Bear Belly Brewing Company",
-    "Origin": "Kings Beach, CA United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-435316_e0ec1.jpeg",
-    "HallRating": 20.57,
-    "BAR": 7.67,
-    "StylePlus": "127"
-  },
-  {
-    "BID": 6012090,
-    "BeerName": "Shalieve Lager",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Funk Brewing",
-    "Origin": "Emmaus, PA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012090_a5364_sm.jpeg",
-    "HallRating": 20.57,
-    "BAR": 7.66,
-    "StylePlus": "127"
-  },
-  {
-    "BID": 3336341,
-    "BeerName": "Horse of A Different Color #4",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Stable 12 Brewing Company",
-    "Origin": "Phoenixville, PA United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3336341_a555c_sm.jpeg",
-    "HallRating": 20.57,
-    "BAR": 7.67,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 6012389,
-    "BeerName": "Dismembeer",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Old Irving Brewing Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012389_7de9b_sm.jpeg",
-    "HallRating": 20.57,
-    "BAR": 9.12,
-    "StylePlus": "132"
+    "StylePlus": "127",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.4911268574133638788327037597"
   },
   {
     "BID": 29134,
@@ -270,7 +235,84 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29134_e2680_sm.jpeg",
     "HallRating": 20.57,
     "BAR": 12.94,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.5121024380007752044397657588"
+  },
+  {
+    "BID": 4816253,
+    "BeerName": "Low Life Lager",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Bear Belly Brewing Company",
+    "Origin": "Kings Beach, CA United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-435316_e0ec1.jpeg",
+    "HallRating": 20.57,
+    "BAR": 7.67,
+    "StylePlus": "127",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.4907418428150237971665962678"
+  },
+  {
+    "BID": 6012389,
+    "BeerName": "Dismembeer",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Old Irving Brewing Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012389_7de9b_sm.jpeg",
+    "HallRating": 20.57,
+    "BAR": 9.12,
+    "StylePlus": "132",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.4912769117609663140083543591"
+  },
+  {
+    "BID": 2017581,
+    "BeerName": "Royal Scandal",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Peticolas Brewing Company",
+    "Origin": "Dallas, TX United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-154678_a2185_sm.jpeg",
+    "HallRating": 20.57,
+    "BAR": 12.94,
+    "StylePlus": "120",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.5141518576857132012024189475"
+  },
+  {
+    "BID": 6012090,
+    "BeerName": "Shalieve Lager",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Funk Brewing",
+    "Origin": "Emmaus, PA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 8.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012090_a5364_sm.jpeg",
+    "HallRating": 20.57,
+    "BAR": 7.66,
+    "StylePlus": "127",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.4907308227001624216043687968"
+  },
+  {
+    "BID": 3336341,
+    "BeerName": "Horse of A Different Color #4",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Stable 12 Brewing Company",
+    "Origin": "Phoenixville, PA United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3336341_a555c_sm.jpeg",
+    "HallRating": 20.57,
+    "BAR": 7.67,
+    "StylePlus": "132",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.490755713965779462469474719"
   },
   {
     "BID": 4941701,
@@ -283,33 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941701_9ede8_sm.jpeg",
     "HallRating": 20.56,
     "BAR": 7.76,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 3350411,
-    "BeerName": "Natalis Febris 2019",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Palatum",
-    "Origin": "Warsaw, Masovian Voivodeship Poland",
-    "BeerAbv": 5.20,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3350411_c265e_sm.jpeg",
-    "HallRating": 20.55,
-    "BAR": 4.18,
-    "StylePlus": "115"
-  },
-  {
-    "BID": 6012074,
-    "BeerName": "Splendid Sunrise  (Nicaraguan 2024)",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Discourse Brewing",
-    "Origin": "Overland Park, KS United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012074_455b9_sm.jpeg",
-    "HallRating": 20.55,
-    "BAR": 4.18,
-    "StylePlus": "116"
+    "StylePlus": "132",
+    "RatingScore": 3.98,
+    "AdjustedRating": "2.4908695943200663468638523214"
   },
   {
     "BID": 4445541,
@@ -322,6 +340,38 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-369533_fd5b0.jpeg",
     "HallRating": 20.55,
     "BAR": 4.18,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.490488901675829553940382681"
+  },
+  {
+    "BID": 1675786,
+    "BeerName": "Southern Ground IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Draft Line Brewing Company",
+    "Origin": "Fuquay-Varina, NC United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-129667_ec14b.jpeg",
+    "HallRating": 20.55,
+    "BAR": 4.18,
+    "StylePlus": "108",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.4904830519390677082234399435"
+  },
+  {
+    "BID": 4014630,
+    "BeerName": "Hagrid-Butterscotch",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "2 Feet Brewing",
+    "Origin": "Bangor, ME United States",
+    "BeerAbv": 5.07,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4014630_65ee3_sm.jpeg",
+    "HallRating": 20.55,
+    "BAR": 4.18,
+    "StylePlus": "112",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.490486651777074997895404705"
   }
 ]

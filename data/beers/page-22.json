@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6791_6aa04_sm.jpeg",
     "HallRating": 22.06,
     "BAR": 12.83,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.4973603922951031872978898828"
   },
   {
     "BID": 10634,
@@ -23,7 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10634_01b28_sm.jpeg",
     "HallRating": 22.05,
     "BAR": 15.01,
-    "StylePlus": "119"
+    "StylePlus": "119",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.5686477944580948099197091769"
   },
   {
     "BID": 1672807,
@@ -36,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-575133_9303f_sm.jpeg",
     "HallRating": 22.04,
     "BAR": 15.01,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.5809144376108788333409546204"
   },
   {
     "BID": 29536,
@@ -49,7 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-NobleRot_29536.jpeg",
     "HallRating": 22.02,
     "BAR": 14.98,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.5802043212915659543819400304"
   },
   {
     "BID": 17999,
@@ -62,20 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17999_9d9c8_sm.jpeg",
     "HallRating": 22.02,
     "BAR": 14.98,
-    "StylePlus": "117"
-  },
-  {
-    "BID": 25102,
-    "BeerName": "Samuel Smith's Organic Strawberry Fruit Beer",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Melbourn Bros’ All Saints Brewery",
-    "Origin": "Stamford, Lincolnshire England",
-    "BeerAbv": 5.10,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_8563_sm_d5b9d9d0680c0b68f34a3594486402.jpeg",
-    "HallRating": 22.01,
-    "BAR": 14.96,
-    "StylePlus": "112"
+    "StylePlus": "117",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.5677179139485241619192307141"
   },
   {
     "BID": 8563,
@@ -88,33 +85,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_8563_sm_d5b9d9d0680c0b68f34a3594486402.jpeg",
     "HallRating": 22.01,
     "BAR": 14.96,
-    "StylePlus": "113"
+    "StylePlus": "113",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.6410725105599714296150574451"
   },
   {
-    "BID": 4012882,
-    "BeerName": "Vanilla Bean Massacre (2020)",
-    "BeerStyle": "Lager - Strong",
-    "BreweryName": "Wolverine State Brewing Co.",
-    "Origin": "Ann Arbor, MI United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-5809_6394d.jpeg",
-    "HallRating": 22.00,
-    "BAR": 5.43,
-    "StylePlus": "127"
-  },
-  {
-    "BID": 5058,
-    "BeerName": "Krampus",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Southern Tier Brewing Company",
-    "Origin": "Lakewood, NY United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-southernTierKrampus.jpg",
-    "HallRating": 22.00,
-    "BAR": 14.95,
-    "StylePlus": "119"
+    "BID": 25102,
+    "BeerName": "Samuel Smith's Organic Strawberry Fruit Beer",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Melbourn Bros’ All Saints Brewery",
+    "Origin": "Stamford, Lincolnshire England",
+    "BeerAbv": 5.10,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_8563_sm_d5b9d9d0680c0b68f34a3594486402.jpeg",
+    "HallRating": 22.01,
+    "BAR": 14.96,
+    "StylePlus": "112",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.5776504192590265906889688918"
   },
   {
     "BID": 4959562,
@@ -127,7 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959562_735a4_sm.jpeg",
     "HallRating": 22.00,
     "BAR": 5.43,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.85,
+    "AdjustedRating": "2.4905291866333406324260401754"
   },
   {
     "BID": 6008249,
@@ -140,7 +130,39 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-393385_9b4fb.jpeg",
     "HallRating": 22.00,
     "BAR": 5.43,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.4905179874172857562673712823"
+  },
+  {
+    "BID": 4012882,
+    "BeerName": "Vanilla Bean Massacre (2020)",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Wolverine State Brewing Co.",
+    "Origin": "Ann Arbor, MI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-5809_6394d.jpeg",
+    "HallRating": 22.00,
+    "BAR": 5.43,
+    "StylePlus": "127",
+    "RatingScore": 4.18,
+    "AdjustedRating": "2.4905522850164538145032947676"
+  },
+  {
+    "BID": 5058,
+    "BeerName": "Krampus",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Southern Tier Brewing Company",
+    "Origin": "Lakewood, NY United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-southernTierKrampus.jpg",
+    "HallRating": 22.00,
+    "BAR": 14.95,
+    "StylePlus": "119",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.5718733408066053419716793093"
   },
   {
     "BID": 1372,
@@ -153,7 +175,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1372_0d8a6_sm.jpeg",
     "HallRating": 21.99,
     "BAR": 14.93,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.5655960465015828282007558661"
   },
   {
     "BID": 3339349,
@@ -166,20 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3339349_dab56_sm.jpeg",
     "HallRating": 21.98,
     "BAR": 12.69,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 7674,
-    "BeerName": "Railbender Ale",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "Erie Brewing Company",
-    "Origin": "Erie, PA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 26.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7674_0fa34_sm.jpeg",
-    "HallRating": 21.98,
-    "BAR": 14.92,
-    "StylePlus": "111"
+    "StylePlus": "132",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.4980906586053172041342255845"
   },
   {
     "BID": 27594,
@@ -192,7 +205,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27594_82ab0_sm.jpeg",
     "HallRating": 21.98,
     "BAR": 14.92,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.5731052270324210212459994168"
+  },
+  {
+    "BID": 7674,
+    "BeerName": "Railbender Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Erie Brewing Company",
+    "Origin": "Erie, PA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 26.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7674_0fa34_sm.jpeg",
+    "HallRating": 21.98,
+    "BAR": 14.92,
+    "StylePlus": "111",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.5627346876139790660320773002"
   },
   {
     "BID": 336,
@@ -205,7 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-336_747a0_sm.jpeg",
     "HallRating": 21.97,
     "BAR": 14.92,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.565395127732802570468385261"
   },
   {
     "BID": 19434,
@@ -218,7 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19434_3938d_sm.jpeg",
     "HallRating": 21.97,
     "BAR": 14.91,
-    "StylePlus": "119"
+    "StylePlus": "119",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.5650420982987088232334580711"
   },
   {
     "BID": 4960913,
@@ -231,7 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4454012_a66e1_sm.jpeg",
     "HallRating": 21.95,
     "BAR": 12.64,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.4979044050577036018683381823"
   },
   {
     "BID": 14678,
@@ -244,20 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14678_54b30_sm.jpeg",
     "HallRating": 21.95,
     "BAR": 14.88,
-    "StylePlus": "112"
-  },
-  {
-    "BID": 2018568,
-    "BeerName": "Cougar",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Rhinegeist Brewery",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-393437_7eeb4_sm.jpeg",
-    "HallRating": 21.94,
-    "BAR": 14.87,
-    "StylePlus": "116"
+    "StylePlus": "112",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.5651721562513822847026569812"
   },
   {
     "BID": 1672209,
@@ -270,20 +295,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-510842_0c166_sm.jpeg",
     "HallRating": 21.94,
     "BAR": 14.87,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.5620274542072747980309940168"
   },
   {
-    "BID": 6011504,
-    "BeerName": "Light House Lager",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Bait House Brewery",
-    "Origin": "Sandusky, OH United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-401995_63edb.jpeg",
-    "HallRating": 21.93,
-    "BAR": 5.48,
-    "StylePlus": "127"
+    "BID": 2018568,
+    "BeerName": "Cougar",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Rhinegeist Brewery",
+    "Origin": "Cincinnati, OH United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-393437_7eeb4_sm.jpeg",
+    "HallRating": 21.94,
+    "BAR": 14.87,
+    "StylePlus": "116",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.5596959530618211181255077517"
   },
   {
     "BID": 6128,
@@ -296,7 +325,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6128_08f73_sm.jpeg",
     "HallRating": 21.93,
     "BAR": 14.86,
-    "StylePlus": "109"
+    "StylePlus": "109",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.5641610677380698837268605318"
+  },
+  {
+    "BID": 6011504,
+    "BeerName": "Light House Lager",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Bait House Brewery",
+    "Origin": "Sandusky, OH United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-401995_63edb.jpeg",
+    "HallRating": 21.93,
+    "BAR": 5.48,
+    "StylePlus": "127",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.4905209859049268590730272038"
   },
   {
     "BID": 12681,
@@ -309,7 +355,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12681_ea233_sm.jpeg",
     "HallRating": 21.91,
     "BAR": 12.56,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.4962231739025506824485978503"
   },
   {
     "BID": 879,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-879_78726_sm.jpeg",
     "HallRating": 21.90,
     "BAR": 14.81,
-    "StylePlus": "120"
+    "StylePlus": "120",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.5670658859225090382899259437"
   }
 ]

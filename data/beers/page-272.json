@@ -1,16 +1,18 @@
 [
   {
-    "BID": 8324,
-    "BeerName": "Stash IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Independence Brewing Co.",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 94.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8324_59fd1_sm.jpeg",
+    "BID": 3347549,
+    "BeerName": "Cloud Candy IPA",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Mighty Squirrel Brewing Co.",
+    "Origin": "Waltham, MA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3077530_faaf3_sm.jpeg",
     "HallRating": 16.89,
-    "BAR": 11.72,
-    "StylePlus": "104"
+    "BAR": 11.73,
+    "StylePlus": "101",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.6514626321624890622676526617"
   },
   {
     "BID": 3344292,
@@ -23,98 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-934620_bf795_sm.jpeg",
     "HallRating": 16.88,
     "BAR": 11.72,
-    "StylePlus": "101"
-  },
-  {
-    "BID": 4940460,
-    "BeerName": "Green City",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Other Half Brewing Co.",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3727003_13fac_sm.jpeg",
-    "HallRating": 16.88,
-    "BAR": 11.71,
-    "StylePlus": "101"
-  },
-  {
-    "BID": 2015128,
-    "BeerName": "King Goblin",
-    "BeerStyle": "Red Ale - Imperial / Double",
-    "BreweryName": "Marston's Brewery",
-    "Origin": "Burton-on-Trent, Staffordshire England",
-    "BeerAbv": 6.60,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15490_c7605_sm.jpeg",
-    "HallRating": 16.88,
-    "BAR": 11.71,
-    "StylePlus": "103"
-  },
-  {
-    "BID": 3339979,
-    "BeerName": "SuperEIGHT",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2903270_7c927_sm.jpeg",
-    "HallRating": 16.88,
-    "BAR": 11.72,
-    "StylePlus": "102"
-  },
-  {
-    "BID": 4464,
-    "BeerName": "Oatmeal Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Highland Brewing Company",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4464_98b90_sm.jpeg",
-    "HallRating": 16.88,
-    "BAR": 11.71,
-    "StylePlus": "103"
-  },
-  {
-    "BID": 3334863,
-    "BeerName": "Breakside IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Breakside Brewery",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 73.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15479_5e72c_sm.jpeg",
-    "HallRating": 16.88,
-    "BAR": 11.71,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 62,
-    "BeerName": "Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Breckenridge Brewery",
-    "Origin": "Littleton, CO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 36.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-62_fd0d3_sm.jpeg",
-    "HallRating": 16.88,
-    "BAR": 11.71,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 5738,
-    "BeerName": "(512) Pecan Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "(512) Brewing Company",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5738_96d6b_sm.jpeg",
-    "HallRating": 16.88,
-    "BAR": 11.72,
-    "StylePlus": "103"
+    "StylePlus": "101",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.6964916519280584538928923246"
   },
   {
     "BID": 15479,
@@ -127,7 +40,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15479_5e72c_sm.jpeg",
     "HallRating": 16.88,
     "BAR": 11.71,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.93,
+    "AdjustedRating": "2.7067446129615896994757834353"
+  },
+  {
+    "BID": 62,
+    "BeerName": "Oatmeal Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Breckenridge Brewery",
+    "Origin": "Littleton, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-62_fd0d3_sm.jpeg",
+    "HallRating": 16.88,
+    "BAR": 11.71,
+    "StylePlus": "104",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.6052626692848436128444731065"
   },
   {
     "BID": 15490,
@@ -140,33 +70,99 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15490_c7605_sm.jpeg",
     "HallRating": 16.88,
     "BAR": 11.71,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.6657696676597222910726148388"
   },
   {
-    "BID": 428,
-    "BeerName": "Session Premium Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Full Sail Brewing Company",
-    "Origin": "Hood River, OR United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-428_fd0ed_sm.jpeg",
-    "HallRating": 16.87,
-    "BAR": 11.70,
-    "StylePlus": "99"
+    "BID": 5738,
+    "BeerName": "(512) Pecan Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "(512) Brewing Company",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5738_96d6b_sm.jpeg",
+    "HallRating": 16.88,
+    "BAR": 11.72,
+    "StylePlus": "103",
+    "RatingScore": 3.88,
+    "AdjustedRating": "2.6408235728200336343245917339"
   },
   {
-    "BID": 26954,
-    "BeerName": "Indica IPA",
+    "BID": 2015128,
+    "BeerName": "King Goblin",
+    "BeerStyle": "Red Ale - Imperial / Double",
+    "BreweryName": "Marston's Brewery",
+    "Origin": "Burton-on-Trent, Staffordshire England",
+    "BeerAbv": 6.60,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15490_c7605_sm.jpeg",
+    "HallRating": 16.88,
+    "BAR": 11.71,
+    "StylePlus": "103",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.6048302780484999018942894147"
+  },
+  {
+    "BID": 3339979,
+    "BeerName": "SuperEIGHT",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2903270_7c927_sm.jpeg",
+    "HallRating": 16.88,
+    "BAR": 11.72,
+    "StylePlus": "102",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.6160187957870939971156374613"
+  },
+  {
+    "BID": 4940460,
+    "BeerName": "Green City",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Other Half Brewing Co.",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3727003_13fac_sm.jpeg",
+    "HallRating": 16.88,
+    "BAR": 11.71,
+    "StylePlus": "101",
+    "RatingScore": 4.13,
+    "AdjustedRating": "2.6666048489371108737356444421"
+  },
+  {
+    "BID": 4464,
+    "BeerName": "Oatmeal Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Highland Brewing Company",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4464_98b90_sm.jpeg",
+    "HallRating": 16.88,
+    "BAR": 11.71,
+    "StylePlus": "103",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.6176452917022122892188164221"
+  },
+  {
+    "BID": 3334863,
+    "BeerName": "Breakside IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Lost Coast Brewery",
-    "Origin": "Eureka, CA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-904_907ce_sm.jpeg",
-    "HallRating": 16.87,
-    "BAR": 11.70,
-    "StylePlus": "104"
+    "BreweryName": "Breakside Brewery",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 73.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15479_5e72c_sm.jpeg",
+    "HallRating": 16.88,
+    "BAR": 11.71,
+    "StylePlus": "104",
+    "RatingScore": 3.93,
+    "AdjustedRating": "2.6457711364404136341211062848"
   },
   {
     "BID": 10052,
@@ -179,7 +175,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10052_49742_sm.jpeg",
     "HallRating": 16.87,
     "BAR": 11.70,
-    "StylePlus": "111"
+    "StylePlus": "111",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.6238776159173290991731662423"
+  },
+  {
+    "BID": 26954,
+    "BeerName": "Indica IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Lost Coast Brewery",
+    "Origin": "Eureka, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-904_907ce_sm.jpeg",
+    "HallRating": 16.87,
+    "BAR": 11.70,
+    "StylePlus": "104",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.6081175452861352284628902833"
+  },
+  {
+    "BID": 428,
+    "BeerName": "Session Premium Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Full Sail Brewing Company",
+    "Origin": "Hood River, OR United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-428_fd0ed_sm.jpeg",
+    "HallRating": 16.87,
+    "BAR": 11.70,
+    "StylePlus": "99",
+    "RatingScore": 3.37,
+    "AdjustedRating": "2.5848169519654036236852272559"
   },
   {
     "BID": 8646,
@@ -192,7 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8646_0fdaf_sm.jpeg",
     "HallRating": 16.87,
     "BAR": 11.70,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.6139933560652794166442352778"
   },
   {
     "BID": 3603,
@@ -205,7 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3603_ee5b0_sm.jpeg",
     "HallRating": 16.87,
     "BAR": 11.69,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.6190555980629004426047685844"
   },
   {
     "BID": 904,
@@ -218,7 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-904_907ce_sm.jpeg",
     "HallRating": 16.87,
     "BAR": 11.70,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.6691168995497143628761540334"
   },
   {
     "BID": 357,
@@ -231,59 +265,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-357_d4a4c_sm.jpeg",
     "HallRating": 16.87,
     "BAR": 11.69,
-    "StylePlus": "105"
+    "StylePlus": "105",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.6031050533752803566343845774"
   },
   {
-    "BID": 3349555,
-    "BeerName": "Cassis",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brouwerij Lindemans",
-    "Origin": "Sint-Pieters-Leeuw, Vlaams Gewest Belgium",
-    "BeerAbv": 3.50,
-    "BeerIbu": 5.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7895_543a6_sm.jpeg",
+    "BID": 1705,
+    "BeerName": "Malheur 12°",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Brouwerij Malheur",
+    "Origin": "Buggenhout, Vlaams Gewest Belgium",
+    "BeerAbv": 12.00,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1705_0de53_sm.jpeg",
     "HallRating": 16.86,
     "BAR": 11.69,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 3926,
-    "BeerName": "Blithering Idiot",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Weyerbacher Brewery / Savant Beverages",
-    "Origin": "Easton, PA United States",
-    "BeerAbv": 11.10,
-    "BeerIbu": 34.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_3926_sm_9111dfebd11ed91a8d7ebef2d01136.jpeg",
-    "HallRating": 16.86,
-    "BAR": 11.69,
-    "StylePlus": "102"
-  },
-  {
-    "BID": 5583,
-    "BeerName": "B.O.R.I.S. The Crusher Oatmeal-Imperial Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Hoppin' Frog Brewery",
-    "Origin": "Akron, OH United States",
-    "BeerAbv": 9.40,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-BORISTheCrusherOatmealImperialStout_5583.jpeg",
-    "HallRating": 16.86,
-    "BAR": 11.69,
-    "StylePlus": "100"
-  },
-  {
-    "BID": 4960702,
-    "BeerName": "Broken Dream",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Siren Craft Brew",
-    "Origin": "Wokingham, Berkshire England",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-323318_0b3e5_sm.jpeg",
-    "HallRating": 16.86,
-    "BAR": 11.69,
-    "StylePlus": "104"
+    "StylePlus": "101",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.6302386884932353448206955266"
   },
   {
     "BID": 6006885,
@@ -296,7 +295,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7670_178c1_sm.jpeg",
     "HallRating": 16.86,
     "BAR": 11.68,
-    "StylePlus": "105"
+    "StylePlus": "105",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.6265085288046432175088363465"
+  },
+  {
+    "BID": 4960702,
+    "BeerName": "Broken Dream",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Siren Craft Brew",
+    "Origin": "Wokingham, Berkshire England",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-323318_0b3e5_sm.jpeg",
+    "HallRating": 16.86,
+    "BAR": 11.69,
+    "StylePlus": "104",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.6309154456398938116298325108"
+  },
+  {
+    "BID": 3890698,
+    "BeerName": "Key Lime Pie Gose",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Westbrook Brewing Co.",
+    "Origin": "Mount Pleasant, SC United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1528258_a689c_sm.jpeg",
+    "HallRating": 16.86,
+    "BAR": 11.68,
+    "StylePlus": "102",
+    "RatingScore": 4.03,
+    "AdjustedRating": "2.6529007503965016883347920671"
   },
   {
     "BID": 1253,
@@ -309,7 +340,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-stoneLevitation.jpg",
     "HallRating": 16.86,
     "BAR": 11.68,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.6106190389805930461314160464"
+  },
+  {
+    "BID": 28101,
+    "BeerName": "Stowaway IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Baxter Brewing Co.",
+    "Origin": "Lewiston, ME United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 69.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-28101_4d9c9_sm.jpeg",
+    "HallRating": 16.86,
+    "BAR": 11.69,
+    "StylePlus": "104",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.6118576367734594099546641609"
   },
   {
     "BID": 8792,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8792_03165_sm.jpeg",
     "HallRating": 16.86,
     "BAR": 11.69,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.6367802155026996042356637777"
   }
 ]

@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4072_54847_sm.jpeg",
     "HallRating": 18.19,
     "BAR": 13.35,
-    "StylePlus": "108"
+    "StylePlus": "108",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.9264462047971479846914680592"
   },
   {
     "BID": 1672714,
@@ -23,7 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1452078_33a60_sm.jpeg",
     "HallRating": 18.19,
     "BAR": 13.35,
-    "StylePlus": "102"
+    "StylePlus": "102",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.9594454473723452665863909306"
   },
   {
     "BID": 3345333,
@@ -36,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1452078_33a60_sm.jpeg",
     "HallRating": 18.19,
     "BAR": 13.35,
-    "StylePlus": "102"
+    "StylePlus": "102",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.9594489857608041571252388419"
   },
   {
     "BID": 6006896,
@@ -49,7 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1452078_33a60_sm.jpeg",
     "HallRating": 18.19,
     "BAR": 13.35,
-    "StylePlus": "102"
+    "StylePlus": "102",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.9153342914742410962065166489"
   },
   {
     "BID": 8110,
@@ -62,7 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-130571_147d9_sm.jpeg",
     "HallRating": 18.19,
     "BAR": 13.35,
-    "StylePlus": "103"
+    "StylePlus": "103",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.9071995723359852339088085738"
   },
   {
     "BID": 5714,
@@ -75,7 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5714_10e48_sm.jpeg",
     "HallRating": 18.17,
     "BAR": 13.32,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.9283639723329000642664518359"
   },
   {
     "BID": 4996,
@@ -88,7 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4946504_b39d1_sm.jpeg",
     "HallRating": 18.16,
     "BAR": 13.32,
-    "StylePlus": "105"
+    "StylePlus": "105",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.9234623248866856275525648994"
   },
   {
     "BID": 7044,
@@ -101,7 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7044_682f5_sm.jpeg",
     "HallRating": 18.16,
     "BAR": 13.31,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.8454265927881323089933382353"
   },
   {
     "BID": 4631749,
@@ -114,46 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-828399_6fa9c_sm.jpeg",
     "HallRating": 18.16,
     "BAR": 13.32,
-    "StylePlus": "107"
-  },
-  {
-    "BID": 4179,
-    "BeerName": "Hazelnut Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Rogue Ales",
-    "Origin": "Newport, OR United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4179_56c20_sm.jpeg",
-    "HallRating": 18.15,
-    "BAR": 13.31,
-    "StylePlus": "109"
-  },
-  {
-    "BID": 4816158,
-    "BeerName": "Mango Cart",
-    "BeerStyle": "Wheat Beer - Fruited",
-    "BreweryName": "Golden Road Brewing",
-    "Origin": "Los Angeles, CA United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1919131_a9c8b_sm.jpeg",
-    "HallRating": 18.15,
-    "BAR": 13.31,
-    "StylePlus": "112"
-  },
-  {
-    "BID": 6012722,
-    "BeerName": "Hazelnut Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Rogue Ales",
-    "Origin": "Newport, OR United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4179_56c20_sm.jpeg",
-    "HallRating": 18.15,
-    "BAR": 13.31,
-    "StylePlus": "109"
+    "StylePlus": "107",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.8784224953696094451057179906"
   },
   {
     "BID": 1553,
@@ -166,7 +145,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1553_abb10_sm.jpeg",
     "HallRating": 18.15,
     "BAR": 13.30,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.9533467953119756165997477142"
+  },
+  {
+    "BID": 6012722,
+    "BeerName": "Hazelnut Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4179_56c20_sm.jpeg",
+    "HallRating": 18.15,
+    "BAR": 13.31,
+    "StylePlus": "109",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.9380699954448510452052673402"
   },
   {
     "BID": 8021,
@@ -179,7 +175,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8021_7fc32_sm.jpeg",
     "HallRating": 18.15,
     "BAR": 13.30,
-    "StylePlus": "103"
+    "StylePlus": "103",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.8844062643811108899294304769"
+  },
+  {
+    "BID": 4179,
+    "BeerName": "Hazelnut Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4179_56c20_sm.jpeg",
+    "HallRating": 18.15,
+    "BAR": 13.31,
+    "StylePlus": "109",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.9828419872367504117022981249"
+  },
+  {
+    "BID": 4816158,
+    "BeerName": "Mango Cart",
+    "BeerStyle": "Wheat Beer - Fruited",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1919131_a9c8b_sm.jpeg",
+    "HallRating": 18.15,
+    "BAR": 13.31,
+    "StylePlus": "112",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.9447448780221138619269471354"
   },
   {
     "BID": 1676845,
@@ -192,20 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3948_ba2d2_sm.jpeg",
     "HallRating": 18.14,
     "BAR": 13.29,
-    "StylePlus": "99"
-  },
-  {
-    "BID": 3350764,
-    "BeerName": "Skuumkoppe",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Texelse Bierbrouwerij",
-    "Origin": "Oudeschild, Noord-Holland Netherlands",
-    "BeerAbv": 6.00,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-51276_ce508_sm.jpeg",
-    "HallRating": 18.14,
-    "BAR": 13.28,
-    "StylePlus": "110"
+    "StylePlus": "99",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.82155273833423823931890307"
   },
   {
     "BID": 2017487,
@@ -218,20 +235,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3948_ba2d2_sm.jpeg",
     "HallRating": 18.14,
     "BAR": 13.29,
-    "StylePlus": "99"
+    "StylePlus": "99",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.7765662106781618254762633784"
   },
   {
-    "BID": 23037,
-    "BeerName": "Harpoon IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Harpoon Brewery",
-    "Origin": "Boston, MA United States",
+    "BID": 3350764,
+    "BeerName": "Skuumkoppe",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Texelse Bierbrouwerij",
+    "Origin": "Oudeschild, Noord-Holland Netherlands",
     "BeerAbv": 6.00,
-    "BeerIbu": 42.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5928_9b695_sm.jpeg",
-    "HallRating": 18.13,
-    "BAR": 13.27,
-    "StylePlus": "104"
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-51276_ce508_sm.jpeg",
+    "HallRating": 18.14,
+    "BAR": 13.28,
+    "StylePlus": "110",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.8741054153778730641932477194"
   },
   {
     "BID": 4143,
@@ -244,7 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4143_be66c_sm.jpeg",
     "HallRating": 18.13,
     "BAR": 13.27,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 4.25,
+    "AdjustedRating": "3.0842651731486280794553549235"
   },
   {
     "BID": 5932,
@@ -257,20 +280,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5932_4e731_sm.jpeg",
     "HallRating": 18.13,
     "BAR": 13.28,
-    "StylePlus": "108"
+    "StylePlus": "108",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.832488572995095626595110855"
   },
   {
-    "BID": 3759,
-    "BeerName": "Snake Dog IPA",
+    "BID": 23037,
+    "BeerName": "Harpoon IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Flying Dog Brewery",
-    "Origin": "Utica, NY United States",
-    "BeerAbv": 7.10,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3759_9ffde_sm.jpeg",
+    "BreweryName": "Harpoon Brewery",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 42.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5928_9b695_sm.jpeg",
     "HallRating": 18.13,
-    "BAR": 13.28,
-    "StylePlus": "104"
+    "BAR": 13.27,
+    "StylePlus": "104",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.8310821242147387307758708356"
   },
   {
     "BID": 5928,
@@ -283,20 +310,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5928_9b695_sm.jpeg",
     "HallRating": 18.13,
     "BAR": 13.27,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.8763400789874010083017822538"
   },
   {
-    "BID": 4816511,
-    "BeerName": "IJwit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Brouwerij 't IJ",
-    "Origin": "Amsterdam, Noord-Holland Netherlands",
-    "BeerAbv": 6.50,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30318_e6fe5_sm.jpeg",
-    "HallRating": 18.12,
-    "BAR": 13.27,
-    "StylePlus": "114"
+    "BID": 3759,
+    "BeerName": "Snake Dog IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Flying Dog Brewery",
+    "Origin": "Utica, NY United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3759_9ffde_sm.jpeg",
+    "HallRating": 18.13,
+    "BAR": 13.28,
+    "StylePlus": "104",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.8629361162282922735634803728"
   },
   {
     "BID": 6988,
@@ -309,7 +340,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6988_33a0b_sm.jpeg",
     "HallRating": 18.12,
     "BAR": 13.27,
-    "StylePlus": "106"
+    "StylePlus": "106",
+    "RatingScore": 3.95,
+    "AdjustedRating": "2.9819543581152018187891918051"
+  },
+  {
+    "BID": 4816511,
+    "BeerName": "IJwit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Brouwerij 't IJ",
+    "Origin": "Amsterdam, Noord-Holland Netherlands",
+    "BeerAbv": 6.50,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30318_e6fe5_sm.jpeg",
+    "HallRating": 18.12,
+    "BAR": 13.27,
+    "StylePlus": "114",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.8902728697313981054705636316"
   },
   {
     "BID": 2013,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2013_43d0c_sm.jpeg",
     "HallRating": 18.12,
     "BAR": 13.27,
-    "StylePlus": "106"
+    "StylePlus": "106",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.9106177384689296530951250219"
   }
 ]

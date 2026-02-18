@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-bostonUtopias.jpg",
     "HallRating": 28.28,
     "BAR": 14.89,
-    "StylePlus": "128"
+    "StylePlus": "128",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.4955034529755879449011697202"
   },
   {
     "BID": 2015385,
@@ -23,20 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2015057_75c65_sm.jpeg",
     "HallRating": 28.27,
     "BAR": 14.85,
-    "StylePlus": "125"
-  },
-  {
-    "BID": 4816596,
-    "BeerName": "Stevnsberry Van Oak",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816596_dff03_sm.jpeg",
-    "HallRating": 28.27,
-    "BAR": 8.31,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.74,
+    "AdjustedRating": "2.4956745236636503427200586613"
   },
   {
     "BID": 3334258,
@@ -49,7 +40,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
     "HallRating": 28.27,
     "BAR": 8.31,
-    "StylePlus": "131"
+    "StylePlus": "131",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.4906673969257585040423451286"
+  },
+  {
+    "BID": 4816596,
+    "BeerName": "Stevnsberry Van Oak",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816596_dff03_sm.jpeg",
+    "HallRating": 28.27,
+    "BAR": 8.31,
+    "StylePlus": "125",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.4906800454711757810554886171"
   },
   {
     "BID": 13132,
@@ -62,7 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-DeviationBottleworksIX_13132.jpeg",
     "HallRating": 28.23,
     "BAR": 14.76,
-    "StylePlus": "126"
+    "StylePlus": "126",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.4949873644484515559139525295"
   },
   {
     "BID": 3336583,
@@ -75,7 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-kanebrewingcompany_14653.jpeg",
     "HallRating": 28.22,
     "BAR": 14.74,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.4950300820446760089105730789"
   },
   {
     "BID": 3348901,
@@ -88,7 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3348901_42f1b_sm.jpeg",
     "HallRating": 28.20,
     "BAR": 8.41,
-    "StylePlus": "130"
+    "StylePlus": "130",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.4906823417953895195279666423"
   },
   {
     "BID": 6008416,
@@ -101,7 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
     "HallRating": 28.08,
     "BAR": 14.40,
-    "StylePlus": "122"
+    "StylePlus": "122",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.4944725258772382136643477375"
   },
   {
     "BID": 9036,
@@ -114,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9036_81be2_sm.jpeg",
     "HallRating": 28.07,
     "BAR": 14.39,
-    "StylePlus": "126"
+    "StylePlus": "126",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.4946100337627621595994650067"
   },
   {
     "BID": 20066,
@@ -127,7 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CrianzaHelena_20066.jpeg",
     "HallRating": 28.07,
     "BAR": 14.38,
-    "StylePlus": "130"
+    "StylePlus": "130",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.4944300950976214379669321658"
   },
   {
     "BID": 4939829,
@@ -140,7 +160,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-441029_4d0aa.jpeg",
     "HallRating": 28.05,
     "BAR": 8.62,
-    "StylePlus": "126"
+    "StylePlus": "126",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.4907068800148030048721644365"
   },
   {
     "BID": 3345925,
@@ -153,7 +175,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
     "HallRating": 28.03,
     "BAR": 8.66,
-    "StylePlus": "130"
+    "StylePlus": "130",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.4907174268237837554633224497"
   },
   {
     "BID": 3349056,
@@ -166,33 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3349056_24ad4_sm.jpeg",
     "HallRating": 28.02,
     "BAR": 14.25,
-    "StylePlus": "125"
-  },
-  {
-    "BID": 4013983,
-    "BeerName": "Black Agnes (Batch 12)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_562749_sm_c647c8c0317e639c0f4e6679fd1eeb.jpeg",
-    "HallRating": 27.98,
-    "BAR": 14.15,
-    "StylePlus": "125"
-  },
-  {
-    "BID": 1668078,
-    "BeerName": "Blåbær Lambik (Blueberry Lambic) (2009-II) (Batch 4)",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16564_sm_7d3e5e05e5fcc0d509b2d6097c61d6.jpeg",
-    "HallRating": 27.98,
-    "BAR": 8.74,
-    "StylePlus": "131"
+    "StylePlus": "125",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.4940730144408446712022819592"
   },
   {
     "BID": 6006731,
@@ -205,20 +205,39 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
     "HallRating": 27.98,
     "BAR": 14.15,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.66,
+    "AdjustedRating": "2.4940998097484057894716292657"
   },
   {
-    "BID": 4982258,
-    "BeerName": "3 Fonteinen J & J Oude Geuze Blauw",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Brouwerij 3 Fonteinen",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 6.50,
+    "BID": 4013983,
+    "BeerName": "Black Agnes (Batch 12)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 11.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16789_sm_900484df1674964bef0cf9a910f01c.jpeg",
-    "HallRating": 27.97,
-    "BAR": 14.13,
-    "StylePlus": "130"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_562749_sm_c647c8c0317e639c0f4e6679fd1eeb.jpeg",
+    "HallRating": 27.98,
+    "BAR": 14.15,
+    "StylePlus": "125",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.4941167061512439858243023665"
+  },
+  {
+    "BID": 1668078,
+    "BeerName": "Blåbær Lambik (Blueberry Lambic) (2009-II) (Batch 4)",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16564_sm_7d3e5e05e5fcc0d509b2d6097c61d6.jpeg",
+    "HallRating": 27.98,
+    "BAR": 8.74,
+    "StylePlus": "131",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.4907391201995770254867418544"
   },
   {
     "BID": 16789,
@@ -231,7 +250,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16789_sm_900484df1674964bef0cf9a910f01c.jpeg",
     "HallRating": 27.97,
     "BAR": 14.13,
-    "StylePlus": "131"
+    "StylePlus": "131",
+    "RatingScore": 4.76,
+    "AdjustedRating": "2.5624299897279533074768373916"
+  },
+  {
+    "BID": 4982258,
+    "BeerName": "3 Fonteinen J & J Oude Geuze Blauw",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "Brouwerij 3 Fonteinen",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16789_sm_900484df1674964bef0cf9a910f01c.jpeg",
+    "HallRating": 27.97,
+    "BAR": 14.13,
+    "StylePlus": "130",
+    "RatingScore": 4.76,
+    "AdjustedRating": "2.4942291897835175743333017179"
   },
   {
     "BID": 2019451,
@@ -244,7 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
     "HallRating": 27.96,
     "BAR": 8.78,
-    "StylePlus": "131"
+    "StylePlus": "131",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.4907502667633911830267286894"
   },
   {
     "BID": 4816288,
@@ -257,7 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816288_839f0_sm.jpeg",
     "HallRating": 27.95,
     "BAR": 14.07,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.493720559164966071573644957"
   },
   {
     "BID": 3334154,
@@ -270,7 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334154_29945_sm.jpeg",
     "HallRating": 27.93,
     "BAR": 8.82,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.4907500149242409513323668051"
   },
   {
     "BID": 3339606,
@@ -283,7 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3339606_f4c41_sm.jpeg",
     "HallRating": 27.91,
     "BAR": 8.85,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.490736290073619107451960834"
   },
   {
     "BID": 2016936,
@@ -296,7 +340,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
     "HallRating": 27.91,
     "BAR": 13.97,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 4.70,
+    "AdjustedRating": "2.4938590574896522811038961994"
   },
   {
     "BID": 6012159,
@@ -309,7 +355,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012159_ffe5c_sm.jpeg",
     "HallRating": 27.89,
     "BAR": 13.90,
-    "StylePlus": "129"
+    "StylePlus": "129",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.4935139851287861431249070132"
   },
   {
     "BID": 3338642,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
     "HallRating": 27.84,
     "BAR": 9.00,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.4907804007632847489223547274"
   }
 ]

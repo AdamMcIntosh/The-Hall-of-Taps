@@ -1,5 +1,20 @@
 [
   {
+    "BID": 1673850,
+    "BeerName": "Barktoberfest",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Thirsty Dog Brewing Company",
+    "Origin": "Akron, OH United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Barktoberfest_67954.jpeg",
+    "HallRating": 16.23,
+    "BAR": 10.85,
+    "StylePlus": "107",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.5477575611394315822483741931"
+  },
+  {
     "BID": 7434,
     "BeerName": "Åbro Original",
     "BeerStyle": "Lager - Pale",
@@ -10,85 +25,69 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7434_46e83_sm.jpeg",
     "HallRating": 16.23,
     "BAR": 10.86,
-    "StylePlus": "99"
+    "StylePlus": "99",
+    "RatingScore": 2.63,
+    "AdjustedRating": "2.4977037050821413017397127809"
   },
   {
-    "BID": 1674549,
-    "BeerName": "Nite Lite",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Night Shift Brewing",
-    "Origin": "Everett, MA United States",
-    "BeerAbv": 4.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1674549_4c05d_sm.jpeg",
+    "BID": 1673794,
+    "BeerName": "Black Butte XXVIII",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Deschutes Brewery",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 51.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1619036_6d42f_sm.jpeg",
     "HallRating": 16.23,
     "BAR": 10.85,
-    "StylePlus": "95"
+    "StylePlus": "101",
+    "RatingScore": 4.25,
+    "AdjustedRating": "2.5820621874109826352053064864"
   },
   {
-    "BID": 4870,
-    "BeerName": "Cascazilla",
-    "BeerStyle": "IPA - Red",
-    "BreweryName": "Ithaca Beer Company",
-    "Origin": "Ithaca, NY United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4870_7493f_sm.jpeg",
-    "HallRating": 16.23,
-    "BAR": 10.85,
-    "StylePlus": "106"
-  },
-  {
-    "BID": 8186,
-    "BeerName": "Overcast Espresso Stout",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "Oakshire Brewing",
-    "Origin": "Eugene, OR United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 27.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8186_00f88_sm.jpeg",
-    "HallRating": 16.23,
-    "BAR": 10.84,
-    "StylePlus": "103"
-  },
-  {
-    "BID": 19004,
-    "BeerName": "Utopias",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 28.00,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-bostonUtopias.jpg",
-    "HallRating": 16.23,
-    "BAR": 10.85,
-    "StylePlus": "102"
-  },
-  {
-    "BID": 8230,
-    "BeerName": "20th Anniversary Encore Series: Stone 02.02.02 Vertical Epic Ale",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
+    "BID": 5802,
+    "BeerName": "Too Cream Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Dark Horse Brewing Co.",
+    "Origin": "Marshall, MI United States",
     "BeerAbv": 7.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1691538_65ff1_sm.jpeg",
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-TooCreamStout_5802.jpeg",
     "HallRating": 16.23,
-    "BAR": 10.84,
-    "StylePlus": "107"
+    "BAR": 10.85,
+    "StylePlus": "103",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.5551982493702060766077394411"
   },
   {
-    "BID": 10107,
-    "BeerName": "Snake Handler Double IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Good People Brewing Company",
-    "Origin": "Birmingham, AL United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 100.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10107_b4f6d_sm.jpeg",
-    "HallRating": 16.22,
-    "BAR": 10.84,
-    "StylePlus": "101"
+    "BID": 1668309,
+    "BeerName": "Penn Quarter Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "DC Brau Brewing Company",
+    "Origin": "Washington, DC United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-48253_84b07_sm.jpeg",
+    "HallRating": 16.23,
+    "BAR": 10.85,
+    "StylePlus": "106",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.550504936472243919716593891"
+  },
+  {
+    "BID": 24039,
+    "BeerName": "Gueuze Girardin 1882 Black Label",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "Brouwerij Girardin",
+    "Origin": "Dilbeek, Vlaams Gewest Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17232_cfb26_sm.jpeg",
+    "HallRating": 16.23,
+    "BAR": 10.85,
+    "StylePlus": "104",
+    "RatingScore": 4.00,
+    "AdjustedRating": "2.568578881109437973691553845"
   },
   {
     "BID": 18273,
@@ -101,33 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18273_b3368_sm.jpeg",
     "HallRating": 16.22,
     "BAR": 10.84,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 4669,
-    "BeerName": "Chateau Jiahu",
-    "BeerStyle": "Historical Beer - Other",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-dfhJiahu.jpg",
-    "HallRating": 16.22,
-    "BAR": 10.83,
-    "StylePlus": "120"
-  },
-  {
-    "BID": 15200,
-    "BeerName": "S1NIST0R Black Ale",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "10 Barrel Brewing Co.",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15200_cf3c0_sm.jpeg",
-    "HallRating": 16.22,
-    "BAR": 10.83,
-    "StylePlus": "110"
+    "StylePlus": "104",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.5438161551956636906930928806"
   },
   {
     "BID": 3343474,
@@ -140,7 +115,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3156510_0a36e_sm.jpeg",
     "HallRating": 16.22,
     "BAR": 10.84,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 3.97,
+    "AdjustedRating": "2.5666399811025820068436810102"
+  },
+  {
+    "BID": 15200,
+    "BeerName": "S1NIST0R Black Ale",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "10 Barrel Brewing Co.",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15200_cf3c0_sm.jpeg",
+    "HallRating": 16.22,
+    "BAR": 10.83,
+    "StylePlus": "110",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.5506229287950928250664850947"
   },
   {
     "BID": 7470,
@@ -153,7 +145,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7470_62e7d_sm.jpeg",
     "HallRating": 16.22,
     "BAR": 10.84,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.5557238548838756480132705361"
+  },
+  {
+    "BID": 10107,
+    "BeerName": "Snake Handler Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Good People Brewing Company",
+    "Origin": "Birmingham, AL United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 100.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10107_b4f6d_sm.jpeg",
+    "HallRating": 16.22,
+    "BAR": 10.84,
+    "StylePlus": "101",
+    "RatingScore": 4.01,
+    "AdjustedRating": "2.5682557727052095194350069126"
   },
   {
     "BID": 12268,
@@ -166,7 +175,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12268_4e90b_sm.jpeg",
     "HallRating": 16.22,
     "BAR": 10.84,
-    "StylePlus": "110"
+    "StylePlus": "110",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.5490973146661844696416818216"
   },
   {
     "BID": 7597,
@@ -179,59 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_7597_sm_0631f6165855665d4f57fca1433492.jpeg",
     "HallRating": 16.22,
     "BAR": 10.83,
-    "StylePlus": "105"
-  },
-  {
-    "BID": 10695,
-    "BeerName": "Mountain Standard Black IPA",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "Odell Brewing Co.",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 8.10,
-    "BeerIbu": 56.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10695_fcc1a_sm.jpeg",
-    "HallRating": 16.22,
-    "BAR": 10.84,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 4980685,
-    "BeerName": "Foggy Window",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 8.10,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1523848_60fa4_sm.jpeg",
-    "HallRating": 16.22,
-    "BAR": 10.84,
-    "StylePlus": "100"
-  },
-  {
-    "BID": 4981632,
-    "BeerName": "Karbachtoberfest",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Karbach Brewing Co.",
-    "Origin": "Houston, TX United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-202775_675e7_sm.jpeg",
-    "HallRating": 16.22,
-    "BAR": 10.83,
-    "StylePlus": "107"
-  },
-  {
-    "BID": 7583,
-    "BeerName": "Teddy Bear Kisses",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Upland Brewing Company",
-    "Origin": "Bloomington, IN United States",
-    "BeerAbv": 10.20,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7583_e3d0d_sm.jpeg",
-    "HallRating": 16.22,
-    "BAR": 10.84,
-    "StylePlus": "100"
+    "StylePlus": "105",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.5594280394793559652524225996"
   },
   {
     "BID": 5687,
@@ -244,7 +205,114 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-duganAIPA_5687.jpeg",
     "HallRating": 16.22,
     "BAR": 10.83,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.5607878135459779748469708995"
+  },
+  {
+    "BID": 4669,
+    "BeerName": "Chateau Jiahu",
+    "BeerStyle": "Historical Beer - Other",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-dfhJiahu.jpg",
+    "HallRating": 16.22,
+    "BAR": 10.83,
+    "StylePlus": "120",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.5517271698954592256188015802"
+  },
+  {
+    "BID": 4981632,
+    "BeerName": "Karbachtoberfest",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Karbach Brewing Co.",
+    "Origin": "Houston, TX United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-202775_675e7_sm.jpeg",
+    "HallRating": 16.22,
+    "BAR": 10.83,
+    "StylePlus": "107",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.5501073993503342455578900402"
+  },
+  {
+    "BID": 7583,
+    "BeerName": "Teddy Bear Kisses",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Upland Brewing Company",
+    "Origin": "Bloomington, IN United States",
+    "BeerAbv": 10.20,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7583_e3d0d_sm.jpeg",
+    "HallRating": 16.22,
+    "BAR": 10.84,
+    "StylePlus": "100",
+    "RatingScore": 3.85,
+    "AdjustedRating": "2.5600983851409074093593356767"
+  },
+  {
+    "BID": 10695,
+    "BeerName": "Mountain Standard Black IPA",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Odell Brewing Co.",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 8.10,
+    "BeerIbu": 56.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10695_fcc1a_sm.jpeg",
+    "HallRating": 16.22,
+    "BAR": 10.84,
+    "StylePlus": "104",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.565880296718729141931815"
+  },
+  {
+    "BID": 4980685,
+    "BeerName": "Foggy Window",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Monkish Brewing Co.",
+    "Origin": "Torrance, CA United States",
+    "BeerAbv": 8.10,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1523848_60fa4_sm.jpeg",
+    "HallRating": 16.22,
+    "BAR": 10.84,
+    "StylePlus": "100",
+    "RatingScore": 4.40,
+    "AdjustedRating": "2.5888518159952244686441849861"
+  },
+  {
+    "BID": 2015762,
+    "BeerName": "Buried At Sea",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Galway Bay Brewery",
+    "Origin": "Oranmore, County Galway Ireland",
+    "BeerAbv": 4.50,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-282923_85d10_sm.jpeg",
+    "HallRating": 16.21,
+    "BAR": 10.82,
+    "StylePlus": "103",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.5458744785515158532522487217"
+  },
+  {
+    "BID": 9747,
+    "BeerName": "Plain Porter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "The Porterhouse Brew Co.",
+    "Origin": "Dublin, County Dublin Ireland",
+    "BeerAbv": 4.20,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9747_a97ed_sm.jpeg",
+    "HallRating": 16.21,
+    "BAR": 10.82,
+    "StylePlus": "106",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.5438098933584714519243528884"
   },
   {
     "BID": 4011418,
@@ -257,7 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3463265_738e1_sm.jpeg",
     "HallRating": 16.21,
     "BAR": 10.82,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.5504471657595975485175714283"
   },
   {
     "BID": 15185,
@@ -270,20 +340,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_15185_sm_066463ec6fcd44f30de8afed6201aa.jpeg",
     "HallRating": 16.21,
     "BAR": 10.82,
-    "StylePlus": "106"
-  },
-  {
-    "BID": 1310,
-    "BeerName": "Saxo",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Brasserie Caracole",
-    "Origin": "Dinant, Région Wallonne Belgium",
-    "BeerAbv": 8.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1310_b981f_sm.jpeg",
-    "HallRating": 16.21,
-    "BAR": 10.83,
-    "StylePlus": "107"
+    "StylePlus": "106",
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.56016629551872675087082448"
   },
   {
     "BID": 2019872,
@@ -296,7 +355,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1187911_8845c_sm.jpeg",
     "HallRating": 16.21,
     "BAR": 10.82,
-    "StylePlus": "102"
+    "StylePlus": "102",
+    "RatingScore": 3.85,
+    "AdjustedRating": "2.5591921317959634815185221212"
   },
   {
     "BID": 10798,
@@ -309,19 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10798_81cd8_sm.jpeg",
     "HallRating": 16.21,
     "BAR": 10.82,
-    "StylePlus": "100"
-  },
-  {
-    "BID": 22577,
-    "BeerName": "Singapore IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Saugatuck Brewing Company",
-    "Origin": "Douglas, MI United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 72.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22577_cf179_sm.jpeg",
-    "HallRating": 16.21,
-    "BAR": 10.82,
-    "StylePlus": "104"
+    "StylePlus": "100",
+    "RatingScore": 4.02,
+    "AdjustedRating": "2.5677103556521538594110481274"
   }
 ]

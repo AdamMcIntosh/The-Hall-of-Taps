@@ -1,29 +1,48 @@
 [
   {
-    "BID": 6841,
-    "BeerName": "Tecate Light",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Cervecería Cuauhtémoc Moctezuma S.A. de C.V.",
-    "Origin": "Monterrey, Nuevo León Mexico",
-    "BeerAbv": 3.90,
-    "BeerIbu": 7.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6841_b5196_sm.jpeg",
+    "BID": 4863,
+    "BeerName": "Wailua Wheat",
+    "BeerStyle": "Wheat Beer - Fruited",
+    "BreweryName": "Kona Brewing Hawaii",
+    "Origin": "Kailua-Kona, HI United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_4863_sm_e35936a34ddc0c0ed2f40847fedd00.jpeg",
     "HallRating": 16.93,
-    "BAR": 11.78,
-    "StylePlus": "95"
+    "BAR": 11.77,
+    "StylePlus": "112",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.6071529319189218244868589906"
   },
   {
-    "BID": 3108,
-    "BeerName": "Skull Splitter",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "Orkney Brewery",
-    "Origin": "Stromness, Orkney Islands Scotland",
-    "BeerAbv": 8.50,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3108_8e1f3_sm.jpeg",
+    "BID": 11354,
+    "BeerName": "Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Boulevard Brewing Co.",
+    "Origin": "Kansas City, MO United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11354_464e8_sm.jpeg",
     "HallRating": 16.93,
     "BAR": 11.78,
-    "StylePlus": "103"
+    "StylePlus": "110",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.6121960301704789604222629347"
+  },
+  {
+    "BID": 1669562,
+    "BeerName": "Imperial",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Cervecería Costa Rica (Florida Bebidas)",
+    "Origin": "Belén, Heredia Costa Rica",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6945_57a76_sm.jpeg",
+    "HallRating": 16.93,
+    "BAR": 11.77,
+    "StylePlus": "99",
+    "RatingScore": 3.09,
+    "AdjustedRating": "2.5584616327615055785619989656"
   },
   {
     "BID": 6960,
@@ -36,20 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6960_4c556_sm.jpeg",
     "HallRating": 16.93,
     "BAR": 11.78,
-    "StylePlus": "110"
-  },
-  {
-    "BID": 8523,
-    "BeerName": "Denogginizer",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Drake’s Brewing Company",
-    "Origin": "San Leandro, CA United States",
-    "BeerAbv": 9.75,
-    "BeerIbu": 91.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8523_500e6_sm.jpeg",
-    "HallRating": 16.93,
-    "BAR": 11.78,
-    "StylePlus": "101"
+    "StylePlus": "110",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.6178573806376588464709320214"
   },
   {
     "BID": 3339048,
@@ -62,7 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1347706_2a15d_sm.jpeg",
     "HallRating": 16.92,
     "BAR": 11.76,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 4.17,
+    "AdjustedRating": "2.6790205583531116404304628985"
   },
   {
     "BID": 23046,
@@ -75,7 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-23046_eae9f_sm.jpeg",
     "HallRating": 16.92,
     "BAR": 11.76,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.98,
+    "AdjustedRating": "2.6576956115343910112764266058"
   },
   {
     "BID": 3336001,
@@ -88,33 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-40151_48ab1_sm.jpeg",
     "HallRating": 16.91,
     "BAR": 11.75,
-    "StylePlus": "112"
-  },
-  {
-    "BID": 5960,
-    "BeerName": "Tumbler",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Sierra Nevada Brewing Co.",
-    "Origin": "Chico, CA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 37.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5960_f6537_sm.jpeg",
-    "HallRating": 16.91,
-    "BAR": 11.76,
-    "StylePlus": "109"
-  },
-  {
-    "BID": 13920,
-    "BeerName": "Stone Smoked Porter w/ Vanilla Bean",
-    "BeerStyle": "Porter - Smoked",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 53.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8337_3267a_sm.jpeg",
-    "HallRating": 16.91,
-    "BAR": 11.75,
-    "StylePlus": "102"
+    "StylePlus": "112",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.6151883754527525346611308802"
   },
   {
     "BID": 4846,
@@ -127,33 +115,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4846_47104_sm.jpeg",
     "HallRating": 16.91,
     "BAR": 11.75,
-    "StylePlus": "109"
+    "StylePlus": "109",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.6184496107102499889100474074"
   },
   {
-    "BID": 2016216,
-    "BeerName": "Leffe Radieuse",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Abbaye de Leffe",
-    "Origin": "Leuven, Vlaams Gewest Belgium",
-    "BeerAbv": 8.20,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5942_fa328_sm.jpeg",
-    "HallRating": 16.90,
-    "BAR": 11.74,
-    "StylePlus": "105"
+    "BID": 5960,
+    "BeerName": "Tumbler",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Sierra Nevada Brewing Co.",
+    "Origin": "Chico, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 37.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5960_f6537_sm.jpeg",
+    "HallRating": 16.91,
+    "BAR": 11.76,
+    "StylePlus": "109",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.6079079188890240435070124515"
   },
   {
-    "BID": 5942,
-    "BeerName": "Leffe Radieuse",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Abbaye de Leffe",
-    "Origin": "Leuven, Vlaams Gewest Belgium",
-    "BeerAbv": 8.20,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5942_fa328_sm.jpeg",
-    "HallRating": 16.90,
-    "BAR": 11.74,
-    "StylePlus": "105"
+    "BID": 13920,
+    "BeerName": "Stone Smoked Porter w/ Vanilla Bean",
+    "BeerStyle": "Porter - Smoked",
+    "BreweryName": "Stone Brewing",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 53.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8337_3267a_sm.jpeg",
+    "HallRating": 16.91,
+    "BAR": 11.75,
+    "StylePlus": "102",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.6376438540348801526965819449"
   },
   {
     "BID": 2530,
@@ -166,20 +160,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2530_bcee1_sm.jpeg",
     "HallRating": 16.90,
     "BAR": 11.74,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 3.91,
+    "AdjustedRating": "2.6474762025337394503854854294"
   },
   {
-    "BID": 11047,
-    "BeerName": "Original",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Feldschlösschen",
-    "Origin": "Rheinfelden, Aargau Switzerland",
-    "BeerAbv": 4.80,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11047_dd720_sm.jpeg",
+    "BID": 5942,
+    "BeerName": "Leffe Radieuse",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 8.20,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5942_fa328_sm.jpeg",
     "HallRating": 16.90,
     "BAR": 11.74,
-    "StylePlus": "99"
+    "StylePlus": "105",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.6663030783691351516675769105"
   },
   {
     "BID": 28809,
@@ -192,20 +190,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-28809_e32a4_sm.jpeg",
     "HallRating": 16.90,
     "BAR": 11.73,
-    "StylePlus": "100"
+    "StylePlus": "100",
+    "RatingScore": 4.09,
+    "AdjustedRating": "2.6660593086907585354092692519"
   },
   {
-    "BID": 15894,
-    "BeerName": "White Thai",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Westbrook Brewing Co.",
-    "Origin": "Mount Pleasant, SC United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WhiteThai_15894.jpeg",
-    "HallRating": 16.89,
-    "BAR": 11.72,
-    "StylePlus": "114"
+    "BID": 11047,
+    "BeerName": "Original",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Feldschlösschen",
+    "Origin": "Rheinfelden, Aargau Switzerland",
+    "BeerAbv": 4.80,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11047_dd720_sm.jpeg",
+    "HallRating": 16.90,
+    "BAR": 11.74,
+    "StylePlus": "99",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.5523614134794842477675025608"
+  },
+  {
+    "BID": 2016216,
+    "BeerName": "Leffe Radieuse",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 8.20,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5942_fa328_sm.jpeg",
+    "HallRating": 16.90,
+    "BAR": 11.74,
+    "StylePlus": "105",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.6055489762778467894331238355"
   },
   {
     "BID": 13488,
@@ -218,20 +235,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13488_f0f9c_sm.jpeg",
     "HallRating": 16.89,
     "BAR": 11.72,
-    "StylePlus": "105"
+    "StylePlus": "105",
+    "RatingScore": 4.25,
+    "AdjustedRating": "2.6813539361121902865003521394"
   },
   {
-    "BID": 3347549,
-    "BeerName": "Cloud Candy IPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Mighty Squirrel Brewing Co.",
-    "Origin": "Waltham, MA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3077530_faaf3_sm.jpeg",
+    "BID": 15894,
+    "BeerName": "White Thai",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Westbrook Brewing Co.",
+    "Origin": "Mount Pleasant, SC United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WhiteThai_15894.jpeg",
     "HallRating": 16.89,
-    "BAR": 11.73,
-    "StylePlus": "101"
+    "BAR": 11.72,
+    "StylePlus": "114",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.6101955246931600173496609414"
+  },
+  {
+    "BID": 8324,
+    "BeerName": "Stash IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Independence Brewing Co.",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 94.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8324_59fd1_sm.jpeg",
+    "HallRating": 16.89,
+    "BAR": 11.72,
+    "StylePlus": "104",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.6254217679675148903124511271"
   },
   {
     "BID": 2870,
@@ -244,46 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2870_49fb6_sm.jpeg",
     "HallRating": 16.89,
     "BAR": 11.72,
-    "StylePlus": "107"
-  },
-  {
-    "BID": 4516,
-    "BeerName": "The Reverend",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Avery Brewing Co.",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 24.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4516_c4b7d_sm.jpeg",
-    "HallRating": 16.89,
-    "BAR": 11.73,
-    "StylePlus": "101"
-  },
-  {
-    "BID": 1671557,
-    "BeerName": "Marshal Zhukov's",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5726_2cb27_sm.jpeg",
-    "HallRating": 16.89,
-    "BAR": 11.73,
-    "StylePlus": "100"
-  },
-  {
-    "BID": 1666884,
-    "BeerName": "One Claw",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Westbrook Brewing Co.",
-    "Origin": "Mount Pleasant, SC United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_371158_sm_6c4ec057faae480563e438c808b09a.jpeg",
-    "HallRating": 16.89,
-    "BAR": 11.72,
-    "StylePlus": "110"
+    "StylePlus": "107",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.633036912917844382703894135"
   },
   {
     "BID": 1671773,
@@ -296,7 +295,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-85303_c6c8f_sm.jpeg",
     "HallRating": 16.89,
     "BAR": 11.72,
-    "StylePlus": "103"
+    "StylePlus": "103",
+    "RatingScore": 3.86,
+    "AdjustedRating": "2.6394671832639592250906198602"
+  },
+  {
+    "BID": 4516,
+    "BeerName": "The Reverend",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Avery Brewing Co.",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 24.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4516_c4b7d_sm.jpeg",
+    "HallRating": 16.89,
+    "BAR": 11.73,
+    "StylePlus": "101",
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.6492481333491282289769821184"
   },
   {
     "BID": 7614,
@@ -309,7 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7614_b03d7_sm.jpeg",
     "HallRating": 16.89,
     "BAR": 11.73,
-    "StylePlus": "107"
+    "StylePlus": "107",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.6017654186573829627022662066"
   },
   {
     "BID": 5279,
@@ -322,6 +340,38 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5279_2107a_sm.jpeg",
     "HallRating": 16.89,
     "BAR": 11.72,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.83,
+    "AdjustedRating": "2.636540339022431362762515896"
+  },
+  {
+    "BID": 1671557,
+    "BeerName": "Marshal Zhukov's",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5726_2cb27_sm.jpeg",
+    "HallRating": 16.89,
+    "BAR": 11.73,
+    "StylePlus": "100",
+    "RatingScore": 4.18,
+    "AdjustedRating": "2.674932698794661398709505292"
+  },
+  {
+    "BID": 1666884,
+    "BeerName": "One Claw",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Westbrook Brewing Co.",
+    "Origin": "Mount Pleasant, SC United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_371158_sm_6c4ec057faae480563e438c808b09a.jpeg",
+    "HallRating": 16.89,
+    "BAR": 11.72,
+    "StylePlus": "110",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.6283408382724308605290844451"
   }
 ]

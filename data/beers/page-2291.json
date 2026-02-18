@@ -1,107 +1,123 @@
 [
   {
-    "BID": 2014670,
-    "BeerName": "Ari's Fault",
+    "BID": 12520,
+    "BeerName": "Lupita Durango",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Cervecería Centro Americana",
+    "Origin": "Ciudad de Guatemala, Guatemala",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12520_c3b8f_sm.jpeg",
+    "HallRating": -14.73,
+    "BAR": -0.38,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.4904215715685471235346923248"
+  },
+  {
+    "BID": 4815339,
+    "BeerName": "Cheerday Fresh",
     "BeerStyle": "Lager - American Light",
-    "BreweryName": "Barrel Mountain Brewing",
-    "Origin": "Battle Ground, WA United States",
+    "BreweryName": "Hangzhou Qiandaohu Beer Co. (Cheerday Brewery - 千岛湖)",
+    "Origin": "Hang Zhou Shi, Zhe Jiang Sheng China / People's Republic of China",
+    "BeerAbv": 3.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-11680_4ff49.jpeg",
+    "HallRating": -14.73,
+    "BAR": -0.38,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.4904215715685471235346923248"
+  },
+  {
+    "BID": 4980487,
+    "BeerName": "Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Bunkhouse Bistro",
+    "Origin": "Belfast, Lisburn and Castlereagh Northern Ireland",
+    "BeerAbv": 4.50,
+    "BeerIbu": 2.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-527683_66e96.jpeg",
+    "HallRating": -14.73,
+    "BAR": -0.38,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.4904215715685471235346923248"
+  },
+  {
+    "BID": 4960340,
+    "BeerName": "Anheuser-bush Water",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Anheuser-Busch",
+    "Origin": "St. Louis, MO United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-151832_65726.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-44_b0ef2.jpeg",
     "HallRating": -14.73,
     "BAR": -0.38,
-    "StylePlus": null
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.4904215715685471235346923248"
   },
   {
-    "BID": 1674754,
-    "BeerName": "LagerStatus - På Lager",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Blazing Sun Brewery",
-    "Origin": "Norway",
-    "BeerAbv": 5.80,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-229842_df6e6.jpeg",
-    "HallRating": -14.73,
-    "BAR": -0.38,
-    "StylePlus": null
-  },
-  {
-    "BID": 3571,
-    "BeerName": "Paradise Pale Lager",
+    "BID": 3333981,
+    "BeerName": "Колос Барное",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Hapa’s Brew Haus and Restaurant",
-    "Origin": "Kihei, HI United States",
+    "BreweryName": "Borinskoe (Боринское)",
+    "Origin": "Borinskoye, Липецкая область Russia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-306143_bc317.jpeg",
+    "HallRating": -14.73,
+    "BAR": -0.38,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.4904215715685471235346923248"
+  },
+  {
+    "BID": 3338444,
+    "BeerName": "Sasinia Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Browar Sasinia",
+    "Origin": "Działdowo, Warmian-Masurian Voivodeship Poland",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-631_39033.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426127_f3d9c.jpeg",
     "HallRating": -14.73,
     "BAR": -0.38,
-    "StylePlus": null
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.4904215715685471235346923248"
   },
   {
-    "BID": 1674541,
-    "BeerName": "Sommarlager – Summer Edition 2016",
+    "BID": 18422,
+    "BeerName": "Gentle Annie Honeylager",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Wenngarns Dryckerier",
-    "Origin": "Sigtuna, Stockholms län Sweden",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -14.73,
-    "BAR": -0.38,
-    "StylePlus": null
-  },
-  {
-    "BID": 4016398,
-    "BeerName": "Kuro Sakura Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Australian Beer Co.",
-    "Origin": "Yenda, New South Wales Australia",
+    "BreweryName": "Arrow Brewing Company",
+    "Origin": "Arrowtown, Otago New Zealand",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-101175_abcf2.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-ArrowBrewingCompany_4987.jpeg",
     "HallRating": -14.73,
     "BAR": -0.38,
-    "StylePlus": null
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.4904215715685471235346923248"
   },
   {
-    "BID": 25193,
-    "BeerName": "Mehnat Pivo 2",
+    "BID": 1330,
+    "BeerName": "Adler Brau Eagle Lager",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Algofirm Mehnat (Mehnat Pivo)",
-    "Origin": "Tashkent, Toshkent Viloyati Uzbekistan",
-    "BeerAbv": 4.40,
+    "BreweryName": "Appleton Brewing/Adler Brau",
+    "Origin": "Appleton, WI United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-6969_ab31d.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-AppletonBrewing_46.jpeg",
     "HallRating": -14.73,
     "BAR": -0.38,
-    "StylePlus": null
-  },
-  {
-    "BID": 25166,
-    "BeerName": "Azia Premium",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Ziyobakhsh Uni Trading",
-    "Origin": "Bukhara, Buxoro Viloyati Uzbekistan",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -14.73,
-    "BAR": -0.38,
-    "StylePlus": null
-  },
-  {
-    "BID": 3344508,
-    "BeerName": "Щегловское",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Kalinkino (Калинкино)",
-    "Origin": "Калинкино, Кемеровская область Russia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-245297_030d0.jpeg",
-    "HallRating": -14.73,
-    "BAR": -0.38,
-    "StylePlus": null
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.4904215715685471235346923248"
   },
   {
     "BID": 3342775,
@@ -114,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-13334_ac3ef.jpeg",
     "HallRating": -14.83,
     "BAR": -3.49,
-    "StylePlus": "52"
+    "StylePlus": "52",
+    "RatingScore": 2.34,
+    "AdjustedRating": "2.4904246221375213711846109601"
   },
   {
     "BID": 22970,
@@ -127,20 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-WineryExchangeWorldBrews_34528_77069.jpeg",
     "HallRating": -14.89,
     "BAR": -3.45,
-    "StylePlus": "55"
-  },
-  {
-    "BID": 18465,
-    "BeerName": "Frings Old Ale",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "Brauhaus Frings",
-    "Origin": "Whangarei, Northland New Zealand",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -14.96,
-    "BAR": -3.40,
-    "StylePlus": "55"
+    "StylePlus": "55",
+    "RatingScore": 2.45,
+    "AdjustedRating": "2.490431597780538133982271062"
   },
   {
     "BID": 22485,
@@ -153,7 +160,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-11970_28f43.jpeg",
     "HallRating": -14.96,
     "BAR": -3.40,
-    "StylePlus": "59"
+    "StylePlus": "59",
+    "RatingScore": 2.50,
+    "AdjustedRating": "2.4904345736884178822420810786"
+  },
+  {
+    "BID": 18465,
+    "BeerName": "Frings Old Ale",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "Brauhaus Frings",
+    "Origin": "Whangarei, Northland New Zealand",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -14.96,
+    "BAR": -3.40,
+    "StylePlus": "55",
+    "RatingScore": 2.46,
+    "AdjustedRating": "2.4904322738206602783043075006"
   },
   {
     "BID": 6010984,
@@ -166,7 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": -15.21,
     "BAR": -3.25,
-    "StylePlus": "57"
+    "StylePlus": "57",
+    "RatingScore": 1.61,
+    "AdjustedRating": "2.4903900041761961564624868739"
   },
   {
     "BID": 4981724,
@@ -179,7 +205,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-36169_b92f1.jpeg",
     "HallRating": -15.30,
     "BAR": -3.20,
-    "StylePlus": "55"
+    "StylePlus": "55",
+    "RatingScore": 1.93,
+    "AdjustedRating": "2.5587191957989471792758454916"
   },
   {
     "BID": 6010982,
@@ -192,33 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": -15.41,
     "BAR": -3.14,
-    "StylePlus": "55"
-  },
-  {
-    "BID": 4940146,
-    "BeerName": "Rosé",
-    "BeerStyle": "Wheat Beer - Other",
-    "BreweryName": "One Beer",
-    "Origin": "Neuilly-sur-Seine, Île-de-France France",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-523527_20daa.jpeg",
-    "HallRating": -15.53,
-    "BAR": -3.08,
-    "StylePlus": "55"
-  },
-  {
-    "BID": 4837,
-    "BeerName": "Greed",
-    "BeerStyle": "Pale Ale - Belgian",
-    "BreweryName": "Midnight Sun Brewing Co.",
-    "Origin": "Anchorage, AK United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_4837_f66018c807a2058bb7029fc76ed8.jpeg",
-    "HallRating": -15.53,
-    "BAR": -3.08,
-    "StylePlus": "58"
+    "StylePlus": "55",
+    "RatingScore": 1.81,
+    "AdjustedRating": "2.4904034055231564242312195934"
   },
   {
     "BID": 19742,
@@ -231,7 +235,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19742_27f96_sm.jpeg",
     "HallRating": -15.53,
     "BAR": -3.08,
-    "StylePlus": "56"
+    "StylePlus": "56",
+    "RatingScore": 2.31,
+    "AdjustedRating": "2.4904263555562938237827992293"
+  },
+  {
+    "BID": 4940146,
+    "BeerName": "Rosé",
+    "BeerStyle": "Wheat Beer - Other",
+    "BreweryName": "One Beer",
+    "Origin": "Neuilly-sur-Seine, Île-de-France France",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-523527_20daa.jpeg",
+    "HallRating": -15.53,
+    "BAR": -3.08,
+    "StylePlus": "55",
+    "RatingScore": 2.29,
+    "AdjustedRating": "2.4904255055924172885355472375"
+  },
+  {
+    "BID": 4837,
+    "BeerName": "Greed",
+    "BeerStyle": "Pale Ale - Belgian",
+    "BreweryName": "Midnight Sun Brewing Co.",
+    "Origin": "Anchorage, AK United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_4837_f66018c807a2058bb7029fc76ed8.jpeg",
+    "HallRating": -15.53,
+    "BAR": -3.08,
+    "StylePlus": "58",
+    "RatingScore": 2.46,
+    "AdjustedRating": "2.4904327302853678381371891677"
   },
   {
     "BID": 15508,
@@ -244,7 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-44_b0ef2.jpeg",
     "HallRating": -15.53,
     "BAR": -3.08,
-    "StylePlus": "60"
+    "StylePlus": "60",
+    "RatingScore": 2.32,
+    "AdjustedRating": "2.4904267805382320914064252252"
   },
   {
     "BID": 28991,
@@ -257,7 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-ChocBeerCompany_3040.jpeg",
     "HallRating": -15.82,
     "BAR": -2.94,
-    "StylePlus": "55"
+    "StylePlus": "55",
+    "RatingScore": 2.42,
+    "AdjustedRating": "2.4904313824995612327240828451"
   },
   {
     "BID": 3346199,
@@ -270,7 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-Karben4Brewing_49747.jpeg",
     "HallRating": -15.82,
     "BAR": -2.94,
-    "StylePlus": "52"
+    "StylePlus": "52",
+    "RatingScore": 1.78,
+    "AdjustedRating": "2.490407383399527483989660386"
   },
   {
     "BID": 4983,
@@ -283,7 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-FiremansPailAle_4983.jpeg",
     "HallRating": -15.99,
     "BAR": -2.87,
-    "StylePlus": "55"
+    "StylePlus": "55",
+    "RatingScore": 2.30,
+    "AdjustedRating": "2.4904273587188498065270815504"
   },
   {
     "BID": 22031,
@@ -296,20 +340,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22031_e7493_sm.jpeg",
     "HallRating": -15.99,
     "BAR": -2.87,
-    "StylePlus": "58"
+    "StylePlus": "58",
+    "RatingScore": 2.40,
+    "AdjustedRating": "2.4904308585963540938770243024"
   },
   {
-    "BID": 6010987,
-    "BeerName": "Éden",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "KöblöSör",
-    "Origin": "Hungary",
-    "BeerAbv": 4.40,
-    "BeerIbu": 19.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "BID": 3335216,
+    "BeerName": "Ale Igen",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Brygg3an",
+    "Origin": "Holm, Hallands län Sweden",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-241820_a682e.jpeg",
     "HallRating": -16.19,
     "BAR": -2.78,
-    "StylePlus": "54"
+    "StylePlus": "55",
+    "RatingScore": 2.50,
+    "AdjustedRating": "2.490434334560531748988467873"
   },
   {
     "BID": 15449,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": -16.19,
     "BAR": -2.78,
-    "StylePlus": "54"
+    "StylePlus": "54",
+    "RatingScore": 2.37,
+    "AdjustedRating": "2.4904301096978397864772494876"
   }
 ]
