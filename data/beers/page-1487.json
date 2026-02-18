@@ -10,33 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11266_58b82_sm.jpeg",
     "HallRating": 11.44,
     "BAR": 8.05,
-    "StylePlus": "87"
-  },
-  {
-    "BID": 3344027,
-    "BeerName": "Bavik Super Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Brouwerij De Brabandere",
-    "Origin": "Harelbeke, Vlaams Gewest Belgium",
-    "BeerAbv": 5.20,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17265_7a1ed_sm.jpeg",
-    "HallRating": 11.43,
-    "BAR": 8.03,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 17265,
-    "BeerName": "Bavik Super Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Brouwerij De Brabandere",
-    "Origin": "Harelbeke, Vlaams Gewest Belgium",
-    "BeerAbv": 5.20,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17265_7a1ed_sm.jpeg",
-    "HallRating": 11.43,
-    "BAR": 8.03,
-    "StylePlus": "90"
+    "StylePlus": "87",
+    "RatingScore": 3.40,
+    "AdjustedRating": "2.6218848983702301379206799337"
   },
   {
     "BID": 30056,
@@ -49,7 +25,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30056_e50ca_sm.jpeg",
     "HallRating": 11.43,
     "BAR": 8.03,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.12,
+    "AdjustedRating": "2.5794260158217494612173961561"
+  },
+  {
+    "BID": 17265,
+    "BeerName": "Bavik Super Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Brouwerij De Brabandere",
+    "Origin": "Harelbeke, Vlaams Gewest Belgium",
+    "BeerAbv": 5.20,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17265_7a1ed_sm.jpeg",
+    "HallRating": 11.43,
+    "BAR": 8.03,
+    "StylePlus": "90",
+    "RatingScore": 3.32,
+    "AdjustedRating": "2.6661588198327264858103636119"
+  },
+  {
+    "BID": 3344027,
+    "BeerName": "Bavik Super Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Brouwerij De Brabandere",
+    "Origin": "Harelbeke, Vlaams Gewest Belgium",
+    "BeerAbv": 5.20,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17265_7a1ed_sm.jpeg",
+    "HallRating": 11.43,
+    "BAR": 8.03,
+    "StylePlus": "89",
+    "RatingScore": 3.32,
+    "AdjustedRating": "2.6074628985597115431452725684"
   },
   {
     "BID": 9310,
@@ -62,7 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9310_37957_sm.jpeg",
     "HallRating": 11.42,
     "BAR": 8.02,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.5689436264763916568871800037"
   },
   {
     "BID": 5512,
@@ -75,7 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5512_89997_sm.jpeg",
     "HallRating": 11.42,
     "BAR": 8.02,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.6254442759367390125199027335"
   },
   {
     "BID": 5543,
@@ -88,20 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5543_c9a96_sm.jpeg",
     "HallRating": 11.42,
     "BAR": 8.03,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 21255,
-    "BeerName": "Alfa Edel Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Alfa Bierbrouwerij",
-    "Origin": "Schinnen, Limburg Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21255_8fdfc_sm.jpeg",
-    "HallRating": 11.41,
-    "BAR": 8.00,
-    "StylePlus": "90"
+    "StylePlus": "89",
+    "RatingScore": 3.11,
+    "AdjustedRating": "2.5775266895215383499127120359"
   },
   {
     "BID": 2013910,
@@ -114,33 +115,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21255_8fdfc_sm.jpeg",
     "HallRating": 11.41,
     "BAR": 8.00,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.27,
+    "AdjustedRating": "2.5971483028451622356898929728"
   },
   {
-    "BID": 1667128,
-    "BeerName": "Pilsener",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Holsten-Brauerei AG",
-    "Origin": "Altona-Nord, Hamburg Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-31426_e5d0a_sm.jpeg",
-    "HallRating": 11.40,
-    "BAR": 7.99,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 16565,
-    "BeerName": "Krachtig Kanon",
-    "BeerStyle": "Malt Liquor",
-    "BreweryName": "Koninklijke Grolsch",
-    "Origin": "Enschede, Overijssel Netherlands",
-    "BeerAbv": 11.60,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16565_b66a4_sm.jpeg",
-    "HallRating": 11.40,
+    "BID": 21255,
+    "BeerName": "Alfa Edel Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Alfa Bierbrouwerij",
+    "Origin": "Schinnen, Limburg Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21255_8fdfc_sm.jpeg",
+    "HallRating": 11.41,
     "BAR": 8.00,
-    "StylePlus": "109"
+    "StylePlus": "90",
+    "RatingScore": 3.27,
+    "AdjustedRating": "2.656103790365616358978289115"
   },
   {
     "BID": 6497,
@@ -153,7 +145,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6497_1ea6d_sm.jpeg",
     "HallRating": 11.40,
     "BAR": 7.99,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.6238129783730113289224486426"
+  },
+  {
+    "BID": 1667128,
+    "BeerName": "Pilsener",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Holsten-Brauerei AG",
+    "Origin": "Altona-Nord, Hamburg Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-31426_e5d0a_sm.jpeg",
+    "HallRating": 11.40,
+    "BAR": 7.99,
+    "StylePlus": "90",
+    "RatingScore": 2.95,
+    "AdjustedRating": "2.552559876570316017927908916"
+  },
+  {
+    "BID": 16565,
+    "BeerName": "Krachtig Kanon",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Koninklijke Grolsch",
+    "Origin": "Enschede, Overijssel Netherlands",
+    "BeerAbv": 11.60,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16565_b66a4_sm.jpeg",
+    "HallRating": 11.40,
+    "BAR": 8.00,
+    "StylePlus": "109",
+    "RatingScore": 3.27,
+    "AdjustedRating": "2.5961450231670707433995116138"
   },
   {
     "BID": 3345999,
@@ -166,7 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-344355_61cce_sm.jpeg",
     "HallRating": 11.39,
     "BAR": 7.99,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.34,
+    "AdjustedRating": "2.6041615372818141762586537655"
   },
   {
     "BID": 4484,
@@ -179,7 +205,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4484_361e6_sm.jpeg",
     "HallRating": 11.39,
     "BAR": 7.98,
-    "StylePlus": "82"
+    "StylePlus": "82",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.6220127962721055407974630574"
   },
   {
     "BID": 1667911,
@@ -192,20 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-344355_61cce_sm.jpeg",
     "HallRating": 11.39,
     "BAR": 7.99,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 24433,
-    "BeerName": "Sleepy Bulldog Pale Ale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Gotlands Bryggeri",
-    "Origin": "Visby, Gotlands län Sweden",
-    "BeerAbv": 4.80,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24433_ce1bd_sm.jpeg",
-    "HallRating": 11.38,
-    "BAR": 7.97,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.34,
+    "AdjustedRating": "2.6633066423800068247566493167"
   },
   {
     "BID": 26496,
@@ -218,46 +235,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26496_74346_sm.jpeg",
     "HallRating": 11.38,
     "BAR": 7.97,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.07,
+    "AdjustedRating": "2.5668477551081328329328049157"
   },
   {
-    "BID": 1668507,
-    "BeerName": "Cherry Blonde Berry Bear",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Growling Bear Brewing Company",
-    "Origin": "Woodbridge, VA United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-222519_7ad33.jpeg",
-    "HallRating": 11.34,
-    "BAR": 1.67,
-    "StylePlus": "84"
-  },
-  {
-    "BID": 4981655,
-    "BeerName": "Eventide",
-    "BeerStyle": "Table Beer",
-    "BreweryName": "Grind City Brewing Company",
-    "Origin": "Memphis, TN United States",
-    "BeerAbv": 4.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-464921_a9b42.jpeg",
-    "HallRating": 11.34,
-    "BAR": 1.67,
-    "StylePlus": "83"
-  },
-  {
-    "BID": 2014898,
-    "BeerName": "1892",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Carlsberg Srbija",
-    "Origin": "Čelarevo, Vojvodina Serbia",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CarlsbergSrbija_50117_20807.jpeg",
-    "HallRating": 11.34,
-    "BAR": 1.67,
-    "StylePlus": "89"
+    "BID": 24433,
+    "BeerName": "Sleepy Bulldog Pale Ale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Gotlands Bryggeri",
+    "Origin": "Visby, Gotlands län Sweden",
+    "BeerAbv": 4.80,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24433_ce1bd_sm.jpeg",
+    "HallRating": 11.38,
+    "BAR": 7.97,
+    "StylePlus": "90",
+    "RatingScore": 3.38,
+    "AdjustedRating": "2.6077469799519102762110841978"
   },
   {
     "BID": 18420,
@@ -270,20 +265,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-ArrowBrewingCompany_4987.jpeg",
     "HallRating": 11.34,
     "BAR": 1.67,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 2.58,
+    "AdjustedRating": "2.4904362627698357203773005657"
   },
   {
-    "BID": 4941562,
-    "BeerName": "Bossche brouwers Bieranda",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Bossche Brouwers aan de vaart",
-    "Origin": "'s-Hertogenbosch, Noord-Brabant Netherlands",
+    "BID": 3333358,
+    "BeerName": "Lacustre Session IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Lacustre",
+    "Origin": "Chile",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-360775_9b117.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 11.34,
     "BAR": 1.67,
-    "StylePlus": "84"
+    "StylePlus": "81",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.4904550123010974388343391398"
   },
   {
     "BID": 3346300,
@@ -296,7 +295,69 @@
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 11.34,
     "BAR": 1.67,
-    "StylePlus": "91"
+    "StylePlus": "91",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.4904550123010974388343391398"
+  },
+  {
+    "BID": 4012890,
+    "BeerName": "Villains Finger",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Withnell's Brewing Co. Ltd",
+    "Origin": "Chorley, Lancashire England",
+    "BeerAbv": 4.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-199900_f91c8.jpeg",
+    "HallRating": 11.34,
+    "BAR": 1.67,
+    "StylePlus": "90",
+    "RatingScore": 3.23,
+    "AdjustedRating": "2.4904525123635958763734006632"
+  },
+  {
+    "BID": 2017459,
+    "BeerName": "Big Wheel Imperial Ale",
+    "BeerStyle": "Other",
+    "BreweryName": "Old Mill Craft Beer",
+    "Origin": "Bidwell, OH United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-OldMillCraftBeer_49759.jpeg",
+    "HallRating": 11.34,
+    "BAR": 1.67,
+    "StylePlus": "85",
+    "RatingScore": 3.45,
+    "AdjustedRating": "2.4904580122260993137874653116"
+  },
+  {
+    "BID": 3335844,
+    "BeerName": "Dont Wanna Hear It",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Big Ridge Brewing",
+    "Origin": "Surrey, BC Canada",
+    "BeerAbv": 3.70,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BigRidgeBrewingCo_7673.jpeg",
+    "HallRating": 11.34,
+    "BAR": 1.67,
+    "StylePlus": "85",
+    "RatingScore": 3.38,
+    "AdjustedRating": "2.490456262269848220064808378"
+  },
+  {
+    "BID": 2013538,
+    "BeerName": "Maritaca",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Cervejaria Suinga",
+    "Origin": "Presidente Prudente, São Paulo Brazil",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-293743_73762.jpeg",
+    "HallRating": 11.34,
+    "BAR": 1.67,
+    "StylePlus": "89",
+    "RatingScore": 3.10,
+    "AdjustedRating": "2.4904492624448438451741806437"
   },
   {
     "BID": 2016656,
@@ -309,19 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-8923_0e162.jpeg",
     "HallRating": 11.34,
     "BAR": 1.67,
-    "StylePlus": "84"
-  },
-  {
-    "BID": 3335791,
-    "BeerName": "Gloria Pale Ale",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Brasserie de La Motte Juillet",
-    "Origin": "Treban, Auvergne-Rhône-Alpes France",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-6105_73fe6.jpeg",
-    "HallRating": 11.34,
-    "BAR": 1.67,
-    "StylePlus": "86"
+    "StylePlus": "84",
+    "RatingScore": 3.25,
+    "AdjustedRating": "2.4904530123510961888655883585"
   }
 ]

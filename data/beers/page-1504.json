@@ -1,5 +1,20 @@
 [
   {
+    "BID": 7830,
+    "BeerName": "Bohemia Vienna",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Cervecería Cuauhtémoc Moctezuma S.A. de C.V.",
+    "Origin": "Monterrey, Nuevo León Mexico",
+    "BeerAbv": 4.90,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7830_c9fcb_sm.jpeg",
+    "HallRating": 10.83,
+    "BAR": 7.24,
+    "StylePlus": "86",
+    "RatingScore": 3.35,
+    "AdjustedRating": "2.5354964334933835228676568813"
+  },
+  {
     "BID": 6012,
     "BeerName": "La Blonde",
     "BeerStyle": "Blonde / Golden Ale - Other",
@@ -10,7 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012_4f009_sm.jpeg",
     "HallRating": 10.83,
     "BAR": 7.24,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 3.42,
+    "AdjustedRating": "2.5390680730343605084974377061"
   },
   {
     "BID": 5320,
@@ -23,20 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5320_0fc5c_sm.jpeg",
     "HallRating": 10.83,
     "BAR": 7.25,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 7830,
-    "BeerName": "Bohemia Vienna",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Cervecería Cuauhtémoc Moctezuma S.A. de C.V.",
-    "Origin": "Monterrey, Nuevo León Mexico",
-    "BeerAbv": 4.90,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7830_c9fcb_sm.jpeg",
-    "HallRating": 10.83,
-    "BAR": 7.24,
-    "StylePlus": "86"
+    "StylePlus": "90",
+    "RatingScore": 3.27,
+    "AdjustedRating": "2.5317361923929797160555805447"
   },
   {
     "BID": 10478,
@@ -49,7 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10478_b1fd5_sm.jpeg",
     "HallRating": 10.82,
     "BAR": 7.23,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.5392324945440457784143271227"
   },
   {
     "BID": 3335847,
@@ -62,20 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5024_20f26_sm.jpeg",
     "HallRating": 10.82,
     "BAR": 7.23,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 4981008,
-    "BeerName": "Warsteiner Radler Zitrone",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Warsteiner",
-    "Origin": "Warstein, Nordrhein-Westfalen Germany",
-    "BeerAbv": 2.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WarsteinerRadlerZitrone_95247.jpeg",
-    "HallRating": 10.82,
-    "BAR": 7.23,
-    "StylePlus": "88"
+    "StylePlus": "89",
+    "RatingScore": 3.47,
+    "AdjustedRating": "2.5408981885645229047014507033"
   },
   {
     "BID": 15373,
@@ -88,20 +85,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15373_40a23_sm.jpeg",
     "HallRating": 10.82,
     "BAR": 7.23,
-    "StylePlus": "91"
+    "StylePlus": "91",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.519305150240448942666875314"
   },
   {
-    "BID": 27197,
-    "BeerName": "Vunderbar Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Smuttynose Brewing Co.",
-    "Origin": "Hampton, NH United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-149644_d95c4_sm.jpeg",
-    "HallRating": 10.81,
+    "BID": 4981008,
+    "BeerName": "Warsteiner Radler Zitrone",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Warsteiner",
+    "Origin": "Warstein, Nordrhein-Westfalen Germany",
+    "BeerAbv": 2.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WarsteinerRadlerZitrone_95247.jpeg",
+    "HallRating": 10.82,
     "BAR": 7.23,
-    "StylePlus": "90"
+    "StylePlus": "88",
+    "RatingScore": 2.97,
+    "AdjustedRating": "2.5152260268240897154334551886"
   },
   {
     "BID": 18588,
@@ -114,33 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-66303_d6706_sm.jpeg",
     "HallRating": 10.81,
     "BAR": 7.22,
-    "StylePlus": "82"
-  },
-  {
-    "BID": 3337050,
-    "BeerName": "Basecamp",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Fourpure Brewing Co",
-    "Origin": "London, Greater London England",
-    "BeerAbv": 4.70,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-578075_e4a4e_sm.jpeg",
-    "HallRating": 10.81,
-    "BAR": 7.22,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 12700,
-    "BeerName": "Bohemia Puro Malte",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Cervejaria Bohemia",
-    "Origin": "Petrópolis, Rio de Janeiro Brazil",
-    "BeerAbv": 5.00,
-    "BeerIbu": 9.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12700_706aa_sm.jpeg",
-    "HallRating": 10.81,
-    "BAR": 7.22,
-    "StylePlus": "91"
+    "StylePlus": "82",
+    "RatingScore": 3.09,
+    "AdjustedRating": "2.5210452135731363004645652276"
   },
   {
     "BID": 29074,
@@ -153,7 +130,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29074_52bc1_sm.jpeg",
     "HallRating": 10.81,
     "BAR": 7.21,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.40,
+    "AdjustedRating": "2.5364586203578808136070863154"
+  },
+  {
+    "BID": 27197,
+    "BeerName": "Vunderbar Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Smuttynose Brewing Co.",
+    "Origin": "Hampton, NH United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-149644_d95c4_sm.jpeg",
+    "HallRating": 10.81,
+    "BAR": 7.23,
+    "StylePlus": "90",
+    "RatingScore": 3.45,
+    "AdjustedRating": "2.5396908516913841688915862654"
+  },
+  {
+    "BID": 12700,
+    "BeerName": "Bohemia Puro Malte",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Cervejaria Bohemia",
+    "Origin": "Petrópolis, Rio de Janeiro Brazil",
+    "BeerAbv": 5.00,
+    "BeerIbu": 9.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12700_706aa_sm.jpeg",
+    "HallRating": 10.81,
+    "BAR": 7.22,
+    "StylePlus": "91",
+    "RatingScore": 2.89,
+    "AdjustedRating": "2.5108062100419036904982894002"
+  },
+  {
+    "BID": 3337050,
+    "BeerName": "Basecamp",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Fourpure Brewing Co",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 4.70,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-578075_e4a4e_sm.jpeg",
+    "HallRating": 10.81,
+    "BAR": 7.22,
+    "StylePlus": "90",
+    "RatingScore": 3.19,
+    "AdjustedRating": "2.52613659746475067497040179"
   },
   {
     "BID": 5157,
@@ -166,7 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5157_54aca_sm.jpeg",
     "HallRating": 10.80,
     "BAR": 7.21,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.5393569930649343546634920317"
   },
   {
     "BID": 13350,
@@ -179,33 +205,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13350_cef57_sm.jpeg",
     "HallRating": 10.80,
     "BAR": 7.20,
-    "StylePlus": "81"
-  },
-  {
-    "BID": 6787,
-    "BeerName": "Balashi Beer",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Balashi Brewery",
-    "Origin": "Aruba",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5888_ab2e3_sm.jpeg",
-    "HallRating": 10.80,
-    "BAR": 7.20,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 1675769,
-    "BeerName": "Bare Ass Blonde Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "DuClaw Brewing Company",
-    "Origin": "Ewing Township, NJ United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 19.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-31078_7e228_sm.jpeg",
-    "HallRating": 10.80,
-    "BAR": 7.21,
-    "StylePlus": "87"
+    "StylePlus": "81",
+    "RatingScore": 3.40,
+    "AdjustedRating": "2.5356852237851342619841308287"
   },
   {
     "BID": 20744,
@@ -218,20 +220,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20744_e4553_sm.jpeg",
     "HallRating": 10.80,
     "BAR": 7.21,
-    "StylePlus": "86"
+    "StylePlus": "86",
+    "RatingScore": 3.17,
+    "AdjustedRating": "2.524561580127180307510682653"
   },
   {
-    "BID": 7402,
-    "BeerName": "San Mig Light",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "San Miguel Brewery",
-    "Origin": "Mandaluyong, Metro Manila Philippines",
+    "BID": 6787,
+    "BeerName": "Balashi Beer",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Balashi Brewery",
+    "Origin": "Aruba",
     "BeerAbv": 5.00,
-    "BeerIbu": 11.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-256957_ff7ca_sm.jpeg",
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5888_ab2e3_sm.jpeg",
     "HallRating": 10.80,
     "BAR": 7.20,
-    "StylePlus": "111"
+    "StylePlus": "89",
+    "RatingScore": 3.17,
+    "AdjustedRating": "2.5243714864891051538577760027"
+  },
+  {
+    "BID": 1675769,
+    "BeerName": "Bare Ass Blonde Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "DuClaw Brewing Company",
+    "Origin": "Ewing Township, NJ United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 19.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-31078_7e228_sm.jpeg",
+    "HallRating": 10.80,
+    "BAR": 7.21,
+    "StylePlus": "87",
+    "RatingScore": 3.39,
+    "AdjustedRating": "2.5357032105493926497595513711"
   },
   {
     "BID": 6622,
@@ -244,7 +265,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-SchultheissPilsener_6622.jpeg",
     "HallRating": 10.80,
     "BAR": 7.21,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.08,
+    "AdjustedRating": "2.5199580359179029191310204288"
+  },
+  {
+    "BID": 7402,
+    "BeerName": "San Mig Light",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "San Miguel Brewery",
+    "Origin": "Mandaluyong, Metro Manila Philippines",
+    "BeerAbv": 5.00,
+    "BeerIbu": 11.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-256957_ff7ca_sm.jpeg",
+    "HallRating": 10.80,
+    "BAR": 7.20,
+    "StylePlus": "111",
+    "RatingScore": 2.71,
+    "AdjustedRating": "2.5013431266569623330905056373"
+  },
+  {
+    "BID": 4816679,
+    "BeerName": "Frisk Pust",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Nees Bryghus",
+    "Origin": "Karby, Region Nordjylland Denmark",
+    "BeerAbv": 3.00,
+    "BeerIbu": 3.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 10.79,
+    "BAR": 1.86,
+    "StylePlus": "89",
+    "RatingScore": 2.67,
+    "AdjustedRating": "2.4904398593809750845800611463"
+  },
+  {
+    "BID": 1670512,
+    "BeerName": "Taphouse Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Marston's House Brewery",
+    "Origin": "Burton-on-Trent, Staffordshire England",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-431774_a1ff5.jpeg",
+    "HallRating": 10.79,
+    "BAR": 1.86,
+    "StylePlus": "89",
+    "RatingScore": 3.42,
+    "AdjustedRating": "2.4904642335888133298370902928"
   },
   {
     "BID": 27448,
@@ -257,7 +325,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BlueGrayBrewing_1581.jpeg",
     "HallRating": 10.79,
     "BAR": 1.86,
-    "StylePlus": "91"
+    "StylePlus": "91",
+    "RatingScore": 3.06,
+    "AdjustedRating": "2.4904525339690509721137163025"
+  },
+  {
+    "BID": 2016622,
+    "BeerName": "BRC 037",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Carson’s Brewery",
+    "Origin": "Evansville, IN United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 75.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-61139_560e8.jpeg",
+    "HallRating": 10.79,
+    "BAR": 1.86,
+    "StylePlus": "78",
+    "RatingScore": 3.32,
+    "AdjustedRating": "2.4904609836944348971361530733"
   },
   {
     "BID": 15112,
@@ -270,46 +355,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PurpleRain_15112.jpeg",
     "HallRating": 10.79,
     "BAR": 1.86,
-    "StylePlus": "84"
-  },
-  {
-    "BID": 1324,
-    "BeerName": "Wolnzacher Dunkel",
-    "BeerStyle": "Lager - Munich Dunkel",
-    "BreweryName": "Bürgerbräu Wolnzach",
-    "Origin": "Wolnzach, Bayern Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BArgerbrAuWolnzach_321.jpeg",
-    "HallRating": 10.79,
-    "BAR": 1.86,
-    "StylePlus": "86"
-  },
-  {
-    "BID": 21042,
-    "BeerName": "Vyškovské pivo Havran 11°",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Pivovar Vyškov",
-    "Origin": "Vyškov 1, Jihomoravský kraj Czech Republic",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-5984_95f2f.jpeg",
-    "HallRating": 10.79,
-    "BAR": 1.86,
-    "StylePlus": "87"
-  },
-  {
-    "BID": 1674787,
-    "BeerName": "Table Pale",
-    "BeerStyle": "Table Beer",
-    "BreweryName": "Hammerton Brewery",
-    "Origin": "London, Greater London England",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-126739_209fd.jpeg",
-    "HallRating": 10.79,
-    "BAR": 1.86,
-    "StylePlus": "83"
+    "StylePlus": "84",
+    "RatingScore": 2.96,
+    "AdjustedRating": "2.4904492840746725394127790829"
   },
   {
     "BID": 20700,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20700_f97f7_sm.jpeg",
     "HallRating": 10.79,
     "BAR": 7.20,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 2.85,
+    "AdjustedRating": "2.5082088713232398764932771215"
   }
 ]

@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-28260_7dc26_sm.jpeg",
     "HallRating": 10.74,
     "BAR": 7.13,
-    "StylePlus": "86"
+    "StylePlus": "86",
+    "RatingScore": 3.49,
+    "AdjustedRating": "2.5356282957320153780430799473"
   },
   {
     "BID": 10534,
@@ -23,20 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_10534_sm_9e4e20cf0f9b94186e700b01633f7b.jpeg",
     "HallRating": 10.74,
     "BAR": 7.12,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 30604,
-    "BeerName": "Joe’s Pils Hoppy American Pilsner",
-    "BeerStyle": "Pilsner - American",
-    "BreweryName": "Avery Brewing Co.",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-JoesPremiumAmericanPilsner_7998.jpeg",
-    "HallRating": 10.73,
-    "BAR": 7.10,
-    "StylePlus": "92"
+    "StylePlus": "89",
+    "RatingScore": 3.15,
+    "AdjustedRating": "2.5198599869364405344144893804"
   },
   {
     "BID": 6446,
@@ -49,33 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6446_2364c_sm.jpeg",
     "HallRating": 10.73,
     "BAR": 7.11,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 2689,
-    "BeerName": "Bucanero Fuerte / Cubanero Fuerte",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Cerveceria Bucanero",
-    "Origin": "Holguín, Cuba",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2689_5ecba_sm.jpeg",
-    "HallRating": 10.73,
-    "BAR": 7.11,
-    "StylePlus": "91"
-  },
-  {
-    "BID": 13451,
-    "BeerName": "Helles",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Hofbräuhaus Traunstein",
-    "Origin": "Traunstein, Bayern Germany",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13451_58eed_sm.jpeg",
-    "HallRating": 10.73,
-    "BAR": 7.11,
-    "StylePlus": "89"
+    "StylePlus": "90",
+    "RatingScore": 3.26,
+    "AdjustedRating": "2.5245180939094082160194295828"
   },
   {
     "BID": 7998,
@@ -88,20 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-JoesPremiumAmericanPilsner_7998.jpeg",
     "HallRating": 10.73,
     "BAR": 7.10,
-    "StylePlus": "94"
-  },
-  {
-    "BID": 4815272,
-    "BeerName": "Hoegaarden Wit / Blanche 0,0%",
-    "BeerStyle": "Non-Alcoholic - Wheat",
-    "BreweryName": "Brouwerij Hoegaarden",
-    "Origin": "Hoegaarden, Vlaams Gewest Belgium",
-    "BeerAbv": 0.00,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-117913_31a44_sm.jpeg",
-    "HallRating": 10.73,
-    "BAR": 7.11,
-    "StylePlus": "103"
+    "StylePlus": "94",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.5924989516842950758579133352"
   },
   {
     "BID": 7438,
@@ -114,7 +70,69 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-XXXXGold_7438.jpeg",
     "HallRating": 10.73,
     "BAR": 7.11,
-    "StylePlus": "111"
+    "StylePlus": "111",
+    "RatingScore": 2.69,
+    "AdjustedRating": "2.4992085236726976034859893481"
+  },
+  {
+    "BID": 13451,
+    "BeerName": "Helles",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Hofbräuhaus Traunstein",
+    "Origin": "Traunstein, Bayern Germany",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13451_58eed_sm.jpeg",
+    "HallRating": 10.73,
+    "BAR": 7.11,
+    "StylePlus": "89",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.5339906587699878028572548422"
+  },
+  {
+    "BID": 2689,
+    "BeerName": "Bucanero Fuerte / Cubanero Fuerte",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Cerveceria Bucanero",
+    "Origin": "Holguín, Cuba",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2689_5ecba_sm.jpeg",
+    "HallRating": 10.73,
+    "BAR": 7.11,
+    "StylePlus": "91",
+    "RatingScore": 2.93,
+    "AdjustedRating": "2.5098210790873161969433441014"
+  },
+  {
+    "BID": 30604,
+    "BeerName": "Joe’s Pils Hoppy American Pilsner",
+    "BeerStyle": "Pilsner - American",
+    "BreweryName": "Avery Brewing Co.",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-JoesPremiumAmericanPilsner_7998.jpeg",
+    "HallRating": 10.73,
+    "BAR": 7.10,
+    "StylePlus": "92",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.5271733770109417446794181262"
+  },
+  {
+    "BID": 4815272,
+    "BeerName": "Hoegaarden Wit / Blanche 0,0%",
+    "BeerStyle": "Non-Alcoholic - Wheat",
+    "BreweryName": "Brouwerij Hoegaarden",
+    "Origin": "Hoegaarden, Vlaams Gewest Belgium",
+    "BeerAbv": 0.00,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-117913_31a44_sm.jpeg",
+    "HallRating": 10.73,
+    "BAR": 7.11,
+    "StylePlus": "103",
+    "RatingScore": 2.75,
+    "AdjustedRating": "2.5018578671189177885786217017"
   },
   {
     "BID": 8510,
@@ -127,72 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8510_97ceb_sm.jpeg",
     "HallRating": 10.73,
     "BAR": 7.11,
-    "StylePlus": "91"
-  },
-  {
-    "BID": 3865,
-    "BeerName": "Penn Pilsner",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Penn Brewery",
-    "Origin": "Pittsburgh, PA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3865_7dc48_sm.jpeg",
-    "HallRating": 10.72,
-    "BAR": 7.09,
-    "StylePlus": "86"
-  },
-  {
-    "BID": 3554,
-    "BeerName": "Karlovačko Crno",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Karlovačka Pivovara (Heineken Croatia)",
-    "Origin": "Karlovac, Karlovačka županija Croatia",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-365819_34d36_sm.jpeg",
-    "HallRating": 10.72,
-    "BAR": 7.09,
-    "StylePlus": "85"
-  },
-  {
-    "BID": 27021,
-    "BeerName": "PFUNGSTÄDTER Edel-Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Pfungstädter Privatbrauerei",
-    "Origin": "Pfungstadt, Hessen Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 32.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27021_f3e90_sm.jpeg",
-    "HallRating": 10.72,
-    "BAR": 7.09,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 17002,
-    "BeerName": "Gold",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Heavy Seas Beer",
-    "Origin": "Baltimore, MD United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17002_d2e1c_sm.jpeg",
-    "HallRating": 10.72,
-    "BAR": 7.09,
-    "StylePlus": "87"
-  },
-  {
-    "BID": 4015050,
-    "BeerName": "Wild Berry",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Truly Hard Seltzer",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2436635_2c2f1_sm.jpeg",
-    "HallRating": 10.72,
-    "BAR": 7.09,
-    "StylePlus": "84"
+    "StylePlus": "91",
+    "RatingScore": 3.29,
+    "AdjustedRating": "2.5256550394581723828677634581"
   },
   {
     "BID": 512,
@@ -205,20 +160,84 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-512_c0ffa_sm.jpeg",
     "HallRating": 10.72,
     "BAR": 7.09,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.32,
+    "AdjustedRating": "2.5261056802007832719054197264"
   },
   {
-    "BID": 2017295,
-    "BeerName": "Ongefilterd Pilsener",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Brand Bierbrouwerij",
-    "Origin": "Wijlre, Limburg Netherlands",
-    "BeerAbv": 5.20,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1975943_85d72_sm.jpeg",
-    "HallRating": 10.71,
+    "BID": 27021,
+    "BeerName": "PFUNGSTÄDTER Edel-Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Pfungstädter Privatbrauerei",
+    "Origin": "Pfungstadt, Hessen Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27021_f3e90_sm.jpeg",
+    "HallRating": 10.72,
     "BAR": 7.09,
-    "StylePlus": "89"
+    "StylePlus": "90",
+    "RatingScore": 3.08,
+    "AdjustedRating": "2.5159137974457791232721088419"
+  },
+  {
+    "BID": 17002,
+    "BeerName": "Gold",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Heavy Seas Beer",
+    "Origin": "Baltimore, MD United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17002_d2e1c_sm.jpeg",
+    "HallRating": 10.72,
+    "BAR": 7.09,
+    "StylePlus": "87",
+    "RatingScore": 3.36,
+    "AdjustedRating": "2.527951108207336178004104908"
+  },
+  {
+    "BID": 4015050,
+    "BeerName": "Wild Berry",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Truly Hard Seltzer",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2436635_2c2f1_sm.jpeg",
+    "HallRating": 10.72,
+    "BAR": 7.09,
+    "StylePlus": "84",
+    "RatingScore": 3.12,
+    "AdjustedRating": "2.517571903359804187149684582"
+  },
+  {
+    "BID": 3554,
+    "BeerName": "Karlovačko Crno",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Karlovačka Pivovara (Heineken Croatia)",
+    "Origin": "Karlovac, Karlovačka županija Croatia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-365819_34d36_sm.jpeg",
+    "HallRating": 10.72,
+    "BAR": 7.09,
+    "StylePlus": "85",
+    "RatingScore": 3.17,
+    "AdjustedRating": "2.5197116317365463100271142471"
+  },
+  {
+    "BID": 3865,
+    "BeerName": "Penn Pilsner",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Penn Brewery",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3865_7dc48_sm.jpeg",
+    "HallRating": 10.72,
+    "BAR": 7.09,
+    "StylePlus": "86",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.5264510944934713468271500645"
   },
   {
     "BID": 7014,
@@ -231,7 +250,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7014_156cf_sm.jpeg",
     "HallRating": 10.71,
     "BAR": 7.08,
-    "StylePlus": "91"
+    "StylePlus": "91",
+    "RatingScore": 2.85,
+    "AdjustedRating": "2.5055996912712743981478686043"
+  },
+  {
+    "BID": 2017295,
+    "BeerName": "Ongefilterd Pilsener",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Brand Bierbrouwerij",
+    "Origin": "Wijlre, Limburg Netherlands",
+    "BeerAbv": 5.20,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1975943_85d72_sm.jpeg",
+    "HallRating": 10.71,
+    "BAR": 7.09,
+    "StylePlus": "89",
+    "RatingScore": 3.22,
+    "AdjustedRating": "2.5216535995102971329421319877"
   },
   {
     "BID": 5621,
@@ -244,20 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5621_a1248_sm.jpeg",
     "HallRating": 10.71,
     "BAR": 7.08,
-    "StylePlus": "84"
-  },
-  {
-    "BID": 28617,
-    "BeerName": "Scarecrow Organic",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Wychwood Brewery",
-    "Origin": "Witney, Oxfordshire England",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-139763_8e794_sm.jpeg",
-    "HallRating": 10.70,
-    "BAR": 7.07,
-    "StylePlus": "90"
+    "StylePlus": "84",
+    "RatingScore": 3.29,
+    "AdjustedRating": "2.5244090366523646538443331058"
   },
   {
     "BID": 1672923,
@@ -270,20 +295,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_14832_sm_624d9b65262dd1e9f48372b3bd2997.jpeg",
     "HallRating": 10.70,
     "BAR": 7.07,
-    "StylePlus": "91"
+    "StylePlus": "91",
+    "RatingScore": 3.25,
+    "AdjustedRating": "2.5221849550139225931443861524"
   },
   {
-    "BID": 2353,
-    "BeerName": "Glühkriek",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Brouwerij Liefmans",
-    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2353_06df7_sm.jpeg",
+    "BID": 28617,
+    "BeerName": "Scarecrow Organic",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Wychwood Brewery",
+    "Origin": "Witney, Oxfordshire England",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-139763_8e794_sm.jpeg",
     "HallRating": 10.70,
     "BAR": 7.07,
-    "StylePlus": "84"
+    "StylePlus": "90",
+    "RatingScore": 3.21,
+    "AdjustedRating": "2.5206053792533807574217472307"
   },
   {
     "BID": 14832,
@@ -296,7 +325,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_14832_sm_624d9b65262dd1e9f48372b3bd2997.jpeg",
     "HallRating": 10.70,
     "BAR": 7.07,
-    "StylePlus": "92"
+    "StylePlus": "92",
+    "RatingScore": 3.25,
+    "AdjustedRating": "2.5876443262290071905779001981"
+  },
+  {
+    "BID": 2353,
+    "BeerName": "Glühkriek",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Brouwerij Liefmans",
+    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2353_06df7_sm.jpeg",
+    "HallRating": 10.70,
+    "BAR": 7.07,
+    "StylePlus": "84",
+    "RatingScore": 3.45,
+    "AdjustedRating": "2.5305760723572858653874920934"
   },
   {
     "BID": 1,
@@ -309,7 +355,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1_d4bd9_sm.jpeg",
     "HallRating": 10.69,
     "BAR": 7.06,
-    "StylePlus": "86"
+    "StylePlus": "86",
+    "RatingScore": 3.28,
+    "AdjustedRating": "2.5228604190783278790311053345"
   },
   {
     "BID": 1691,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1691_79011_sm.jpeg",
     "HallRating": 10.69,
     "BAR": 7.06,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.5291416546310455179766483598"
   }
 ]

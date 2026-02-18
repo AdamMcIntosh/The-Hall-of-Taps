@@ -1,16 +1,18 @@
 [
   {
-    "BID": 29311,
-    "BeerName": "Wisby Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Gotlands Bryggeri",
-    "Origin": "Visby, Gotlands län Sweden",
-    "BeerAbv": 5.00,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29311_4d969_sm.jpeg",
+    "BID": 3347728,
+    "BeerName": "8.6 Extreme",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Royal Swinkels",
+    "Origin": "Lieshout, Noord-Brabant Netherlands",
+    "BeerAbv": 10.50,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-467589_26373_sm.jpeg",
     "HallRating": 11.01,
-    "BAR": 7.48,
-    "StylePlus": "89"
+    "BAR": 7.49,
+    "StylePlus": "109",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.5368082701377138423592683007"
   },
   {
     "BID": 17883,
@@ -23,20 +25,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-275730_2d8a0_sm.jpeg",
     "HallRating": 11.01,
     "BAR": 7.49,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.39,
+    "AdjustedRating": "2.555592875990320813911927574"
   },
   {
-    "BID": 3347728,
-    "BeerName": "8.6 Extreme",
-    "BeerStyle": "Malt Liquor",
-    "BreweryName": "Royal Swinkels",
-    "Origin": "Lieshout, Noord-Brabant Netherlands",
-    "BeerAbv": 10.50,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-467589_26373_sm.jpeg",
+    "BID": 18075,
+    "BeerName": "Twisted Tea Original",
+    "BeerStyle": "Flavored Malt Beverage",
+    "BreweryName": "Twisted Tea Brewing Company",
+    "Origin": "Cincinnati, OH United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18075_d3e53_sm.jpeg",
     "HallRating": 11.01,
     "BAR": 7.49,
-    "StylePlus": "109"
+    "StylePlus": "95",
+    "RatingScore": 3.20,
+    "AdjustedRating": "2.54196933989887483627995465"
   },
   {
     "BID": 11935,
@@ -49,7 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WarsteinerPremiumAlkoholfrei_95254.jpeg",
     "HallRating": 11.00,
     "BAR": 7.47,
-    "StylePlus": "117"
+    "StylePlus": "117",
+    "RatingScore": 2.66,
+    "AdjustedRating": "2.5024514343897414619095075371"
   },
   {
     "BID": 10947,
@@ -62,7 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10947_51bd6_sm.jpeg",
     "HallRating": 11.00,
     "BAR": 7.47,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.16,
+    "AdjustedRating": "2.5377195587090044877568837912"
   },
   {
     "BID": 979,
@@ -75,20 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-979_ee592_sm.jpeg",
     "HallRating": 10.99,
     "BAR": 7.46,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 5200,
-    "BeerName": "Foster's Premium Ale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Carlton & United Breweries",
-    "Origin": "Abbotsford, Victoria Australia",
-    "BeerAbv": 5.50,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-FostersPremiumAle_5200.jpeg",
-    "HallRating": 10.99,
-    "BAR": 7.47,
-    "StylePlus": "90"
+    "StylePlus": "89",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.5578242935118067793684362328"
   },
   {
     "BID": 4483,
@@ -101,7 +100,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4483_7d8d5_sm.jpeg",
     "HallRating": 10.99,
     "BAR": 7.47,
-    "StylePlus": "82"
+    "StylePlus": "82",
+    "RatingScore": 3.30,
+    "AdjustedRating": "2.5471499799377914475677905009"
+  },
+  {
+    "BID": 5200,
+    "BeerName": "Foster's Premium Ale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Carlton & United Breweries",
+    "Origin": "Abbotsford, Victoria Australia",
+    "BeerAbv": 5.50,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-FostersPremiumAle_5200.jpeg",
+    "HallRating": 10.99,
+    "BAR": 7.47,
+    "StylePlus": "90",
+    "RatingScore": 2.91,
+    "AdjustedRating": "2.5198684721257011302460696577"
   },
   {
     "BID": 1673532,
@@ -114,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PilsHellas_106441.jpeg",
     "HallRating": 10.98,
     "BAR": 7.44,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 2.75,
+    "AdjustedRating": "2.5081399903340267061777987931"
   },
   {
     "BID": 2017297,
@@ -127,7 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1625659_733fa_sm.jpeg",
     "HallRating": 10.98,
     "BAR": 7.44,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 3.26,
+    "AdjustedRating": "2.5429156355962075278274392855"
   },
   {
     "BID": 30042,
@@ -140,7 +160,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30042_b76a3_sm.jpeg",
     "HallRating": 10.98,
     "BAR": 7.45,
-    "StylePlus": "84"
+    "StylePlus": "84",
+    "RatingScore": 3.11,
+    "AdjustedRating": "2.5332759683663133770557254344"
   },
   {
     "BID": 17674,
@@ -153,20 +175,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-HitachinoNestRealGingerBrew_17674.jpeg",
     "HallRating": 10.98,
     "BAR": 7.44,
-    "StylePlus": "87"
-  },
-  {
-    "BID": 19729,
-    "BeerName": "Águila",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Cervecería Bavaria",
-    "Origin": "Bogotá, Colombia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19729_0dab2_sm.jpeg",
-    "HallRating": 10.97,
-    "BAR": 7.44,
-    "StylePlus": "91"
+    "StylePlus": "87",
+    "RatingScore": 3.25,
+    "AdjustedRating": "2.542141329881859811676845618"
   },
   {
     "BID": 17190,
@@ -179,7 +190,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17190_7a9a0_sm.jpeg",
     "HallRating": 10.97,
     "BAR": 7.43,
-    "StylePlus": "91"
+    "StylePlus": "91",
+    "RatingScore": 3.01,
+    "AdjustedRating": "2.5252895519926159530840369045"
+  },
+  {
+    "BID": 19729,
+    "BeerName": "Águila",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Cervecería Bavaria",
+    "Origin": "Bogotá, Colombia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19729_0dab2_sm.jpeg",
+    "HallRating": 10.97,
+    "BAR": 7.44,
+    "StylePlus": "91",
+    "RatingScore": 2.86,
+    "AdjustedRating": "2.5155102908310833327696735373"
   },
   {
     "BID": 13717,
@@ -192,7 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_13717_b834ab8425988eb616b3a512cff3.jpeg",
     "HallRating": 10.96,
     "BAR": 7.42,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 3.45,
+    "AdjustedRating": "2.553762187507149763949629199"
   },
   {
     "BID": 1923,
@@ -205,7 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-48133_94dc6_sm.jpeg",
     "HallRating": 10.96,
     "BAR": 7.42,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.31,
+    "AdjustedRating": "2.5443349304126784360672647295"
   },
   {
     "BID": 11678,
@@ -218,85 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_11678_sm_41322575fd2d880191a73414edfc0d.jpeg",
     "HallRating": 10.96,
     "BAR": 7.43,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 3337453,
-    "BeerName": "Pale Ale",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Currahee Brewing Co.",
-    "Origin": "Alpharetta, GA United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-273582_962e6.jpeg",
-    "HallRating": 10.95,
-    "BAR": 1.80,
-    "StylePlus": "86"
-  },
-  {
-    "BID": 1666868,
-    "BeerName": "Apple Strolls Through the Strawberry Field",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "BrewPop Brewery",
-    "Origin": "Auburndale, FL United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-228847_17dc8.jpeg",
-    "HallRating": 10.95,
-    "BAR": 1.80,
-    "StylePlus": "82"
-  },
-  {
-    "BID": 3343027,
-    "BeerName": "Flanders Field Hw-1",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Inland Wharf Brewing",
-    "Origin": "Murrieta, CA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319733_23554.jpeg",
-    "HallRating": 10.95,
-    "BAR": 1.80,
-    "StylePlus": "86"
-  },
-  {
-    "BID": 19814,
-    "BeerName": "Krombacher Radler",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Krombacher Gruppe",
-    "Origin": "Kreuztal, Nordrhein-Westfalen Germany",
-    "BeerAbv": 2.50,
-    "BeerIbu": 7.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Radler_19814.jpeg",
-    "HallRating": 10.95,
-    "BAR": 7.40,
-    "StylePlus": "88"
-  },
-  {
-    "BID": 4013906,
-    "BeerName": "Jamaica",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Cerveceria Fausto",
-    "Origin": "Monterrey, Nuevo León Mexico",
-    "BeerAbv": 4.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-157586_3b15b.jpeg",
-    "HallRating": 10.95,
-    "BAR": 1.80,
-    "StylePlus": "86"
-  },
-  {
-    "BID": 1673506,
-    "BeerName": "One: Minstrel",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Silver Street Brewing Company",
-    "Origin": "Bury, Greater Manchester England",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-130340_461d2.jpeg",
-    "HallRating": 10.95,
-    "BAR": 1.80,
-    "StylePlus": "90"
+    "StylePlus": "89",
+    "RatingScore": 3.04,
+    "AdjustedRating": "2.5270125908834598608895785964"
   },
   {
     "BID": 2017317,
@@ -309,7 +265,54 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-315565_fe9c6.jpeg",
     "HallRating": 10.95,
     "BAR": 1.80,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.4904532100801025631934141958"
+  },
+  {
+    "BID": 1670442,
+    "BeerName": "Whiter Shade of Pale Ale",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Fairfield Craft Ales",
+    "Origin": "Stratford, CT United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-205807_5bafb.jpeg",
+    "HallRating": 10.95,
+    "BAR": 1.80,
+    "StylePlus": "81",
+    "RatingScore": 2.94,
+    "AdjustedRating": "2.490447510251097433347309579"
+  },
+  {
+    "BID": 1673506,
+    "BeerName": "One: Minstrel",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Silver Street Brewing Company",
+    "Origin": "Bury, Greater Manchester England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-130340_461d2.jpeg",
+    "HallRating": 10.95,
+    "BAR": 1.80,
+    "StylePlus": "90",
+    "RatingScore": 3.10,
+    "AdjustedRating": "2.4904523101071017532177134668"
+  },
+  {
+    "BID": 2018221,
+    "BeerName": "Vinterbryllup",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "Senja Handbryggeri",
+    "Origin": "Vangsvika, Troms Norway",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-200391_0c169.jpeg",
+    "HallRating": 10.95,
+    "BAR": 1.80,
+    "StylePlus": "86",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.4904592099001079630314190557"
   },
   {
     "BID": 1671239,
@@ -322,6 +325,53 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-287779_63109.jpeg",
     "HallRating": 10.95,
     "BAR": 1.80,
-    "StylePlus": "85"
+    "StylePlus": "85",
+    "RatingScore": 3.44,
+    "AdjustedRating": "2.4904625098011109329423217286"
+  },
+  {
+    "BID": 1677149,
+    "BeerName": "Lost In Spice",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Brouwerij De Koninck",
+    "Origin": "Antwerpen, Vlaams Gewest Belgium",
+    "BeerAbv": 5.20,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1569404_b0a9c_sm.jpeg",
+    "HallRating": 10.95,
+    "BAR": 7.41,
+    "StylePlus": "87",
+    "RatingScore": 3.26,
+    "AdjustedRating": "2.6043311578659095942730019955"
+  },
+  {
+    "BID": 19814,
+    "BeerName": "Krombacher Radler",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Krombacher Gruppe",
+    "Origin": "Kreuztal, Nordrhein-Westfalen Germany",
+    "BeerAbv": 2.50,
+    "BeerIbu": 7.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Radler_19814.jpeg",
+    "HallRating": 10.95,
+    "BAR": 7.40,
+    "StylePlus": "88",
+    "RatingScore": 3.09,
+    "AdjustedRating": "2.5291665816324162210070131524"
+  },
+  {
+    "BID": 1676140,
+    "BeerName": "Haka",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Officina Della Birra",
+    "Origin": "Bioggio, Ticino Switzerland",
+    "BeerAbv": 5.50,
+    "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-84596_4814d.jpeg",
+    "HallRating": 10.95,
+    "BAR": 1.80,
+    "StylePlus": "86",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.4904532100801025631934141958"
   }
 ]

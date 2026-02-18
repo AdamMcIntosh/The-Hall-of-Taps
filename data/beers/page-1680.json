@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-284128_7b0a1.jpeg",
     "HallRating": 7.06,
     "BAR": 2.09,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 1.74,
+    "AdjustedRating": "2.4903458580380854912250910501"
   },
   {
     "BID": 16234,
@@ -23,7 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16234_6c36d_sm.jpeg",
     "HallRating": 7.06,
     "BAR": 3.70,
-    "StylePlus": "78"
+    "StylePlus": "78",
+    "RatingScore": 2.37,
+    "AdjustedRating": "2.4901579607615552929846777012"
   },
   {
     "BID": 4815665,
@@ -36,33 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815665_d842f_sm.jpeg",
     "HallRating": 7.05,
     "BAR": 3.68,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 15458,
-    "BeerName": "Hammer 'n' Tongs Draught",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Australian Beer Connoisseurs/ Liquorland",
-    "Origin": "Melbourne, Victoria Australia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-83466_34431.jpeg",
-    "HallRating": 7.04,
-    "BAR": 3.64,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 3887,
-    "BeerName": "Piels Light",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Pabst Brewing Company",
-    "Origin": "San Antonio, TX United States",
-    "BeerAbv": 3.79,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_3887_sm_72d0af5ff9900e3380baac4242e8fc.jpeg",
-    "HallRating": 7.04,
-    "BAR": 2.11,
-    "StylePlus": "63"
+    "StylePlus": "66",
+    "RatingScore": 2.50,
+    "AdjustedRating": "2.490454855953286917572707564"
   },
   {
     "BID": 10810,
@@ -75,7 +55,39 @@
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 7.04,
     "BAR": 2.11,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.45,
+    "AdjustedRating": "2.49042907111519335508431217"
+  },
+  {
+    "BID": 3887,
+    "BeerName": "Piels Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Pabst Brewing Company",
+    "Origin": "San Antonio, TX United States",
+    "BeerAbv": 3.79,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_3887_sm_72d0af5ff9900e3380baac4242e8fc.jpeg",
+    "HallRating": 7.04,
+    "BAR": 2.11,
+    "StylePlus": "63",
+    "RatingScore": 2.34,
+    "AdjustedRating": "2.4904155977656786706331574365"
+  },
+  {
+    "BID": 15458,
+    "BeerName": "Hammer 'n' Tongs Draught",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Australian Beer Connoisseurs/ Liquorland",
+    "Origin": "Melbourne, Victoria Australia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-83466_34431.jpeg",
+    "HallRating": 7.04,
+    "BAR": 3.64,
+    "StylePlus": "66",
+    "RatingScore": 2.38,
+    "AdjustedRating": "2.490209471877454652416012373"
   },
   {
     "BID": 8884,
@@ -88,20 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2462_a8428.jpeg",
     "HallRating": 7.03,
     "BAR": 3.63,
-    "StylePlus": "63"
-  },
-  {
-    "BID": 4010317,
-    "BeerName": "ElleBryg Jul",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Skovlyst",
-    "Origin": "Denmark",
-    "BeerAbv": 0.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4010317_236c0_sm.jpeg",
-    "HallRating": 7.02,
-    "BAR": 3.59,
-    "StylePlus": "78"
+    "StylePlus": "63",
+    "RatingScore": 2.22,
+    "AdjustedRating": "2.4898976021920482703330231148"
   },
   {
     "BID": 6003,
@@ -114,33 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-81829_3c952.jpeg",
     "HallRating": 7.02,
     "BAR": 3.60,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 1675910,
-    "BeerName": "Pearl Light",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Pabst Brewing Company",
-    "Origin": "San Antonio, TX United States",
-    "BeerAbv": 2.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PearlLight_6111.jpeg",
-    "HallRating": 7.02,
-    "BAR": 3.61,
-    "StylePlus": "63"
-  },
-  {
-    "BID": 4014602,
-    "BeerName": "Andwa",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Barnaulsky Pivovarenny Zavod (Барнаульский Пивоваренный Завод)",
-    "Origin": "Barnaul, Алтайский край Russia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4014602_bb9f9_sm.jpeg",
-    "HallRating": 7.02,
-    "BAR": 2.15,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.32,
+    "AdjustedRating": "2.4901120865526041628920368186"
   },
   {
     "BID": 29499,
@@ -153,7 +130,54 @@
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 7.02,
     "BAR": 2.15,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.37,
+    "AdjustedRating": "2.4904183692883974745986121787"
+  },
+  {
+    "BID": 4014602,
+    "BeerName": "Andwa",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Barnaulsky Pivovarenny Zavod (Барнаульский Пивоваренный Завод)",
+    "Origin": "Barnaul, Алтайский край Russia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4014602_bb9f9_sm.jpeg",
+    "HallRating": 7.02,
+    "BAR": 2.15,
+    "StylePlus": "66",
+    "RatingScore": 2.38,
+    "AdjustedRating": "2.4904196691194194417428834234"
+  },
+  {
+    "BID": 1675910,
+    "BeerName": "Pearl Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Pabst Brewing Company",
+    "Origin": "San Antonio, TX United States",
+    "BeerAbv": 2.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PearlLight_6111.jpeg",
+    "HallRating": 7.02,
+    "BAR": 3.61,
+    "StylePlus": "63",
+    "RatingScore": 2.31,
+    "AdjustedRating": "2.4900869061647723675318922759"
+  },
+  {
+    "BID": 4010317,
+    "BeerName": "ElleBryg Jul",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Skovlyst",
+    "Origin": "Denmark",
+    "BeerAbv": 0.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4010317_236c0_sm.jpeg",
+    "HallRating": 7.02,
+    "BAR": 3.59,
+    "StylePlus": "78",
+    "RatingScore": 2.49,
+    "AdjustedRating": "2.4904332146480497333931982006"
   },
   {
     "BID": 12513,
@@ -166,33 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CerveceriaCentroAmericana_359.jpeg",
     "HallRating": 7.01,
     "BAR": 2.16,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 26901,
-    "BeerName": "Arsenal Svitle (Арсенал Свiтле)",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Carlsberg Ukraine",
-    "Origin": "Kyiv, Kyiv city Ukraine",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26901_35c50_sm.jpeg",
-    "HallRating": 7.00,
-    "BAR": 2.18,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 13641,
-    "BeerName": "Horse Piss",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Bluegrass Brewing Company",
-    "Origin": "Louisville, KY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BluegrassBrewingCo_2403.jpeg",
-    "HallRating": 7.00,
-    "BAR": 3.56,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.12,
+    "AdjustedRating": "2.4903849476708385801584390051"
   },
   {
     "BID": 1671963,
@@ -205,7 +205,39 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-59072_b8598.jpeg",
     "HallRating": 7.00,
     "BAR": 2.18,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.25,
+    "AdjustedRating": "2.4904009685432302721078951627"
+  },
+  {
+    "BID": 26901,
+    "BeerName": "Arsenal Svitle (Арсенал Свiтле)",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Carlsberg Ukraine",
+    "Origin": "Kyiv, Kyiv city Ukraine",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26901_35c50_sm.jpeg",
+    "HallRating": 7.00,
+    "BAR": 2.18,
+    "StylePlus": "66",
+    "RatingScore": 1.95,
+    "AdjustedRating": "2.4903597242143254965145392491"
+  },
+  {
+    "BID": 13641,
+    "BeerName": "Horse Piss",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Bluegrass Brewing Company",
+    "Origin": "Louisville, KY United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BluegrassBrewingCo_2403.jpeg",
+    "HallRating": 7.00,
+    "BAR": 3.56,
+    "StylePlus": "66",
+    "RatingScore": 2.25,
+    "AdjustedRating": "2.4900128012102809232500062373"
   },
   {
     "BID": 23737,
@@ -218,7 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-23737_be088_sm.jpeg",
     "HallRating": 6.98,
     "BAR": 3.50,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.37,
+    "AdjustedRating": "2.4902452386517217631022394823"
   },
   {
     "BID": 3345745,
@@ -231,7 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BeijingYanjingBrewery_2285.jpeg",
     "HallRating": 6.98,
     "BAR": 3.48,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 2.41,
+    "AdjustedRating": "2.4903113480921941397218848192"
   },
   {
     "BID": 19980,
@@ -244,7 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-SchaeferLight_19980.jpeg",
     "HallRating": 6.96,
     "BAR": 3.43,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 2.33,
+    "AdjustedRating": "2.4902129298332351018297848951"
   },
   {
     "BID": 3338284,
@@ -257,33 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2818456_aab95_sm.jpeg",
     "HallRating": 6.95,
     "BAR": 2.27,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 22380,
-    "BeerName": "Tropical Light",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Grupo Modelo",
-    "Origin": "Ciudad de México, Mexico",
-    "BeerAbv": 3.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-TropicalLight_97000.jpeg",
-    "HallRating": 6.94,
-    "BAR": 3.39,
-    "StylePlus": "63"
-  },
-  {
-    "BID": 1672563,
-    "BeerName": "Wieckse Rosé 0,0%",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Wieckse",
-    "Origin": "Maastricht, Limburg Netherlands",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-142430_2d494_sm.jpeg",
-    "HallRating": 6.94,
-    "BAR": 3.36,
-    "StylePlus": "78"
+    "StylePlus": "66",
+    "RatingScore": 2.35,
+    "AdjustedRating": "2.4904112068552909814858185527"
   },
   {
     "BID": 17202,
@@ -296,7 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-752255_02f6f_sm.jpeg",
     "HallRating": 6.94,
     "BAR": 3.37,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.50,
+    "AdjustedRating": "2.5586755688108120871277336079"
   },
   {
     "BID": 21252,
@@ -309,7 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-752255_02f6f_sm.jpeg",
     "HallRating": 6.94,
     "BAR": 3.37,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.50,
+    "AdjustedRating": "2.4904459900738374848205722315"
   },
   {
     "BID": 11467,
@@ -322,6 +340,38 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-TropicalLight_97000.jpeg",
     "HallRating": 6.94,
     "BAR": 3.39,
-    "StylePlus": "65"
+    "StylePlus": "65",
+    "RatingScore": 2.29,
+    "AdjustedRating": "2.5584055009195705789258360241"
+  },
+  {
+    "BID": 22380,
+    "BeerName": "Tropical Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Grupo Modelo",
+    "Origin": "Ciudad de México, Mexico",
+    "BeerAbv": 3.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-TropicalLight_97000.jpeg",
+    "HallRating": 6.94,
+    "BAR": 3.39,
+    "StylePlus": "63",
+    "RatingScore": 2.29,
+    "AdjustedRating": "2.4901777960974002938941255176"
+  },
+  {
+    "BID": 1672563,
+    "BeerName": "Wieckse Rosé 0,0%",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Wieckse",
+    "Origin": "Maastricht, Limburg Netherlands",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-142430_2d494_sm.jpeg",
+    "HallRating": 6.94,
+    "BAR": 3.36,
+    "StylePlus": "78",
+    "RatingScore": 2.05,
+    "AdjustedRating": "2.489892955341335124067706719"
   }
 ]

@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1671509_81d6c_sm.jpeg",
     "HallRating": 11.08,
     "BAR": 7.59,
-    "StylePlus": "117"
+    "StylePlus": "117",
+    "RatingScore": 2.73,
+    "AdjustedRating": "2.5100653872137092762704129393"
   },
   {
     "BID": 1670133,
@@ -23,33 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22583_0b1fd_sm.jpeg",
     "HallRating": 11.07,
     "BAR": 7.57,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 4446492,
-    "BeerName": "Oberbräu Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "König Ludwig Schlossbrauerei Kaltenberg",
-    "Origin": "Fürstenfeldbruck, Bayern Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4446492_fb928_sm.jpeg",
-    "HallRating": 11.06,
-    "BAR": 7.56,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 642,
-    "BeerName": "English Bay Pale Ale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Granville Island Brewing",
-    "Origin": "Vancouver, BC Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-642_d859a_sm.jpeg",
-    "HallRating": 11.06,
-    "BAR": 7.56,
-    "StylePlus": "90"
+    "StylePlus": "89",
+    "RatingScore": 2.98,
+    "AdjustedRating": "2.5294297521980446931867313654"
   },
   {
     "BID": 15622,
@@ -62,20 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15622_188e5_sm.jpeg",
     "HallRating": 11.06,
     "BAR": 7.56,
-    "StylePlus": "91"
-  },
-  {
-    "BID": 1670139,
-    "BeerName": "Helles Vollbier",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Staatliches Hofbräuhaus München",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.10,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1670139_d85ba_sm.jpeg",
-    "HallRating": 11.06,
-    "BAR": 7.56,
-    "StylePlus": "89"
+    "StylePlus": "91",
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.6277246805504248525673805513"
   },
   {
     "BID": 7089,
@@ -88,7 +55,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7089_746ad_sm.jpeg",
     "HallRating": 11.06,
     "BAR": 7.55,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.04,
+    "AdjustedRating": "2.5335692618023866807384154613"
+  },
+  {
+    "BID": 4446492,
+    "BeerName": "Oberbräu Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "König Ludwig Schlossbrauerei Kaltenberg",
+    "Origin": "Fürstenfeldbruck, Bayern Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4446492_fb928_sm.jpeg",
+    "HallRating": 11.06,
+    "BAR": 7.56,
+    "StylePlus": "89",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.5569545819036001715117259779"
   },
   {
     "BID": 3344078,
@@ -101,7 +85,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15622_188e5_sm.jpeg",
     "HallRating": 11.06,
     "BAR": 7.56,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.564794141210102690532494738"
+  },
+  {
+    "BID": 1670139,
+    "BeerName": "Helles Vollbier",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Staatliches Hofbräuhaus München",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.10,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1670139_d85ba_sm.jpeg",
+    "HallRating": 11.06,
+    "BAR": 7.56,
+    "StylePlus": "89",
+    "RatingScore": 3.47,
+    "AdjustedRating": "2.5678705595233218287914259714"
+  },
+  {
+    "BID": 642,
+    "BeerName": "English Bay Pale Ale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Granville Island Brewing",
+    "Origin": "Vancouver, BC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-642_d859a_sm.jpeg",
+    "HallRating": 11.06,
+    "BAR": 7.56,
+    "StylePlus": "90",
+    "RatingScore": 3.34,
+    "AdjustedRating": "2.5574100298009639675200272649"
   },
   {
     "BID": 8956,
@@ -114,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8956_eda94_sm.jpeg",
     "HallRating": 11.05,
     "BAR": 7.54,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 2.99,
+    "AdjustedRating": "2.5291787244697957168839958382"
   },
   {
     "BID": 6444,
@@ -127,20 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6444_8d5f5_sm.jpeg",
     "HallRating": 11.05,
     "BAR": 7.55,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 24523,
-    "BeerName": "5,0 Original Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "5,0 International",
-    "Origin": "Braunschweig, Niedersachsen Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24523_2408f_sm.jpeg",
-    "HallRating": 11.04,
-    "BAR": 7.53,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.45,
+    "AdjustedRating": "2.5650058437660667654468452042"
   },
   {
     "BID": 1668769,
@@ -153,20 +160,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-886416_926b3_sm.jpeg",
     "HallRating": 11.04,
     "BAR": 7.53,
-    "StylePlus": "94"
+    "StylePlus": "94",
+    "RatingScore": 3.07,
+    "AdjustedRating": "2.5345683185953839552952137656"
   },
   {
-    "BID": 8606,
-    "BeerName": "Kokanee",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Labatt Brewing Company",
-    "Origin": "Toronto, ON Canada",
+    "BID": 24523,
+    "BeerName": "5,0 Original Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "5,0 International",
+    "Origin": "Braunschweig, Niedersachsen Germany",
     "BeerAbv": 5.00,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8606_4f852_sm.jpeg",
-    "HallRating": 11.03,
-    "BAR": 7.52,
-    "StylePlus": "91"
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24523_2408f_sm.jpeg",
+    "HallRating": 11.04,
+    "BAR": 7.53,
+    "StylePlus": "90",
+    "RatingScore": 2.83,
+    "AdjustedRating": "2.5164174719505799145506436642"
   },
   {
     "BID": 3343659,
@@ -179,7 +190,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7710_4d865_sm.jpeg",
     "HallRating": 11.03,
     "BAR": 7.51,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 2.83,
+    "AdjustedRating": "2.5156736442289322767758973785"
+  },
+  {
+    "BID": 8606,
+    "BeerName": "Kokanee",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Labatt Brewing Company",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8606_4f852_sm.jpeg",
+    "HallRating": 11.03,
+    "BAR": 7.52,
+    "StylePlus": "91",
+    "RatingScore": 2.86,
+    "AdjustedRating": "2.5181693111897468788847949481"
   },
   {
     "BID": 6155,
@@ -192,7 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6155_dee5a_sm.jpeg",
     "HallRating": 11.03,
     "BAR": 7.51,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.5526870727384632877154026857"
   },
   {
     "BID": 12760,
@@ -205,33 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-74283_2cd61_sm.jpeg",
     "HallRating": 11.03,
     "BAR": 7.51,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 3349002,
-    "BeerName": "Steam Brew Wheat / Weizen Pale Ale",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Privatbrauerei Eichbaum",
-    "Origin": "Mannheim, Baden-Württemberg Germany",
-    "BeerAbv": 5.60,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3349002_15e50_sm.jpeg",
-    "HallRating": 11.02,
-    "BAR": 7.50,
-    "StylePlus": "86"
-  },
-  {
-    "BID": 4668,
-    "BeerName": "Light",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 3.31,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4668_9caac_sm.jpeg",
-    "HallRating": 11.02,
-    "BAR": 7.50,
-    "StylePlus": "111"
+    "StylePlus": "90",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.5321602556747710981121761264"
   },
   {
     "BID": 1671510,
@@ -244,7 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-379006_a7b20_sm.jpeg",
     "HallRating": 11.02,
     "BAR": 7.51,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.06,
+    "AdjustedRating": "2.5324897762637754671516450932"
   },
   {
     "BID": 8915,
@@ -257,7 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-63976_88dd5_sm.jpeg",
     "HallRating": 11.02,
     "BAR": 7.51,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.11,
+    "AdjustedRating": "2.53614979986977902059463815"
   },
   {
     "BID": 4816926,
@@ -270,33 +280,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4050189_5439b_sm.jpeg",
     "HallRating": 11.02,
     "BAR": 7.50,
-    "StylePlus": "88"
+    "StylePlus": "88",
+    "RatingScore": 2.99,
+    "AdjustedRating": "2.5272546696151291405562492458"
   },
   {
-    "BID": 10598,
-    "BeerName": "Pikeland Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Sly Fox Brewing Company",
-    "Origin": "Pottstown, PA United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 44.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10598_3636f_sm.jpeg",
+    "BID": 3349002,
+    "BeerName": "Steam Brew Wheat / Weizen Pale Ale",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Privatbrauerei Eichbaum",
+    "Origin": "Mannheim, Baden-Württemberg Germany",
+    "BeerAbv": 5.60,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3349002_15e50_sm.jpeg",
+    "HallRating": 11.02,
+    "BAR": 7.50,
+    "StylePlus": "86",
+    "RatingScore": 3.17,
+    "AdjustedRating": "2.5402357783263566800147440396"
+  },
+  {
+    "BID": 4668,
+    "BeerName": "Light",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Kirin Brewery Company",
+    "Origin": "Nakano-ku, Tokyo Japan",
+    "BeerAbv": 3.31,
+    "BeerIbu": 8.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4668_9caac_sm.jpeg",
+    "HallRating": 11.02,
+    "BAR": 7.50,
+    "StylePlus": "111",
+    "RatingScore": 2.94,
+    "AdjustedRating": "2.5234594418308463160984448021"
+  },
+  {
+    "BID": 29311,
+    "BeerName": "Wisby Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Gotlands Bryggeri",
+    "Origin": "Visby, Gotlands län Sweden",
+    "BeerAbv": 5.00,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29311_4d969_sm.jpeg",
     "HallRating": 11.01,
     "BAR": 7.48,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 18075,
-    "BeerName": "Twisted Tea Original",
-    "BeerStyle": "Flavored Malt Beverage",
-    "BreweryName": "Twisted Tea Brewing Company",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18075_d3e53_sm.jpeg",
-    "HallRating": 11.01,
-    "BAR": 7.49,
-    "StylePlus": "95"
+    "StylePlus": "89",
+    "RatingScore": 3.18,
+    "AdjustedRating": "2.5398206589423011444794433417"
   },
   {
     "BID": 3339578,
@@ -309,7 +340,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-467589_26373_sm.jpeg",
     "HallRating": 11.01,
     "BAR": 7.49,
-    "StylePlus": "111"
+    "StylePlus": "111",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.6001624847467312480881695424"
+  },
+  {
+    "BID": 10598,
+    "BeerName": "Pikeland Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Sly Fox Brewing Company",
+    "Origin": "Pottstown, PA United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 44.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10598_3636f_sm.jpeg",
+    "HallRating": 11.01,
+    "BAR": 7.48,
+    "StylePlus": "90",
+    "RatingScore": 3.38,
+    "AdjustedRating": "2.5543420157985571467212207121"
   },
   {
     "BID": 3346063,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2459831_58e44_sm.jpeg",
     "HallRating": 11.01,
     "BAR": 7.49,
-    "StylePlus": "81"
+    "StylePlus": "81",
+    "RatingScore": 3.14,
+    "AdjustedRating": "2.537640905882401185372655024"
   }
 ]

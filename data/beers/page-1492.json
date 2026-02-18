@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29678_0d3fc_sm.jpeg",
     "HallRating": 11.23,
     "BAR": 7.78,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.27,
+    "AdjustedRating": "2.5716472149337247775742558498"
   },
   {
     "BID": 27377,
@@ -23,7 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27377_2a6dc_sm.jpeg",
     "HallRating": 11.21,
     "BAR": 7.75,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.01,
+    "AdjustedRating": "2.5429061761168754683450931019"
   },
   {
     "BID": 11468,
@@ -36,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_11468_7cef8c7c15c0c7165b79d91aa19d.jpeg",
     "HallRating": 11.20,
     "BAR": 7.74,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.30,
+    "AdjustedRating": "2.5710257697065025741816569177"
   },
   {
     "BID": 20172,
@@ -49,33 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20172_4f5c2_sm.jpeg",
     "HallRating": 11.20,
     "BAR": 7.74,
-    "StylePlus": "81"
-  },
-  {
-    "BID": 9457,
-    "BeerName": "Blueberry Ale",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Blue Point Brewing Company",
-    "Origin": "Patchogue, NY United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9457_c1c33_sm.jpeg",
-    "HallRating": 11.18,
-    "BAR": 7.71,
-    "StylePlus": "84"
-  },
-  {
-    "BID": 25004,
-    "BeerName": "Kaiser Fasstyp / Kaiser Bier",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Brauerei Wieselburg",
-    "Origin": "Wieselburg, Niederösterreich Austria",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-KaiserFasstyp_25004.jpeg",
-    "HallRating": 11.18,
-    "BAR": 7.71,
-    "StylePlus": "89"
+    "StylePlus": "81",
+    "RatingScore": 3.24,
+    "AdjustedRating": "2.5646544947079961854854581478"
   },
   {
     "BID": 11602,
@@ -88,7 +70,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11602_84c8a_sm.jpeg",
     "HallRating": 11.18,
     "BAR": 7.71,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.47,
+    "AdjustedRating": "2.5844325777148610410663249377"
+  },
+  {
+    "BID": 25004,
+    "BeerName": "Kaiser Fasstyp / Kaiser Bier",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Brauerei Wieselburg",
+    "Origin": "Wieselburg, Niederösterreich Austria",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-KaiserFasstyp_25004.jpeg",
+    "HallRating": 11.18,
+    "BAR": 7.71,
+    "StylePlus": "89",
+    "RatingScore": 3.12,
+    "AdjustedRating": "2.5508545090008723568654715396"
+  },
+  {
+    "BID": 9457,
+    "BeerName": "Blueberry Ale",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Blue Point Brewing Company",
+    "Origin": "Patchogue, NY United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9457_c1c33_sm.jpeg",
+    "HallRating": 11.18,
+    "BAR": 7.71,
+    "StylePlus": "84",
+    "RatingScore": 3.47,
+    "AdjustedRating": "2.5845866642651134633602404314"
   },
   {
     "BID": 3183,
@@ -101,7 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3183_afbfc_sm.jpeg",
     "HallRating": 11.18,
     "BAR": 7.72,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.24,
+    "AdjustedRating": "2.5627338756193502759382156338"
   },
   {
     "BID": 6774,
@@ -114,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-31931_55b65_sm.jpeg",
     "HallRating": 11.17,
     "BAR": 7.69,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.45,
+    "AdjustedRating": "2.5803040542323092861826281213"
   },
   {
     "BID": 9143,
@@ -127,33 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9143_ef8cf_sm.jpeg",
     "HallRating": 11.17,
     "BAR": 7.70,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 1041,
-    "BeerName": "Allgäuer Büble Bier Bayrisch Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Allgäuer Brauhaus",
-    "Origin": "Kempten (Allgäu), Bayern Germany",
-    "BeerAbv": 4.70,
-    "BeerIbu": 11.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1041_30d60_sm.jpeg",
-    "HallRating": 11.16,
-    "BAR": 7.68,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 3335989,
-    "BeerName": "Duff Beer",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Privatbrauerei Eichbaum",
-    "Origin": "Mannheim, Baden-Württemberg Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-775343_39a72_sm.jpeg",
-    "HallRating": 11.16,
-    "BAR": 7.69,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.23,
+    "AdjustedRating": "2.5599287846032413026674156524"
   },
   {
     "BID": 13683,
@@ -166,33 +160,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-ZipferUrtyp_13683.jpeg",
     "HallRating": 11.16,
     "BAR": 7.68,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.12,
+    "AdjustedRating": "2.5484843019196693511051791854"
   },
   {
-    "BID": 3346118,
-    "BeerName": "Fischer Blonde Tradition",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Heineken France",
-    "Origin": "Rueil-Malmaison, Île-de-France France",
-    "BeerAbv": 6.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-269704_48c0d_sm.jpeg",
-    "HallRating": 11.16,
-    "BAR": 7.69,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 8683,
-    "BeerName": "Original Cider",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Crispin Cider Company",
-    "Origin": "Colfax, CA United States",
-    "BeerAbv": 5.00,
+    "BID": 3335989,
+    "BeerName": "Duff Beer",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Privatbrauerei Eichbaum",
+    "Origin": "Mannheim, Baden-Württemberg Germany",
+    "BeerAbv": 4.90,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8683_532d4_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-775343_39a72_sm.jpeg",
     "HallRating": 11.16,
     "BAR": 7.69,
-    "StylePlus": "82"
+    "StylePlus": "89",
+    "RatingScore": 2.69,
+    "AdjustedRating": "2.5089274190502548162496886701"
   },
   {
     "BID": 8501,
@@ -205,7 +190,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8501_c9c22_sm.jpeg",
     "HallRating": 11.16,
     "BAR": 7.69,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 3.28,
+    "AdjustedRating": "2.5640627956180551314175052179"
+  },
+  {
+    "BID": 8683,
+    "BeerName": "Original Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Crispin Cider Company",
+    "Origin": "Colfax, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8683_532d4_sm.jpeg",
+    "HallRating": 11.16,
+    "BAR": 7.69,
+    "StylePlus": "82",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.5821107598217089302222887601"
+  },
+  {
+    "BID": 1041,
+    "BeerName": "Allgäuer Büble Bier Bayrisch Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Allgäuer Brauhaus",
+    "Origin": "Kempten (Allgäu), Bayern Germany",
+    "BeerAbv": 4.70,
+    "BeerIbu": 11.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1041_30d60_sm.jpeg",
+    "HallRating": 11.16,
+    "BAR": 7.68,
+    "StylePlus": "89",
+    "RatingScore": 3.36,
+    "AdjustedRating": "2.5707482788233417135041297544"
+  },
+  {
+    "BID": 3346118,
+    "BeerName": "Fischer Blonde Tradition",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Heineken France",
+    "Origin": "Rueil-Malmaison, Île-de-France France",
+    "BeerAbv": 6.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-269704_48c0d_sm.jpeg",
+    "HallRating": 11.16,
+    "BAR": 7.69,
+    "StylePlus": "89",
+    "RatingScore": 3.07,
+    "AdjustedRating": "2.5445846438224533662147974374"
   },
   {
     "BID": 4982414,
@@ -218,7 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-527850_be021_sm.jpeg",
     "HallRating": 11.15,
     "BAR": 7.67,
-    "StylePlus": "85"
+    "StylePlus": "85",
+    "RatingScore": 3.04,
+    "AdjustedRating": "2.5405807141669059407587262913"
   },
   {
     "BID": 13176,
@@ -231,20 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13176_493d1_sm.jpeg",
     "HallRating": 11.15,
     "BAR": 7.68,
-    "StylePlus": "86"
-  },
-  {
-    "BID": 23125,
-    "BeerName": "Guinness Black Lager",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Guinness",
-    "Origin": "Dublin, County Dublin Ireland",
-    "BeerAbv": 4.50,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-GuinnessBlackLager_23125.jpeg",
-    "HallRating": 11.14,
-    "BAR": 7.67,
-    "StylePlus": "85"
+    "StylePlus": "86",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.5672557206335003906727293772"
   },
   {
     "BID": 4158,
@@ -257,33 +280,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4158_e0ff5_sm.jpeg",
     "HallRating": 11.14,
     "BAR": 7.66,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 3.27,
+    "AdjustedRating": "2.5606281424141670966400367607"
   },
   {
-    "BID": 2136,
-    "BeerName": "Pale Ale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Schlafly - The Saint Louis Brewery",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2136_96bea_sm.jpeg",
-    "HallRating": 11.13,
-    "BAR": 7.65,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 3341271,
-    "BeerName": "Brinkhoff's No. 1",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Dortmunder Actien-Brauerei",
-    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30434_987e6_sm.jpeg",
-    "HallRating": 11.13,
-    "BAR": 7.65,
-    "StylePlus": "90"
+    "BID": 23125,
+    "BeerName": "Guinness Black Lager",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Guinness",
+    "Origin": "Dublin, County Dublin Ireland",
+    "BeerAbv": 4.50,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-GuinnessBlackLager_23125.jpeg",
+    "HallRating": 11.14,
+    "BAR": 7.67,
+    "StylePlus": "85",
+    "RatingScore": 3.29,
+    "AdjustedRating": "2.5628045180409678462149938139"
   },
   {
     "BID": 6937,
@@ -296,20 +310,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6937_837d4_sm.jpeg",
     "HallRating": 11.13,
     "BAR": 7.65,
-    "StylePlus": "84"
+    "StylePlus": "84",
+    "RatingScore": 3.34,
+    "AdjustedRating": "2.5653503876835307111910258849"
   },
   {
-    "BID": 7445,
-    "BeerName": "Pilsener",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Dommelsche Bierbrouwerij",
-    "Origin": "Dommelen, Noord-Brabant Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7445_0d16d_sm.jpeg",
+    "BID": 2136,
+    "BeerName": "Pale Ale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Schlafly - The Saint Louis Brewery",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2136_96bea_sm.jpeg",
     "HallRating": 11.13,
     "BAR": 7.65,
-    "StylePlus": "89"
+    "StylePlus": "90",
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.5738546830014510769591070091"
+  },
+  {
+    "BID": 3341271,
+    "BeerName": "Brinkhoff's No. 1",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Dortmunder Actien-Brauerei",
+    "Origin": "Dortmund, Nordrhein-Westfalen Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30434_987e6_sm.jpeg",
+    "HallRating": 11.13,
+    "BAR": 7.65,
+    "StylePlus": "90",
+    "RatingScore": 3.15,
+    "AdjustedRating": "2.5487205503288974679690593113"
   },
   {
     "BID": 3341217,
@@ -322,6 +355,23 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-AppenzellerQuollfrischHell_38355.jpeg",
     "HallRating": 11.13,
     "BAR": 7.64,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.21,
+    "AdjustedRating": "2.5537910023951529490404541501"
+  },
+  {
+    "BID": 7445,
+    "BeerName": "Pilsener",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Dommelsche Bierbrouwerij",
+    "Origin": "Dommelen, Noord-Brabant Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7445_0d16d_sm.jpeg",
+    "HallRating": 11.13,
+    "BAR": 7.65,
+    "StylePlus": "89",
+    "RatingScore": 2.93,
+    "AdjustedRating": "2.5291830065209884115807417861"
   }
 ]

@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_7243_sm_b389b0890b1944b57a35dd08410269.jpeg",
     "HallRating": 22.38,
     "BAR": 15.45,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.5928323214088898812124337821"
   },
   {
     "BID": 28493,
@@ -23,7 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-28493_b1f12_sm.jpeg",
     "HallRating": 22.37,
     "BAR": 15.43,
-    "StylePlus": "122"
+    "StylePlus": "122",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.5924555925664161568398122067"
   },
   {
     "BID": 1671956,
@@ -36,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2709550_06749_sm.jpeg",
     "HallRating": 22.37,
     "BAR": 15.44,
-    "StylePlus": "120"
+    "StylePlus": "120",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.5888185097850835774858748496"
   },
   {
     "BID": 14646,
@@ -49,7 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14646_1ca7c_sm.jpeg",
     "HallRating": 22.35,
     "BAR": 15.41,
-    "StylePlus": "108"
+    "StylePlus": "108",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.5966805662998642044352717548"
   },
   {
     "BID": 3343505,
@@ -62,7 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3343505_bf64c_sm.jpeg",
     "HallRating": 22.34,
     "BAR": 5.18,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.4904957939287692401159030441"
   },
   {
     "BID": 3336726,
@@ -75,7 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-940807_f2052_sm.jpeg",
     "HallRating": 22.30,
     "BAR": 13.24,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.5003642313522245795895943423"
   },
   {
     "BID": 12772,
@@ -88,7 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12772_4473c_sm.jpeg",
     "HallRating": 22.29,
     "BAR": 15.33,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.5823713037606836133510840573"
   },
   {
     "BID": 7615,
@@ -101,7 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-304989_9b643_sm.jpeg",
     "HallRating": 22.29,
     "BAR": 15.34,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.6091065554280043343521211279"
   },
   {
     "BID": 7322,
@@ -114,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7322_f60f2_sm.jpeg",
     "HallRating": 22.28,
     "BAR": 15.32,
-    "StylePlus": "111"
+    "StylePlus": "111",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.597262335358280245816795837"
   },
   {
     "BID": 16774,
@@ -127,20 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16774_e3aa4_sm.jpeg",
     "HallRating": 22.28,
     "BAR": 15.32,
-    "StylePlus": "121"
-  },
-  {
-    "BID": 4939432,
-    "BeerName": "Beeracuda",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Abita Brewing Company",
-    "Origin": "Abita Springs, LA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2480569_dd879_sm.jpeg",
-    "HallRating": 22.27,
-    "BAR": 13.19,
-    "StylePlus": "132"
+    "StylePlus": "121",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.5873681946906582559650024218"
   },
   {
     "BID": 3334340,
@@ -153,98 +160,99 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2018630_f1a73_sm.jpeg",
     "HallRating": 22.27,
     "BAR": 15.30,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.5916947437884375902784082351"
   },
   {
-    "BID": 1676645,
-    "BeerName": "Exhibit A",
+    "BID": 4939432,
+    "BeerName": "Beeracuda",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Abita Brewing Company",
+    "Origin": "Abita Springs, LA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2480569_dd879_sm.jpeg",
+    "HallRating": 22.27,
+    "BAR": 13.19,
+    "StylePlus": "132",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.4988179284835549798854504501"
+  },
+  {
+    "BID": 23845,
+    "BeerName": "Brewers' Pure Malt Ale",
     "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Tarn51 Brewing Company",
-    "Origin": "Normanton, West Yorkshire England",
-    "BeerAbv": 4.10,
+    "BreweryName": "Brewers' Fine Ale Pty Ltd",
+    "Origin": "Kew, New South Wales Australia",
+    "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-274514_5cec3.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "120"
+    "StylePlus": "120",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.4904661858562939181875598404"
   },
   {
-    "BID": 3334834,
-    "BeerName": "D’Uncle",
-    "BeerStyle": "Lager - Munich Dunkel",
-    "BreweryName": "Terre Haute Brewing Company",
-    "Origin": "Terre Haute, IN United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334834_fe2ee_sm.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "115"
-  },
-  {
-    "BID": 28723,
-    "BeerName": "Quince Ale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Lobethal Bierhaus",
-    "Origin": "Lobethal, South Australia Australia",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-LobethalBierhaus_3165.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "120"
-  },
-  {
-    "BID": 2019737,
-    "BeerName": "Fool's Beer 2017",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Tomfoolery Brewing",
-    "Origin": "Hammonton, NJ United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-236881_51d5f.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "116"
-  },
-  {
-    "BID": 3339281,
-    "BeerName": "Capri Fun Blonde",
+    "BID": 4446681,
+    "BeerName": "Peanut Butter Marshmallow Blonde",
     "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Fortnight Brewing and Pub",
-    "Origin": "Cary, NC United States",
+    "BreweryName": "3 Daughters Brewing",
+    "Origin": "Saint Petersburg, FL United States",
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-FortnightBrewingCo_25101.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-96120_90e61.jpeg",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 4.09,
+    "AdjustedRating": "2.4904780105311153605978935562"
   },
   {
-    "BID": 4940462,
-    "BeerName": "Buffalo Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Sturgis Brewing Company",
-    "Origin": "Sturgis, SD United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-504790_cd244.jpeg",
+    "BID": 1670437,
+    "BeerName": "Odete",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Capunga Craft Beer",
+    "Origin": "Recife, Pernambuco Brazil",
+    "BeerAbv": 5.60,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2404070_9845f_sm.jpeg",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 4.30,
+    "AdjustedRating": "2.4904837853723072278215449058"
   },
   {
-    "BID": 4939477,
-    "BeerName": "Tropical Scrunch Face",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "King Aelle Brew Co",
-    "Origin": "Whitley Bay, Northumberland England",
-    "BeerAbv": 6.00,
+    "BID": 4980763,
+    "BeerName": "Apricot Wisp",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Revel Cider Company",
+    "Origin": "Guelph, ON Canada",
+    "BeerAbv": 3.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-488163_04473.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-193899_892a3.jpeg",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "104"
+    "StylePlus": "108",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.4904686607882332898548389902"
+  },
+  {
+    "BID": 4013311,
+    "BeerName": "Side Pull Broad Street Amber",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "The Mason Jar Lager Company",
+    "Origin": "Fuquay Varina, NC United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-349201_96dba.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "115",
+    "RatingScore": 4.11,
+    "AdjustedRating": "2.4904785605159907765239555895"
   },
   {
     "BID": 3334309,
@@ -257,71 +265,113 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-121307_5d422.jpeg",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.4904648108941053783724047571"
   },
   {
-    "BID": 1676745,
-    "BeerName": "Brown Snout Cider",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Mr Whitehead's Cider Company",
-    "Origin": "Alton, Hampshire England",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-MrWhiteheadsCiderCompany_16284_bc3d7.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "109"
-  },
-  {
-    "BID": 3334935,
-    "BeerName": "The Cukes of Hazard",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "White Sails Brewing",
-    "Origin": "Nanaimo, BC Canada",
-    "BeerAbv": 4.60,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-235674_20402.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "116"
-  },
-  {
-    "BID": 3341429,
-    "BeerName": "Amarillo Table",
-    "BeerStyle": "Table Beer",
-    "BreweryName": "Beer Nouveau",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 3.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-50131_e79f8.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "111"
-  },
-  {
-    "BID": 1671289,
-    "BeerName": "Farmhouse Pale Ale Aged In Red Wine Barrels",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Redlight Redlight Brewpub",
-    "Origin": "Orlando, FL United States",
+    "BID": 2019737,
+    "BeerName": "Fool's Beer 2017",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Tomfoolery Brewing",
+    "Origin": "Hammonton, NJ United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-121009_bd356.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-236881_51d5f.jpeg",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "104"
+    "StylePlus": "116",
+    "RatingScore": 4.05,
+    "AdjustedRating": "2.4904769105613645287457694896"
   },
   {
-    "BID": 4982427,
-    "BeerName": "Crafter’s Fruited IPA",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Cohones Brewery",
-    "Origin": "Sofia, Sofia City Province Bulgaria",
-    "BeerAbv": 6.50,
+    "BID": 4939477,
+    "BeerName": "Tropical Scrunch Face",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "King Aelle Brew Co",
+    "Origin": "Whitley Bay, Northumberland England",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-422489_2e6fc.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-488163_04473.jpeg",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "112"
+    "StylePlus": "104",
+    "RatingScore": 4.00,
+    "AdjustedRating": "2.4904755355991759889306144064"
+  },
+  {
+    "BID": 3334834,
+    "BeerName": "D’Uncle",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "Terre Haute Brewing Company",
+    "Origin": "Terre Haute, IN United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334834_fe2ee_sm.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "115",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.4904692107731087057809010235"
+  },
+  {
+    "BID": 4011021,
+    "BeerName": "Blushing Attitude Peach Brandy & Bourbon",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Crooked Can",
+    "Origin": "Winter Garden, FL United States",
+    "BeerAbv": 4.30,
+    "BeerIbu": 7.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-169865_58314.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "115",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.4904700357504218296699940734"
+  },
+  {
+    "BID": 1670288,
+    "BeerName": "Solsun Ale",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Bell’s Brewery",
+    "Origin": "Comstock, MI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2507_ad044.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "115",
+    "RatingScore": 4.02,
+    "AdjustedRating": "2.4904760855840514048566764396"
+  },
+  {
+    "BID": 4816455,
+    "BeerName": "The Classic Pale",
+    "BeerStyle": "Pale Ale - Australian",
+    "BreweryName": "Three Tails Brewery",
+    "Origin": "Mudgee, New South Wales Australia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816455_4396f_sm.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "119",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.4904681108033578739287769569"
+  },
+  {
+    "BID": 4013729,
+    "BeerName": "Fall Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Not Lost Brewing Company",
+    "Origin": "Ottawa, KS United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-261489_5356f.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "109",
+    "RatingScore": 4.48,
+    "AdjustedRating": "2.4904887352361859711561032054"
   }
 ]

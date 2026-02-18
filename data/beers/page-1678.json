@@ -1,16 +1,18 @@
 [
   {
-    "BID": 18720,
-    "BeerName": "Rio Claro Premium Lager",
+    "BID": 25164,
+    "BeerName": "Yunusobod",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Cervecería Centro Americana",
-    "Origin": "Ciudad de Guatemala, Guatemala",
-    "BeerAbv": 0.00,
+    "BreweryName": "Raupxon",
+    "Origin": "Uzbekistan",
+    "BeerAbv": 4.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CerveceriaCentroAmericana_359.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-6957_71c5b.jpeg",
     "HallRating": 7.65,
     "BAR": 1.60,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 1.88,
+    "AdjustedRating": "2.4904050294375066847027866159"
   },
   {
     "BID": 3334170,
@@ -23,7 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 7.56,
     "BAR": 1.65,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.48,
+    "AdjustedRating": "2.4904334759189192230111019154"
   },
   {
     "BID": 5566,
@@ -36,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5566_b3ef8_sm.jpeg",
     "HallRating": 7.55,
     "BAR": 4.61,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 1.78,
+    "AdjustedRating": "2.4819058673876450785657363022"
   },
   {
     "BID": 9534,
@@ -49,7 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9534_0ca54_sm.jpeg",
     "HallRating": 7.54,
     "BAR": 4.59,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.44,
+    "AdjustedRating": "2.4898537263022468133627673859"
   },
   {
     "BID": 26966,
@@ -62,20 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26966_1a2ab_sm.jpeg",
     "HallRating": 7.53,
     "BAR": 4.56,
-    "StylePlus": "63"
-  },
-  {
-    "BID": 4961879,
-    "BeerName": "Ninja Super Strong",
-    "BeerStyle": "Lager - Strong",
-    "BreweryName": "Himalayan Brewery Limited",
-    "Origin": "Lalitpur, Bagmati Province Nepal",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961879_2bcac_sm.jpeg",
-    "HallRating": 7.52,
-    "BAR": 1.68,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 2.06,
+    "AdjustedRating": "2.4856644534752151801764330657"
   },
   {
     "BID": 22059,
@@ -88,7 +85,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-284128_7b0a1.jpeg",
     "HallRating": 7.52,
     "BAR": 1.68,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 1.76,
+    "AdjustedRating": "2.4903938520145441663411612344"
+  },
+  {
+    "BID": 4961879,
+    "BeerName": "Ninja Super Strong",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Himalayan Brewery Limited",
+    "Origin": "Lalitpur, Bagmati Province Nepal",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961879_2bcac_sm.jpeg",
+    "HallRating": 7.52,
+    "BAR": 1.68,
+    "StylePlus": "63",
+    "RatingScore": 2.41,
+    "AdjustedRating": "2.4904296000484023041435821012"
   },
   {
     "BID": 13261,
@@ -101,7 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4568_fba19.jpeg",
     "HallRating": 7.48,
     "BAR": 1.70,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.36,
+    "AdjustedRating": "2.4904265241512662684598735555"
   },
   {
     "BID": 28379,
@@ -114,72 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-molson67_28379.jpeg",
     "HallRating": 7.46,
     "BAR": 4.45,
-    "StylePlus": "63"
-  },
-  {
-    "BID": 20824,
-    "BeerName": "Skol (Asia)",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Carlsberg Malaysia",
-    "Origin": "Shah Alam, Selangor Malaysia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20824_4bd6e_sm.jpeg",
-    "HallRating": 7.45,
-    "BAR": 4.44,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 1670253,
-    "BeerName": "Левбердон",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Ipatovsky Pivzavod (Ипатовский Пивзавод)",
-    "Origin": "Ipatovo, Ставропольский край Russia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1670253_f4254_sm.jpeg",
-    "HallRating": 7.45,
-    "BAR": 1.73,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 26784,
-    "BeerName": "Naale Beer 10º",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Beijing Naale Brewery Group Co., Ltd (艾尔啤酒)",
-    "Origin": "Ji Ning Shi, Shan Dong Sheng China / People's Republic of China",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-27521_1c4b1.jpeg",
-    "HallRating": 7.45,
-    "BAR": 1.73,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 3343440,
-    "BeerName": "GURT Жигулёвское",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Brestskoe Pivo (Брестское Пиво)",
-    "Origin": "Brest, Brest Region Belarus",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-12391_5a88a.jpeg",
-    "HallRating": 7.45,
-    "BAR": 1.73,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 1672218,
-    "BeerName": "Yandangshan",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Yandance (雁荡山)",
-    "Origin": "China / People's Republic of China",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 7.45,
-    "BAR": 1.73,
-    "StylePlus": "66"
+    "StylePlus": "63",
+    "RatingScore": 2.21,
+    "AdjustedRating": "2.487910595469541529185307407"
   },
   {
     "BID": 1673490,
@@ -192,7 +145,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-963_6e1d9.jpeg",
     "HallRating": 7.45,
     "BAR": 1.73,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 2.47,
+    "AdjustedRating": "2.4904327977085424537230866131"
+  },
+  {
+    "BID": 1672218,
+    "BeerName": "Yandangshan",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Yandance (雁荡山)",
+    "Origin": "China / People's Republic of China",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 7.45,
+    "BAR": 1.73,
+    "StylePlus": "66",
+    "RatingScore": 2.18,
+    "AdjustedRating": "2.4904153987524798174812611226"
   },
   {
     "BID": 4980923,
@@ -205,7 +175,69 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1615556_16b35_sm.jpeg",
     "HallRating": 7.45,
     "BAR": 4.44,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.39,
+    "AdjustedRating": "2.4895517463246031706702449524"
+  },
+  {
+    "BID": 26784,
+    "BeerName": "Naale Beer 10º",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Beijing Naale Brewery Group Co., Ltd (艾尔啤酒)",
+    "Origin": "Ji Ning Shi, Shan Dong Sheng China / People's Republic of China",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-27521_1c4b1.jpeg",
+    "HallRating": 7.45,
+    "BAR": 1.73,
+    "StylePlus": "66",
+    "RatingScore": 1.78,
+    "AdjustedRating": "2.4903914001923934226649501012"
+  },
+  {
+    "BID": 20824,
+    "BeerName": "Skol (Asia)",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Carlsberg Malaysia",
+    "Origin": "Shah Alam, Selangor Malaysia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20824_4bd6e_sm.jpeg",
+    "HallRating": 7.45,
+    "BAR": 4.44,
+    "StylePlus": "66",
+    "RatingScore": 2.50,
+    "AdjustedRating": "2.4905185273018274293066147939"
+  },
+  {
+    "BID": 1670253,
+    "BeerName": "Левбердон",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Ipatovsky Pivzavod (Ипатовский Пивзавод)",
+    "Origin": "Ipatovo, Ставропольский край Russia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1670253_f4254_sm.jpeg",
+    "HallRating": 7.45,
+    "BAR": 1.73,
+    "StylePlus": "66",
+    "RatingScore": 2.33,
+    "AdjustedRating": "2.4904243982125122155373777556"
+  },
+  {
+    "BID": 3343440,
+    "BeerName": "GURT Жигулёвское",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Brestskoe Pivo (Брестское Пиво)",
+    "Origin": "Brest, Brest Region Belarus",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-12391_5a88a.jpeg",
+    "HallRating": 7.45,
+    "BAR": 1.73,
+    "StylePlus": "66",
+    "RatingScore": 2.47,
+    "AdjustedRating": "2.4904327977085424537230866131"
   },
   {
     "BID": 1666735,
@@ -218,7 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-380227_a8c2e_sm.jpeg",
     "HallRating": 7.38,
     "BAR": 4.32,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.28,
+    "AdjustedRating": "2.4889297296231185129768764875"
   },
   {
     "BID": 26197,
@@ -231,20 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-443584_406bb_sm.jpeg",
     "HallRating": 7.37,
     "BAR": 4.31,
-    "StylePlus": "63"
-  },
-  {
-    "BID": 3343776,
-    "BeerName": "Milla Lehto Design Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Top Fuel Beer Company",
-    "Origin": "Lohja, Uusimaa Finland",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-194201_350fa.jpeg",
-    "HallRating": 7.36,
-    "BAR": 1.79,
-    "StylePlus": "66"
+    "StylePlus": "63",
+    "RatingScore": 2.46,
+    "AdjustedRating": "2.4902238170289684904194427738"
   },
   {
     "BID": 21848,
@@ -257,7 +280,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-DevassaBemLoura_21848.jpeg",
     "HallRating": 7.36,
     "BAR": 4.28,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 2.30,
+    "AdjustedRating": "2.4891675469495775446091517274"
+  },
+  {
+    "BID": 3343776,
+    "BeerName": "Milla Lehto Design Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Top Fuel Beer Company",
+    "Origin": "Lohja, Uusimaa Finland",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-194201_350fa.jpeg",
+    "HallRating": 7.36,
+    "BAR": 1.79,
+    "StylePlus": "66",
+    "RatingScore": 2.38,
+    "AdjustedRating": "2.4904265698829378679642224132"
   },
   {
     "BID": 8816,
@@ -270,7 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-ModeloLight_8816.jpeg",
     "HallRating": 7.33,
     "BAR": 4.23,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 2.41,
+    "AdjustedRating": "2.4899525096868161162104326675"
   },
   {
     "BID": 1672439,
@@ -283,7 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4066_2e493.jpeg",
     "HallRating": 7.33,
     "BAR": 1.81,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 2.45,
+    "AdjustedRating": "2.4904311934928604660376873601"
   },
   {
     "BID": 22065,
@@ -296,20 +340,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-ZagrebackaPivovaraStarBev_6242_5b861.jpeg",
     "HallRating": 7.31,
     "BAR": 1.83,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 1671849,
-    "BeerName": "Dock",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Van Pur",
-    "Origin": "Rakszawa, Województwo podkarpackie Poland",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-405746_7f251_sm.jpeg",
-    "HallRating": 7.29,
-    "BAR": 4.17,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.47,
+    "AdjustedRating": "2.4904325423170869774644438261"
   },
   {
     "BID": 26203,
@@ -322,6 +355,23 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26203_1df46_sm.jpeg",
     "HallRating": 7.29,
     "BAR": 1.85,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.20,
+    "AdjustedRating": "2.4904122427581981014127040454"
+  },
+  {
+    "BID": 1671849,
+    "BeerName": "Dock",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Van Pur",
+    "Origin": "Rakszawa, Województwo podkarpackie Poland",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-405746_7f251_sm.jpeg",
+    "HallRating": 7.29,
+    "BAR": 4.17,
+    "StylePlus": "66",
+    "RatingScore": 2.44,
+    "AdjustedRating": "2.4901631427057936803961706766"
   }
 ]
