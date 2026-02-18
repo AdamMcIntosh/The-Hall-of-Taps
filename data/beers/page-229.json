@@ -1,16 +1,18 @@
 [
   {
-    "BID": 3950,
-    "BeerName": "120 Minute IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 18.00,
-    "BeerIbu": 120.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-dfh120minuteIPA.jpg",
+    "BID": 18311,
+    "BeerName": "Loose Cannon",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Heavy Seas Beer",
+    "Origin": "Baltimore, MD United States",
+    "BeerAbv": 7.25,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18311_5223c_sm.jpeg",
     "HallRating": 18.02,
     "BAR": 13.14,
-    "StylePlus": "101"
+    "StylePlus": "104",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.8622907026181671792986144641"
   },
   {
     "BID": 5771,
@@ -23,7 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5771_80be2_sm.jpeg",
     "HallRating": 18.01,
     "BAR": 13.13,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.9216968711870961036338609904"
   },
   {
     "BID": 356,
@@ -36,20 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-356_e2231_sm.jpeg",
     "HallRating": 18.00,
     "BAR": 13.11,
-    "StylePlus": "106"
-  },
-  {
-    "BID": 7472,
-    "BeerName": "Christmas Ale",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Great Lakes Brewing Company",
-    "Origin": "Cleveland, OH United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7472_6ee0a_sm.jpeg",
-    "HallRating": 18.00,
-    "BAR": 13.12,
-    "StylePlus": "116"
+    "StylePlus": "106",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.896549211460365449075768519"
   },
   {
     "BID": 6109,
@@ -62,20 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6109_3ba16_sm.jpeg",
     "HallRating": 18.00,
     "BAR": 13.12,
-    "StylePlus": "114"
-  },
-  {
-    "BID": 5742,
-    "BeerName": "2XIPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Southern Tier Brewing Company",
-    "Origin": "Lakewood, NY United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5742_4cc45_sm.jpeg",
-    "HallRating": 18.00,
-    "BAR": 13.12,
-    "StylePlus": "101"
+    "StylePlus": "114",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.8403620716324740784189515977"
   },
   {
     "BID": 3985,
@@ -88,7 +70,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3985_67263_sm.jpeg",
     "HallRating": 18.00,
     "BAR": 13.12,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.8764146200337798473960682035"
+  },
+  {
+    "BID": 7472,
+    "BeerName": "Christmas Ale",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Great Lakes Brewing Company",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7472_6ee0a_sm.jpeg",
+    "HallRating": 18.00,
+    "BAR": 13.12,
+    "StylePlus": "116",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.8864212242174864081948033713"
   },
   {
     "BID": 4743,
@@ -101,33 +100,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4743_da1a5_sm.jpeg",
     "HallRating": 18.00,
     "BAR": 13.12,
-    "StylePlus": "103"
+    "StylePlus": "103",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.8667657764753185777673526165"
   },
   {
-    "BID": 3348711,
-    "BeerName": "Original",
-    "BeerStyle": "Scottish Export Ale",
-    "BreweryName": "Innis & Gunn",
-    "Origin": "Edinburgh, Scotland",
-    "BeerAbv": 6.60,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24675_ce451_sm.jpeg",
-    "HallRating": 17.99,
-    "BAR": 13.10,
-    "StylePlus": "112"
-  },
-  {
-    "BID": 3345045,
-    "BeerName": "Original",
-    "BeerStyle": "Scottish Export Ale",
-    "BreweryName": "Innis & Gunn",
-    "Origin": "Edinburgh, Scotland",
-    "BeerAbv": 6.60,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24675_ce451_sm.jpeg",
-    "HallRating": 17.99,
-    "BAR": 13.10,
-    "StylePlus": "109"
+    "BID": 5742,
+    "BeerName": "2XIPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Southern Tier Brewing Company",
+    "Origin": "Lakewood, NY United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5742_4cc45_sm.jpeg",
+    "HallRating": 18.00,
+    "BAR": 13.12,
+    "StylePlus": "101",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.8859844837325612398901931954"
   },
   {
     "BID": 3345990,
@@ -140,33 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24675_ce451_sm.jpeg",
     "HallRating": 17.99,
     "BAR": 13.10,
-    "StylePlus": "109"
-  },
-  {
-    "BID": 27462,
-    "BeerName": "Shake Chocolate Porter",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Boulder Beer",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 39.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-468020_c0e82_sm.jpeg",
-    "HallRating": 17.99,
-    "BAR": 13.11,
-    "StylePlus": "103"
-  },
-  {
-    "BID": 3348702,
-    "BeerName": "Original",
-    "BeerStyle": "Scottish Export Ale",
-    "BreweryName": "Innis & Gunn",
-    "Origin": "Edinburgh, Scotland",
-    "BeerAbv": 6.60,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24675_ce451_sm.jpeg",
-    "HallRating": 17.99,
-    "BAR": 13.10,
-    "StylePlus": "109"
+    "StylePlus": "109",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.8567834788556422345889032474"
   },
   {
     "BID": 6400,
@@ -179,7 +145,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400_dd7e9_sm.jpeg",
     "HallRating": 17.99,
     "BAR": 13.11,
-    "StylePlus": "114"
+    "StylePlus": "114",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.8286981091724585940967528336"
+  },
+  {
+    "BID": 27462,
+    "BeerName": "Shake Chocolate Porter",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Boulder Beer",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 39.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-468020_c0e82_sm.jpeg",
+    "HallRating": 17.99,
+    "BAR": 13.11,
+    "StylePlus": "103",
+    "RatingScore": 3.99,
+    "AdjustedRating": "2.9474256420128934015631391949"
+  },
+  {
+    "BID": 3345045,
+    "BeerName": "Original",
+    "BeerStyle": "Scottish Export Ale",
+    "BreweryName": "Innis & Gunn",
+    "Origin": "Edinburgh, Scotland",
+    "BeerAbv": 6.60,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24675_ce451_sm.jpeg",
+    "HallRating": 17.99,
+    "BAR": 13.10,
+    "StylePlus": "109",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.8567834788556422345889032474"
   },
   {
     "BID": 8048,
@@ -192,20 +190,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8048_c2b9f_sm.jpeg",
     "HallRating": 17.99,
     "BAR": 13.11,
-    "StylePlus": "99"
+    "StylePlus": "99",
+    "RatingScore": 3.09,
+    "AdjustedRating": "2.6727197648151449906794307645"
   },
   {
-    "BID": 3342771,
-    "BeerName": "La Trappe Witte Trappist",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Bierbrouwerij De Koningshoeven",
-    "Origin": "Berkel-Enschot, Noord-Brabant Netherlands",
-    "BeerAbv": 5.50,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17860_9120c_sm.jpeg",
-    "HallRating": 17.98,
+    "BID": 3348711,
+    "BeerName": "Original",
+    "BeerStyle": "Scottish Export Ale",
+    "BreweryName": "Innis & Gunn",
+    "Origin": "Edinburgh, Scotland",
+    "BeerAbv": 6.60,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24675_ce451_sm.jpeg",
+    "HallRating": 17.99,
     "BAR": 13.10,
-    "StylePlus": "114"
+    "StylePlus": "112",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.8092177038560564023125316574"
+  },
+  {
+    "BID": 3348702,
+    "BeerName": "Original",
+    "BeerStyle": "Scottish Export Ale",
+    "BreweryName": "Innis & Gunn",
+    "Origin": "Edinburgh, Scotland",
+    "BeerAbv": 6.60,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24675_ce451_sm.jpeg",
+    "HallRating": 17.99,
+    "BAR": 13.10,
+    "StylePlus": "109",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.8567834788556422345889032474"
   },
   {
     "BID": 17860,
@@ -218,33 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17860_9120c_sm.jpeg",
     "HallRating": 17.98,
     "BAR": 13.10,
-    "StylePlus": "114"
-  },
-  {
-    "BID": 1676536,
-    "BeerName": "Crisp Apple",
-    "BeerStyle": "Cider - Sweet",
-    "BreweryName": "Angry Orchard Hard Cider",
-    "Origin": "Walden, NY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-84251_d2bd3_sm.jpeg",
-    "HallRating": 17.98,
-    "BAR": 13.10,
-    "StylePlus": "108"
-  },
-  {
-    "BID": 29600,
-    "BeerName": "Original (TAP07)",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Schneider Weisse G. Schneider & Sohn",
-    "Origin": "Kelheim, Bayern Germany",
-    "BeerAbv": 5.40,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11982_950a6_sm.jpeg",
-    "HallRating": 17.98,
-    "BAR": 13.09,
-    "StylePlus": "112"
+    "StylePlus": "114",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.8734009584195552689403952725"
   },
   {
     "BID": 17377,
@@ -257,7 +250,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17377_dad2c_sm.jpeg",
     "HallRating": 17.98,
     "BAR": 13.10,
-    "StylePlus": "99"
+    "StylePlus": "99",
+    "RatingScore": 2.99,
+    "AdjustedRating": "2.6412938804234910793421946726"
+  },
+  {
+    "BID": 29600,
+    "BeerName": "Original (TAP07)",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Schneider Weisse G. Schneider & Sohn",
+    "Origin": "Kelheim, Bayern Germany",
+    "BeerAbv": 5.40,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11982_950a6_sm.jpeg",
+    "HallRating": 17.98,
+    "BAR": 13.09,
+    "StylePlus": "112",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.8387757462830832926836982573"
+  },
+  {
+    "BID": 1676536,
+    "BeerName": "Crisp Apple",
+    "BeerStyle": "Cider - Sweet",
+    "BreweryName": "Angry Orchard Hard Cider",
+    "Origin": "Walden, NY United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-84251_d2bd3_sm.jpeg",
+    "HallRating": 17.98,
+    "BAR": 13.10,
+    "StylePlus": "108",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.8078872594068515489857335914"
+  },
+  {
+    "BID": 3342771,
+    "BeerName": "La Trappe Witte Trappist",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Bierbrouwerij De Koningshoeven",
+    "Origin": "Berkel-Enschot, Noord-Brabant Netherlands",
+    "BeerAbv": 5.50,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17860_9120c_sm.jpeg",
+    "HallRating": 17.98,
+    "BAR": 13.10,
+    "StylePlus": "114",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.8257135894547030767386371752"
   },
   {
     "BID": 11982,
@@ -270,20 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11982_950a6_sm.jpeg",
     "HallRating": 17.97,
     "BAR": 13.09,
-    "StylePlus": "112"
-  },
-  {
-    "BID": 7539,
-    "BeerName": "N'Ice Chouffe",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Brasserie d'Achouffe",
-    "Origin": "Houffalize, Région Wallonne Belgium",
-    "BeerAbv": 10.00,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7539_0be7f_sm.jpeg",
-    "HallRating": 17.97,
-    "BAR": 13.08,
-    "StylePlus": "116"
+    "StylePlus": "112",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.8864856751267695967751289362"
   },
   {
     "BID": 3342509,
@@ -296,7 +325,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-124504_44f17_sm.jpeg",
     "HallRating": 17.97,
     "BAR": 13.09,
-    "StylePlus": "113"
+    "StylePlus": "113",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.8116645142776016723831283309"
+  },
+  {
+    "BID": 7539,
+    "BeerName": "N'Ice Chouffe",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Brasserie d'Achouffe",
+    "Origin": "Houffalize, Région Wallonne Belgium",
+    "BeerAbv": 10.00,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7539_0be7f_sm.jpeg",
+    "HallRating": 17.97,
+    "BAR": 13.08,
+    "StylePlus": "116",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.8400718745650174150553376436"
+  },
+  {
+    "BID": 4011088,
+    "BeerName": "Delirium Noël / Christmas",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Delirium - Huyghe Brewery",
+    "Origin": "Melle, Vlaams Gewest Belgium",
+    "BeerAbv": 10.00,
+    "BeerIbu": 26.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8767_12b31_sm.jpeg",
+    "HallRating": 17.96,
+    "BAR": 13.06,
+    "StylePlus": "116",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.8632892455795472107528269232"
   },
   {
     "BID": 2015533,
@@ -309,19 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3757_a6183_sm.jpeg",
     "HallRating": 17.96,
     "BAR": 13.07,
-    "StylePlus": "103"
-  },
-  {
-    "BID": 8767,
-    "BeerName": "Delirium Noël / Christmas",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Delirium - Huyghe Brewery",
-    "Origin": "Melle, Vlaams Gewest Belgium",
-    "BeerAbv": 10.00,
-    "BeerIbu": 26.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8767_12b31_sm.jpeg",
-    "HallRating": 17.96,
-    "BAR": 13.06,
-    "StylePlus": "114"
+    "StylePlus": "103",
+    "RatingScore": 3.99,
+    "AdjustedRating": "2.9348351610041778792931234343"
   }
 ]

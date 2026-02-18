@@ -1,5 +1,20 @@
 [
   {
+    "BID": 14,
+    "BeerName": "Imperial Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Samuel Smith",
+    "Origin": "Tadcaster, North Yorkshire England",
+    "BeerAbv": 7.00,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14_1998b_sm.jpeg",
+    "HallRating": 17.27,
+    "BAR": 12.21,
+    "StylePlus": "100",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.6898316885588876088691215667"
+  },
+  {
     "BID": 10662,
     "BeerName": "HopStorm® IPA",
     "BeerStyle": "IPA - American",
@@ -10,20 +25,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-193485_e9b86_sm.jpeg",
     "HallRating": 17.27,
     "BAR": 12.22,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.6614191866795856898927060387"
   },
   {
-    "BID": 14893,
-    "BeerName": "Leo Beer",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Boon Rawd Brewery",
-    "Origin": "Krung Thep Maha Nakhon, Thailand",
-    "BeerAbv": 5.00,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14893_14e09_sm.jpeg",
+    "BID": 4971,
+    "BeerName": "Philadelphia Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Yards Brewing Co.",
+    "Origin": "Philadelphia, PA United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 37.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4971_00313_sm.jpeg",
     "HallRating": 17.27,
     "BAR": 12.21,
-    "StylePlus": "99"
+    "StylePlus": "110",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.6589169308642213912768689294"
   },
   {
     "BID": 2565,
@@ -36,111 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2565_12546_sm.jpeg",
     "HallRating": 17.27,
     "BAR": 12.21,
-    "StylePlus": "107"
-  },
-  {
-    "BID": 1676951,
-    "BeerName": "Hop Knife Harvest",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tröegs Independent Brewing",
-    "Origin": "Hershey, PA United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 87.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-551620_97486_sm.jpeg",
-    "HallRating": 17.27,
-    "BAR": 12.22,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 21991,
-    "BeerName": "A Little Sumpin' Extra! Ale",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Lagunitas Brewing Company",
-    "Origin": "Petaluma, CA United States",
-    "BeerAbv": 8.70,
-    "BeerIbu": 72.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21991_02ad0_sm.jpeg",
-    "HallRating": 17.26,
-    "BAR": 12.20,
-    "StylePlus": "101"
-  },
-  {
-    "BID": 1675061,
-    "BeerName": "Mojo IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Boulder Beer",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-799_44476_sm.jpeg",
-    "HallRating": 17.26,
-    "BAR": 12.20,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 8508,
-    "BeerName": "Bourgogne des Flandres Brune / Bruin",
-    "BeerStyle": "Sour - Flanders Red Ale",
-    "BreweryName": "Brewery John Martin & Brewery Timmermans",
-    "Origin": "Rixensart, Région Wallonne Belgium",
-    "BeerAbv": 5.00,
-    "BeerIbu": 19.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-561371_5b950_sm.jpeg",
-    "HallRating": 17.26,
-    "BAR": 12.20,
-    "StylePlus": "103"
-  },
-  {
-    "BID": 2015677,
-    "BeerName": "Orange Ave. Wit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Coronado Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9827_303a1_sm.jpeg",
-    "HallRating": 17.26,
-    "BAR": 12.19,
-    "StylePlus": "114"
-  },
-  {
-    "BID": 14814,
-    "BeerName": "Winter Solstice",
-    "BeerStyle": "Winter Warmer",
-    "BreweryName": "Anderson Valley Brewing Company",
-    "Origin": "Boonville, CA United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 5.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14814_21d44_sm.jpeg",
-    "HallRating": 17.26,
-    "BAR": 12.20,
-    "StylePlus": "107"
-  },
-  {
-    "BID": 9827,
-    "BeerName": "Orange Ave. Wit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Coronado Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9827_303a1_sm.jpeg",
-    "HallRating": 17.26,
-    "BAR": 12.19,
-    "StylePlus": "114"
-  },
-  {
-    "BID": 5805,
-    "BeerName": "Nelson",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Alpine Beer Company",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5805_c5824_sm.jpeg",
-    "HallRating": 17.26,
-    "BAR": 12.20,
-    "StylePlus": "104"
+    "StylePlus": "107",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.6564639425937593419851753052"
   },
   {
     "BID": 1677074,
@@ -153,7 +70,84 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14814_21d44_sm.jpeg",
     "HallRating": 17.26,
     "BAR": 12.20,
-    "StylePlus": "108"
+    "StylePlus": "108",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.6742845220750601941571560268"
+  },
+  {
+    "BID": 9827,
+    "BeerName": "Orange Ave. Wit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Coronado Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9827_303a1_sm.jpeg",
+    "HallRating": 17.26,
+    "BAR": 12.19,
+    "StylePlus": "114",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.7176605995522229993285361137"
+  },
+  {
+    "BID": 5805,
+    "BeerName": "Nelson",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Alpine Beer Company",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5805_c5824_sm.jpeg",
+    "HallRating": 17.26,
+    "BAR": 12.20,
+    "StylePlus": "104",
+    "RatingScore": 4.05,
+    "AdjustedRating": "2.7393880416877185990787951605"
+  },
+  {
+    "BID": 14814,
+    "BeerName": "Winter Solstice",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "Anderson Valley Brewing Company",
+    "Origin": "Boonville, CA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 5.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14814_21d44_sm.jpeg",
+    "HallRating": 17.26,
+    "BAR": 12.20,
+    "StylePlus": "107",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.7316739101341781319513020821"
+  },
+  {
+    "BID": 2015677,
+    "BeerName": "Orange Ave. Wit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Coronado Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9827_303a1_sm.jpeg",
+    "HallRating": 17.26,
+    "BAR": 12.19,
+    "StylePlus": "114",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.6601899400596092366979638779"
+  },
+  {
+    "BID": 1675061,
+    "BeerName": "Mojo IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Boulder Beer",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-799_44476_sm.jpeg",
+    "HallRating": 17.26,
+    "BAR": 12.20,
+    "StylePlus": "104",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.658782736675285267460239422"
   },
   {
     "BID": 2019823,
@@ -166,7 +160,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29489_2ad66_sm.jpeg",
     "HallRating": 17.26,
     "BAR": 12.20,
-    "StylePlus": "109"
+    "StylePlus": "109",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.6771982896907479134143899417"
+  },
+  {
+    "BID": 8508,
+    "BeerName": "Bourgogne des Flandres Brune / Bruin",
+    "BeerStyle": "Sour - Flanders Red Ale",
+    "BreweryName": "Brewery John Martin & Brewery Timmermans",
+    "Origin": "Rixensart, Région Wallonne Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 19.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-561371_5b950_sm.jpeg",
+    "HallRating": 17.26,
+    "BAR": 12.20,
+    "StylePlus": "103",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.6544621093361173645201049157"
   },
   {
     "BID": 206,
@@ -179,20 +190,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-206_bba19_sm.jpeg",
     "HallRating": 17.26,
     "BAR": 12.20,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.6543347531825809938077244832"
   },
   {
-    "BID": 12201,
-    "BeerName": "Bourbon Barrel Quad",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Boulevard Brewing Co.",
-    "Origin": "Kansas City, MO United States",
-    "BeerAbv": 12.20,
-    "BeerIbu": 26.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12201_bcff7_sm.jpeg",
-    "HallRating": 17.25,
-    "BAR": 12.18,
-    "StylePlus": "101"
+    "BID": 21991,
+    "BeerName": "A Little Sumpin' Extra! Ale",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 8.70,
+    "BeerIbu": 72.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21991_02ad0_sm.jpeg",
+    "HallRating": 17.26,
+    "BAR": 12.20,
+    "StylePlus": "101",
+    "RatingScore": 3.98,
+    "AdjustedRating": "2.7285005134965279390622025233"
   },
   {
     "BID": 6775,
@@ -205,20 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6775_b0216_sm.jpeg",
     "HallRating": 17.25,
     "BAR": 12.19,
-    "StylePlus": "107"
-  },
-  {
-    "BID": 4044,
-    "BeerName": "Maudite",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Unibroue",
-    "Origin": "Chambly, QC Canada",
-    "BeerAbv": 8.00,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4044_ee934_sm.jpeg",
-    "HallRating": 17.25,
-    "BAR": 12.18,
-    "StylePlus": "108"
+    "StylePlus": "107",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.6642465485666458005942399601"
   },
   {
     "BID": 3348120,
@@ -231,46 +235,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2494337_154be_sm.jpeg",
     "HallRating": 17.25,
     "BAR": 12.18,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.7211667217503940706177534232"
   },
   {
-    "BID": 1256,
-    "BeerName": "Pure Hoppiness",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Alpine Beer Company",
-    "Origin": "Fort Collins, CO United States",
+    "BID": 12201,
+    "BeerName": "Bourbon Barrel Quad",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Boulevard Brewing Co.",
+    "Origin": "Kansas City, MO United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 26.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12201_bcff7_sm.jpeg",
+    "HallRating": 17.25,
+    "BAR": 12.18,
+    "StylePlus": "101",
+    "RatingScore": 4.03,
+    "AdjustedRating": "2.732974541796764497204341204"
+  },
+  {
+    "BID": 4044,
+    "BeerName": "Maudite",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "Unibroue",
+    "Origin": "Chambly, QC Canada",
     "BeerAbv": 8.00,
-    "BeerIbu": 61.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1256_109d6_sm.jpeg",
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4044_ee934_sm.jpeg",
     "HallRating": 17.25,
     "BAR": 12.18,
-    "StylePlus": "101"
-  },
-  {
-    "BID": 21228,
-    "BeerName": "Deugniet",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Brasserie du Bocq",
-    "Origin": "Yvoir, Région Wallonne Belgium",
-    "BeerAbv": 7.50,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21228_54ae9_sm.jpeg",
-    "HallRating": 17.25,
-    "BAR": 12.18,
-    "StylePlus": "107"
-  },
-  {
-    "BID": 4015497,
-    "BeerName": "Cass Fresh",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Oriental Brewery",
-    "Origin": "Seoul, South Korea",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3700_7ea8e_sm.jpeg",
-    "HallRating": 17.25,
-    "BAR": 12.18,
-    "StylePlus": "99"
+    "StylePlus": "108",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.6929076850640188039817070971"
   },
   {
     "BID": 11337,
@@ -283,7 +280,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3700_7ea8e_sm.jpeg",
     "HallRating": 17.25,
     "BAR": 12.18,
-    "StylePlus": "99"
+    "StylePlus": "99",
+    "RatingScore": 2.85,
+    "AdjustedRating": "2.604576912996846485103486972"
+  },
+  {
+    "BID": 21228,
+    "BeerName": "Deugniet",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Brasserie du Bocq",
+    "Origin": "Yvoir, Région Wallonne Belgium",
+    "BeerAbv": 7.50,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21228_54ae9_sm.jpeg",
+    "HallRating": 17.25,
+    "BAR": 12.18,
+    "StylePlus": "107",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.6539821720630869484326722521"
   },
   {
     "BID": 16631,
@@ -296,7 +310,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16631_fb81e_sm.jpeg",
     "HallRating": 17.25,
     "BAR": 12.18,
-    "StylePlus": "106"
+    "StylePlus": "106",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.6744404546854876991245151993"
+  },
+  {
+    "BID": 4015497,
+    "BeerName": "Cass Fresh",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Oriental Brewery",
+    "Origin": "Seoul, South Korea",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3700_7ea8e_sm.jpeg",
+    "HallRating": 17.25,
+    "BAR": 12.18,
+    "StylePlus": "99",
+    "RatingScore": 2.85,
+    "AdjustedRating": "2.5470487886714551133291430651"
   },
   {
     "BID": 11844,
@@ -309,7 +340,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11844_b8c40_sm.jpeg",
     "HallRating": 17.25,
     "BAR": 12.18,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 3.88,
+    "AdjustedRating": "2.7089689168383282450076035439"
+  },
+  {
+    "BID": 1256,
+    "BeerName": "Pure Hoppiness",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Alpine Beer Company",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 61.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1256_109d6_sm.jpeg",
+    "HallRating": 17.25,
+    "BAR": 12.18,
+    "StylePlus": "101",
+    "RatingScore": 4.02,
+    "AdjustedRating": "2.7312851616101752823194265683"
   },
   {
     "BID": 4631266,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4009513_3db71_sm.jpeg",
     "HallRating": 17.25,
     "BAR": 12.19,
-    "StylePlus": "124"
+    "StylePlus": "124",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.6546865858429713857367995607"
   }
 ]

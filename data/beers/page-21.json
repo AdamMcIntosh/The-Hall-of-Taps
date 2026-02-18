@@ -1,107 +1,18 @@
 [
   {
-    "BID": 4816187,
-    "BeerName": "Naked",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Blackbird Farms Brewery",
-    "Origin": "Lilburn, GA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-496316_df4fa.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 4815937,
-    "BeerName": "Summerville Hibiscus And Lime",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Elevation Beer Company",
-    "Origin": "Poncha Springs, CO United States",
+    "BID": 3343017,
+    "BeerName": "Rye & Thai",
+    "BeerStyle": "Hard Ginger Beer",
+    "BreweryName": "Founders Original",
+    "Origin": null,
     "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-elevationbeercompany_23218.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "112"
-  },
-  {
-    "BID": 4981437,
-    "BeerName": "Spill the Tea",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "TrimTab Brewing Co.",
-    "Origin": "Birmingham, AL United States",
-    "BeerAbv": 4.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4981437_4843a_sm.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "121"
-  },
-  {
-    "BID": 4815823,
-    "BeerName": "Mango Quencher",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Gideon's Brewing Company",
-    "Origin": "Bismarck, ND United States",
-    "BeerAbv": 7.60,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-387973_f3760.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 4816455,
-    "BeerName": "The Classic Pale",
-    "BeerStyle": "Pale Ale - Australian",
-    "BreweryName": "Three Tails Brewery",
-    "Origin": "Mudgee, New South Wales Australia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816455_4396f_sm.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "119"
-  },
-  {
-    "BID": 6008800,
-    "BeerName": "Feral Spirit",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Brewery Nønic",
-    "Origin": "Menomonie, WI United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-418221_b5cbc.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "104"
-  },
-  {
-    "BID": 915,
-    "BeerName": "Wooly Bully",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Siletz Roadhouse & Brewery",
-    "Origin": "Siletz, OR United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-915_947b3_sm.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "121"
-  },
-  {
-    "BID": 6009323,
-    "BeerName": "Helles Roggen",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Braumanufaktur Pohlmann - Museum Brewery Hagen",
-    "Origin": "Hagen, Nordrhein-Westfalen Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-276346_db219.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "119"
+    "StylePlus": "119",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.4904705857352972455960561067"
   },
   {
     "BID": 6006808,
@@ -114,20 +25,54 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CapeCodBeer_7343.jpeg",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "121"
+    "StylePlus": "121",
+    "RatingScore": 3.86,
+    "AdjustedRating": "2.4904716857050480774481801733"
   },
   {
-    "BID": 6009369,
-    "BeerName": "TITÃ",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Mãttu Cervejaria",
-    "Origin": "São Luís, Maranhão Brazil",
-    "BeerAbv": 5.00,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6009369_a5721_sm.jpeg",
+    "BID": 3337031,
+    "BeerName": "Mt. Hood Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Best of Hands Barrelhouse",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3337031_c368d_sm.jpeg",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "108"
+    "StylePlus": "119",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.4904672858260447500396839069"
+  },
+  {
+    "BID": 4960115,
+    "BeerName": "Total Eclipse of the Heart",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "COOP Ale Works",
+    "Origin": "Oklahoma City, OK United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3365_a9356.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "108",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.4904637109243545465202806905"
+  },
+  {
+    "BID": 3337172,
+    "BeerName": "El Condé",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "French Broad River Brewery",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1586_0e2be.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "112",
+    "RatingScore": 4.14,
+    "AdjustedRating": "2.4904793854933039004130486394"
   },
   {
     "BID": 6007437,
@@ -140,7 +85,84 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-447385_bb466.jpeg",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.4904689357806709978178700068"
+  },
+  {
+    "BID": 1675537,
+    "BeerName": "Sorachi Ace IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "SeaQuake Brewing",
+    "Origin": "Crescent City, CA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-281797_56c22.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "108",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.4904642609092299624463427238"
+  },
+  {
+    "BID": 1675329,
+    "BeerName": "Daddy's Little Monster",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Flix Brewhouse",
+    "Origin": "Round Rock, TX United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-15976_ef1d3.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "116",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.49047113572017266152211814"
+  },
+  {
+    "BID": 1675162,
+    "BeerName": "Crabby Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Wyndridge Farm",
+    "Origin": "Dallastown, PA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-wyndridgefarm_98011.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "109",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.4904725106823612013372732232"
+  },
+  {
+    "BID": 1675576,
+    "BeerName": "Rainmaker",
+    "BeerStyle": "Other",
+    "BreweryName": "Bare Hands Brewery",
+    "Origin": "Granger, IN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-21859_8de25.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "113",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.4904686607882332898548389902"
+  },
+  {
+    "BID": 1001,
+    "BeerName": "Scottish Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "John Harvard’s Brewery & Ale House",
+    "Origin": "Stamford, CT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-johnharvardsbrewhouse_16871.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "111",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.4904626109546037146681566239"
   },
   {
     "BID": 3338677,
@@ -153,7 +175,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31946_82245.jpeg",
     "HallRating": 22.24,
     "BAR": 5.24,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.4905096168253533816839547511"
   },
   {
     "BID": 7370,
@@ -166,20 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7370_04262_sm.jpeg",
     "HallRating": 22.17,
     "BAR": 15.18,
-    "StylePlus": "108"
-  },
-  {
-    "BID": 6008875,
-    "BeerName": "Frogger Logger",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Frogs Hollow Brewing Co",
-    "Origin": "South Wolumla, New South Wales Australia",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-534681_6fd8a.jpeg",
-    "HallRating": 22.16,
-    "BAR": 5.31,
-    "StylePlus": "132"
+    "StylePlus": "108",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.5899729264310193808417758531"
   },
   {
     "BID": 29907,
@@ -192,7 +205,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1142_ddcfe.jpeg",
     "HallRating": 22.16,
     "BAR": 5.31,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.4904996411997269840163489356"
   },
   {
     "BID": 3350158,
@@ -205,20 +220,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3350158_f072c_sm.jpeg",
     "HallRating": 22.16,
     "BAR": 5.31,
-    "StylePlus": "156"
+    "StylePlus": "156",
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.4905282393408478111625844303"
   },
   {
-    "BID": 10744,
-    "BeerName": "Bombshell Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Southern Star Brewing Co",
-    "Origin": "Conroe, TX United States",
-    "BeerAbv": 5.25,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10744_92ecc_sm.jpeg",
-    "HallRating": 22.15,
-    "BAR": 15.15,
-    "StylePlus": "116"
+    "BID": 6008875,
+    "BeerName": "Frogger Logger",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Frogs Hollow Brewing Co",
+    "Origin": "South Wolumla, New South Wales Australia",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-534681_6fd8a.jpeg",
+    "HallRating": 22.16,
+    "BAR": 5.31,
+    "StylePlus": "132",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.4904996411997269840163489356"
   },
   {
     "BID": 1672118,
@@ -231,20 +250,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1501843_dae58_sm.jpeg",
     "HallRating": 22.15,
     "BAR": 15.15,
-    "StylePlus": "108"
+    "StylePlus": "108",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.5873842684153171661441686126"
   },
   {
-    "BID": 4878030,
-    "BeerName": "Apple",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Bold Rock Hard Cider",
-    "Origin": "Nellysford, VA United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-182242_07c50_sm.jpeg",
-    "HallRating": 22.14,
-    "BAR": 15.14,
-    "StylePlus": "109"
+    "BID": 10744,
+    "BeerName": "Bombshell Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Southern Star Brewing Co",
+    "Origin": "Conroe, TX United States",
+    "BeerAbv": 5.25,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10744_92ecc_sm.jpeg",
+    "HallRating": 22.15,
+    "BAR": 15.15,
+    "StylePlus": "116",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.5735533358396291364356868866"
   },
   {
     "BID": 2013887,
@@ -257,7 +280,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-392193_79f43_sm.jpeg",
     "HallRating": 22.14,
     "BAR": 15.14,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.5784537229719966755475407407"
+  },
+  {
+    "BID": 4878030,
+    "BeerName": "Apple",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Bold Rock Hard Cider",
+    "Origin": "Nellysford, VA United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-182242_07c50_sm.jpeg",
+    "HallRating": 22.14,
+    "BAR": 15.14,
+    "StylePlus": "109",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.5834872602220326201612416631"
   },
   {
     "BID": 2017423,
@@ -270,7 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1482299_184e7_sm.jpeg",
     "HallRating": 22.13,
     "BAR": 15.12,
-    "StylePlus": "104"
+    "StylePlus": "104",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.5948852846112241392595583615"
   },
   {
     "BID": 3334452,
@@ -283,33 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-538899_ef49d_sm.jpeg",
     "HallRating": 22.10,
     "BAR": 15.09,
-    "StylePlus": "108"
-  },
-  {
-    "BID": 1354,
-    "BeerName": "Eastside Dark",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Lakefront Brewery",
-    "Origin": "Milwaukee, WI United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1354_95d51_sm.jpeg",
-    "HallRating": 22.09,
-    "BAR": 15.07,
-    "StylePlus": "114"
-  },
-  {
-    "BID": 6295,
-    "BeerName": "Blueberry Ale",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Wachusett Brewing Company",
-    "Origin": "Westminster, MA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6295_6fe38_sm.jpeg",
-    "HallRating": 22.09,
-    "BAR": 15.07,
-    "StylePlus": "112"
+    "StylePlus": "108",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.5786913821453064867109276242"
   },
   {
     "BID": 4013566,
@@ -322,6 +340,38 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3075795_40bbc_sm.jpeg",
     "HallRating": 22.09,
     "BAR": 15.08,
-    "StylePlus": "108"
+    "StylePlus": "108",
+    "RatingScore": 3.83,
+    "AdjustedRating": "2.5934338048974701870407506711"
+  },
+  {
+    "BID": 1354,
+    "BeerName": "Eastside Dark",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Lakefront Brewery",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1354_95d51_sm.jpeg",
+    "HallRating": 22.09,
+    "BAR": 15.07,
+    "StylePlus": "114",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.5793810463459808751618624647"
+  },
+  {
+    "BID": 6295,
+    "BeerName": "Blueberry Ale",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Wachusett Brewing Company",
+    "Origin": "Westminster, MA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6295_6fe38_sm.jpeg",
+    "HallRating": 22.09,
+    "BAR": 15.07,
+    "StylePlus": "112",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.5756970049817260868046877869"
   }
 ]

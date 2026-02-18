@@ -10,33 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20615_14e3b_sm.jpeg",
     "HallRating": 20.98,
     "BAR": 13.54,
-    "StylePlus": "120"
-  },
-  {
-    "BID": 1676838,
-    "BeerName": "Heritage Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Craftsman Brewing Company",
-    "Origin": "Pasadena, CA United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-411_313a3.jpeg",
-    "HallRating": 20.97,
-    "BAR": 6.58,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 1666794,
-    "BeerName": "Mango Guppy",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Pipeworks Brewing Company",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1666794_864d3_sm.jpeg",
-    "HallRating": 20.97,
-    "BAR": 13.53,
-    "StylePlus": "108"
+    "StylePlus": "120",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.5188243413591771747197927938"
   },
   {
     "BID": 4940010,
@@ -49,7 +25,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940010_64aeb_sm.jpeg",
     "HallRating": 20.97,
     "BAR": 6.58,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 4.06,
+    "AdjustedRating": "2.4906576549605730846057536784"
+  },
+  {
+    "BID": 1676838,
+    "BeerName": "Heritage Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Craftsman Brewing Company",
+    "Origin": "Pasadena, CA United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-411_313a3.jpeg",
+    "HallRating": 20.97,
+    "BAR": 6.58,
+    "StylePlus": "132",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.4906163358485465483871648273"
   },
   {
     "BID": 1674081,
@@ -62,7 +55,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-976692_4d796_sm.jpeg",
     "HallRating": 20.97,
     "BAR": 13.53,
-    "StylePlus": "109"
+    "StylePlus": "109",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.5244273553306858755048958714"
+  },
+  {
+    "BID": 1666794,
+    "BeerName": "Mango Guppy",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Pipeworks Brewing Company",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1666794_864d3_sm.jpeg",
+    "HallRating": 20.97,
+    "BAR": 13.53,
+    "StylePlus": "108",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.5267998042670279796029021068"
   },
   {
     "BID": 11664,
@@ -75,20 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-TurboShandy_11664.jpeg",
     "HallRating": 20.96,
     "BAR": 13.52,
-    "StylePlus": "117"
-  },
-  {
-    "BID": 6962,
-    "BeerName": "Roger's Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Georgetown Brewing Company",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 34.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6962_e90c1_sm.jpeg",
-    "HallRating": 20.96,
-    "BAR": 13.52,
-    "StylePlus": "121"
+    "StylePlus": "117",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.5263408970857143918265583429"
   },
   {
     "BID": 3350444,
@@ -101,7 +100,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3350444_d2cd6_sm.jpeg",
     "HallRating": 20.96,
     "BAR": 10.55,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.4921881624420305615314176161"
+  },
+  {
+    "BID": 6962,
+    "BeerName": "Roger's Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Georgetown Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 34.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6962_e90c1_sm.jpeg",
+    "HallRating": 20.96,
+    "BAR": 13.52,
+    "StylePlus": "121",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.5191546667085483366550970532"
   },
   {
     "BID": 2013635,
@@ -114,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2664084_40665_sm.jpeg",
     "HallRating": 20.95,
     "BAR": 10.52,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.4921106466417781212762679695"
   },
   {
     "BID": 2655,
@@ -127,7 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2655_23bd6_sm.jpeg",
     "HallRating": 20.95,
     "BAR": 13.50,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.5188719987126127331504534937"
   },
   {
     "BID": 4446812,
@@ -140,7 +160,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-504972_9fab0.jpeg",
     "HallRating": 20.94,
     "BAR": 6.64,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.4906478031254439632857253538"
   },
   {
     "BID": 4981425,
@@ -153,33 +175,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4981425_a1603_sm.jpeg",
     "HallRating": 20.94,
     "BAR": 6.64,
-    "StylePlus": "132"
-  },
-  {
-    "BID": 6039,
-    "BeerName": "Sink The Bismarck!",
-    "BeerStyle": "Freeze-Distilled Beer",
-    "BreweryName": "BrewDog",
-    "Origin": "Ellon, Aberdeenshire Scotland",
-    "BeerAbv": 41.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6039_56407_sm.jpeg",
-    "HallRating": 20.94,
-    "BAR": 13.49,
-    "StylePlus": "127"
-  },
-  {
-    "BID": 3350026,
-    "BeerName": "Heavy",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Burial Beer Co.",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 11.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3277963_62deb_sm.jpeg",
-    "HallRating": 20.94,
-    "BAR": 10.48,
-    "StylePlus": "127"
+    "StylePlus": "132",
+    "RatingScore": 3.83,
+    "AdjustedRating": "2.4906315805182785201885821824"
   },
   {
     "BID": 5899,
@@ -192,7 +190,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-newBelgiumHoptober.jpg",
     "HallRating": 20.94,
     "BAR": 13.49,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.5183792428022229460748224518"
+  },
+  {
+    "BID": 3350026,
+    "BeerName": "Heavy",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Burial Beer Co.",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 11.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3277963_62deb_sm.jpeg",
+    "HallRating": 20.94,
+    "BAR": 10.48,
+    "StylePlus": "127",
+    "RatingScore": 3.83,
+    "AdjustedRating": "2.4925238301917303875397790934"
+  },
+  {
+    "BID": 6039,
+    "BeerName": "Sink The Bismarck!",
+    "BeerStyle": "Freeze-Distilled Beer",
+    "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
+    "BeerAbv": 41.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6039_56407_sm.jpeg",
+    "HallRating": 20.94,
+    "BAR": 13.49,
+    "StylePlus": "127",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.5212328044507736025261401405"
   },
   {
     "BID": 1667292,
@@ -205,20 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2009730_025ab_sm.jpeg",
     "HallRating": 20.93,
     "BAR": 13.48,
-    "StylePlus": "109"
-  },
-  {
-    "BID": 3349867,
-    "BeerName": "Passport: Pineapple Passionfruit",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Schilling Cider",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2009730_025ab_sm.jpeg",
-    "HallRating": 20.93,
-    "BAR": 13.48,
-    "StylePlus": "109"
+    "StylePlus": "109",
+    "RatingScore": 3.86,
+    "AdjustedRating": "2.5936835646217452326608304346"
   },
   {
     "BID": 6795,
@@ -231,7 +250,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-212704_9208d_sm.jpeg",
     "HallRating": 20.93,
     "BAR": 13.47,
-    "StylePlus": "114"
+    "StylePlus": "114",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.5174373029967955330337110347"
+  },
+  {
+    "BID": 3349867,
+    "BeerName": "Passport: Pineapple Passionfruit",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Schilling Cider",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2009730_025ab_sm.jpeg",
+    "HallRating": 20.93,
+    "BAR": 13.48,
+    "StylePlus": "109",
+    "RatingScore": 3.86,
+    "AdjustedRating": "2.5272025727019888489012468508"
   },
   {
     "BID": 4446443,
@@ -244,7 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4431717_c85d1_sm.jpeg",
     "HallRating": 20.91,
     "BAR": 6.69,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.4906352268043173078808581674"
   },
   {
     "BID": 26672,
@@ -257,7 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26672_72f25_sm.jpeg",
     "HallRating": 20.91,
     "BAR": 6.69,
-    "StylePlus": "132"
+    "StylePlus": "132",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.4906016819199121796629114043"
   },
   {
     "BID": 4816715,
@@ -270,20 +310,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816715_0cf7a_sm.jpeg",
     "HallRating": 20.90,
     "BAR": 10.38,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.492338342159286213751629482"
   },
   {
-    "BID": 4815458,
-    "BeerName": "Catharina Sour de Jabuticaba",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Hop Capital Beer",
-    "Origin": "Brasília, Distrito Federal Brazil",
-    "BeerAbv": 5.70,
+    "BID": 4940684,
+    "BeerName": "PGC 100",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Square Timber Brewing Co.",
+    "Origin": "Pembroke, ON Canada",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-366355_e22f2.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SquareTimberBrewingCo_70721.jpeg",
     "HallRating": 20.89,
     "BAR": 4.01,
-    "StylePlus": "104"
+    "StylePlus": "119",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.4904756046522188775152093899"
+  },
+  {
+    "BID": 3347387,
+    "BeerName": "Copperhead",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Lake of Bays Brewing Company",
+    "Origin": "Muskoka District Municipality, ON Canada",
+    "BeerAbv": 5.30,
+    "BeerIbu": 19.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1685_d3529.jpeg",
+    "HallRating": 20.89,
+    "BAR": 4.01,
+    "StylePlus": "115",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.4904796044922252772592196295"
   },
   {
     "BID": 4981599,
@@ -296,32 +355,23 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4981599_ee073_sm.jpeg",
     "HallRating": 20.89,
     "BAR": 4.01,
-    "StylePlus": "115"
+    "StylePlus": "115",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.4904868042042367967984380607"
   },
   {
-    "BID": 6012691,
-    "BeerName": "Vecna’s Vienna",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "BattleMage Brewing",
-    "Origin": "Vista, CA United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-339000_19845.jpeg",
+    "BID": 4940018,
+    "BeerName": "Tropcal Punch Squish",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "River Ridge Brewing",
+    "Origin": "Bellevue, IA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-297257_cb651.jpeg",
     "HallRating": 20.89,
     "BAR": 4.01,
-    "StylePlus": "115"
-  },
-  {
-    "BID": 3335451,
-    "BeerName": "Hurry Sundown (w/ Watermelon)",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "High And Dry Brewing",
-    "Origin": "Albuquerque, NM United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3335451_c98b8_sm.jpeg",
-    "HallRating": 20.89,
-    "BAR": 4.01,
-    "StylePlus": "115"
+    "StylePlus": "112",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.4904788045242239973104175815"
   }
 ]

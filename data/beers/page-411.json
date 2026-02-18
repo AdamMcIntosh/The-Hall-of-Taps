@@ -1,16 +1,18 @@
 [
   {
-    "BID": 9217,
-    "BeerName": "Tripel Perfection",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brewery Ommegang",
-    "Origin": "Cooperstown, NY United States",
-    "BeerAbv": 8.90,
+    "BID": 1671293,
+    "BeerName": "Winni Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "603 Brewery",
+    "Origin": "Londonderry, NH United States",
+    "BeerAbv": 6.60,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_9217_sm_9b21a01e7b4e49c7d529d1404a0329.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-291728_320fa_sm.jpeg",
     "HallRating": 15.70,
-    "BAR": 10.10,
-    "StylePlus": "106"
+    "BAR": 10.11,
+    "StylePlus": "116",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.5191839646138586555571817455"
   },
   {
     "BID": 6309,
@@ -23,46 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6309_38c0d_sm.jpeg",
     "HallRating": 15.70,
     "BAR": 10.10,
-    "StylePlus": "107"
-  },
-  {
-    "BID": 15904,
-    "BeerName": "Trösten",
-    "BeerStyle": "Lager - Smoked",
-    "BreweryName": "von Trapp Brewing",
-    "Origin": "Stowe, VT United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 19.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1311963_56451_sm.jpeg",
-    "HallRating": 15.70,
-    "BAR": 10.10,
-    "StylePlus": "111"
-  },
-  {
-    "BID": 29097,
-    "BeerName": "BeerBrugna",
-    "BeerStyle": "Wild Ale - Other",
-    "BreweryName": "LoverBeer",
-    "Origin": "Marentino, Piemonte Italy",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29097_56c78_sm.jpeg",
-    "HallRating": 15.70,
-    "BAR": 10.11,
-    "StylePlus": "101"
-  },
-  {
-    "BID": 11088,
-    "BeerName": "Gauloise Brune",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Brasserie du Bocq",
-    "Origin": "Yvoir, Région Wallonne Belgium",
-    "BeerAbv": 8.10,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-GauloiseBrune_11088.jpeg",
-    "HallRating": 15.70,
-    "BAR": 10.11,
-    "StylePlus": "105"
+    "StylePlus": "107",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.5200857686827970658351415978"
   },
   {
     "BID": 27054,
@@ -75,7 +40,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27054_f150b_sm.jpeg",
     "HallRating": 15.70,
     "BAR": 10.10,
-    "StylePlus": "105"
+    "StylePlus": "105",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.5187847100357471867388910364"
+  },
+  {
+    "BID": 9217,
+    "BeerName": "Tripel Perfection",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brewery Ommegang",
+    "Origin": "Cooperstown, NY United States",
+    "BeerAbv": 8.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_9217_sm_9b21a01e7b4e49c7d529d1404a0329.jpeg",
+    "HallRating": 15.70,
+    "BAR": 10.10,
+    "StylePlus": "106",
+    "RatingScore": 3.92,
+    "AdjustedRating": "2.5287423043267674252169609777"
+  },
+  {
+    "BID": 4631833,
+    "BeerName": "Triporteur Bling Bling Imperial King",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "BOMBrewery",
+    "Origin": "Roeselare, Vlaams Gewest Belgium",
+    "BeerAbv": 8.80,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1523231_95f2f_sm.jpeg",
+    "HallRating": 15.70,
+    "BAR": 10.11,
+    "StylePlus": "101",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.5190531093605559335548279737"
+  },
+  {
+    "BID": 15904,
+    "BeerName": "Trösten",
+    "BeerStyle": "Lager - Smoked",
+    "BreweryName": "von Trapp Brewing",
+    "Origin": "Stowe, VT United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 19.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1311963_56451_sm.jpeg",
+    "HallRating": 15.70,
+    "BAR": 10.10,
+    "StylePlus": "111",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.5236126906517550723918530595"
   },
   {
     "BID": 6552,
@@ -88,59 +100,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6552_24ddc_sm.jpeg",
     "HallRating": 15.70,
     "BAR": 10.11,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.5176619778065518649534624041"
   },
   {
-    "BID": 4981154,
-    "BeerName": "4 Giants Tropical Treasure",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5148066_eb9f6_sm.jpeg",
-    "HallRating": 15.70,
-    "BAR": 10.10,
-    "StylePlus": "101"
-  },
-  {
-    "BID": 16424,
-    "BeerName": "Crown Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Carlton & United Breweries",
-    "Origin": "Abbotsford, Victoria Australia",
-    "BeerAbv": 4.90,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16424_2eced_sm.jpeg",
+    "BID": 26264,
+    "BeerName": "XS Old Crustacean",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 10.75,
+    "BeerIbu": 92.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-OldCrustacean_10186.jpeg",
     "HallRating": 15.70,
     "BAR": 10.11,
-    "StylePlus": "99"
-  },
-  {
-    "BID": 1671293,
-    "BeerName": "Winni Ale",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "603 Brewery",
-    "Origin": "Londonderry, NH United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-291728_320fa_sm.jpeg",
-    "HallRating": 15.70,
-    "BAR": 10.11,
-    "StylePlus": "116"
-  },
-  {
-    "BID": 20316,
-    "BeerName": "B-Bomb",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Fremont Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20316_bb9ec_sm.jpeg",
-    "HallRating": 15.70,
-    "BAR": 10.10,
-    "StylePlus": "116"
+    "StylePlus": "102",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.5228841644723144380007250115"
   },
   {
     "BID": 5749,
@@ -153,72 +130,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CaptainsReserveImperialIPA_5749.jpeg",
     "HallRating": 15.70,
     "BAR": 10.11,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.527474307531607904193608344"
   },
   {
-    "BID": 10512,
-    "BeerName": "Saison du BUFF",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-stoneSaisonDuBUFF.jpg",
-    "HallRating": 15.69,
-    "BAR": 10.09,
-    "StylePlus": "105"
+    "BID": 16424,
+    "BeerName": "Crown Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Carlton & United Breweries",
+    "Origin": "Abbotsford, Victoria Australia",
+    "BeerAbv": 4.90,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16424_2eced_sm.jpeg",
+    "HallRating": 15.70,
+    "BAR": 10.11,
+    "StylePlus": "99",
+    "RatingScore": 2.76,
+    "AdjustedRating": "2.4977169677737474343859968312"
   },
   {
-    "BID": 16652,
-    "BeerName": "Paradox Islay",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "BrewDog",
-    "Origin": "Ellon, Aberdeenshire Scotland",
-    "BeerAbv": 13.80,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16652_6f3d9_sm.jpeg",
-    "HallRating": 15.69,
+    "BID": 11088,
+    "BeerName": "Gauloise Brune",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Brasserie du Bocq",
+    "Origin": "Yvoir, Région Wallonne Belgium",
+    "BeerAbv": 8.10,
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-GauloiseBrune_11088.jpeg",
+    "HallRating": 15.70,
+    "BAR": 10.11,
+    "StylePlus": "105",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.5176619778065518649534624041"
+  },
+  {
+    "BID": 4981154,
+    "BeerName": "4 Giants Tropical Treasure",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5148066_eb9f6_sm.jpeg",
+    "HallRating": 15.70,
     "BAR": 10.10,
-    "StylePlus": "100"
-  },
-  {
-    "BID": 12335,
-    "BeerName": "Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Good People Brewing Company",
-    "Origin": "Birmingham, AL United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 31.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12335_4c31e_sm.jpeg",
-    "HallRating": 15.69,
-    "BAR": 10.09,
-    "StylePlus": "109"
-  },
-  {
-    "BID": 29695,
-    "BeerName": "Brown Bear Brown Ale",
-    "BeerStyle": "Brown Ale - English",
-    "BreweryName": "Catawba Brewing Co.",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29695_80144_sm.jpeg",
-    "HallRating": 15.69,
-    "BAR": 10.10,
-    "StylePlus": "111"
-  },
-  {
-    "BID": 10848,
-    "BeerName": "Rye IPA",
-    "BeerStyle": "IPA - Rye",
-    "BreweryName": "Dock Street Brewing Co.",
-    "Origin": "Philadelphia, PA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 64.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10848_3ac46_sm.jpeg",
-    "HallRating": 15.69,
-    "BAR": 10.10,
-    "StylePlus": "104"
+    "StylePlus": "101",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.5264994646264249044562037829"
   },
   {
     "BID": 21079,
@@ -231,7 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14362_88000_sm.jpeg",
     "HallRating": 15.69,
     "BAR": 10.09,
-    "StylePlus": "102"
+    "StylePlus": "102",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.52516685277261506872295314"
   },
   {
     "BID": 1676474,
@@ -244,7 +205,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_466368_sm_42027bd0da0b2c237e55d9cd0eb2b5.jpeg",
     "HallRating": 15.69,
     "BAR": 10.09,
-    "StylePlus": "105"
+    "StylePlus": "105",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.5200241432475909898727397947"
+  },
+  {
+    "BID": 10512,
+    "BeerName": "Saison du BUFF",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Stone Brewing",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-stoneSaisonDuBUFF.jpg",
+    "HallRating": 15.69,
+    "BAR": 10.09,
+    "StylePlus": "105",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.5249139441291645854927062884"
+  },
+  {
+    "BID": 12335,
+    "BeerName": "Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Good People Brewing Company",
+    "Origin": "Birmingham, AL United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 31.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12335_4c31e_sm.jpeg",
+    "HallRating": 15.69,
+    "BAR": 10.09,
+    "StylePlus": "109",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.5198544870844424646396865362"
+  },
+  {
+    "BID": 29695,
+    "BeerName": "Brown Bear Brown Ale",
+    "BeerStyle": "Brown Ale - English",
+    "BreweryName": "Catawba Brewing Co.",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29695_80144_sm.jpeg",
+    "HallRating": 15.69,
+    "BAR": 10.10,
+    "StylePlus": "111",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.5211220486860678405729941998"
   },
   {
     "BID": 11194,
@@ -257,7 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-498792_a244b_sm.jpeg",
     "HallRating": 15.69,
     "BAR": 10.09,
-    "StylePlus": "100"
+    "StylePlus": "100",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.5251234155395731800413839412"
   },
   {
     "BID": 9823,
@@ -270,7 +280,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1845225_6a75a_sm.jpeg",
     "HallRating": 15.69,
     "BAR": 10.09,
-    "StylePlus": "105"
+    "StylePlus": "105",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.5172101335868317356329892073"
+  },
+  {
+    "BID": 16652,
+    "BeerName": "Paradox Islay",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
+    "BeerAbv": 13.80,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16652_6f3d9_sm.jpeg",
+    "HallRating": 15.69,
+    "BAR": 10.10,
+    "StylePlus": "100",
+    "RatingScore": 4.04,
+    "AdjustedRating": "2.5317010820709439400699949368"
+  },
+  {
+    "BID": 10848,
+    "BeerName": "Rye IPA",
+    "BeerStyle": "IPA - Rye",
+    "BreweryName": "Dock Street Brewing Co.",
+    "Origin": "Philadelphia, PA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 64.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10848_3ac46_sm.jpeg",
+    "HallRating": 15.69,
+    "BAR": 10.10,
+    "StylePlus": "104",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.5208173104985728105571239796"
   },
   {
     "BID": 11011,
@@ -283,7 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11011_57260_sm.jpeg",
     "HallRating": 15.69,
     "BAR": 10.09,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.5204062016353299598886452503"
   },
   {
     "BID": 1674888,
@@ -296,7 +340,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1674888_abe52_sm.jpeg",
     "HallRating": 15.69,
     "BAR": 10.10,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 3.99,
+    "AdjustedRating": "2.530337546012293882263920083"
   },
   {
     "BID": 16799,
@@ -309,7 +355,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16799_8faa7_sm.jpeg",
     "HallRating": 15.69,
     "BAR": 10.09,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.5185538250217495199818060119"
   },
   {
     "BID": 3868,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3868_237a0_sm.jpeg",
     "HallRating": 15.68,
     "BAR": 10.08,
-    "StylePlus": "112"
+    "StylePlus": "112",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.5176066608979051909453371492"
   }
 ]

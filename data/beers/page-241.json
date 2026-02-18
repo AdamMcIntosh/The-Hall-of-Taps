@@ -1,29 +1,33 @@
 [
   {
-    "BID": 6443,
-    "BeerName": "Back in Black",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "21st Amendment Brewery",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6443_acb19_sm.jpeg",
+    "BID": 3339094,
+    "BeerName": "Blue",
+    "BeerStyle": "Wheat Beer - Fruited",
+    "BreweryName": "SweetWater Brewing Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4511_636e6_sm.jpeg",
     "HallRating": 17.39,
     "BAR": 12.37,
-    "StylePlus": "104"
+    "StylePlus": "112",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.6785126731494676729908979761"
   },
   {
-    "BID": 414,
-    "BeerName": "Hibernation Ale",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Great Divide Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 8.70,
-    "BeerIbu": 47.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-414_f627c_sm.jpeg",
+    "BID": 3334332,
+    "BeerName": "Light Lager",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Yuengling Brewery",
+    "Origin": "Pottsville, PA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3813_46651_sm.jpeg",
     "HallRating": 17.39,
-    "BAR": 12.37,
-    "StylePlus": "104"
+    "BAR": 12.36,
+    "StylePlus": "95",
+    "RatingScore": 3.01,
+    "AdjustedRating": "2.5837917453053564303708115166"
   },
   {
     "BID": 3830,
@@ -36,20 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3830_47909_sm.jpeg",
     "HallRating": 17.39,
     "BAR": 12.37,
-    "StylePlus": "100"
-  },
-  {
-    "BID": 11397,
-    "BeerName": "Burning River Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Great Lakes Brewing Company",
-    "Origin": "Cleveland, OH United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11397_33bcc_sm.jpeg",
-    "HallRating": 17.38,
-    "BAR": 12.34,
-    "StylePlus": "110"
+    "StylePlus": "100",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.7149357777184216499507112018"
   },
   {
     "BID": 6412,
@@ -62,7 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6412_99ee1_sm.jpeg",
     "HallRating": 17.38,
     "BAR": 12.35,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.7973620640158141053953590882"
   },
   {
     "BID": 30577,
@@ -75,7 +70,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6412_99ee1_sm.jpeg",
     "HallRating": 17.38,
     "BAR": 12.35,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.7412870794777521468266690728"
+  },
+  {
+    "BID": 11397,
+    "BeerName": "Burning River Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Great Lakes Brewing Company",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11397_33bcc_sm.jpeg",
+    "HallRating": 17.38,
+    "BAR": 12.34,
+    "StylePlus": "110",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.6755294370275065067731173236"
   },
   {
     "BID": 6407,
@@ -88,20 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407_60fa1_sm.jpeg",
     "HallRating": 17.38,
     "BAR": 12.36,
-    "StylePlus": "110"
-  },
-  {
-    "BID": 14435,
-    "BeerName": "Weihenstephaner Korbinian",
-    "BeerStyle": "Bock - Doppelbock",
-    "BreweryName": "Bayerische Staatsbrauerei Weihenstephan",
-    "Origin": "Freising, Bayern Germany",
-    "BeerAbv": 7.40,
-    "BeerIbu": 32.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14435_d6f05_sm.jpeg",
-    "HallRating": 17.37,
-    "BAR": 12.34,
-    "StylePlus": "107"
+    "StylePlus": "110",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.6986783359392935977277135107"
   },
   {
     "BID": 442,
@@ -114,7 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-442_40138_sm.jpeg",
     "HallRating": 17.37,
     "BAR": 12.34,
-    "StylePlus": "106"
+    "StylePlus": "106",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.7000638902388153925228316918"
   },
   {
     "BID": 3340243,
@@ -127,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1175576_ba29d_sm.jpeg",
     "HallRating": 17.37,
     "BAR": 12.34,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 4.09,
+    "AdjustedRating": "2.8308692498551724066686492829"
   },
   {
     "BID": 3345561,
@@ -140,46 +145,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1175576_ba29d_sm.jpeg",
     "HallRating": 17.37,
     "BAR": 12.34,
-    "StylePlus": "101"
+    "StylePlus": "101",
+    "RatingScore": 4.09,
+    "AdjustedRating": "2.7746945493970812575843288155"
   },
   {
-    "BID": 6119,
-    "BeerName": "Witte",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Brewery Ommegang",
-    "Origin": "Cooperstown, NY United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 11.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6119_463bf_sm.jpeg",
-    "HallRating": 17.36,
-    "BAR": 12.33,
-    "StylePlus": "114"
-  },
-  {
-    "BID": 4012973,
-    "BeerName": "Black House",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "Modern Times Beer",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-384798_b7c76_sm.jpeg",
-    "HallRating": 17.36,
-    "BAR": 12.32,
-    "StylePlus": "103"
-  },
-  {
-    "BID": 1246,
-    "BeerName": "Dorado Double IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Ballast Point Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 90.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_1246_sm_d9e68725cc66958d3f3e15beefb600.jpeg",
-    "HallRating": 17.36,
-    "BAR": 12.32,
-    "StylePlus": "101"
+    "BID": 14435,
+    "BeerName": "Weihenstephaner Korbinian",
+    "BeerStyle": "Bock - Doppelbock",
+    "BreweryName": "Bayerische Staatsbrauerei Weihenstephan",
+    "Origin": "Freising, Bayern Germany",
+    "BeerAbv": 7.40,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14435_d6f05_sm.jpeg",
+    "HallRating": 17.37,
+    "BAR": 12.34,
+    "StylePlus": "107",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.7177642880620412618532291143"
   },
   {
     "BID": 2017299,
@@ -192,7 +175,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4481_9e615_sm.jpeg",
     "HallRating": 17.36,
     "BAR": 12.33,
-    "StylePlus": "116"
+    "StylePlus": "116",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.6710747131516485503604794725"
+  },
+  {
+    "BID": 6119,
+    "BeerName": "Witte",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Brewery Ommegang",
+    "Origin": "Cooperstown, NY United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 11.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6119_463bf_sm.jpeg",
+    "HallRating": 17.36,
+    "BAR": 12.33,
+    "StylePlus": "114",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.6962738769774779043705624838"
   },
   {
     "BID": 4453,
@@ -205,7 +205,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4453_c86cc_sm.jpeg",
     "HallRating": 17.36,
     "BAR": 12.32,
-    "StylePlus": "114"
+    "StylePlus": "114",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.6951906813309451349958217313"
+  },
+  {
+    "BID": 1246,
+    "BeerName": "Dorado Double IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Ballast Point Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 90.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_1246_sm_d9e68725cc66958d3f3e15beefb600.jpeg",
+    "HallRating": 17.36,
+    "BAR": 12.32,
+    "StylePlus": "101",
+    "RatingScore": 3.92,
+    "AdjustedRating": "2.7405533726956928599293849738"
+  },
+  {
+    "BID": 4012973,
+    "BeerName": "Black House",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Modern Times Beer",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-384798_b7c76_sm.jpeg",
+    "HallRating": 17.36,
+    "BAR": 12.32,
+    "StylePlus": "103",
+    "RatingScore": 3.90,
+    "AdjustedRating": "2.7371380859061916436012052924"
   },
   {
     "BID": 4481,
@@ -218,33 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4481_9e615_sm.jpeg",
     "HallRating": 17.36,
     "BAR": 12.32,
-    "StylePlus": "116"
-  },
-  {
-    "BID": 15980,
-    "BeerName": "Grimbergen Blanche",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Brouwerij Alken-Maes",
-    "Origin": "Alken, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-GrimbergenBlanche_15980.jpeg",
-    "HallRating": 17.35,
-    "BAR": 12.32,
-    "StylePlus": "114"
-  },
-  {
-    "BID": 4939369,
-    "BeerName": "Stone Hazy IPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4302962_0ef68_sm.jpeg",
-    "HallRating": 17.35,
-    "BAR": 12.31,
-    "StylePlus": "101"
+    "StylePlus": "116",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.7256394212111073010534631139"
   },
   {
     "BID": 3346218,
@@ -257,7 +265,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-GrimbergenBlanche_15980.jpeg",
     "HallRating": 17.35,
     "BAR": 12.32,
-    "StylePlus": "114"
+    "StylePlus": "114",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.6716278093918742341777324544"
+  },
+  {
+    "BID": 15980,
+    "BeerName": "Grimbergen Blanche",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Brouwerij Alken-Maes",
+    "Origin": "Alken, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-GrimbergenBlanche_15980.jpeg",
+    "HallRating": 17.35,
+    "BAR": 12.32,
+    "StylePlus": "114",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.7280357033422352007421918224"
   },
   {
     "BID": 10526,
@@ -270,7 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10526_2ffae_sm.jpeg",
     "HallRating": 17.35,
     "BAR": 12.32,
-    "StylePlus": "113"
+    "StylePlus": "113",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.6959791983884800025352933755"
   },
   {
     "BID": 5431,
@@ -283,7 +310,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5431_c2398_sm.jpeg",
     "HallRating": 17.35,
     "BAR": 12.31,
-    "StylePlus": "105"
+    "StylePlus": "105",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.6833972372834855816263341359"
+  },
+  {
+    "BID": 4939369,
+    "BeerName": "Stone Hazy IPA",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Stone Brewing",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4302962_0ef68_sm.jpeg",
+    "HallRating": 17.35,
+    "BAR": 12.31,
+    "StylePlus": "101",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.701960940022155794378025192"
   },
   {
     "BID": 1675651,
@@ -296,7 +340,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-424275_bbfff_sm.jpeg",
     "HallRating": 17.35,
     "BAR": 12.32,
-    "StylePlus": "107"
+    "StylePlus": "107",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.673490627448255194515047377"
   },
   {
     "BID": 2241,
@@ -309,7 +355,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2241_f2fd5_sm.jpeg",
     "HallRating": 17.34,
     "BAR": 12.30,
-    "StylePlus": "106"
+    "StylePlus": "106",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.6917080333285631807116772141"
   },
   {
     "BID": 5972,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5972_27aa9_sm.jpeg",
     "HallRating": 17.34,
     "BAR": 12.30,
-    "StylePlus": "107"
+    "StylePlus": "107",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.697911447938067732578578262"
   }
 ]
