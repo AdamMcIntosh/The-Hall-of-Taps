@@ -1,18 +1,5 @@
 [
   {
-    "BID": 27976,
-    "BeerName": "Santiago (Reserva Especial)",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Industrias La Constancia",
-    "Origin": "San Salvador, San Salvador Department El Salvador",
-    "BeerAbv": 3.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-IndustriasLaConstancia_56613_73c88.jpeg",
-    "HallRating": 8.50,
-    "BAR": 1.25,
-    "StylePlus": "66"
-  },
-  {
     "BID": 6006801,
     "BeerName": "HEY DAY CLASSIC",
     "BeerStyle": "Non-Alcoholic - Other",
@@ -23,20 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 8.50,
     "BAR": 1.25,
-    "StylePlus": "78"
-  },
-  {
-    "BID": 20478,
-    "BeerName": "Kamenitza Extra",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Kamenitza (StarBev)",
-    "Origin": "Plovdiv, Bulgaria",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-8743_08d03.jpeg",
-    "HallRating": 8.50,
-    "BAR": 1.25,
-    "StylePlus": "66"
+    "StylePlus": "78",
+    "RatingScore": 2.25,
+    "AdjustedRating": "2.4904280129760805642562035932"
   },
   {
     "BID": 21026,
@@ -49,7 +25,39 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-5974_f4c4e.jpeg",
     "HallRating": 8.50,
     "BAR": 1.25,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.27,
+    "AdjustedRating": "2.4904285129635808767483912885"
+  },
+  {
+    "BID": 27976,
+    "BeerName": "Santiago (Reserva Especial)",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Industrias La Constancia",
+    "Origin": "San Salvador, San Salvador Department El Salvador",
+    "BeerAbv": 3.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-IndustriasLaConstancia_56613_73c88.jpeg",
+    "HallRating": 8.50,
+    "BAR": 1.25,
+    "StylePlus": "66",
+    "RatingScore": 2.35,
+    "AdjustedRating": "2.4904305129135821267171420697"
+  },
+  {
+    "BID": 20478,
+    "BeerName": "Kamenitza Extra",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Kamenitza (StarBev)",
+    "Origin": "Plovdiv, Bulgaria",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-8743_08d03.jpeg",
+    "HallRating": 8.50,
+    "BAR": 1.25,
+    "StylePlus": "66",
+    "RatingScore": 2.32,
+    "AdjustedRating": "2.4904297629323316579788605267"
   },
   {
     "BID": 25194,
@@ -62,33 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-25194_a8751_sm.jpeg",
     "HallRating": 8.34,
     "BAR": 1.30,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 22113,
-    "BeerName": "Rialto Premium Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Industrias La Constancia",
-    "Origin": "San Salvador, San Salvador Department El Salvador",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-IndustriasLaConstancia_56613_73c88.jpeg",
-    "HallRating": 8.34,
-    "BAR": 1.30,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 3338493,
-    "BeerName": "Amatnieku Alus (5.8%)",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Kauen Craft",
-    "Origin": "Kaunas, Kauno apskritis Lithuania",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266725_2164c.jpeg",
-    "HallRating": 8.34,
-    "BAR": 1.30,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.23,
+    "AdjustedRating": "2.4904268619377016794741244598"
   },
   {
     "BID": 2348,
@@ -101,20 +85,39 @@
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 8.34,
     "BAR": 1.30,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.27,
+    "AdjustedRating": "2.4904279619074525113262485264"
   },
   {
-    "BID": 3890747,
-    "BeerName": "Free Bear",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Huhňák",
-    "Origin": "Czech Republic",
-    "BeerAbv": 0.50,
+    "BID": 22113,
+    "BeerName": "Rialto Premium Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Industrias La Constancia",
+    "Origin": "San Salvador, San Salvador Department El Salvador",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-301440_51f8c.jpeg",
-    "HallRating": 8.21,
-    "BAR": 1.35,
-    "StylePlus": "78"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-IndustriasLaConstancia_56613_73c88.jpeg",
+    "HallRating": 8.34,
+    "BAR": 1.30,
+    "StylePlus": "66",
+    "RatingScore": 2.30,
+    "AdjustedRating": "2.4904287868847656352153415764"
+  },
+  {
+    "BID": 3338493,
+    "BeerName": "Amatnieku Alus (5.8%)",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Kauen Craft",
+    "Origin": "Kaunas, Kauno apskritis Lithuania",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266725_2164c.jpeg",
+    "HallRating": 8.34,
+    "BAR": 1.30,
+    "StylePlus": "66",
+    "RatingScore": 1.71,
+    "AdjustedRating": "2.4904125623309408653965115942"
   },
   {
     "BID": 1674725,
@@ -127,46 +130,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-55892_cd6bc.jpeg",
     "HallRating": 8.21,
     "BAR": 1.35,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.46,
+    "AdjustedRating": "2.4904331106830844737360979153"
   },
   {
-    "BID": 3340731,
-    "BeerName": "Regular",
+    "BID": 3890747,
+    "BeerName": "Free Bear",
     "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Cornelius Malt",
-    "Origin": null,
-    "BeerAbv": 0.00,
+    "BreweryName": "Huhňák",
+    "Origin": "Czech Republic",
+    "BeerAbv": 0.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 8.10,
-    "BAR": 1.39,
-    "StylePlus": "78"
-  },
-  {
-    "BID": 3339011,
-    "BeerName": "Rumproof Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Synthesis",
-    "Origin": "Budapest, Közép-Magyarország Hungary",
-    "BeerAbv": 5.30,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-157465_ae444.jpeg",
-    "HallRating": 8.10,
-    "BAR": 1.39,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 3347077,
-    "BeerName": "Classic Flavored",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Alis",
-    "Origin": null,
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 8.10,
-    "BAR": 1.39,
-    "StylePlus": "78"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-301440_51f8c.jpeg",
+    "HallRating": 8.21,
+    "BAR": 1.35,
+    "StylePlus": "78",
+    "RatingScore": 2.46,
+    "AdjustedRating": "2.4904331106830844737360979153"
   },
   {
     "BID": 4447098,
@@ -179,7 +160,54 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-417686_a21a7.jpeg",
     "HallRating": 8.10,
     "BAR": 1.39,
-    "StylePlus": "78"
+    "StylePlus": "78",
+    "RatingScore": 2.33,
+    "AdjustedRating": "2.4904288097400884133968745998"
+  },
+  {
+    "BID": 3339011,
+    "BeerName": "Rumproof Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Synthesis",
+    "Origin": "Budapest, Közép-Magyarország Hungary",
+    "BeerAbv": 5.30,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-157465_ae444.jpeg",
+    "HallRating": 8.10,
+    "BAR": 1.39,
+    "StylePlus": "66",
+    "RatingScore": 2.27,
+    "AdjustedRating": "2.4904268598034613537763122681"
+  },
+  {
+    "BID": 3340731,
+    "BeerName": "Regular",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Cornelius Malt",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 8.10,
+    "BAR": 1.39,
+    "StylePlus": "78",
+    "RatingScore": 2.12,
+    "AdjustedRating": "2.4904219849618937047249064388"
+  },
+  {
+    "BID": 3347077,
+    "BeerName": "Classic Flavored",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Alis",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 8.10,
+    "BAR": 1.39,
+    "StylePlus": "78",
+    "RatingScore": 1.57,
+    "AdjustedRating": "2.4904041105428123248697517313"
   },
   {
     "BID": 12457,
@@ -192,7 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7054_3f965_sm.jpeg",
     "HallRating": 8.01,
     "BAR": 5.29,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 2.42,
+    "AdjustedRating": "2.4875744422178510542807829651"
   },
   {
     "BID": 12849,
@@ -205,7 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12849_2224c_sm.jpeg",
     "HallRating": 8.00,
     "BAR": 5.27,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 1.84,
+    "AdjustedRating": "2.4648465571606753122343148069"
   },
   {
     "BID": 6124,
@@ -218,7 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6124_5bd35_sm.jpeg",
     "HallRating": 7.92,
     "BAR": 5.16,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 1.87,
+    "AdjustedRating": "2.4703014149717886058999407358"
   },
   {
     "BID": 13429,
@@ -231,7 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Moonshot_13429.jpeg",
     "HallRating": 7.91,
     "BAR": 1.47,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.02,
+    "AdjustedRating": "2.4904163830620401397650688082"
   },
   {
     "BID": 11314,
@@ -244,7 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_11314_sm_a278e14d4957e4f9c3c7805af75a35.jpeg",
     "HallRating": 7.83,
     "BAR": 1.51,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 1.67,
+    "AdjustedRating": "2.4904012076280998422766189335"
   },
   {
     "BID": 24119,
@@ -257,7 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24119_a0788_sm.jpeg",
     "HallRating": 7.71,
     "BAR": 4.85,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.47,
+    "AdjustedRating": "2.4900534099554505154863785337"
   },
   {
     "BID": 8451,
@@ -270,7 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8451_5270b_sm.jpeg",
     "HallRating": 7.70,
     "BAR": 4.83,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.48,
+    "AdjustedRating": "2.4902476949627448578916942672"
   },
   {
     "BID": 1672381,
@@ -283,7 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_542863_sm_3c3e9893c592a5c73a6d862fc2219a.jpeg",
     "HallRating": 7.69,
     "BAR": 4.83,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.44,
+    "AdjustedRating": "2.4895367885930140001918353799"
   },
   {
     "BID": 3777,
@@ -296,7 +340,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3777_74cff_sm.jpeg",
     "HallRating": 7.67,
     "BAR": 4.80,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 2.33,
+    "AdjustedRating": "2.4877262581397901193955862709"
   },
   {
     "BID": 2654,
@@ -309,19 +355,23 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CityBrewingCompany_381.jpeg",
     "HallRating": 7.65,
     "BAR": 1.60,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 1.99,
+    "AdjustedRating": "2.4904102541893309730490901665"
   },
   {
-    "BID": 25164,
-    "BeerName": "Yunusobod",
+    "BID": 18720,
+    "BeerName": "Rio Claro Premium Lager",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Raupxon",
-    "Origin": "Uzbekistan",
-    "BeerAbv": 4.40,
+    "BreweryName": "Cervecería Centro Americana",
+    "Origin": "Ciudad de Guatemala, Guatemala",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-6957_71c5b.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CerveceriaCentroAmericana_359.jpeg",
     "HallRating": 7.65,
     "BAR": 1.60,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.49,
+    "AdjustedRating": "2.4904340030612595564413790327"
   }
 ]

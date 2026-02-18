@@ -1,42 +1,48 @@
 [
   {
-    "BID": 3350571,
-    "BeerName": "Petite Cheri",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Iron Mule Brewery",
-    "Origin": "Castle Rock, CO United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 53.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-409553_9659c.jpeg",
+    "BID": 4940574,
+    "BeerName": "River Isle",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "River Siren Brewing Co",
+    "Origin": "Stillwater, MN United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-513276_1e687.jpeg",
     "HallRating": 9.85,
     "BAR": 2.36,
-    "StylePlus": "84"
+    "StylePlus": "78",
+    "RatingScore": 3.31,
+    "AdjustedRating": "2.4904872920024248086577472447"
   },
   {
-    "BID": 7907,
-    "BeerName": "SKYY  Blue",
-    "BeerStyle": "Flavored Malt Beverage",
-    "BreweryName": "Miller Brewing Company",
-    "Origin": "Milwaukee, WI United States",
-    "BeerAbv": 0.00,
+    "BID": 3348568,
+    "BeerName": "Lone Star",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Rock Solid Brewing",
+    "Origin": "Blackpool, England",
+    "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-863_480fe.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-354872_e830b.jpeg",
     "HallRating": 9.85,
     "BAR": 2.36,
-    "StylePlus": "95"
+    "StylePlus": "90",
+    "RatingScore": 3.36,
+    "AdjustedRating": "2.4904905417911885390152740054"
   },
   {
-    "BID": 1672097,
-    "BeerName": "Birds Can Sing",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Tacoma Brewing Company",
-    "Origin": "Tacoma, WA United States",
-    "BeerAbv": 4.10,
+    "BID": 4940091,
+    "BeerName": "BlackBerry&  Lime Party Time",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Upper Thames Brewing Company",
+    "Origin": "Woodstock, ON Canada",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-tacomabrewingcompany_41281.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-290939_b7ae6.jpeg",
     "HallRating": 9.85,
     "BAR": 2.36,
-    "StylePlus": "81"
+    "StylePlus": "84",
+    "RatingScore": 3.12,
+    "AdjustedRating": "2.4904749428051226332991455538"
   },
   {
     "BID": 1080,
@@ -49,33 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_1080_b935c4caa17489d125df41051b9e.jpeg",
     "HallRating": 9.84,
     "BAR": 5.76,
-    "StylePlus": "86"
-  },
-  {
-    "BID": 14738,
-    "BeerName": "Isabella Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Kern River Brewing Company",
-    "Origin": "Kernville, CA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-IsabellaBlonde_14738.jpeg",
-    "HallRating": 9.84,
-    "BAR": 5.77,
-    "StylePlus": "87"
-  },
-  {
-    "BID": 3345211,
-    "BeerName": "Pale Ale",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Twisted Cat",
-    "Origin": "Dudelange, Esch-sur-Alzette Luxembourg",
-    "BeerAbv": 5.00,
-    "BeerIbu": 27.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345211_32776_sm.jpeg",
-    "HallRating": 9.84,
-    "BAR": 5.77,
-    "StylePlus": "86"
+    "StylePlus": "86",
+    "RatingScore": 3.30,
+    "AdjustedRating": "2.4961713506610616388232093416"
   },
   {
     "BID": 26218,
@@ -88,7 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26218_27abf_sm.jpeg",
     "HallRating": 9.84,
     "BAR": 5.77,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.30,
+    "AdjustedRating": "2.496249160996594604308140601"
   },
   {
     "BID": 4014507,
@@ -101,20 +85,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4014507_12be8_sm.jpeg",
     "HallRating": 9.84,
     "BAR": 5.76,
-    "StylePlus": "84"
+    "StylePlus": "84",
+    "RatingScore": 2.69,
+    "AdjustedRating": "2.4918527579296288238912486579"
   },
   {
-    "BID": 14771,
-    "BeerName": "Dansk Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Bryggeriet Vestfyen",
-    "Origin": "Denmark",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-897109_ffc06_sm.jpeg",
+    "BID": 3345211,
+    "BeerName": "Pale Ale",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "Twisted Cat",
+    "Origin": "Dudelange, Esch-sur-Alzette Luxembourg",
+    "BeerAbv": 5.00,
+    "BeerIbu": 27.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345211_32776_sm.jpeg",
     "HallRating": 9.84,
     "BAR": 5.77,
-    "StylePlus": "89"
+    "StylePlus": "86",
+    "RatingScore": 3.41,
+    "AdjustedRating": "2.4970596879908116507152441141"
   },
   {
     "BID": 30446,
@@ -127,7 +115,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30446_3ca2c_sm.jpeg",
     "HallRating": 9.84,
     "BAR": 5.77,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 2.82,
+    "AdjustedRating": "2.492805366780662117573198244"
+  },
+  {
+    "BID": 14738,
+    "BeerName": "Isabella Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Kern River Brewing Company",
+    "Origin": "Kernville, CA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-IsabellaBlonde_14738.jpeg",
+    "HallRating": 9.84,
+    "BAR": 5.77,
+    "StylePlus": "87",
+    "RatingScore": 3.47,
+    "AdjustedRating": "2.4974726900819369476119683771"
+  },
+  {
+    "BID": 14771,
+    "BeerName": "Dansk Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Bryggeriet Vestfyen",
+    "Origin": "Denmark",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-897109_ffc06_sm.jpeg",
+    "HallRating": 9.84,
+    "BAR": 5.77,
+    "StylePlus": "89",
+    "RatingScore": 2.58,
+    "AdjustedRating": "2.4910789237816783440798707357"
   },
   {
     "BID": 19275,
@@ -140,59 +160,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19275_4fdaa_sm.jpeg",
     "HallRating": 9.84,
     "BAR": 5.76,
-    "StylePlus": "87"
-  },
-  {
-    "BID": 29269,
-    "BeerName": "Kelowna Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Tree Brewing Co.",
-    "Origin": "Vancouver, BC Canada",
-    "BeerAbv": 4.80,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29269_99e84_sm.jpeg",
-    "HallRating": 9.83,
-    "BAR": 5.75,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 17736,
-    "BeerName": "Amber",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Bayern Brewing",
-    "Origin": "Missoula, MT United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17736_4e374_sm.jpeg",
-    "HallRating": 9.83,
-    "BAR": 5.74,
-    "StylePlus": "86"
-  },
-  {
-    "BID": 3344878,
-    "BeerName": "Warsteiner Lemon",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Warsteiner",
-    "Origin": "Warstein, Nordrhein-Westfalen Germany",
-    "BeerAbv": 2.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WarsteinerPremiumLemon_95252.jpeg",
-    "HallRating": 9.83,
-    "BAR": 5.75,
-    "StylePlus": "88"
-  },
-  {
-    "BID": 1671874,
-    "BeerName": "Hell Alkoholfrei",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Brauhaus Riegele",
-    "Origin": "Augsburg, Bayern Germany",
-    "BeerAbv": 0.50,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1109583_6c025_sm.jpeg",
-    "HallRating": 9.83,
-    "BAR": 5.75,
-    "StylePlus": "117"
+    "StylePlus": "87",
+    "RatingScore": 3.44,
+    "AdjustedRating": "2.497161178666618642257800591"
   },
   {
     "BID": 26919,
@@ -205,7 +175,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-7235_a0bb6.jpeg",
     "HallRating": 9.83,
     "BAR": 5.74,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.494296165327379677511604348"
+  },
+  {
+    "BID": 17736,
+    "BeerName": "Amber",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Bayern Brewing",
+    "Origin": "Missoula, MT United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17736_4e374_sm.jpeg",
+    "HallRating": 9.83,
+    "BAR": 5.74,
+    "StylePlus": "86",
+    "RatingScore": 3.49,
+    "AdjustedRating": "2.4973330589169322868765181968"
   },
   {
     "BID": 5585,
@@ -218,20 +205,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-GoofyFootSummerWheat_5585.jpeg",
     "HallRating": 9.83,
     "BAR": 5.75,
-    "StylePlus": "86"
-  },
-  {
-    "BID": 3335397,
-    "BeerName": "Princesa Del Agua",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Cerveza Gara",
-    "Origin": "Breña Alta, Canarias Spain",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-488489_dbe03_sm.jpeg",
-    "HallRating": 9.83,
-    "BAR": 5.74,
-    "StylePlus": "87"
+    "StylePlus": "86",
+    "RatingScore": 3.34,
+    "AdjustedRating": "2.4963564017362167248617803005"
   },
   {
     "BID": 1668148,
@@ -244,7 +220,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-419260_175ac_sm.jpeg",
     "HallRating": 9.83,
     "BAR": 5.74,
-    "StylePlus": "111"
+    "StylePlus": "111",
+    "RatingScore": 2.62,
+    "AdjustedRating": "2.4913295698701090075775701103"
+  },
+  {
+    "BID": 3335397,
+    "BeerName": "Princesa Del Agua",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Cerveza Gara",
+    "Origin": "Breña Alta, Canarias Spain",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-488489_dbe03_sm.jpeg",
+    "HallRating": 9.83,
+    "BAR": 5.74,
+    "StylePlus": "87",
+    "RatingScore": 3.16,
+    "AdjustedRating": "2.4950735479952679839125601101"
+  },
+  {
+    "BID": 1671874,
+    "BeerName": "Hell Alkoholfrei",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Brauhaus Riegele",
+    "Origin": "Augsburg, Bayern Germany",
+    "BeerAbv": 0.50,
+    "BeerIbu": 8.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1109583_6c025_sm.jpeg",
+    "HallRating": 9.83,
+    "BAR": 5.75,
+    "StylePlus": "117",
+    "RatingScore": 3.17,
+    "AdjustedRating": "2.4951612689871499806558160071"
+  },
+  {
+    "BID": 3344878,
+    "BeerName": "Warsteiner Lemon",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Warsteiner",
+    "Origin": "Warstein, Nordrhein-Westfalen Germany",
+    "BeerAbv": 2.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WarsteinerPremiumLemon_95252.jpeg",
+    "HallRating": 9.83,
+    "BAR": 5.75,
+    "StylePlus": "88",
+    "RatingScore": 2.86,
+    "AdjustedRating": "2.4930294230816599264405591437"
   },
   {
     "BID": 1668160,
@@ -257,7 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WarsteinerPremiumLemon_95252.jpeg",
     "HallRating": 9.83,
     "BAR": 5.75,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 2.86,
+    "AdjustedRating": "2.5608646944095361846012686219"
   },
   {
     "BID": 666,
@@ -270,7 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-666_9fe31_sm.jpeg",
     "HallRating": 9.83,
     "BAR": 5.75,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.45,
+    "AdjustedRating": "2.4971728933879189097808846913"
   },
   {
     "BID": 7519,
@@ -283,20 +310,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PopcornPilsner_7519.jpeg",
     "HallRating": 9.83,
     "BAR": 5.75,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.34,
+    "AdjustedRating": "2.4963647792780800634244362117"
   },
   {
-    "BID": 2016320,
-    "BeerName": "Retro",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Brauerei Eichhof",
-    "Origin": "Lucerne, Luzern Switzerland",
+    "BID": 29269,
+    "BeerName": "Kelowna Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Tree Brewing Co.",
+    "Origin": "Vancouver, BC Canada",
     "BeerAbv": 4.80,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29269_99e84_sm.jpeg",
+    "HallRating": 9.83,
+    "BAR": 5.75,
+    "StylePlus": "89",
+    "RatingScore": 3.29,
+    "AdjustedRating": "2.4960196752609442236568838206"
+  },
+  {
+    "BID": 20113,
+    "BeerName": "Tucher Hefe Weizen Alkoholfrei",
+    "BeerStyle": "Non-Alcoholic - Wheat",
+    "BreweryName": "Tucher Bräu",
+    "Origin": "Fürth, Bayern Germany",
+    "BeerAbv": 0.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-51157_c9a52.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-TucherHefeweissenAlcoholfrei_20113.jpeg",
     "HallRating": 9.82,
     "BAR": 5.73,
-    "StylePlus": "89"
+    "StylePlus": "103",
+    "RatingScore": 2.77,
+    "AdjustedRating": "2.4923311957812297142477125026"
+  },
+  {
+    "BID": 16651,
+    "BeerName": "Chili Pepper Ale",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Six Rivers Brewery",
+    "Origin": "McKinleyville, CA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16651_d1f77_sm.jpeg",
+    "HallRating": 9.82,
+    "BAR": 5.74,
+    "StylePlus": "87",
+    "RatingScore": 3.28,
+    "AdjustedRating": "2.4958583237220576325968214856"
   },
   {
     "BID": 5274,
@@ -309,19 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-EstesParkBrewery_509.jpeg",
     "HallRating": 9.82,
     "BAR": 5.72,
-    "StylePlus": "87"
-  },
-  {
-    "BID": 4948,
-    "BeerName": "Mamma Mia! Pizza Beer",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Pizza Beer Company",
-    "Origin": "St. Charles, IL United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-MammaMiaPizzaBeer_4948.jpeg",
-    "HallRating": 9.82,
-    "BAR": 5.73,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 3.31,
+    "AdjustedRating": "2.4959512391530452024109696514"
   }
 ]

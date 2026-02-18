@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18545_c6eca_sm.jpeg",
     "HallRating": 11.88,
     "BAR": 8.60,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.7467429460230293642331334816"
   },
   {
     "BID": 3853,
@@ -23,20 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LabattBlue_3853.jpeg",
     "HallRating": 11.86,
     "BAR": 8.58,
-    "StylePlus": "92"
-  },
-  {
-    "BID": 3346114,
-    "BeerName": "Löwenbräu Original",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.20,
-    "BeerIbu": 19.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-25914_16dce_sm.jpeg",
-    "HallRating": 11.82,
-    "BAR": 8.52,
-    "StylePlus": "90"
+    "StylePlus": "92",
+    "RatingScore": 2.96,
+    "AdjustedRating": "2.6120489906032377988950198854"
   },
   {
     "BID": 4012489,
@@ -49,7 +40,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-25914_16dce_sm.jpeg",
     "HallRating": 11.82,
     "BAR": 8.52,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.19,
+    "AdjustedRating": "2.6621412096042413104077673553"
+  },
+  {
+    "BID": 3346114,
+    "BeerName": "Löwenbräu Original",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.20,
+    "BeerIbu": 19.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-25914_16dce_sm.jpeg",
+    "HallRating": 11.82,
+    "BAR": 8.52,
+    "StylePlus": "90",
+    "RatingScore": 3.19,
+    "AdjustedRating": "2.7136758661244421860448450255"
   },
   {
     "BID": 11016,
@@ -62,7 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-25914_16dce_sm.jpeg",
     "HallRating": 11.82,
     "BAR": 8.52,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.19,
+    "AdjustedRating": "2.7136587930273165743982441197"
   },
   {
     "BID": 1668029,
@@ -75,7 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5325_f4509_sm.jpeg",
     "HallRating": 11.81,
     "BAR": 8.52,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.646388009381184153431956308"
   },
   {
     "BID": 1673480,
@@ -88,59 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-311619_674ef_sm.jpeg",
     "HallRating": 11.79,
     "BAR": 8.49,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 3820,
-    "BeerName": "Prima Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Victory Brewing Company",
-    "Origin": "Downingtown, PA United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 43.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3820_004fb_sm.jpeg",
-    "HallRating": 11.78,
-    "BAR": 8.48,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 8653,
-    "BeerName": "Vedett Extra Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Duvel Moortgat",
-    "Origin": "Puurs-Sint-Amands, Vlaams Gewest Belgium",
-    "BeerAbv": 5.20,
-    "BeerIbu": 26.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8653_b1737_sm.jpeg",
-    "HallRating": 11.78,
-    "BAR": 8.48,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 6009614,
-    "BeerName": "Victoria",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Grupo Modelo",
-    "Origin": "Ciudad de México, Mexico",
-    "BeerAbv": 4.00,
-    "BeerIbu": 24.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212_ce11d_sm.jpeg",
-    "HallRating": 11.78,
-    "BAR": 8.48,
-    "StylePlus": "86"
-  },
-  {
-    "BID": 20856,
-    "BeerName": "Victoria",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Grupo Modelo",
-    "Origin": "Ciudad de México, Mexico",
-    "BeerAbv": 4.00,
-    "BeerIbu": 24.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212_ce11d_sm.jpeg",
-    "HallRating": 11.78,
-    "BAR": 8.48,
-    "StylePlus": "87"
+    "StylePlus": "89",
+    "RatingScore": 2.97,
+    "AdjustedRating": "2.6039204992930599244051053227"
   },
   {
     "BID": 6212,
@@ -153,20 +115,69 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212_ce11d_sm.jpeg",
     "HallRating": 11.78,
     "BAR": 8.48,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 3.18,
+    "AdjustedRating": "2.7040924235710806661293057844"
   },
   {
-    "BID": 9085,
-    "BeerName": "Fruitesse",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Brouwerij Liefmans",
-    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
-    "BeerAbv": 3.80,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9085_4cbf4_sm.jpeg",
-    "HallRating": 11.76,
-    "BAR": 8.45,
-    "StylePlus": "84"
+    "BID": 6009614,
+    "BeerName": "Victoria",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Grupo Modelo",
+    "Origin": "Ciudad de México, Mexico",
+    "BeerAbv": 4.00,
+    "BeerIbu": 24.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212_ce11d_sm.jpeg",
+    "HallRating": 11.78,
+    "BAR": 8.48,
+    "StylePlus": "86",
+    "RatingScore": 3.18,
+    "AdjustedRating": "2.6517962942540113913104135016"
+  },
+  {
+    "BID": 8653,
+    "BeerName": "Vedett Extra Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Duvel Moortgat",
+    "Origin": "Puurs-Sint-Amands, Vlaams Gewest Belgium",
+    "BeerAbv": 5.20,
+    "BeerIbu": 26.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8653_b1737_sm.jpeg",
+    "HallRating": 11.78,
+    "BAR": 8.48,
+    "StylePlus": "89",
+    "RatingScore": 3.27,
+    "AdjustedRating": "2.6727893190508294483606326283"
+  },
+  {
+    "BID": 3820,
+    "BeerName": "Prima Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Victory Brewing Company",
+    "Origin": "Downingtown, PA United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 43.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3820_004fb_sm.jpeg",
+    "HallRating": 11.78,
+    "BAR": 8.48,
+    "StylePlus": "90",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.7169521582376556433845346195"
+  },
+  {
+    "BID": 20856,
+    "BeerName": "Victoria",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Grupo Modelo",
+    "Origin": "Ciudad de México, Mexico",
+    "BeerAbv": 4.00,
+    "BeerIbu": 24.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212_ce11d_sm.jpeg",
+    "HallRating": 11.78,
+    "BAR": 8.48,
+    "StylePlus": "87",
+    "RatingScore": 3.18,
+    "AdjustedRating": "2.7041124739493607637681510844"
   },
   {
     "BID": 1674936,
@@ -179,7 +190,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7521_f882f_sm.jpeg",
     "HallRating": 11.76,
     "BAR": 8.45,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.635472699362210619270896841"
+  },
+  {
+    "BID": 9085,
+    "BeerName": "Fruitesse",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Brouwerij Liefmans",
+    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
+    "BeerAbv": 3.80,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9085_4cbf4_sm.jpeg",
+    "HallRating": 11.76,
+    "BAR": 8.45,
+    "StylePlus": "84",
+    "RatingScore": 3.38,
+    "AdjustedRating": "2.6917451314522725165438241527"
   },
   {
     "BID": 5440,
@@ -192,7 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5440_18c30_sm.jpeg",
     "HallRating": 11.76,
     "BAR": 8.45,
-    "StylePlus": "91"
+    "StylePlus": "91",
+    "RatingScore": 3.18,
+    "AdjustedRating": "2.6469805141282293320272397514"
   },
   {
     "BID": 4445514,
@@ -205,7 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2593729_7ac34_sm.jpeg",
     "HallRating": 11.75,
     "BAR": 8.43,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.30,
+    "AdjustedRating": "2.6711070943176290970512103926"
   },
   {
     "BID": 5311,
@@ -218,7 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5311_b69a1_sm.jpeg",
     "HallRating": 11.74,
     "BAR": 8.42,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.28,
+    "AdjustedRating": "2.664248388555077647838467416"
   },
   {
     "BID": 5872,
@@ -231,7 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5872_5ce96_sm.jpeg",
     "HallRating": 11.74,
     "BAR": 8.42,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.6751327756360214706797837807"
   },
   {
     "BID": 6010082,
@@ -244,20 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2885563_da69c_sm.jpeg",
     "HallRating": 11.73,
     "BAR": 8.41,
-    "StylePlus": "81"
-  },
-  {
-    "BID": 1673705,
-    "BeerName": "Alhambra Reserva 1925",
-    "BeerStyle": "Malt Liquor",
-    "BreweryName": "Grupo Cervezas Alhambra",
-    "Origin": "Granada, Andalucía Spain",
-    "BeerAbv": 6.40,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14519_498fb_sm.jpeg",
-    "HallRating": 11.72,
-    "BAR": 8.40,
-    "StylePlus": "109"
+    "StylePlus": "81",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.7020824887054172102953371102"
   },
   {
     "BID": 3337626,
@@ -270,7 +295,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-51450_e809a_sm.jpeg",
     "HallRating": 11.72,
     "BAR": 8.40,
-    "StylePlus": "91"
+    "StylePlus": "91",
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.6936053167774942913005016053"
+  },
+  {
+    "BID": 1673705,
+    "BeerName": "Alhambra Reserva 1925",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Grupo Cervezas Alhambra",
+    "Origin": "Granada, Andalucía Spain",
+    "BeerAbv": 6.40,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14519_498fb_sm.jpeg",
+    "HallRating": 11.72,
+    "BAR": 8.40,
+    "StylePlus": "109",
+    "RatingScore": 3.36,
+    "AdjustedRating": "2.6777346300306623170314567542"
   },
   {
     "BID": 5404,
@@ -283,7 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2036410_1be3d_sm.jpeg",
     "HallRating": 11.72,
     "BAR": 8.39,
-    "StylePlus": "81"
+    "StylePlus": "81",
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.6914273407366774159792553857"
   },
   {
     "BID": 27295,
@@ -296,20 +340,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11517_8efe6_sm.jpeg",
     "HallRating": 11.67,
     "BAR": 8.34,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 18526,
-    "BeerName": "Original Alcoholic Ginger Beer",
-    "BeerStyle": "Hard Ginger Beer",
-    "BreweryName": "John Crabbie & Co",
-    "Origin": "Glasgow, Glasgow City Scotland",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18526_c0ed1_sm.jpeg",
-    "HallRating": 11.67,
-    "BAR": 8.34,
-    "StylePlus": "89"
+    "StylePlus": "90",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.689985708581525888323864304"
   },
   {
     "BID": 11517,
@@ -322,6 +355,23 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11517_8efe6_sm.jpeg",
     "HallRating": 11.67,
     "BAR": 8.34,
-    "StylePlus": "91"
+    "StylePlus": "91",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.744517284293815667874994886"
+  },
+  {
+    "BID": 18526,
+    "BeerName": "Original Alcoholic Ginger Beer",
+    "BeerStyle": "Hard Ginger Beer",
+    "BreweryName": "John Crabbie & Co",
+    "Origin": "Glasgow, Glasgow City Scotland",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18526_c0ed1_sm.jpeg",
+    "HallRating": 11.67,
+    "BAR": 8.34,
+    "StylePlus": "89",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.685862979227795948548989078"
   }
 ]

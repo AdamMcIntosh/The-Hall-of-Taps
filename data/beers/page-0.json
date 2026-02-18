@@ -10,7 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4691_eb933_sm.jpeg",
     "HallRating": 36.88,
     "BAR": 27.30,
-    "StylePlus": "126"
+    "StylePlus": "126",
+    "RatingScore": 4.52,
+    "AdjustedRating": "3.3411506541262190144746667431"
   },
   {
     "BID": 1676061,
@@ -23,7 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1240527_3b871_sm.jpeg",
     "HallRating": 34.46,
     "BAR": 24.32,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.8025910626478176959992475626"
   },
   {
     "BID": 4980636,
@@ -36,7 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1122985_a3cdb_sm.jpeg",
     "HallRating": 34.06,
     "BAR": 23.81,
-    "StylePlus": "126"
+    "StylePlus": "126",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.7503643926272833024770388867"
   },
   {
     "BID": 2016441,
@@ -49,20 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-302768_25799.jpeg",
     "HallRating": 34.01,
     "BAR": 5.00,
-    "StylePlus": "131"
-  },
-  {
-    "BID": 3347942,
-    "BeerName": "Froojee Raz Passion",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Imprint Beer Co.",
-    "Origin": "Hatfield, PA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3347942_8650d_sm.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "127"
+    "StylePlus": "131",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.4904850115511161883656008582"
   },
   {
     "BID": 10140,
@@ -75,7 +70,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1246_6c478.jpeg",
     "HallRating": 34.01,
     "BAR": 5.00,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.490488761457368532057008573"
+  },
+  {
+    "BID": 3347942,
+    "BeerName": "Froojee Raz Passion",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Imprint Beer Co.",
+    "Origin": "Hatfield, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3347942_8650d_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "127",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.4904875114886177508265393348"
   },
   {
     "BID": 6008739,
@@ -88,7 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-441449_fc25a.jpeg",
     "HallRating": 34.01,
     "BAR": 5.00,
-    "StylePlus": "134"
+    "StylePlus": "134",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.490488761457368532057008573"
   },
   {
     "BID": 28331,
@@ -101,72 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-28331_33e1d_sm.jpeg",
     "HallRating": 33.53,
     "BAR": 23.13,
-    "StylePlus": "126"
-  },
-  {
-    "BID": 3342216,
-    "BeerName": "Teleport Massive Frozen Beer Slushie",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Mikerphone Brewing",
-    "Origin": "Elk Grove Village, IL United States",
-    "BeerAbv": 4.25,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-13417_7ebc3.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "130"
-  },
-  {
-    "BID": 4959638,
-    "BeerName": "Akatosh",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Yorwick Brew",
-    "Origin": "Yekaterinburg, Sverdlovsk Oblast Russia",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959638_81a7c_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "133"
-  },
-  {
-    "BID": 4980950,
-    "BeerName": "Ta-Ta And Farewell",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brood Meadery",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980950_8c32f_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "125"
-  },
-  {
-    "BID": 1669755,
-    "BeerName": "Broadacres with Mexican Candy",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Phantom Carriage Brewery",
-    "Origin": "Carson, CA United States",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-48094_db820.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "130"
-  },
-  {
-    "BID": 1673906,
-    "BeerName": "Chai Latte",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "Odd Elixir MeadWorks",
-    "Origin": "DeLand, FL United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1673906_55cd0_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "126"
+    "StylePlus": "126",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.6959273617237954750670365657"
   },
   {
     "BID": 6010307,
@@ -179,7 +130,84 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-342043_1f7d1.jpeg",
     "HallRating": 33.37,
     "BAR": 5.21,
-    "StylePlus": "133"
+    "StylePlus": "133",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.490489835205936803008227272"
+  },
+  {
+    "BID": 4959638,
+    "BeerName": "Akatosh",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Yorwick Brew",
+    "Origin": "Yekaterinburg, Sverdlovsk Oblast Russia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959638_81a7c_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "133",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.490489835205936803008227272"
+  },
+  {
+    "BID": 1669755,
+    "BeerName": "Broadacres with Mexican Candy",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Phantom Carriage Brewery",
+    "Origin": "Carson, CA United States",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-48094_db820.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "130",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.4904906601832499268973203219"
+  },
+  {
+    "BID": 4980950,
+    "BeerName": "Ta-Ta And Farewell",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brood Meadery",
+    "Origin": "Manchester, Greater Manchester England",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980950_8c32f_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "125",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.4904942350849401304167235384"
+  },
+  {
+    "BID": 1673906,
+    "BeerName": "Chai Latte",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Odd Elixir MeadWorks",
+    "Origin": "DeLand, FL United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1673906_55cd0_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "126",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.4904917601530007587494443885"
+  },
+  {
+    "BID": 3342216,
+    "BeerName": "Teleport Massive Frozen Beer Slushie",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Mikerphone Brewing",
+    "Origin": "Elk Grove Village, IL United States",
+    "BeerAbv": 4.25,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-13417_7ebc3.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "130",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.490489835205936803008227272"
   },
   {
     "BID": 5817,
@@ -192,7 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5817_24ce1_sm.jpeg",
     "HallRating": 33.31,
     "BAR": 22.84,
-    "StylePlus": "124"
+    "StylePlus": "124",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.6628939424473951909685247852"
   },
   {
     "BID": 17663,
@@ -205,7 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_17663_sm_48376e0fc0fe1a34b0cac9a69d9e43.jpeg",
     "HallRating": 32.97,
     "BAR": 22.39,
-    "StylePlus": "131"
+    "StylePlus": "131",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.6313470823937553610280021286"
   },
   {
     "BID": 4013398,
@@ -218,7 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4013398_12857_sm.jpeg",
     "HallRating": 32.84,
     "BAR": 5.40,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.4904973087571422520027499158"
   },
   {
     "BID": 4015171,
@@ -231,20 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4015171_820f5_sm.jpeg",
     "HallRating": 32.84,
     "BAR": 5.40,
-    "StylePlus": "127"
-  },
-  {
-    "BID": 4012177,
-    "BeerName": "Cashew Me Outside",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Township Meadery",
-    "Origin": "Odenton, MD United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-422662_4abc3.jpeg",
-    "HallRating": 32.38,
-    "BAR": 5.57,
-    "StylePlus": "125"
+    "StylePlus": "127",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.4904973087571422520027499158"
   },
   {
     "BID": 2015094,
@@ -257,20 +280,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2015094_98414_sm.jpeg",
     "HallRating": 32.38,
     "BAR": 5.57,
-    "StylePlus": "129"
+    "StylePlus": "129",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.4905032323213545222483369273"
   },
   {
-    "BID": 6007759,
-    "BeerName": "Funktastic Frootz: Nice Tats",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Funktastic Beer",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 7.00,
+    "BID": 4012177,
+    "BeerName": "Cashew Me Outside",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Township Meadery",
+    "Origin": "Odenton, MD United States",
+    "BeerAbv": 12.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6007759_d7d0f_sm.jpeg",
-    "HallRating": 31.99,
-    "BAR": 5.73,
-    "StylePlus": "127"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-422662_4abc3.jpeg",
+    "HallRating": 32.38,
+    "BAR": 5.57,
+    "StylePlus": "125",
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.490505507247419425138992981"
   },
   {
     "BID": 4010873,
@@ -283,7 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4010873_1a998_sm.jpeg",
     "HallRating": 31.99,
     "BAR": 5.73,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.4905096058402005592507362225"
   },
   {
     "BID": 4013973,
@@ -296,7 +325,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-114660_3e235.jpeg",
     "HallRating": 31.99,
     "BAR": 5.73,
-    "StylePlus": "126"
+    "StylePlus": "126",
+    "RatingScore": 4.77,
+    "AdjustedRating": "2.4905138056932057040706675249"
+  },
+  {
+    "BID": 6007759,
+    "BeerName": "Funktastic Frootz: Nice Tats",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Funktastic Beer",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6007759_d7d0f_sm.jpeg",
+    "HallRating": 31.99,
+    "BAR": 5.73,
+    "StylePlus": "127",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.4905064559504467006357877457"
   },
   {
     "BID": 4010899,
@@ -309,19 +355,23 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4010899_18115_sm.jpeg",
     "HallRating": 31.99,
     "BAR": 5.73,
-    "StylePlus": "128"
+    "StylePlus": "128",
+    "RatingScore": 4.70,
+    "AdjustedRating": "2.4905113557789527029257075985"
   },
   {
-    "BID": 3334597,
-    "BeerName": "Summer-Rita",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Honey Pot Meadery",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
+    "BID": 3340599,
+    "BeerName": "Ice Lakes",
+    "BeerStyle": "Bock - Eisbock",
+    "BreweryName": "Burns Family Artisan Ales",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-403719_89619.jpeg",
     "HallRating": 31.64,
     "BAR": 5.88,
-    "StylePlus": "125"
+    "StylePlus": "129",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.4905101295465469707589065393"
   }
 ]

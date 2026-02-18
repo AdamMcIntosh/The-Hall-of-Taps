@@ -1,5 +1,20 @@
 [
   {
+    "BID": 14070,
+    "BeerName": "Brauherren Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Einbecker Brauhaus",
+    "Origin": "Einbeck, Niedersachsen Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14070_add87_sm.jpeg",
+    "HallRating": 10.61,
+    "BAR": 6.95,
+    "StylePlus": "90",
+    "RatingScore": 3.39,
+    "AdjustedRating": "2.5223881674685386864484148783"
+  },
+  {
     "BID": 3336632,
     "BeerName": "Smithwick's Blonde Brewmaster Edition",
     "BeerStyle": "Blonde / Golden Ale - Other",
@@ -10,59 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-912731_5cbf2_sm.jpeg",
     "HallRating": 10.61,
     "BAR": 6.95,
-    "StylePlus": "87"
-  },
-  {
-    "BID": 7760,
-    "BeerName": "Harpoon Craft Cider",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Harpoon Brewery",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_7760_sm_fd5051a363a27a32afb34401bffd91.jpeg",
-    "HallRating": 10.61,
-    "BAR": 6.94,
-    "StylePlus": "82"
-  },
-  {
-    "BID": 19510,
-    "BeerName": "Baltika #4 Original / Балтика #4 Оригинальное",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Baltika Breweries (Балтика)",
-    "Origin": "Sankt-Peterburg, Russia",
-    "BeerAbv": 5.60,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19510_98a92_sm.jpeg",
-    "HallRating": 10.60,
-    "BAR": 6.92,
-    "StylePlus": "87"
-  },
-  {
-    "BID": 30440,
-    "BeerName": "Calanda",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Calanda",
-    "Origin": "Chur, Graubünden Switzerland",
-    "BeerAbv": 4.80,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30440_e9bc4_sm.jpeg",
-    "HallRating": 10.60,
-    "BAR": 6.93,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 1511,
-    "BeerName": "Special Amber",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Sprecher Brewing Company",
-    "Origin": "Glendale, WI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1511_49720_sm.jpeg",
-    "HallRating": 10.60,
-    "BAR": 6.93,
-    "StylePlus": "86"
+    "StylePlus": "87",
+    "RatingScore": 3.36,
+    "AdjustedRating": "2.5213386928450643451514780327"
   },
   {
     "BID": 22512,
@@ -75,7 +40,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19510_98a92_sm.jpeg",
     "HallRating": 10.60,
     "BAR": 6.92,
-    "StylePlus": "85"
+    "StylePlus": "85",
+    "RatingScore": 3.24,
+    "AdjustedRating": "2.5162065007026358598893016884"
+  },
+  {
+    "BID": 19510,
+    "BeerName": "Baltika #4 Original / Балтика #4 Оригинальное",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Baltika Breweries (Балтика)",
+    "Origin": "Sankt-Peterburg, Russia",
+    "BeerAbv": 5.60,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19510_98a92_sm.jpeg",
+    "HallRating": 10.60,
+    "BAR": 6.92,
+    "StylePlus": "87",
+    "RatingScore": 3.24,
+    "AdjustedRating": "2.5821726474178176860121823126"
+  },
+  {
+    "BID": 1511,
+    "BeerName": "Special Amber",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Sprecher Brewing Company",
+    "Origin": "Glendale, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1511_49720_sm.jpeg",
+    "HallRating": 10.60,
+    "BAR": 6.93,
+    "StylePlus": "86",
+    "RatingScore": 3.38,
+    "AdjustedRating": "2.5212088061094720358650846884"
+  },
+  {
+    "BID": 30440,
+    "BeerName": "Calanda",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Calanda",
+    "Origin": "Chur, Graubünden Switzerland",
+    "BeerAbv": 4.80,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30440_e9bc4_sm.jpeg",
+    "HallRating": 10.60,
+    "BAR": 6.93,
+    "StylePlus": "89",
+    "RatingScore": 2.99,
+    "AdjustedRating": "2.5077108275562704674500795245"
   },
   {
     "BID": 4959442,
@@ -88,46 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1525743_d067c_sm.jpeg",
     "HallRating": 10.59,
     "BAR": 6.92,
-    "StylePlus": "87"
-  },
-  {
-    "BID": 16226,
-    "BeerName": "Carls Special",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Carlsberg Group",
-    "Origin": "Copenhagen, Region Hovedstaden Denmark",
-    "BeerAbv": 4.40,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CarlsSpecial_16226.jpeg",
-    "HallRating": 10.59,
-    "BAR": 6.92,
-    "StylePlus": "86"
-  },
-  {
-    "BID": 2018706,
-    "BeerName": "Gypsy Lager",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Fordham & Dominion Brewing Co.",
-    "Origin": "Dover, DE United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-552845_06160_sm.jpeg",
-    "HallRating": 10.59,
-    "BAR": 6.92,
-    "StylePlus": "89"
-  },
-  {
-    "BID": 5319,
-    "BeerName": "Flywheel",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Metropolitan Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-FlywheelBrightLager_5319.jpeg",
-    "HallRating": 10.59,
-    "BAR": 6.92,
-    "StylePlus": "90"
+    "StylePlus": "87",
+    "RatingScore": 3.40,
+    "AdjustedRating": "2.5214278526060935027278290103"
   },
   {
     "BID": 27378,
@@ -140,7 +115,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27378_ce47c_sm.jpeg",
     "HallRating": 10.59,
     "BAR": 6.91,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.5240153736389043535895916187"
+  },
+  {
+    "BID": 5319,
+    "BeerName": "Flywheel",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Metropolitan Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-FlywheelBrightLager_5319.jpeg",
+    "HallRating": 10.59,
+    "BAR": 6.92,
+    "StylePlus": "90",
+    "RatingScore": 3.44,
+    "AdjustedRating": "2.5230255867590224121852169257"
   },
   {
     "BID": 21367,
@@ -153,7 +145,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21367_18879_sm.jpeg",
     "HallRating": 10.59,
     "BAR": 6.92,
-    "StylePlus": "86"
+    "StylePlus": "86",
+    "RatingScore": 3.47,
+    "AdjustedRating": "2.5240164400544712373445774971"
+  },
+  {
+    "BID": 16226,
+    "BeerName": "Carls Special",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Carlsberg Group",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 4.40,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CarlsSpecial_16226.jpeg",
+    "HallRating": 10.59,
+    "BAR": 6.92,
+    "StylePlus": "86",
+    "RatingScore": 2.91,
+    "AdjustedRating": "2.504817006971436402570078632"
   },
   {
     "BID": 23240,
@@ -166,7 +175,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-23240_5dc5d_sm.jpeg",
     "HallRating": 10.59,
     "BAR": 6.92,
-    "StylePlus": "82"
+    "StylePlus": "82",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.5237007365082662658448427358"
+  },
+  {
+    "BID": 2018706,
+    "BeerName": "Gypsy Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Fordham & Dominion Brewing Co.",
+    "Origin": "Dover, DE United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-552845_06160_sm.jpeg",
+    "HallRating": 10.59,
+    "BAR": 6.92,
+    "StylePlus": "89",
+    "RatingScore": 3.38,
+    "AdjustedRating": "2.5208210356964121109367543392"
   },
   {
     "BID": 15644,
@@ -179,7 +205,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PinkKiller_15644.jpeg",
     "HallRating": 10.59,
     "BAR": 6.92,
-    "StylePlus": "84"
+    "StylePlus": "84",
+    "RatingScore": 2.75,
+    "AdjustedRating": "2.4992703629114965491373373854"
   },
   {
     "BID": 18952,
@@ -192,33 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18952_a419b_sm.jpeg",
     "HallRating": 10.59,
     "BAR": 6.92,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 13298,
-    "BeerName": "Olympia",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Pabst Brewing Company",
-    "Origin": "San Antonio, TX United States",
-    "BeerAbv": 4.73,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13298_61102_sm.jpeg",
-    "HallRating": 10.58,
-    "BAR": 6.90,
-    "StylePlus": "91"
-  },
-  {
-    "BID": 3340535,
-    "BeerName": "SO-LO",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 3.00,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3288789_39de8_sm.jpeg",
-    "HallRating": 10.58,
-    "BAR": 6.90,
-    "StylePlus": "81"
+    "StylePlus": "90",
+    "RatingScore": 3.30,
+    "AdjustedRating": "2.5180146470741014095552947523"
   },
   {
     "BID": 4940886,
@@ -231,7 +235,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-84468_61632_sm.jpeg",
     "HallRating": 10.58,
     "BAR": 6.90,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 2.94,
+    "AdjustedRating": "2.5054215480384296245921869508"
+  },
+  {
+    "BID": 13298,
+    "BeerName": "Olympia",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Pabst Brewing Company",
+    "Origin": "San Antonio, TX United States",
+    "BeerAbv": 4.73,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13298_61102_sm.jpeg",
+    "HallRating": 10.58,
+    "BAR": 6.90,
+    "StylePlus": "91",
+    "RatingScore": 2.74,
+    "AdjustedRating": "2.4987878050190816219965156693"
   },
   {
     "BID": 8656,
@@ -244,7 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8656_4603b_sm.jpeg",
     "HallRating": 10.58,
     "BAR": 6.91,
-    "StylePlus": "89"
+    "StylePlus": "89",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.5237590217677972327103541559"
   },
   {
     "BID": 7111,
@@ -257,33 +280,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7111_e78e9_sm.jpeg",
     "HallRating": 10.58,
     "BAR": 6.90,
-    "StylePlus": "90"
+    "StylePlus": "90",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.5185154466452462207995418524"
   },
   {
-    "BID": 4012747,
-    "BeerName": "Welde No1 Slow Beer Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Welde Braumanufaktur",
-    "Origin": "Plankstadt, Baden-Württemberg Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 26.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14346_8a691_sm.jpeg",
-    "HallRating": 10.57,
-    "BAR": 6.89,
-    "StylePlus": "90"
-  },
-  {
-    "BID": 20828,
-    "BeerName": "Campus Premium",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Delirium - Huyghe Brewery",
-    "Origin": "Melle, Vlaams Gewest Belgium",
-    "BeerAbv": 5.00,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20828_1190f_sm.jpeg",
-    "HallRating": 10.57,
-    "BAR": 6.89,
-    "StylePlus": "89"
+    "BID": 3340535,
+    "BeerName": "SO-LO",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 3.00,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3288789_39de8_sm.jpeg",
+    "HallRating": 10.58,
+    "BAR": 6.90,
+    "StylePlus": "81",
+    "RatingScore": 3.06,
+    "AdjustedRating": "2.5094220797026594968719390019"
   },
   {
     "BID": 3859,
@@ -296,7 +310,54 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3859_c08f6_sm.jpeg",
     "HallRating": 10.57,
     "BAR": 6.89,
-    "StylePlus": "87"
+    "StylePlus": "87",
+    "RatingScore": 2.99,
+    "AdjustedRating": "2.5069098144544364124245700371"
+  },
+  {
+    "BID": 20828,
+    "BeerName": "Campus Premium",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Delirium - Huyghe Brewery",
+    "Origin": "Melle, Vlaams Gewest Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20828_1190f_sm.jpeg",
+    "HallRating": 10.57,
+    "BAR": 6.89,
+    "StylePlus": "89",
+    "RatingScore": 3.03,
+    "AdjustedRating": "2.5081293526513783547080468981"
+  },
+  {
+    "BID": 10827,
+    "BeerName": "Castle Lite",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "South African Breweries",
+    "Origin": "Sandton, Gauteng South Africa",
+    "BeerAbv": 4.00,
+    "BeerIbu": 17.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_10827_4f9f9bfddfcc698aef6a156bea4c.jpeg",
+    "HallRating": 10.57,
+    "BAR": 6.88,
+    "StylePlus": "111",
+    "RatingScore": 2.81,
+    "AdjustedRating": "2.500828373750899717759244208"
+  },
+  {
+    "BID": 4012747,
+    "BeerName": "Welde No1 Slow Beer Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Welde Braumanufaktur",
+    "Origin": "Plankstadt, Baden-Württemberg Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 26.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14346_8a691_sm.jpeg",
+    "HallRating": 10.57,
+    "BAR": 6.89,
+    "StylePlus": "90",
+    "RatingScore": 3.36,
+    "AdjustedRating": "2.5190474347103841457124440882"
   },
   {
     "BID": 3365,
@@ -309,19 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_3365_sm_2f5ef88812313f868b5196064e3d4c.jpeg",
     "HallRating": 10.57,
     "BAR": 6.89,
-    "StylePlus": "84"
-  },
-  {
-    "BID": 1675713,
-    "BeerName": "Welde No1 Slow Beer Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Welde Braumanufaktur",
-    "Origin": "Plankstadt, Baden-Württemberg Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 26.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14346_8a691_sm.jpeg",
-    "HallRating": 10.57,
-    "BAR": 6.89,
-    "StylePlus": "91"
+    "StylePlus": "84",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.5227901109509843188329589049"
   }
 ]

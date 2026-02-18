@@ -1,18 +1,5 @@
 [
   {
-    "BID": 4815824,
-    "BeerName": "Mouthful of Rainbows- Lemon",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "SJ Brewing Company",
-    "Origin": "Yulee Heights, FL United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815824_3fca6_sm.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "127"
-  },
-  {
     "BID": 1673471,
     "BeerName": "Maple Oak Marshal Zhukov's",
     "BeerStyle": "Stout - Russian Imperial",
@@ -23,7 +10,39 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
     "HallRating": 31.64,
     "BAR": 5.88,
-    "StylePlus": "126"
+    "StylePlus": "126",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.4905150043637413259705861013"
+  },
+  {
+    "BID": 4815824,
+    "BeerName": "Mouthful of Rainbows- Lemon",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "SJ Brewing Company",
+    "Origin": "Yulee Heights, FL United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815824_3fca6_sm.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "127",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.4905120044762371073787832939"
+  },
+  {
+    "BID": 3334597,
+    "BeerName": "Summer-Rita",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Honey Pot Meadery",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "125",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.4905105045324849980828818902"
   },
   {
     "BID": 2018014,
@@ -36,20 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2018014_12ff2_sm.jpeg",
     "HallRating": 31.64,
     "BAR": 5.88,
-    "StylePlus": "125"
-  },
-  {
-    "BID": 3340599,
-    "BeerName": "Ice Lakes",
-    "BeerStyle": "Bock - Eisbock",
-    "BreweryName": "Burns Family Artisan Ales",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-403719_89619.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "129"
+    "StylePlus": "125",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.4905157543356173806185368031"
   },
   {
     "BID": 3338876,
@@ -62,20 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238381_dc1ab.jpeg",
     "HallRating": 31.34,
     "BAR": 6.02,
-    "StylePlus": "128"
-  },
-  {
-    "BID": 6011955,
-    "BeerName": "WFP24",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Furious Meads",
-    "Origin": "Kraków, Lesser Poland Voivodeship Poland",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6011955_96a44_sm.jpeg",
-    "HallRating": 31.07,
-    "BAR": 6.15,
-    "StylePlus": "133"
+    "StylePlus": "128",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.4905176029722860748273169056"
   },
   {
     "BID": 4959873,
@@ -88,7 +85,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959873_ae28d_sm.jpeg",
     "HallRating": 31.07,
     "BAR": 6.15,
-    "StylePlus": "124"
+    "StylePlus": "124",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.490520701546589236227770318"
+  },
+  {
+    "BID": 6011955,
+    "BeerName": "WFP24",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Furious Meads",
+    "Origin": "Kraków, Lesser Poland Voivodeship Poland",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6011955_96a44_sm.jpeg",
+    "HallRating": 31.07,
+    "BAR": 6.15,
+    "StylePlus": "133",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.4905215515104657714750223098"
   },
   {
     "BID": 11024,
@@ -101,7 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-RareBourbonCountyStout_11024.jpeg",
     "HallRating": 31.04,
     "BAR": 19.70,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.76,
+    "AdjustedRating": "2.5386919412526902701512735797"
   },
   {
     "BID": 22085,
@@ -114,7 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22085_22036_sm.jpeg",
     "HallRating": 30.95,
     "BAR": 19.56,
-    "StylePlus": "131"
+    "StylePlus": "131",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.5982580129508699613817018374"
   },
   {
     "BID": 26830,
@@ -127,7 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22085_22036_sm.jpeg",
     "HallRating": 30.95,
     "BAR": 19.56,
-    "StylePlus": "130"
+    "StylePlus": "130",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.5313121861883869815305562956"
   },
   {
     "BID": 4980052,
@@ -140,7 +160,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980052_c7c70_sm.jpeg",
     "HallRating": 30.83,
     "BAR": 6.28,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.82,
+    "AdjustedRating": "2.490538849428180698138893748"
   },
   {
     "BID": 10068,
@@ -153,20 +175,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_10068_sm_e643e78904d3a0038704f3fe8415a2.jpeg",
     "HallRating": 30.70,
     "BAR": 19.18,
-    "StylePlus": "125"
-  },
-  {
-    "BID": 6012608,
-    "BeerName": "Melodic Antidotes",
-    "BeerStyle": "California Common",
-    "BreweryName": "Willow Park Brewing",
-    "Origin": "Bethlehem, PA United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012608_1e386_sm.jpeg",
-    "HallRating": 30.61,
-    "BAR": 6.39,
-    "StylePlus": "145"
+    "StylePlus": "125",
+    "RatingScore": 4.70,
+    "AdjustedRating": "2.527609063575961328044154406"
   },
   {
     "BID": 3343863,
@@ -179,7 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-277027_9a1fb.jpeg",
     "HallRating": 30.61,
     "BAR": 6.39,
-    "StylePlus": "126"
+    "StylePlus": "126",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.490539448052622466703141599"
   },
   {
     "BID": 6010408,
@@ -192,7 +205,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-368362_29b01.jpeg",
     "HallRating": 30.61,
     "BAR": 6.39,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.4905304234812896050140718298"
+  },
+  {
+    "BID": 6012608,
+    "BeerName": "Melodic Antidotes",
+    "BeerStyle": "California Common",
+    "BreweryName": "Willow Park Brewing",
+    "Origin": "Bethlehem, PA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012608_1e386_sm.jpeg",
+    "HallRating": 30.61,
+    "BAR": 6.39,
+    "StylePlus": "145",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.4905318484136053200176091618"
   },
   {
     "BID": 6008799,
@@ -205,7 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-McMenamins_3674.jpeg",
     "HallRating": 30.61,
     "BAR": 6.39,
-    "StylePlus": "131"
+    "StylePlus": "131",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.4905327983684824633533007165"
   },
   {
     "BID": 24328,
@@ -218,20 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LouPepeKriek_24328.jpeg",
     "HallRating": 30.45,
     "BAR": 18.80,
-    "StylePlus": "134"
-  },
-  {
-    "BID": 2018479,
-    "BeerName": "Light Blue Wax",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Barrel Culture Brewing And Blending",
-    "Origin": "Durham, NC United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-324287_1855a.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
-    "StylePlus": "127"
+    "StylePlus": "134",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.5192596896970940832656600018"
   },
   {
     "BID": 4961446,
@@ -244,7 +265,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961446_9485b_sm.jpeg",
     "HallRating": 30.41,
     "BAR": 6.51,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.4905394967015698877759212022"
+  },
+  {
+    "BID": 2018479,
+    "BeerName": "Light Blue Wax",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Barrel Culture Brewing And Blending",
+    "Origin": "Durham, NC United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-324287_1855a.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "127",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.4905359968765611382133993283"
   },
   {
     "BID": 4815867,
@@ -257,7 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815867_2fb39_sm.jpeg",
     "HallRating": 30.23,
     "BAR": 6.61,
-    "StylePlus": "129"
+    "StylePlus": "129",
+    "RatingScore": 4.81,
+    "AdjustedRating": "2.4905557944971938635924713935"
   },
   {
     "BID": 4631365,
@@ -270,7 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2062799_82e5a_sm.jpeg",
     "HallRating": 30.19,
     "BAR": 18.40,
-    "StylePlus": "124"
+    "StylePlus": "124",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.5143321462253563242869734907"
   },
   {
     "BID": 1670477,
@@ -283,7 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_89357_a3a1810ea89cd48f9e61379801d0.jpeg",
     "HallRating": 29.93,
     "BAR": 17.97,
-    "StylePlus": "125"
+    "StylePlus": "125",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.5100584501344605719084582517"
   },
   {
     "BID": 4014209,
@@ -296,7 +340,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-82753_b6ced.jpeg",
     "HallRating": 29.92,
     "BAR": 6.81,
-    "StylePlus": "127"
+    "StylePlus": "127",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.4905518669440556830685335576"
   },
   {
     "BID": 8225,
@@ -309,7 +355,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CableCar_8225.jpeg",
     "HallRating": 29.86,
     "BAR": 17.86,
-    "StylePlus": "126"
+    "StylePlus": "126",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.509523955649309891183392613"
   },
   {
     "BID": 4961097,
@@ -322,6 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3743582_397b1_sm.jpeg",
     "HallRating": 29.85,
     "BAR": 17.84,
-    "StylePlus": "124"
+    "StylePlus": "124",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.5092187502367153492893832036"
   }
 ]

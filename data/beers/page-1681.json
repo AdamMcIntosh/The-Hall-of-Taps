@@ -1,18 +1,5 @@
 [
   {
-    "BID": 1670441,
-    "BeerName": "Bira",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Istarska Pivovara",
-    "Origin": "Sveti Ivan, Istarska županija Croatia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-284128_7b0a1.jpeg",
-    "HallRating": 6.93,
-    "BAR": 2.32,
-    "StylePlus": "66"
-  },
-  {
     "BID": 26195,
     "BeerName": "PIT Svetloe (ПИТ Светлое)",
     "BeerStyle": "Lager - Pale",
@@ -23,33 +10,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26195_f296c_sm.jpeg",
     "HallRating": 6.93,
     "BAR": 3.33,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.33,
+    "AdjustedRating": "2.4902481358388319212416696614"
   },
   {
-    "BID": 29076,
-    "BeerName": "Puls Extra Lager Export",
+    "BID": 1670441,
+    "BeerName": "Bira",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "H. F. Puls",
-    "Origin": "Haljala, Lääne-Viru maakond Estonia",
-    "BeerAbv": 5.20,
+    "BreweryName": "Istarska Pivovara",
+    "Origin": "Sveti Ivan, Istarska županija Croatia",
+    "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 6.92,
-    "BAR": 2.33,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 11352,
-    "BeerName": "Premium Light",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Bluetongue Brewery (Pacific Beverages)",
-    "Origin": "Warnervale, New South Wales Australia",
-    "BeerAbv": 2.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PremiumLight_11352.jpeg",
-    "HallRating": 6.92,
-    "BAR": 2.34,
-    "StylePlus": "66"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-284128_7b0a1.jpeg",
+    "HallRating": 6.93,
+    "BAR": 2.32,
+    "StylePlus": "66",
+    "RatingScore": 2.33,
+    "AdjustedRating": "2.4904051507492700976527325064"
   },
   {
     "BID": 19978,
@@ -62,7 +40,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_19978_sm_4330fc5839409942bdc5569252c837.jpeg",
     "HallRating": 6.92,
     "BAR": 3.33,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 1.79,
+    "AdjustedRating": "2.4896294498091244731262148512"
+  },
+  {
+    "BID": 29076,
+    "BeerName": "Puls Extra Lager Export",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "H. F. Puls",
+    "Origin": "Haljala, Lääne-Viru maakond Estonia",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 6.92,
+    "BAR": 2.33,
+    "StylePlus": "66",
+    "RatingScore": 2.34,
+    "AdjustedRating": "2.4904065744765629935239918697"
   },
   {
     "BID": 20483,
@@ -75,7 +70,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20483_1e698_sm.jpeg",
     "HallRating": 6.92,
     "BAR": 2.33,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.33,
+    "AdjustedRating": "2.4904047498095647207087806458"
+  },
+  {
+    "BID": 11352,
+    "BeerName": "Premium Light",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Bluetongue Brewery (Pacific Beverages)",
+    "Origin": "Warnervale, New South Wales Australia",
+    "BeerAbv": 2.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PremiumLight_11352.jpeg",
+    "HallRating": 6.92,
+    "BAR": 2.34,
+    "StylePlus": "66",
+    "RatingScore": 2.31,
+    "AdjustedRating": "2.4904001986391601237471074156"
   },
   {
     "BID": 20503,
@@ -88,46 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20503_6580d_sm.jpeg",
     "HallRating": 6.92,
     "BAR": 2.34,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 11945,
-    "BeerName": "Mexicali Light Beer",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Cervecería Mexicana",
-    "Origin": "Tecate, Baja California Mexico",
-    "BeerAbv": 3.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CervezaMexicaliLightBeer_11945.jpeg",
-    "HallRating": 6.91,
-    "BAR": 3.27,
-    "StylePlus": "63"
-  },
-  {
-    "BID": 22034,
-    "BeerName": "Baltica Dry",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "AB InBev Chile (Cerveceria Chile)",
-    "Origin": "Quilicura, Región Metropolitana Chile",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_22034_sm_fd1b6125e4c4b49d0601832a622f24.jpeg",
-    "HallRating": 6.91,
-    "BAR": 3.27,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 19979,
-    "BeerName": "Coors Aspen Edge",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Coors Brewing Company",
-    "Origin": "Golden, CO United States",
-    "BeerAbv": 4.13,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19979_cc51d_sm.jpeg",
-    "HallRating": 6.91,
-    "BAR": 2.37,
-    "StylePlus": "63"
+    "StylePlus": "66",
+    "RatingScore": 2.34,
+    "AdjustedRating": "2.4904058225846703405814509762"
   },
   {
     "BID": 18563,
@@ -140,7 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18563_9be47_sm.jpeg",
     "HallRating": 6.91,
     "BAR": 3.27,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 2.22,
+    "AdjustedRating": "2.4901530644893360567712678797"
   },
   {
     "BID": 13975,
@@ -153,20 +130,54 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4045_ce45d.jpeg",
     "HallRating": 6.91,
     "BAR": 2.37,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.39,
+    "AdjustedRating": "2.4904144428600472570551842373"
   },
   {
-    "BID": 3347032,
-    "BeerName": "Baltika #1 Light / Балтика #1 Легкое",
+    "BID": 22034,
+    "BeerName": "Baltica Dry",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Baltika Breweries (Балтика)",
-    "Origin": "Sankt-Peterburg, Russia",
-    "BeerAbv": 4.40,
+    "BreweryName": "AB InBev Chile (Cerveceria Chile)",
+    "Origin": "Quilicura, Región Metropolitana Chile",
+    "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-23136_3413f_sm.jpeg",
-    "HallRating": 6.90,
-    "BAR": 2.39,
-    "StylePlus": "66"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_22034_sm_fd1b6125e4c4b49d0601832a622f24.jpeg",
+    "HallRating": 6.91,
+    "BAR": 3.27,
+    "StylePlus": "66",
+    "RatingScore": 2.43,
+    "AdjustedRating": "2.4903712375893120817053364483"
+  },
+  {
+    "BID": 11945,
+    "BeerName": "Mexicali Light Beer",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Cervecería Mexicana",
+    "Origin": "Tecate, Baja California Mexico",
+    "BeerAbv": 3.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CervezaMexicaliLightBeer_11945.jpeg",
+    "HallRating": 6.91,
+    "BAR": 3.27,
+    "StylePlus": "63",
+    "RatingScore": 2.46,
+    "AdjustedRating": "2.4904027088862521265799326676"
+  },
+  {
+    "BID": 19979,
+    "BeerName": "Coors Aspen Edge",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 4.13,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19979_cc51d_sm.jpeg",
+    "HallRating": 6.91,
+    "BAR": 2.37,
+    "StylePlus": "63",
+    "RatingScore": 1.82,
+    "AdjustedRating": "2.4903016391026821865384686507"
   },
   {
     "BID": 17073,
@@ -179,20 +190,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17073_9c474_sm.jpeg",
     "HallRating": 6.90,
     "BAR": 2.40,
-    "StylePlus": "78"
+    "StylePlus": "78",
+    "RatingScore": 1.90,
+    "AdjustedRating": "2.4903115340330930994521736722"
   },
   {
-    "BID": 2936,
-    "BeerName": "Rock River Lager",
+    "BID": 3347032,
+    "BeerName": "Baltika #1 Light / Балтика #1 Легкое",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Minhas Craft Brewery",
-    "Origin": "Monroe, WI United States",
-    "BeerAbv": 5.00,
+    "BreweryName": "Baltika Breweries (Балтика)",
+    "Origin": "Sankt-Peterburg, Russia",
+    "BeerAbv": 4.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2936_c2bd6_sm.jpeg",
-    "HallRating": 6.88,
-    "BAR": 2.47,
-    "StylePlus": "66"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-23136_3413f_sm.jpeg",
+    "HallRating": 6.90,
+    "BAR": 2.39,
+    "StylePlus": "66",
+    "RatingScore": 2.34,
+    "AdjustedRating": "2.4904031910222454059620877703"
   },
   {
     "BID": 11315,
@@ -205,7 +220,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_144455_sm_065fbeb2ab3edfbd900ad6951db916.jpeg",
     "HallRating": 6.88,
     "BAR": 3.14,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 2.24,
+    "AdjustedRating": "2.4902300861561876733165570043"
   },
   {
     "BID": 6430,
@@ -218,7 +235,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CityBrewingCompany_381.jpeg",
     "HallRating": 6.88,
     "BAR": 2.46,
-    "StylePlus": "63"
+    "StylePlus": "63",
+    "RatingScore": 1.75,
+    "AdjustedRating": "2.4902619127816832249205159783"
+  },
+  {
+    "BID": 2936,
+    "BeerName": "Rock River Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Minhas Craft Brewery",
+    "Origin": "Monroe, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2936_c2bd6_sm.jpeg",
+    "HallRating": 6.88,
+    "BAR": 2.47,
+    "StylePlus": "66",
+    "RatingScore": 2.37,
+    "AdjustedRating": "2.4904057283302473581411468287"
   },
   {
     "BID": 29350,
@@ -231,20 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29350_a3b99_sm.jpeg",
     "HallRating": 6.87,
     "BAR": 3.10,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 3339811,
-    "BeerName": "Три олені American",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Карпатський Бровар / Kalush Browar",
-    "Origin": "Kalush, Ivano-Frankivsk Oblast Ukraine",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3339811_94bbc_sm.jpeg",
-    "HallRating": 6.86,
-    "BAR": 2.54,
-    "StylePlus": "63"
+    "StylePlus": "66",
+    "RatingScore": 2.38,
+    "AdjustedRating": "2.4903501575566619032238598648"
   },
   {
     "BID": 3338482,
@@ -257,20 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-109_35b39.jpeg",
     "HallRating": 6.86,
     "BAR": 3.04,
-    "StylePlus": "78"
-  },
-  {
-    "BID": 4960811,
-    "BeerName": "Falkenfelser Schankbier Alkoholfrei",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Tucher Bräu",
-    "Origin": "Fürth, Bayern Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-TucherBrau_8309.jpeg",
-    "HallRating": 6.86,
-    "BAR": 2.52,
-    "StylePlus": "78"
+    "StylePlus": "78",
+    "RatingScore": 1.65,
+    "AdjustedRating": "2.4898629168929177821784286668"
   },
   {
     "BID": 12492,
@@ -283,20 +295,69 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12492_aa9eb_sm.jpeg",
     "HallRating": 6.86,
     "BAR": 3.04,
-    "StylePlus": "78"
+    "StylePlus": "78",
+    "RatingScore": 1.74,
+    "AdjustedRating": "2.4899296959558746405745236311"
   },
   {
-    "BID": 1672302,
-    "BeerName": "Dry Beer Specially Brewed",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "China Resources Snow Breweries (雪花啤酒)",
-    "Origin": "Bei Jing Shi, China / People's Republic of China",
-    "BeerAbv": 4.00,
+    "BID": 3339811,
+    "BeerName": "Три олені American",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Карпатський Бровар / Kalush Browar",
+    "Origin": "Kalush, Ivano-Frankivsk Oblast Ukraine",
+    "BeerAbv": 3.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2462_a8428.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3339811_94bbc_sm.jpeg",
+    "HallRating": 6.86,
+    "BAR": 2.54,
+    "StylePlus": "63",
+    "RatingScore": 2.44,
+    "AdjustedRating": "2.4904205361829760201849105347"
+  },
+  {
+    "BID": 4960811,
+    "BeerName": "Falkenfelser Schankbier Alkoholfrei",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Tucher Bräu",
+    "Origin": "Fürth, Bayern Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-TucherBrau_8309.jpeg",
+    "HallRating": 6.86,
+    "BAR": 2.52,
+    "StylePlus": "78",
+    "RatingScore": 2.49,
+    "AdjustedRating": "2.4904339108595814750867874335"
+  },
+  {
+    "BID": 22029,
+    "BeerName": "Dorada",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Compañia Cervecerias Unidas - CCU Chile",
+    "Origin": "Las Condes, Región Metropolitana Chile",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22029_97340_sm.jpeg",
     "HallRating": 6.85,
-    "BAR": 2.62,
-    "StylePlus": "66"
+    "BAR": 3.00,
+    "StylePlus": "66",
+    "RatingScore": 2.31,
+    "AdjustedRating": "2.4903199712945611563389256278"
+  },
+  {
+    "BID": 17468,
+    "BeerName": "Golden King Premium Beer",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "King Lucky Food Industrial Corporation",
+    "Origin": "Taiwan",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 6.85,
+    "BAR": 2.59,
+    "StylePlus": "66",
+    "RatingScore": 2.33,
+    "AdjustedRating": "2.4903863087495519745578790292"
   },
   {
     "BID": 10314,
@@ -309,19 +370,8 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_10314_sm_f37b3e743cab2baf0dc960aa9512e8.jpeg",
     "HallRating": 6.85,
     "BAR": 2.98,
-    "StylePlus": "66"
-  },
-  {
-    "BID": 10957,
-    "BeerName": "Taurino",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Industrias La Constancia",
-    "Origin": "San Salvador, San Salvador Department El Salvador",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10957_255e2_sm.jpeg",
-    "HallRating": 6.85,
-    "BAR": 3.00,
-    "StylePlus": "66"
+    "StylePlus": "66",
+    "RatingScore": 1.60,
+    "AdjustedRating": "2.4898956368161312068901414627"
   }
 ]
