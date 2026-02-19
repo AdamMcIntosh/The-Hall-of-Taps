@@ -1,6 +1,6 @@
 [
   {
-    "BID": 15622,
+    "BID": 3344078,
     "BeerName": "Paulaner Pils / Münchner Pils",
     "BeerStyle": "Pilsner - German",
     "BreweryName": "Paulaner Brauerei",
@@ -10,9 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15622_188e5_sm.jpeg",
     "HallRating": 11.06,
     "BAR": 7.56,
-    "StylePlus": "91",
+    "StylePlus": "89",
     "RatingScore": 3.43,
-    "AdjustedRating": "2.6277246805504248525673805513"
+    "AdjustedRating": "2.4721912638156869146776802923"
   },
   {
     "BID": 4446492,
@@ -45,21 +45,6 @@
     "AdjustedRating": "2.4669046951722055716088915271"
   },
   {
-    "BID": 8956,
-    "BeerName": "San Miguel Pale Pilsen",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "San Miguel Brewery",
-    "Origin": "Mandaluyong, Metro Manila Philippines",
-    "BeerAbv": 5.00,
-    "BeerIbu": 19.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8956_eda94_sm.jpeg",
-    "HallRating": 11.05,
-    "BAR": 7.54,
-    "StylePlus": "88",
-    "RatingScore": 2.99,
-    "AdjustedRating": "2.4364163235417450565662081585"
-  },
-  {
     "BID": 6444,
     "BeerName": "Mad Goose",
     "BeerStyle": "Pale Ale - English",
@@ -73,6 +58,21 @@
     "StylePlus": "89",
     "RatingScore": 3.45,
     "AdjustedRating": "2.4722592702268372525653644989"
+  },
+  {
+    "BID": 8956,
+    "BeerName": "San Miguel Pale Pilsen",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "San Miguel Brewery",
+    "Origin": "Mandaluyong, Metro Manila Philippines",
+    "BeerAbv": 5.00,
+    "BeerIbu": 19.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8956_eda94_sm.jpeg",
+    "HallRating": 11.05,
+    "BAR": 7.54,
+    "StylePlus": "88",
+    "RatingScore": 2.99,
+    "AdjustedRating": "2.4364163235417450565662081585"
   },
   {
     "BID": 24523,
@@ -105,6 +105,21 @@
     "AdjustedRating": "2.4416645151609009624752267704"
   },
   {
+    "BID": 30677,
+    "BeerName": "Jever Fun",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Friesisches Brauhaus zu Jever",
+    "Origin": "Jever, Niedersachsen Germany",
+    "BeerAbv": 0.50,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30677_726f5_sm.jpeg",
+    "HallRating": 11.03,
+    "BAR": 7.52,
+    "StylePlus": "117",
+    "RatingScore": 2.59,
+    "AdjustedRating": "2.404901895337647494153152893"
+  },
+  {
     "BID": 12760,
     "BeerName": "Wicküler Pilsener",
     "BeerStyle": "Pilsner - German",
@@ -118,21 +133,6 @@
     "StylePlus": "89",
     "RatingScore": 3.05,
     "AdjustedRating": "2.4390973965165165169177162443"
-  },
-  {
-    "BID": 6155,
-    "BeerName": "Brooklyn Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Brooklyn Brewery",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6155_dee5a_sm.jpeg",
-    "HallRating": 11.03,
-    "BAR": 7.51,
-    "StylePlus": "89",
-    "RatingScore": 3.33,
-    "AdjustedRating": "2.4595819940368962019833148009"
   },
   {
     "BID": 3343659,
@@ -165,19 +165,19 @@
     "AdjustedRating": "2.4251546560768876544932106462"
   },
   {
-    "BID": 30677,
-    "BeerName": "Jever Fun",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Friesisches Brauhaus zu Jever",
-    "Origin": "Jever, Niedersachsen Germany",
-    "BeerAbv": 0.50,
-    "BeerIbu": 32.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30677_726f5_sm.jpeg",
+    "BID": 6155,
+    "BeerName": "Brooklyn Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Brooklyn Brewery",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6155_dee5a_sm.jpeg",
     "HallRating": 11.03,
-    "BAR": 7.52,
-    "StylePlus": "117",
-    "RatingScore": 2.59,
-    "AdjustedRating": "2.404901895337647494153152893"
+    "BAR": 7.51,
+    "StylePlus": "89",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.4595819940368962019833148009"
   },
   {
     "BID": 1671510,
@@ -193,6 +193,21 @@
     "StylePlus": "88",
     "RatingScore": 3.06,
     "AdjustedRating": "2.4393534390556170567131941235"
+  },
+  {
+    "BID": 8915,
+    "BeerName": "Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Frydenlund Bryggerier",
+    "Origin": "Oslo, Norway",
+    "BeerAbv": 4.50,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-63976_88dd5_sm.jpeg",
+    "HallRating": 11.02,
+    "BAR": 7.51,
+    "StylePlus": "88",
+    "RatingScore": 3.11,
+    "AdjustedRating": "2.4430082868151937189402764052"
   },
   {
     "BID": 4668,
@@ -240,49 +255,19 @@
     "AdjustedRating": "2.4470437706048913209026703534"
   },
   {
-    "BID": 8915,
-    "BeerName": "Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Frydenlund Bryggerier",
-    "Origin": "Oslo, Norway",
-    "BeerAbv": 4.50,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-63976_88dd5_sm.jpeg",
-    "HallRating": 11.02,
-    "BAR": 7.51,
-    "StylePlus": "88",
-    "RatingScore": 3.11,
-    "AdjustedRating": "2.4430082868151937189402764052"
-  },
-  {
-    "BID": 3347728,
-    "BeerName": "8.6 Extreme",
-    "BeerStyle": "Malt Liquor",
-    "BreweryName": "Royal Swinkels",
-    "Origin": "Lieshout, Noord-Brabant Netherlands",
-    "BeerAbv": 10.50,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-467589_26373_sm.jpeg",
+    "BID": 10598,
+    "BeerName": "Pikeland Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Sly Fox Brewing Company",
+    "Origin": "Pottstown, PA United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 44.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10598_3636f_sm.jpeg",
     "HallRating": 11.01,
-    "BAR": 7.49,
-    "StylePlus": "107",
-    "RatingScore": 3.13,
-    "AdjustedRating": "2.4435382550501435306891986941"
-  },
-  {
-    "BID": 3346063,
-    "BeerName": "Session IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Brand Bierbrouwerij",
-    "Origin": "Wijlre, Limburg Netherlands",
-    "BeerAbv": 3.50,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2459831_58e44_sm.jpeg",
-    "HallRating": 11.01,
-    "BAR": 7.49,
-    "StylePlus": "81",
-    "RatingScore": 3.14,
-    "AdjustedRating": "2.4443875404400401778236166854"
+    "BAR": 7.48,
+    "StylePlus": "89",
+    "RatingScore": 3.38,
+    "AdjustedRating": "2.4610049094784225269197477498"
   },
   {
     "BID": 17883,
@@ -300,49 +285,19 @@
     "AdjustedRating": "2.4780869835621722736728971007"
   },
   {
-    "BID": 29311,
-    "BeerName": "Wisby Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Gotlands Bryggeri",
-    "Origin": "Visby, Gotlands län Sweden",
-    "BeerAbv": 5.00,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29311_4d969_sm.jpeg",
-    "HallRating": 11.01,
-    "BAR": 7.48,
-    "StylePlus": "88",
-    "RatingScore": 3.18,
-    "AdjustedRating": "2.446461239651417521837499617"
-  },
-  {
-    "BID": 10598,
-    "BeerName": "Pikeland Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Sly Fox Brewing Company",
-    "Origin": "Pottstown, PA United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 44.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10598_3636f_sm.jpeg",
-    "HallRating": 11.01,
-    "BAR": 7.48,
-    "StylePlus": "89",
-    "RatingScore": 3.38,
-    "AdjustedRating": "2.4610049094784225269197477498"
-  },
-  {
-    "BID": 1000742,
-    "BeerName": "Powder Monkey",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Heavy Seas Beer",
-    "Origin": "Baltimore, MD United States",
-    "BeerAbv": 4.75,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-275730_2d8a0_sm.jpeg",
+    "BID": 3339578,
+    "BeerName": "8.6 Extreme",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Royal Swinkels",
+    "Origin": "Lieshout, Noord-Brabant Netherlands",
+    "BeerAbv": 10.50,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-467589_26373_sm.jpeg",
     "HallRating": 11.01,
     "BAR": 7.49,
-    "StylePlus": "89",
-    "RatingScore": 3.39,
-    "AdjustedRating": "2.4623152909166452954388349071"
+    "StylePlus": "111",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.6001624847467312480881695424"
   },
   {
     "BID": 18075,
@@ -360,7 +315,7 @@
     "AdjustedRating": "2.4487114342337262694518576625"
   },
   {
-    "BID": 3339578,
+    "BID": 3347728,
     "BeerName": "8.6 Extreme",
     "BeerStyle": "Malt Liquor",
     "BreweryName": "Royal Swinkels",
@@ -370,8 +325,53 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-467589_26373_sm.jpeg",
     "HallRating": 11.01,
     "BAR": 7.49,
-    "StylePlus": "111",
+    "StylePlus": "107",
     "RatingScore": 3.13,
-    "AdjustedRating": "2.6001624847467312480881695424"
+    "AdjustedRating": "2.4435382550501435306891986941"
+  },
+  {
+    "BID": 29311,
+    "BeerName": "Wisby Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Gotlands Bryggeri",
+    "Origin": "Visby, Gotlands län Sweden",
+    "BeerAbv": 5.00,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29311_4d969_sm.jpeg",
+    "HallRating": 11.01,
+    "BAR": 7.48,
+    "StylePlus": "88",
+    "RatingScore": 3.18,
+    "AdjustedRating": "2.446461239651417521837499617"
+  },
+  {
+    "BID": 3346063,
+    "BeerName": "Session IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Brand Bierbrouwerij",
+    "Origin": "Wijlre, Limburg Netherlands",
+    "BeerAbv": 3.50,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2459831_58e44_sm.jpeg",
+    "HallRating": 11.01,
+    "BAR": 7.49,
+    "StylePlus": "81",
+    "RatingScore": 3.14,
+    "AdjustedRating": "2.4443875404400401778236166854"
+  },
+  {
+    "BID": 1000742,
+    "BeerName": "Powder Monkey",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Heavy Seas Beer",
+    "Origin": "Baltimore, MD United States",
+    "BeerAbv": 4.75,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-275730_2d8a0_sm.jpeg",
+    "HallRating": 11.01,
+    "BAR": 7.49,
+    "StylePlus": "89",
+    "RatingScore": 3.39,
+    "AdjustedRating": "2.4623152909166452954388349071"
   }
 ]

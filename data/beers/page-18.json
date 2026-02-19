@@ -1,18 +1,18 @@
 [
   {
-    "BID": 22018,
-    "BeerName": "Pacific Ale",
-    "BeerStyle": "Pale Ale - Australian",
-    "BreweryName": "Stone & Wood",
-    "Origin": "Byron Bay, New South Wales Australia",
-    "BeerAbv": 4.40,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-626326_03e68_sm.jpeg",
+    "BID": 1671883,
+    "BeerName": "Andechser Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Klosterbrauerei Andechs",
+    "Origin": "Andechs, Bayern Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-AndechserVollbierHell_87308.jpeg",
     "HallRating": 22.50,
     "BAR": 15.60,
-    "StylePlus": "116",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.5227184910237515360250483493"
+    "StylePlus": "118",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.5140561598252716835000812814"
   },
   {
     "BID": 12073,
@@ -45,21 +45,6 @@
     "AdjustedRating": "2.5247614513416752602224972434"
   },
   {
-    "BID": 4001914,
-    "BeerName": "Lager Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Ayinger Privatbrauerei",
-    "Origin": "Aying, Bayern Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-87338_a6cf2_sm.jpeg",
-    "HallRating": 22.46,
-    "BAR": 15.56,
-    "StylePlus": "118",
-    "RatingScore": 3.50,
-    "AdjustedRating": "2.5055115132263644664059676112"
-  },
-  {
     "BID": 3341360,
     "BeerName": "Lager Hell",
     "BeerStyle": "Lager - Helles",
@@ -73,6 +58,21 @@
     "StylePlus": "119",
     "RatingScore": 3.50,
     "AdjustedRating": "2.5206866025886968966767277229"
+  },
+  {
+    "BID": 4001914,
+    "BeerName": "Lager Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Ayinger Privatbrauerei",
+    "Origin": "Aying, Bayern Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-87338_a6cf2_sm.jpeg",
+    "HallRating": 22.46,
+    "BAR": 15.56,
+    "StylePlus": "118",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.5055115132263644664059676112"
   },
   {
     "BID": 3345389,
@@ -120,21 +120,6 @@
     "AdjustedRating": "2.5147323358942908070482370962"
   },
   {
-    "BID": 2003767,
-    "BeerName": "Frootwood",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1854569_3a79c_sm.jpeg",
-    "HallRating": 22.38,
-    "BAR": 15.46,
-    "StylePlus": "112",
-    "RatingScore": 3.77,
-    "AdjustedRating": "2.5248132771405993725557832899"
-  },
-  {
     "BID": 1673297,
     "BeerName": "Éphémère Pomme (Apple)",
     "BeerStyle": "Fruit Beer",
@@ -148,6 +133,21 @@
     "StylePlus": "112",
     "RatingScore": 3.54,
     "AdjustedRating": "2.5020817355536238519277450118"
+  },
+  {
+    "BID": 2003767,
+    "BeerName": "Frootwood",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1854569_3a79c_sm.jpeg",
+    "HallRating": 22.38,
+    "BAR": 15.46,
+    "StylePlus": "112",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.5248132771405993725557832899"
   },
   {
     "BID": 28493,
@@ -225,6 +225,21 @@
     "AdjustedRating": "2.400649180442370401847964308"
   },
   {
+    "BID": 7615,
+    "BeerName": "Apricot Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Dry Dock Brewing Company",
+    "Origin": "Aurora, CO United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 17.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-304989_9b643_sm.jpeg",
+    "HallRating": 22.29,
+    "BAR": 15.34,
+    "StylePlus": "115",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.5176577929198618892917323921"
+  },
+  {
     "BID": 12772,
     "BeerName": "Lonely Blonde",
     "BeerStyle": "Blonde / Golden Ale - Other",
@@ -253,21 +268,6 @@
     "StylePlus": "108",
     "RatingScore": 3.54,
     "AdjustedRating": "2.4938564459027113728743730316"
-  },
-  {
-    "BID": 7615,
-    "BeerName": "Apricot Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Dry Dock Brewing Company",
-    "Origin": "Aurora, CO United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 17.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-304989_9b643_sm.jpeg",
-    "HallRating": 22.29,
-    "BAR": 15.34,
-    "StylePlus": "115",
-    "RatingScore": 3.80,
-    "AdjustedRating": "2.5176577929198618892917323921"
   },
   {
     "BID": 16774,
@@ -315,21 +315,6 @@
     "AdjustedRating": "2.5057315851368034173835095548"
   },
   {
-    "BID": 4939432,
-    "BeerName": "Beeracuda",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Abita Brewing Company",
-    "Origin": "Abita Springs, LA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2480569_dd879_sm.jpeg",
-    "HallRating": 22.27,
-    "BAR": 13.19,
-    "StylePlus": "131",
-    "RatingScore": 3.52,
-    "AdjustedRating": "2.3990751847177930456548273921"
-  },
-  {
     "BID": 3334340,
     "BeerName": "Sun Crusher",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -345,33 +330,48 @@
     "AdjustedRating": "2.5000689205114472349692749823"
   },
   {
-    "BID": 2014700,
-    "BeerName": "Cinderelly",
-    "BeerStyle": "Lager - Munich Dunkel",
-    "BreweryName": "Altitude Chophouse & Brewery",
-    "Origin": "Laramie, WY United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-6184_f35ad.jpeg",
-    "HallRating": 22.25,
-    "BAR": 3.47,
-    "StylePlus": "113",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.3899075945254766759510648707"
+    "BID": 4939432,
+    "BeerName": "Beeracuda",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Abita Brewing Company",
+    "Origin": "Abita Springs, LA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2480569_dd879_sm.jpeg",
+    "HallRating": 22.27,
+    "BAR": 13.19,
+    "StylePlus": "131",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.3990751847177930456548273921"
   },
   {
-    "BID": 3349124,
-    "BeerName": "Loopy Fruit",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Tampa Bay Brewing Company",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 2.21,
-    "BeerIbu": 4.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4530_a77e4.jpeg",
+    "BID": 1675162,
+    "BeerName": "Crabby Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Wyndridge Farm",
+    "Origin": "Dallastown, PA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-wyndridgefarm_98011.jpeg",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "103",
+    "StylePlus": "109",
     "RatingScore": 3.89,
     "AdjustedRating": "2.389913644359106251137747237"
+  },
+  {
+    "BID": 3341242,
+    "BeerName": "Strawberry Fields",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Ruby Beach Brewing",
+    "Origin": "Jacksonville, FL United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-392693_783f2.jpeg",
+    "HallRating": 22.25,
+    "BAR": 3.47,
+    "StylePlus": "114",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.3899117194120422953965301204"
   }
 ]

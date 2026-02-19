@@ -75,6 +75,21 @@
     "AdjustedRating": "2.3899731437299836776206081855"
   },
   {
+    "BID": 10744,
+    "BeerName": "Bombshell Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Southern Star Brewing Co",
+    "Origin": "Conroe, TX United States",
+    "BeerAbv": 5.25,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10744_92ecc_sm.jpeg",
+    "HallRating": 22.15,
+    "BAR": 15.15,
+    "StylePlus": "115",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.4811102840622676278158003948"
+  },
+  {
     "BID": 4004206,
     "BeerName": "Apple",
     "BeerStyle": "Cider - Traditional / Apfelwein",
@@ -103,21 +118,6 @@
     "StylePlus": "108",
     "RatingScore": 3.69,
     "AdjustedRating": "2.4949501386667090652269140407"
-  },
-  {
-    "BID": 10744,
-    "BeerName": "Bombshell Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Southern Star Brewing Co",
-    "Origin": "Conroe, TX United States",
-    "BeerAbv": 5.25,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10744_92ecc_sm.jpeg",
-    "HallRating": 22.15,
-    "BAR": 15.15,
-    "StylePlus": "115",
-    "RatingScore": 3.52,
-    "AdjustedRating": "2.4811102840622676278158003948"
   },
   {
     "BID": 4878030,
@@ -150,21 +150,6 @@
     "AdjustedRating": "2.4859419989460367396582876271"
   },
   {
-    "BID": 2001760,
-    "BeerName": "Who You Callin' Wussie",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Arrogant Consortia",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 47.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1529855_a7df4_sm.jpeg",
-    "HallRating": 22.13,
-    "BAR": 15.12,
-    "StylePlus": "119",
-    "RatingScore": 3.66,
-    "AdjustedRating": "2.4906418321028619942087173107"
-  },
-  {
     "BID": 2017423,
     "BeerName": "Wild Sour Series: Synchopathic",
     "BeerStyle": "Sour - Other",
@@ -178,6 +163,21 @@
     "StylePlus": "103",
     "RatingScore": 3.81,
     "AdjustedRating": "2.5022836863091883002685674657"
+  },
+  {
+    "BID": 2001760,
+    "BeerName": "Who You Callin' Wussie",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Arrogant Consortia",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 47.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1529855_a7df4_sm.jpeg",
+    "HallRating": 22.13,
+    "BAR": 15.12,
+    "StylePlus": "119",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.4906418321028619942087173107"
   },
   {
     "BID": 3334452,
@@ -240,21 +240,6 @@
     "AdjustedRating": "2.500604398602713135904489105"
   },
   {
-    "BID": 2005431,
-    "BeerName": "Lime Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Uinta Brewing Company",
-    "Origin": "Salt Lake City, UT United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2005431_37c3f_sm.jpeg",
-    "HallRating": 22.06,
-    "BAR": 15.04,
-    "StylePlus": "117",
-    "RatingScore": 3.58,
-    "AdjustedRating": "2.4791461360789996499471864406"
-  },
-  {
     "BID": 6791,
     "BeerName": "American Darling",
     "BeerStyle": "Lager - Pale",
@@ -268,6 +253,21 @@
     "StylePlus": "131",
     "RatingScore": 3.55,
     "AdjustedRating": "2.3974561306446841051477811252"
+  },
+  {
+    "BID": 2005431,
+    "BeerName": "Lime Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Uinta Brewing Company",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2005431_37c3f_sm.jpeg",
+    "HallRating": 22.06,
+    "BAR": 15.04,
+    "StylePlus": "117",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.4791461360789996499471864406"
   },
   {
     "BID": 10634,
@@ -330,19 +330,19 @@
     "AdjustedRating": "2.4869254383826042961386299886"
   },
   {
-    "BID": 1004011,
-    "BeerName": "Fulton St Blend Coffee Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1078455_aadfa_sm.jpeg",
+    "BID": 25102,
+    "BeerName": "Samuel Smith's Organic Strawberry Fruit Beer",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Melbourn Bros’ All Saints Brewery",
+    "Origin": "Stamford, Lincolnshire England",
+    "BeerAbv": 5.10,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_8563_sm_d5b9d9d0680c0b68f34a3594486402.jpeg",
     "HallRating": 22.01,
     "BAR": 14.96,
-    "StylePlus": "115",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.4784870695473126793223983593"
+    "StylePlus": "112",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.4842803813145279012830776748"
   },
   {
     "BID": 8563,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.6410725105599714296150574451"
   },
   {
-    "BID": 25102,
-    "BeerName": "Samuel Smith's Organic Strawberry Fruit Beer",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Melbourn Bros’ All Saints Brewery",
-    "Origin": "Stamford, Lincolnshire England",
-    "BeerAbv": 5.10,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_8563_sm_d5b9d9d0680c0b68f34a3594486402.jpeg",
+    "BID": 1004011,
+    "BeerName": "Fulton St Blend Coffee Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1078455_aadfa_sm.jpeg",
     "HallRating": 22.01,
     "BAR": 14.96,
-    "StylePlus": "112",
-    "RatingScore": 3.71,
-    "AdjustedRating": "2.4842803813145279012830776748"
+    "StylePlus": "115",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.4784870695473126793223983593"
   }
 ]

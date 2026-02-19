@@ -45,19 +45,19 @@
     "AdjustedRating": "2.3900525341192976371599877618"
   },
   {
-    "BID": 3863,
-    "BeerName": "Labatt Sterling",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Labatt Brewing Company",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 4.00,
+    "BID": 20777,
+    "BeerName": "Carlsberg (Sverige) 2.8%",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Carlsberg Sverige",
+    "Origin": "Falkenberg, Hallands län Sweden",
+    "BeerAbv": 2.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LabattSterling_3863.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CarlsbergSverige_345.jpeg",
     "HallRating": 7.11,
-    "BAR": 2.03,
-    "StylePlus": "62",
-    "RatingScore": 2.20,
-    "AdjustedRating": "2.3898524574762911159924743152"
+    "BAR": 3.80,
+    "StylePlus": "65",
+    "RatingScore": 2.27,
+    "AdjustedRating": "2.389543348916433642957413245"
   },
   {
     "BID": 22140,
@@ -75,19 +75,19 @@
     "AdjustedRating": "2.3893093430900966036543300426"
   },
   {
-    "BID": 20777,
-    "BeerName": "Carlsberg (Sverige) 2.8%",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Carlsberg Sverige",
-    "Origin": "Falkenberg, Hallands län Sweden",
-    "BeerAbv": 2.80,
+    "BID": 3863,
+    "BeerName": "Labatt Sterling",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Labatt Brewing Company",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CarlsbergSverige_345.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LabattSterling_3863.jpeg",
     "HallRating": 7.11,
-    "BAR": 3.80,
-    "StylePlus": "65",
-    "RatingScore": 2.27,
-    "AdjustedRating": "2.389543348916433642957413245"
+    "BAR": 2.03,
+    "StylePlus": "62",
+    "RatingScore": 2.20,
+    "AdjustedRating": "2.3898524574762911159924743152"
   },
   {
     "BID": 19741,
@@ -105,21 +105,6 @@
     "AdjustedRating": "2.3898799298918627513138872821"
   },
   {
-    "BID": 2371,
-    "BeerName": "Totally Dirt Cheap Premium Beer",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Pittsburgh Brewing Company",
-    "Origin": "Creighton, PA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2371_ca580_sm.jpeg",
-    "HallRating": 7.08,
-    "BAR": 2.05,
-    "StylePlus": "65",
-    "RatingScore": 1.51,
-    "AdjustedRating": "2.3897756166664928123502949926"
-  },
-  {
     "BID": 4940694,
     "BeerName": "Hollandia Light",
     "BeerStyle": "Lager - American Light",
@@ -133,6 +118,21 @@
     "StylePlus": "62",
     "RatingScore": 2.40,
     "AdjustedRating": "2.3898735312120647692731103001"
+  },
+  {
+    "BID": 2371,
+    "BeerName": "Totally Dirt Cheap Premium Beer",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Pittsburgh Brewing Company",
+    "Origin": "Creighton, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2371_ca580_sm.jpeg",
+    "HallRating": 7.08,
+    "BAR": 2.05,
+    "StylePlus": "65",
+    "RatingScore": 1.51,
+    "AdjustedRating": "2.3897756166664928123502949926"
   },
   {
     "BID": 17466,
@@ -255,49 +255,19 @@
     "AdjustedRating": "2.3895354402967363630381152709"
   },
   {
-    "BID": 1675910,
-    "BeerName": "Pearl Light",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Pabst Brewing Company",
-    "Origin": "San Antonio, TX United States",
-    "BeerAbv": 2.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PearlLight_6111.jpeg",
-    "HallRating": 7.02,
-    "BAR": 3.61,
-    "StylePlus": "62",
-    "RatingScore": 2.31,
-    "AdjustedRating": "2.3897187341243015353502658875"
-  },
-  {
-    "BID": 4014602,
-    "BeerName": "Andwa",
+    "BID": 29499,
+    "BeerName": "Bruers Bright",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Barnaulsky Pivovarenny Zavod (Барнаульский Пивоваренный Завод)",
-    "Origin": "Barnaul, Алтайский край Russia",
-    "BeerAbv": 4.00,
+    "BreweryName": "Pacific Beverages Ltd",
+    "Origin": "Port Victoria, South Australia Australia",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4014602_bb9f9_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 7.02,
     "BAR": 2.15,
     "StylePlus": "65",
-    "RatingScore": 2.38,
-    "AdjustedRating": "2.3898711087401899018724101117"
-  },
-  {
-    "BID": 4010317,
-    "BeerName": "ElleBryg Jul",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Skovlyst",
-    "Origin": "Denmark",
-    "BeerAbv": 0.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4010317_236c0_sm.jpeg",
-    "HallRating": 7.02,
-    "BAR": 3.59,
-    "StylePlus": "76",
-    "RatingScore": 2.49,
-    "AdjustedRating": "2.3900590317425469201862057857"
+    "RatingScore": 2.37,
+    "AdjustedRating": "2.3898698089091679347281388669"
   },
   {
     "BID": 6003,
@@ -315,19 +285,49 @@
     "AdjustedRating": "2.3897404082616908765757339485"
   },
   {
-    "BID": 29499,
-    "BeerName": "Bruers Bright",
+    "BID": 4014602,
+    "BeerName": "Andwa",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Pacific Beverages Ltd",
-    "Origin": "Port Victoria, South Australia Australia",
-    "BeerAbv": 0.00,
+    "BreweryName": "Barnaulsky Pivovarenny Zavod (Барнаульский Пивоваренный Завод)",
+    "Origin": "Barnaul, Алтайский край Russia",
+    "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4014602_bb9f9_sm.jpeg",
     "HallRating": 7.02,
     "BAR": 2.15,
     "StylePlus": "65",
-    "RatingScore": 2.37,
-    "AdjustedRating": "2.3898698089091679347281388669"
+    "RatingScore": 2.38,
+    "AdjustedRating": "2.3898711087401899018724101117"
+  },
+  {
+    "BID": 1675910,
+    "BeerName": "Pearl Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Pabst Brewing Company",
+    "Origin": "San Antonio, TX United States",
+    "BeerAbv": 2.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PearlLight_6111.jpeg",
+    "HallRating": 7.02,
+    "BAR": 3.61,
+    "StylePlus": "62",
+    "RatingScore": 2.31,
+    "AdjustedRating": "2.3897187341243015353502658875"
+  },
+  {
+    "BID": 4010317,
+    "BeerName": "ElleBryg Jul",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Skovlyst",
+    "Origin": "Denmark",
+    "BeerAbv": 0.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4010317_236c0_sm.jpeg",
+    "HallRating": 7.02,
+    "BAR": 3.59,
+    "StylePlus": "76",
+    "RatingScore": 2.49,
+    "AdjustedRating": "2.3900590317425469201862057857"
   },
   {
     "BID": 12513,
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.3898366386297076902906900086"
   },
   {
-    "BID": 13641,
-    "BeerName": "Horse Piss",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Bluegrass Brewing Company",
-    "Origin": "Louisville, KY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BluegrassBrewingCo_2403.jpeg",
-    "HallRating": 7.00,
-    "BAR": 3.56,
-    "StylePlus": "65",
-    "RatingScore": 2.25,
-    "AdjustedRating": "2.3896273459921099735560626351"
-  },
-  {
     "BID": 1671963,
     "BeerName": "Double Hop Beer",
     "BeerStyle": "Lager - Pale",
@@ -373,5 +358,20 @@
     "StylePlus": "65",
     "RatingScore": 2.25,
     "AdjustedRating": "2.3898531621745271290794051068"
+  },
+  {
+    "BID": 26901,
+    "BeerName": "Arsenal Svitle (Арсенал Свiтле)",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Carlsberg Ukraine",
+    "Origin": "Kyiv, Kyiv city Ukraine",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26901_35c50_sm.jpeg",
+    "HallRating": 7.00,
+    "BAR": 2.18,
+    "StylePlus": "65",
+    "RatingScore": 1.95,
+    "AdjustedRating": "2.3898119178456223534860491932"
   }
 ]

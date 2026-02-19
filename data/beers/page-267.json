@@ -1,6 +1,6 @@
 [
   {
-    "BID": 1001565,
+    "BID": 14770,
     "BeerName": "Red Chair NWPA",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Deschutes Brewery",
@@ -12,7 +12,7 @@
     "BAR": 12.59,
     "StylePlus": "109",
     "RatingScore": 3.70,
-    "AdjustedRating": "2.6827070498457429489801604739"
+    "AdjustedRating": "2.6826970460208966089416610695"
   },
   {
     "BID": 11091,
@@ -30,22 +30,22 @@
     "AdjustedRating": "2.6275531007476451565584382049"
   },
   {
-    "BID": 1000073,
-    "BeerName": "Stone Sublimely Self-Righteous Black IPA",
-    "BeerStyle": "IPA - Imperial / Double Black",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 8.70,
-    "BeerIbu": 90.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-stoneSublimelySelf-Righteous-Ale.jpg",
+    "BID": 4002776,
+    "BeerName": "Kasteel Donker",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Kasteel Brouwerij Vanhonsebrouck",
+    "Origin": "Izegem, Vlaams Gewest Belgium",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-871_f1511_sm.jpeg",
     "HallRating": 17.57,
     "BAR": 12.59,
     "StylePlus": "101",
-    "RatingScore": 3.93,
-    "AdjustedRating": "2.71957659673985018444432496"
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.6561530331733704742718040731"
   },
   {
-    "BID": 14770,
+    "BID": 1001565,
     "BeerName": "Red Chair NWPA",
     "BeerStyle": "Pale Ale - American",
     "BreweryName": "Deschutes Brewery",
@@ -57,7 +57,22 @@
     "BAR": 12.59,
     "StylePlus": "109",
     "RatingScore": 3.70,
-    "AdjustedRating": "2.6826970460208966089416610695"
+    "AdjustedRating": "2.6827070498457429489801604739"
+  },
+  {
+    "BID": 13276,
+    "BeerName": "FIX Hellas",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Olympic Brewery",
+    "Origin": "Kifissia, Αττική Greece",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13276_c01b8_sm.jpeg",
+    "HallRating": 17.57,
+    "BAR": 12.58,
+    "StylePlus": "98",
+    "RatingScore": 2.99,
+    "AdjustedRating": "2.5173432034467674208347340886"
   },
   {
     "BID": 871,
@@ -90,21 +105,6 @@
     "AdjustedRating": "2.6693306548906406060372094592"
   },
   {
-    "BID": 5003249,
-    "BeerName": "Fourchette",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij Van Steenberge",
-    "Origin": "Evergem, Vlaams Gewest Belgium",
-    "BeerAbv": 7.50,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2549239_fba6a_sm.jpeg",
-    "HallRating": 17.57,
-    "BAR": 12.59,
-    "StylePlus": "106",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.6674469687104521219311405853"
-  },
-  {
     "BID": 8532,
     "BeerName": "Stone Sublimely Self-Righteous Black IPA",
     "BeerStyle": "IPA - Imperial / Double Black",
@@ -120,22 +120,7 @@
     "AdjustedRating": "2.7329493111300063907104608703"
   },
   {
-    "BID": 1003728,
-    "BeerName": "Brother Thelonious",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "North Coast Brewing Company",
-    "Origin": "Fort Bragg, CA United States",
-    "BeerAbv": 9.40,
-    "BeerIbu": 27.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-410_2af04_sm.jpeg",
-    "HallRating": 17.56,
-    "BAR": 12.57,
-    "StylePlus": "105",
-    "RatingScore": 3.87,
-    "AdjustedRating": "2.7025458103321248015772314988"
-  },
-  {
-    "BID": 3343263,
+    "BID": 6007910,
     "BeerName": "Ghost In The Machine",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
     "BreweryName": "Parish Brewing Co.",
@@ -147,7 +132,7 @@
     "BAR": 12.57,
     "StylePlus": "100",
     "RatingScore": 4.21,
-    "AdjustedRating": "2.9064717407555112308748424867"
+    "AdjustedRating": "2.7732821113412448260545942346"
   },
   {
     "BID": 1005207,
@@ -165,6 +150,21 @@
     "AdjustedRating": "2.7867626511659538261362824614"
   },
   {
+    "BID": 410,
+    "BeerName": "Brother Thelonious",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "North Coast Brewing Company",
+    "Origin": "Fort Bragg, CA United States",
+    "BeerAbv": 9.40,
+    "BeerIbu": 27.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-410_2af04_sm.jpeg",
+    "HallRating": 17.56,
+    "BAR": 12.57,
+    "StylePlus": "104",
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.7159025892878745718047221963"
+  },
+  {
     "BID": 4947,
     "BeerName": "Hoptical Illusion",
     "BeerStyle": "IPA - American",
@@ -180,7 +180,7 @@
     "AdjustedRating": "2.6426286892611693080856676185"
   },
   {
-    "BID": 410,
+    "BID": 1003728,
     "BeerName": "Brother Thelonious",
     "BeerStyle": "Belgian Strong Dark Ale",
     "BreweryName": "North Coast Brewing Company",
@@ -190,9 +190,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-410_2af04_sm.jpeg",
     "HallRating": 17.56,
     "BAR": 12.57,
-    "StylePlus": "104",
+    "StylePlus": "105",
     "RatingScore": 3.87,
-    "AdjustedRating": "2.7159025892878745718047221963"
+    "AdjustedRating": "2.7025458103321248015772314988"
+  },
+  {
+    "BID": 1000641,
+    "BeerName": "Stone Coffee Milk Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Stone Brewing",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-758603_79107_sm.jpeg",
+    "HallRating": 17.56,
+    "BAR": 12.57,
+    "StylePlus": "102",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.6781736935276697709502631475"
   },
   {
     "BID": 4815408,
@@ -240,19 +255,19 @@
     "AdjustedRating": "2.633170273465026769450051861"
   },
   {
-    "BID": 6007910,
-    "BeerName": "Ghost In The Machine",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Parish Brewing Co.",
-    "Origin": "Broussard, LA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 100.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-593083_9444d_sm.jpeg",
+    "BID": 2004996,
+    "BeerName": "Blood Orange Brew Free! or Die",
+    "BeerStyle": "IPA - Fruited",
+    "BreweryName": "21st Amendment Brewery",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1918666_4ac52_sm.jpeg",
     "HallRating": 17.56,
     "BAR": 12.57,
-    "StylePlus": "100",
-    "RatingScore": 4.21,
-    "AdjustedRating": "2.7732821113412448260545942346"
+    "StylePlus": "104",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.6939200285048686059001489128"
   },
   {
     "BID": 4999,
@@ -285,21 +300,6 @@
     "AdjustedRating": "2.6804907998147422436364561266"
   },
   {
-    "BID": 1000641,
-    "BeerName": "Stone Coffee Milk Stout",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-758603_79107_sm.jpeg",
-    "HallRating": 17.56,
-    "BAR": 12.57,
-    "StylePlus": "102",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.6781736935276697709502631475"
-  },
-  {
     "BID": 6002748,
     "BeerName": "Gouden Carolus Christmas / Noël",
     "BeerStyle": "Winter Ale",
@@ -315,19 +315,19 @@
     "AdjustedRating": "2.6490312370747873278512073889"
   },
   {
-    "BID": 2004996,
-    "BeerName": "Blood Orange Brew Free! or Die",
-    "BeerStyle": "IPA - Fruited",
-    "BreweryName": "21st Amendment Brewery",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1918666_4ac52_sm.jpeg",
+    "BID": 3343263,
+    "BeerName": "Ghost In The Machine",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Parish Brewing Co.",
+    "Origin": "Broussard, LA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 100.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-593083_9444d_sm.jpeg",
     "HallRating": 17.56,
     "BAR": 12.57,
-    "StylePlus": "104",
-    "RatingScore": 3.77,
-    "AdjustedRating": "2.6939200285048686059001489128"
+    "StylePlus": "100",
+    "RatingScore": 4.21,
+    "AdjustedRating": "2.9064717407555112308748424867"
   },
   {
     "BID": 2014863,
@@ -345,7 +345,7 @@
     "AdjustedRating": "2.6382664005177603596875627541"
   },
   {
-    "BID": 6002053,
+    "BID": 5382,
     "BeerName": "Big Swell IPA",
     "BeerStyle": "IPA - American",
     "BreweryName": "Maui Brewing Company",
@@ -357,21 +357,21 @@
     "BAR": 12.56,
     "StylePlus": "104",
     "RatingScore": 3.69,
-    "AdjustedRating": "2.6618735307018458013535565928"
+    "AdjustedRating": "2.6752653899556876031483094089"
   },
   {
-    "BID": 21927,
-    "BeerName": "Monk's Café Flemish Sour Ale",
-    "BeerStyle": "Sour - Flanders Red Ale",
-    "BreweryName": "Brouwerij Van Steenberge",
-    "Origin": "Evergem, Vlaams Gewest Belgium",
-    "BeerAbv": 5.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-MonksCafeFlemishSourRedAle_21927.jpeg",
+    "BID": 4519,
+    "BeerName": "Franziskaner Premium Weissbier Dunkel",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-FranziskanerHefeWeisseDunkel_4519.jpeg",
     "HallRating": 17.55,
     "BAR": 12.56,
-    "StylePlus": "103",
-    "RatingScore": 3.84,
-    "AdjustedRating": "2.6932053190650302897652864362"
+    "StylePlus": "111",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.7718628957282506502812046231"
   }
 ]

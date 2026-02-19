@@ -1,20 +1,5 @@
 [
   {
-    "BID": 3833,
-    "BeerName": "Coors Banquet",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Coors Brewing Company",
-    "Origin": "Golden, CO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3833_1d167_sm.jpeg",
-    "HallRating": 12.12,
-    "BAR": 8.89,
-    "StylePlus": "89",
-    "RatingScore": 2.90,
-    "AdjustedRating": "2.5799889004961467569073912595"
-  },
-  {
     "BID": 1004431,
     "BeerName": "Coors Banquet",
     "BeerStyle": "Lager - American",
@@ -28,6 +13,21 @@
     "StylePlus": "89",
     "RatingScore": 2.90,
     "AdjustedRating": "2.5689842089707666948779383037"
+  },
+  {
+    "BID": 1671591,
+    "BeerName": "Dos Equis Ambar",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Cervecería Cuauhtémoc Moctezuma S.A. de C.V.",
+    "Origin": "Monterrey, Nuevo León Mexico",
+    "BeerAbv": 4.70,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CerveceriaDosEquisAmber.jpg",
+    "HallRating": 12.12,
+    "BAR": 8.90,
+    "StylePlus": "85",
+    "RatingScore": 3.26,
+    "AdjustedRating": "2.6963354167408615525772721178"
   },
   {
     "BID": 3345298,
@@ -60,21 +60,6 @@
     "AdjustedRating": "2.6544953391843472408778908624"
   },
   {
-    "BID": 2005326,
-    "BeerName": "Miller Genuine Draft",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Miller Brewing Company",
-    "Origin": "Milwaukee, WI United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3779_8ae90_sm.jpeg",
-    "HallRating": 12.01,
-    "BAR": 8.76,
-    "StylePlus": "89",
-    "RatingScore": 2.60,
-    "AdjustedRating": "2.4549240743541231785885114584"
-  },
-  {
     "BID": 1674849,
     "BeerName": "Radeberger Pilsner",
     "BeerStyle": "Pilsner - German",
@@ -103,6 +88,21 @@
     "StylePlus": "89",
     "RatingScore": 3.17,
     "AdjustedRating": "2.6317108873481875399965524254"
+  },
+  {
+    "BID": 2005326,
+    "BeerName": "Miller Genuine Draft",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3779_8ae90_sm.jpeg",
+    "HallRating": 12.01,
+    "BAR": 8.76,
+    "StylePlus": "89",
+    "RatingScore": 2.60,
+    "AdjustedRating": "2.4549240743541231785885114584"
   },
   {
     "BID": 3779,
@@ -150,7 +150,7 @@
     "AdjustedRating": "2.7052407123427771446553468861"
   },
   {
-    "BID": 3335693,
+    "BID": 4012166,
     "BeerName": "Tuborg Grøn",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Carlsberg Group",
@@ -160,9 +160,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6797_09553_sm.jpeg",
     "HallRating": 11.97,
     "BAR": 8.71,
-    "StylePlus": "90",
+    "StylePlus": "88",
     "RatingScore": 2.88,
-    "AdjustedRating": "2.6541121384649849379939536724"
+    "AdjustedRating": "2.5354172527625009677861426096"
   },
   {
     "BID": 3346628,
@@ -180,7 +180,7 @@
     "AdjustedRating": "2.654139136887627170203229252"
   },
   {
-    "BID": 4012166,
+    "BID": 3335693,
     "BeerName": "Tuborg Grøn",
     "BeerStyle": "Pilsner - Other",
     "BreweryName": "Carlsberg Group",
@@ -190,24 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6797_09553_sm.jpeg",
     "HallRating": 11.97,
     "BAR": 8.71,
-    "StylePlus": "88",
+    "StylePlus": "90",
     "RatingScore": 2.88,
-    "AdjustedRating": "2.5354172527625009677861426096"
-  },
-  {
-    "BID": 16010,
-    "BeerName": "Bavaria",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Royal Swinkels",
-    "Origin": "Lieshout, Noord-Brabant Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16010_3d9dd_sm.jpeg",
-    "HallRating": 11.95,
-    "BAR": 8.68,
-    "StylePlus": "88",
-    "RatingScore": 2.87,
-    "AdjustedRating": "2.5404867348582280121552876137"
+    "AdjustedRating": "2.6541121384649849379939536724"
   },
   {
     "BID": 3000682,
@@ -223,6 +208,21 @@
     "StylePlus": "88",
     "RatingScore": 2.87,
     "AdjustedRating": "2.5284071003869120216282205428"
+  },
+  {
+    "BID": 16010,
+    "BeerName": "Bavaria",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Royal Swinkels",
+    "Origin": "Lieshout, Noord-Brabant Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16010_3d9dd_sm.jpeg",
+    "HallRating": 11.95,
+    "BAR": 8.68,
+    "StylePlus": "88",
+    "RatingScore": 2.87,
+    "AdjustedRating": "2.5404867348582280121552876137"
   },
   {
     "BID": 17259,
@@ -255,21 +255,6 @@
     "AdjustedRating": "2.5483882088674012364069666128"
   },
   {
-    "BID": 1670169,
-    "BeerName": "Stiegl-Goldbräu / Stiegl Gold",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Stieglbrauerei zu Salzburg",
-    "Origin": "Salzburg, Austria",
-    "BeerAbv": 5.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5539_7ca11_sm.jpeg",
-    "HallRating": 11.91,
-    "BAR": 8.64,
-    "StylePlus": "90",
-    "RatingScore": 3.34,
-    "AdjustedRating": "2.7737530332396518295766188985"
-  },
-  {
     "BID": 3348752,
     "BeerName": "Stiegl-Goldbräu / Stiegl Gold",
     "BeerStyle": "Lager - Helles",
@@ -283,21 +268,6 @@
     "StylePlus": "89",
     "RatingScore": 3.34,
     "AdjustedRating": "2.6514156602795103928278379181"
-  },
-  {
-    "BID": 1007137,
-    "BeerName": "Stiegl-Goldbräu / Stiegl Gold",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Stieglbrauerei zu Salzburg",
-    "Origin": "Salzburg, Austria",
-    "BeerAbv": 5.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5539_7ca11_sm.jpeg",
-    "HallRating": 11.91,
-    "BAR": 8.64,
-    "StylePlus": "89",
-    "RatingScore": 3.34,
-    "AdjustedRating": "2.6638964577100621718827762455"
   },
   {
     "BID": 2000516,
@@ -315,19 +285,34 @@
     "AdjustedRating": "2.663847466474796062841211286"
   },
   {
-    "BID": 2395,
-    "BeerName": "Rothaus Pils / Tannen Zäpfle",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Badische Staatsbrauerei Rothaus",
-    "Origin": "Grafenhausen, Baden-Württemberg Germany",
-    "BeerAbv": 5.10,
-    "BeerIbu": 32.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2395_6a68d_sm.jpeg",
-    "HallRating": 11.90,
-    "BAR": 8.62,
+    "BID": 1007137,
+    "BeerName": "Stiegl-Goldbräu / Stiegl Gold",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Stieglbrauerei zu Salzburg",
+    "Origin": "Salzburg, Austria",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5539_7ca11_sm.jpeg",
+    "HallRating": 11.91,
+    "BAR": 8.64,
     "StylePlus": "89",
-    "RatingScore": 3.47,
-    "AdjustedRating": "2.6822727926985776104490269619"
+    "RatingScore": 3.34,
+    "AdjustedRating": "2.6638964577100621718827762455"
+  },
+  {
+    "BID": 1670169,
+    "BeerName": "Stiegl-Goldbräu / Stiegl Gold",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Stieglbrauerei zu Salzburg",
+    "Origin": "Salzburg, Austria",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5539_7ca11_sm.jpeg",
+    "HallRating": 11.91,
+    "BAR": 8.64,
+    "StylePlus": "90",
+    "RatingScore": 3.34,
+    "AdjustedRating": "2.7737530332396518295766188985"
   },
   {
     "BID": 3836,
@@ -343,6 +328,21 @@
     "StylePlus": "89",
     "RatingScore": 2.91,
     "AdjustedRating": "2.5310874249986895220386713084"
+  },
+  {
+    "BID": 2395,
+    "BeerName": "Rothaus Pils / Tannen Zäpfle",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Badische Staatsbrauerei Rothaus",
+    "Origin": "Grafenhausen, Baden-Württemberg Germany",
+    "BeerAbv": 5.10,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2395_6a68d_sm.jpeg",
+    "HallRating": 11.90,
+    "BAR": 8.62,
+    "StylePlus": "89",
+    "RatingScore": 3.47,
+    "AdjustedRating": "2.6822727926985776104490269619"
   },
   {
     "BID": 5879,

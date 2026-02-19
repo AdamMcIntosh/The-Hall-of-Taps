@@ -1,5 +1,20 @@
 [
   {
+    "BID": 2018014,
+    "BeerName": "Maple Bourbon",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Ingenious Brewing Company",
+    "Origin": "Humble, TX United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 85.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2018014_12ff2_sm.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "125",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.3899578935633175021533227754"
+  },
+  {
     "BID": 1673471,
     "BeerName": "Maple Oak Marshal Zhukov's",
     "BeerStyle": "Stout - Russian Imperial",
@@ -28,21 +43,6 @@
     "StylePlus": "124",
     "RatingScore": 4.53,
     "AdjustedRating": "2.3899526437601851196176678625"
-  },
-  {
-    "BID": 2018014,
-    "BeerName": "Maple Bourbon",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2018014_12ff2_sm.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "125",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.3899578935633175021533227754"
   },
   {
     "BID": 4815824,
@@ -90,21 +90,6 @@
     "AdjustedRating": "2.3899599935845827432499235281"
   },
   {
-    "BID": 4959873,
-    "BeerName": "Future You Hates You [Cream S'mores Milkshake] Ghost 1244",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Adroit Theory",
-    "Origin": "Purcellville, VA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 49.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959873_ae28d_sm.jpeg",
-    "HallRating": 31.07,
-    "BAR": 6.15,
-    "StylePlus": "124",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.3899633435422255819724196972"
-  },
-  {
     "BID": 6011955,
     "BeerName": "WFP24",
     "BeerStyle": "Mead - Other",
@@ -118,6 +103,21 @@
     "StylePlus": "133",
     "RatingScore": 4.55,
     "AdjustedRating": "2.389964193506102117219671689"
+  },
+  {
+    "BID": 4959873,
+    "BeerName": "Future You Hates You [Cream S'mores Milkshake] Ghost 1244",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Adroit Theory",
+    "Origin": "Purcellville, VA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 49.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959873_ae28d_sm.jpeg",
+    "HallRating": 31.07,
+    "BAR": 6.15,
+    "StylePlus": "124",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.3899633435422255819724196972"
   },
   {
     "BID": 11024,
@@ -195,21 +195,6 @@
     "AdjustedRating": "2.4287393400280953449688736742"
   },
   {
-    "BID": 3343863,
-    "BeerName": "Waldo Honey Hydromel (Sichuan Cherry Bomb)",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "BKS Artisan Ales",
-    "Origin": "Kansas City, MO United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-277027_9a1fb.jpeg",
-    "HallRating": 30.61,
-    "BAR": 6.39,
-    "StylePlus": "127",
-    "RatingScore": 4.71,
-    "AdjustedRating": "2.3899825928111675960988388302"
-  },
-  {
     "BID": 6012608,
     "BeerName": "Melodic Antidotes",
     "BeerStyle": "California Common",
@@ -253,6 +238,21 @@
     "StylePlus": "124",
     "RatingScore": 4.52,
     "AdjustedRating": "2.389973568239834734409769061"
+  },
+  {
+    "BID": 3343863,
+    "BeerName": "Waldo Honey Hydromel (Sichuan Cherry Bomb)",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "BKS Artisan Ales",
+    "Origin": "Kansas City, MO United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-277027_9a1fb.jpeg",
+    "HallRating": 30.61,
+    "BAR": 6.39,
+    "StylePlus": "127",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.3899825928111675960988388302"
   },
   {
     "BID": 24328,

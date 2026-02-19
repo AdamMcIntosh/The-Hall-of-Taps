@@ -1,20 +1,5 @@
 [
   {
-    "BID": 6003704,
-    "BeerName": "THE GREAT NORTHERN BARREL-AGED SERIES 45 - RELEASED 09/30/24",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Evil Twin Brewing NYC",
-    "Origin": "Ridgewood, NY United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003704_be6c6_sm.jpeg",
-    "HallRating": 27.65,
-    "BAR": 13.14,
-    "StylePlus": "125",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.3922075464662057829153060124"
-  },
-  {
     "BID": 3341616,
     "BeerName": "Barrel Aged Omerta (Maple Syrup) (2019)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -30,19 +15,19 @@
     "AdjustedRating": "2.3902804380000111244182030209"
   },
   {
-    "BID": 19509,
-    "BeerName": "Millennium",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 20.00,
+    "BID": 6003704,
+    "BeerName": "THE GREAT NORTHERN BARREL-AGED SERIES 45 - RELEASED 09/30/24",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Evil Twin Brewing NYC",
+    "Origin": "Ridgewood, NY United States",
+    "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19509_fdb5e_sm.jpeg",
-    "HallRating": 27.63,
-    "BAR": 13.08,
-    "StylePlus": "128",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.3921107376477048712800568663"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003704_be6c6_sm.jpeg",
+    "HallRating": 27.65,
+    "BAR": 13.14,
+    "StylePlus": "125",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.3922075464662057829153060124"
   },
   {
     "BID": 3342777,
@@ -58,6 +43,21 @@
     "StylePlus": "125",
     "RatingScore": 4.67,
     "AdjustedRating": "2.3903169301829404531712851244"
+  },
+  {
+    "BID": 19509,
+    "BeerName": "Millennium",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 20.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19509_fdb5e_sm.jpeg",
+    "HallRating": 27.63,
+    "BAR": 13.08,
+    "StylePlus": "128",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.3921107376477048712800568663"
   },
   {
     "BID": 6009154,
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.3912975874800884717071950641"
   },
   {
-    "BID": 4959713,
-    "BeerName": "Permanence Maple Chocolate Truffle",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 27.39,
-    "BAR": 10.47,
-    "StylePlus": "125",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.3905325269009868206452534964"
-  },
-  {
     "BID": 4011642,
     "BeerName": "Bourbon Barrel Mean Vanilla Bean Reserve",
     "BeerStyle": "Stout - Imperial / Double",
@@ -373,5 +358,20 @@
     "StylePlus": "125",
     "RatingScore": 4.58,
     "AdjustedRating": "2.3911528675568053954033425696"
+  },
+  {
+    "BID": 4959713,
+    "BeerName": "Permanence Maple Chocolate Truffle",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 27.39,
+    "BAR": 10.47,
+    "StylePlus": "125",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.3905325269009868206452534964"
   }
 ]
