@@ -1,20 +1,5 @@
 [
   {
-    "BID": 18526,
-    "BeerName": "Original Alcoholic Ginger Beer",
-    "BeerStyle": "Hard Ginger Beer",
-    "BreweryName": "John Crabbie & Co",
-    "Origin": "Glasgow, Glasgow City Scotland",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18526_c0ed1_sm.jpeg",
-    "HallRating": 11.67,
-    "BAR": 8.34,
-    "StylePlus": "89",
-    "RatingScore": 3.46,
-    "AdjustedRating": "2.6055708857930780544171739933"
-  },
-  {
     "BID": 27295,
     "BeerName": "The Crisp",
     "BeerStyle": "Pilsner - German",
@@ -30,6 +15,21 @@
     "AdjustedRating": "2.6097029097526339384593581113"
   },
   {
+    "BID": 18526,
+    "BeerName": "Original Alcoholic Ginger Beer",
+    "BeerStyle": "Hard Ginger Beer",
+    "BreweryName": "John Crabbie & Co",
+    "Origin": "Glasgow, Glasgow City Scotland",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18526_c0ed1_sm.jpeg",
+    "HallRating": 11.67,
+    "BAR": 8.34,
+    "StylePlus": "89",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.6055708857930780544171739933"
+  },
+  {
     "BID": 11517,
     "BeerName": "The Crisp",
     "BeerStyle": "Pilsner - German",
@@ -43,21 +43,6 @@
     "StylePlus": "91",
     "RatingScore": 3.48,
     "AdjustedRating": "2.744517284293815667874994886"
-  },
-  {
-    "BID": 1002453,
-    "BeerName": "Presidente",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Cervecería Nacional Dominicana",
-    "Origin": "Santo Domingo, Distrito Nacional Dominican Republic",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7057_46c43_sm.jpeg",
-    "HallRating": 11.65,
-    "BAR": 8.31,
-    "StylePlus": "88",
-    "RatingScore": 3.03,
-    "AdjustedRating": "2.5149487300155298250258206692"
   },
   {
     "BID": 6578,
@@ -88,6 +73,21 @@
     "StylePlus": "88",
     "RatingScore": 3.03,
     "AdjustedRating": "2.5285712098950406728298830852"
+  },
+  {
+    "BID": 1002453,
+    "BeerName": "Presidente",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Cervecería Nacional Dominicana",
+    "Origin": "Santo Domingo, Distrito Nacional Dominican Republic",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7057_46c43_sm.jpeg",
+    "HallRating": 11.65,
+    "BAR": 8.31,
+    "StylePlus": "88",
+    "RatingScore": 3.03,
+    "AdjustedRating": "2.5149487300155298250258206692"
   },
   {
     "BID": 3553,
@@ -150,21 +150,6 @@
     "AdjustedRating": "2.527504872640509693459906202"
   },
   {
-    "BID": 1655,
-    "BeerName": "Astra Urtyp / Premium",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Holsten-Brauerei AG",
-    "Origin": "Altona-Nord, Hamburg Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1655_c1028_sm.jpeg",
-    "HallRating": 11.61,
-    "BAR": 8.26,
-    "StylePlus": "89",
-    "RatingScore": 3.08,
-    "AdjustedRating": "2.5167339810927185835741627252"
-  },
-  {
     "BID": 20966,
     "BeerName": "Kozel Světlý / Kozel 10",
     "BeerStyle": "Lager - Světlé (Czech Pale)",
@@ -178,6 +163,21 @@
     "StylePlus": "89",
     "RatingScore": 3.12,
     "AdjustedRating": "2.5245486100958885367583367178"
+  },
+  {
+    "BID": 1655,
+    "BeerName": "Astra Urtyp / Premium",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Holsten-Brauerei AG",
+    "Origin": "Altona-Nord, Hamburg Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1655_c1028_sm.jpeg",
+    "HallRating": 11.61,
+    "BAR": 8.26,
+    "StylePlus": "89",
+    "RatingScore": 3.08,
+    "AdjustedRating": "2.5167339810927185835741627252"
   },
   {
     "BID": 2005499,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.5547700842594285000144340734"
   },
   {
-    "BID": 10434,
-    "BeerName": "Bintang Pilsener",
+    "BID": 6817,
+    "BeerName": "Maes Pils",
     "BeerStyle": "Pilsner - Other",
-    "BreweryName": "PT Multi Bintang Indonesia Tbk.",
-    "Origin": "Tangerang, Banten Indonesia",
-    "BeerAbv": 4.70,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10434_84efe_sm.jpeg",
+    "BreweryName": "Brouwerij Alken-Maes",
+    "Origin": "Alken, Vlaams Gewest Belgium",
+    "BeerAbv": 5.20,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-MaesPils_6817.jpeg",
     "HallRating": 11.49,
-    "BAR": 8.11,
+    "BAR": 8.12,
     "StylePlus": "88",
-    "RatingScore": 2.98,
-    "AdjustedRating": "2.4814182361071094860519414293"
+    "RatingScore": 2.86,
+    "AdjustedRating": "2.4633439925957895227369036957"
   }
 ]

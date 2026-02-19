@@ -30,36 +30,6 @@
     "AdjustedRating": "2.4276330078043563987795343569"
   },
   {
-    "BID": 3345958,
-    "BeerName": "Lagerdette",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "BAPBAP",
-    "Origin": "Saint-Ouen-l'Aumône, Île-de-France France",
-    "BeerAbv": 4.70,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345958_62b3f_sm.jpeg",
-    "HallRating": 20.84,
-    "BAR": 6.82,
-    "StylePlus": "131",
-    "RatingScore": 3.61,
-    "AdjustedRating": "2.3900736798271546460430564207"
-  },
-  {
-    "BID": 2381,
-    "BeerName": "Pinkus Ur-Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Brauerei Pinkus Müller",
-    "Origin": "Münster, Nordrhein-Westfalen Germany",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2381_5b780_sm.jpeg",
-    "HallRating": 20.84,
-    "BAR": 13.34,
-    "StylePlus": "119",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.4180118546692220378503663373"
-  },
-  {
     "BID": 1002064,
     "BeerName": "Maggie's Leap",
     "BeerStyle": "IPA - Session",
@@ -90,19 +60,19 @@
     "AdjustedRating": "2.4179733065283546056742648522"
   },
   {
-    "BID": 3346267,
-    "BeerName": "Soft Handshake: Wakatu",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Gusto Brewing Company",
-    "Origin": "North Cape May, NJ United States",
-    "BeerAbv": 5.10,
+    "BID": 2381,
+    "BeerName": "Pinkus Ur-Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Brauerei Pinkus Müller",
+    "Origin": "Münster, Nordrhein-Westfalen Germany",
+    "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-416043_4c62b.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2381_5b780_sm.jpeg",
     "HallRating": 20.84,
-    "BAR": 6.82,
-    "StylePlus": "131",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.3900786290105393875607060085"
+    "BAR": 13.34,
+    "StylePlus": "119",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.4180118546692220378503663373"
   },
   {
     "BID": 13713,
@@ -118,6 +88,36 @@
     "StylePlus": "112",
     "RatingScore": 3.60,
     "AdjustedRating": "2.4195316590506778456867733447"
+  },
+  {
+    "BID": 3346267,
+    "BeerName": "Soft Handshake: Wakatu",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Gusto Brewing Company",
+    "Origin": "North Cape May, NJ United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-416043_4c62b.jpeg",
+    "HallRating": 20.84,
+    "BAR": 6.82,
+    "StylePlus": "131",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.3900786290105393875607060085"
+  },
+  {
+    "BID": 3345958,
+    "BeerName": "Lagerdette",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "BAPBAP",
+    "Origin": "Saint-Ouen-l'Aumône, Île-de-France France",
+    "BeerAbv": 4.70,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345958_62b3f_sm.jpeg",
+    "HallRating": 20.84,
+    "BAR": 6.82,
+    "StylePlus": "131",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.3900736798271546460430564207"
   },
   {
     "BID": 1669231,
@@ -195,21 +195,6 @@
     "AdjustedRating": "2.4177229287953426936540354873"
   },
   {
-    "BID": 4816262,
-    "BeerName": "Fuggly Sweater",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Ithaca Beer Company",
-    "Origin": "Ithaca, NY United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3521132_78e87_sm.jpeg",
-    "HallRating": 20.80,
-    "BAR": 13.28,
-    "StylePlus": "112",
-    "RatingScore": 3.58,
-    "AdjustedRating": "2.4179192118073555991735987199"
-  },
-  {
     "BID": 2013563,
     "BeerName": "Long Paddle Lager",
     "BeerStyle": "Lager - American Light",
@@ -225,19 +210,19 @@
     "AdjustedRating": "2.3913228046187835862561461496"
   },
   {
-    "BID": 4446869,
-    "BeerName": "Modern Lore",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Odious Cellars",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4446869_c5d2f_sm.jpeg",
-    "HallRating": 20.79,
-    "BAR": 6.94,
-    "StylePlus": "124",
-    "RatingScore": 3.82,
-    "AdjustedRating": "2.3901261945847873268091449018"
+    "BID": 4816262,
+    "BeerName": "Fuggly Sweater",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Ithaca Beer Company",
+    "Origin": "Ithaca, NY United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3521132_78e87_sm.jpeg",
+    "HallRating": 20.80,
+    "BAR": 13.28,
+    "StylePlus": "112",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.4179192118073555991735987199"
   },
   {
     "BID": 3336630,
@@ -270,6 +255,21 @@
     "AdjustedRating": "2.3901190958448136721328499441"
   },
   {
+    "BID": 4446869,
+    "BeerName": "Modern Lore",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Odious Cellars",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4446869_c5d2f_sm.jpeg",
+    "HallRating": 20.79,
+    "BAR": 6.94,
+    "StylePlus": "124",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.3901261945847873268091449018"
+  },
+  {
     "BID": 17950,
     "BeerName": "Calafate Ale",
     "BeerStyle": "Fruit Beer",
@@ -283,6 +283,21 @@
     "StylePlus": "112",
     "RatingScore": 3.55,
     "AdjustedRating": "2.4164928083795327987802982213"
+  },
+  {
+    "BID": 1673812,
+    "BeerName": "California Dream",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Mikkeller Brewing San Diego",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1513615_791db_sm.jpeg",
+    "HallRating": 20.77,
+    "BAR": 13.24,
+    "StylePlus": "117",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.4198440433200944160440228403"
   },
   {
     "BID": 12131,
@@ -313,21 +328,6 @@
     "StylePlus": "113",
     "RatingScore": 3.56,
     "AdjustedRating": "2.4167474024218934659097793861"
-  },
-  {
-    "BID": 1673812,
-    "BeerName": "California Dream",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Mikkeller Brewing San Diego",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1513615_791db_sm.jpeg",
-    "HallRating": 20.77,
-    "BAR": 13.24,
-    "StylePlus": "117",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.4198440433200944160440228403"
   },
   {
     "BID": 5436,

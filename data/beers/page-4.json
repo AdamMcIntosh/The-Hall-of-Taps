@@ -1,18 +1,18 @@
 [
   {
-    "BID": 6006731,
-    "BeerName": "The Day Is The Night",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 9.20,
+    "BID": 1668078,
+    "BeerName": "Blåbær Lambik (Blueberry Lambic) (2009-II) (Batch 4)",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16564_sm_7d3e5e05e5fcc0d509b2d6097c61d6.jpeg",
     "HallRating": 27.98,
-    "BAR": 14.15,
-    "StylePlus": "125",
-    "RatingScore": 4.66,
-    "AdjustedRating": "2.3937080910402405194804328923"
+    "BAR": 8.74,
+    "StylePlus": "129",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.390191565165202998139913937"
   },
   {
     "BID": 16789,
@@ -225,21 +225,6 @@
     "AdjustedRating": "2.3902282298969678692808953795"
   },
   {
-    "BID": 3333953,
-    "BeerName": "Quy (2019)",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "The Veil Brewing Co.",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 12.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333953_b03f3_sm.jpeg",
-    "HallRating": 27.74,
-    "BAR": 13.46,
-    "StylePlus": "125",
-    "RatingScore": 4.79,
-    "AdjustedRating": "2.3928149366495887563612201273"
-  },
-  {
     "BID": 4817038,
     "BeerName": "Stevnsberry Van Oak (2021)",
     "BeerStyle": "Mead - Melomel",
@@ -268,6 +253,21 @@
     "StylePlus": "128",
     "RatingScore": 4.59,
     "AdjustedRating": "2.3925697376313836031867417994"
+  },
+  {
+    "BID": 3333953,
+    "BeerName": "Quy (2019)",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333953_b03f3_sm.jpeg",
+    "HallRating": 27.74,
+    "BAR": 13.46,
+    "StylePlus": "125",
+    "RatingScore": 4.79,
+    "AdjustedRating": "2.3928149366495887563612201273"
   },
   {
     "BID": 4007402,

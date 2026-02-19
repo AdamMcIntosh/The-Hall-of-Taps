@@ -30,7 +30,7 @@
     "AdjustedRating": "2.7343372520682500665106238851"
   },
   {
-    "BID": 2017588,
+    "BID": 1675550,
     "BeerName": "Lucky Beer (Lucky Buddha)",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Hangzhou Qiandaohu Beer Co. (Cheerday Brewery - 千岛湖)",
@@ -40,9 +40,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-50983_a7560_sm.jpeg",
     "HallRating": 17.72,
     "BAR": 12.78,
-    "StylePlus": "98",
+    "StylePlus": "99",
     "RatingScore": 3.00,
-    "AdjustedRating": "2.5514763552489463654126998113"
+    "AdjustedRating": "2.6663042164391598289869366182"
+  },
+  {
+    "BID": 4136,
+    "BeerName": "Amber Ale",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Bell’s Brewery",
+    "Origin": "Comstock, MI United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4136_7b717_sm.jpeg",
+    "HallRating": 17.71,
+    "BAR": 12.76,
+    "StylePlus": "115",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.6822232821348770529274964781"
   },
   {
     "BID": 10722,
@@ -73,21 +88,6 @@
     "StylePlus": "104",
     "RatingScore": 3.74,
     "AdjustedRating": "2.7153985262192182851762933612"
-  },
-  {
-    "BID": 4136,
-    "BeerName": "Amber Ale",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Bell’s Brewery",
-    "Origin": "Comstock, MI United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4136_7b717_sm.jpeg",
-    "HallRating": 17.71,
-    "BAR": 12.76,
-    "StylePlus": "115",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.6822232821348770529274964781"
   },
   {
     "BID": 2001463,
@@ -135,6 +135,21 @@
     "AdjustedRating": "2.8152220204741163950592398656"
   },
   {
+    "BID": 6010597,
+    "BeerName": "Mc Chouffe",
+    "BeerStyle": "Brown Ale - Belgian",
+    "BreweryName": "Brasserie d'Achouffe",
+    "Origin": "Houffalize, Région Wallonne Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-52336_25a3e_sm.jpeg",
+    "HallRating": 17.69,
+    "BAR": 12.74,
+    "StylePlus": "116",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.686592022684466471347030647"
+  },
+  {
     "BID": 4960663,
     "BeerName": "4 Luppoli Originale",
     "BeerStyle": "Lager - Pale",
@@ -180,36 +195,6 @@
     "AdjustedRating": "2.6967122506177912713717439627"
   },
   {
-    "BID": 6010597,
-    "BeerName": "Mc Chouffe",
-    "BeerStyle": "Brown Ale - Belgian",
-    "BreweryName": "Brasserie d'Achouffe",
-    "Origin": "Houffalize, Région Wallonne Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-52336_25a3e_sm.jpeg",
-    "HallRating": 17.69,
-    "BAR": 12.74,
-    "StylePlus": "116",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.686592022684466471347030647"
-  },
-  {
-    "BID": 4700,
-    "BeerName": "Wit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Brouwerij St. Bernardus",
-    "Origin": "Poperinge, Vlaams Gewest Belgium",
-    "BeerAbv": 5.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4700_ae5a3_sm.jpeg",
-    "HallRating": 17.68,
-    "BAR": 12.73,
-    "StylePlus": "114",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.7973833129931258221946962401"
-  },
-  {
     "BID": 5968,
     "BeerName": "White",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
@@ -223,6 +208,21 @@
     "StylePlus": "114",
     "RatingScore": 3.56,
     "AdjustedRating": "2.6638569329473390528798120028"
+  },
+  {
+    "BID": 2447,
+    "BeerName": "Big Eye",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Ballast Point Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 71.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_2447_sm_3f30697720fe62f2769e568febad87.jpeg",
+    "HallRating": 17.68,
+    "BAR": 12.73,
+    "StylePlus": "104",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.7055668375046925476217858795"
   },
   {
     "BID": 1667072,
@@ -255,34 +255,19 @@
     "AdjustedRating": "2.6684096994394900656711946499"
   },
   {
-    "BID": 2447,
-    "BeerName": "Big Eye",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Ballast Point Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 71.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_2447_sm_3f30697720fe62f2769e568febad87.jpeg",
+    "BID": 4700,
+    "BeerName": "Wit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Brouwerij St. Bernardus",
+    "Origin": "Poperinge, Vlaams Gewest Belgium",
+    "BeerAbv": 5.50,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4700_ae5a3_sm.jpeg",
     "HallRating": 17.68,
     "BAR": 12.73,
-    "StylePlus": "104",
-    "RatingScore": 3.73,
-    "AdjustedRating": "2.7055668375046925476217858795"
-  },
-  {
-    "BID": 5383,
-    "BeerName": "Coconut Hiwa",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Maui Brewing Company",
-    "Origin": "Kihei, HI United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5383_71d14_sm.jpeg",
-    "HallRating": 17.67,
-    "BAR": 12.71,
-    "StylePlus": "103",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.7042328890064296850105320079"
+    "StylePlus": "114",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.7973833129931258221946962401"
   },
   {
     "BID": 26918,
@@ -300,21 +285,6 @@
     "AdjustedRating": "2.6626792718578036476559896555"
   },
   {
-    "BID": 208,
-    "BeerName": "90 Shilling",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Odell Brewing Co.",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 27.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-208_4350f_sm.jpeg",
-    "HallRating": 17.67,
-    "BAR": 12.71,
-    "StylePlus": "115",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.6954280263496767100479260868"
-  },
-  {
     "BID": 5003522,
     "BeerName": "Kwaremont",
     "BeerStyle": "Belgian Blonde",
@@ -328,21 +298,6 @@
     "StylePlus": "116",
     "RatingScore": 3.50,
     "AdjustedRating": "2.6496728470309576390888401837"
-  },
-  {
-    "BID": 4002473,
-    "BeerName": "Kwaremont",
-    "BeerStyle": "Belgian Blonde",
-    "BreweryName": "Brouwerij De Brabandere",
-    "Origin": "Harelbeke, Vlaams Gewest Belgium",
-    "BeerAbv": 6.60,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26918_f6aa1_sm.jpeg",
-    "HallRating": 17.67,
-    "BAR": 12.72,
-    "StylePlus": "116",
-    "RatingScore": 3.50,
-    "AdjustedRating": "2.6626969093843437581089776836"
   },
   {
     "BID": 4015218,
@@ -360,18 +315,63 @@
     "AdjustedRating": "2.737988808470335064642378801"
   },
   {
-    "BID": 1001058,
-    "BeerName": "Stone Ruination IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 100.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-StoneRuinationIPA.jpg",
+    "BID": 208,
+    "BeerName": "90 Shilling",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Odell Brewing Co.",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 27.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-208_4350f_sm.jpeg",
+    "HallRating": 17.67,
+    "BAR": 12.71,
+    "StylePlus": "115",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.6954280263496767100479260868"
+  },
+  {
+    "BID": 5383,
+    "BeerName": "Coconut Hiwa",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Maui Brewing Company",
+    "Origin": "Kihei, HI United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5383_71d14_sm.jpeg",
+    "HallRating": 17.67,
+    "BAR": 12.71,
+    "StylePlus": "103",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.7042328890064296850105320079"
+  },
+  {
+    "BID": 4002473,
+    "BeerName": "Kwaremont",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Brouwerij De Brabandere",
+    "Origin": "Harelbeke, Vlaams Gewest Belgium",
+    "BeerAbv": 6.60,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26918_f6aa1_sm.jpeg",
+    "HallRating": 17.67,
+    "BAR": 12.72,
+    "StylePlus": "116",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.6626969093843437581089776836"
+  },
+  {
+    "BID": 4140,
+    "BeerName": "Special Double Cream Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Bell’s Brewery",
+    "Origin": "Comstock, MI United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4140_5197f_sm.jpeg",
     "HallRating": 17.66,
-    "BAR": 12.70,
-    "StylePlus": "101",
-    "RatingScore": 4.02,
-    "AdjustedRating": "2.7808889695419884982209900105"
+    "BAR": 12.69,
+    "StylePlus": "103",
+    "RatingScore": 3.83,
+    "AdjustedRating": "2.7345179461763797646220329195"
   }
 ]

@@ -45,7 +45,7 @@
     "AdjustedRating": "2.391481872831566174590167799"
   },
   {
-    "BID": 1003978,
+    "BID": 1005647,
     "BeerName": "Export",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Royal Swinkels",
@@ -75,7 +75,7 @@
     "AdjustedRating": "2.390764175849256468769073678"
   },
   {
-    "BID": 1005647,
+    "BID": 1003978,
     "BeerName": "Export",
     "BeerStyle": "Lager - Pale",
     "BreweryName": "Royal Swinkels",
@@ -120,21 +120,6 @@
     "AdjustedRating": "2.3898533989478761024447873976"
   },
   {
-    "BID": 18720,
-    "BeerName": "Rio Claro Premium Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Cervecería Centro Americana",
-    "Origin": "Ciudad de Guatemala, Guatemala",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CerveceriaCentroAmericana_359.jpeg",
-    "HallRating": 7.65,
-    "BAR": 1.60,
-    "StylePlus": "65",
-    "RatingScore": 2.49,
-    "AdjustedRating": "2.3898771478198046858370762639"
-  },
-  {
     "BID": 25164,
     "BeerName": "Yunusobod",
     "BeerStyle": "Lager - Pale",
@@ -148,6 +133,21 @@
     "StylePlus": "65",
     "RatingScore": 1.88,
     "AdjustedRating": "2.389848174196051814098483847"
+  },
+  {
+    "BID": 18720,
+    "BeerName": "Rio Claro Premium Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Cervecería Centro Americana",
+    "Origin": "Ciudad de Guatemala, Guatemala",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CerveceriaCentroAmericana_359.jpeg",
+    "HallRating": 7.65,
+    "BAR": 1.60,
+    "StylePlus": "65",
+    "RatingScore": 2.49,
+    "AdjustedRating": "2.3898771478198046858370762639"
   },
   {
     "BID": 3334170,
@@ -225,21 +225,6 @@
     "AdjustedRating": "2.3862171290532840784605035824"
   },
   {
-    "BID": 22059,
-    "BeerName": "Adria Svijetlo Pivo",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Istarska Pivovara",
-    "Origin": "Sveti Ivan, Istarska županija Croatia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-284128_7b0a1.jpeg",
-    "HallRating": 7.52,
-    "BAR": 1.68,
-    "StylePlus": "65",
-    "RatingScore": 1.76,
-    "AdjustedRating": "2.389837750908026185119471954"
-  },
-  {
     "BID": 4961879,
     "BeerName": "Ninja Super Strong",
     "BeerStyle": "Lager - Strong",
@@ -253,6 +238,21 @@
     "StylePlus": "63",
     "RatingScore": 2.41,
     "AdjustedRating": "2.3898734989418843229218928209"
+  },
+  {
+    "BID": 22059,
+    "BeerName": "Adria Svijetlo Pivo",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Istarska Pivovara",
+    "Origin": "Sveti Ivan, Istarska županija Croatia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-284128_7b0a1.jpeg",
+    "HallRating": 7.52,
+    "BAR": 1.68,
+    "StylePlus": "65",
+    "RatingScore": 1.76,
+    "AdjustedRating": "2.389837750908026185119471954"
   },
   {
     "BID": 13261,
@@ -283,6 +283,36 @@
     "StylePlus": "62",
     "RatingScore": 2.21,
     "AdjustedRating": "2.3882538470530841227253077308"
+  },
+  {
+    "BID": 20824,
+    "BeerName": "Skol (Asia)",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Carlsberg Malaysia",
+    "Origin": "Shah Alam, Selangor Malaysia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20824_4bd6e_sm.jpeg",
+    "HallRating": 7.45,
+    "BAR": 4.44,
+    "StylePlus": "65",
+    "RatingScore": 2.50,
+    "AdjustedRating": "2.3908452338377472045986678974"
+  },
+  {
+    "BID": 26784,
+    "BeerName": "Naale Beer 10º",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Beijing Naale Brewery Group Co., Ltd (艾尔啤酒)",
+    "Origin": "Ji Ning Shi, Shan Dong Sheng China / People's Republic of China",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-27521_1c4b1.jpeg",
+    "HallRating": 7.45,
+    "BAR": 1.73,
+    "StylePlus": "65",
+    "RatingScore": 1.78,
+    "AdjustedRating": "2.3898358018362159536024373788"
   },
   {
     "BID": 1673490,
@@ -330,48 +360,18 @@
     "AdjustedRating": "2.3898598003963023484187484001"
   },
   {
-    "BID": 1670253,
-    "BeerName": "Левбердон",
+    "BID": 4980923,
+    "BeerName": "Deep Original Bitter Lager",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Ipatovsky Pivzavod (Ипатовский Пивзавод)",
-    "Origin": "Ipatovo, Ставропольский край Russia",
+    "BreweryName": "Lidl Polska",
+    "Origin": "Warsaw, Masovian Voivodeship Poland",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1670253_f4254_sm.jpeg",
-    "HallRating": 7.45,
-    "BAR": 1.73,
-    "StylePlus": "65",
-    "RatingScore": 2.33,
-    "AdjustedRating": "2.3898687998563347464748650331"
-  },
-  {
-    "BID": 26784,
-    "BeerName": "Naale Beer 10º",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Beijing Naale Brewery Group Co., Ltd (艾尔啤酒)",
-    "Origin": "Ji Ning Shi, Shan Dong Sheng China / People's Republic of China",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-27521_1c4b1.jpeg",
-    "HallRating": 7.45,
-    "BAR": 1.73,
-    "StylePlus": "65",
-    "RatingScore": 1.78,
-    "AdjustedRating": "2.3898358018362159536024373788"
-  },
-  {
-    "BID": 20824,
-    "BeerName": "Skol (Asia)",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Carlsberg Malaysia",
-    "Origin": "Shah Alam, Selangor Malaysia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20824_4bd6e_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1615556_16b35_sm.jpeg",
     "HallRating": 7.45,
     "BAR": 4.44,
     "StylePlus": "65",
-    "RatingScore": 2.50,
-    "AdjustedRating": "2.3908452338377472045986678974"
+    "RatingScore": 2.39,
+    "AdjustedRating": "2.3898735129755800483808779938"
   }
 ]

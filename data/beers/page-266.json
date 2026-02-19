@@ -1,18 +1,33 @@
 [
   {
-    "BID": 6288,
-    "BeerName": "Dortmunder Gold Lager",
+    "BID": 2007237,
+    "BeerName": "Icelandic Toasted Porter",
+    "BeerStyle": "Porter - Baltic",
+    "BreweryName": "Einstök Ölgerð",
+    "Origin": "Akureyri, Akureyrarbær Iceland",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-ToastedPorter_107027.jpeg",
+    "HallRating": 17.61,
+    "BAR": 12.64,
+    "StylePlus": "104",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.6933004207888373874987084211"
+  },
+  {
+    "BID": 1697,
+    "BeerName": "Edelstoff",
     "BeerStyle": "Lager - Dortmunder / Export",
-    "BreweryName": "Great Lakes Brewing Company",
-    "Origin": "Cleveland, OH United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6288_7c2bb_sm.jpeg",
+    "BreweryName": "Augustiner-Bräu München",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.60,
+    "BeerIbu": 17.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1697_22eb0_sm.jpeg",
     "HallRating": 17.61,
     "BAR": 12.64,
     "StylePlus": "120",
-    "RatingScore": 3.56,
-    "AdjustedRating": "2.6485046422648782480630137021"
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.6617887807320800970260781874"
   },
   {
     "BID": 7230,
@@ -30,19 +45,19 @@
     "AdjustedRating": "2.6767233983398126998323608976"
   },
   {
-    "BID": 6540,
-    "BeerName": "Eliot Ness Amber Lager",
-    "BeerStyle": "Lager - American Amber / Red",
-    "BreweryName": "Great Lakes Brewing Company",
-    "Origin": "Cleveland, OH United States",
-    "BeerAbv": 6.10,
-    "BeerIbu": 27.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6540_36ef2_sm.jpeg",
-    "HallRating": 17.61,
-    "BAR": 12.64,
-    "StylePlus": "118",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.6553375559885641618894166769"
+    "BID": 3335736,
+    "BeerName": "Alfa (Aλφα) Beer",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Athenian Brewery",
+    "Origin": "Greece",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-51595_df269_sm.jpeg",
+    "HallRating": 17.60,
+    "BAR": 12.62,
+    "StylePlus": "98",
+    "RatingScore": 3.00,
+    "AdjustedRating": "2.5233284962474471193262786578"
   },
   {
     "BID": 4134,
@@ -58,6 +73,21 @@
     "StylePlus": "103",
     "RatingScore": 3.74,
     "AdjustedRating": "2.6858922116482158972222228056"
+  },
+  {
+    "BID": 1004386,
+    "BeerName": "Galactica",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Clown Shoes",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 86.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-344199_b7d10_sm.jpeg",
+    "HallRating": 17.60,
+    "BAR": 12.62,
+    "StylePlus": "101",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.6871325134530583889766394463"
   },
   {
     "BID": 14225,
@@ -90,21 +120,6 @@
     "AdjustedRating": "2.6582809624670038535599681219"
   },
   {
-    "BID": 3335736,
-    "BeerName": "Alfa (Aλφα) Beer",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Athenian Brewery",
-    "Origin": "Greece",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-51595_df269_sm.jpeg",
-    "HallRating": 17.60,
-    "BAR": 12.62,
-    "StylePlus": "98",
-    "RatingScore": 3.00,
-    "AdjustedRating": "2.5233284962474471193262786578"
-  },
-  {
     "BID": 13088,
     "BeerName": "Peeper",
     "BeerStyle": "Pale Ale - American",
@@ -120,34 +135,19 @@
     "AdjustedRating": "2.7051551538981997254994208539"
   },
   {
-    "BID": 1004386,
-    "BeerName": "Galactica",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Clown Shoes",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 86.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-344199_b7d10_sm.jpeg",
-    "HallRating": 17.60,
-    "BAR": 12.62,
-    "StylePlus": "101",
-    "RatingScore": 3.75,
-    "AdjustedRating": "2.6871325134530583889766394463"
-  },
-  {
-    "BID": 8782,
-    "BeerName": "Kasteel Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Kasteel Brouwerij Vanhonsebrouck",
-    "Origin": "Izegem, Vlaams Gewest Belgium",
-    "BeerAbv": 11.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8782_370b1_sm.jpeg",
+    "BID": 3000780,
+    "BeerName": "Weihenstephaner Hefeweissbier Dunkel",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Bayerische Staatsbrauerei Weihenstephan",
+    "Origin": "Freising, Bayern Germany",
+    "BeerAbv": 5.30,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6273_4358a_sm.jpeg",
     "HallRating": 17.59,
     "BAR": 12.61,
-    "StylePlus": "106",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.6720354842465253282821546413"
+    "StylePlus": "109",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.686156540809560334631481472"
   },
   {
     "BID": 3003475,
@@ -180,19 +180,19 @@
     "AdjustedRating": "2.748092502806217999623930168"
   },
   {
-    "BID": 3000780,
-    "BeerName": "Weihenstephaner Hefeweissbier Dunkel",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Bayerische Staatsbrauerei Weihenstephan",
-    "Origin": "Freising, Bayern Germany",
-    "BeerAbv": 5.30,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6273_4358a_sm.jpeg",
+    "BID": 8782,
+    "BeerName": "Kasteel Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Kasteel Brouwerij Vanhonsebrouck",
+    "Origin": "Izegem, Vlaams Gewest Belgium",
+    "BeerAbv": 11.00,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8782_370b1_sm.jpeg",
     "HallRating": 17.59,
     "BAR": 12.61,
-    "StylePlus": "109",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.686156540809560334631481472"
+    "StylePlus": "106",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.6720354842465253282821546413"
   },
   {
     "BID": 1674564,
@@ -255,22 +255,7 @@
     "AdjustedRating": "2.6587601456587117723770634961"
   },
   {
-    "BID": 1675448,
-    "BeerName": "Oktoberfest",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Great Lakes Brewing Company",
-    "Origin": "Cleveland, OH United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8978_7d893_sm.jpeg",
-    "HallRating": 17.58,
-    "BAR": 12.60,
-    "StylePlus": "106",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.6783946060629111364257545804"
-  },
-  {
-    "BID": 6001241,
+    "BID": 5007194,
     "BeerName": "Vuur & Vlam",
     "BeerStyle": "IPA - American",
     "BreweryName": "Brouwerij de Molen",
@@ -282,7 +267,7 @@
     "BAR": 12.60,
     "StylePlus": "104",
     "RatingScore": 3.58,
-    "AdjustedRating": "2.646266322491409885970903212"
+    "AdjustedRating": "2.6596065370892148114483980223"
   },
   {
     "BID": 4001548,
@@ -330,7 +315,7 @@
     "AdjustedRating": "2.7756783127489966454063789916"
   },
   {
-    "BID": 5007194,
+    "BID": 6001241,
     "BeerName": "Vuur & Vlam",
     "BeerStyle": "IPA - American",
     "BreweryName": "Brouwerij de Molen",
@@ -342,36 +327,51 @@
     "BAR": 12.60,
     "StylePlus": "104",
     "RatingScore": 3.58,
-    "AdjustedRating": "2.6596065370892148114483980223"
+    "AdjustedRating": "2.646266322491409885970903212"
   },
   {
-    "BID": 13276,
-    "BeerName": "FIX Hellas",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Olympic Brewery",
-    "Origin": "Kifissia, Αττική Greece",
-    "BeerAbv": 5.00,
+    "BID": 1675448,
+    "BeerName": "Oktoberfest",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Great Lakes Brewing Company",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 6.50,
     "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13276_c01b8_sm.jpeg",
-    "HallRating": 17.57,
-    "BAR": 12.58,
-    "StylePlus": "98",
-    "RatingScore": 2.99,
-    "AdjustedRating": "2.5173432034467674208347340886"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8978_7d893_sm.jpeg",
+    "HallRating": 17.58,
+    "BAR": 12.60,
+    "StylePlus": "106",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.6783946060629111364257545804"
   },
   {
-    "BID": 4002776,
-    "BeerName": "Kasteel Donker",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Kasteel Brouwerij Vanhonsebrouck",
-    "Origin": "Izegem, Vlaams Gewest Belgium",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-871_f1511_sm.jpeg",
+    "BID": 5003249,
+    "BeerName": "Fourchette",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij Van Steenberge",
+    "Origin": "Evergem, Vlaams Gewest Belgium",
+    "BeerAbv": 7.50,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2549239_fba6a_sm.jpeg",
+    "HallRating": 17.57,
+    "BAR": 12.59,
+    "StylePlus": "106",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.6674469687104521219311405853"
+  },
+  {
+    "BID": 1000073,
+    "BeerName": "Stone Sublimely Self-Righteous Black IPA",
+    "BeerStyle": "IPA - Imperial / Double Black",
+    "BreweryName": "Stone Brewing",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 8.70,
+    "BeerIbu": 90.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-stoneSublimelySelf-Righteous-Ale.jpg",
     "HallRating": 17.57,
     "BAR": 12.59,
     "StylePlus": "101",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.6561530331733704742718040731"
+    "RatingScore": 3.93,
+    "AdjustedRating": "2.71957659673985018444432496"
   }
 ]

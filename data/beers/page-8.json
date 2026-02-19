@@ -15,64 +15,19 @@
     "AdjustedRating": "2.38991106987455520351553927"
   },
   {
-    "BID": 6009977,
-    "BeerName": "100% Hardcore",
+    "BID": 4013874,
+    "BeerName": "Oracle 8",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "HARD CORE BEER",
-    "Origin": "Netherlands",
-    "BeerAbv": 4.70,
-    "BeerIbu": 26.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6009977_ddbeb_sm.jpeg",
+    "BreweryName": "Last Days of Autumn Brewing",
+    "Origin": "Knoxville, TN United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-170382_259ea.jpeg",
     "HallRating": 24.29,
     "BAR": 4.18,
     "StylePlus": "131",
-    "RatingScore": 3.56,
-    "AdjustedRating": "2.3899104198956795169753518261"
-  },
-  {
-    "BID": 5000137,
-    "BeerName": "Clipper Cut",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Railway City Brewing",
-    "Origin": "St. Thomas, ON Canada",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2696_5830a.jpeg",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "124",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.3899117198534308900557267139"
-  },
-  {
-    "BID": 4961106,
-    "BeerName": "KELLERBIER: Festbier",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Little House Brewing Company",
-    "Origin": "Chester, CT United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-368111_57256.jpeg",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "131",
-    "RatingScore": 4.02,
-    "AdjustedRating": "2.389925369409820307399663036"
-  },
-  {
-    "BID": 4816977,
-    "BeerName": "Lil' Easy",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Faubourg Brewing Co.",
-    "Origin": "New Orleans, LA United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816977_c5629_sm.jpeg",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "124",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.3899097699168038304351643822"
+    "RatingScore": 3.90,
+    "AdjustedRating": "2.3899214695365661881585383725"
   },
   {
     "BID": 4939027,
@@ -88,21 +43,6 @@
     "StylePlus": "126",
     "RatingScore": 3.63,
     "AdjustedRating": "2.3899126948217444198660078797"
-  },
-  {
-    "BID": 4013874,
-    "BeerName": "Oracle 8",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Last Days of Autumn Brewing",
-    "Origin": "Knoxville, TN United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-170382_259ea.jpeg",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "131",
-    "RatingScore": 3.90,
-    "AdjustedRating": "2.3899214695365661881585383725"
   },
   {
     "BID": 4010289,
@@ -133,6 +73,66 @@
     "StylePlus": "124",
     "RatingScore": 3.67,
     "AdjustedRating": "2.3899139947794957929463827676"
+  },
+  {
+    "BID": 5000137,
+    "BeerName": "Clipper Cut",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Railway City Brewing",
+    "Origin": "St. Thomas, ON Canada",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2696_5830a.jpeg",
+    "HallRating": 24.29,
+    "BAR": 4.18,
+    "StylePlus": "124",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.3899117198534308900557267139"
+  },
+  {
+    "BID": 6009977,
+    "BeerName": "100% Hardcore",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "HARD CORE BEER",
+    "Origin": "Netherlands",
+    "BeerAbv": 4.70,
+    "BeerIbu": 26.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6009977_ddbeb_sm.jpeg",
+    "HallRating": 24.29,
+    "BAR": 4.18,
+    "StylePlus": "131",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.3899104198956795169753518261"
+  },
+  {
+    "BID": 4961106,
+    "BeerName": "KELLERBIER: Festbier",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Little House Brewing Company",
+    "Origin": "Chester, CT United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-368111_57256.jpeg",
+    "HallRating": 24.29,
+    "BAR": 4.18,
+    "StylePlus": "131",
+    "RatingScore": 4.02,
+    "AdjustedRating": "2.389925369409820307399663036"
+  },
+  {
+    "BID": 4816977,
+    "BeerName": "Lil' Easy",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Faubourg Brewing Co.",
+    "Origin": "New Orleans, LA United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816977_c5629_sm.jpeg",
+    "HallRating": 24.29,
+    "BAR": 4.18,
+    "StylePlus": "124",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.3899097699168038304351643822"
   },
   {
     "BID": 3342664,
@@ -255,7 +255,7 @@
     "AdjustedRating": "2.7619430837674878733038934475"
   },
   {
-    "BID": 2005144,
+    "BID": 1004003,
     "BeerName": "Schöfferhofer Grapefruit",
     "BeerStyle": "Shandy / Radler",
     "BreweryName": "Radeberger Gruppe",
@@ -315,7 +315,7 @@
     "AdjustedRating": "2.7590340833220901527830716526"
   },
   {
-    "BID": 1004003,
+    "BID": 2005144,
     "BeerName": "Schöfferhofer Grapefruit",
     "BeerStyle": "Shandy / Radler",
     "BreweryName": "Radeberger Gruppe",
@@ -345,7 +345,7 @@
     "AdjustedRating": "2.3899112450907479503813901763"
   },
   {
-    "BID": 2002476,
+    "BID": 4980757,
     "BeerName": "Sour Monkey",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Victory Brewing Company",
@@ -357,10 +357,10 @@
     "BAR": 17.46,
     "StylePlus": "103",
     "RatingScore": 3.78,
-    "AdjustedRating": "2.8219238605009330848403329835"
+    "AdjustedRating": "2.8100177699673802777171599748"
   },
   {
-    "BID": 2006237,
+    "BID": 2002476,
     "BeerName": "Sour Monkey",
     "BeerStyle": "Sour - Other",
     "BreweryName": "Victory Brewing Company",

@@ -1,20 +1,5 @@
 [
   {
-    "BID": 4940769,
-    "BeerName": "Viez",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Kelterei Bohrshof",
-    "Origin": "Germany",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 10.66,
-    "BAR": 1.91,
-    "StylePlus": "82",
-    "RatingScore": 3.34,
-    "AdjustedRating": "2.3899056452867410906214817731"
-  },
-  {
     "BID": 4940695,
     "BeerName": "Barú Seltzer Granada",
     "BeerStyle": "Hard Seltzer",
@@ -28,6 +13,21 @@
     "StylePlus": "84",
     "RatingScore": 3.16,
     "AdjustedRating": "2.3898993455072333733915848195"
+  },
+  {
+    "BID": 6007563,
+    "BeerName": "WestCoast Pils (Azubi-Bier)",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Flensburger Brauerei Emil Petersen",
+    "Origin": "Flensburg, Schleswig-Holstein Germany",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-534_e9aad.jpeg",
+    "HallRating": 10.66,
+    "BAR": 1.91,
+    "StylePlus": "88",
+    "RatingScore": 3.22,
+    "AdjustedRating": "2.3899014454337359458015504707"
   },
   {
     "BID": 29308,
@@ -45,21 +45,6 @@
     "AdjustedRating": "2.4412520523952617972084743069"
   },
   {
-    "BID": 1005050,
-    "BeerName": "Road Trip",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "SweetWater Brewing Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29308_1d1d5_sm.jpeg",
-    "HallRating": 10.65,
-    "BAR": 7.00,
-    "StylePlus": "88",
-    "RatingScore": 3.31,
-    "AdjustedRating": "2.4248959588910089042196807574"
-  },
-  {
     "BID": 7528,
     "BeerName": "American Pilsner",
     "BeerStyle": "Pilsner - American",
@@ -75,21 +60,6 @@
     "AdjustedRating": "2.4258839921149573805527768798"
   },
   {
-    "BID": 5663,
-    "BeerName": "Brunehaut Blonde Organic & Gluten Free",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Brasserie de Brunehaut",
-    "Origin": "Brunehaut, Région Wallonne Belgium",
-    "BeerAbv": 6.50,
-    "BeerIbu": 19.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5663_0bf7d_sm.jpeg",
-    "HallRating": 10.65,
-    "BAR": 6.99,
-    "StylePlus": "94",
-    "RatingScore": 3.16,
-    "AdjustedRating": "2.5814652277915138384020063162"
-  },
-  {
     "BID": 20156,
     "BeerName": "Brunehaut Blonde Organic & Gluten Free",
     "BeerStyle": "Gluten-Free",
@@ -103,6 +73,51 @@
     "StylePlus": "94",
     "RatingScore": 3.16,
     "AdjustedRating": "2.4189707577542125839205532021"
+  },
+  {
+    "BID": 11264,
+    "BeerName": "Buffalo Gold",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Boulder Beer",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 4.95,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11264_090de_sm.jpeg",
+    "HallRating": 10.65,
+    "BAR": 7.00,
+    "StylePlus": "86",
+    "RatingScore": 3.42,
+    "AdjustedRating": "2.4452374752693182854020172465"
+  },
+  {
+    "BID": 1005050,
+    "BeerName": "Road Trip",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "SweetWater Brewing Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29308_1d1d5_sm.jpeg",
+    "HallRating": 10.65,
+    "BAR": 7.00,
+    "StylePlus": "88",
+    "RatingScore": 3.31,
+    "AdjustedRating": "2.4248959588910089042196807574"
+  },
+  {
+    "BID": 5663,
+    "BeerName": "Brunehaut Blonde Organic & Gluten Free",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Brasserie de Brunehaut",
+    "Origin": "Brunehaut, Région Wallonne Belgium",
+    "BeerAbv": 6.50,
+    "BeerIbu": 19.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5663_0bf7d_sm.jpeg",
+    "HallRating": 10.65,
+    "BAR": 6.99,
+    "StylePlus": "94",
+    "RatingScore": 3.16,
+    "AdjustedRating": "2.5814652277915138384020063162"
   },
   {
     "BID": 2005257,
@@ -135,36 +150,6 @@
     "AdjustedRating": "2.3994556777815107387287020359"
   },
   {
-    "BID": 11264,
-    "BeerName": "Buffalo Gold",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Boulder Beer",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 4.95,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11264_090de_sm.jpeg",
-    "HallRating": 10.65,
-    "BAR": 7.00,
-    "StylePlus": "86",
-    "RatingScore": 3.42,
-    "AdjustedRating": "2.4452374752693182854020172465"
-  },
-  {
-    "BID": 171,
-    "BeerName": "Samurai",
-    "BeerStyle": "Lager - Japanese Rice",
-    "BreweryName": "Great Divide Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-171_d47a1_sm.jpeg",
-    "HallRating": 10.64,
-    "BAR": 6.98,
-    "StylePlus": "84",
-    "RatingScore": 3.39,
-    "AdjustedRating": "2.4271468447566830345833457526"
-  },
-  {
     "BID": 3349216,
     "BeerName": "\"33\" Export",
     "BeerStyle": "Lager - American",
@@ -180,19 +165,19 @@
     "AdjustedRating": "2.4028631188569699326305662317"
   },
   {
-    "BID": 4940466,
-    "BeerName": "Schöfferhofer Pomegranate",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Radeberger Gruppe",
-    "Origin": "Frankfurt am Main, Hessen Germany",
-    "BeerAbv": 2.50,
+    "BID": 5143,
+    "BeerName": "Monteith's Summer Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Monteith's Brewing Co.",
+    "Origin": "Greymouth, West Coast New Zealand",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-610469_9ff7b_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5143_6d08f_sm.jpeg",
     "HallRating": 10.64,
     "BAR": 6.99,
-    "StylePlus": "88",
-    "RatingScore": 3.39,
-    "AdjustedRating": "2.4274294869762310322585072196"
+    "StylePlus": "86",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.4146846336183610362874472718"
   },
   {
     "BID": 13365,
@@ -225,19 +210,19 @@
     "AdjustedRating": "2.4274680459962269820028772959"
   },
   {
-    "BID": 5143,
-    "BeerName": "Monteith's Summer Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Monteith's Brewing Co.",
-    "Origin": "Greymouth, West Coast New Zealand",
-    "BeerAbv": 5.00,
+    "BID": 4940466,
+    "BeerName": "Schöfferhofer Pomegranate",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Radeberger Gruppe",
+    "Origin": "Frankfurt am Main, Hessen Germany",
+    "BeerAbv": 2.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5143_6d08f_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-610469_9ff7b_sm.jpeg",
     "HallRating": 10.64,
     "BAR": 6.99,
-    "StylePlus": "86",
-    "RatingScore": 3.05,
-    "AdjustedRating": "2.4146846336183610362874472718"
+    "StylePlus": "88",
+    "RatingScore": 3.39,
+    "AdjustedRating": "2.4274294869762310322585072196"
   },
   {
     "BID": 8014,
@@ -253,6 +238,21 @@
     "StylePlus": "84",
     "RatingScore": 3.04,
     "AdjustedRating": "2.4140226000734908495827509917"
+  },
+  {
+    "BID": 171,
+    "BeerName": "Samurai",
+    "BeerStyle": "Lager - Japanese Rice",
+    "BreweryName": "Great Divide Brewing Company",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-171_d47a1_sm.jpeg",
+    "HallRating": 10.64,
+    "BAR": 6.98,
+    "StylePlus": "84",
+    "RatingScore": 3.39,
+    "AdjustedRating": "2.4271468447566830345833457526"
   },
   {
     "BID": 8650,
@@ -300,19 +300,19 @@
     "AdjustedRating": "2.4241432186642123141833133237"
   },
   {
-    "BID": 4981469,
-    "BeerName": "Holsten Premium",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Holsten-Brauerei AG",
-    "Origin": "Altona-Nord, Hamburg Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 29.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-763020_00abf_sm.jpeg",
+    "BID": 4980694,
+    "BeerName": "La Blonde",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "3 Brasseurs France (Officiel)",
+    "Origin": "Lezennes, Hauts-de-France France",
+    "BeerAbv": 5.20,
+    "BeerIbu": 24.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6001_608ed_sm.jpeg",
     "HallRating": 10.62,
-    "BAR": 6.95,
-    "StylePlus": "89",
-    "RatingScore": 2.90,
-    "AdjustedRating": "2.4081720793422011762927413512"
+    "BAR": 6.96,
+    "StylePlus": "86",
+    "RatingScore": 3.25,
+    "AdjustedRating": "2.4207635238134650208697048453"
   },
   {
     "BID": 5563,
@@ -330,19 +330,19 @@
     "AdjustedRating": "2.4092344549493107527716052421"
   },
   {
-    "BID": 4980694,
-    "BeerName": "La Blonde",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "3 Brasseurs France (Officiel)",
-    "Origin": "Lezennes, Hauts-de-France France",
-    "BeerAbv": 5.20,
-    "BeerIbu": 24.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6001_608ed_sm.jpeg",
+    "BID": 4981469,
+    "BeerName": "Holsten Premium",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Holsten-Brauerei AG",
+    "Origin": "Altona-Nord, Hamburg Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 29.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-763020_00abf_sm.jpeg",
     "HallRating": 10.62,
-    "BAR": 6.96,
-    "StylePlus": "86",
-    "RatingScore": 3.25,
-    "AdjustedRating": "2.4207635238134650208697048453"
+    "BAR": 6.95,
+    "StylePlus": "89",
+    "RatingScore": 2.90,
+    "AdjustedRating": "2.4081720793422011762927413512"
   },
   {
     "BID": 3346205,
