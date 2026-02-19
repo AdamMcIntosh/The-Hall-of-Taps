@@ -1,5 +1,20 @@
 [
   {
+    "BID": 3334597,
+    "BeerName": "Summer-Rita",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Honey Pot Meadery",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "124",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.406955310284406641274965824"
+  },
+  {
     "BID": 1673471,
     "BeerName": "Maple Oak Marshal Zhukov's",
     "BeerStyle": "Stout - Russian Imperial",
@@ -12,7 +27,22 @@
     "BAR": 5.88,
     "StylePlus": "126",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.4905150043637413259705861013"
+    "AdjustedRating": "2.4069598101156629691626700351"
+  },
+  {
+    "BID": 3340599,
+    "BeerName": "Ice Lakes",
+    "BeerStyle": "Bock - Eisbock",
+    "BreweryName": "Burns Family Artisan Ales",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-403719_89619.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "128",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.4069549352984686139509904731"
   },
   {
     "BID": 4815824,
@@ -25,24 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815824_3fca6_sm.jpeg",
     "HallRating": 31.64,
     "BAR": 5.88,
-    "StylePlus": "127",
+    "StylePlus": "128",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.4905120044762371073787832939"
-  },
-  {
-    "BID": 3334597,
-    "BeerName": "Summer-Rita",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Honey Pot Meadery",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "125",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.4905105045324849980828818902"
+    "AdjustedRating": "2.4069568102281587505708672277"
   },
   {
     "BID": 2018014,
@@ -57,7 +72,7 @@
     "BAR": 5.88,
     "StylePlus": "125",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.4905157543356173806185368031"
+    "AdjustedRating": "2.406960560087539023810620737"
   },
   {
     "BID": 3338876,
@@ -72,22 +87,7 @@
     "BAR": 6.02,
     "StylePlus": "128",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.4905176029722860748273169056"
-  },
-  {
-    "BID": 4959873,
-    "BeerName": "Future You Hates You [Cream S'mores Milkshake] Ghost 1244",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Adroit Theory",
-    "Origin": "Purcellville, VA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 49.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959873_ae28d_sm.jpeg",
-    "HallRating": 31.07,
-    "BAR": 6.15,
-    "StylePlus": "124",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.490520701546589236227770318"
+    "AdjustedRating": "2.4069626176038381529978937195"
   },
   {
     "BID": 6011955,
@@ -102,7 +102,22 @@
     "BAR": 6.15,
     "StylePlus": "133",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.4905215515104657714750223098"
+    "AdjustedRating": "2.4069667750206039308569522148"
+  },
+  {
+    "BID": 4959873,
+    "BeerName": "Future You Hates You [Cream S'mores Milkshake] Ghost 1244",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Adroit Theory",
+    "Origin": "Purcellville, VA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 49.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959873_ae28d_sm.jpeg",
+    "HallRating": 31.07,
+    "BAR": 6.15,
+    "StylePlus": "124",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.406965925056727395609700223"
   },
   {
     "BID": 11024,
@@ -117,7 +132,22 @@
     "BAR": 19.70,
     "StylePlus": "125",
     "RatingScore": 4.76,
-    "AdjustedRating": "2.5386919412526902701512735797"
+    "AdjustedRating": "2.4569103194191610330803431797"
+  },
+  {
+    "BID": 26830,
+    "BeerName": "Duck Duck Gooze",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "The Lost Abbey",
+    "Origin": "San Marcos, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22085_22036_sm.jpeg",
+    "HallRating": 30.95,
+    "BAR": 19.56,
+    "StylePlus": "130",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.4494285830144394829979970996"
   },
   {
     "BID": 22085,
@@ -135,21 +165,6 @@
     "AdjustedRating": "2.5982580129508699613817018374"
   },
   {
-    "BID": 26830,
-    "BeerName": "Duck Duck Gooze",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "The Lost Abbey",
-    "Origin": "San Marcos, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22085_22036_sm.jpeg",
-    "HallRating": 30.95,
-    "BAR": 19.56,
-    "StylePlus": "130",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.5313121861883869815305562956"
-  },
-  {
     "BID": 4980052,
     "BeerName": "Melomel: Mix of Three Types of Honey And Grapefruit",
     "BeerStyle": "Mead - Melomel",
@@ -160,9 +175,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980052_c7c70_sm.jpeg",
     "HallRating": 30.83,
     "BAR": 6.28,
-    "StylePlus": "125",
+    "StylePlus": "124",
     "RatingScore": 4.82,
-    "AdjustedRating": "2.490538849428180698138893748"
+    "AdjustedRating": "2.4069842818158605927973377551"
   },
   {
     "BID": 10068,
@@ -177,37 +192,7 @@
     "BAR": 19.18,
     "StylePlus": "125",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.527609063575961328044154406"
-  },
-  {
-    "BID": 3343863,
-    "BeerName": "Waldo Honey Hydromel (Sichuan Cherry Bomb)",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "BKS Artisan Ales",
-    "Origin": "Kansas City, MO United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-277027_9a1fb.jpeg",
-    "HallRating": 30.61,
-    "BAR": 6.39,
-    "StylePlus": "126",
-    "RatingScore": 4.71,
-    "AdjustedRating": "2.490539448052622466703141599"
-  },
-  {
-    "BID": 6010408,
-    "BeerName": "Gin Barrel-Aged Jäkel",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Lost Cause Meadery",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-368362_29b01.jpeg",
-    "HallRating": 30.61,
-    "BAR": 6.39,
-    "StylePlus": "125",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.4905304234812896050140718298"
+    "AdjustedRating": "2.4454565705450894630869384018"
   },
   {
     "BID": 6012608,
@@ -220,9 +205,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012608_1e386_sm.jpeg",
     "HallRating": 30.61,
     "BAR": 6.39,
-    "StylePlus": "145",
+    "StylePlus": "144",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.4905318484136053200176091618"
+    "AdjustedRating": "2.4069774896777826118499507626"
+  },
+  {
+    "BID": 3343863,
+    "BeerName": "Waldo Honey Hydromel (Sichuan Cherry Bomb)",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "BKS Artisan Ales",
+    "Origin": "Kansas City, MO United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-277027_9a1fb.jpeg",
+    "HallRating": 30.61,
+    "BAR": 6.39,
+    "StylePlus": "127",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.4069850893167997585354831998"
   },
   {
     "BID": 6008799,
@@ -237,7 +237,22 @@
     "BAR": 6.39,
     "StylePlus": "131",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.4905327983684824633533007165"
+    "AdjustedRating": "2.4069784396326597551856423172"
+  },
+  {
+    "BID": 6010408,
+    "BeerName": "Gin Barrel-Aged Jäkel",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Lost Cause Meadery",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-368362_29b01.jpeg",
+    "HallRating": 30.61,
+    "BAR": 6.39,
+    "StylePlus": "124",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.4069760647454668968464134306"
   },
   {
     "BID": 24328,
@@ -250,9 +265,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LouPepeKriek_24328.jpeg",
     "HallRating": 30.45,
     "BAR": 18.80,
-    "StylePlus": "134",
+    "StylePlus": "132",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.5192596896970940832656600018"
+    "AdjustedRating": "2.4368881303702331720970257369"
+  },
+  {
+    "BID": 2018479,
+    "BeerName": "Light Blue Wax",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Barrel Culture Brewing And Blending",
+    "Origin": "Durham, NC United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-324287_1855a.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "128",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.4069818470161914969491661769"
   },
   {
     "BID": 4961446,
@@ -267,22 +297,22 @@
     "BAR": 6.51,
     "StylePlus": "125",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.4905394967015698877759212022"
+    "AdjustedRating": "2.4069853468412002465116880508"
   },
   {
-    "BID": 2018479,
-    "BeerName": "Light Blue Wax",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Barrel Culture Brewing And Blending",
-    "Origin": "Durham, NC United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-324287_1855a.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
-    "StylePlus": "127",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.4905359968765611382133993283"
+    "BID": 3000429,
+    "BeerName": "Haze Peach",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 30.32,
+    "BAR": 18.60,
+    "StylePlus": "125",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.434111355129246591246854899"
   },
   {
     "BID": 4815867,
@@ -295,9 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815867_2fb39_sm.jpeg",
     "HallRating": 30.23,
     "BAR": 6.61,
-    "StylePlus": "129",
+    "StylePlus": "128",
     "RatingScore": 4.81,
-    "AdjustedRating": "2.4905557944971938635924713935"
+    "AdjustedRating": "2.4070018535112329667932569893"
   },
   {
     "BID": 4631365,
@@ -312,7 +342,7 @@
     "BAR": 18.40,
     "StylePlus": "124",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.5143321462253563242869734907"
+    "AdjustedRating": "2.4317625891040216472976245809"
   },
   {
     "BID": 1670477,
@@ -327,7 +357,7 @@
     "BAR": 17.97,
     "StylePlus": "125",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.5100584501344605719084582517"
+    "AdjustedRating": "2.4273120714078527514008923788"
   },
   {
     "BID": 4014209,
@@ -342,36 +372,6 @@
     "BAR": 6.81,
     "StylePlus": "127",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.4905518669440556830685335576"
-  },
-  {
-    "BID": 8225,
-    "BeerName": "Cable Car Ale",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "The Lost Abbey",
-    "Origin": "San Marcos, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CableCar_8225.jpeg",
-    "HallRating": 29.86,
-    "BAR": 17.86,
-    "StylePlus": "126",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.509523955649309891183392613"
-  },
-  {
-    "BID": 4961097,
-    "BeerName": "No Sleep Means Insomnia",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 10.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3743582_397b1_sm.jpeg",
-    "HallRating": 29.85,
-    "BAR": 17.84,
-    "StylePlus": "124",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.5092187502367153492893832036"
+    "AdjustedRating": "2.4069983437037793392120089447"
   }
 ]

@@ -1,18 +1,33 @@
 [
   {
-    "BID": 3338741,
-    "BeerName": "Cool Down KAPOW!",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
+    "BID": 8225,
+    "BeerName": "Cable Car Ale",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "The Lost Abbey",
+    "Origin": "San Marcos, CA United States",
     "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3338741_547eb_sm.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "128",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CableCar_8225.jpeg",
+    "HallRating": 29.86,
+    "BAR": 17.86,
+    "StylePlus": "126",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.4905581901849938666383116995"
+    "AdjustedRating": "2.4267363804069535687984996039"
+  },
+  {
+    "BID": 4961097,
+    "BeerName": "No Sleep Means Insomnia",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Monkish Brewing Co.",
+    "Origin": "Torrance, CA United States",
+    "BeerAbv": 10.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3743582_397b1_sm.jpeg",
+    "HallRating": 29.85,
+    "BAR": 17.84,
+    "StylePlus": "124",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.4264262532658333480545094231"
   },
   {
     "BID": 3336981,
@@ -27,7 +42,37 @@
     "BAR": 6.90,
     "StylePlus": "128",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.4905569902569895468974961485"
+    "AdjustedRating": "2.4070036758879890271823826923"
+  },
+  {
+    "BID": 3338741,
+    "BeerName": "Cool Down KAPOW!",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3338741_547eb_sm.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "128",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.4070048758159933469231982434"
+  },
+  {
+    "BID": 1005596,
+    "BeerName": "SR-71",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1005596_e9208_sm.jpeg",
+    "HallRating": 29.73,
+    "BAR": 17.65,
+    "StylePlus": "125",
+    "RatingScore": 4.74,
+    "AdjustedRating": "2.4264540784694942117570198547"
   },
   {
     "BID": 4815863,
@@ -40,9 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815863_5137c_sm.jpeg",
     "HallRating": 29.66,
     "BAR": 6.99,
-    "StylePlus": "129",
+    "StylePlus": "128",
     "RatingScore": 4.82,
-    "AdjustedRating": "2.4905796124506268020951790496"
+    "AdjustedRating": "2.4070265069518578154105504758"
   },
   {
     "BID": 4941284,
@@ -55,9 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941284_53ef3_sm.jpeg",
     "HallRating": 29.54,
     "BAR": 7.07,
-    "StylePlus": "125",
+    "StylePlus": "124",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.4905776361300565125969911938"
+    "AdjustedRating": "2.4070247395004747756635955015"
   },
   {
     "BID": 11671,
@@ -72,7 +117,7 @@
     "BAR": 7.07,
     "StylePlus": "129",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.4905678867637653215244109115"
+    "AdjustedRating": "2.4070149901341835845910152193"
   },
   {
     "BID": 6011537,
@@ -87,7 +132,7 @@
     "BAR": 7.16,
     "StylePlus": "125",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.4905716850876615491157446855"
+    "AdjustedRating": "2.4070189973262227864859258353"
   },
   {
     "BID": 4878058,
@@ -102,7 +147,22 @@
     "BAR": 17.10,
     "StylePlus": "125",
     "RatingScore": 4.78,
-    "AdjustedRating": "2.5053613398834200223734840094"
+    "AdjustedRating": "2.4223477887449038748453410844"
+  },
+  {
+    "BID": 4962087,
+    "BeerName": "Mornin' Delight (2022)",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 12.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4962087_25e07_sm.jpeg",
+    "HallRating": 29.36,
+    "BAR": 17.01,
+    "StylePlus": "125",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.4201154680822835089997700849"
   },
   {
     "BID": 26769,
@@ -117,22 +177,22 @@
     "BAR": 17.02,
     "StylePlus": "128",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.503205375635195093341723534"
+    "AdjustedRating": "2.4201728515262523137472094315"
   },
   {
-    "BID": 4962087,
-    "BeerName": "Mornin' Delight (2022)",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 12.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4962087_25e07_sm.jpeg",
-    "HallRating": 29.36,
-    "BAR": 17.01,
-    "StylePlus": "124",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.5031502612790406151915274179"
+    "BID": 4940902,
+    "BeerName": "25 Jahre Red Kaos",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Kevin Brewery",
+    "Origin": "Zwickau, Sachsen Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940902_954f6_sm.jpeg",
+    "HallRating": 29.33,
+    "BAR": 7.24,
+    "StylePlus": "148",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.4070264042602440894377529925"
   },
   {
     "BID": 4011634,
@@ -147,7 +207,7 @@
     "BAR": 7.24,
     "StylePlus": "124",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.4905830828606047239396342239"
+    "AdjustedRating": "2.4070306039662646679972538275"
   },
   {
     "BID": 1672967,
@@ -162,22 +222,37 @@
     "BAR": 7.24,
     "StylePlus": "128",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.4905760833505704263404661656"
+    "AdjustedRating": "2.4070236044562303703980857692"
   },
   {
-    "BID": 4940902,
-    "BeerName": "25 Jahre Red Kaos",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Kevin Brewery",
-    "Origin": "Zwickau, Sachsen Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940902_954f6_sm.jpeg",
-    "HallRating": 29.33,
-    "BAR": 7.24,
-    "StylePlus": "150",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.4905788831545841453801333889"
+    "BID": 4003451,
+    "BeerName": "No Rules Vietnamese Porter (2020)",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Perrin Brewing Co.®",
+    "Origin": "Comstock Park, MI United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 56.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3737505_2f2f0_sm.jpeg",
+    "HallRating": 29.29,
+    "BAR": 16.90,
+    "StylePlus": "127",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.4193983996943730121810491508"
+  },
+  {
+    "BID": 4000077,
+    "BeerName": "Flora (w/ Blueberries, Black Currants & Raspberries)",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 29.24,
+    "BAR": 16.80,
+    "StylePlus": "126",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.4188631381689885794920753135"
   },
   {
     "BID": 3346915,
@@ -192,7 +267,22 @@
     "BAR": 16.69,
     "StylePlus": "125",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.5016417841616448102783444129"
+    "AdjustedRating": "2.4185359677640669619163789519"
+  },
+  {
+    "BID": 1004753,
+    "BeerName": "Brew 1000 (2014)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Fremont Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-684620_f55a3_sm.jpeg",
+    "HallRating": 29.16,
+    "BAR": 16.66,
+    "StylePlus": "127",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.4181416568279445238760380712"
   },
   {
     "BID": 3334736,
@@ -207,7 +297,7 @@
     "BAR": 16.59,
     "StylePlus": "125",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.5013313605865592573266414127"
+    "AdjustedRating": "2.4182046683680412523213351027"
   },
   {
     "BID": 1672225,
@@ -222,7 +312,7 @@
     "BAR": 16.43,
     "StylePlus": "125",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.5002807682675931602890147794"
+    "AdjustedRating": "2.4171238805750661745662948469"
   },
   {
     "BID": 1676537,
@@ -235,9 +325,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-288085_8694d.jpeg",
     "HallRating": 28.99,
     "BAR": 7.53,
-    "StylePlus": "125",
+    "StylePlus": "124",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.4905995757103481384192364593"
+    "AdjustedRating": "2.4070479322739603896928382082"
   },
   {
     "BID": 3345295,
@@ -252,7 +342,22 @@
     "BAR": 16.19,
     "StylePlus": "125",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.4994048770466005693038012792"
+    "AdjustedRating": "2.4162070042625747016292051041"
+  },
+  {
+    "BID": 2001167,
+    "BeerName": "The Monte",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2001167_cc33f_sm.jpeg",
+    "HallRating": 28.66,
+    "BAR": 15.70,
+    "StylePlus": "124",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.4146853683013234937792098094"
   },
   {
     "BID": 22081,
@@ -267,111 +372,6 @@
     "BAR": 15.52,
     "StylePlus": "126",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.4974217033226139734395729531"
-  },
-  {
-    "BID": 3346835,
-    "BeerName": "True Colors",
-    "BeerStyle": "Brown Ale - Imperial / Double",
-    "BreweryName": "Cushwa Brewing Co.",
-    "Origin": "Williamsport, MD United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3346835_095a3_sm.jpeg",
-    "HallRating": 28.56,
-    "BAR": 7.96,
-    "StylePlus": "127",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.4906387114020432670517724504"
-  },
-  {
-    "BID": 1673436,
-    "BeerName": "Vera Mae (2016)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-70157_d608a_sm.jpeg",
-    "HallRating": 28.53,
-    "BAR": 15.43,
-    "StylePlus": "131",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.4966560061377156222007088398"
-  },
-  {
-    "BID": 3347932,
-    "BeerName": "Mark Your Nutz",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Beaver Brewing Company",
-    "Origin": "Beaver Falls, PA United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BeaverBrewing_9096.jpeg",
-    "HallRating": 28.47,
-    "BAR": 8.06,
-    "StylePlus": "133",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.4906584311872082774218742561"
-  },
-  {
-    "BID": 6010670,
-    "BeerName": "The Statement Reserve (Batch 7)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
-    "HallRating": 28.47,
-    "BAR": 8.06,
-    "StylePlus": "125",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.4906553565023634740142235403"
-  },
-  {
-    "BID": 3348226,
-    "BeerName": "Barrel Aged Pastry Method",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Moksa Brewing Co",
-    "Origin": "Rocklin, CA United States",
-    "BeerAbv": 16.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3348226_0dc31_sm.jpeg",
-    "HallRating": 28.38,
-    "BAR": 15.10,
-    "StylePlus": "124",
-    "RatingScore": 4.69,
-    "AdjustedRating": "2.4961763570617957159837226043"
-  },
-  {
-    "BID": 3334659,
-    "BeerName": "Nutella Fluff Stout Milkshake",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Imprint Beer Co.",
-    "Origin": "Hatfield, PA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334659_40a7e_sm.jpeg",
-    "HallRating": 28.30,
-    "BAR": 8.27,
-    "StylePlus": "125",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.4906611992914846742444574968"
-  },
-  {
-    "BID": 4631290,
-    "BeerName": "A Deeper Understanding",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Forager Brewery",
-    "Origin": "Rochester, MN United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4631290_affb9_sm.jpeg",
-    "HallRating": 28.28,
-    "BAR": 14.89,
-    "StylePlus": "125",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.4952478718610553072772583166"
+    "AdjustedRating": "2.4141276262143771948732781603"
   }
 ]

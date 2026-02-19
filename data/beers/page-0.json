@@ -12,7 +12,22 @@
     "BAR": 27.30,
     "StylePlus": "126",
     "RatingScore": 4.52,
-    "AdjustedRating": "3.3411506541262190144746667431"
+    "AdjustedRating": "3.2926167897705935042105036652"
+  },
+  {
+    "BID": 4001285,
+    "BeerName": "Very Green",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-689944_ec619_sm.jpeg",
+    "HallRating": 34.47,
+    "BAR": 24.34,
+    "StylePlus": "125",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.7416364294472952508436902586"
   },
   {
     "BID": 1676061,
@@ -27,7 +42,7 @@
     "BAR": 24.32,
     "StylePlus": "125",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.8025910626478176959992475626"
+    "AdjustedRating": "2.7319480448152028461725222541"
   },
   {
     "BID": 4980636,
@@ -42,22 +57,37 @@
     "BAR": 23.81,
     "StylePlus": "126",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.7503643926272833024770388867"
+    "AdjustedRating": "2.6773516592104770533267626691"
   },
   {
-    "BID": 2016441,
-    "BeerName": "Noir de Watou Oak",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Bierstekers",
-    "Origin": "Brugge, Vlaams Gewest Belgium",
-    "BeerAbv": 9.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-302768_25799.jpeg",
+    "BID": 6008739,
+    "BeerName": "Fest Nut",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Full Fledged Brewing Co",
+    "Origin": "Council Bluffs, IA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-441449_fc25a.jpeg",
     "HallRating": 34.01,
     "BAR": 5.00,
-    "StylePlus": "131",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.4904850115511161883656008582"
+    "StylePlus": "132",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.4069325227954724197135207972"
+  },
+  {
+    "BID": 3347942,
+    "BeerName": "Froojee Raz Passion",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Imprint Beer Co.",
+    "Origin": "Hatfield, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3347942_8650d_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "128",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.406931272826721638483051559"
   },
   {
     "BID": 10140,
@@ -72,37 +102,37 @@
     "BAR": 5.00,
     "StylePlus": "125",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.490488761457368532057008573"
+    "AdjustedRating": "2.4069325227954724197135207972"
   },
   {
-    "BID": 3347942,
-    "BeerName": "Froojee Raz Passion",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Imprint Beer Co.",
-    "Origin": "Hatfield, PA United States",
-    "BeerAbv": 0.00,
+    "BID": 6001317,
+    "BeerName": "The Darkness of Sparrows",
+    "BeerStyle": "Farmhouse Ale - Other",
+    "BreweryName": "Amory’s Tomb Brewing Co.",
+    "Origin": "Maynard, MA United States",
+    "BeerAbv": 9.30,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3347942_8650d_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-45022_c80fc.jpeg",
     "HallRating": 34.01,
     "BAR": 5.00,
-    "StylePlus": "127",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.4904875114886177508265393348"
+    "StylePlus": "130",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.4069322728017222634674269496"
   },
   {
-    "BID": 6008739,
-    "BeerName": "Fest Nut",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Full Fledged Brewing Co",
-    "Origin": "Council Bluffs, IA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-441449_fc25a.jpeg",
+    "BID": 2016441,
+    "BeerName": "Noir de Watou Oak",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Bierstekers",
+    "Origin": "Brugge, Vlaams Gewest Belgium",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-302768_25799.jpeg",
     "HallRating": 34.01,
     "BAR": 5.00,
-    "StylePlus": "134",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.490488761457368532057008573"
+    "StylePlus": "131",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.4069287728892200760221130824"
   },
   {
     "BID": 28331,
@@ -117,22 +147,7 @@
     "BAR": 23.13,
     "StylePlus": "126",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.6959273617237954750670365657"
-  },
-  {
-    "BID": 6010307,
-    "BeerName": "BCC",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Second City Meadery",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-342043_1f7d1.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "133",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.490489835205936803008227272"
+    "AdjustedRating": "2.6203570093298534701006949295"
   },
   {
     "BID": 4959638,
@@ -147,7 +162,7 @@
     "BAR": 5.21,
     "StylePlus": "133",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.490489835205936803008227272"
+    "AdjustedRating": "2.4069338054288930119661845652"
   },
   {
     "BID": 1669755,
@@ -162,22 +177,7 @@
     "BAR": 5.21,
     "StylePlus": "130",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.4904906601832499268973203219"
-  },
-  {
-    "BID": 4980950,
-    "BeerName": "Ta-Ta And Farewell",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brood Meadery",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980950_8c32f_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "125",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.4904942350849401304167235384"
+    "AdjustedRating": "2.4069346304062061358552776151"
   },
   {
     "BID": 1673906,
@@ -190,24 +190,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1673906_55cd0_sm.jpeg",
     "HallRating": 33.37,
     "BAR": 5.21,
-    "StylePlus": "126",
+    "StylePlus": "127",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.4904917601530007587494443885"
+    "AdjustedRating": "2.4069357303759569677074016817"
   },
   {
-    "BID": 3342216,
-    "BeerName": "Teleport Massive Frozen Beer Slushie",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Mikerphone Brewing",
-    "Origin": "Elk Grove Village, IL United States",
-    "BeerAbv": 4.25,
+    "BID": 6010307,
+    "BeerName": "BCC",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Second City Meadery",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 13.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-13417_7ebc3.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-342043_1f7d1.jpeg",
     "HallRating": 33.37,
     "BAR": 5.21,
-    "StylePlus": "130",
+    "StylePlus": "133",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.490489835205936803008227272"
+    "AdjustedRating": "2.4069338054288930119661845652"
+  },
+  {
+    "BID": 4980950,
+    "BeerName": "Ta-Ta And Farewell",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brood Meadery",
+    "Origin": "Manchester, Greater Manchester England",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980950_8c32f_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "124",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.4069382053078963393746808315"
   },
   {
     "BID": 5817,
@@ -220,9 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5817_24ce1_sm.jpeg",
     "HallRating": 33.31,
     "BAR": 22.84,
-    "StylePlus": "124",
+    "StylePlus": "125",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.6628939424473951909685247852"
+    "AdjustedRating": "2.5864010702520372553412781278"
   },
   {
     "BID": 17663,
@@ -235,9 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_17663_sm_48376e0fc0fe1a34b0cac9a69d9e43.jpeg",
     "HallRating": 32.97,
     "BAR": 22.39,
-    "StylePlus": "131",
+    "StylePlus": "129",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.6313470823937553610280021286"
+    "AdjustedRating": "2.5536189478757518496605964472"
   },
   {
     "BID": 4013398,
@@ -250,9 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4013398_12857_sm.jpeg",
     "HallRating": 32.84,
     "BAR": 5.40,
-    "StylePlus": "125",
+    "StylePlus": "124",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.4904973087571422520027499158"
+    "AdjustedRating": "2.4069414878639063893323336652"
   },
   {
     "BID": 4015171,
@@ -265,9 +280,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4015171_820f5_sm.jpeg",
     "HallRating": 32.84,
     "BAR": 5.40,
-    "StylePlus": "127",
+    "StylePlus": "126",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.4904973087571422520027499158"
+    "AdjustedRating": "2.4069414878639063893323336652"
+  },
+  {
+    "BID": 4012177,
+    "BeerName": "Cashew Me Outside",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Township Meadery",
+    "Origin": "Odenton, MD United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-422662_4abc3.jpeg",
+    "HallRating": 32.38,
+    "BAR": 5.57,
+    "StylePlus": "124",
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.4069498952369471057430769852"
   },
   {
     "BID": 2015094,
@@ -282,22 +312,22 @@
     "BAR": 5.57,
     "StylePlus": "129",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.4905032323213545222483369273"
+    "AdjustedRating": "2.4069476203108822028524209316"
   },
   {
-    "BID": 4012177,
-    "BeerName": "Cashew Me Outside",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Township Meadery",
-    "Origin": "Odenton, MD United States",
-    "BeerAbv": 12.00,
+    "BID": 6007759,
+    "BeerName": "Funktastic Frootz: Nice Tats",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Funktastic Beer",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-422662_4abc3.jpeg",
-    "HallRating": 32.38,
-    "BAR": 5.57,
-    "StylePlus": "125",
-    "RatingScore": 4.69,
-    "AdjustedRating": "2.490505507247419425138992981"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6007759_d7d0f_sm.jpeg",
+    "HallRating": 31.99,
+    "BAR": 5.73,
+    "StylePlus": "128",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.4069510528216935472498598902"
   },
   {
     "BID": 4010873,
@@ -312,7 +342,7 @@
     "BAR": 5.73,
     "StylePlus": "125",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.4905096058402005592507362225"
+    "AdjustedRating": "2.406954202711447405864808367"
   },
   {
     "BID": 4013973,
@@ -327,22 +357,7 @@
     "BAR": 5.73,
     "StylePlus": "126",
     "RatingScore": 4.77,
-    "AdjustedRating": "2.4905138056932057040706675249"
-  },
-  {
-    "BID": 6007759,
-    "BeerName": "Funktastic Frootz: Nice Tats",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Funktastic Beer",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6007759_d7d0f_sm.jpeg",
-    "HallRating": 31.99,
-    "BAR": 5.73,
-    "StylePlus": "127",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.4905064559504467006357877457"
+    "AdjustedRating": "2.4069584025644525506847396694"
   },
   {
     "BID": 4010899,
@@ -357,21 +372,6 @@
     "BAR": 5.73,
     "StylePlus": "128",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.4905113557789527029257075985"
-  },
-  {
-    "BID": 3340599,
-    "BeerName": "Ice Lakes",
-    "BeerStyle": "Bock - Eisbock",
-    "BreweryName": "Burns Family Artisan Ales",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-403719_89619.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "129",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.4905101295465469707589065393"
+    "AdjustedRating": "2.406955952650199549539779743"
   }
 ]
