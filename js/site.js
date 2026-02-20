@@ -104,11 +104,32 @@
 
       function loadAllBeers() {
         if (allBeersCache) return Promise.resolve(allBeersCache);
-        return fetch(DATA + '/beers/all.json', { cache: 'no-store' })
-          .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load all beers')); })
-          .then(function (list) {
-            allBeersCache = list;
-            return list;
+        return fetch(DATA + '/beers/all-manifest.json', { cache: 'no-store' })
+          .then(function (r) {
+            if (r.ok) return r.json();
+            return null;
+          })
+          .then(function (manifest) {
+            if (manifest && typeof manifest.chunks === 'number' && manifest.chunks > 0) {
+              var fetches = [];
+              for (var c = 0; c < manifest.chunks; c++) {
+                (function (idx) {
+                  fetches.push(fetch(DATA + '/beers/all-' + idx + '.json', { cache: 'no-store' }).then(function (res) { return res.ok ? res.json() : Promise.reject(new Error('Failed to load chunk')); }));
+                })(c);
+              }
+              return Promise.all(fetches).then(function (chunks) {
+                var list = [];
+                for (var i = 0; i < chunks.length; i++) list = list.concat(chunks[i]);
+                allBeersCache = list;
+                return list;
+              });
+            }
+            return fetch(DATA + '/beers/all.json', { cache: 'no-store' })
+              .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load all beers')); })
+              .then(function (list) {
+                allBeersCache = list;
+                return list;
+              });
           });
       }
 
@@ -336,7 +357,7 @@
               updatePagination();
             })
             .catch(function () {
-              tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="error">Could not load beers. Run <code>npm run build:data</code> to generate data/beers/all.json.</td></tr>';
+              tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="error">Could not load beers. Export data from HallofTaps.Engine to generate data/beers/ (all-0.json, all-1.json, all-2.json, all-manifest.json).</td></tr>';
             });
         } else {
           filteredFullList = null;
