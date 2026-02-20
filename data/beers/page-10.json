@@ -15,21 +15,6 @@
     "AdjustedRating": "2.6309786964479180380281395858"
   },
   {
-    "BID": 1669471,
-    "BeerName": "Breaking Bud",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Knee Deep Brewing Company",
-    "Origin": "Auburn, CA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-929842_66b44_sm.jpeg",
-    "HallRating": 23.33,
-    "BAR": 16.66,
-    "StylePlus": "104",
-    "RatingScore": 3.89,
-    "AdjustedRating": "2.6562055880787913915920966196"
-  },
-  {
     "BID": 1671006,
     "BeerName": "Apocalypse IPA",
     "BeerStyle": "IPA - American",
@@ -43,6 +28,21 @@
     "StylePlus": "104",
     "RatingScore": 3.72,
     "AdjustedRating": "2.6220957633617548789167483437"
+  },
+  {
+    "BID": 1669471,
+    "BeerName": "Breaking Bud",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Knee Deep Brewing Company",
+    "Origin": "Auburn, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-929842_66b44_sm.jpeg",
+    "HallRating": 23.33,
+    "BAR": 16.66,
+    "StylePlus": "104",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.6562055880787913915920966196"
   },
   {
     "BID": 2013873,
@@ -75,36 +75,6 @@
     "AdjustedRating": "2.5930735439148274397188770995"
   },
   {
-    "BID": 423,
-    "BeerName": "Inversion IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Deschutes Brewery",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-423_42d04_sm.jpeg",
-    "HallRating": 23.29,
-    "BAR": 16.62,
-    "StylePlus": "104",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.5965733271847409790426008455"
-  },
-  {
-    "BID": 5406,
-    "BeerName": "Crooked Tree IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Dark Horse Brewing Co.",
-    "Origin": "Marshall, MI United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 46.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5406_a603a_sm.jpeg",
-    "HallRating": 23.29,
-    "BAR": 16.61,
-    "StylePlus": "104",
-    "RatingScore": 3.68,
-    "AdjustedRating": "2.6069105085733688425164570308"
-  },
-  {
     "BID": 3005910,
     "BeerName": "Tegernseer Hell",
     "BeerStyle": "Lager - Helles",
@@ -133,6 +103,36 @@
     "StylePlus": "117",
     "RatingScore": 3.61,
     "AdjustedRating": "2.5945072273163673551223305546"
+  },
+  {
+    "BID": 423,
+    "BeerName": "Inversion IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Deschutes Brewery",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-423_42d04_sm.jpeg",
+    "HallRating": 23.29,
+    "BAR": 16.62,
+    "StylePlus": "104",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.5965733271847409790426008455"
+  },
+  {
+    "BID": 5406,
+    "BeerName": "Crooked Tree IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Dark Horse Brewing Co.",
+    "Origin": "Marshall, MI United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 46.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5406_a603a_sm.jpeg",
+    "HallRating": 23.29,
+    "BAR": 16.61,
+    "StylePlus": "104",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.6069105085733688425164570308"
   },
   {
     "BID": 2010882,
@@ -180,21 +180,6 @@
     "AdjustedRating": "2.6309954027604043310851125659"
   },
   {
-    "BID": 6274,
-    "BeerName": "Total Domination",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Ninkasi Brewing Company",
-    "Origin": "Eugene, OR United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 81.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6274_531d0_sm.jpeg",
-    "HallRating": 23.25,
-    "BAR": 16.56,
-    "StylePlus": "104",
-    "RatingScore": 3.73,
-    "AdjustedRating": "2.609332986460599882758803229"
-  },
-  {
     "BID": 4039,
     "BeerName": "IPA",
     "BeerStyle": "IPA - American",
@@ -208,6 +193,21 @@
     "StylePlus": "104",
     "RatingScore": 3.62,
     "AdjustedRating": "2.5888638123846974277557859375"
+  },
+  {
+    "BID": 6274,
+    "BeerName": "Total Domination",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Ninkasi Brewing Company",
+    "Origin": "Eugene, OR United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 81.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6274_531d0_sm.jpeg",
+    "HallRating": 23.25,
+    "BAR": 16.56,
+    "StylePlus": "104",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.609332986460599882758803229"
   },
   {
     "BID": 1670585,
@@ -285,21 +285,6 @@
     "AdjustedRating": "2.6460966613286886386704583361"
   },
   {
-    "BID": 11563,
-    "BeerName": "Hoppyum IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Foothills Brewing",
-    "Origin": "Winston-Salem, NC United States",
-    "BeerAbv": 6.25,
-    "BeerIbu": 78.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11563_c38ca_sm.jpeg",
-    "HallRating": 23.20,
-    "BAR": 16.49,
-    "StylePlus": "104",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.6016053273568821938281696387"
-  },
-  {
     "BID": 3344502,
     "BeerName": "Bumble Berry Honey Blueberry Ale",
     "BeerStyle": "Fruit Beer",
@@ -315,19 +300,19 @@
     "AdjustedRating": "2.5941121667767962688740142022"
   },
   {
-    "BID": 1675203,
-    "BeerName": "Brutal IPA",
+    "BID": 11563,
+    "BeerName": "Hoppyum IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Rogue Ales",
-    "Origin": "Newport, OR United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 46.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-515064_80a73_sm.jpeg",
-    "HallRating": 23.19,
+    "BreweryName": "Foothills Brewing",
+    "Origin": "Winston-Salem, NC United States",
+    "BeerAbv": 6.25,
+    "BeerIbu": 78.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11563_c38ca_sm.jpeg",
+    "HallRating": 23.20,
     "BAR": 16.49,
     "StylePlus": "104",
-    "RatingScore": 3.68,
-    "AdjustedRating": "2.5904057643780382097768119091"
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.6016053273568821938281696387"
   },
   {
     "BID": 18222,
@@ -343,6 +328,21 @@
     "StylePlus": "104",
     "RatingScore": 3.58,
     "AdjustedRating": "2.5722841938900073543704263106"
+  },
+  {
+    "BID": 1675203,
+    "BeerName": "Brutal IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 46.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-515064_80a73_sm.jpeg",
+    "HallRating": 23.19,
+    "BAR": 16.49,
+    "StylePlus": "104",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.5904057643780382097768119091"
   },
   {
     "BID": 2013438,

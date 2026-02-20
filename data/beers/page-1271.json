@@ -30,21 +30,6 @@
     "AdjustedRating": "2.4117214132101918752000161989"
   },
   {
-    "BID": 1674936,
-    "BeerName": "König Pilsener",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "König Brauerei",
-    "Origin": "Duisburg, Nordrhein-Westfalen Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 32.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7521_f882f_sm.jpeg",
-    "HallRating": 11.76,
-    "BAR": 8.45,
-    "StylePlus": "88",
-    "RatingScore": 3.13,
-    "AdjustedRating": "2.5261531904012112608595916012"
-  },
-  {
     "BID": 3345411,
     "BeerName": "Sam ’76",
     "BeerStyle": "Lager - American Light",
@@ -60,21 +45,6 @@
     "AdjustedRating": "2.6007337128909616220317843557"
   },
   {
-    "BID": 2012498,
-    "BeerName": "Fruitesse",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Brouwerij Liefmans",
-    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
-    "BeerAbv": 3.80,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9085_4cbf4_sm.jpeg",
-    "HallRating": 11.76,
-    "BAR": 8.45,
-    "StylePlus": "84",
-    "RatingScore": 3.38,
-    "AdjustedRating": "2.5824295566574655221056227888"
-  },
-  {
     "BID": 5440,
     "BeerName": "Moosehead Canadian Lager",
     "BeerStyle": "Lager - American",
@@ -88,6 +58,36 @@
     "StylePlus": "88",
     "RatingScore": 3.18,
     "AdjustedRating": "2.5377403315699112168953163274"
+  },
+  {
+    "BID": 1674936,
+    "BeerName": "König Pilsener",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "König Brauerei",
+    "Origin": "Duisburg, Nordrhein-Westfalen Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7521_f882f_sm.jpeg",
+    "HallRating": 11.76,
+    "BAR": 8.45,
+    "StylePlus": "88",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.5261531904012112608595916012"
+  },
+  {
+    "BID": 2012498,
+    "BeerName": "Fruitesse",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Brouwerij Liefmans",
+    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
+    "BeerAbv": 3.80,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9085_4cbf4_sm.jpeg",
+    "HallRating": 11.76,
+    "BAR": 8.45,
+    "StylePlus": "84",
+    "RatingScore": 3.38,
+    "AdjustedRating": "2.5824295566574655221056227888"
   },
   {
     "BID": 4445514,
@@ -135,21 +135,6 @@
     "AdjustedRating": "2.5540569669162693381178215592"
   },
   {
-    "BID": 1000207,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Brand Bierbrouwerij",
-    "Origin": "Wijlre, Limburg Netherlands",
-    "BeerAbv": 7.00,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-938406_a9838_sm.jpeg",
-    "HallRating": 11.73,
-    "BAR": 8.41,
-    "StylePlus": "78",
-    "RatingScore": 3.37,
-    "AdjustedRating": "2.5716253500740012539497131631"
-  },
-  {
     "BID": 6010082,
     "BeerName": "The Stonewall Inn IPA",
     "BeerStyle": "IPA - Session",
@@ -180,19 +165,34 @@
     "AdjustedRating": "2.4914373087216598047063021332"
   },
   {
-    "BID": 5600178,
-    "BeerName": "Midway IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 4.10,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2036410_1be3d_sm.jpeg",
+    "BID": 1000207,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Brand Bierbrouwerij",
+    "Origin": "Wijlre, Limburg Netherlands",
+    "BeerAbv": 7.00,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-938406_a9838_sm.jpeg",
+    "HallRating": 11.73,
+    "BAR": 8.41,
+    "StylePlus": "78",
+    "RatingScore": 3.37,
+    "AdjustedRating": "2.5716253500740012539497131631"
+  },
+  {
+    "BID": 1673705,
+    "BeerName": "Alhambra Reserva 1925",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Grupo Cervezas Alhambra",
+    "Origin": "Granada, Andalucía Spain",
+    "BeerAbv": 6.40,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14519_498fb_sm.jpeg",
     "HallRating": 11.72,
-    "BAR": 8.39,
-    "StylePlus": "81",
-    "RatingScore": 3.43,
-    "AdjustedRating": "2.5803153805341297451442993873"
+    "BAR": 8.40,
+    "StylePlus": "106",
+    "RatingScore": 3.36,
+    "AdjustedRating": "2.5668060275129461769392571545"
   },
   {
     "BID": 5173,
@@ -210,6 +210,21 @@
     "AdjustedRating": "2.5922076864958691474160387577"
   },
   {
+    "BID": 5600178,
+    "BeerName": "Midway IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2036410_1be3d_sm.jpeg",
+    "HallRating": 11.72,
+    "BAR": 8.39,
+    "StylePlus": "81",
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.5803153805341297451442993873"
+  },
+  {
     "BID": 3337626,
     "BeerName": "Solid Gold",
     "BeerStyle": "Lager - American",
@@ -223,21 +238,6 @@
     "StylePlus": "88",
     "RatingScore": 3.43,
     "AdjustedRating": "2.5827960414068551677474324579"
-  },
-  {
-    "BID": 1673705,
-    "BeerName": "Alhambra Reserva 1925",
-    "BeerStyle": "Malt Liquor",
-    "BreweryName": "Grupo Cervezas Alhambra",
-    "Origin": "Granada, Andalucía Spain",
-    "BeerAbv": 6.40,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14519_498fb_sm.jpeg",
-    "HallRating": 11.72,
-    "BAR": 8.40,
-    "StylePlus": "106",
-    "RatingScore": 3.36,
-    "AdjustedRating": "2.5668060275129461769392571545"
   },
   {
     "BID": 13276,
@@ -315,21 +315,6 @@
     "AdjustedRating": "2.482104727051904411483312707"
   },
   {
-    "BID": 8955,
-    "BeerName": "Bia Saigon Export Premium",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Sabeco",
-    "Origin": "Ho Chi Minh City, Thành phố Hồ Chí Minh Vietnam",
-    "BeerAbv": 4.80,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8955_04f36_sm.jpeg",
-    "HallRating": 11.65,
-    "BAR": 8.31,
-    "StylePlus": "97",
-    "RatingScore": 2.89,
-    "AdjustedRating": "2.4548783948254973082013087676"
-  },
-  {
     "BID": 6578,
     "BeerName": "Berliner Pilsner",
     "BeerStyle": "Pilsner - German",
@@ -343,6 +328,21 @@
     "StylePlus": "88",
     "RatingScore": 3.07,
     "AdjustedRating": "2.4897920589674255189588888113"
+  },
+  {
+    "BID": 8955,
+    "BeerName": "Bia Saigon Export Premium",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Sabeco",
+    "Origin": "Ho Chi Minh City, Thành phố Hồ Chí Minh Vietnam",
+    "BeerAbv": 4.80,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8955_04f36_sm.jpeg",
+    "HallRating": 11.65,
+    "BAR": 8.31,
+    "StylePlus": "97",
+    "RatingScore": 2.89,
+    "AdjustedRating": "2.4548783948254973082013087676"
   },
   {
     "BID": 13330,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.4708901039937437282119147053"
   },
   {
-    "BID": 17852,
-    "BeerName": "Swinckels' Superior Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Royal Swinkels",
-    "Origin": "Lieshout, Noord-Brabant Netherlands",
-    "BeerAbv": 5.30,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3792447_70946_sm.jpeg",
+    "BID": 5944,
+    "BeerName": "Leffe Ruby",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5944_31099_sm.jpeg",
     "HallRating": 11.62,
     "BAR": 8.28,
-    "StylePlus": "87",
-    "RatingScore": 3.23,
-    "AdjustedRating": "2.5148624692636985272476313803"
+    "StylePlus": "84",
+    "RatingScore": 3.20,
+    "AdjustedRating": "2.5094583817372586879135179812"
   }
 ]
