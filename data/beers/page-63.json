@@ -1,18 +1,18 @@
 [
   {
-    "BID": 1667503,
-    "BeerName": "Resinate IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "CraftHaus Brewery",
-    "Origin": "Henderson, NV United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 58.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-345505_6dbdc_sm.jpeg",
+    "BID": 6008760,
+    "BeerName": "Oaktoberfest",
+    "BeerStyle": "Festbier",
+    "BreweryName": "Live Oak Brewing Company",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-466151_27fb8_sm.jpeg",
     "HallRating": 20.81,
     "BAR": 13.30,
-    "StylePlus": "104",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.3794127409286305962619290152"
+    "StylePlus": "105",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.3816872262196405731526223764"
   },
   {
     "BID": 4816262,
@@ -75,6 +75,21 @@
     "AdjustedRating": "2.3777628205756836984523044417"
   },
   {
+    "BID": 12131,
+    "BeerName": "Stewart's 80/-",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Stewart Brewing",
+    "Origin": "Loanhead, Midlothian Scotland",
+    "BeerAbv": 4.40,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12131_2f4f3_sm.jpeg",
+    "HallRating": 20.77,
+    "BAR": 13.24,
+    "StylePlus": "109",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.3765464850854543139530295897"
+  },
+  {
     "BID": 2007675,
     "BeerName": "Mango Cider",
     "BeerStyle": "Cider - Other Fruit",
@@ -103,21 +118,6 @@
     "StylePlus": "104",
     "RatingScore": 3.62,
     "AdjustedRating": "2.3781460037286534791462502942"
-  },
-  {
-    "BID": 12131,
-    "BeerName": "Stewart's 80/-",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "Stewart Brewing",
-    "Origin": "Loanhead, Midlothian Scotland",
-    "BeerAbv": 4.40,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12131_2f4f3_sm.jpeg",
-    "HallRating": 20.77,
-    "BAR": 13.24,
-    "StylePlus": "109",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.3765464850854543139530295897"
   },
   {
     "BID": 1673812,
@@ -150,21 +150,6 @@
     "AdjustedRating": "2.3788078983503702176590938341"
   },
   {
-    "BID": 17950,
-    "BeerName": "Calafate Ale",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Cervecería Austral",
-    "Origin": "Punta Arenas, Magallanes y la Antártica Chilena Chile",
-    "BeerAbv": 5.00,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17950_1b4f2_sm.jpeg",
-    "HallRating": 20.77,
-    "BAR": 13.24,
-    "StylePlus": "112",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.3766324729542176232934368401"
-  },
-  {
     "BID": 4005738,
     "BeerName": "Oktoberfest",
     "BeerStyle": "Festbier",
@@ -180,19 +165,19 @@
     "AdjustedRating": "2.3787799500979655833620280471"
   },
   {
-    "BID": 801068,
-    "BeerName": "Bobber Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Logboat Brewing Company",
-    "Origin": "Columbia, MO United States",
+    "BID": 17950,
+    "BeerName": "Calafate Ale",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Cervecería Austral",
+    "Origin": "Punta Arenas, Magallanes y la Antártica Chilena Chile",
     "BeerAbv": 5.00,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-729241_646b7_sm.jpeg",
-    "HallRating": 20.76,
-    "BAR": 13.22,
-    "StylePlus": "130",
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17950_1b4f2_sm.jpeg",
+    "HallRating": 20.77,
+    "BAR": 13.24,
+    "StylePlus": "112",
     "RatingScore": 3.55,
-    "AdjustedRating": "2.3761880666013498044251506528"
+    "AdjustedRating": "2.3766324729542176232934368401"
   },
   {
     "BID": 1075,
@@ -208,6 +193,21 @@
     "StylePlus": "104",
     "RatingScore": 3.60,
     "AdjustedRating": "2.3773895235489507035963447916"
+  },
+  {
+    "BID": 801068,
+    "BeerName": "Bobber Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Logboat Brewing Company",
+    "Origin": "Columbia, MO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-729241_646b7_sm.jpeg",
+    "HallRating": 20.76,
+    "BAR": 13.22,
+    "StylePlus": "130",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.3761880666013498044251506528"
   },
   {
     "BID": 1010244,
@@ -255,21 +255,6 @@
     "AdjustedRating": "2.3797074850516220587403952498"
   },
   {
-    "BID": 1200595,
-    "BeerName": "GPA",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "3 Nations Brewing",
-    "Origin": "Carrollton, TX United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 52.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1103885_ba0a6_sm.jpeg",
-    "HallRating": 20.74,
-    "BAR": 13.19,
-    "StylePlus": "113",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.3777188736112940213051100243"
-  },
-  {
     "BID": 6393,
     "BeerName": "Rogue Farms Dirtoir Black Lager",
     "BeerStyle": "Lager - Dark",
@@ -285,19 +270,19 @@
     "AdjustedRating": "2.3802719947897608835897301486"
   },
   {
-    "BID": 400160,
-    "BeerName": "Ginger Peach Cider",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Vander Mill",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-vandermill_8388.jpeg",
-    "HallRating": 20.73,
+    "BID": 1200595,
+    "BeerName": "GPA",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "3 Nations Brewing",
+    "Origin": "Carrollton, TX United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 52.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1103885_ba0a6_sm.jpeg",
+    "HallRating": 20.74,
     "BAR": 13.19,
-    "StylePlus": "107",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.3756227544124253842111713218"
+    "StylePlus": "113",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.3777188736112940213051100243"
   },
   {
     "BID": 3601354,
@@ -330,6 +315,21 @@
     "AdjustedRating": "2.3781545183195625628933687094"
   },
   {
+    "BID": 400160,
+    "BeerName": "Ginger Peach Cider",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Vander Mill",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-vandermill_8388.jpeg",
+    "HallRating": 20.73,
+    "BAR": 13.19,
+    "StylePlus": "107",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.3756227544124253842111713218"
+  },
+  {
     "BID": 3340647,
     "BeerName": "Summer Ale",
     "BeerStyle": "Blonde / Golden Ale - Other",
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.3761834839612302810693486283"
   },
   {
-    "BID": 4008293,
-    "BeerName": "Lux",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Dugges Bryggeri",
-    "Origin": "Landvetter, Västra Götalands län Sweden",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4008293_4ab17_sm.jpeg",
+    "BID": 2007437,
+    "BeerName": "Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Altstadt Brewery",
+    "Origin": "Fredericksburg, TX United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2007437_68bc1_sm.jpeg",
     "HallRating": 20.72,
     "BAR": 13.17,
-    "StylePlus": "104",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.3760744519310219597058958318"
+    "StylePlus": "117",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.3766426726439610987499135078"
   }
 ]

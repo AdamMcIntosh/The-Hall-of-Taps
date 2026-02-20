@@ -1,18 +1,18 @@
 [
   {
-    "BID": 9254,
-    "BeerName": "Lagerbier Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Augustiner-Bräu München",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.20,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9254_014d1_sm.jpeg",
+    "BID": 7053,
+    "BeerName": "Atlanta’s OG IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "SweetWater Brewing Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7053_45c8c_sm.jpeg",
     "HallRating": 24.06,
-    "BAR": 17.56,
-    "StylePlus": "117",
-    "RatingScore": 3.65,
-    "AdjustedRating": "2.7609206847287166832306447951"
+    "BAR": 17.57,
+    "StylePlus": "104",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.7686631020465162276283008326"
   },
   {
     "BID": 1201106,
@@ -30,19 +30,19 @@
     "AdjustedRating": "2.7895989813933749620552593104"
   },
   {
-    "BID": 7053,
-    "BeerName": "Atlanta’s OG IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "SweetWater Brewing Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7053_45c8c_sm.jpeg",
+    "BID": 9254,
+    "BeerName": "Lagerbier Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Augustiner-Bräu München",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.20,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9254_014d1_sm.jpeg",
     "HallRating": 24.06,
-    "BAR": 17.57,
-    "StylePlus": "104",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.7686631020465162276283008326"
+    "BAR": 17.56,
+    "StylePlus": "117",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.7609206847287166832306447951"
   },
   {
     "BID": 6012952,
@@ -75,21 +75,6 @@
     "AdjustedRating": "2.7338847311139376168082010506"
   },
   {
-    "BID": 3344159,
-    "BeerName": "Schöfferhofer Grapefruit",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Radeberger Gruppe",
-    "Origin": "Frankfurt am Main, Hessen Germany",
-    "BeerAbv": 2.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-SchofferhoferGrapefruit_21857.jpeg",
-    "HallRating": 24.02,
-    "BAR": 17.52,
-    "StylePlus": "118",
-    "RatingScore": 3.58,
-    "AdjustedRating": "2.7308759555077329860322791764"
-  },
-  {
     "BID": 1200044,
     "BeerName": "Loose Cannon",
     "BeerStyle": "IPA - American",
@@ -105,6 +90,21 @@
     "AdjustedRating": "2.7647475685167309287068550178"
   },
   {
+    "BID": 3344159,
+    "BeerName": "Schöfferhofer Grapefruit",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Radeberger Gruppe",
+    "Origin": "Frankfurt am Main, Hessen Germany",
+    "BeerAbv": 2.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-SchofferhoferGrapefruit_21857.jpeg",
+    "HallRating": 24.02,
+    "BAR": 17.52,
+    "StylePlus": "118",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.7308759555077329860322791764"
+  },
+  {
     "BID": 3008602,
     "BeerName": "Mooie Nel IPA / Northsea IPA",
     "BeerStyle": "IPA - American",
@@ -118,6 +118,21 @@
     "StylePlus": "104",
     "RatingScore": 3.58,
     "AdjustedRating": "2.7287944273261819164897504001"
+  },
+  {
+    "BID": 5012459,
+    "BeerName": "Focal Banger",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "The Alchemist",
+    "Origin": "Stowe, VT United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 90.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-45458_e3a3c_sm.jpeg",
+    "HallRating": 24.00,
+    "BAR": 17.49,
+    "StylePlus": "104",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.9734032991594642395775428412"
   },
   {
     "BID": 1012431,
@@ -150,21 +165,6 @@
     "AdjustedRating": "2.7783579391754302735950709152"
   },
   {
-    "BID": 5012459,
-    "BeerName": "Focal Banger",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "The Alchemist",
-    "Origin": "Stowe, VT United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 90.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-45458_e3a3c_sm.jpeg",
-    "HallRating": 24.00,
-    "BAR": 17.49,
-    "StylePlus": "104",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.9734032991594642395775428412"
-  },
-  {
     "BID": 4980757,
     "BeerName": "Sour Monkey",
     "BeerStyle": "Sour - Other",
@@ -195,21 +195,6 @@
     "AdjustedRating": "2.7236146720851247417430364725"
   },
   {
-    "BID": 2018305,
-    "BeerName": "Furious",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Surly Brewing Company",
-    "Origin": "Minneapolis, MN United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 100.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7808_69b64_sm.jpeg",
-    "HallRating": 23.92,
-    "BAR": 17.40,
-    "StylePlus": "104",
-    "RatingScore": 3.85,
-    "AdjustedRating": "2.7881791145978992816215435305"
-  },
-  {
     "BID": 24589,
     "BeerName": "Castaway IPA",
     "BeerStyle": "IPA - American",
@@ -223,6 +208,21 @@
     "StylePlus": "104",
     "RatingScore": 3.54,
     "AdjustedRating": "2.6966975708711545704997187615"
+  },
+  {
+    "BID": 2018305,
+    "BeerName": "Furious",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Surly Brewing Company",
+    "Origin": "Minneapolis, MN United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 100.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7808_69b64_sm.jpeg",
+    "HallRating": 23.92,
+    "BAR": 17.40,
+    "StylePlus": "104",
+    "RatingScore": 3.85,
+    "AdjustedRating": "2.7881791145978992816215435305"
   },
   {
     "BID": 401388,
@@ -270,21 +270,6 @@
     "AdjustedRating": "2.6866115627831111994674906609"
   },
   {
-    "BID": 1010546,
-    "BeerName": "Azacca IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1005604_c864e_sm.jpeg",
-    "HallRating": 23.72,
-    "BAR": 17.14,
-    "StylePlus": "104",
-    "RatingScore": 3.73,
-    "AdjustedRating": "2.7048414371554343511906129271"
-  },
-  {
     "BID": 4041,
     "BeerName": "Blind Pig IPA",
     "BeerStyle": "IPA - American",
@@ -298,6 +283,21 @@
     "StylePlus": "104",
     "RatingScore": 4.15,
     "AdjustedRating": "2.813251688041659745356463543"
+  },
+  {
+    "BID": 1010546,
+    "BeerName": "Azacca IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1005604_c864e_sm.jpeg",
+    "HallRating": 23.72,
+    "BAR": 17.14,
+    "StylePlus": "104",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.7048414371554343511906129271"
   },
   {
     "BID": 7705,
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.7529068178829647971503231719"
   },
   {
-    "BID": 28,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Odell Brewing Co.",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-28_f18ab_sm.jpeg",
-    "HallRating": 23.63,
-    "BAR": 17.04,
-    "StylePlus": "104",
-    "RatingScore": 3.84,
-    "AdjustedRating": "2.7136514838943918626040258918"
-  },
-  {
     "BID": 5956,
     "BeerName": "Finestkind IPA",
     "BeerStyle": "IPA - American",
@@ -373,5 +358,20 @@
     "StylePlus": "104",
     "RatingScore": 3.64,
     "AdjustedRating": "2.6630326716382323123917178205"
+  },
+  {
+    "BID": 28,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Odell Brewing Co.",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-28_f18ab_sm.jpeg",
+    "HallRating": 23.63,
+    "BAR": 17.04,
+    "StylePlus": "104",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.7136514838943918626040258918"
   }
 ]

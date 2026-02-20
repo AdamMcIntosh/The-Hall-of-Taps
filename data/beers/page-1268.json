@@ -270,21 +270,6 @@
     "AdjustedRating": "2.8172595961126410564424314023"
   },
   {
-    "BID": 6005495,
-    "BeerName": "Bitburger Premium Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Bitburger Brauerei",
-    "Origin": "Bitburg, Rheinland-Pfalz Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17252_fc89f_sm.jpeg",
-    "HallRating": 12.34,
-    "BAR": 9.16,
-    "StylePlus": "88",
-    "RatingScore": 3.20,
-    "AdjustedRating": "2.7227386001138579841214983191"
-  },
-  {
     "BID": 1201624,
     "BeerName": "Grolsch Premium Lager",
     "BeerStyle": "Pilsner - Other",
@@ -298,6 +283,21 @@
     "StylePlus": "87",
     "RatingScore": 3.26,
     "AdjustedRating": "2.7464212148055682298715691965"
+  },
+  {
+    "BID": 6005495,
+    "BeerName": "Bitburger Premium Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Bitburger Brauerei",
+    "Origin": "Bitburg, Rheinland-Pfalz Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17252_fc89f_sm.jpeg",
+    "HallRating": 12.34,
+    "BAR": 9.16,
+    "StylePlus": "88",
+    "RatingScore": 3.20,
+    "AdjustedRating": "2.7227386001138579841214983191"
   },
   {
     "BID": 6344,
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.6522565190317729337916112725"
   },
   {
-    "BID": 6003781,
-    "BeerName": "Beck's",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Brauerei Beck",
-    "Origin": "Neustadt, Bremen Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6870_b6a22_sm.jpeg",
-    "HallRating": 12.22,
-    "BAR": 9.01,
-    "StylePlus": "88",
-    "RatingScore": 2.96,
-    "AdjustedRating": "2.5868914482899543702971225565"
-  },
-  {
     "BID": 2019935,
     "BeerName": "Brooklyn East IPA",
     "BeerStyle": "IPA - American",
@@ -373,5 +358,20 @@
     "StylePlus": "78",
     "RatingScore": 3.49,
     "AdjustedRating": "2.7954014788938308221897900116"
+  },
+  {
+    "BID": 6003781,
+    "BeerName": "Beck's",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Brauerei Beck",
+    "Origin": "Neustadt, Bremen Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6870_b6a22_sm.jpeg",
+    "HallRating": 12.22,
+    "BAR": 9.01,
+    "StylePlus": "88",
+    "RatingScore": 2.96,
+    "AdjustedRating": "2.5868914482899543702971225565"
   }
 ]

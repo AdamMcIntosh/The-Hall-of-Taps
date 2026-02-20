@@ -1,20 +1,5 @@
 [
   {
-    "BID": 3008374,
-    "BeerName": "Éphémère Pomme (Apple)",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Unibroue",
-    "Origin": "Chambly, QC Canada",
-    "BeerAbv": 5.50,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_7243_sm_b389b0890b1944b57a35dd08410269.jpeg",
-    "HallRating": 22.38,
-    "BAR": 15.45,
-    "StylePlus": "112",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.4652443071816033683740324273"
-  },
-  {
     "BID": 2003767,
     "BeerName": "Frootwood",
     "BeerStyle": "Fruit Beer",
@@ -30,19 +15,19 @@
     "AdjustedRating": "2.4879844900448464939766946715"
   },
   {
-    "BID": 17655,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Good People Brewing Company",
-    "Origin": "Birmingham, AL United States",
-    "BeerAbv": 7.10,
-    "BeerIbu": 76.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17655_de5ca_sm.jpeg",
-    "HallRating": 22.37,
-    "BAR": 15.44,
-    "StylePlus": "104",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.4801167279771423359540463348"
+    "BID": 3008374,
+    "BeerName": "Éphémère Pomme (Apple)",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Unibroue",
+    "Origin": "Chambly, QC Canada",
+    "BeerAbv": 5.50,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_7243_sm_b389b0890b1944b57a35dd08410269.jpeg",
+    "HallRating": 22.38,
+    "BAR": 15.45,
+    "StylePlus": "112",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.4652443071816033683740324273"
   },
   {
     "BID": 1671956,
@@ -75,19 +60,19 @@
     "AdjustedRating": "2.4646871290647976435923971217"
   },
   {
-    "BID": 6014652,
-    "BeerName": "Bodem",
+    "BID": 17655,
+    "BeerName": "IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Half Acre Beer Company",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3195565_14f42_sm.jpeg",
-    "HallRating": 22.35,
-    "BAR": 15.42,
+    "BreweryName": "Good People Brewing Company",
+    "Origin": "Birmingham, AL United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 76.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17655_de5ca_sm.jpeg",
+    "HallRating": 22.37,
+    "BAR": 15.44,
     "StylePlus": "104",
-    "RatingScore": 3.90,
-    "AdjustedRating": "2.4970147962784866139999765465"
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.4801167279771423359540463348"
   },
   {
     "BID": 6565,
@@ -120,6 +105,21 @@
     "AdjustedRating": "2.4687574050186050272234784214"
   },
   {
+    "BID": 6014652,
+    "BeerName": "Bodem",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Half Acre Beer Company",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3195565_14f42_sm.jpeg",
+    "HallRating": 22.35,
+    "BAR": 15.42,
+    "StylePlus": "104",
+    "RatingScore": 3.90,
+    "AdjustedRating": "2.4970147962784866139999765465"
+  },
+  {
     "BID": 23958,
     "BeerName": "Pure Brewed Organic Lager Beer",
     "BeerStyle": "Lager - Pale",
@@ -148,6 +148,21 @@
     "StylePlus": "104",
     "RatingScore": 3.62,
     "AdjustedRating": "2.4679210908770406471569163376"
+  },
+  {
+    "BID": 5737,
+    "BeerName": "(512) IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "(512) Brewing Company",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5737_3a07e_sm.jpeg",
+    "HallRating": 22.31,
+    "BAR": 15.36,
+    "StylePlus": "104",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.4742746931959907825765539759"
   },
   {
     "BID": 2003645,
@@ -180,19 +195,19 @@
     "AdjustedRating": "2.4812756003585069190958051506"
   },
   {
-    "BID": 5737,
-    "BeerName": "(512) IPA",
+    "BID": 1670572,
+    "BeerName": "County Line IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "(512) Brewing Company",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": 7.00,
+    "BreweryName": "Neshaminy Creek Brewing Company",
+    "Origin": "Croydon, PA United States",
+    "BeerAbv": 6.60,
     "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5737_3a07e_sm.jpeg",
-    "HallRating": 22.31,
-    "BAR": 15.36,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-125945_4c55c_sm.jpeg",
+    "HallRating": 22.29,
+    "BAR": 15.33,
     "StylePlus": "104",
-    "RatingScore": 3.71,
-    "AdjustedRating": "2.4742746931959907825765539759"
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.4655091131196296323347927026"
   },
   {
     "BID": 12772,
@@ -208,36 +223,6 @@
     "StylePlus": "115",
     "RatingScore": 3.51,
     "AdjustedRating": "2.4537529573351588841387003962"
-  },
-  {
-    "BID": 4006959,
-    "BeerName": "Light Hearted IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Bell’s Brewery",
-    "Origin": "Comstock, MI United States",
-    "BeerAbv": 3.70,
-    "BeerIbu": 36.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3159550_4b4bf_sm.jpeg",
-    "HallRating": 22.29,
-    "BAR": 15.33,
-    "StylePlus": "108",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.4567270884561830534715142367"
-  },
-  {
-    "BID": 1670572,
-    "BeerName": "County Line IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Neshaminy Creek Brewing Company",
-    "Origin": "Croydon, PA United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-125945_4c55c_sm.jpeg",
-    "HallRating": 22.29,
-    "BAR": 15.33,
-    "StylePlus": "104",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.4655091131196296323347927026"
   },
   {
     "BID": 401441,
@@ -270,34 +255,19 @@
     "AdjustedRating": "2.477498078895562723931451274"
   },
   {
-    "BID": 18721,
-    "BeerName": "F5 IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "COOP Ale Works",
-    "Origin": "Oklahoma City, OK United States",
-    "BeerAbv": 7.10,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18721_39d2c_sm.jpeg",
-    "HallRating": 22.28,
-    "BAR": 15.32,
-    "StylePlus": "104",
-    "RatingScore": 3.77,
-    "AdjustedRating": "2.4766834162940301437891197868"
-  },
-  {
-    "BID": 16774,
-    "BeerName": "Weihenstephaner Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Bayerische Staatsbrauerei Weihenstephan",
-    "Origin": "Freising, Bayern Germany",
-    "BeerAbv": 5.10,
-    "BeerIbu": 32.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16774_e3aa4_sm.jpeg",
-    "HallRating": 22.28,
-    "BAR": 15.32,
-    "StylePlus": "118",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.4587065701844785489114809673"
+    "BID": 4006959,
+    "BeerName": "Light Hearted IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Bell’s Brewery",
+    "Origin": "Comstock, MI United States",
+    "BeerAbv": 3.70,
+    "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3159550_4b4bf_sm.jpeg",
+    "HallRating": 22.29,
+    "BAR": 15.33,
+    "StylePlus": "108",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.4567270884561830534715142367"
   },
   {
     "BID": 7322,
@@ -315,19 +285,34 @@
     "AdjustedRating": "2.4685940121154535520160092775"
   },
   {
-    "BID": 3334340,
-    "BeerName": "Sun Crusher",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Revolution Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2018630_f1a73_sm.jpeg",
-    "HallRating": 22.27,
-    "BAR": 15.30,
-    "StylePlus": "113",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.4628762162420049734893957523"
+    "BID": 16774,
+    "BeerName": "Weihenstephaner Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Bayerische Staatsbrauerei Weihenstephan",
+    "Origin": "Freising, Bayern Germany",
+    "BeerAbv": 5.10,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16774_e3aa4_sm.jpeg",
+    "HallRating": 22.28,
+    "BAR": 15.32,
+    "StylePlus": "118",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.4587065701844785489114809673"
+  },
+  {
+    "BID": 18721,
+    "BeerName": "F5 IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "COOP Ale Works",
+    "Origin": "Oklahoma City, OK United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 85.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18721_39d2c_sm.jpeg",
+    "HallRating": 22.28,
+    "BAR": 15.32,
+    "StylePlus": "104",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.4766834162940301437891197868"
   },
   {
     "BID": 23162,
@@ -345,6 +330,21 @@
     "AdjustedRating": "2.4679431278228619771867051635"
   },
   {
+    "BID": 3334340,
+    "BeerName": "Sun Crusher",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Revolution Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2018630_f1a73_sm.jpeg",
+    "HallRating": 22.27,
+    "BAR": 15.30,
+    "StylePlus": "113",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.4628762162420049734893957523"
+  },
+  {
     "BID": 2018458,
     "BeerName": "Pine'Hop'Le",
     "BeerStyle": "IPA - American",
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.4639942194527438393393736734"
   },
   {
-    "BID": 4816187,
-    "BeerName": "Naked",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Blackbird Farms Brewery",
-    "Origin": "Lilburn, GA United States",
-    "BeerAbv": 6.00,
+    "BID": 4980763,
+    "BeerName": "Apricot Wisp",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Revel Cider Company",
+    "Origin": "Guelph, ON Canada",
+    "BeerAbv": 3.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-496316_df4fa.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-193899_892a3.jpeg",
     "HallRating": 22.25,
     "BAR": 3.47,
-    "StylePlus": "103",
-    "RatingScore": 3.94,
-    "AdjustedRating": "2.349096219084981671532981916"
+    "StylePlus": "107",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.3490909942286652202353925997"
   }
 ]

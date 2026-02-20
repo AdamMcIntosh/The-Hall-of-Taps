@@ -1,33 +1,18 @@
 [
   {
-    "BID": 6383,
-    "BeerName": "Flower Child IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Cambridge Brewing Company",
-    "Origin": "Cambridge, MA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6383_17e52_sm.jpeg",
+    "BID": 209,
+    "BeerName": "Sunshine Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "New Belgium Brewing Company",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-209_94980_sm.jpeg",
     "HallRating": 21.88,
     "BAR": 14.79,
-    "StylePlus": "104",
-    "RatingScore": 3.72,
-    "AdjustedRating": "2.4367317709788748822024656102"
-  },
-  {
-    "BID": 9727,
-    "BeerName": "Ichthyosaur ICKY IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Great Basin Brewing Company",
-    "Origin": "Sparks, NV United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 46.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9727_e9ecd_sm.jpeg",
-    "HallRating": 21.87,
-    "BAR": 14.78,
-    "StylePlus": "104",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.4283689614624053241006456164"
+    "StylePlus": "113",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.4240074029436877062954062402"
   },
   {
     "BID": 3347733,
@@ -45,34 +30,19 @@
     "AdjustedRating": "2.4449801990845660636583878169"
   },
   {
-    "BID": 8784,
-    "BeerName": "Workhorse IPA",
+    "BID": 9727,
+    "BeerName": "Ichthyosaur ICKY IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Laurelwood Brewing Co.",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WorkhorseIPA_8784.jpeg",
-    "HallRating": 21.86,
-    "BAR": 14.76,
+    "BreweryName": "Great Basin Brewing Company",
+    "Origin": "Sparks, NV United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 46.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9727_e9ecd_sm.jpeg",
+    "HallRating": 21.87,
+    "BAR": 14.78,
     "StylePlus": "104",
-    "RatingScore": 3.84,
-    "AdjustedRating": "2.4425915006558552010112579912"
-  },
-  {
-    "BID": 4004201,
-    "BeerName": "AVL IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Highland Brewing Company",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2521498_662f3_sm.jpeg",
-    "HallRating": 21.86,
-    "BAR": 14.77,
-    "StylePlus": "104",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.4336812415941224359380707801"
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.4283689614624053241006456164"
   },
   {
     "BID": 10674,
@@ -90,19 +60,19 @@
     "AdjustedRating": "2.4248931117975154835701913964"
   },
   {
-    "BID": 1200269,
-    "BeerName": "Theobroma",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-dfhTheobroma.jpg",
+    "BID": 8784,
+    "BeerName": "Workhorse IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Laurelwood Brewing Co.",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WorkhorseIPA_8784.jpeg",
     "HallRating": 21.86,
     "BAR": 14.76,
-    "StylePlus": "115",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.4376189406790285700498597184"
+    "StylePlus": "104",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.4425915006558552010112579912"
   },
   {
     "BID": 25372,
@@ -135,6 +105,36 @@
     "AdjustedRating": "2.4305483453504310858843470574"
   },
   {
+    "BID": 4004201,
+    "BeerName": "AVL IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Highland Brewing Company",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2521498_662f3_sm.jpeg",
+    "HallRating": 21.86,
+    "BAR": 14.77,
+    "StylePlus": "104",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.4336812415941224359380707801"
+  },
+  {
+    "BID": 1200269,
+    "BeerName": "Theobroma",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-dfhTheobroma.jpg",
+    "HallRating": 21.86,
+    "BAR": 14.76,
+    "StylePlus": "115",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.4376189406790285700498597184"
+  },
+  {
     "BID": 24800,
     "BeerName": "The Kind India Pale Ale",
     "BeerStyle": "IPA - American",
@@ -165,21 +165,6 @@
     "AdjustedRating": "2.4292055019742268652720403778"
   },
   {
-    "BID": 19278,
-    "BeerName": "Blue Buck",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Phillips Brewing & Malting Co.",
-    "Origin": "Victoria, BC Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19278_34b45_sm.jpeg",
-    "HallRating": 21.84,
-    "BAR": 14.73,
-    "StylePlus": "117",
-    "RatingScore": 3.51,
-    "AdjustedRating": "2.4206346653695719365765068105"
-  },
-  {
     "BID": 2014661,
     "BeerName": "Pilsner",
     "BeerStyle": "Pilsner - German",
@@ -208,6 +193,21 @@
     "StylePlus": "104",
     "RatingScore": 3.62,
     "AdjustedRating": "2.4278477708187417711638728941"
+  },
+  {
+    "BID": 19278,
+    "BeerName": "Blue Buck",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Phillips Brewing & Malting Co.",
+    "Origin": "Victoria, BC Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19278_34b45_sm.jpeg",
+    "HallRating": 21.84,
+    "BAR": 14.73,
+    "StylePlus": "117",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.4206346653695719365765068105"
   },
   {
     "BID": 801552,
@@ -285,21 +285,6 @@
     "AdjustedRating": "2.4298590102018151143229874996"
   },
   {
-    "BID": 2009249,
-    "BeerName": "The Real Peel IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Avery Brewing Co.",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2009249_21152_sm.jpeg",
-    "HallRating": 21.80,
-    "BAR": 14.68,
-    "StylePlus": "104",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.4205787189593132033601507274"
-  },
-  {
     "BID": 26892,
     "BeerName": "Firestone Lager",
     "BeerStyle": "Lager - Helles",
@@ -315,6 +300,21 @@
     "AdjustedRating": "2.4217833804545633307508625612"
   },
   {
+    "BID": 13846,
+    "BeerName": "Trestles IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Left Coast Brewing Co.",
+    "Origin": "San Clemente, CA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 59.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13846_de81a_sm.jpeg",
+    "HallRating": 21.80,
+    "BAR": 14.68,
+    "StylePlus": "104",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.4194214994707886619369679418"
+  },
+  {
     "BID": 5012,
     "BeerName": "Nectar IPA",
     "BeerStyle": "IPA - American",
@@ -328,6 +328,21 @@
     "StylePlus": "104",
     "RatingScore": 3.56,
     "AdjustedRating": "2.4213964897627084221561995444"
+  },
+  {
+    "BID": 2009249,
+    "BeerName": "The Real Peel IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Avery Brewing Co.",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2009249_21152_sm.jpeg",
+    "HallRating": 21.80,
+    "BAR": 14.68,
+    "StylePlus": "104",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.4205787189593132033601507274"
   },
   {
     "BID": 2001657,
@@ -358,20 +373,5 @@
     "StylePlus": "104",
     "RatingScore": 3.75,
     "AdjustedRating": "2.4324253021727691111012403375"
-  },
-  {
-    "BID": 13846,
-    "BeerName": "Trestles IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Left Coast Brewing Co.",
-    "Origin": "San Clemente, CA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 59.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13846_de81a_sm.jpeg",
-    "HallRating": 21.80,
-    "BAR": 14.68,
-    "StylePlus": "104",
-    "RatingScore": 3.53,
-    "AdjustedRating": "2.4194214994707886619369679418"
   }
 ]

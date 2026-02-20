@@ -75,21 +75,6 @@
     "AdjustedRating": "2.4572386885514575220350069398"
   },
   {
-    "BID": 5008206,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Caldera Brewing Company",
-    "Origin": "Ashland, OR United States",
-    "BeerAbv": 6.10,
-    "BeerIbu": 94.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12755_a3472_sm.jpeg",
-    "HallRating": 22.21,
-    "BAR": 15.23,
-    "StylePlus": "104",
-    "RatingScore": 3.65,
-    "AdjustedRating": "2.4597215809392293149025932126"
-  },
-  {
     "BID": 7611,
     "BeerName": "Rumble Oak Aged IPA",
     "BeerStyle": "IPA - American",
@@ -120,19 +105,19 @@
     "AdjustedRating": "2.4534936858789539870084300061"
   },
   {
-    "BID": 3340030,
-    "BeerName": "Andechser Spezial Hell",
-    "BeerStyle": "Festbier",
-    "BreweryName": "Klosterbrauerei Andechs",
-    "Origin": "Andechs, Bayern Germany",
-    "BeerAbv": 5.90,
-    "BeerIbu": 17.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-SpezialHell_55933.jpeg",
-    "HallRating": 22.20,
-    "BAR": 15.22,
-    "StylePlus": "105",
-    "RatingScore": 3.52,
-    "AdjustedRating": "2.4478559080267970283787091329"
+    "BID": 5008206,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Caldera Brewing Company",
+    "Origin": "Ashland, OR United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 94.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12755_a3472_sm.jpeg",
+    "HallRating": 22.21,
+    "BAR": 15.23,
+    "StylePlus": "104",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.4597215809392293149025932126"
   },
   {
     "BID": 8384,
@@ -148,6 +133,21 @@
     "StylePlus": "104",
     "RatingScore": 3.74,
     "AdjustedRating": "2.4658097108972172489633178501"
+  },
+  {
+    "BID": 3340030,
+    "BeerName": "Andechser Spezial Hell",
+    "BeerStyle": "Festbier",
+    "BreweryName": "Klosterbrauerei Andechs",
+    "Origin": "Andechs, Bayern Germany",
+    "BeerAbv": 5.90,
+    "BeerIbu": 17.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-SpezialHell_55933.jpeg",
+    "HallRating": 22.20,
+    "BAR": 15.22,
+    "StylePlus": "105",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.4478559080267970283787091329"
   },
   {
     "BID": 3201764,
@@ -178,21 +178,6 @@
     "StylePlus": "104",
     "RatingScore": 3.54,
     "AdjustedRating": "2.4475053553685786243491633452"
-  },
-  {
-    "BID": 22090,
-    "BeerName": "Alphadelic",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Hop Valley Brewing Company",
-    "Origin": "Eugene, OR United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 90.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22090_8e066_sm.jpeg",
-    "HallRating": 22.17,
-    "BAR": 15.18,
-    "StylePlus": "104",
-    "RatingScore": 3.72,
-    "AdjustedRating": "2.4618084504250404463299727409"
   },
   {
     "BID": 8812,
@@ -240,19 +225,19 @@
     "AdjustedRating": "2.456561635521677453243445839"
   },
   {
-    "BID": 1201315,
-    "BeerName": "Gigantic IPA",
+    "BID": 22090,
+    "BeerName": "Alphadelic",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Gigantic Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-164851_17f30_sm.jpeg",
-    "HallRating": 22.16,
-    "BAR": 15.16,
+    "BreweryName": "Hop Valley Brewing Company",
+    "Origin": "Eugene, OR United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 90.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22090_8e066_sm.jpeg",
+    "HallRating": 22.17,
+    "BAR": 15.18,
     "StylePlus": "104",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.4648754852454405585384663422"
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.4618084504250404463299727409"
   },
   {
     "BID": 3350158,
@@ -268,6 +253,21 @@
     "StylePlus": "154",
     "RatingScore": 3.94,
     "AdjustedRating": "2.3491558740991900611749726998"
+  },
+  {
+    "BID": 1201315,
+    "BeerName": "Gigantic IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Gigantic Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 85.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-164851_17f30_sm.jpeg",
+    "HallRating": 22.16,
+    "BAR": 15.16,
+    "StylePlus": "104",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.4648754852454405585384663422"
   },
   {
     "BID": 10744,
@@ -300,6 +300,21 @@
     "AdjustedRating": "2.4574293270746502028204536359"
   },
   {
+    "BID": 2013887,
+    "BeerName": "Funk (Blueberry Citrus Wheat)",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "DuClaw Brewing Company",
+    "Origin": "Ewing Township, NJ United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-392193_79f43_sm.jpeg",
+    "HallRating": 22.14,
+    "BAR": 15.14,
+    "StylePlus": "113",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.4483896903271863852191083591"
+  },
+  {
     "BID": 4014966,
     "BeerName": "Expatriate",
     "BeerStyle": "IPA - American",
@@ -330,19 +345,19 @@
     "AdjustedRating": "2.4534513398307716794931699913"
   },
   {
-    "BID": 2013887,
-    "BeerName": "Funk (Blueberry Citrus Wheat)",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "DuClaw Brewing Company",
-    "Origin": "Ewing Township, NJ United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-392193_79f43_sm.jpeg",
-    "HallRating": 22.14,
-    "BAR": 15.14,
-    "StylePlus": "113",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.4483896903271863852191083591"
+    "BID": 2017423,
+    "BeerName": "Wild Sour Series: Synchopathic",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "DESTIHL Brewery",
+    "Origin": "Normal, IL United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1482299_184e7_sm.jpeg",
+    "HallRating": 22.13,
+    "BAR": 15.12,
+    "StylePlus": "103",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.4646948959731541755948184767"
   },
   {
     "BID": 2009244,
@@ -358,20 +373,5 @@
     "StylePlus": "118",
     "RatingScore": 3.66,
     "AdjustedRating": "2.4530604821792128418799448275"
-  },
-  {
-    "BID": 2017423,
-    "BeerName": "Wild Sour Series: Synchopathic",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "DESTIHL Brewery",
-    "Origin": "Normal, IL United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1482299_184e7_sm.jpeg",
-    "HallRating": 22.13,
-    "BAR": 15.12,
-    "StylePlus": "103",
-    "RatingScore": 3.81,
-    "AdjustedRating": "2.4646948959731541755948184767"
   }
 ]

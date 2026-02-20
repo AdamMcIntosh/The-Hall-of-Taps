@@ -15,6 +15,21 @@
     "AdjustedRating": "2.7200286227584757718445070764"
   },
   {
+    "BID": 3201519,
+    "BeerName": "OMER. Traditional Blond",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Omer Vander Ghinste",
+    "Origin": "Kortrijk, Vlaams Gewest Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 27.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26923_0484d_sm.jpeg",
+    "HallRating": 17.90,
+    "BAR": 12.99,
+    "StylePlus": "106",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.7026281824811517174551512795"
+  },
+  {
     "BID": 3335486,
     "BeerName": "Bräuweisse",
     "BeerStyle": "Wheat Beer - Hefeweizen",
@@ -28,21 +43,6 @@
     "StylePlus": "112",
     "RatingScore": 3.71,
     "AdjustedRating": "2.7347896206894498078911599417"
-  },
-  {
-    "BID": 8121,
-    "BeerName": "Christmas Ale",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Brouwerij St. Bernardus",
-    "Origin": "Poperinge, Vlaams Gewest Belgium",
-    "BeerAbv": 10.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8121_84b9c_sm.jpeg",
-    "HallRating": 17.90,
-    "BAR": 12.99,
-    "StylePlus": "114",
-    "RatingScore": 3.85,
-    "AdjustedRating": "2.7722189488797302283122723578"
   },
   {
     "BID": 5117,
@@ -75,21 +75,6 @@
     "AdjustedRating": "2.7333412517810602550793632698"
   },
   {
-    "BID": 4801204,
-    "BeerName": "Paulaner Salvator",
-    "BeerStyle": "Bock - Doppelbock",
-    "BreweryName": "Paulaner Brauerei",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 7.90,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4469_9ffb7_sm.jpeg",
-    "HallRating": 17.88,
-    "BAR": 12.97,
-    "StylePlus": "105",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.6980700479506596286711469973"
-  },
-  {
     "BID": 8697,
     "BeerName": "Erdinger Dunkel",
     "BeerStyle": "Wheat Beer - Dunkelweizen",
@@ -105,19 +90,19 @@
     "AdjustedRating": "2.6901139139180802442519919524"
   },
   {
-    "BID": 2009045,
-    "BeerName": "Flesh & Blood IPA",
-    "BeerStyle": "IPA - Fruited",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1441255_8c757_sm.jpeg",
-    "HallRating": 17.87,
-    "BAR": 12.96,
-    "StylePlus": "104",
-    "RatingScore": 3.79,
-    "AdjustedRating": "2.7482055823929656495574917022"
+    "BID": 4801204,
+    "BeerName": "Paulaner Salvator",
+    "BeerStyle": "Bock - Doppelbock",
+    "BreweryName": "Paulaner Brauerei",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 7.90,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4469_9ffb7_sm.jpeg",
+    "HallRating": 17.88,
+    "BAR": 12.97,
+    "StylePlus": "105",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.6980700479506596286711469973"
   },
   {
     "BID": 2015820,
@@ -150,19 +135,19 @@
     "AdjustedRating": "2.7246237138251280702091011972"
   },
   {
-    "BID": 3335138,
-    "BeerName": "Benediktiner Weissbier",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Benediktiner Weissbräu",
-    "Origin": "Ettal, Bayern Germany",
-    "BeerAbv": 5.40,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-BenediktinerWeissbier_103362.jpeg",
-    "HallRating": 17.86,
-    "BAR": 12.95,
-    "StylePlus": "112",
-    "RatingScore": 3.56,
-    "AdjustedRating": "2.6812489322501512181526553786"
+    "BID": 2009045,
+    "BeerName": "Flesh & Blood IPA",
+    "BeerStyle": "IPA - Fruited",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1441255_8c757_sm.jpeg",
+    "HallRating": 17.87,
+    "BAR": 12.96,
+    "StylePlus": "104",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.7482055823929656495574917022"
   },
   {
     "BID": 4801339,
@@ -178,6 +163,21 @@
     "StylePlus": "110",
     "RatingScore": 3.60,
     "AdjustedRating": "2.6917870577719582092200541778"
+  },
+  {
+    "BID": 3335138,
+    "BeerName": "Benediktiner Weissbier",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Benediktiner Weissbräu",
+    "Origin": "Ettal, Bayern Germany",
+    "BeerAbv": 5.40,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-BenediktinerWeissbier_103362.jpeg",
+    "HallRating": 17.86,
+    "BAR": 12.95,
+    "StylePlus": "112",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.6812489322501512181526553786"
   },
   {
     "BID": 5008738,

@@ -1,35 +1,5 @@
 [
   {
-    "BID": 17755,
-    "BeerName": "Jahrhundert Bier",
-    "BeerStyle": "Lager - Dortmunder / Export",
-    "BreweryName": "Ayinger Privatbrauerei",
-    "Origin": "Aying, Bayern Germany",
-    "BeerAbv": 5.50,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17755_3c895_sm.jpeg",
-    "HallRating": 16.81,
-    "BAR": 11.63,
-    "StylePlus": "119",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.4737112272103578243852835012"
-  },
-  {
-    "BID": 5002790,
-    "BeerName": "De Garre",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij Van Steenberge",
-    "Origin": "Evergem, Vlaams Gewest Belgium",
-    "BeerAbv": 11.00,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-34507_04c45_sm.jpeg",
-    "HallRating": 16.81,
-    "BAR": 11.62,
-    "StylePlus": "106",
-    "RatingScore": 4.10,
-    "AdjustedRating": "2.5244717811209949327199138634"
-  },
-  {
     "BID": 4800350,
     "BeerName": "Mallow Laser Quest",
     "BeerStyle": "IPA - Milkshake",
@@ -43,21 +13,6 @@
     "StylePlus": "102",
     "RatingScore": 3.57,
     "AdjustedRating": "2.470750393199851003888457899"
-  },
-  {
-    "BID": 20070,
-    "BeerName": "Weissbier",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Augustiner-Bräu München",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.40,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20070_c351d_sm.jpeg",
-    "HallRating": 16.81,
-    "BAR": 11.62,
-    "StylePlus": "112",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.4812503463403608313739324771"
   },
   {
     "BID": 1005176,
@@ -75,6 +30,51 @@
     "AdjustedRating": "2.492913360629990855619246809"
   },
   {
+    "BID": 4445884,
+    "BeerName": "Hop Juice",
+    "BeerStyle": "IPA - Triple",
+    "BreweryName": "Left Coast Brewing Co.",
+    "Origin": "San Clemente, CA United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 100.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5269_4eb09_sm.jpeg",
+    "HallRating": 16.81,
+    "BAR": 11.62,
+    "StylePlus": "101",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.4877050127571778848057763721"
+  },
+  {
+    "BID": 5002790,
+    "BeerName": "De Garre",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij Van Steenberge",
+    "Origin": "Evergem, Vlaams Gewest Belgium",
+    "BeerAbv": 11.00,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-34507_04c45_sm.jpeg",
+    "HallRating": 16.81,
+    "BAR": 11.62,
+    "StylePlus": "106",
+    "RatingScore": 4.10,
+    "AdjustedRating": "2.5244717811209949327199138634"
+  },
+  {
+    "BID": 6002487,
+    "BeerName": "BraufactuM Progusta",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Radeberger Gruppe",
+    "Origin": "Frankfurt am Main, Hessen Germany",
+    "BeerAbv": 6.80,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-314318_9a08f_sm.jpeg",
+    "HallRating": 16.81,
+    "BAR": 11.62,
+    "StylePlus": "109",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.4747373925066007405433903296"
+  },
+  {
     "BID": 1011561,
     "BeerName": "Hofbräu Maibock",
     "BeerStyle": "Bock - Hell / Maibock / Lentebock",
@@ -88,21 +88,6 @@
     "StylePlus": "110",
     "RatingScore": 3.60,
     "AdjustedRating": "2.4725022030221151236414470369"
-  },
-  {
-    "BID": 4653,
-    "BeerName": "OAKED Arrogant Bastard Ale",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Arrogant Consortia",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-stoneOakedArrogantBastard.jpg",
-    "HallRating": 16.80,
-    "BAR": 11.61,
-    "StylePlus": "102",
-    "RatingScore": 3.89,
-    "AdjustedRating": "2.5016745560932818063521422005"
   },
   {
     "BID": 4940903,
@@ -120,6 +105,21 @@
     "AdjustedRating": "2.4861272466501589880462520924"
   },
   {
+    "BID": 4653,
+    "BeerName": "OAKED Arrogant Bastard Ale",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Arrogant Consortia",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-stoneOakedArrogantBastard.jpg",
+    "HallRating": 16.80,
+    "BAR": 11.61,
+    "StylePlus": "102",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.5016745560932818063521422005"
+  },
+  {
     "BID": 4086,
     "BeerName": "Kölsch",
     "BeerStyle": "Kölsch",
@@ -135,19 +135,19 @@
     "AdjustedRating": "2.4644898578060013810443858233"
   },
   {
-    "BID": 4006779,
-    "BeerName": "Drew Curtis / Wil Wheaton / Greg Koch Stone Farking Wheaton w00tstout (2016)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1641133_2c462_sm.jpeg",
+    "BID": 18693,
+    "BeerName": "Shipwrecked",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Mission Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 9.25,
+    "BeerIbu": 72.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18693_82c90_sm.jpeg",
     "HallRating": 16.79,
     "BAR": 11.60,
-    "StylePlus": "100",
-    "RatingScore": 4.17,
-    "AdjustedRating": "2.5281718191872279114585950045"
+    "StylePlus": "101",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.4898439712575934764298505564"
   },
   {
     "BID": 1572,
@@ -180,21 +180,6 @@
     "AdjustedRating": "2.4651287588703445958575020609"
   },
   {
-    "BID": 18693,
-    "BeerName": "Shipwrecked",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Mission Brewing",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 9.25,
-    "BeerIbu": 72.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18693_82c90_sm.jpeg",
-    "HallRating": 16.79,
-    "BAR": 11.60,
-    "StylePlus": "101",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.4898439712575934764298505564"
-  },
-  {
     "BID": 1673187,
     "BeerName": "Napoleon Complex",
     "BeerStyle": "Pale Ale - American",
@@ -210,19 +195,19 @@
     "AdjustedRating": "2.4906375036461984900596042914"
   },
   {
-    "BID": 2008089,
-    "BeerName": "Don de Dieu",
-    "BeerStyle": "Wheat Beer - Wheat Wine",
-    "BreweryName": "Unibroue",
-    "Origin": "Chambly, QC Canada",
-    "BeerAbv": 9.00,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4043_240f6_sm.jpeg",
-    "HallRating": 16.78,
-    "BAR": 11.58,
-    "StylePlus": "103",
-    "RatingScore": 3.84,
-    "AdjustedRating": "2.4937203181440430070941314434"
+    "BID": 4006779,
+    "BeerName": "Drew Curtis / Wil Wheaton / Greg Koch Stone Farking Wheaton w00tstout (2016)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Stone Brewing",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1641133_2c462_sm.jpeg",
+    "HallRating": 16.79,
+    "BAR": 11.60,
+    "StylePlus": "100",
+    "RatingScore": 4.17,
+    "AdjustedRating": "2.5281718191872279114585950045"
   },
   {
     "BID": 1200628,
@@ -255,6 +240,21 @@
     "AdjustedRating": "2.4961535389082138348379183"
   },
   {
+    "BID": 2008089,
+    "BeerName": "Don de Dieu",
+    "BeerStyle": "Wheat Beer - Wheat Wine",
+    "BreweryName": "Unibroue",
+    "Origin": "Chambly, QC Canada",
+    "BeerAbv": 9.00,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4043_240f6_sm.jpeg",
+    "HallRating": 16.78,
+    "BAR": 11.58,
+    "StylePlus": "103",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.4937203181440430070941314434"
+  },
+  {
     "BID": 10376,
     "BeerName": "Nutcracker Ale",
     "BeerStyle": "Winter Ale",
@@ -285,6 +285,21 @@
     "AdjustedRating": "2.4880710232520979493283685044"
   },
   {
+    "BID": 4457,
+    "BeerName": "Dos Perros",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Yazoo Brewing Company",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4457_8f37f_sm.jpeg",
+    "HallRating": 16.77,
+    "BAR": 11.57,
+    "StylePlus": "107",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.462414080132171841535501813"
+  },
+  {
     "BID": 3003281,
     "BeerName": "Sin Tax",
     "BeerStyle": "Stout - Imperial / Double",
@@ -298,21 +313,6 @@
     "StylePlus": "100",
     "RatingScore": 3.87,
     "AdjustedRating": "2.49474057628251796762825037"
-  },
-  {
-    "BID": 2019395,
-    "BeerName": "Aphrodite",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Brasserie Dieu du Ciel!",
-    "Origin": "Montréal, QC Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15665_99213_sm.jpeg",
-    "HallRating": 16.77,
-    "BAR": 11.56,
-    "StylePlus": "103",
-    "RatingScore": 3.96,
-    "AdjustedRating": "2.5028706827800386758133973186"
   },
   {
     "BID": 10532,
@@ -330,6 +330,36 @@
     "AdjustedRating": "2.4635759183391124836158497757"
   },
   {
+    "BID": 2019395,
+    "BeerName": "Aphrodite",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Brasserie Dieu du Ciel!",
+    "Origin": "Montréal, QC Canada",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15665_99213_sm.jpeg",
+    "HallRating": 16.77,
+    "BAR": 11.56,
+    "StylePlus": "103",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.5028706827800386758133973186"
+  },
+  {
+    "BID": 8848,
+    "BeerName": "Quilter's Irish Death",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Iron Horse Brewery",
+    "Origin": "Ellensburg, WA United States",
+    "BeerAbv": 7.80,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8848_9494f_sm.jpeg",
+    "HallRating": 16.77,
+    "BAR": 11.56,
+    "StylePlus": "107",
+    "RatingScore": 3.90,
+    "AdjustedRating": "2.4972368603914090364418257096"
+  },
+  {
     "BID": 4011020,
     "BeerName": "Rasputin / Moord & Doodslag",
     "BeerStyle": "Stout - Russian Imperial",
@@ -343,35 +373,5 @@
     "StylePlus": "100",
     "RatingScore": 3.93,
     "AdjustedRating": "2.500720466887264442240588974"
-  },
-  {
-    "BID": 1009791,
-    "BeerName": "Game Of Thrones Fire And Blood",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Brewery Ommegang",
-    "Origin": "Cooperstown, NY United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-496101_8b766_sm.jpeg",
-    "HallRating": 16.77,
-    "BAR": 11.57,
-    "StylePlus": "114",
-    "RatingScore": 3.56,
-    "AdjustedRating": "2.4654447392689902570679824855"
-  },
-  {
-    "BID": 4001026,
-    "BeerName": "Third Coast Old Ale",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Bell’s Brewery",
-    "Origin": "Comstock, MI United States",
-    "BeerAbv": 10.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17904_d42e8_sm.jpeg",
-    "HallRating": 16.77,
-    "BAR": 11.56,
-    "StylePlus": "102",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.4855080969601904343663103801"
   }
 ]

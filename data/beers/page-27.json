@@ -45,21 +45,6 @@
     "AdjustedRating": "2.4562423591063125423120355052"
   },
   {
-    "BID": 3334452,
-    "BeerName": "Detour",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Muskoka Brewery",
-    "Origin": "Bracebridge, ON Canada",
-    "BeerAbv": 4.30,
-    "BeerIbu": 38.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-538899_ef49d_sm.jpeg",
-    "HallRating": 22.10,
-    "BAR": 15.09,
-    "StylePlus": "108",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.4482595776844010411263887384"
-  },
-  {
     "BID": 4960,
     "BeerName": "Bengali Tiger",
     "BeerStyle": "IPA - American",
@@ -75,34 +60,19 @@
     "AdjustedRating": "2.4525982478508475828002261489"
   },
   {
-    "BID": 1354,
-    "BeerName": "Eastside Dark",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Lakefront Brewery",
-    "Origin": "Milwaukee, WI United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1354_95d51_sm.jpeg",
-    "HallRating": 22.09,
-    "BAR": 15.07,
-    "StylePlus": "111",
-    "RatingScore": 3.65,
-    "AdjustedRating": "2.4488777402396861893334463471"
-  },
-  {
-    "BID": 1601004,
-    "BeerName": "Trickster",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Black Raven Brewing",
-    "Origin": "Woodinville, WA United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 68.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12645_59a4d_sm.jpeg",
-    "HallRating": 22.09,
-    "BAR": 15.06,
-    "StylePlus": "104",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.4567377692059424950215554962"
+    "BID": 3334452,
+    "BeerName": "Detour",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Muskoka Brewery",
+    "Origin": "Bracebridge, ON Canada",
+    "BeerAbv": 4.30,
+    "BeerIbu": 38.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-538899_ef49d_sm.jpeg",
+    "HallRating": 22.10,
+    "BAR": 15.09,
+    "StylePlus": "108",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.4482595776844010411263887384"
   },
   {
     "BID": 5200432,
@@ -120,21 +90,6 @@
     "AdjustedRating": "2.4629546848862815313378771489"
   },
   {
-    "BID": 6295,
-    "BeerName": "Blueberry Ale",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Wachusett Brewing Company",
-    "Origin": "Westminster, MA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6295_6fe38_sm.jpeg",
-    "HallRating": 22.09,
-    "BAR": 15.07,
-    "StylePlus": "112",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.4451903708571488654779128299"
-  },
-  {
     "BID": 7542,
     "BeerName": "Broo Doo",
     "BeerStyle": "IPA - American",
@@ -150,19 +105,49 @@
     "AdjustedRating": "2.4720885937973750367218546716"
   },
   {
-    "BID": 2000434,
-    "BeerName": "Pulp Friction®",
+    "BID": 6295,
+    "BeerName": "Blueberry Ale",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Wachusett Brewing Company",
+    "Origin": "Westminster, MA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6295_6fe38_sm.jpeg",
+    "HallRating": 22.09,
+    "BAR": 15.07,
+    "StylePlus": "112",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.4451903708571488654779128299"
+  },
+  {
+    "BID": 1601004,
+    "BeerName": "Trickster",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Motorworks Brewing",
-    "Origin": "Bradenton, FL United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1601663_6b1d1_sm.jpeg",
-    "HallRating": 22.08,
+    "BreweryName": "Black Raven Brewing",
+    "Origin": "Woodinville, WA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 68.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12645_59a4d_sm.jpeg",
+    "HallRating": 22.09,
     "BAR": 15.06,
     "StylePlus": "104",
-    "RatingScore": 3.75,
-    "AdjustedRating": "2.4557025768948692798678391288"
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.4567377692059424950215554962"
+  },
+  {
+    "BID": 1354,
+    "BeerName": "Eastside Dark",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Lakefront Brewery",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1354_95d51_sm.jpeg",
+    "HallRating": 22.09,
+    "BAR": 15.07,
+    "StylePlus": "111",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.4488777402396861893334463471"
   },
   {
     "BID": 8739,
@@ -180,19 +165,19 @@
     "AdjustedRating": "2.4550926597532224433364963689"
   },
   {
-    "BID": 1673128,
-    "BeerName": "Dragoon IPA",
+    "BID": 2000434,
+    "BeerName": "Pulp Friction®",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Dragoon Brewing Company",
-    "Origin": "Tucson, AZ United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 83.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-150791_1b1f1_sm.jpeg",
-    "HallRating": 22.06,
-    "BAR": 15.03,
+    "BreweryName": "Motorworks Brewing",
+    "Origin": "Bradenton, FL United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 85.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1601663_6b1d1_sm.jpeg",
+    "HallRating": 22.08,
+    "BAR": 15.06,
     "StylePlus": "104",
-    "RatingScore": 3.77,
-    "AdjustedRating": "2.4550414183115498145978276684"
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.4557025768948692798678391288"
   },
   {
     "BID": 2008506,
@@ -208,6 +193,21 @@
     "StylePlus": "116",
     "RatingScore": 3.58,
     "AdjustedRating": "2.4413881936656875746617541224"
+  },
+  {
+    "BID": 1673128,
+    "BeerName": "Dragoon IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Dragoon Brewing Company",
+    "Origin": "Tucson, AZ United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 83.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-150791_1b1f1_sm.jpeg",
+    "HallRating": 22.06,
+    "BAR": 15.03,
+    "StylePlus": "104",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.4550414183115498145978276684"
   },
   {
     "BID": 1672560,
@@ -285,21 +285,6 @@
     "AdjustedRating": "2.4366173391848921292817591515"
   },
   {
-    "BID": 25102,
-    "BeerName": "Samuel Smith's Organic Strawberry Fruit Beer",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Melbourn Bros’ All Saints Brewery",
-    "Origin": "Stamford, Lincolnshire England",
-    "BeerAbv": 5.10,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_8563_sm_d5b9d9d0680c0b68f34a3594486402.jpeg",
-    "HallRating": 22.01,
-    "BAR": 14.96,
-    "StylePlus": "112",
-    "RatingScore": 3.71,
-    "AdjustedRating": "2.4463796663774494112508782992"
-  },
-  {
     "BID": 1007585,
     "BeerName": "4 Hop IPA",
     "BeerStyle": "IPA - Session",
@@ -313,6 +298,21 @@
     "StylePlus": "108",
     "RatingScore": 3.58,
     "AdjustedRating": "2.4374328914918807990225567519"
+  },
+  {
+    "BID": 25102,
+    "BeerName": "Samuel Smith's Organic Strawberry Fruit Beer",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Melbourn Bros’ All Saints Brewery",
+    "Origin": "Stamford, Lincolnshire England",
+    "BeerAbv": 5.10,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_8563_sm_d5b9d9d0680c0b68f34a3594486402.jpeg",
+    "HallRating": 22.01,
+    "BAR": 14.96,
+    "StylePlus": "112",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.4463796663774494112508782992"
   },
   {
     "BID": 1004011,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.4439910460385663728231771688"
   },
   {
-    "BID": 7628,
-    "BeerName": "Maiden the Shade",
+    "BID": 800955,
+    "BeerName": "I-10 IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Ninkasi Brewing Company",
-    "Origin": "Eugene, OR United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 72.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7628_a760d_sm.jpeg",
+    "BreweryName": "Intuition Ale Works",
+    "Origin": "Jacksonville, FL United States",
+    "BeerAbv": 6.75,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10433_4b682_sm.jpeg",
     "HallRating": 21.99,
-    "BAR": 14.93,
+    "BAR": 14.94,
     "StylePlus": "104",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.4479636124011172796121854429"
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.4445454787533312503027928889"
   }
 ]

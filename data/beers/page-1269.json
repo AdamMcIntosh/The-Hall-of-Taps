@@ -15,6 +15,21 @@
     "AdjustedRating": "2.645125829727240758513098625"
   },
   {
+    "BID": 4447094,
+    "BeerName": "Amstel",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Amstel Bier",
+    "Origin": "Zoeterwoude, Zuid-Holland Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-72160_68a98_sm.jpeg",
+    "HallRating": 12.18,
+    "BAR": 8.96,
+    "StylePlus": "97",
+    "RatingScore": 2.89,
+    "AdjustedRating": "2.5514486329778552840595990018"
+  },
+  {
     "BID": 3348490,
     "BeerName": "Tiger",
     "BeerStyle": "Lager - Pale",
@@ -30,19 +45,19 @@
     "AdjustedRating": "2.5774243239654816396616319556"
   },
   {
-    "BID": 4447094,
-    "BeerName": "Amstel",
+    "BID": 2013071,
+    "BeerName": "Peroni Original",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Amstel Bier",
-    "Origin": "Zoeterwoude, Zuid-Holland Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-72160_68a98_sm.jpeg",
-    "HallRating": 12.18,
+    "BreweryName": "Birra Peroni",
+    "Origin": "Roma, Lazio Italy",
+    "BeerAbv": 4.70,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_55151_c9cbad39d46c17353631a3f211cd.jpeg",
+    "HallRating": 12.17,
     "BAR": 8.96,
     "StylePlus": "97",
-    "RatingScore": 2.89,
-    "AdjustedRating": "2.5514486329778552840595990018"
+    "RatingScore": 3.14,
+    "AdjustedRating": "2.6426120693628682564195120263"
   },
   {
     "BID": 6006465,
@@ -60,21 +75,6 @@
     "AdjustedRating": "2.4269847651671972889222764965"
   },
   {
-    "BID": 5201407,
-    "BeerName": "Spaten München / Münchner Hell / Premium Lager",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.20,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1633_d78e8_sm.jpeg",
-    "HallRating": 12.17,
-    "BAR": 8.96,
-    "StylePlus": "88",
-    "RatingScore": 3.39,
-    "AdjustedRating": "2.7361333516946624948556122916"
-  },
-  {
     "BID": 4003102,
     "BeerName": "Jupiler",
     "BeerStyle": "Pilsner - Other",
@@ -90,19 +90,19 @@
     "AdjustedRating": "2.6820393051885421021625679326"
   },
   {
-    "BID": 2013071,
-    "BeerName": "Peroni Original",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Birra Peroni",
-    "Origin": "Roma, Lazio Italy",
-    "BeerAbv": 4.70,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_55151_c9cbad39d46c17353631a3f211cd.jpeg",
+    "BID": 5201407,
+    "BeerName": "Spaten München / Münchner Hell / Premium Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.20,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1633_d78e8_sm.jpeg",
     "HallRating": 12.17,
     "BAR": 8.96,
-    "StylePlus": "97",
-    "RatingScore": 3.14,
-    "AdjustedRating": "2.6426120693628682564195120263"
+    "StylePlus": "88",
+    "RatingScore": 3.39,
+    "AdjustedRating": "2.7361333516946624948556122916"
   },
   {
     "BID": 9945,
@@ -240,21 +240,6 @@
     "AdjustedRating": "2.5641297661909481337611209938"
   },
   {
-    "BID": 2005326,
-    "BeerName": "Miller Genuine Draft",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Miller Brewing Company",
-    "Origin": "Milwaukee, WI United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3779_8ae90_sm.jpeg",
-    "HallRating": 12.01,
-    "BAR": 8.76,
-    "StylePlus": "88",
-    "RatingScore": 2.60,
-    "AdjustedRating": "2.4267412566170588588622592023"
-  },
-  {
     "BID": 5002298,
     "BeerName": "Radeberger Pilsner",
     "BeerStyle": "Pilsner - German",
@@ -268,6 +253,21 @@
     "StylePlus": "88",
     "RatingScore": 3.17,
     "AdjustedRating": "2.6035450850209374072363541522"
+  },
+  {
+    "BID": 2005326,
+    "BeerName": "Miller Genuine Draft",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3779_8ae90_sm.jpeg",
+    "HallRating": 12.01,
+    "BAR": 8.76,
+    "StylePlus": "88",
+    "RatingScore": 2.60,
+    "AdjustedRating": "2.4267412566170588588622592023"
   },
   {
     "BID": 4721,
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.506734673681144026130416097"
   },
   {
-    "BID": 3007424,
-    "BeerName": "Bavaria",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Royal Swinkels",
-    "Origin": "Lieshout, Noord-Brabant Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16010_3d9dd_sm.jpeg",
-    "HallRating": 11.95,
-    "BAR": 8.68,
-    "StylePlus": "87",
-    "RatingScore": 2.87,
-    "AdjustedRating": "2.4993711796261725223468283129"
-  },
-  {
     "BID": 22508,
     "BeerName": "Żywiec",
     "BeerStyle": "Lager - Pale",
@@ -373,5 +358,20 @@
     "StylePlus": "97",
     "RatingScore": 3.10,
     "AdjustedRating": "2.566552394275164899770160417"
+  },
+  {
+    "BID": 3007424,
+    "BeerName": "Bavaria",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Royal Swinkels",
+    "Origin": "Lieshout, Noord-Brabant Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16010_3d9dd_sm.jpeg",
+    "HallRating": 11.95,
+    "BAR": 8.68,
+    "StylePlus": "87",
+    "RatingScore": 2.87,
+    "AdjustedRating": "2.4993711796261725223468283129"
   }
 ]

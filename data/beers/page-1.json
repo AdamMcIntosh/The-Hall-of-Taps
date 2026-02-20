@@ -225,21 +225,6 @@
     "AdjustedRating": "2.3815823264603723160562100472"
   },
   {
-    "BID": 4961446,
-    "BeerName": "Mega Fresh - Maria",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Juicy Brewing Co",
-    "Origin": "Herndon, VA United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961446_9485b_sm.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
-    "StylePlus": "125",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.3491650109804574856546663397"
-  },
-  {
     "BID": 2018479,
     "BeerName": "Light Blue Wax",
     "BeerStyle": "Sour - Fruited Berliner Weisse",
@@ -253,6 +238,21 @@
     "StylePlus": "128",
     "RatingScore": 4.53,
     "AdjustedRating": "2.3491615111554487360921444658"
+  },
+  {
+    "BID": 4961446,
+    "BeerName": "Mega Fresh - Maria",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Juicy Brewing Co",
+    "Origin": "Herndon, VA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961446_9485b_sm.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "125",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.3491650109804574856546663397"
   },
   {
     "BID": 3000429,

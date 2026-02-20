@@ -30,21 +30,6 @@
     "AdjustedRating": "2.3529740356756255123492978863"
   },
   {
-    "BID": 6006731,
-    "BeerName": "The Day Is The Night",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 9.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
-    "HallRating": 27.98,
-    "BAR": 14.15,
-    "StylePlus": "125",
-    "RatingScore": 4.66,
-    "AdjustedRating": "2.3529571392727873159966247856"
-  },
-  {
     "BID": 1668078,
     "BeerName": "Blåbær Lambik (Blueberry Lambic) (2009-II) (Batch 4)",
     "BeerStyle": "Lambic - Fruit",
@@ -58,6 +43,21 @@
     "StylePlus": "128",
     "RatingScore": 4.67,
     "AdjustedRating": "2.3493773564011103530795179405"
+  },
+  {
+    "BID": 6006731,
+    "BeerName": "The Day Is The Night",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 9.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
+    "HallRating": 27.98,
+    "BAR": 14.15,
+    "StylePlus": "125",
+    "RatingScore": 4.66,
+    "AdjustedRating": "2.3529571392727873159966247856"
   },
   {
     "BID": 4982258,
@@ -75,21 +75,6 @@
     "AdjustedRating": "2.3530840534414920094131819932"
   },
   {
-    "BID": 6400435,
-    "BeerName": "Placed Flowers",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400435_8c104_sm.jpeg",
-    "HallRating": 27.96,
-    "BAR": 14.10,
-    "StylePlus": "123",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.352672496249713233128122031"
-  },
-  {
     "BID": 2019451,
     "BeerName": "Art (2013)",
     "BeerStyle": "Farmhouse Ale - Saison",
@@ -105,19 +90,19 @@
     "AdjustedRating": "2.34938885631898105372879272"
   },
   {
-    "BID": 5004220,
-    "BeerName": "Tree of Knowledge",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Forager Brewery",
-    "Origin": "Rochester, MN United States",
-    "BeerAbv": 13.40,
+    "BID": 6400435,
+    "BeerName": "Placed Flowers",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 12.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5004220_86bd5_sm.jpeg",
-    "HallRating": 27.95,
-    "BAR": 14.05,
-    "StylePlus": "127",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.3525690202632813092145675464"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400435_8c104_sm.jpeg",
+    "HallRating": 27.96,
+    "BAR": 14.10,
+    "StylePlus": "123",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.352672496249713233128122031"
   },
   {
     "BID": 4816288,
@@ -133,6 +118,21 @@
     "StylePlus": "125",
     "RatingScore": 4.51,
     "AdjustedRating": "2.3525690816279529452282270629"
+  },
+  {
+    "BID": 5004220,
+    "BeerName": "Tree of Knowledge",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Forager Brewery",
+    "Origin": "Rochester, MN United States",
+    "BeerAbv": 13.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5004220_86bd5_sm.jpeg",
+    "HallRating": 27.95,
+    "BAR": 14.05,
+    "StylePlus": "127",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.3525690202632813092145675464"
   },
   {
     "BID": 3334154,
@@ -255,21 +255,6 @@
     "AdjustedRating": "2.3518311116747252997055781411"
   },
   {
-    "BID": 3333953,
-    "BeerName": "Quy (2019)",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "The Veil Brewing Co.",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 12.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333953_b03f3_sm.jpeg",
-    "HallRating": 27.74,
-    "BAR": 13.46,
-    "StylePlus": "125",
-    "RatingScore": 4.79,
-    "AdjustedRating": "2.3520450589211807591470960126"
-  },
-  {
     "BID": 4817038,
     "BeerName": "Stevnsberry Van Oak (2021)",
     "BeerStyle": "Mead - Melomel",
@@ -283,6 +268,21 @@
     "StylePlus": "124",
     "RatingScore": 4.61,
     "AdjustedRating": "2.3518243798047961212900655176"
+  },
+  {
+    "BID": 3333953,
+    "BeerName": "Quy (2019)",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333953_b03f3_sm.jpeg",
+    "HallRating": 27.74,
+    "BAR": 13.46,
+    "StylePlus": "125",
+    "RatingScore": 4.79,
+    "AdjustedRating": "2.3520450589211807591470960126"
   },
   {
     "BID": 4007402,

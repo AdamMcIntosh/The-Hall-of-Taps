@@ -30,6 +30,21 @@
     "AdjustedRating": "2.5568076860762247763897337469"
   },
   {
+    "BID": 4681,
+    "BeerName": "Trappist Westvleteren Blond",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Brouwerij De Sint-Sixtusabdij van Westvleteren",
+    "Origin": "Vleteren, Vlaams Gewest Belgium",
+    "BeerAbv": 5.80,
+    "BeerIbu": 41.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4681_48b53_sm.jpeg",
+    "HallRating": 17.18,
+    "BAR": 12.09,
+    "StylePlus": "115",
+    "RatingScore": 3.98,
+    "AdjustedRating": "2.5885044945479575955864447025"
+  },
+  {
     "BID": 6921,
     "BeerName": "Idiot IPA",
     "BeerStyle": "IPA - Imperial / Double",
@@ -45,19 +60,49 @@
     "AdjustedRating": "2.5570518503101894467300613308"
   },
   {
-    "BID": 4681,
-    "BeerName": "Trappist Westvleteren Blond",
-    "BeerStyle": "Belgian Blonde",
-    "BreweryName": "Brouwerij De Sint-Sixtusabdij van Westvleteren",
-    "Origin": "Vleteren, Vlaams Gewest Belgium",
-    "BeerAbv": 5.80,
-    "BeerIbu": 41.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4681_48b53_sm.jpeg",
-    "HallRating": 17.18,
+    "BID": 14196,
+    "BeerName": "Urweisse",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Erdinger Weissbräu",
+    "Origin": "Erding, Bayern Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14196_b313c_sm.jpeg",
+    "HallRating": 17.17,
     "BAR": 12.09,
-    "StylePlus": "115",
-    "RatingScore": 3.98,
-    "AdjustedRating": "2.5885044945479575955864447025"
+    "StylePlus": "112",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.5348122033005300294182129293"
+  },
+  {
+    "BID": 3348619,
+    "BeerName": "Gonzo",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Flying Dog Brewery",
+    "Origin": "Utica, NY United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 85.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4001_d9830_sm.jpeg",
+    "HallRating": 17.17,
+    "BAR": 12.09,
+    "StylePlus": "101",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.5627739987416365273018263621"
+  },
+  {
+    "BID": 8928,
+    "BeerName": "Nitro Oatmeal Stout",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 38.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_8928_sm_06d6866cf0f948cbdec1fe0f1b98f6.jpeg",
+    "HallRating": 17.17,
+    "BAR": 12.08,
+    "StylePlus": "104",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.5563901066366865622688911413"
   },
   {
     "BID": 3012169,
@@ -90,21 +135,6 @@
     "AdjustedRating": "2.5724806879643005162345957408"
   },
   {
-    "BID": 14196,
-    "BeerName": "Urweisse",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Erdinger Weissbräu",
-    "Origin": "Erding, Bayern Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14196_b313c_sm.jpeg",
-    "HallRating": 17.17,
-    "BAR": 12.09,
-    "StylePlus": "112",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.5348122033005300294182129293"
-  },
-  {
     "BID": 3890550,
     "BeerName": "Blueberry Maple Stout",
     "BeerStyle": "Stout - Milk / Sweet",
@@ -118,36 +148,6 @@
     "StylePlus": "102",
     "RatingScore": 3.75,
     "AdjustedRating": "2.55241446835896983999875969"
-  },
-  {
-    "BID": 8928,
-    "BeerName": "Nitro Oatmeal Stout",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 38.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_8928_sm_06d6866cf0f948cbdec1fe0f1b98f6.jpeg",
-    "HallRating": 17.17,
-    "BAR": 12.08,
-    "StylePlus": "104",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.5563901066366865622688911413"
-  },
-  {
-    "BID": 3348619,
-    "BeerName": "Gonzo",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Flying Dog Brewery",
-    "Origin": "Utica, NY United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4001_d9830_sm.jpeg",
-    "HallRating": 17.17,
-    "BAR": 12.09,
-    "StylePlus": "101",
-    "RatingScore": 3.81,
-    "AdjustedRating": "2.5627739987416365273018263621"
   },
   {
     "BID": 1200366,
@@ -165,21 +165,6 @@
     "AdjustedRating": "2.5307889174968334907674392259"
   },
   {
-    "BID": 362,
-    "BeerName": "471 Small Batch IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Breckenridge Brewery",
-    "Origin": "Littleton, CO United States",
-    "BeerAbv": 9.20,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-362_1b588_sm.jpeg",
-    "HallRating": 17.16,
-    "BAR": 12.08,
-    "StylePlus": "101",
-    "RatingScore": 3.84,
-    "AdjustedRating": "2.5647703216249328650731713991"
-  },
-  {
     "BID": 1005800,
     "BeerName": "Pale Ale",
     "BeerStyle": "Pale Ale - American",
@@ -195,6 +180,21 @@
     "AdjustedRating": "2.5208766637266870687394737917"
   },
   {
+    "BID": 362,
+    "BeerName": "471 Small Batch IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Breckenridge Brewery",
+    "Origin": "Littleton, CO United States",
+    "BeerAbv": 9.20,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-362_1b588_sm.jpeg",
+    "HallRating": 17.16,
+    "BAR": 12.08,
+    "StylePlus": "101",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.5647703216249328650731713991"
+  },
+  {
     "BID": 6908,
     "BeerName": "Consecration",
     "BeerStyle": "Wild Ale - American",
@@ -208,6 +208,21 @@
     "StylePlus": "101",
     "RatingScore": 4.30,
     "AdjustedRating": "2.6278070362826832163614888772"
+  },
+  {
+    "BID": 5775,
+    "BeerName": "Supplication",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Russian River Brewing Company",
+    "Origin": "Windsor, CA United States",
+    "BeerAbv": 7.75,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5775_31019_sm.jpeg",
+    "HallRating": 17.15,
+    "BAR": 12.06,
+    "StylePlus": "101",
+    "RatingScore": 4.27,
+    "AdjustedRating": "2.6242893473358262477277256043"
   },
   {
     "BID": 11163,
@@ -240,21 +255,6 @@
     "AdjustedRating": "2.5453862251609213989910864505"
   },
   {
-    "BID": 5775,
-    "BeerName": "Supplication",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Russian River Brewing Company",
-    "Origin": "Windsor, CA United States",
-    "BeerAbv": 7.75,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5775_31019_sm.jpeg",
-    "HallRating": 17.15,
-    "BAR": 12.06,
-    "StylePlus": "101",
-    "RatingScore": 4.27,
-    "AdjustedRating": "2.6242893473358262477277256043"
-  },
-  {
     "BID": 5626,
     "BeerName": "White",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
@@ -285,6 +285,21 @@
     "AdjustedRating": "2.5376391157992820339537021531"
   },
   {
+    "BID": 27099,
+    "BeerName": "Tongerlo Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij Haacht Brasserie",
+    "Origin": "Boortmeerbeek, Vlaams Gewest Belgium",
+    "BeerAbv": 9.00,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27099_7679b_sm.jpeg",
+    "HallRating": 17.14,
+    "BAR": 12.05,
+    "StylePlus": "106",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.5322922538658782617711165461"
+  },
+  {
     "BID": 25243,
     "BeerName": "Fort Point",
     "BeerStyle": "IPA - New England / Hazy",
@@ -298,21 +313,6 @@
     "StylePlus": "101",
     "RatingScore": 4.20,
     "AdjustedRating": "2.6111322349127377058012906788"
-  },
-  {
-    "BID": 4498,
-    "BeerName": "Damnation",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Russian River Brewing Company",
-    "Origin": "Windsor, CA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 29.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4498_b3cbc_sm.jpeg",
-    "HallRating": 17.14,
-    "BAR": 12.05,
-    "StylePlus": "106",
-    "RatingScore": 3.94,
-    "AdjustedRating": "2.5740045928761604118976449093"
   },
   {
     "BID": 3009776,
@@ -345,33 +345,33 @@
     "AdjustedRating": "2.5143790649977190091303901125"
   },
   {
-    "BID": 27099,
-    "BeerName": "Tongerlo Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij Haacht Brasserie",
-    "Origin": "Boortmeerbeek, Vlaams Gewest Belgium",
-    "BeerAbv": 9.00,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27099_7679b_sm.jpeg",
+    "BID": 4498,
+    "BeerName": "Damnation",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Russian River Brewing Company",
+    "Origin": "Windsor, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 29.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4498_b3cbc_sm.jpeg",
     "HallRating": 17.14,
     "BAR": 12.05,
     "StylePlus": "106",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.5322922538658782617711165461"
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.5740045928761604118976449093"
   },
   {
-    "BID": 3201719,
-    "BeerName": "Blackout Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Great Lakes Brewing Company",
-    "Origin": "Cleveland, OH United States",
-    "BeerAbv": 9.90,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5794_525a2_sm.jpeg",
+    "BID": 6863,
+    "BeerName": "Mocha Porter",
+    "BeerStyle": "Porter - Coffee",
+    "BreweryName": "Rogue Ales",
+    "Origin": "Newport, OR United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 47.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-MochaPorter_6863.jpeg",
     "HallRating": 17.13,
-    "BAR": 12.04,
-    "StylePlus": "100",
-    "RatingScore": 3.98,
-    "AdjustedRating": "2.5779901608847357896048922115"
+    "BAR": 12.03,
+    "StylePlus": "102",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.522729412013972726711230529"
   }
 ]
