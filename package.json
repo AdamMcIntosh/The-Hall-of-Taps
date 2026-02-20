@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "serve": "npx serve . -p 3000",
-    "build:data": "node scripts/export-from-db.js"
+    "build:data": "node -e \"console.log('Data is exported from HallofTaps.Engine; run Export there and point to this repo data folder.');\""
   },
   "devDependencies": {
     "mssql": "^11.0.1"
