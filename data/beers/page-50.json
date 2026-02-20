@@ -1,20 +1,5 @@
 [
   {
-    "BID": 1667278,
-    "BeerName": "Logyard IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Backwoods Brewing Company",
-    "Origin": "Carson, WA United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 78.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-304636_d6f3e_sm.jpeg",
-    "HallRating": 21.18,
-    "BAR": 13.84,
-    "StylePlus": "104",
-    "RatingScore": 3.68,
-    "AdjustedRating": "2.3945136924958893805845755584"
-  },
-  {
     "BID": 5600381,
     "BeerName": "Dream Factory",
     "BeerStyle": "Pale Ale - Other",
@@ -30,19 +15,19 @@
     "AdjustedRating": "2.3890430116719061963469871726"
   },
   {
-    "BID": 1669584,
-    "BeerName": "Ode IPA",
+    "BID": 1667278,
+    "BeerName": "Logyard IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Castle Danger Brewery",
-    "Origin": "Two Harbors, MN United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-987564_13723_sm.jpeg",
+    "BreweryName": "Backwoods Brewing Company",
+    "Origin": "Carson, WA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 78.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-304636_d6f3e_sm.jpeg",
     "HallRating": 21.18,
-    "BAR": 13.83,
+    "BAR": 13.84,
     "StylePlus": "104",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.397872662123161148848739473"
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.3945136924958893805845755584"
   },
   {
     "BID": 4000044,
@@ -60,19 +45,19 @@
     "AdjustedRating": "2.3940704534569129764377829945"
   },
   {
-    "BID": 1672045,
-    "BeerName": "Refuge",
+    "BID": 1669584,
+    "BeerName": "Ode IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Arizona Wilderness Brewing Co.",
-    "Origin": "Gilbert, AZ United States",
+    "BreweryName": "Castle Danger Brewery",
+    "Origin": "Two Harbors, MN United States",
     "BeerAbv": 6.80,
-    "BeerIbu": 75.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-89320_be115_sm.jpeg",
-    "HallRating": 21.17,
-    "BAR": 13.82,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-987564_13723_sm.jpeg",
+    "HallRating": 21.18,
+    "BAR": 13.83,
     "StylePlus": "104",
-    "RatingScore": 3.89,
-    "AdjustedRating": "2.4009999581896645853089819647"
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.397872662123161148848739473"
   },
   {
     "BID": 3005245,
@@ -88,6 +73,21 @@
     "StylePlus": "104",
     "RatingScore": 3.69,
     "AdjustedRating": "2.3941919429000821469402842704"
+  },
+  {
+    "BID": 1672045,
+    "BeerName": "Refuge",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Arizona Wilderness Brewing Co.",
+    "Origin": "Gilbert, AZ United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 75.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-89320_be115_sm.jpeg",
+    "HallRating": 21.17,
+    "BAR": 13.82,
+    "StylePlus": "104",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.4009999581896645853089819647"
   },
   {
     "BID": 3341784,
@@ -120,19 +120,19 @@
     "AdjustedRating": "2.3893195751214881550025858815"
   },
   {
-    "BID": 27234,
-    "BeerName": "Batch 69 American IPA",
+    "BID": 88,
+    "BeerName": "Bent Nail",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Frankenmuth Brewery",
-    "Origin": "Frankenmuth, MI United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 69.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27234_55be7_sm.jpeg",
+    "BreweryName": "Red Lodge Ales",
+    "Origin": "Red Lodge, MT United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-88_91665_sm.jpeg",
     "HallRating": 21.15,
-    "BAR": 13.79,
+    "BAR": 13.78,
     "StylePlus": "104",
-    "RatingScore": 3.52,
-    "AdjustedRating": "2.387842998495069200061830602"
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.3925867140172970258867293372"
   },
   {
     "BID": 1673828,
@@ -150,19 +150,19 @@
     "AdjustedRating": "2.393217634639279255291846994"
   },
   {
-    "BID": 88,
-    "BeerName": "Bent Nail",
+    "BID": 27234,
+    "BeerName": "Batch 69 American IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Red Lodge Ales",
-    "Origin": "Red Lodge, MT United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-88_91665_sm.jpeg",
+    "BreweryName": "Frankenmuth Brewery",
+    "Origin": "Frankenmuth, MI United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 69.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27234_55be7_sm.jpeg",
     "HallRating": 21.15,
-    "BAR": 13.78,
+    "BAR": 13.79,
     "StylePlus": "104",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.3925867140172970258867293372"
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.387842998495069200061830602"
   },
   {
     "BID": 5002563,
@@ -180,21 +180,6 @@
     "AdjustedRating": "2.4032901777307259681235653021"
   },
   {
-    "BID": 3343317,
-    "BeerName": "Five Cees IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Vault Brewing Company",
-    "Origin": "Yardley, PA United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-614641_5974f_sm.jpeg",
-    "HallRating": 21.14,
-    "BAR": 13.77,
-    "StylePlus": "104",
-    "RatingScore": 3.79,
-    "AdjustedRating": "2.3961101892421901684423358159"
-  },
-  {
     "BID": 2017635,
     "BeerName": "V Twin Vienna Lager®",
     "BeerStyle": "Lager - Vienna",
@@ -210,19 +195,19 @@
     "AdjustedRating": "2.3891739851505535744529731769"
   },
   {
-    "BID": 12799,
-    "BeerName": "7th Street Wheat",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "NOLA Brewing",
-    "Origin": "New Orleans, LA United States",
-    "BeerAbv": 4.50,
+    "BID": 3343317,
+    "BeerName": "Five Cees IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Vault Brewing Company",
+    "Origin": "Yardley, PA United States",
+    "BeerAbv": 6.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12799_f27c4_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-614641_5974f_sm.jpeg",
     "HallRating": 21.14,
-    "BAR": 13.78,
-    "StylePlus": "113",
-    "RatingScore": 3.53,
-    "AdjustedRating": "2.3878346922554719581886533485"
+    "BAR": 13.77,
+    "StylePlus": "104",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.3961101892421901684423358159"
   },
   {
     "BID": 24003,
@@ -240,21 +225,6 @@
     "AdjustedRating": "2.3891225918819715102571483854"
   },
   {
-    "BID": 2018797,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Brotherton Brewing Company",
-    "Origin": "Atco, NJ United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 46.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1699982_b0918_sm.jpeg",
-    "HallRating": 21.14,
-    "BAR": 13.77,
-    "StylePlus": "104",
-    "RatingScore": 3.89,
-    "AdjustedRating": "2.3995020970027073707959337069"
-  },
-  {
     "BID": 14862,
     "BeerName": "Three Sheets",
     "BeerStyle": "Pale Ale - Australian",
@@ -268,6 +238,36 @@
     "StylePlus": "115",
     "RatingScore": 3.63,
     "AdjustedRating": "2.3908789986321773616852630198"
+  },
+  {
+    "BID": 12799,
+    "BeerName": "7th Street Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "NOLA Brewing",
+    "Origin": "New Orleans, LA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12799_f27c4_sm.jpeg",
+    "HallRating": 21.14,
+    "BAR": 13.78,
+    "StylePlus": "113",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.3878346922554719581886533485"
+  },
+  {
+    "BID": 2018797,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Brotherton Brewing Company",
+    "Origin": "Atco, NJ United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 46.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1699982_b0918_sm.jpeg",
+    "HallRating": 21.14,
+    "BAR": 13.77,
+    "StylePlus": "104",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.3995020970027073707959337069"
   },
   {
     "BID": 3334087,
@@ -315,19 +315,34 @@
     "AdjustedRating": "2.398899944099751805665549745"
   },
   {
-    "BID": 1670390,
-    "BeerName": "Headbanger",
+    "BID": 1670947,
+    "BeerName": "Dakine Tropical IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "7venth Sun Brewery",
-    "Origin": "Dunedin, FL United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1257352_30319_sm.jpeg",
+    "BreweryName": "4 Hands Brewing Company",
+    "Origin": "St Louis, MO United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1580920_6293e_sm.jpeg",
     "HallRating": 21.12,
     "BAR": 13.75,
     "StylePlus": "104",
-    "RatingScore": 3.84,
-    "AdjustedRating": "2.3971603502527056697357837048"
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.3923674439518923421480472556"
+  },
+  {
+    "BID": 4815956,
+    "BeerName": "Münchner Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Giesinger Bräu",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.10,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4559116_8593a_sm.jpeg",
+    "HallRating": 21.12,
+    "BAR": 13.75,
+    "StylePlus": "117",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.3877046026692409023222235295"
   },
   {
     "BID": 19145,
@@ -345,33 +360,18 @@
     "AdjustedRating": "2.3927075413119291756479751757"
   },
   {
-    "BID": 1011821,
-    "BeerName": "Sigma",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Brouwerij Alvinne",
-    "Origin": "Zwevegem, Vlaams Gewest Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-565503_8bf54_sm.jpeg",
-    "HallRating": 21.12,
-    "BAR": 13.74,
-    "StylePlus": "103",
-    "RatingScore": 3.73,
-    "AdjustedRating": "2.393332908310935976952456568"
-  },
-  {
-    "BID": 4815956,
-    "BeerName": "Münchner Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Giesinger Bräu",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.10,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4559116_8593a_sm.jpeg",
+    "BID": 1670390,
+    "BeerName": "Headbanger",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "7venth Sun Brewery",
+    "Origin": "Dunedin, FL United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1257352_30319_sm.jpeg",
     "HallRating": 21.12,
     "BAR": 13.75,
-    "StylePlus": "117",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.3877046026692409023222235295"
+    "StylePlus": "104",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.3971603502527056697357837048"
   }
 ]

@@ -345,21 +345,6 @@
     "AdjustedRating": "2.7610347465769362121772088803"
   },
   {
-    "BID": 3601540,
-    "BeerName": "HopDevil IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Victory Brewing Company",
-    "Origin": "Downingtown, PA United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3832_fe69a_sm.jpeg",
-    "HallRating": 24.10,
-    "BAR": 17.61,
-    "StylePlus": "104",
-    "RatingScore": 3.65,
-    "AdjustedRating": "2.7712471021302724402783273794"
-  },
-  {
     "BID": 2011679,
     "BeerName": "Pernicious",
     "BeerStyle": "IPA - American",
@@ -373,5 +358,20 @@
     "StylePlus": "104",
     "RatingScore": 3.94,
     "AdjustedRating": "2.8650536100613209293957528238"
+  },
+  {
+    "BID": 3601540,
+    "BeerName": "HopDevil IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Victory Brewing Company",
+    "Origin": "Downingtown, PA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3832_fe69a_sm.jpeg",
+    "HallRating": 24.10,
+    "BAR": 17.61,
+    "StylePlus": "104",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.7712471021302724402783273794"
   }
 ]

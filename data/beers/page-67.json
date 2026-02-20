@@ -1,18 +1,18 @@
 [
   {
-    "BID": 1668568,
-    "BeerName": "Grapefruit IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "1933 Brewing Company",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-115094_adbb6.jpeg",
+    "BID": 5008660,
+    "BeerName": "Little Trees: Mount Hood",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Trolley Barn Fermentory",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 3.90,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-504788_0f26d.jpeg",
     "HallRating": 20.71,
     "BAR": 4.10,
-    "StylePlus": "104",
-    "RatingScore": 3.56,
-    "AdjustedRating": "2.3491039323138831684942880658"
+    "StylePlus": "108",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.3491056322416362389887920493"
   },
   {
     "BID": 5601200,
@@ -30,21 +30,6 @@
     "AdjustedRating": "2.3802391282461376314430965299"
   },
   {
-    "BID": 6000999,
-    "BeerName": "Pozoj",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Zmajska Pivovara",
-    "Origin": "Zagreb, Grad Zagreb Croatia",
-    "BeerAbv": 7.30,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1094941_59b27_sm.jpeg",
-    "HallRating": 20.69,
-    "BAR": 13.12,
-    "StylePlus": "104",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.3784483689454737306834924706"
-  },
-  {
     "BID": 401274,
     "BeerName": "Hard Apple Cider",
     "BeerStyle": "Cider - Traditional / Apfelwein",
@@ -60,34 +45,19 @@
     "AdjustedRating": "2.3736404490154350330023604977"
   },
   {
-    "BID": 3347111,
-    "BeerName": "Simcoe IPA - LupulusX",
+    "BID": 6000999,
+    "BeerName": "Pozoj",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Buxton Brewery",
-    "Origin": "Buxton, Derbyshire England",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3338415_3c251_sm.jpeg",
-    "HallRating": 20.68,
-    "BAR": 13.10,
+    "BreweryName": "Zmajska Pivovara",
+    "Origin": "Zagreb, Grad Zagreb Croatia",
+    "BeerAbv": 7.30,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1094941_59b27_sm.jpeg",
+    "HallRating": 20.69,
+    "BAR": 13.12,
     "StylePlus": "104",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.3766620021403161103629754545"
-  },
-  {
-    "BID": 6008284,
-    "BeerName": "Oktoberfest Bier (2024)",
-    "BeerStyle": "Festbier",
-    "BreweryName": "Paulaner Brauerei",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 6.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4950347_64702_sm.jpeg",
-    "HallRating": 20.68,
-    "BAR": 13.11,
-    "StylePlus": "105",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.3752948390669004981057873153"
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.3784483689454737306834924706"
   },
   {
     "BID": 1675720,
@@ -103,6 +73,21 @@
     "StylePlus": "108",
     "RatingScore": 3.65,
     "AdjustedRating": "2.3762720358254173399737108717"
+  },
+  {
+    "BID": 6008284,
+    "BeerName": "Oktoberfest Bier (2024)",
+    "BeerStyle": "Festbier",
+    "BreweryName": "Paulaner Brauerei",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 6.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4950347_64702_sm.jpeg",
+    "HallRating": 20.68,
+    "BAR": 13.11,
+    "StylePlus": "105",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.3752948390669004981057873153"
   },
   {
     "BID": 2016268,
@@ -135,6 +120,21 @@
     "AdjustedRating": "2.374377368636921857649554587"
   },
   {
+    "BID": 3347111,
+    "BeerName": "Simcoe IPA - LupulusX",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Buxton Brewery",
+    "Origin": "Buxton, Derbyshire England",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3338415_3c251_sm.jpeg",
+    "HallRating": 20.68,
+    "BAR": 13.10,
+    "StylePlus": "104",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.3766620021403161103629754545"
+  },
+  {
     "BID": 1675627,
     "BeerName": "3 Sheeps Pils",
     "BeerStyle": "Pilsner - German",
@@ -165,21 +165,6 @@
     "AdjustedRating": "2.3798542439547804156605889491"
   },
   {
-    "BID": 3335571,
-    "BeerName": "Classic IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Solo (Σόλο) Microbrewery",
-    "Origin": "Greece",
-    "BeerAbv": 7.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1452639_c5612_sm.jpeg",
-    "HallRating": 20.67,
-    "BAR": 13.09,
-    "StylePlus": "104",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.3743670087384908118157794819"
-  },
-  {
     "BID": 1674022,
     "BeerName": "India Pale Ale",
     "BeerStyle": "IPA - American",
@@ -193,6 +178,21 @@
     "StylePlus": "104",
     "RatingScore": 3.63,
     "AdjustedRating": "2.3755833807285966885657827675"
+  },
+  {
+    "BID": 3335571,
+    "BeerName": "Classic IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Solo (Σόλο) Microbrewery",
+    "Origin": "Greece",
+    "BeerAbv": 7.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1452639_c5612_sm.jpeg",
+    "HallRating": 20.67,
+    "BAR": 13.09,
+    "StylePlus": "104",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.3743670087384908118157794819"
   },
   {
     "BID": 2001007,
@@ -210,6 +210,21 @@
     "AdjustedRating": "2.3757285958583943869640084938"
   },
   {
+    "BID": 1981,
+    "BeerName": "Burning Skye Scottish Ale",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Empyrean Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1981_b8eab_sm.jpeg",
+    "HallRating": 20.66,
+    "BAR": 13.08,
+    "StylePlus": "109",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.3734017538089437208458419846"
+  },
+  {
     "BID": 3010763,
     "BeerName": "Walking Tree IPA",
     "BeerStyle": "IPA - American",
@@ -225,19 +240,19 @@
     "AdjustedRating": "2.3778907748701726547575816017"
   },
   {
-    "BID": 1981,
-    "BeerName": "Burning Skye Scottish Ale",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "Empyrean Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1981_b8eab_sm.jpeg",
-    "HallRating": 20.66,
-    "BAR": 13.08,
-    "StylePlus": "109",
-    "RatingScore": 3.53,
-    "AdjustedRating": "2.3734017538089437208458419846"
+    "BID": 1201715,
+    "BeerName": "No Coast IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Peace Tree Brewing Company",
+    "Origin": "Knoxville, IA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 95.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-341095_55d57_sm.jpeg",
+    "HallRating": 20.65,
+    "BAR": 13.07,
+    "StylePlus": "104",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.3783961835651460353197399782"
   },
   {
     "BID": 29444,
@@ -255,21 +270,6 @@
     "AdjustedRating": "2.372391153334858279293276483"
   },
   {
-    "BID": 7826,
-    "BeerName": "Velvet Fog",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Wild Rose Brewery",
-    "Origin": "Calgary, AB Canada",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7826_8800c_sm.jpeg",
-    "HallRating": 20.65,
-    "BAR": 13.06,
-    "StylePlus": "113",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.3731851180274047106019247641"
-  },
-  {
     "BID": 15366,
     "BeerName": "Hoodoo Voodoo IPA",
     "BeerStyle": "IPA - American",
@@ -285,19 +285,19 @@
     "AdjustedRating": "2.3746096079662056295672760497"
   },
   {
-    "BID": 1201715,
-    "BeerName": "No Coast IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Peace Tree Brewing Company",
-    "Origin": "Knoxville, IA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 95.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-341095_55d57_sm.jpeg",
+    "BID": 7826,
+    "BeerName": "Velvet Fog",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Wild Rose Brewery",
+    "Origin": "Calgary, AB Canada",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7826_8800c_sm.jpeg",
     "HallRating": 20.65,
-    "BAR": 13.07,
-    "StylePlus": "104",
-    "RatingScore": 3.79,
-    "AdjustedRating": "2.3783961835651460353197399782"
+    "BAR": 13.06,
+    "StylePlus": "113",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.3731851180274047106019247641"
   },
   {
     "BID": 5009546,
@@ -330,6 +330,21 @@
     "AdjustedRating": "2.3792254099459650358191198297"
   },
   {
+    "BID": 16240,
+    "BeerName": "Highlander",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Fyne Ales",
+    "Origin": "Cairndow, Argyll and Bute Scotland",
+    "BeerAbv": 4.80,
+    "BeerIbu": 38.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16240_95837_sm.jpeg",
+    "HallRating": 20.63,
+    "BAR": 13.04,
+    "StylePlus": "109",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.3726338054450633429170148945"
+  },
+  {
     "BID": 1600741,
     "BeerName": "Certatio Equestris",
     "BeerStyle": "Sour - Other",
@@ -345,33 +360,18 @@
     "AdjustedRating": "2.3806984933092943791050128375"
   },
   {
-    "BID": 401466,
-    "BeerName": "Masala Mama",
+    "BID": 3342059,
+    "BeerName": "Melrose",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Minneapolis Town Hall Brewery",
-    "Origin": "Minneapolis, MN United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-MasalaMama_1171.jpeg",
+    "BreweryName": "Beachwood Brewing",
+    "Origin": "Huntington Beach, CA United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-53071_997eb_sm.jpeg",
     "HallRating": 20.63,
     "BAR": 13.03,
     "StylePlus": "104",
-    "RatingScore": 3.85,
-    "AdjustedRating": "2.3788758338885018546799497909"
-  },
-  {
-    "BID": 3201204,
-    "BeerName": "P3 Pils",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Phase Three Brewing",
-    "Origin": "Lake Zurich, IL United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3201204_bf0f6_sm.jpeg",
-    "HallRating": 20.63,
-    "BAR": 13.03,
-    "StylePlus": "117",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.3767736765189927901414232316"
+    "RatingScore": 4.06,
+    "AdjustedRating": "2.3829950494305325301193337577"
   }
 ]

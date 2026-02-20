@@ -1,18 +1,33 @@
 [
   {
-    "BID": 1675638,
-    "BeerName": "Killa Vanilla Extraordinary IPA",
+    "BID": 12560,
+    "BeerName": "Sum Nug",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Hoppin' Frog Brewery",
-    "Origin": "Akron, OH United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 68.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1264302_41879_sm.jpeg",
+    "BreweryName": "Shoreline Brewery",
+    "Origin": "Michigan City, IN United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12560_dfe6d_sm.jpeg",
     "HallRating": 20.27,
     "BAR": 12.48,
     "StylePlus": "104",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.3683751798586688909777233838"
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.3648313139668670564443722981"
+  },
+  {
+    "BID": 3348883,
+    "BeerName": "West Coast Wizard",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Miskatonic Brewing Company",
+    "Origin": "Darien, IL United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 63.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3348883_408b2_sm.jpeg",
+    "HallRating": 20.26,
+    "BAR": 12.47,
+    "StylePlus": "104",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.3674951298842220086846437791"
   },
   {
     "BID": 6010442,
@@ -45,21 +60,6 @@
     "AdjustedRating": "2.3651856078709191118258012572"
   },
   {
-    "BID": 14035,
-    "BeerName": "Excelsius",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Ossett Brewery",
-    "Origin": "Ossett, West Yorkshire England",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14035_e2631_sm.jpeg",
-    "HallRating": 20.26,
-    "BAR": 12.47,
-    "StylePlus": "117",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.3658961383670755489750523526"
-  },
-  {
     "BID": 2016329,
     "BeerName": "Hopsplosion!!! IPA",
     "BeerStyle": "IPA - American",
@@ -75,19 +75,19 @@
     "AdjustedRating": "2.3670719639693109382529113096"
   },
   {
-    "BID": 3348883,
-    "BeerName": "West Coast Wizard",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Miskatonic Brewing Company",
-    "Origin": "Darien, IL United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 63.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3348883_408b2_sm.jpeg",
+    "BID": 14035,
+    "BeerName": "Excelsius",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Ossett Brewery",
+    "Origin": "Ossett, West Yorkshire England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14035_e2631_sm.jpeg",
     "HallRating": 20.26,
     "BAR": 12.47,
-    "StylePlus": "104",
-    "RatingScore": 3.71,
-    "AdjustedRating": "2.3674951298842220086846437791"
+    "StylePlus": "117",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.3658961383670755489750523526"
   },
   {
     "BID": 2009464,
@@ -135,21 +135,6 @@
     "AdjustedRating": "2.3693375448663376822816899211"
   },
   {
-    "BID": 4003725,
-    "BeerName": "Obsession Session IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Fixation Brewing Co",
-    "Origin": "Byron Bay, New South Wales Australia",
-    "BeerAbv": 4.60,
-    "BeerIbu": 36.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2259843_98758_sm.jpeg",
-    "HallRating": 20.24,
-    "BAR": 12.43,
-    "StylePlus": "108",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.3661632809595177858702469804"
-  },
-  {
     "BID": 22270,
     "BeerName": "Aprikat Apricot Wheat Ale",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -163,6 +148,21 @@
     "StylePlus": "113",
     "RatingScore": 3.66,
     "AdjustedRating": "2.3665400477849539313767356076"
+  },
+  {
+    "BID": 4003725,
+    "BeerName": "Obsession Session IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Fixation Brewing Co",
+    "Origin": "Byron Bay, New South Wales Australia",
+    "BeerAbv": 4.60,
+    "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2259843_98758_sm.jpeg",
+    "HallRating": 20.24,
+    "BAR": 12.43,
+    "StylePlus": "108",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.3661632809595177858702469804"
   },
   {
     "BID": 2002697,
@@ -180,21 +180,6 @@
     "AdjustedRating": "2.3651968316864086328487754815"
   },
   {
-    "BID": 2014266,
-    "BeerName": "¡Viva La Pineapple!",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Reverend Nat's Hard Cider",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4455351_14c0c_sm.jpeg",
-    "HallRating": 20.23,
-    "BAR": 12.43,
-    "StylePlus": "107",
-    "RatingScore": 3.96,
-    "AdjustedRating": "2.3703301995105576937974699379"
-  },
-  {
     "BID": 2981,
     "BeerName": "Tundrabeary Ale",
     "BeerStyle": "Fruit Beer",
@@ -210,19 +195,19 @@
     "AdjustedRating": "2.3649440692622004011495338244"
   },
   {
-    "BID": 22547,
-    "BeerName": "HopDevil IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "1516 Brewing Company",
-    "Origin": "Vienna, Wien Austria",
-    "BeerAbv": 7.00,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1516BrewingCompany_5850.jpeg",
+    "BID": 2014266,
+    "BeerName": "¡Viva La Pineapple!",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Reverend Nat's Hard Cider",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4455351_14c0c_sm.jpeg",
     "HallRating": 20.23,
     "BAR": 12.43,
-    "StylePlus": "104",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.3654069099486423894182681025"
+    "StylePlus": "107",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.3703301995105576937974699379"
   },
   {
     "BID": 29578,
@@ -240,19 +225,19 @@
     "AdjustedRating": "2.3645931693181489917243054597"
   },
   {
-    "BID": 10469,
-    "BeerName": "Doc’s Draft Raspberry Hard Apple Cider (Framboise)",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Warwick Valley Winery & Distillery",
-    "Origin": "Warwick, NY United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1970_8e7c4.jpeg",
-    "HallRating": 20.22,
-    "BAR": 12.41,
-    "StylePlus": "109",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.3662650301701846457435202469"
+    "BID": 22547,
+    "BeerName": "HopDevil IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "1516 Brewing Company",
+    "Origin": "Vienna, Wien Austria",
+    "BeerAbv": 7.00,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1516BrewingCompany_5850.jpeg",
+    "HallRating": 20.23,
+    "BAR": 12.43,
+    "StylePlus": "104",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.3654069099486423894182681025"
   },
   {
     "BID": 12655,
@@ -268,6 +253,36 @@
     "StylePlus": "109",
     "RatingScore": 3.56,
     "AdjustedRating": "2.3648493726480311567150676661"
+  },
+  {
+    "BID": 4015744,
+    "BeerName": "Riding Into The Heart Of Hell",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Burial Beer Co.",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4015744_749e4_sm.jpeg",
+    "HallRating": 20.22,
+    "BAR": 12.42,
+    "StylePlus": "104",
+    "RatingScore": 4.07,
+    "AdjustedRating": "2.3716071265898927330342541775"
+  },
+  {
+    "BID": 10469,
+    "BeerName": "Doc’s Draft Raspberry Hard Apple Cider (Framboise)",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Warwick Valley Winery & Distillery",
+    "Origin": "Warwick, NY United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1970_8e7c4.jpeg",
+    "HallRating": 20.22,
+    "BAR": 12.41,
+    "StylePlus": "109",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.3662650301701846457435202469"
   },
   {
     "BID": 1675526,
@@ -300,51 +315,6 @@
     "AdjustedRating": "2.3659715668235892433769037907"
   },
   {
-    "BID": 4015744,
-    "BeerName": "Riding Into The Heart Of Hell",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Burial Beer Co.",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4015744_749e4_sm.jpeg",
-    "HallRating": 20.22,
-    "BAR": 12.42,
-    "StylePlus": "104",
-    "RatingScore": 4.07,
-    "AdjustedRating": "2.3716071265898927330342541775"
-  },
-  {
-    "BID": 19291,
-    "BeerName": "High Five!",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Dugges Bryggeri",
-    "Origin": "Landvetter, Västra Götalands län Sweden",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19291_096b9_sm.jpeg",
-    "HallRating": 20.21,
-    "BAR": 12.39,
-    "StylePlus": "104",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.3656382869266560796522747176"
-  },
-  {
-    "BID": 1673422,
-    "BeerName": "Rotary Chaos",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Ten Bends Beer",
-    "Origin": "Hyde Park, VT United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1666858_acf69_sm.jpeg",
-    "HallRating": 20.21,
-    "BAR": 12.39,
-    "StylePlus": "104",
-    "RatingScore": 3.86,
-    "AdjustedRating": "2.3684905659305170451381856683"
-  },
-  {
     "BID": 1667291,
     "BeerName": "ENIAC Mosaic IPA",
     "BeerStyle": "IPA - American",
@@ -373,5 +343,35 @@
     "StylePlus": "104",
     "RatingScore": 3.58,
     "AdjustedRating": "2.364930391342143054168600881"
+  },
+  {
+    "BID": 3335182,
+    "BeerName": "Foam Climb",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Axiom Brewery",
+    "Origin": "Prostějov 1, Olomoucký kraj Czech Republic",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3335182_89e47_sm.jpeg",
+    "HallRating": 20.21,
+    "BAR": 12.40,
+    "StylePlus": "104",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.3653726454179634626252751526"
+  },
+  {
+    "BID": 19291,
+    "BeerName": "High Five!",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Dugges Bryggeri",
+    "Origin": "Landvetter, Västra Götalands län Sweden",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19291_096b9_sm.jpeg",
+    "HallRating": 20.21,
+    "BAR": 12.39,
+    "StylePlus": "104",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.3656382869266560796522747176"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "BID": 2010780,
+    "BeerName": "LOST - Colorado IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "New Terrain Brewing Co.",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 75.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1751875_126c6_sm.jpeg",
+    "HallRating": 20.38,
+    "BAR": 12.66,
+    "StylePlus": "104",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.3715294532835892319639956022"
+  },
+  {
     "BID": 3244,
     "BeerName": "Bombay",
     "BeerStyle": "IPA - American",
@@ -28,21 +43,6 @@
     "StylePlus": "104",
     "RatingScore": 3.85,
     "AdjustedRating": "2.372318563449494222003503904"
-  },
-  {
-    "BID": 2010780,
-    "BeerName": "LOST - Colorado IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "New Terrain Brewing Co.",
-    "Origin": "Golden, CO United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 75.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1751875_126c6_sm.jpeg",
-    "HallRating": 20.38,
-    "BAR": 12.66,
-    "StylePlus": "104",
-    "RatingScore": 3.80,
-    "AdjustedRating": "2.3715294532835892319639956022"
   },
   {
     "BID": 5000516,
@@ -90,21 +90,6 @@
     "AdjustedRating": "2.3701170560330544944105299639"
   },
   {
-    "BID": 2016467,
-    "BeerName": "Plunder IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Mission Brewing",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 88.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-767202_3ac6b_sm.jpeg",
-    "HallRating": 20.36,
-    "BAR": 12.63,
-    "StylePlus": "104",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.3691185653603235182597917847"
-  },
-  {
     "BID": 2014742,
     "BeerName": "Sang Du Chêne (2015)",
     "BeerStyle": "Sour - Other",
@@ -120,19 +105,19 @@
     "AdjustedRating": "2.3768302301057858690156296271"
   },
   {
-    "BID": 801249,
-    "BeerName": "Thrilla in Brazilla",
+    "BID": 2016467,
+    "BeerName": "Plunder IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Peticolas Brewing Company",
-    "Origin": "Dallas, TX United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 75.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-711159_4510b_sm.jpeg",
+    "BreweryName": "Mission Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 88.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-767202_3ac6b_sm.jpeg",
     "HallRating": 20.36,
     "BAR": 12.63,
     "StylePlus": "104",
-    "RatingScore": 3.79,
-    "AdjustedRating": "2.3709100029111672548855740192"
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.3691185653603235182597917847"
   },
   {
     "BID": 3347624,
@@ -150,6 +135,21 @@
     "AdjustedRating": "2.3686503244791602532254783246"
   },
   {
+    "BID": 801249,
+    "BeerName": "Thrilla in Brazilla",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Peticolas Brewing Company",
+    "Origin": "Dallas, TX United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 75.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-711159_4510b_sm.jpeg",
+    "HallRating": 20.36,
+    "BAR": 12.63,
+    "StylePlus": "104",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.3709100029111672548855740192"
+  },
+  {
     "BID": 6679,
     "BeerName": "1903 Lager",
     "BeerStyle": "Lager - American",
@@ -163,21 +163,6 @@
     "StylePlus": "117",
     "RatingScore": 3.57,
     "AdjustedRating": "2.3672382272352101313430422738"
-  },
-  {
-    "BID": 3342931,
-    "BeerName": "Tony Hawps Birdhouse IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Black Plague Brewing",
-    "Origin": "Oceanside, CA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3342931_250bc_sm.jpeg",
-    "HallRating": 20.35,
-    "BAR": 12.61,
-    "StylePlus": "104",
-    "RatingScore": 3.66,
-    "AdjustedRating": "2.3686042016185023824585269746"
   },
   {
     "BID": 17598,
@@ -195,19 +180,19 @@
     "AdjustedRating": "2.3717556369887432305469552704"
   },
   {
-    "BID": 14741,
-    "BeerName": "India Pale Ale",
+    "BID": 3342931,
+    "BeerName": "Tony Hawps Birdhouse IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Glacier Brewhouse",
-    "Origin": "Anchorage, AK United States",
-    "BeerAbv": 6.35,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-GlacierBrewhouseIPA_14741.jpeg",
-    "HallRating": 20.34,
-    "BAR": 12.60,
+    "BreweryName": "Black Plague Brewing",
+    "Origin": "Oceanside, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3342931_250bc_sm.jpeg",
+    "HallRating": 20.35,
+    "BAR": 12.61,
     "StylePlus": "104",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.3688987133103024893822048999"
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.3686042016185023824585269746"
   },
   {
     "BID": 1676078,
@@ -223,6 +208,21 @@
     "StylePlus": "104",
     "RatingScore": 3.71,
     "AdjustedRating": "2.3691022429433953889752959602"
+  },
+  {
+    "BID": 14741,
+    "BeerName": "India Pale Ale",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Glacier Brewhouse",
+    "Origin": "Anchorage, AK United States",
+    "BeerAbv": 6.35,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-GlacierBrewhouseIPA_14741.jpeg",
+    "HallRating": 20.34,
+    "BAR": 12.60,
+    "StylePlus": "104",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.3688987133103024893822048999"
   },
   {
     "BID": 2008678,
@@ -255,19 +255,19 @@
     "AdjustedRating": "2.3694977081729648983838837546"
   },
   {
-    "BID": 29710,
-    "BeerName": "Cherry Kriek",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Strange Craft Beer Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29710_5cc6b_sm.jpeg",
+    "BID": 1675972,
+    "BeerName": "Hopperella",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Odd13 Brewing",
+    "Origin": "Lafayette, CO United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1675972_04a70_sm.jpeg",
     "HallRating": 20.33,
     "BAR": 12.58,
-    "StylePlus": "112",
-    "RatingScore": 3.84,
-    "AdjustedRating": "2.3708980157369973578181925498"
+    "StylePlus": "104",
+    "RatingScore": 4.03,
+    "AdjustedRating": "2.3736778389602647720307814301"
   },
   {
     "BID": 2013206,
@@ -285,19 +285,19 @@
     "AdjustedRating": "2.3698344267519408268070652077"
   },
   {
-    "BID": 1675972,
-    "BeerName": "Hopperella",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Odd13 Brewing",
-    "Origin": "Lafayette, CO United States",
-    "BeerAbv": 7.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1675972_04a70_sm.jpeg",
+    "BID": 29710,
+    "BeerName": "Cherry Kriek",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Strange Craft Beer Company",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29710_5cc6b_sm.jpeg",
     "HallRating": 20.33,
     "BAR": 12.58,
-    "StylePlus": "104",
-    "RatingScore": 4.03,
-    "AdjustedRating": "2.3736778389602647720307814301"
+    "StylePlus": "112",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.3708980157369973578181925498"
   },
   {
     "BID": 1200219,
@@ -330,19 +330,19 @@
     "AdjustedRating": "2.3671567720336917452499535058"
   },
   {
-    "BID": 22359,
-    "BeerName": "Ice Axe IPA",
+    "BID": 6014758,
+    "BeerName": "Kaaterskill IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Mt. Hood Brewing",
-    "Origin": "Government Camp, OR United States",
-    "BeerAbv": 6.50,
+    "BreweryName": "West Kill Brewing",
+    "Origin": "Kingston, NY United States",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22359_2e736_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-347723_6d690.jpeg",
     "HallRating": 20.31,
     "BAR": 12.55,
     "StylePlus": "104",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.3672795517530003533871658105"
+    "RatingScore": 4.03,
+    "AdjustedRating": "2.3731350019772669336483700148"
   },
   {
     "BID": 2000591,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.3667896052029395325628797708"
   },
   {
-    "BID": 4981939,
-    "BeerName": "Original Cosmic Crisp®",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "2 Towns Ciderhouse",
-    "Origin": "Corvallis, OR United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4131365_8dc4b_sm.jpeg",
+    "BID": 2018544,
+    "BeerName": "Electri-Fly",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Wild Ride Brewing",
+    "Origin": "Redmond, OR United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-675922_0df39_sm.jpeg",
     "HallRating": 20.31,
     "BAR": 12.55,
-    "StylePlus": "109",
-    "RatingScore": 3.91,
-    "AdjustedRating": "2.3714764499726550610146603977"
+    "StylePlus": "104",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.3681949839280366339480619786"
   }
 ]

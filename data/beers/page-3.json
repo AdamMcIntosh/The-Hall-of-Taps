@@ -15,21 +15,6 @@
     "AdjustedRating": "2.3557036516118484300594181447"
   },
   {
-    "BID": 6010670,
-    "BeerName": "The Statement Reserve (Batch 7)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
-    "HallRating": 28.47,
-    "BAR": 8.06,
-    "StylePlus": "124",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.3492882921810579500890649438"
-  },
-  {
     "BID": 3347932,
     "BeerName": "Mark Your Nutz",
     "BeerStyle": "Stout - Other",
@@ -43,6 +28,21 @@
     "StylePlus": "132",
     "RatingScore": 4.68,
     "AdjustedRating": "2.3492913668659027534967156596"
+  },
+  {
+    "BID": 6010670,
+    "BeerName": "The Statement Reserve (Batch 7)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
+    "HallRating": 28.47,
+    "BAR": 8.06,
+    "StylePlus": "124",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.3492882921810579500890649438"
   },
   {
     "BID": 3348226,
@@ -90,6 +90,21 @@
     "AdjustedRating": "2.3492955484818023057695499986"
   },
   {
+    "BID": 1010945,
+    "BeerName": "The Statement (Batch 3)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_445477_sm_b6777ed681a4d5c189f18775d1dff5.jpeg",
+    "HallRating": 28.28,
+    "BAR": 14.89,
+    "StylePlus": "124",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.354196253129823178480058933"
+  },
+  {
     "BID": 4631290,
     "BeerName": "A Deeper Understanding",
     "BeerStyle": "Stout - Imperial / Double",
@@ -105,19 +120,19 @@
     "AdjustedRating": "2.3542016547967272893984043666"
   },
   {
-    "BID": 1010945,
-    "BeerName": "The Statement (Batch 3)",
+    "BID": 4816596,
+    "BeerName": "Stevnsberry Van Oak",
     "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 14.00,
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 11.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_445477_sm_b6777ed681a4d5c189f18775d1dff5.jpeg",
-    "HallRating": 28.28,
-    "BAR": 14.89,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816596_dff03_sm.jpeg",
+    "HallRating": 28.27,
+    "BAR": 8.31,
     "StylePlus": "124",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.354196253129823178480058933"
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.3493147480349824855431116152"
   },
   {
     "BID": 3334258,
@@ -148,21 +163,6 @@
     "StylePlus": "120",
     "RatingScore": 4.59,
     "AdjustedRating": "2.3542728920281208463527154823"
-  },
-  {
-    "BID": 4816596,
-    "BeerName": "Stevnsberry Van Oak",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816596_dff03_sm.jpeg",
-    "HallRating": 28.27,
-    "BAR": 8.31,
-    "StylePlus": "124",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.3493147480349824855431116152"
   },
   {
     "BID": 5010052,
@@ -240,21 +240,6 @@
     "AdjustedRating": "2.3539147309511103323651223569"
   },
   {
-    "BID": 6003832,
-    "BeerName": "Stricken From Narrative",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003832_8c221_sm.jpeg",
-    "HallRating": 28.10,
-    "BAR": 14.46,
-    "StylePlus": "124",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.3533554261500139812654813843"
-  },
-  {
     "BID": 3010113,
     "BeerName": "3 Fonteinen Schaarbeekse Kriek Oogst 2016 (season 16|17) Blend No. 41",
     "BeerStyle": "Lambic - Kriek",
@@ -268,6 +253,21 @@
     "StylePlus": "130",
     "RatingScore": 4.54,
     "AdjustedRating": "2.3532946775565468077219684542"
+  },
+  {
+    "BID": 6003832,
+    "BeerName": "Stricken From Narrative",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003832_8c221_sm.jpeg",
+    "HallRating": 28.10,
+    "BAR": 14.46,
+    "StylePlus": "124",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.3533554261500139812654813843"
   },
   {
     "BID": 6008416,

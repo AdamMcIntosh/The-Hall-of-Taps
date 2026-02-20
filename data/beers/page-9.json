@@ -60,21 +60,6 @@
     "AdjustedRating": "2.6290844650872695758917774009"
   },
   {
-    "BID": 4940049,
-    "BeerName": "Bengali",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Sixpoint Brewery",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 66.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-691381_82bb6_sm.jpeg",
-    "HallRating": 23.53,
-    "BAR": 16.91,
-    "StylePlus": "104",
-    "RatingScore": 3.71,
-    "AdjustedRating": "2.6590854097786751158996141528"
-  },
-  {
     "BID": 10501,
     "BeerName": "Unfiltered Wheat Beer",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -88,6 +73,21 @@
     "StylePlus": "113",
     "RatingScore": 3.60,
     "AdjustedRating": "2.634593240118158479616560062"
+  },
+  {
+    "BID": 4940049,
+    "BeerName": "Bengali",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Sixpoint Brewery",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 66.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-691381_82bb6_sm.jpeg",
+    "HallRating": 23.53,
+    "BAR": 16.91,
+    "StylePlus": "104",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.6590854097786751158996141528"
   },
   {
     "BID": 2247,
@@ -180,6 +180,21 @@
     "AdjustedRating": "2.6095464605562067197736949942"
   },
   {
+    "BID": 4947,
+    "BeerName": "Hoptical Illusion",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Blue Point Brewing Company",
+    "Origin": "Patchogue, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4947_74fe0_sm.jpeg",
+    "HallRating": 23.41,
+    "BAR": 16.76,
+    "StylePlus": "104",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.6104115623406968779953892454"
+  },
+  {
     "BID": 7853,
     "BeerName": "Winter White Ale",
     "BeerStyle": "Wheat Beer - Other",
@@ -210,19 +225,19 @@
     "AdjustedRating": "2.595152165793713761008886814"
   },
   {
-    "BID": 4947,
-    "BeerName": "Hoptical Illusion",
+    "BID": 6002053,
+    "BeerName": "Big Swell IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Blue Point Brewing Company",
-    "Origin": "Patchogue, NY United States",
-    "BeerAbv": 7.00,
+    "BreweryName": "Maui Brewing Company",
+    "Origin": "Kihei, HI United States",
+    "BeerAbv": 6.80,
     "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4947_74fe0_sm.jpeg",
-    "HallRating": 23.41,
-    "BAR": 16.76,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5382_a8418_sm.jpeg",
+    "HallRating": 23.40,
+    "BAR": 16.75,
     "StylePlus": "104",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.6104115623406968779953892454"
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.6295935892571380626691885502"
   },
   {
     "BID": 1672224,
@@ -240,49 +255,19 @@
     "AdjustedRating": "2.5963579180129431062007333274"
   },
   {
-    "BID": 6002053,
-    "BeerName": "Big Swell IPA",
+    "BID": 10773,
+    "BeerName": "Avery IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Maui Brewing Company",
-    "Origin": "Kihei, HI United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5382_a8418_sm.jpeg",
-    "HallRating": 23.40,
-    "BAR": 16.75,
-    "StylePlus": "104",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.6295935892571380626691885502"
-  },
-  {
-    "BID": 1793,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "AleSmith Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 7.25,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1793_5fdd1_sm.jpeg",
+    "BreweryName": "Avery Brewing Co.",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 69.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10773_e0d40_sm.jpeg",
     "HallRating": 23.37,
     "BAR": 16.71,
     "StylePlus": "104",
-    "RatingScore": 3.89,
-    "AdjustedRating": "2.6647624832625397379118562845"
-  },
-  {
-    "BID": 3336139,
-    "BeerName": "Bel Air Sour",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Brooklyn Brewery",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1181009_58096_sm.jpeg",
-    "HallRating": 23.37,
-    "BAR": 16.72,
-    "StylePlus": "103",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.6001569562864825859850855981"
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.609000627808806246443417552"
   },
   {
     "BID": 4482,
@@ -300,19 +285,34 @@
     "AdjustedRating": "2.5960777819990003701705173312"
   },
   {
-    "BID": 10773,
-    "BeerName": "Avery IPA",
+    "BID": 3336139,
+    "BeerName": "Bel Air Sour",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Brooklyn Brewery",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1181009_58096_sm.jpeg",
+    "HallRating": 23.37,
+    "BAR": 16.72,
+    "StylePlus": "103",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.6001569562864825859850855981"
+  },
+  {
+    "BID": 1793,
+    "BeerName": "IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Avery Brewing Co.",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 69.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10773_e0d40_sm.jpeg",
+    "BreweryName": "AleSmith Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 7.25,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1793_5fdd1_sm.jpeg",
     "HallRating": 23.37,
     "BAR": 16.71,
     "StylePlus": "104",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.609000627808806246443417552"
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.6647624832625397379118562845"
   },
   {
     "BID": 11921,
@@ -328,6 +328,21 @@
     "StylePlus": "104",
     "RatingScore": 3.74,
     "AdjustedRating": "2.6331767615891641088713908606"
+  },
+  {
+    "BID": 3007352,
+    "BeerName": "Blizzard of Hops",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Tröegs Independent Brewing",
+    "Origin": "Hershey, PA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-533372_e6293_sm.jpeg",
+    "HallRating": 23.35,
+    "BAR": 16.69,
+    "StylePlus": "104",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.6352326499428081236006242436"
   },
   {
     "BID": 3349533,
@@ -358,20 +373,5 @@
     "StylePlus": "104",
     "RatingScore": 3.57,
     "AdjustedRating": "2.5955611398719100608782689782"
-  },
-  {
-    "BID": 3007352,
-    "BeerName": "Blizzard of Hops",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tröegs Independent Brewing",
-    "Origin": "Hershey, PA United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-533372_e6293_sm.jpeg",
-    "HallRating": 23.35,
-    "BAR": 16.69,
-    "StylePlus": "104",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.6352326499428081236006242436"
   }
 ]

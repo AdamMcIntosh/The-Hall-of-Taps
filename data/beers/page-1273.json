@@ -1,18 +1,18 @@
 [
   {
-    "BID": 5001982,
-    "BeerName": "8.6 Original",
-    "BeerStyle": "Lager - Strong",
-    "BreweryName": "Royal Swinkels",
-    "Origin": "Lieshout, Noord-Brabant Netherlands",
-    "BeerAbv": 8.60,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-38091_8e5e6_sm.jpeg",
+    "BID": 2011791,
+    "BeerName": "Cranberry Ginger Shandy",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Jacob Leinenkugel Brewing Company",
+    "Origin": "Chippewa Falls, WI United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 11.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-629393_50223_sm.jpeg",
     "HallRating": 11.48,
     "BAR": 8.10,
-    "StylePlus": "96",
-    "RatingScore": 3.11,
-    "AdjustedRating": "2.4662339791721888357090155225"
+    "StylePlus": "88",
+    "RatingScore": 3.30,
+    "AdjustedRating": "2.4947758895579757433208216728"
   },
   {
     "BID": 3006454,
@@ -30,34 +30,19 @@
     "AdjustedRating": "2.4013647262461536254520242059"
   },
   {
-    "BID": 2011791,
-    "BeerName": "Cranberry Ginger Shandy",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Jacob Leinenkugel Brewing Company",
-    "Origin": "Chippewa Falls, WI United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 11.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-629393_50223_sm.jpeg",
+    "BID": 5001982,
+    "BeerName": "8.6 Original",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Royal Swinkels",
+    "Origin": "Lieshout, Noord-Brabant Netherlands",
+    "BeerAbv": 8.60,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-38091_8e5e6_sm.jpeg",
     "HallRating": 11.48,
     "BAR": 8.10,
-    "StylePlus": "88",
-    "RatingScore": 3.30,
-    "AdjustedRating": "2.4947758895579757433208216728"
-  },
-  {
-    "BID": 1667666,
-    "BeerName": "Curious Traveler Lemon Shandy",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Traveler Beer Co.",
-    "Origin": "Burlington, VT United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 7.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-156870_d6bc7_sm.jpeg",
-    "HallRating": 11.48,
-    "BAR": 8.10,
-    "StylePlus": "88",
-    "RatingScore": 3.48,
-    "AdjustedRating": "2.5221137737310226469114562689"
+    "StylePlus": "96",
+    "RatingScore": 3.11,
+    "AdjustedRating": "2.4662339791721888357090155225"
   },
   {
     "BID": 1008324,
@@ -75,6 +60,21 @@
     "AdjustedRating": "2.4305396336502213735113426505"
   },
   {
+    "BID": 1667666,
+    "BeerName": "Curious Traveler Lemon Shandy",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Traveler Beer Co.",
+    "Origin": "Burlington, VT United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 7.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-156870_d6bc7_sm.jpeg",
+    "HallRating": 11.48,
+    "BAR": 8.10,
+    "StylePlus": "88",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.5221137737310226469114562689"
+  },
+  {
     "BID": 2016276,
     "BeerName": "Montucky Cold Snacks",
     "BeerStyle": "Lager - American",
@@ -88,6 +88,21 @@
     "StylePlus": "88",
     "RatingScore": 3.31,
     "AdjustedRating": "2.4948069488024928017992480244"
+  },
+  {
+    "BID": 6007629,
+    "BeerName": "Carling",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Molson Coors (UK)",
+    "Origin": "Burton-on-Trent, Staffordshire England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24491_14511_sm.jpeg",
+    "HallRating": 11.46,
+    "BAR": 8.07,
+    "StylePlus": "97",
+    "RatingScore": 2.65,
+    "AdjustedRating": "2.3937381323946835623450338035"
   },
   {
     "BID": 6400774,
@@ -118,21 +133,6 @@
     "StylePlus": "88",
     "RatingScore": 3.32,
     "AdjustedRating": "2.4927957514939098022005580932"
-  },
-  {
-    "BID": 6007629,
-    "BeerName": "Carling",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Molson Coors (UK)",
-    "Origin": "Burton-on-Trent, Staffordshire England",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24491_14511_sm.jpeg",
-    "HallRating": 11.46,
-    "BAR": 8.07,
-    "StylePlus": "97",
-    "RatingScore": 2.65,
-    "AdjustedRating": "2.3937381323946835623450338035"
   },
   {
     "BID": 5003546,
@@ -180,6 +180,51 @@
     "AdjustedRating": "2.5107812430790154441274268129"
   },
   {
+    "BID": 20188,
+    "BeerName": "Laško Zlatorog",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Pivovarna Laško",
+    "Origin": "Laško, Slovenia",
+    "BeerAbv": 4.90,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-373821_ee18f_sm.jpeg",
+    "HallRating": 11.44,
+    "BAR": 8.05,
+    "StylePlus": "97",
+    "RatingScore": 3.02,
+    "AdjustedRating": "2.4460352868174602500739532007"
+  },
+  {
+    "BID": 400778,
+    "BeerName": "Good Juju",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Left Hand Brewing Company",
+    "Origin": "Longmont, CO United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11266_58b82_sm.jpeg",
+    "HallRating": 11.44,
+    "BAR": 8.05,
+    "StylePlus": "86",
+    "RatingScore": 3.40,
+    "AdjustedRating": "2.500935868316892306697078172"
+  },
+  {
+    "BID": 2006116,
+    "BeerName": "Fresh as Helles",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1704023_5445d_sm.jpeg",
+    "HallRating": 11.44,
+    "BAR": 8.04,
+    "StylePlus": "88",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.5081107784319703439763593641"
+  },
+  {
     "BID": 4016584,
     "BeerName": "Xingu Black Beer",
     "BeerStyle": "Lager - Dark",
@@ -210,36 +255,6 @@
     "AdjustedRating": "2.4412646937669409213933958649"
   },
   {
-    "BID": 20188,
-    "BeerName": "Laško Zlatorog",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Pivovarna Laško",
-    "Origin": "Laško, Slovenia",
-    "BeerAbv": 4.90,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-373821_ee18f_sm.jpeg",
-    "HallRating": 11.44,
-    "BAR": 8.05,
-    "StylePlus": "97",
-    "RatingScore": 3.02,
-    "AdjustedRating": "2.4460352868174602500739532007"
-  },
-  {
-    "BID": 2006116,
-    "BeerName": "Fresh as Helles",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1704023_5445d_sm.jpeg",
-    "HallRating": 11.44,
-    "BAR": 8.04,
-    "StylePlus": "88",
-    "RatingScore": 3.46,
-    "AdjustedRating": "2.5081107784319703439763593641"
-  },
-  {
     "BID": 29306,
     "BeerName": "Lech Premium",
     "BeerStyle": "Lager - Pale",
@@ -255,19 +270,19 @@
     "AdjustedRating": "2.4436147368100436464300962743"
   },
   {
-    "BID": 400778,
-    "BeerName": "Good Juju",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Left Hand Brewing Company",
-    "Origin": "Longmont, CO United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11266_58b82_sm.jpeg",
-    "HallRating": 11.44,
-    "BAR": 8.05,
-    "StylePlus": "86",
-    "RatingScore": 3.40,
-    "AdjustedRating": "2.500935868316892306697078172"
+    "BID": 30056,
+    "BeerName": "Berliner Kindl Jubiläums Pilsener",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Berliner-Kindl-Schultheiss-Brauerei",
+    "Origin": "Berlin, Germany",
+    "BeerAbv": 5.10,
+    "BeerIbu": 27.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30056_e50ca_sm.jpeg",
+    "HallRating": 11.43,
+    "BAR": 8.03,
+    "StylePlus": "88",
+    "RatingScore": 3.12,
+    "AdjustedRating": "2.4580293821882636114877742389"
   },
   {
     "BID": 3344027,
@@ -283,21 +298,6 @@
     "StylePlus": "87",
     "RatingScore": 3.32,
     "AdjustedRating": "2.486026381300293116364459357"
-  },
-  {
-    "BID": 30056,
-    "BeerName": "Berliner Kindl Jubiläums Pilsener",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Berliner-Kindl-Schultheiss-Brauerei",
-    "Origin": "Berlin, Germany",
-    "BeerAbv": 5.10,
-    "BeerIbu": 27.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30056_e50ca_sm.jpeg",
-    "HallRating": 11.43,
-    "BAR": 8.03,
-    "StylePlus": "88",
-    "RatingScore": 3.12,
-    "AdjustedRating": "2.4580293821882636114877742389"
   },
   {
     "BID": 9310,
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.5037951070561153598452003073"
   },
   {
-    "BID": 2013910,
-    "BeerName": "Alfa Edel Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Alfa Bierbrouwerij",
-    "Origin": "Schinnen, Limburg Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21255_8fdfc_sm.jpeg",
-    "HallRating": 11.41,
-    "BAR": 8.00,
-    "StylePlus": "87",
-    "RatingScore": 3.27,
-    "AdjustedRating": "2.4751392438303134601318793771"
-  },
-  {
     "BID": 3002237,
     "BeerName": "Cusqueña Dorada / Golden Lager",
     "BeerStyle": "Lager - Pale",
@@ -373,5 +358,20 @@
     "StylePlus": "97",
     "RatingScore": 3.13,
     "AdjustedRating": "2.4560663875516758934137756392"
+  },
+  {
+    "BID": 6135,
+    "BeerName": "Mahou Clásica",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Grupo Mahou-San Miguel",
+    "Origin": "Madrid, Comunidad de Madrid Spain",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6135_56b39_sm.jpeg",
+    "HallRating": 11.41,
+    "BAR": 8.01,
+    "StylePlus": "97",
+    "RatingScore": 2.91,
+    "AdjustedRating": "2.4261586382438680814059011508"
   }
 ]

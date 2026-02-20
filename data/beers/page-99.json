@@ -1,5 +1,20 @@
 [
   {
+    "BID": 3012884,
+    "BeerName": "Alpha Dankopotamus",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Hop Dogma Brewing Co.",
+    "Origin": "El Granada, CA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1602150_53e02_sm.jpeg",
+    "HallRating": 19.94,
+    "BAR": 11.96,
+    "StylePlus": "104",
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.3643481099536316294857164803"
+  },
+  {
     "BID": 1006974,
     "BeerName": "Session IPA",
     "BeerStyle": "IPA - Session",
@@ -13,21 +28,6 @@
     "StylePlus": "108",
     "RatingScore": 3.80,
     "AdjustedRating": "2.3629701037759365629170969887"
-  },
-  {
-    "BID": 1009187,
-    "BeerName": "Shackel Town",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Mala Gissona",
-    "Origin": "Oiartzun, Euskadi Spain",
-    "BeerAbv": 6.50,
-    "BeerIbu": 52.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1009187_4a657_sm.jpeg",
-    "HallRating": 19.94,
-    "BAR": 11.97,
-    "StylePlus": "104",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.3614022681505607991492313062"
   },
   {
     "BID": 2012050,
@@ -60,21 +60,6 @@
     "AdjustedRating": "2.3637426957840846933554033161"
   },
   {
-    "BID": 1001167,
-    "BeerName": "Bison",
-    "BeerStyle": "Lager - Vienna",
-    "BreweryName": "Little Harpeth",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1145664_3db61_sm.jpeg",
-    "HallRating": 19.93,
-    "BAR": 11.95,
-    "StylePlus": "112",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.3612263523799211649512419069"
-  },
-  {
     "BID": 6009559,
     "BeerName": "Fest Bier",
     "BeerStyle": "Festbier",
@@ -90,6 +75,21 @@
     "AdjustedRating": "2.3634159347967942754701245526"
   },
   {
+    "BID": 1001167,
+    "BeerName": "Bison",
+    "BeerStyle": "Lager - Vienna",
+    "BreweryName": "Little Harpeth",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1145664_3db61_sm.jpeg",
+    "HallRating": 19.93,
+    "BAR": 11.95,
+    "StylePlus": "112",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.3612263523799211649512419069"
+  },
+  {
     "BID": 2015655,
     "BeerName": "2 Hop Shakur West Coast IPA",
     "BeerStyle": "IPA - American",
@@ -103,36 +103,6 @@
     "StylePlus": "104",
     "RatingScore": 3.53,
     "AdjustedRating": "2.3602209348554738717385255008"
-  },
-  {
-    "BID": 4011388,
-    "BeerName": "Bride of Dankenstein",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Mason Ale Works",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4011388_4ae6b_sm.jpeg",
-    "HallRating": 19.92,
-    "BAR": 11.94,
-    "StylePlus": "104",
-    "RatingScore": 3.83,
-    "AdjustedRating": "2.3630145036921167870085947723"
-  },
-  {
-    "BID": 21993,
-    "BeerName": "Trooper IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "SunUp Brewing Co.",
-    "Origin": "Phoenix, AZ United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21993_c4a6c_sm.jpeg",
-    "HallRating": 19.92,
-    "BAR": 11.93,
-    "StylePlus": "104",
-    "RatingScore": 3.51,
-    "AdjustedRating": "2.3599634410837246707155354306"
   },
   {
     "BID": 30564,
@@ -165,6 +135,21 @@
     "AdjustedRating": "2.3600033126859545067385314077"
   },
   {
+    "BID": 21993,
+    "BeerName": "Trooper IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "SunUp Brewing Co.",
+    "Origin": "Phoenix, AZ United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21993_c4a6c_sm.jpeg",
+    "HallRating": 19.92,
+    "BAR": 11.93,
+    "StylePlus": "104",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.3599634410837246707155354306"
+  },
+  {
     "BID": 3341462,
     "BeerName": "NORTHERN POWERHOUSE BREW SERIES 005 // WEST COAST IPA // BUXTON BREWERY",
     "BeerStyle": "IPA - American",
@@ -178,6 +163,21 @@
     "StylePlus": "104",
     "RatingScore": 3.83,
     "AdjustedRating": "2.3628982420714571318471416735"
+  },
+  {
+    "BID": 4011388,
+    "BeerName": "Bride of Dankenstein",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Mason Ale Works",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4011388_4ae6b_sm.jpeg",
+    "HallRating": 19.92,
+    "BAR": 11.94,
+    "StylePlus": "104",
+    "RatingScore": 3.83,
+    "AdjustedRating": "2.3630145036921167870085947723"
   },
   {
     "BID": 18574,
@@ -195,21 +195,6 @@
     "AdjustedRating": "2.3607238318321149743807964819"
   },
   {
-    "BID": 2006719,
-    "BeerName": "Old School IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Noctem Artisans Brasseurs",
-    "Origin": "Québec, QC Canada",
-    "BeerAbv": 7.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2006719_51c15_sm.jpeg",
-    "HallRating": 19.91,
-    "BAR": 11.92,
-    "StylePlus": "104",
-    "RatingScore": 3.79,
-    "AdjustedRating": "2.3624535614231467187070863004"
-  },
-  {
     "BID": 27689,
     "BeerName": "Genziana",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -223,6 +208,21 @@
     "StylePlus": "115",
     "RatingScore": 3.59,
     "AdjustedRating": "2.3605600273747785810106890237"
+  },
+  {
+    "BID": 2006719,
+    "BeerName": "Old School IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Noctem Artisans Brasseurs",
+    "Origin": "Québec, QC Canada",
+    "BeerAbv": 7.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2006719_51c15_sm.jpeg",
+    "HallRating": 19.91,
+    "BAR": 11.92,
+    "StylePlus": "104",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.3624535614231467187070863004"
   },
   {
     "BID": 3342654,
@@ -285,19 +285,19 @@
     "AdjustedRating": "2.3607352975083725819003684051"
   },
   {
-    "BID": 1675442,
-    "BeerName": "Skully Barrel No. 40 Pineapple Upside-Down Sour 2016",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Paradox Beer Company",
-    "Origin": "Divide, CO United States",
-    "BeerAbv": 7.60,
-    "BeerIbu": 17.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1651481_30e8f_sm.jpeg",
+    "BID": 19870,
+    "BeerName": "TLA IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Zero Gravity Beer",
+    "Origin": "Burlington, VT United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 75.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19870_6cc09_sm.jpeg",
     "HallRating": 19.89,
     "BAR": 11.88,
-    "StylePlus": "103",
-    "RatingScore": 4.17,
-    "AdjustedRating": "2.3655362456272020180936634573"
+    "StylePlus": "104",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.3614456834005554043628544407"
   },
   {
     "BID": 2015612,
@@ -315,19 +315,19 @@
     "AdjustedRating": "2.3621833299700549814112111868"
   },
   {
-    "BID": 12603,
-    "BeerName": "Santo Viejo",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Old Harbor Brewery",
-    "Origin": "Carolina, Puerto Rico",
-    "BeerAbv": 5.50,
-    "BeerIbu": 38.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4766192_600f4_sm.jpeg",
+    "BID": 1675442,
+    "BeerName": "Skully Barrel No. 40 Pineapple Upside-Down Sour 2016",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Paradox Beer Company",
+    "Origin": "Divide, CO United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 17.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1651481_30e8f_sm.jpeg",
     "HallRating": 19.89,
-    "BAR": 11.89,
-    "StylePlus": "118",
-    "RatingScore": 3.53,
-    "AdjustedRating": "2.3598384334704922462491475554"
+    "BAR": 11.88,
+    "StylePlus": "103",
+    "RatingScore": 4.17,
+    "AdjustedRating": "2.3655362456272020180936634573"
   },
   {
     "BID": 1671926,
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.3600678464010449161982491458"
   },
   {
-    "BID": 19870,
-    "BeerName": "TLA IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Zero Gravity Beer",
-    "Origin": "Burlington, VT United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 75.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19870_6cc09_sm.jpeg",
-    "HallRating": 19.89,
-    "BAR": 11.88,
-    "StylePlus": "104",
-    "RatingScore": 3.71,
-    "AdjustedRating": "2.3614456834005554043628544407"
-  },
-  {
     "BID": 3348202,
     "BeerName": "Outspoken IPA",
     "BeerStyle": "IPA - American",
@@ -373,5 +358,20 @@
     "StylePlus": "104",
     "RatingScore": 3.54,
     "AdjustedRating": "2.3599122269623851591023100646"
+  },
+  {
+    "BID": 12603,
+    "BeerName": "Santo Viejo",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Old Harbor Brewery",
+    "Origin": "Carolina, Puerto Rico",
+    "BeerAbv": 5.50,
+    "BeerIbu": 38.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4766192_600f4_sm.jpeg",
+    "HallRating": 19.89,
+    "BAR": 11.89,
+    "StylePlus": "118",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.3598384334704922462491475554"
   }
 ]

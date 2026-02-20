@@ -45,21 +45,6 @@
     "AdjustedRating": "2.4843538364756388302161818673"
   },
   {
-    "BID": 8324,
-    "BeerName": "Stash IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Independence Brewing Co.",
-    "Origin": "Austin, TX United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 94.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8324_59fd1_sm.jpeg",
-    "HallRating": 22.52,
-    "BAR": 15.63,
-    "StylePlus": "104",
-    "RatingScore": 3.73,
-    "AdjustedRating": "2.4994420345799093384977881399"
-  },
-  {
     "BID": 7254,
     "BeerName": "Red Oak",
     "BeerStyle": "Lager - Amber / Red",
@@ -73,6 +58,21 @@
     "StylePlus": "114",
     "RatingScore": 3.73,
     "AdjustedRating": "2.5000010191574556566996288691"
+  },
+  {
+    "BID": 8324,
+    "BeerName": "Stash IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Independence Brewing Co.",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 94.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8324_59fd1_sm.jpeg",
+    "HallRating": 22.52,
+    "BAR": 15.63,
+    "StylePlus": "104",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.4994420345799093384977881399"
   },
   {
     "BID": 3334863,
@@ -90,19 +90,19 @@
     "AdjustedRating": "2.5196454319017505200053963446"
   },
   {
-    "BID": 26954,
-    "BeerName": "Indica IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Lost Coast Brewery",
-    "Origin": "Eureka, CA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-904_907ce_sm.jpeg",
+    "BID": 1671883,
+    "BeerName": "Andechser Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Klosterbrauerei Andechs",
+    "Origin": "Andechs, Bayern Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-AndechserVollbierHell_87308.jpeg",
     "HallRating": 22.50,
     "BAR": 15.60,
-    "StylePlus": "104",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.4818676696813484857673083328"
+    "StylePlus": "117",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.477605732095998668180778277"
   },
   {
     "BID": 22018,
@@ -120,34 +120,34 @@
     "AdjustedRating": "2.4863530087638611572904447308"
   },
   {
-    "BID": 1671883,
-    "BeerName": "Andechser Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Klosterbrauerei Andechs",
-    "Origin": "Andechs, Bayern Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-AndechserVollbierHell_87308.jpeg",
+    "BID": 26954,
+    "BeerName": "Indica IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Lost Coast Brewery",
+    "Origin": "Eureka, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-904_907ce_sm.jpeg",
     "HallRating": 22.50,
     "BAR": 15.60,
-    "StylePlus": "117",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.477605732095998668180778277"
+    "StylePlus": "104",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.4818676696813484857673083328"
   },
   {
-    "BID": 8792,
-    "BeerName": "Fat Tug IPA",
+    "BID": 4801712,
+    "BeerName": "Money",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Driftwood Brewery",
-    "Origin": "Victoria, BC Canada",
-    "BeerAbv": 7.00,
-    "BeerIbu": 100.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8792_03165_sm.jpeg",
+    "BreweryName": "Barrier Brewing Company",
+    "Origin": "Oceanside, NY United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 95.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-149042_2da6b_sm.jpeg",
     "HallRating": 22.49,
-    "BAR": 15.59,
+    "BAR": 15.60,
     "StylePlus": "104",
-    "RatingScore": 3.87,
-    "AdjustedRating": "2.5104148345879371838622570902"
+    "RatingScore": 3.90,
+    "AdjustedRating": "2.5143098736942323575656675598"
   },
   {
     "BID": 12073,
@@ -165,19 +165,19 @@
     "AdjustedRating": "2.4933012391080323244626802731"
   },
   {
-    "BID": 4801712,
-    "BeerName": "Money",
+    "BID": 8792,
+    "BeerName": "Fat Tug IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Barrier Brewing Company",
-    "Origin": "Oceanside, NY United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 95.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-149042_2da6b_sm.jpeg",
+    "BreweryName": "Driftwood Brewery",
+    "Origin": "Victoria, BC Canada",
+    "BeerAbv": 7.00,
+    "BeerIbu": 100.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8792_03165_sm.jpeg",
     "HallRating": 22.49,
-    "BAR": 15.60,
+    "BAR": 15.59,
     "StylePlus": "104",
-    "RatingScore": 3.90,
-    "AdjustedRating": "2.5143098736942323575656675598"
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.5104148345879371838622570902"
   },
   {
     "BID": 28101,
@@ -285,21 +285,6 @@
     "AdjustedRating": "2.506447351452808789909675258"
   },
   {
-    "BID": 2404,
-    "BeerName": "Old Elephant Foot IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tampa Bay Brewing Company",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2404_96631_sm.jpeg",
-    "HallRating": 22.44,
-    "BAR": 15.53,
-    "StylePlus": "104",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.4873247346718818592343952416"
-  },
-  {
     "BID": 2014016,
     "BeerName": "Hop Manna IPA",
     "BeerStyle": "IPA - American",
@@ -313,6 +298,21 @@
     "StylePlus": "104",
     "RatingScore": 3.59,
     "AdjustedRating": "2.476165990930985155159283717"
+  },
+  {
+    "BID": 2404,
+    "BeerName": "Old Elephant Foot IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Tampa Bay Brewing Company",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2404_96631_sm.jpeg",
+    "HallRating": 22.44,
+    "BAR": 15.53,
+    "StylePlus": "104",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.4873247346718818592343952416"
   },
   {
     "BID": 3345707,
