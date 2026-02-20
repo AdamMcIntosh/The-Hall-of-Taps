@@ -400,7 +400,19 @@
                 renderFilteredPage();
                 updatePagination();
               } else {
-                renderChunk(currentChunk, currentStart);
+                tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="loading">Loading all beers to sort…</td></tr>';
+                loadAllBeers()
+                  .then(function (all) {
+                    filteredFullList = all.slice().sort(compare);
+                    total = filteredFullList.length;
+                    totalPages = Math.max(1, Math.ceil(total / pageSize));
+                    currentPage = 1;
+                    renderFilteredPage();
+                    updatePagination();
+                  })
+                  .catch(function () {
+                    tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="error">Could not load beers to sort. Export data from <strong>HallofTaps.Engine</strong> into this site&rsquo;s <code>data</code> folder, then refresh.</td></tr>';
+                  });
               }
             });
           });
