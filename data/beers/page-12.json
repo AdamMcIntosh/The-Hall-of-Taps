@@ -1,18 +1,18 @@
 [
   {
-    "BID": 1669812,
-    "BeerName": "Soft Parade",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6349_b1e28_sm.jpeg",
+    "BID": 103,
+    "BeerName": "Robert the Bruce",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "3 Floyds Brewing",
+    "Origin": "Munster, IN United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 24.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-103_75883_sm.jpeg",
     "HallRating": 22.92,
-    "BAR": 16.15,
-    "StylePlus": "112",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.5395488354262225586462435551"
+    "BAR": 16.14,
+    "StylePlus": "109",
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.5742808504087121236376368479"
   },
   {
     "BID": 19686,
@@ -30,21 +30,6 @@
     "AdjustedRating": "2.5326686342134915635950352513"
   },
   {
-    "BID": 4000873,
-    "BeerName": "Warsteiner Märzen / Oktoberfest",
-    "BeerStyle": "Festbier",
-    "BreweryName": "Warsteiner",
-    "Origin": "Warstein, Nordrhein-Westfalen Germany",
-    "BeerAbv": 5.90,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5060_22f4c_sm.jpeg",
-    "HallRating": 22.90,
-    "BAR": 16.12,
-    "StylePlus": "105",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.5384031907764239387560231447"
-  },
-  {
     "BID": 2004120,
     "BeerName": "Nu Skool IPA",
     "BeerStyle": "IPA - American",
@@ -60,19 +45,19 @@
     "AdjustedRating": "2.5462191877793609621154458246"
   },
   {
-    "BID": 29293,
-    "BeerName": "RPM IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Boneyard Beer",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29293_28a61_sm.jpeg",
-    "HallRating": 22.89,
-    "BAR": 16.11,
-    "StylePlus": "104",
-    "RatingScore": 3.94,
-    "AdjustedRating": "2.5803232814764700299582717375"
+    "BID": 4000873,
+    "BeerName": "Warsteiner Märzen / Oktoberfest",
+    "BeerStyle": "Festbier",
+    "BreweryName": "Warsteiner",
+    "Origin": "Warstein, Nordrhein-Westfalen Germany",
+    "BeerAbv": 5.90,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5060_22f4c_sm.jpeg",
+    "HallRating": 22.90,
+    "BAR": 16.12,
+    "StylePlus": "105",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.5384031907764239387560231447"
   },
   {
     "BID": 4993,
@@ -90,6 +75,21 @@
     "AdjustedRating": "2.5268629952228137361065643759"
   },
   {
+    "BID": 29293,
+    "BeerName": "RPM IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Boneyard Beer",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29293_28a61_sm.jpeg",
+    "HallRating": 22.89,
+    "BAR": 16.11,
+    "StylePlus": "104",
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.5803232814764700299582717375"
+  },
+  {
     "BID": 1668654,
     "BeerName": "Juicy Ass",
     "BeerStyle": "IPA - American",
@@ -105,21 +105,6 @@
     "AdjustedRating": "2.5491217824674698610100261854"
   },
   {
-    "BID": 1008678,
-    "BeerName": "Down to Earth",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "21st Amendment Brewery",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 42.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1008678_5fd98_sm.jpeg",
-    "HallRating": 22.86,
-    "BAR": 16.06,
-    "StylePlus": "108",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.5359472049819660487756070862"
-  },
-  {
     "BID": 1672839,
     "BeerName": "Harvest Autumn IPA",
     "BeerStyle": "IPA - American",
@@ -133,6 +118,21 @@
     "StylePlus": "104",
     "RatingScore": 3.54,
     "AdjustedRating": "2.5186895771845892033290090005"
+  },
+  {
+    "BID": 1008678,
+    "BeerName": "Down to Earth",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "21st Amendment Brewery",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 42.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1008678_5fd98_sm.jpeg",
+    "HallRating": 22.86,
+    "BAR": 16.06,
+    "StylePlus": "108",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.5359472049819660487756070862"
   },
   {
     "BID": 1200020,
@@ -270,21 +270,6 @@
     "AdjustedRating": "2.5574322705037963987601760461"
   },
   {
-    "BID": 5200001,
-    "BeerName": "Zombie Killer",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "B. Nektar Meadery",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-37947_31a7c_sm.jpeg",
-    "HallRating": 22.76,
-    "BAR": 15.94,
-    "StylePlus": "107",
-    "RatingScore": 3.94,
-    "AdjustedRating": "2.5580094416530633326345978744"
-  },
-  {
     "BID": 1007913,
     "BeerName": "Free Dive",
     "BeerStyle": "IPA - American",
@@ -298,6 +283,21 @@
     "StylePlus": "104",
     "RatingScore": 3.72,
     "AdjustedRating": "2.5299387969427073483483680069"
+  },
+  {
+    "BID": 5200001,
+    "BeerName": "Zombie Killer",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "B. Nektar Meadery",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-37947_31a7c_sm.jpeg",
+    "HallRating": 22.76,
+    "BAR": 15.94,
+    "StylePlus": "107",
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.5580094416530633326345978744"
   },
   {
     "BID": 2014930,
@@ -315,21 +315,6 @@
     "AdjustedRating": "2.5047339869782883187659355842"
   },
   {
-    "BID": 1001579,
-    "BeerName": "Blushing Monk (2019)",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 9.20,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12817_f68dd_sm.jpeg",
-    "HallRating": 22.75,
-    "BAR": 15.93,
-    "StylePlus": "112",
-    "RatingScore": 3.94,
-    "AdjustedRating": "2.5569702471288855059864726997"
-  },
-  {
     "BID": 1672878,
     "BeerName": "Even Keel",
     "BeerStyle": "IPA - Session",
@@ -343,6 +328,21 @@
     "StylePlus": "108",
     "RatingScore": 3.64,
     "AdjustedRating": "2.5181051888492563199563295541"
+  },
+  {
+    "BID": 1001579,
+    "BeerName": "Blushing Monk (2019)",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 9.20,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12817_f68dd_sm.jpeg",
+    "HallRating": 22.75,
+    "BAR": 15.93,
+    "StylePlus": "112",
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.5569702471288855059864726997"
   },
   {
     "BID": 27563,

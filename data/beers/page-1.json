@@ -1,20 +1,5 @@
 [
   {
-    "BID": 5600925,
-    "BeerName": "Bourbon County Brand Eagle Rare 2-Year Reserve Stout (2023)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5614353_8b339_sm.jpeg",
-    "HallRating": 31.34,
-    "BAR": 20.13,
-    "StylePlus": "125",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.4065041027816400568200915421"
-  },
-  {
     "BID": 3338876,
     "BeerName": "Complaint Department",
     "BeerStyle": "Stout - Milk / Sweet",
@@ -28,6 +13,21 @@
     "StylePlus": "128",
     "RatingScore": 4.58,
     "AdjustedRating": "2.3491417035628639939691903054"
+  },
+  {
+    "BID": 5600925,
+    "BeerName": "Bourbon County Brand Eagle Rare 2-Year Reserve Stout (2023)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5614353_8b339_sm.jpeg",
+    "HallRating": 31.34,
+    "BAR": 20.13,
+    "StylePlus": "125",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.4065041027816400568200915421"
   },
   {
     "BID": 2012665,
@@ -225,21 +225,6 @@
     "AdjustedRating": "2.3815823264603723160562100472"
   },
   {
-    "BID": 4961446,
-    "BeerName": "Mega Fresh - Maria",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Juicy Brewing Co",
-    "Origin": "Herndon, VA United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961446_9485b_sm.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
-    "StylePlus": "125",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.3491650109804574856546663397"
-  },
-  {
     "BID": 2018479,
     "BeerName": "Light Blue Wax",
     "BeerStyle": "Sour - Fruited Berliner Weisse",
@@ -253,6 +238,21 @@
     "StylePlus": "128",
     "RatingScore": 4.53,
     "AdjustedRating": "2.3491615111554487360921444658"
+  },
+  {
+    "BID": 4961446,
+    "BeerName": "Mega Fresh - Maria",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Juicy Brewing Co",
+    "Origin": "Herndon, VA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961446_9485b_sm.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "125",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.3491650109804574856546663397"
   },
   {
     "BID": 3000429,

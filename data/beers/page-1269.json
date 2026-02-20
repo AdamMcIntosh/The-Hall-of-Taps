@@ -15,6 +15,21 @@
     "AdjustedRating": "2.645125829727240758513098625"
   },
   {
+    "BID": 4447094,
+    "BeerName": "Amstel",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Amstel Bier",
+    "Origin": "Zoeterwoude, Zuid-Holland Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-72160_68a98_sm.jpeg",
+    "HallRating": 12.18,
+    "BAR": 8.96,
+    "StylePlus": "97",
+    "RatingScore": 2.89,
+    "AdjustedRating": "2.5514486329778552840595990018"
+  },
+  {
     "BID": 3348490,
     "BeerName": "Tiger",
     "BeerStyle": "Lager - Pale",
@@ -30,19 +45,34 @@
     "AdjustedRating": "2.5774243239654816396616319556"
   },
   {
-    "BID": 4447094,
-    "BeerName": "Amstel",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Amstel Bier",
-    "Origin": "Zoeterwoude, Zuid-Holland Netherlands",
-    "BeerAbv": 5.00,
+    "BID": 5201407,
+    "BeerName": "Spaten München / Münchner Hell / Premium Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.20,
     "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-72160_68a98_sm.jpeg",
-    "HallRating": 12.18,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1633_d78e8_sm.jpeg",
+    "HallRating": 12.17,
     "BAR": 8.96,
-    "StylePlus": "97",
-    "RatingScore": 2.89,
-    "AdjustedRating": "2.5514486329778552840595990018"
+    "StylePlus": "88",
+    "RatingScore": 3.39,
+    "AdjustedRating": "2.7361333516946624948556122916"
+  },
+  {
+    "BID": 4003102,
+    "BeerName": "Jupiler",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Brasserie Jupiler",
+    "Origin": "Liège, Région Wallonne Belgium",
+    "BeerAbv": 5.20,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4679_c0ff3_sm.jpeg",
+    "HallRating": 12.17,
+    "BAR": 8.95,
+    "StylePlus": "87",
+    "RatingScore": 3.25,
+    "AdjustedRating": "2.6820393051885421021625679326"
   },
   {
     "BID": 2013071,
@@ -73,36 +103,6 @@
     "StylePlus": "91",
     "RatingScore": 2.56,
     "AdjustedRating": "2.4269847651671972889222764965"
-  },
-  {
-    "BID": 4003102,
-    "BeerName": "Jupiler",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Brasserie Jupiler",
-    "Origin": "Liège, Région Wallonne Belgium",
-    "BeerAbv": 5.20,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4679_c0ff3_sm.jpeg",
-    "HallRating": 12.17,
-    "BAR": 8.95,
-    "StylePlus": "87",
-    "RatingScore": 3.25,
-    "AdjustedRating": "2.6820393051885421021625679326"
-  },
-  {
-    "BID": 5201407,
-    "BeerName": "Spaten München / Münchner Hell / Premium Lager",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.20,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1633_d78e8_sm.jpeg",
-    "HallRating": 12.17,
-    "BAR": 8.96,
-    "StylePlus": "88",
-    "RatingScore": 3.39,
-    "AdjustedRating": "2.7361333516946624948556122916"
   },
   {
     "BID": 9945,
@@ -150,21 +150,6 @@
     "AdjustedRating": "2.4943197745185993493099830764"
   },
   {
-    "BID": 1004431,
-    "BeerName": "Coors Banquet",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Coors Brewing Company",
-    "Origin": "Golden, CO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3833_1d167_sm.jpeg",
-    "HallRating": 12.12,
-    "BAR": 8.89,
-    "StylePlus": "88",
-    "RatingScore": 2.90,
-    "AdjustedRating": "2.5424966423156266936575713561"
-  },
-  {
     "BID": 1671591,
     "BeerName": "Dos Equis Ambar",
     "BeerStyle": "Lager - Vienna",
@@ -178,6 +163,21 @@
     "StylePlus": "84",
     "RatingScore": 3.26,
     "AdjustedRating": "2.6698924622414731568386611192"
+  },
+  {
+    "BID": 1004431,
+    "BeerName": "Coors Banquet",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3833_1d167_sm.jpeg",
+    "HallRating": 12.12,
+    "BAR": 8.89,
+    "StylePlus": "88",
+    "RatingScore": 2.90,
+    "AdjustedRating": "2.5424966423156266936575713561"
   },
   {
     "BID": 2017487,

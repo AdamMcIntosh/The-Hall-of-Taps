@@ -75,21 +75,6 @@
     "AdjustedRating": "2.3491074915437179155810595465"
   },
   {
-    "BID": 2016441,
-    "BeerName": "Noir de Watou Oak",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Bierstekers",
-    "Origin": "Brugge, Vlaams Gewest Belgium",
-    "BeerAbv": 9.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-302768_25799.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "131",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.3491069915562176030888718512"
-  },
-  {
     "BID": 6001317,
     "BeerName": "The Darkness of Sparrows",
     "BeerStyle": "Farmhouse Ale - Other",
@@ -103,6 +88,21 @@
     "StylePlus": "130",
     "RatingScore": 4.67,
     "AdjustedRating": "2.3491104914687197905341857184"
+  },
+  {
+    "BID": 2016441,
+    "BeerName": "Noir de Watou Oak",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Bierstekers",
+    "Origin": "Brugge, Vlaams Gewest Belgium",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-302768_25799.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "131",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.3491069915562176030888718512"
   },
   {
     "BID": 5013057,
@@ -135,6 +135,36 @@
     "AdjustedRating": "2.5680615438881674849509240261"
   },
   {
+    "BID": 4959638,
+    "BeerName": "Akatosh",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Yorwick Brew",
+    "Origin": "Yekaterinburg, Sverdlovsk Oblast Russia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959638_81a7c_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "132",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.3491121686463687333887808815"
+  },
+  {
+    "BID": 1669755,
+    "BeerName": "Broadacres with Mexican Candy",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Phantom Carriage Brewery",
+    "Origin": "Carson, CA United States",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-48094_db820.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "131",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.3491129936236818572778739315"
+  },
+  {
     "BID": 4980950,
     "BeerName": "Ta-Ta And Farewell",
     "BeerStyle": "Mead - Melomel",
@@ -163,36 +193,6 @@
     "StylePlus": "127",
     "RatingScore": 4.59,
     "AdjustedRating": "2.3491140935934326891299979981"
-  },
-  {
-    "BID": 1669755,
-    "BeerName": "Broadacres with Mexican Candy",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Phantom Carriage Brewery",
-    "Origin": "Carson, CA United States",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-48094_db820.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "131",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.3491129936236818572778739315"
-  },
-  {
-    "BID": 4959638,
-    "BeerName": "Akatosh",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Yorwick Brew",
-    "Origin": "Yekaterinburg, Sverdlovsk Oblast Russia",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959638_81a7c_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "132",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.3491121686463687333887808815"
   },
   {
     "BID": 5817,
@@ -300,6 +300,21 @@
     "AdjustedRating": "2.3491395014997002697688327418"
   },
   {
+    "BID": 4815824,
+    "BeerName": "Mouthful of Rainbows- Lemon",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "SJ Brewing Company",
+    "Origin": "Yulee Heights, FL United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815824_3fca6_sm.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "128",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.3491357516403199965290792325"
+  },
+  {
     "BID": 3334597,
     "BeerName": "Summer-Rita",
     "BeerStyle": "Mead - Melomel",
@@ -313,21 +328,6 @@
     "StylePlus": "124",
     "RatingScore": 4.53,
     "AdjustedRating": "2.3491342516965678872331778288"
-  },
-  {
-    "BID": 1673471,
-    "BeerName": "Maple Oak Marshal Zhukov's",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "125",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.3491387515278242151208820399"
   },
   {
     "BID": 3340599,
@@ -345,19 +345,19 @@
     "AdjustedRating": "2.3491338767106298599092024779"
   },
   {
-    "BID": 4815824,
-    "BeerName": "Mouthful of Rainbows- Lemon",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "SJ Brewing Company",
-    "Origin": "Yulee Heights, FL United States",
-    "BeerAbv": 8.20,
+    "BID": 1673471,
+    "BeerName": "Maple Oak Marshal Zhukov's",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815824_3fca6_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
     "HallRating": 31.64,
     "BAR": 5.88,
-    "StylePlus": "128",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.3491357516403199965290792325"
+    "StylePlus": "125",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.3491387515278242151208820399"
   },
   {
     "BID": 2401566,

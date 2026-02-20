@@ -1,18 +1,18 @@
 [
   {
-    "BID": 3334218,
-    "BeerName": "Imperial Passionfruit Radler",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Hope Beer",
-    "Origin": "Kilbarrack, County Dublin Ireland",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334218_ef234_sm.jpeg",
+    "BID": 3346458,
+    "BeerName": "Nitro Honeysuckle Oat Sour",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Deschutes Brewery",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 3.50,
+    "BeerIbu": 9.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3346458_68232_sm.jpeg",
     "HallRating": 19.55,
     "BAR": 4.82,
-    "StylePlus": "118",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.3491393294779430525152730039"
+    "StylePlus": "103",
+    "RatingScore": 3.95,
+    "AdjustedRating": "2.3491645277140665238722780135"
   },
   {
     "BID": 3346772,
@@ -30,34 +30,49 @@
     "AdjustedRating": "2.3491505286939979286739418971"
   },
   {
-    "BID": 4446933,
-    "BeerName": "Peaches O'Houlihan",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Calusa Brewing",
-    "Origin": "Sarasota, FL United States",
-    "BeerAbv": 5.00,
+    "BID": 3345434,
+    "BeerName": "Awake Limbs (Batch 2)",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Holy Mountain Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 5.30,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4446933_c1872_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-161632_c21c8.jpeg",
     "HallRating": 19.55,
     "BAR": 4.82,
-    "StylePlus": "112",
-    "RatingScore": 3.71,
-    "AdjustedRating": "2.3491477288899842096342746738"
+    "StylePlus": "117",
+    "RatingScore": 4.21,
+    "AdjustedRating": "2.349182726440155697630114965"
   },
   {
-    "BID": 4446850,
-    "BeerName": "Into the Wilderness",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Beer Yeti",
-    "Origin": "England",
-    "BeerAbv": 5.00,
+    "BID": 3334218,
+    "BeerName": "Imperial Passionfruit Radler",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Hope Beer",
+    "Origin": "Kilbarrack, County Dublin Ireland",
+    "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334218_ef234_sm.jpeg",
     "HallRating": 19.55,
     "BAR": 4.82,
-    "StylePlus": "108",
-    "RatingScore": 3.71,
-    "AdjustedRating": "2.3491477288899842096342746738"
+    "StylePlus": "118",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.3491393294779430525152730039"
+  },
+  {
+    "BID": 6400673,
+    "BeerName": "Oktoberfest Bier (2025)",
+    "BeerStyle": "Festbier",
+    "BreweryName": "Augustiner-Bräu München",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 6.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400673_e75eb_sm.jpeg",
+    "HallRating": 19.54,
+    "BAR": 11.28,
+    "StylePlus": "105",
+    "RatingScore": 3.92,
+    "AdjustedRating": "2.3584801453534351438479669724"
   },
   {
     "BID": 3010943,
@@ -75,21 +90,6 @@
     "AdjustedRating": "2.3573876576797462494292897112"
   },
   {
-    "BID": 6016153,
-    "BeerName": "Festbier",
-    "BeerStyle": "Festbier",
-    "BreweryName": "Eppig Brewing",
-    "Origin": "Vista, CA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 24.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2334831_08f62_sm.jpeg",
-    "HallRating": 19.54,
-    "BAR": 11.29,
-    "StylePlus": "105",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.357485805815531764763889348"
-  },
-  {
     "BID": 4816031,
     "BeerName": "Lager Royale",
     "BeerStyle": "Lager - American",
@@ -103,21 +103,6 @@
     "StylePlus": "117",
     "RatingScore": 3.60,
     "AdjustedRating": "2.3566060872509569450875422538"
-  },
-  {
-    "BID": 6400673,
-    "BeerName": "Oktoberfest Bier (2025)",
-    "BeerStyle": "Festbier",
-    "BreweryName": "Augustiner-Bräu München",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 6.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400673_e75eb_sm.jpeg",
-    "HallRating": 19.54,
-    "BAR": 11.28,
-    "StylePlus": "105",
-    "RatingScore": 3.92,
-    "AdjustedRating": "2.3584801453534351438479669724"
   },
   {
     "BID": 3001505,
@@ -148,6 +133,21 @@
     "StylePlus": "130",
     "RatingScore": 3.76,
     "AdjustedRating": "2.3575617632325927520061517473"
+  },
+  {
+    "BID": 6016153,
+    "BeerName": "Festbier",
+    "BeerStyle": "Festbier",
+    "BreweryName": "Eppig Brewing",
+    "Origin": "Vista, CA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 24.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2334831_08f62_sm.jpeg",
+    "HallRating": 19.54,
+    "BAR": 11.29,
+    "StylePlus": "105",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.357485805815531764763889348"
   },
   {
     "BID": 1009448,
@@ -210,21 +210,6 @@
     "AdjustedRating": "2.3579558360130392185609291654"
   },
   {
-    "BID": 3335211,
-    "BeerName": "Stikkelsbær - FARMER'S RESERVE",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Lindheim Ølkompani",
-    "Origin": "Gvarv, Telemark Norway",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3335211_7cdff_sm.jpeg",
-    "HallRating": 19.52,
-    "BAR": 11.24,
-    "StylePlus": "103",
-    "RatingScore": 3.95,
-    "AdjustedRating": "2.3584505686232860046713646647"
-  },
-  {
     "BID": 27294,
     "BeerName": "Gold Stock",
     "BeerStyle": "Blonde / Golden Ale - Other",
@@ -240,6 +225,21 @@
     "AdjustedRating": "2.3576251120073829307800200049"
   },
   {
+    "BID": 3335211,
+    "BeerName": "Stikkelsbær - FARMER'S RESERVE",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Lindheim Ølkompani",
+    "Origin": "Gvarv, Telemark Norway",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3335211_7cdff_sm.jpeg",
+    "HallRating": 19.52,
+    "BAR": 11.24,
+    "StylePlus": "103",
+    "RatingScore": 3.95,
+    "AdjustedRating": "2.3584505686232860046713646647"
+  },
+  {
     "BID": 752,
     "BeerName": "India Pale Ale",
     "BeerStyle": "IPA - American",
@@ -253,6 +253,21 @@
     "StylePlus": "104",
     "RatingScore": 3.62,
     "AdjustedRating": "2.3564097236152566765298539981"
+  },
+  {
+    "BID": 17520,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Cervecería Antares",
+    "Origin": "Mar del Plata, Provincia de Buenos Aires Argentina",
+    "BeerAbv": 6.60,
+    "BeerIbu": 58.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17520_6a320_sm.jpeg",
+    "HallRating": 19.51,
+    "BAR": 11.22,
+    "StylePlus": "104",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.3562970389789541008912574981"
   },
   {
     "BID": 4960913,
@@ -315,21 +330,6 @@
     "AdjustedRating": "2.3570601409588639346302183246"
   },
   {
-    "BID": 17520,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Cervecería Antares",
-    "Origin": "Mar del Plata, Provincia de Buenos Aires Argentina",
-    "BeerAbv": 6.60,
-    "BeerIbu": 58.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17520_6a320_sm.jpeg",
-    "HallRating": 19.51,
-    "BAR": 11.22,
-    "StylePlus": "104",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.3562970389789541008912574981"
-  },
-  {
     "BID": 17529,
     "BeerName": "Cidre Dupont Réserve",
     "BeerStyle": "Cider - Traditional / Apfelwein",
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.3588454349820119186854523224"
   },
   {
-    "BID": 2012745,
-    "BeerName": "Sailors Take Warning!",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Tyranena Brewing Co.",
-    "Origin": "Lake Mills, WI United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1752998_70f8d_sm.jpeg",
-    "HallRating": 19.50,
-    "BAR": 11.21,
-    "StylePlus": "115",
-    "RatingScore": 3.84,
-    "AdjustedRating": "2.3576021985508643981128333069"
-  },
-  {
     "BID": 14460,
     "BeerName": "46'er Pale Ale",
     "BeerStyle": "Pale Ale - English",
@@ -373,5 +358,20 @@
     "StylePlus": "117",
     "RatingScore": 3.53,
     "AdjustedRating": "2.3558537116065257083632549189"
+  },
+  {
+    "BID": 12273,
+    "BeerName": "Pied Piper IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "The People’s Pint Restaurant & Brewery",
+    "Origin": "Greenfield, MA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-465346_0c539_sm.jpeg",
+    "HallRating": 19.50,
+    "BAR": 11.20,
+    "StylePlus": "104",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.3558524366137520374538702232"
   }
 ]
