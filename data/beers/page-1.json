@@ -1,18 +1,123 @@
 [
   {
-    "BID": 5600925,
-    "BeerName": "Bourbon County Brand Eagle Rare 2-Year Reserve Stout (2023)",
+    "BID": 6601746,
+    "BeerName": "Barrel Aged Degenerate Breakfast",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Covert Artisan Ales",
+    "Origin": "Sioux Falls, SD United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6601746_d6c1f_sm.jpeg",
+    "HallRating": 31.99,
+    "BAR": 5.73,
+    "StylePlus": "126",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.254469154600913144691984535"
+  },
+  {
+    "BID": 1013077,
+    "BeerName": "Bourbon County Brand Stout (2014) 14.4%",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Goose Island Beer Co.",
     "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5614353_8b339_sm.jpeg",
-    "HallRating": 31.34,
-    "BAR": 20.13,
+    "BeerAbv": 14.40,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-790245_7ab12_sm.jpeg",
+    "HallRating": 31.86,
+    "BAR": 20.87,
     "StylePlus": "125",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.3400794990841947892900738288"
+  },
+  {
+    "BID": 1673471,
+    "BeerName": "Maple Oak Marshal Zhukov's",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "126",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.2544800430197109374918928085"
+  },
+  {
+    "BID": 3334597,
+    "BeerName": "Summer-Rita",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Honey Pot Meadery",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "124",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.2544755431884546096041885974"
+  },
+  {
+    "BID": 4815824,
+    "BeerName": "Mouthful of Rainbows- Lemon",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "SJ Brewing Company",
+    "Origin": "Yulee Heights, FL United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815824_3fca6_sm.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "128",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.4065041027816400568200915421"
+    "AdjustedRating": "2.2544770431322067189000900011"
+  },
+  {
+    "BID": 3340599,
+    "BeerName": "Ice Lakes",
+    "BeerStyle": "Bock - Eisbock",
+    "BreweryName": "Burns Family Artisan Ales",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-403719_89619.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "128",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.2544751682025165822802132465"
+  },
+  {
+    "BID": 2402354,
+    "BeerName": "Reserve Bourbon County Brand Stout (2017)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2353294_8c1ef_sm.jpeg",
+    "HallRating": 31.63,
+    "BAR": 20.54,
+    "StylePlus": "125",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.3270643881944591219506050726"
+  },
+  {
+    "BID": 2401566,
+    "BeerName": "Proprietor's Bourbon County Brand Stout (2017)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2353293_11e96_sm.jpeg",
+    "HallRating": 31.43,
+    "BAR": 20.26,
+    "StylePlus": "125",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.3195731291161352119839515222"
   },
   {
     "BID": 3338876,
@@ -27,7 +132,37 @@
     "BAR": 6.02,
     "StylePlus": "128",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.3491417035628639939691903054"
+    "AdjustedRating": "2.2544832316920564943922730636"
+  },
+  {
+    "BID": 6600600,
+    "BeerName": "Goetia",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600600_d4b15_sm.jpeg",
+    "HallRating": 31.34,
+    "BAR": 6.02,
+    "StylePlus": "128",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.2544812317720532945202679438"
+  },
+  {
+    "BID": 5600925,
+    "BeerName": "Bourbon County Brand Eagle Rare 2-Year Reserve Stout (2023)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5614353_8b339_sm.jpeg",
+    "HallRating": 31.34,
+    "BAR": 20.13,
+    "StylePlus": "125",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.3142905748073159028518187087"
   },
   {
     "BID": 2012665,
@@ -42,10 +177,10 @@
     "BAR": 19.98,
     "StylePlus": "125",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.4055054245926177363136444185"
+    "AdjustedRating": "2.3131357809384322872817165497"
   },
   {
-    "BID": 4008262,
+    "BID": 4016650,
     "BeerName": "PARAGON 2019",
     "BeerStyle": "Barleywine - English",
     "BreweryName": "LERVIG",
@@ -55,9 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4008262_b355f_sm.jpeg",
     "HallRating": 31.22,
     "BAR": 19.96,
-    "StylePlus": "127",
+    "StylePlus": "126",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.4012546276250707119940743839"
+    "AdjustedRating": "2.3088635816806072830356006486"
   },
   {
     "BID": 4959873,
@@ -72,7 +207,37 @@
     "BAR": 6.15,
     "StylePlus": "124",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.3491451555618951279860096676"
+    "AdjustedRating": "2.254486920327210270215564593"
+  },
+  {
+    "BID": 6601026,
+    "BeerName": "Marble Fox Pick Your Prize",
+    "BeerStyle": "IPA - Triple",
+    "BreweryName": "Marble Fox Brewing",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 10.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-543713_438fd.jpeg",
+    "HallRating": 31.07,
+    "BAR": 6.15,
+    "StylePlus": "126",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.2544886202549633407100685766"
+  },
+  {
+    "BID": 803069,
+    "BeerName": "Black Tuesday (2014)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "The Bruery",
+    "Origin": "Placentia, CA United States",
+    "BeerAbv": 19.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-803069_ae7c9_sm.jpeg",
+    "HallRating": 31.07,
+    "BAR": 19.74,
+    "StylePlus": "125",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.3048863582988805234344217635"
   },
   {
     "BID": 11024,
@@ -87,7 +252,7 @@
     "BAR": 19.70,
     "StylePlus": "125",
     "RatingScore": 4.76,
-    "AdjustedRating": "2.4003223650445020893819037591"
+    "AdjustedRating": "2.3076731428109003395250189062"
   },
   {
     "BID": 26830,
@@ -100,9 +265,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22085_22036_sm.jpeg",
     "HallRating": 30.95,
     "BAR": 19.56,
-    "StylePlus": "128",
+    "StylePlus": "127",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.3927642827383013991625764776"
+    "AdjustedRating": "2.299999300331298298207950644"
+  },
+  {
+    "BID": 1603099,
+    "BeerName": "Fundamental Observation (2016)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Bottle Logic Brewing",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 14.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1555220_f9e85_sm.jpeg",
+    "HallRating": 30.93,
+    "BAR": 19.52,
+    "StylePlus": "125",
+    "RatingScore": 4.72,
+    "AdjustedRating": "2.302925075505180159058160884"
   },
   {
     "BID": 1010269,
@@ -117,7 +297,7 @@
     "BAR": 19.45,
     "StylePlus": "125",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.3937095772278675542673350741"
+    "AdjustedRating": "2.3008531444937813635837537043"
   },
   {
     "BID": 4980052,
@@ -132,7 +312,7 @@
     "BAR": 6.28,
     "StylePlus": "124",
     "RatingScore": 4.82,
-    "AdjustedRating": "2.349163656866447518390621495"
+    "AdjustedRating": "2.2545056582667021750541713168"
   },
   {
     "BID": 10068,
@@ -147,7 +327,7 @@
     "BAR": 19.18,
     "StylePlus": "125",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.3886061957069709678417570062"
+    "AdjustedRating": "2.2955365911060223688648490256"
   },
   {
     "BID": 3343863,
@@ -160,9 +340,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-277027_9a1fb.jpeg",
     "HallRating": 30.61,
     "BAR": 6.39,
-    "StylePlus": "127",
+    "StylePlus": "128",
     "RatingScore": 4.71,
-    "AdjustedRating": "2.3491646089120831845776816331"
+    "AdjustedRating": "2.2545068469460942371757829048"
   },
   {
     "BID": 3008402,
@@ -177,7 +357,7 @@
     "BAR": 19.04,
     "StylePlus": "125",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.3836670046390383454880029063"
+    "AdjustedRating": "2.2905003048772816135505288895"
   },
   {
     "BID": 1200653,
@@ -192,186 +372,6 @@
     "BAR": 18.95,
     "StylePlus": "125",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.3839217483286001733613512802"
-  },
-  {
-    "BID": 24328,
-    "BeerName": "Lou Pepe Kriek",
-    "BeerStyle": "Lambic - Kriek",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LouPepeKriek_24328.jpeg",
-    "HallRating": 30.45,
-    "BAR": 18.80,
-    "StylePlus": "130",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.3798861593896008345058066635"
-  },
-  {
-    "BID": 800008,
-    "BeerName": "Fou' Foune (2014)",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-781703_b92fe_sm.jpeg",
-    "HallRating": 30.43,
-    "BAR": 18.77,
-    "StylePlus": "128",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.3815823264603723160562100472"
-  },
-  {
-    "BID": 2018479,
-    "BeerName": "Light Blue Wax",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Barrel Culture Brewing And Blending",
-    "Origin": "Durham, NC United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-324287_1855a.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
-    "StylePlus": "128",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.3491615111554487360921444658"
-  },
-  {
-    "BID": 4961446,
-    "BeerName": "Mega Fresh - Maria",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Juicy Brewing Co",
-    "Origin": "Herndon, VA United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961446_9485b_sm.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
-    "StylePlus": "125",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.3491650109804574856546663397"
-  },
-  {
-    "BID": 3000429,
-    "BeerName": "Haze Peach",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 30.32,
-    "BAR": 18.60,
-    "StylePlus": "125",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.3770369445189183004273423415"
-  },
-  {
-    "BID": 4815867,
-    "BeerName": "Metheglin: May Honey And Cardamom",
-    "BeerStyle": "Mead - Metheglin",
-    "BreweryName": "Punchiller",
-    "Origin": "Minsk, Minskaja voblasć Belarus",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815867_2fb39_sm.jpeg",
-    "HallRating": 30.23,
-    "BAR": 6.61,
-    "StylePlus": "128",
-    "RatingScore": 4.81,
-    "AdjustedRating": "2.3491816621937413371087508636"
-  },
-  {
-    "BID": 4631365,
-    "BeerName": "Enter the Fog Dog",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2062799_82e5a_sm.jpeg",
-    "HallRating": 30.19,
-    "BAR": 18.40,
-    "StylePlus": "124",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.3746236016018246582464478599"
-  },
-  {
-    "BID": 1012039,
-    "BeerName": "Maman",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Perennial Artisan Ales",
-    "Origin": "St Louis, MO United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-837791_8e912_sm.jpeg",
-    "HallRating": 30.14,
-    "BAR": 18.32,
-    "StylePlus": "125",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.3741777763585066529539631831"
-  },
-  {
-    "BID": 1670477,
-    "BeerName": "Grey Monday (2015)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "The Bruery",
-    "Origin": "Placentia, CA United States",
-    "BeerAbv": 18.60,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_89357_a3a1810ea89cd48f9e61379801d0.jpeg",
-    "HallRating": 29.93,
-    "BAR": 17.97,
-    "StylePlus": "125",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.3700507215260323164240381982"
-  },
-  {
-    "BID": 8225,
-    "BeerName": "Cable Car Ale",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "The Lost Abbey",
-    "Origin": "San Marcos, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CableCar_8225.jpeg",
-    "HallRating": 29.86,
-    "BAR": 17.86,
-    "StylePlus": "126",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.3694519479655770720455251203"
-  },
-  {
-    "BID": 4961097,
-    "BeerName": "No Sleep Means Insomnia",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 10.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3743582_397b1_sm.jpeg",
-    "HallRating": 29.85,
-    "BAR": 17.84,
-    "StylePlus": "124",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.3691329890819980267812227624"
-  },
-  {
-    "BID": 3336981,
-    "BeerName": "Craft Root Beer",
-    "BeerStyle": "Root Beer",
-    "BreweryName": "Erie Brewing Company",
-    "Origin": "Erie, PA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3336981_367c7_sm.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "128",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.3491839181959147536437304492"
+    "AdjustedRating": "2.2906940316099264336541948315"
   }
 ]
