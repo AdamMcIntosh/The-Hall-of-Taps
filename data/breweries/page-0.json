@@ -1,11 +1,11 @@
 [
   {
-    "BreweryName": "",
-    "Location": ""
-  },
-  {
     "BreweryName": "-",
     "Location": "Australia"
+  },
+  {
+    "BreweryName": "\"B\" Brewing Ltd",
+    "Location": "Netherlands"
   },
   {
     "BreweryName": "\"We Are The Roadbrew\"",
@@ -28,6 +28,10 @@
     "Location": "Ukraine"
   },
   {
+    "BreweryName": "#331 Lockdown Brewing",
+    "Location": "Denmark"
+  },
+  {
     "BreweryName": "#BABAVAR",
     "Location": "Russia"
   },
@@ -40,12 +44,24 @@
     "Location": "Russia"
   },
   {
+    "BreweryName": "#Craftbeerkitchen",
+    "Location": "Hamelin, Niedersachsen Germany"
+  },
+  {
+    "BreweryName": "#FREEDOM Craft Brewery",
+    "Location": "Buchanan, NY United States"
+  },
+  {
     "BreweryName": "#lolbrewing",
     "Location": "New Zealand"
   },
   {
     "BreweryName": "#watchlistbrewingco",
     "Location": "Australia"
+  },
+  {
+    "BreweryName": "#ВаняВарит",
+    "Location": "Russia"
   },
   {
     "BreweryName": "$teve",
@@ -72,31 +88,15 @@
     "Location": "Clearwater, FL United States"
   },
   {
+    "BreweryName": "(d)Äckel Brewery",
+    "Location": "Sweden"
+  },
+  {
     "BreweryName": "(HB) Handcraft Brewing",
     "Location": "Elk Grove, CA United States"
   },
   {
     "BreweryName": "(Homebrew) Ardmore Brewing Company",
     "Location": "United States"
-  },
-  {
-    "BreweryName": ".noterreiro",
-    "Location": "Caminha, Viana do Castelo Portugal"
-  },
-  {
-    "BreweryName": "?",
-    "Location": null
-  },
-  {
-    "BreweryName": "???",
-    "Location": null
-  },
-  {
-    "BreweryName": "@6s&7s; Fermentationists",
-    "Location": "United States"
-  },
-  {
-    "BreweryName": "@cab105 Aleworks",
-    "Location": "Oakland, CA United States"
   }
 ]
