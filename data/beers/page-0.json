@@ -12,7 +12,7 @@
     "BAR": 27.30,
     "StylePlus": "126",
     "RatingScore": 4.52,
-    "AdjustedRating": "3.2590857827068820563847008512"
+    "AdjustedRating": "3.2041047269577453871274731763"
   },
   {
     "BID": 4001285,
@@ -27,7 +27,7 @@
     "BAR": 24.34,
     "StylePlus": "125",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.6928033689984009023975585449"
+    "AdjustedRating": "2.612858889469913163290303821"
   },
   {
     "BID": 1676061,
@@ -42,7 +42,22 @@
     "BAR": 24.32,
     "StylePlus": "125",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.6830623458508287434987839055"
+    "AdjustedRating": "2.6030316919420236946733868108"
+  },
+  {
+    "BID": 2402231,
+    "BeerName": "Bourbon County Brand Stout (2014) 13.8%",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 13.80,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-790245_7ab12_sm.jpeg",
+    "HallRating": 34.06,
+    "BAR": 23.81,
+    "StylePlus": "125",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.5481899449775678635785853176"
   },
   {
     "BID": 4980636,
@@ -57,22 +72,22 @@
     "BAR": 23.81,
     "StylePlus": "126",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.6268260925530995718664223595"
+    "AdjustedRating": "2.5441108153991482055792148567"
   },
   {
-    "BID": 2016441,
-    "BeerName": "Noir de Watou Oak",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Bierstekers",
-    "Origin": "Brugge, Vlaams Gewest Belgium",
-    "BeerAbv": 9.50,
+    "BID": 3347942,
+    "BeerName": "Froojee Raz Passion",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Imprint Beer Co.",
+    "Origin": "Hatfield, PA United States",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-302768_25799.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3347942_8650d_sm.jpeg",
     "HallRating": 34.01,
     "BAR": 5.00,
-    "StylePlus": "131",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.3491069915562176030888718512"
+    "StylePlus": "128",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.2544495997813296434109634804"
   },
   {
     "BID": 6001317,
@@ -87,7 +102,7 @@
     "BAR": 5.00,
     "StylePlus": "130",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.3491104914687197905341857184"
+    "AdjustedRating": "2.254450599756330268395338871"
   },
   {
     "BID": 6401408,
@@ -100,9 +115,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6401408_88e09_sm.jpeg",
     "HallRating": 34.01,
     "BAR": 5.00,
-    "StylePlus": "130",
+    "StylePlus": "129",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.3491074915437179155810595465"
+    "AdjustedRating": "2.2544475998313283934422126992"
+  },
+  {
+    "BID": 6600522,
+    "BeerName": "All Pie Is Good Pie",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brewlihan",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "124",
+    "RatingScore": 4.83,
+    "AdjustedRating": "2.2544545996563327683328404335"
+  },
+  {
+    "BID": 6600624,
+    "BeerName": "Sunday Service In Stockholm",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "125",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.2544495997813296434109634804"
   },
   {
     "BID": 5013057,
@@ -117,7 +162,7 @@
     "BAR": 23.25,
     "StylePlus": "125",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.5826245622739564649879589378"
+    "AdjustedRating": "2.4974887847317978290733172388"
   },
   {
     "BID": 28331,
@@ -132,7 +177,22 @@
     "BAR": 23.13,
     "StylePlus": "126",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.5680615438881674849509240261"
+    "AdjustedRating": "2.4824487699189647998915158051"
+  },
+  {
+    "BID": 1673906,
+    "BeerName": "Chai Latte",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Odd Elixir MeadWorks",
+    "Origin": "DeLand, FL United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1673906_55cd0_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "128",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.2544544385242647593711660474"
   },
   {
     "BID": 1669755,
@@ -147,37 +207,7 @@
     "BAR": 5.21,
     "StylePlus": "131",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.3491129936236818572778739315"
-  },
-  {
-    "BID": 1673906,
-    "BeerName": "Chai Latte",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "Odd Elixir MeadWorks",
-    "Origin": "DeLand, FL United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1673906_55cd0_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "127",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.3491140935934326891299979981"
-  },
-  {
-    "BID": 4959638,
-    "BeerName": "Akatosh",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Yorwick Brew",
-    "Origin": "Yekaterinburg, Sverdlovsk Oblast Russia",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959638_81a7c_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "132",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.3491121686463687333887808815"
+    "AdjustedRating": "2.2544533385545139275190419808"
   },
   {
     "BID": 4980950,
@@ -192,7 +222,52 @@
     "BAR": 5.21,
     "StylePlus": "124",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.3491165685253720607972771479"
+    "AdjustedRating": "2.2544569134562041310384451973"
+  },
+  {
+    "BID": 4959638,
+    "BeerName": "Akatosh",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Yorwick Brew",
+    "Origin": "Yekaterinburg, Sverdlovsk Oblast Russia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959638_81a7c_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "132",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.2544525135772008036299489309"
+  },
+  {
+    "BID": 6600627,
+    "BeerName": "Amor Amor Amor",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 11.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600627_b66a4_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "126",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.2544541635318270514081350308"
+  },
+  {
+    "BID": 6501261,
+    "BeerName": "‘T Tuintje Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij 'T Tuintje",
+    "Origin": "Netherlands",
+    "BeerAbv": 8.00,
+    "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6501261_004a2_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "133",
+    "RatingScore": 4.73,
+    "AdjustedRating": "2.2544582884183926708536002805"
   },
   {
     "BID": 5817,
@@ -207,7 +282,7 @@
     "BAR": 22.84,
     "StylePlus": "125",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.5334717808352540883848412836"
+    "AdjustedRating": "2.4468140932296970592858177673"
   },
   {
     "BID": 17663,
@@ -222,7 +297,37 @@
     "BAR": 22.39,
     "StylePlus": "128",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.4999564860414450233973900174"
+    "AdjustedRating": "2.4119047145746335619859533098"
+  },
+  {
+    "BID": 5901151,
+    "BeerName": "1909",
+    "BeerStyle": "Cider - Sweet",
+    "BreweryName": "Wilding Cider",
+    "Origin": "Bristol, Bath and North East Somerset England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "133",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.2544581772760058964751544999"
+  },
+  {
+    "BID": 5800005,
+    "BeerName": "DDH Ghost In the Machine",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Parish Brewing Co.",
+    "Origin": "Broussard, LA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 100.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2422658_3da9f_sm.jpeg",
+    "HallRating": 32.65,
+    "BAR": 21.95,
+    "StylePlus": "125",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.3850832177157188865356722338"
   },
   {
     "BID": 2801405,
@@ -237,7 +342,7 @@
     "BAR": 21.19,
     "StylePlus": "125",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.4394178813113245067257294189"
+    "AdjustedRating": "2.3486778605011614720238191708"
   },
   {
     "BID": 1013084,
@@ -252,7 +357,7 @@
     "BAR": 21.11,
     "StylePlus": "125",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.4414921452680500337477641119"
+    "AdjustedRating": "2.3506164500873111397370550147"
   },
   {
     "BID": 6007759,
@@ -267,111 +372,6 @@
     "BAR": 5.73,
     "StylePlus": "128",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.349129849686267489166828234"
-  },
-  {
-    "BID": 1013077,
-    "BeerName": "Bourbon County Brand Stout (2014) 14.4%",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.40,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-790245_7ab12_sm.jpeg",
-    "HallRating": 31.86,
-    "BAR": 20.87,
-    "StylePlus": "125",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.4313415610212570249228846964"
-  },
-  {
-    "BID": 3334597,
-    "BeerName": "Summer-Rita",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Honey Pot Meadery",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "124",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.3491342516965678872331778288"
-  },
-  {
-    "BID": 2018014,
-    "BeerName": "Maple Bourbon",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Ingenious Brewing Company",
-    "Origin": "Humble, TX United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2018014_12ff2_sm.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "125",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.3491395014997002697688327418"
-  },
-  {
-    "BID": 1673471,
-    "BeerName": "Maple Oak Marshal Zhukov's",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "125",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.3491387515278242151208820399"
-  },
-  {
-    "BID": 3340599,
-    "BeerName": "Ice Lakes",
-    "BeerStyle": "Bock - Eisbock",
-    "BreweryName": "Burns Family Artisan Ales",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-403719_89619.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "129",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.3491338767106298599092024779"
-  },
-  {
-    "BID": 4815824,
-    "BeerName": "Mouthful of Rainbows- Lemon",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "SJ Brewing Company",
-    "Origin": "Yulee Heights, FL United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815824_3fca6_sm.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "128",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.3491357516403199965290792325"
-  },
-  {
-    "BID": 2401566,
-    "BeerName": "Proprietor's Bourbon County Brand Stout (2017)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2353293_11e96_sm.jpeg",
-    "HallRating": 31.43,
-    "BAR": 20.26,
-    "StylePlus": "125",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.4116380069596571803289194335"
+    "AdjustedRating": "2.254470904539665288366955911"
   }
 ]
