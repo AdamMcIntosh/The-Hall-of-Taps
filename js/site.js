@@ -566,7 +566,24 @@
       ? '<img class="beer-label-img" src="' + escapeHtml(labelUrl) + '" alt="" width="80" height="80">'
       : '<span class="beer-label-placeholder" aria-hidden="true"></span>';
     var bar = beer.HallRating != null && beer.HallRating !== '' ? Number(beer.HallRating) : null;
-    var barDesc = bar != null ? (bar >= 18 ? 'This is one of the best beers available' : 'Hall rating') : '—';
+    var barDesc;
+    if (bar == null) {
+      barDesc = '—';
+    } else if (bar >= 10) {
+      barDesc = 'Hall-of-Famer';
+    } else if (bar >= 8) {
+      barDesc = 'MVP';
+    } else if (bar >= 6) {
+      barDesc = 'All Star';
+    } else if (bar >= 4) {
+      barDesc = 'Very Good';
+    } else if (bar >= 2) {
+      barDesc = 'Above Average';
+    } else if (bar >= 0) {
+      barDesc = 'Useful to Average';
+    } else {
+      barDesc = 'Not Good';
+    }
     var styleText = escapeHtml(beer.BeerStyle || '');
     var stylePlusDesc = styleText ? 'Style' : '—';
     var abv = beer.BeerAbv != null && beer.BeerAbv !== '' ? beer.BeerAbv : '—';
