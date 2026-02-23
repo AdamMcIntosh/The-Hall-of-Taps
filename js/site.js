@@ -258,12 +258,21 @@
         if (Number.isNaN(abvMax)) abvMax = Infinity;
         if (Number.isNaN(barMin)) barMin = -Infinity;
         if (Number.isNaN(barMax)) barMax = Infinity;
+        var originWordBoundary = (function () {
+          if (!q) return null;
+          try {
+            return new RegExp('\\b' + q.replace(/[\\^$*+?.()|[\]{}]/g, '\\$&') + '\\b', 'i');
+          } catch (e) { return null; }
+        })();
         return chunk.filter(function (m) {
           if (q) {
             var name = (m.BeerName || '').toLowerCase();
             var brewery = (m.BreweryName || '').toLowerCase();
             var style = (m.BeerStyle || '').toLowerCase();
-            if (name.indexOf(q) === -1 && brewery.indexOf(q) === -1 && style.indexOf(q) === -1) return false;
+            var origin = (m.Origin || m.BreweryLocation || '');
+            var nameBreweryStyleMatch = name.indexOf(q) !== -1 || brewery.indexOf(q) !== -1 || style.indexOf(q) !== -1;
+            var originMatch = originWordBoundary ? originWordBoundary.test(origin) : (origin.toLowerCase().indexOf(q) !== -1);
+            if (!nameBreweryStyleMatch && !originMatch) return false;
           }
           if (breweryTerms.length) {
             var br = (m.BreweryName || '').toLowerCase();
