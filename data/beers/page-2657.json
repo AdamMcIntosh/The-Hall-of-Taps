@@ -30,19 +30,19 @@
     "AdjustedRating": "2.1576696469847639843803790807"
   },
   {
-    "BID": 3607781,
-    "BeerName": "Munkholm Alkoholfritt Juleøl",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Ringnes Bryggeri",
-    "Origin": "Oslo, Norway",
+    "BID": 3336529,
+    "BeerName": "Perlenbacher Alkoholfrei 0.0",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Lidl Deutschland / Germany",
+    "Origin": "Neckarsulm, Baden-Württemberg Germany",
     "BeerAbv": 0.00,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-226212_0b433_sm.jpeg",
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1017598_da7a1_sm.jpeg",
     "HallRating": 7.65,
     "BAR": 4.75,
-    "StylePlus": "87",
-    "RatingScore": 2.46,
-    "AdjustedRating": "2.1584116827696866186611278184"
+    "StylePlus": "82",
+    "RatingScore": 2.21,
+    "AdjustedRating": "2.1545069292505186785817124884"
   },
   {
     "BID": 4003913,
@@ -60,19 +60,19 @@
     "AdjustedRating": "2.158342456754981388219837968"
   },
   {
-    "BID": 3336529,
-    "BeerName": "Perlenbacher Alkoholfrei 0.0",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Lidl Deutschland / Germany",
-    "Origin": "Neckarsulm, Baden-Württemberg Germany",
+    "BID": 3607781,
+    "BeerName": "Munkholm Alkoholfritt Juleøl",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Ringnes Bryggeri",
+    "Origin": "Oslo, Norway",
     "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1017598_da7a1_sm.jpeg",
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-226212_0b433_sm.jpeg",
     "HallRating": 7.65,
     "BAR": 4.75,
-    "StylePlus": "82",
-    "RatingScore": 2.21,
-    "AdjustedRating": "2.1545069292505186785817124884"
+    "StylePlus": "87",
+    "RatingScore": 2.46,
+    "AdjustedRating": "2.1584116827696866186611278184"
   },
   {
     "BID": 5905869,
@@ -135,21 +135,6 @@
     "AdjustedRating": "2.1536408338562225483162133988"
   },
   {
-    "BID": 2303595,
-    "BeerName": "Crisp Lager",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Sinebrychoff",
-    "Origin": "Kerava, Uusimaa Finland",
-    "BeerAbv": 0.00,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2258494_0c833_sm.jpeg",
-    "HallRating": 7.54,
-    "BAR": 4.59,
-    "StylePlus": "86",
-    "RatingScore": 2.31,
-    "AdjustedRating": "2.1554410445603639355847852785"
-  },
-  {
     "BID": 2002735,
     "BeerName": "König Pilsener Alkoholfrei",
     "BeerStyle": "Non-Alcoholic - Lager",
@@ -163,6 +148,21 @@
     "StylePlus": "90",
     "RatingScore": 2.42,
     "AdjustedRating": "2.156675349582083207702915779"
+  },
+  {
+    "BID": 2303595,
+    "BeerName": "Crisp Lager",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Sinebrychoff",
+    "Origin": "Kerava, Uusimaa Finland",
+    "BeerAbv": 0.00,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2258494_0c833_sm.jpeg",
+    "HallRating": 7.54,
+    "BAR": 4.59,
+    "StylePlus": "86",
+    "RatingScore": 2.31,
+    "AdjustedRating": "2.1554410445603639355847852785"
   },
   {
     "BID": 4701892,
@@ -285,21 +285,6 @@
     "AdjustedRating": "2.1548356279085946565094131006"
   },
   {
-    "BID": 5017471,
-    "BeerName": "Coviran Tipo Pilsen 0,0",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Font Salem",
-    "Origin": "Salem, Comunidad Valenciana Spain",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1584_d27e9.jpeg",
-    "HallRating": 7.29,
-    "BAR": 1.85,
-    "StylePlus": "74",
-    "RatingScore": 1.98,
-    "AdjustedRating": "2.1536169787265955053370997175"
-  },
-  {
     "BID": 6400714,
     "BeerName": "Dog Beer (chicken)",
     "BeerStyle": "Non-Alcoholic - Other",
@@ -315,19 +300,19 @@
     "AdjustedRating": "2.1536199785016123790715696323"
   },
   {
-    "BID": 6412294,
-    "BeerName": "Мягкий Солод Безалкогольное",
+    "BID": 5017471,
+    "BeerName": "Coviran Tipo Pilsen 0,0",
     "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Zavod Trekhsosensky (Завод Трехсосенский)",
-    "Origin": "Dimitrovgrad, Ulyanovskaya oblast' Russia",
+    "BreweryName": "Font Salem",
+    "Origin": "Salem, Comunidad Valenciana Spain",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-37085_27317.jpeg",
-    "HallRating": 7.27,
-    "BAR": 1.86,
-    "StylePlus": "87",
-    "RatingScore": 2.34,
-    "AdjustedRating": "2.1536444425557019331001847357"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1584_d27e9.jpeg",
+    "HallRating": 7.29,
+    "BAR": 1.85,
+    "StylePlus": "74",
+    "RatingScore": 1.98,
+    "AdjustedRating": "2.1536169787265955053370997175"
   },
   {
     "BID": 1801598,
@@ -343,6 +328,21 @@
     "StylePlus": "88",
     "RatingScore": 2.37,
     "AdjustedRating": "2.1546989696158572686610976502"
+  },
+  {
+    "BID": 6412294,
+    "BeerName": "Мягкий Солод Безалкогольное",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Zavod Trekhsosensky (Завод Трехсосенский)",
+    "Origin": "Dimitrovgrad, Ulyanovskaya oblast' Russia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-37085_27317.jpeg",
+    "HallRating": 7.27,
+    "BAR": 1.86,
+    "StylePlus": "87",
+    "RatingScore": 2.34,
+    "AdjustedRating": "2.1536444425557019331001847357"
   },
   {
     "BID": 30653,

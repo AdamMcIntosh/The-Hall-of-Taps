@@ -30,21 +30,6 @@
     "AdjustedRating": "2.1536865709700160494382696606"
   },
   {
-    "BID": 6402934,
-    "BeerName": "Kasteel Rouge",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Kasteel Brouwerij Vanhonsebrouck",
-    "Origin": "Izegem, Vlaams Gewest Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6890_30d57_sm.jpeg",
-    "HallRating": 23.98,
-    "BAR": 17.46,
-    "StylePlus": "102",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.587235428403878777724254927"
-  },
-  {
     "BID": 5705265,
     "BeerName": "Crisp Apple",
     "BeerStyle": "Cider - Sweet",
@@ -58,6 +43,21 @@
     "StylePlus": "97",
     "RatingScore": 3.54,
     "AdjustedRating": "2.5730681257443161706883714929"
+  },
+  {
+    "BID": 6402934,
+    "BeerName": "Kasteel Rouge",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Kasteel Brouwerij Vanhonsebrouck",
+    "Origin": "Izegem, Vlaams Gewest Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6890_30d57_sm.jpeg",
+    "HallRating": 23.98,
+    "BAR": 17.46,
+    "StylePlus": "102",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.587235428403878777724254927"
   },
   {
     "BID": 2102966,
@@ -225,21 +225,6 @@
     "AdjustedRating": "2.1536906116020649225654037974"
   },
   {
-    "BID": 5602950,
-    "BeerName": "Blind Pig IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Russian River Brewing Company",
-    "Origin": "Windsor, CA United States",
-    "BeerAbv": 6.25,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4041_263a4_sm.jpeg",
-    "HallRating": 23.72,
-    "BAR": 17.14,
-    "StylePlus": "111",
-    "RatingScore": 4.15,
-    "AdjustedRating": "2.6682741389899634647106958034"
-  },
-  {
     "BID": 2301174,
     "BeerName": "Azacca IPA",
     "BeerStyle": "IPA - American",
@@ -253,6 +238,21 @@
     "StylePlus": "100",
     "RatingScore": 3.73,
     "AdjustedRating": "2.5597656740073716366443834884"
+  },
+  {
+    "BID": 5602950,
+    "BeerName": "Blind Pig IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Russian River Brewing Company",
+    "Origin": "Windsor, CA United States",
+    "BeerAbv": 6.25,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4041_263a4_sm.jpeg",
+    "HallRating": 23.72,
+    "BAR": 17.14,
+    "StylePlus": "111",
+    "RatingScore": 4.15,
+    "AdjustedRating": "2.6682741389899634647106958034"
   },
   {
     "BID": 2004126,
@@ -270,21 +270,6 @@
     "AdjustedRating": "2.5017423927872353045850880835"
   },
   {
-    "BID": 3950942,
-    "BeerName": "Jaipur",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Thornbridge Brewery",
-    "Origin": "Bakewell, Derbyshire England",
-    "BeerAbv": 5.90,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7705_d6b40_sm.jpeg",
-    "HallRating": 23.70,
-    "BAR": 17.12,
-    "StylePlus": "95",
-    "RatingScore": 3.53,
-    "AdjustedRating": "2.5043755972972821925770268986"
-  },
-  {
     "BID": 6141854,
     "BeerName": "Head Hunter",
     "BeerStyle": "IPA - American",
@@ -298,6 +283,21 @@
     "StylePlus": "106",
     "RatingScore": 3.94,
     "AdjustedRating": "2.6105960055442376208150773496"
+  },
+  {
+    "BID": 3950942,
+    "BeerName": "Jaipur",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Thornbridge Brewery",
+    "Origin": "Bakewell, Derbyshire England",
+    "BeerAbv": 5.90,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7705_d6b40_sm.jpeg",
+    "HallRating": 23.70,
+    "BAR": 17.12,
+    "StylePlus": "95",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.5043755972972821925770268986"
   },
   {
     "BID": 2008355,

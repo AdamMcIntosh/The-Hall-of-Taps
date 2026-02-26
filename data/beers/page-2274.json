@@ -15,19 +15,19 @@
     "AdjustedRating": "2.2739956938894750697174703527"
   },
   {
-    "BID": 29306,
-    "BeerName": "Lech Premium",
+    "BID": 5102864,
+    "BeerName": "Laško Zlatorog",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Lech Browary Wielkopolski",
-    "Origin": "Poznań, Wielkopolskie Poland",
-    "BeerAbv": 4.80,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LechPremium_29306.jpeg",
+    "BreweryName": "Pivovarna Laško",
+    "Origin": "Laško, Slovenia",
+    "BeerAbv": 4.90,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-373821_ee18f_sm.jpeg",
     "HallRating": 11.44,
-    "BAR": 8.04,
+    "BAR": 8.05,
     "StylePlus": "96",
-    "RatingScore": 3.01,
-    "AdjustedRating": "2.2762379669178601570566234968"
+    "RatingScore": 3.02,
+    "AdjustedRating": "2.2789570382915391671959097528"
   },
   {
     "BID": 30056,
@@ -75,19 +75,19 @@
     "AdjustedRating": "2.2795122831748869672849799722"
   },
   {
-    "BID": 802027,
-    "BeerName": "Tribute",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "St Austell Brewery",
-    "Origin": "St. Austell, Cornwall England",
-    "BeerAbv": 4.20,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5512_89997_sm.jpeg",
+    "BID": 2202677,
+    "BeerName": "Ottakringer Helles",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Ottakringer Brauerei",
+    "Origin": "Wien, Austria",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5543_c9a96_sm.jpeg",
     "HallRating": 11.42,
-    "BAR": 8.02,
-    "StylePlus": "100",
-    "RatingScore": 3.46,
-    "AdjustedRating": "2.3356339443441513591207296842"
+    "BAR": 8.03,
+    "StylePlus": "90",
+    "RatingScore": 3.11,
+    "AdjustedRating": "2.2882474485905221394247809472"
   },
   {
     "BID": 4104961,
@@ -105,21 +105,6 @@
     "AdjustedRating": "2.3391641364836620420942174208"
   },
   {
-    "BID": 2202677,
-    "BeerName": "Ottakringer Helles",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Ottakringer Brauerei",
-    "Origin": "Wien, Austria",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5543_c9a96_sm.jpeg",
-    "HallRating": 11.42,
-    "BAR": 8.03,
-    "StylePlus": "90",
-    "RatingScore": 3.11,
-    "AdjustedRating": "2.2882474485905221394247809472"
-  },
-  {
     "BID": 5403767,
     "BeerName": "Perlenbacher Premium Pils",
     "BeerStyle": "Pilsner - German",
@@ -135,34 +120,19 @@
     "AdjustedRating": "2.2281336594018823569933953897"
   },
   {
-    "BID": 32563,
-    "BeerName": "Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Gulpener Bierbrouwerij",
-    "Origin": "Gulpen, Limburg Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-32563_d73b1_sm.jpeg",
-    "HallRating": 11.41,
-    "BAR": 8.01,
-    "StylePlus": "90",
-    "RatingScore": 3.09,
-    "AdjustedRating": "2.2830157950415074989281089688"
-  },
-  {
-    "BID": 4405466,
-    "BeerName": "Madrí Excepcional",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "LA SAGRA",
-    "Origin": "Numancia de la Sagra, Castilla-La Mancha Spain",
-    "BeerAbv": 4.60,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4220038_a6dda_sm.jpeg",
-    "HallRating": 11.41,
-    "BAR": 8.00,
-    "StylePlus": "103",
-    "RatingScore": 3.23,
-    "AdjustedRating": "2.3010016528069668187133998196"
+    "BID": 802027,
+    "BeerName": "Tribute",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "St Austell Brewery",
+    "Origin": "St. Austell, Cornwall England",
+    "BeerAbv": 4.20,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5512_89997_sm.jpeg",
+    "HallRating": 11.42,
+    "BAR": 8.02,
+    "StylePlus": "100",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.3356339443441513591207296842"
   },
   {
     "BID": 3002237,
@@ -180,6 +150,36 @@
     "AdjustedRating": "2.2874228289854071919847427058"
   },
   {
+    "BID": 6135,
+    "BeerName": "Mahou Clásica",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Grupo Mahou-San Miguel",
+    "Origin": "Madrid, Comunidad de Madrid Spain",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6135_56b39_sm.jpeg",
+    "HallRating": 11.41,
+    "BAR": 8.01,
+    "StylePlus": "93",
+    "RatingScore": 2.91,
+    "AdjustedRating": "2.2575983568555995212886392306"
+  },
+  {
+    "BID": 4405466,
+    "BeerName": "Madrí Excepcional",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "LA SAGRA",
+    "Origin": "Numancia de la Sagra, Castilla-La Mancha Spain",
+    "BeerAbv": 4.60,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4220038_a6dda_sm.jpeg",
+    "HallRating": 11.41,
+    "BAR": 8.00,
+    "StylePlus": "103",
+    "RatingScore": 3.23,
+    "AdjustedRating": "2.3010016528069668187133998196"
+  },
+  {
     "BID": 4019333,
     "BeerName": "Alfa Edel Pils",
     "BeerStyle": "Pilsner - Other",
@@ -195,19 +195,19 @@
     "AdjustedRating": "2.3065240055580008457827374017"
   },
   {
-    "BID": 6135,
-    "BeerName": "Mahou Clásica",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Grupo Mahou-San Miguel",
-    "Origin": "Madrid, Comunidad de Madrid Spain",
-    "BeerAbv": 4.80,
+    "BID": 32563,
+    "BeerName": "Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Gulpener Bierbrouwerij",
+    "Origin": "Gulpen, Limburg Netherlands",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6135_56b39_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-32563_d73b1_sm.jpeg",
     "HallRating": 11.41,
     "BAR": 8.01,
-    "StylePlus": "93",
-    "RatingScore": 2.91,
-    "AdjustedRating": "2.2575983568555995212886392306"
+    "StylePlus": "90",
+    "RatingScore": 3.09,
+    "AdjustedRating": "2.2830157950415074989281089688"
   },
   {
     "BID": 5216554,
@@ -225,6 +225,21 @@
     "AdjustedRating": "2.261769878427398882145658106"
   },
   {
+    "BID": 4007377,
+    "BeerName": "Firemans #4",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Real Ale Brewing Company",
+    "Origin": "Blanco, TX United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6497_1ea6d_sm.jpeg",
+    "HallRating": 11.40,
+    "BAR": 7.99,
+    "StylePlus": "100",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.3324275288651632412041823664"
+  },
+  {
     "BID": 3855,
     "BeerName": "Labatt Blue Light",
     "BeerStyle": "Lager - American Light",
@@ -238,6 +253,21 @@
     "StylePlus": "85",
     "RatingScore": 2.87,
     "AdjustedRating": "2.2500922891206573166062006347"
+  },
+  {
+    "BID": 6006472,
+    "BeerName": "Helles Pülleken",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Brauerei VELTINS",
+    "Origin": "Meschede, Nordrhein-Westfalen Germany",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3756640_d0ff3_sm.jpeg",
+    "HallRating": 11.40,
+    "BAR": 7.99,
+    "StylePlus": "96",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.3128914063631431393782977003"
   },
   {
     "BID": 3505400,
@@ -270,34 +300,19 @@
     "AdjustedRating": "2.305041619486390471168889542"
   },
   {
-    "BID": 4007377,
-    "BeerName": "Firemans #4",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Real Ale Brewing Company",
-    "Origin": "Blanco, TX United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6497_1ea6d_sm.jpeg",
-    "HallRating": 11.40,
-    "BAR": 7.99,
-    "StylePlus": "100",
-    "RatingScore": 3.48,
-    "AdjustedRating": "2.3324275288651632412041823664"
-  },
-  {
-    "BID": 6006472,
-    "BeerName": "Helles Pülleken",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Brauerei VELTINS",
-    "Origin": "Meschede, Nordrhein-Westfalen Germany",
-    "BeerAbv": 5.20,
+    "BID": 2204812,
+    "BeerName": "Woodchuck Amber Hard Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Woodchuck Cidery",
+    "Origin": "Middlebury, VT United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3756640_d0ff3_sm.jpeg",
-    "HallRating": 11.40,
-    "BAR": 7.99,
-    "StylePlus": "96",
-    "RatingScore": 3.33,
-    "AdjustedRating": "2.3128914063631431393782977003"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4484_361e6_sm.jpeg",
+    "HallRating": 11.39,
+    "BAR": 7.98,
+    "StylePlus": "97",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.329999783242945641665908017"
   },
   {
     "BID": 2017086,
@@ -315,21 +330,6 @@
     "AdjustedRating": "2.2980416366805108773876928146"
   },
   {
-    "BID": 2204812,
-    "BeerName": "Woodchuck Amber Hard Cider",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Woodchuck Cidery",
-    "Origin": "Middlebury, VT United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4484_361e6_sm.jpeg",
-    "HallRating": 11.39,
-    "BAR": 7.98,
-    "StylePlus": "97",
-    "RatingScore": 3.48,
-    "AdjustedRating": "2.329999783242945641665908017"
-  },
-  {
     "BID": 5011921,
     "BeerName": "Lager Beer",
     "BeerStyle": "Lager - Helles",
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.3124995507170123439147596498"
   },
   {
-    "BID": 303579,
-    "BeerName": "Sleepy Bulldog Pale Ale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Gotlands Bryggeri",
-    "Origin": "Visby, Gotlands län Sweden",
-    "BeerAbv": 4.80,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-24433_ce1bd_sm.jpeg",
-    "HallRating": 11.38,
-    "BAR": 7.97,
-    "StylePlus": "98",
-    "RatingScore": 3.38,
-    "AdjustedRating": "2.3154080536475796738175070803"
-  },
-  {
     "BID": 1503567,
     "BeerName": "Life's a Beach",
     "BeerStyle": "IPA - Session",
@@ -373,5 +358,20 @@
     "StylePlus": "96",
     "RatingScore": 3.45,
     "AdjustedRating": "2.3243636999073091208259256606"
+  },
+  {
+    "BID": 2101493,
+    "BeerName": "Cristal",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Brouwerij Alken-Maes",
+    "Origin": "Alken, Vlaams Gewest Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26496_74346_sm.jpeg",
+    "HallRating": 11.38,
+    "BAR": 7.97,
+    "StylePlus": "89",
+    "RatingScore": 3.07,
+    "AdjustedRating": "2.274515762197636212905774047"
   }
 ]

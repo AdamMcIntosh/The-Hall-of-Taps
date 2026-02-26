@@ -90,6 +90,21 @@
     "AdjustedRating": "2.191651101751815906732588659"
   },
   {
+    "BID": 905151,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "AleSmith Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 7.25,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1793_5fdd1_sm.jpeg",
+    "HallRating": 23.37,
+    "BAR": 16.71,
+    "StylePlus": "104",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.5094331420484248313916623102"
+  },
+  {
     "BID": 3805890,
     "BeerName": "Avery IPA",
     "BeerStyle": "IPA - American",
@@ -120,21 +135,6 @@
     "AdjustedRating": "2.4408521534682465452566905555"
   },
   {
-    "BID": 905151,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "AleSmith Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 7.25,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1793_5fdd1_sm.jpeg",
-    "HallRating": 23.37,
-    "BAR": 16.71,
-    "StylePlus": "104",
-    "RatingScore": 3.89,
-    "AdjustedRating": "2.5094331420484248313916623102"
-  },
-  {
     "BID": 5301663,
     "BeerName": "Hop Gun IPA",
     "BeerStyle": "IPA - American",
@@ -148,21 +148,6 @@
     "StylePlus": "100",
     "RatingScore": 3.74,
     "AdjustedRating": "2.477735376144307010459393761"
-  },
-  {
-    "BID": 6503101,
-    "BeerName": "Blizzard of Hops",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tröegs Independent Brewing",
-    "Origin": "Hershey, PA United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-533372_e6293_sm.jpeg",
-    "HallRating": 23.35,
-    "BAR": 16.69,
-    "StylePlus": "101",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.4794856802361151798863665804"
   },
   {
     "BID": 3349533,
@@ -195,19 +180,19 @@
     "AdjustedRating": "2.4395988762789509808616258839"
   },
   {
-    "BID": 2006165,
-    "BeerName": "Dayglow IPA",
+    "BID": 6503101,
+    "BeerName": "Blizzard of Hops",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Elysian Brewing Company",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 7.40,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-542035_be0bb_sm.jpeg",
-    "HallRating": 23.34,
-    "BAR": 16.68,
+    "BreweryName": "Tröegs Independent Brewing",
+    "Origin": "Hershey, PA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-533372_e6293_sm.jpeg",
+    "HallRating": 23.35,
+    "BAR": 16.69,
     "StylePlus": "101",
-    "RatingScore": 3.75,
-    "AdjustedRating": "2.4748829816125373420451459335"
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.4794856802361151798863665804"
   },
   {
     "BID": 802219,
@@ -223,6 +208,21 @@
     "StylePlus": "99",
     "RatingScore": 3.55,
     "AdjustedRating": "2.4345994088984743190350666986"
+  },
+  {
+    "BID": 2006165,
+    "BeerName": "Dayglow IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Elysian Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-542035_be0bb_sm.jpeg",
+    "HallRating": 23.34,
+    "BAR": 16.68,
+    "StylePlus": "101",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.4748829816125373420451459335"
   },
   {
     "BID": 3202765,
@@ -270,19 +270,19 @@
     "AdjustedRating": "2.4735429284182665259844915921"
   },
   {
-    "BID": 5705150,
-    "BeerName": "Petrus Red",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Brouwerij De Brabandere",
-    "Origin": "Harelbeke, Vlaams Gewest Belgium",
-    "BeerAbv": 8.50,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-311764_b3caa_sm.jpeg",
+    "BID": 4445611,
+    "BeerName": "Open Market Nordic Style White Ale W/ Guava",
+    "BeerStyle": "Traditional Ale",
+    "BreweryName": "Platform Beer Company",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-139979_fafe0.jpeg",
     "HallRating": 23.30,
-    "BAR": 16.62,
-    "StylePlus": "102",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.4358539314086105454633259017"
+    "BAR": 4.61,
+    "StylePlus": "106",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.1536957179319878905146531272"
   },
   {
     "BID": 3334209,
@@ -300,6 +300,21 @@
     "AdjustedRating": "2.1536991177874940315036610944"
   },
   {
+    "BID": 5705150,
+    "BeerName": "Petrus Red",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Brouwerij De Brabandere",
+    "Origin": "Harelbeke, Vlaams Gewest Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-311764_b3caa_sm.jpeg",
+    "HallRating": 23.30,
+    "BAR": 16.62,
+    "StylePlus": "102",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.4358539314086105454633259017"
+  },
+  {
     "BID": 1604306,
     "BeerName": "Inversion IPA",
     "BeerStyle": "IPA - American",
@@ -313,21 +328,6 @@
     "StylePlus": "97",
     "RatingScore": 3.62,
     "AdjustedRating": "2.4392099721787165168236227257"
-  },
-  {
-    "BID": 4445611,
-    "BeerName": "Open Market Nordic Style White Ale W/ Guava",
-    "BeerStyle": "Traditional Ale",
-    "BreweryName": "Platform Beer Company",
-    "Origin": "Cleveland, OH United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-139979_fafe0.jpeg",
-    "HallRating": 23.30,
-    "BAR": 4.61,
-    "StylePlus": "106",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.1536957179319878905146531272"
   },
   {
     "BID": 3343383,

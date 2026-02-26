@@ -90,6 +90,21 @@
     "AdjustedRating": "2.2637781007620315407707249487"
   },
   {
+    "BID": 201461,
+    "BeerName": "Alhambra Tradicional",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Grupo Cervezas Alhambra",
+    "Origin": "Granada, Andalucía Spain",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-201461_ce922_sm.jpeg",
+    "HallRating": 11.16,
+    "BAR": 7.69,
+    "StylePlus": "94",
+    "RatingScore": 2.95,
+    "AdjustedRating": "2.2275526218506834433661655278"
+  },
+  {
     "BID": 1103140,
     "BeerName": "S:t Eriks IPA",
     "BeerStyle": "IPA - American",
@@ -103,21 +118,6 @@
     "StylePlus": "88",
     "RatingScore": 3.29,
     "AdjustedRating": "2.258619389269328686370876615"
-  },
-  {
-    "BID": 4900599,
-    "BeerName": "Duff Beer",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Privatbrauerei Eichbaum",
-    "Origin": "Mannheim, Baden-Württemberg Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-775343_39a72_sm.jpeg",
-    "HallRating": 11.16,
-    "BAR": 7.69,
-    "StylePlus": "78",
-    "RatingScore": 2.69,
-    "AdjustedRating": "2.2034513639590075267768658764"
   },
   {
     "BID": 1041,
@@ -135,21 +135,6 @@
     "AdjustedRating": "2.2652258073298334293765058738"
   },
   {
-    "BID": 1701578,
-    "BeerName": "Zipfer Urtyp",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Brauerei Zipf",
-    "Origin": "Neukirchen an der Vöckla, Oberösterreich Austria",
-    "BeerAbv": 5.40,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-ZipferUrtyp_13683.jpeg",
-    "HallRating": 11.16,
-    "BAR": 7.68,
-    "StylePlus": "90",
-    "RatingScore": 3.12,
-    "AdjustedRating": "2.24290709415381822719898347"
-  },
-  {
     "BID": 8683,
     "BeerName": "Original Cider",
     "BeerStyle": "Cider - Traditional / Apfelwein",
@@ -165,19 +150,34 @@
     "AdjustedRating": "2.2765093990803940649803443872"
   },
   {
-    "BID": 201461,
-    "BeerName": "Alhambra Tradicional",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Grupo Cervezas Alhambra",
-    "Origin": "Granada, Andalucía Spain",
-    "BeerAbv": 4.60,
+    "BID": 1701578,
+    "BeerName": "Zipfer Urtyp",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Brauerei Zipf",
+    "Origin": "Neukirchen an der Vöckla, Oberösterreich Austria",
+    "BeerAbv": 5.40,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-ZipferUrtyp_13683.jpeg",
+    "HallRating": 11.16,
+    "BAR": 7.68,
+    "StylePlus": "90",
+    "RatingScore": 3.12,
+    "AdjustedRating": "2.24290709415381822719898347"
+  },
+  {
+    "BID": 4900599,
+    "BeerName": "Duff Beer",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Privatbrauerei Eichbaum",
+    "Origin": "Mannheim, Baden-Württemberg Germany",
+    "BeerAbv": 4.90,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-201461_ce922_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-775343_39a72_sm.jpeg",
     "HallRating": 11.16,
     "BAR": 7.69,
-    "StylePlus": "94",
-    "RatingScore": 2.95,
-    "AdjustedRating": "2.2275526218506834433661655278"
+    "StylePlus": "78",
+    "RatingScore": 2.69,
+    "AdjustedRating": "2.2034513639590075267768658764"
   },
   {
     "BID": 8501,
@@ -210,36 +210,6 @@
     "AdjustedRating": "2.2392887867538742560839078428"
   },
   {
-    "BID": 4602502,
-    "BeerName": "Hop Art",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "vandeStreek bier",
-    "Origin": "Utrecht, Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-862144_77c40_sm.jpeg",
-    "HallRating": 11.15,
-    "BAR": 7.68,
-    "StylePlus": "102",
-    "RatingScore": 3.41,
-    "AdjustedRating": "2.2687843637734409417706341601"
-  },
-  {
-    "BID": 1805829,
-    "BeerName": "Tuborg Julebryg",
-    "BeerStyle": "Lager - Winter",
-    "BreweryName": "Carlsberg Group",
-    "Origin": "Copenhagen, Region Hovedstaden Denmark",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2484734_810a1_sm.jpeg",
-    "HallRating": 11.15,
-    "BAR": 7.67,
-    "StylePlus": "92",
-    "RatingScore": 3.05,
-    "AdjustedRating": "2.2348736439113552247492429547"
-  },
-  {
     "BID": 1650245,
     "BeerName": "Summer Ale",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -253,6 +223,21 @@
     "StylePlus": "94",
     "RatingScore": 3.33,
     "AdjustedRating": "2.2612698308149002809531055879"
+  },
+  {
+    "BID": 4602502,
+    "BeerName": "Hop Art",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "vandeStreek bier",
+    "Origin": "Utrecht, Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-862144_77c40_sm.jpeg",
+    "HallRating": 11.15,
+    "BAR": 7.68,
+    "StylePlus": "102",
+    "RatingScore": 3.41,
+    "AdjustedRating": "2.2687843637734409417706341601"
   },
   {
     "BID": 409140,
@@ -270,6 +255,21 @@
     "AdjustedRating": "2.2290873362941423687229523279"
   },
   {
+    "BID": 1805829,
+    "BeerName": "Tuborg Julebryg",
+    "BeerStyle": "Lager - Winter",
+    "BreweryName": "Carlsberg Group",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2484734_810a1_sm.jpeg",
+    "HallRating": 11.15,
+    "BAR": 7.67,
+    "StylePlus": "92",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.2348736439113552247492429547"
+  },
+  {
     "BID": 4158,
     "BeerName": "Single Chair",
     "BeerStyle": "Blonde / Golden Ale - Other",
@@ -283,6 +283,21 @@
     "StylePlus": "94",
     "RatingScore": 3.27,
     "AdjustedRating": "2.2541508163455654361767228338"
+  },
+  {
+    "BID": 4008830,
+    "BeerName": "Premium Pilsener",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Fürstlich Fürstenbergische Brauerei",
+    "Origin": "Donaueschingen, Baden-Württemberg Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 31.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-41969_ae84c_sm.jpeg",
+    "HallRating": 11.14,
+    "BAR": 7.66,
+    "StylePlus": "91",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.2417893482403991794442599761"
   },
   {
     "BID": 17357,
@@ -330,48 +345,33 @@
     "AdjustedRating": "2.2564853754365541327124563446"
   },
   {
-    "BID": 4008830,
-    "BeerName": "Premium Pilsener",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Fürstlich Fürstenbergische Brauerei",
-    "Origin": "Donaueschingen, Baden-Württemberg Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 31.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-41969_ae84c_sm.jpeg",
-    "HallRating": 11.14,
-    "BAR": 7.66,
-    "StylePlus": "91",
-    "RatingScore": 3.13,
-    "AdjustedRating": "2.2417893482403991794442599761"
-  },
-  {
-    "BID": 2136,
-    "BeerName": "Pale Ale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Schlafly - The Saint Louis Brewery",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2136_96bea_sm.jpeg",
-    "HallRating": 11.13,
-    "BAR": 7.65,
-    "StylePlus": "99",
-    "RatingScore": 3.43,
-    "AdjustedRating": "2.2669622167853514299122051675"
-  },
-  {
-    "BID": 401129,
-    "BeerName": "Oranjeboom",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "United Dutch Breweries",
-    "Origin": "Breda, Noord-Brabant Netherlands",
-    "BeerAbv": 5.00,
+    "BID": 5102925,
+    "BeerName": "Black Lager",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 4.90,
     "BeerIbu": 19.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7433_32b17_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2258184_65bf0_sm.jpeg",
     "HallRating": 11.13,
     "BAR": 7.65,
-    "StylePlus": "91",
-    "RatingScore": 2.87,
-    "AdjustedRating": "2.2171595375064077006322264624"
+    "StylePlus": "96",
+    "RatingScore": 3.47,
+    "AdjustedRating": "2.2704975260381072141275525546"
+  },
+  {
+    "BID": 7445,
+    "BeerName": "Pilsener",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Dommelsche Bierbrouwerij",
+    "Origin": "Dommelen, Noord-Brabant Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7445_0d16d_sm.jpeg",
+    "HallRating": 11.13,
+    "BAR": 7.65,
+    "StylePlus": "85",
+    "RatingScore": 2.93,
+    "AdjustedRating": "2.2221014839636189564384873145"
   }
 ]

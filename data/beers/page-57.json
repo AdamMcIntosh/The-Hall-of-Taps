@@ -1,33 +1,18 @@
 [
   {
-    "BID": 1703335,
-    "BeerName": "Hammerhead IPA",
+    "BID": 1004491,
+    "BeerName": "Fantasyland",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Big Oyster Brewery",
-    "Origin": "Lewes, DE United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1138895_6bb84_sm.jpeg",
-    "HallRating": 21.74,
-    "BAR": 14.61,
-    "StylePlus": "101",
-    "RatingScore": 3.75,
-    "AdjustedRating": "2.2442746651575174495378230523"
-  },
-  {
-    "BID": 3205277,
-    "BeerName": "Revision IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Revision Brewing Company",
-    "Origin": "Sparks, NV United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1186311_bc09d_sm.jpeg",
+    "BreweryName": "Urban Chestnut Brewing Company",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-884740_0e9d9_sm.jpeg",
     "HallRating": 21.74,
     "BAR": 14.60,
-    "StylePlus": "102",
-    "RatingScore": 3.82,
-    "AdjustedRating": "2.2482160298629238971775952612"
+    "StylePlus": "99",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.2405464803083120669078695995"
   },
   {
     "BID": 1703574,
@@ -43,6 +28,21 @@
     "StylePlus": "105",
     "RatingScore": 3.90,
     "AdjustedRating": "2.2523762126361820210249237569"
+  },
+  {
+    "BID": 50665,
+    "BeerName": "Ring of Fire",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Dragonmead Brewery",
+    "Origin": "Warren, MI United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-463_77d1f.jpeg",
+    "HallRating": 21.74,
+    "BAR": 12.25,
+    "StylePlus": "105",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.1604158050203186785020169368"
   },
   {
     "BID": 5502637,
@@ -75,19 +75,19 @@
     "AdjustedRating": "2.2369648455283785728270535868"
   },
   {
-    "BID": 2704413,
-    "BeerName": "Maine Island Trail Ale",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Rising Tide Brewing Company",
-    "Origin": "Portland, ME United States",
-    "BeerAbv": 4.30,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-364591_34ab3_sm.jpeg",
+    "BID": 3205277,
+    "BeerName": "Revision IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Revision Brewing Company",
+    "Origin": "Sparks, NV United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1186311_bc09d_sm.jpeg",
     "HallRating": 21.74,
     "BAR": 14.60,
-    "StylePlus": "104",
-    "RatingScore": 3.73,
-    "AdjustedRating": "2.2430759181440449745556074348"
+    "StylePlus": "102",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.2482160298629238971775952612"
   },
   {
     "BID": 5304382,
@@ -105,19 +105,19 @@
     "AdjustedRating": "2.2408950972439682330082435721"
   },
   {
-    "BID": 2013833,
-    "BeerName": "Totally Roasted",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Vander Mill",
-    "Origin": "Grand Rapids, MI United States",
+    "BID": 3102804,
+    "BeerName": "Great Lakes IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Great Lakes Brewing Company",
+    "Origin": "Cleveland, OH United States",
     "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_81834_sm_30a80c13fb28ce735676c600c68d96.jpeg",
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3069120_02c6f_sm.jpeg",
     "HallRating": 21.73,
-    "BAR": 14.58,
-    "StylePlus": "106",
-    "RatingScore": 3.79,
-    "AdjustedRating": "2.2452892727766174613850637781"
+    "BAR": 14.59,
+    "StylePlus": "98",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.2388411952356683088887630481"
   },
   {
     "BID": 2150083,
@@ -135,19 +135,34 @@
     "AdjustedRating": "2.2384838526270592648339022877"
   },
   {
-    "BID": 3102804,
-    "BeerName": "Great Lakes IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Great Lakes Brewing Company",
-    "Origin": "Cleveland, OH United States",
+    "BID": 2013833,
+    "BeerName": "Totally Roasted",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Vander Mill",
+    "Origin": "Grand Rapids, MI United States",
     "BeerAbv": 6.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3069120_02c6f_sm.jpeg",
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_81834_sm_30a80c13fb28ce735676c600c68d96.jpeg",
     "HallRating": 21.73,
-    "BAR": 14.59,
+    "BAR": 14.58,
+    "StylePlus": "106",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.2452892727766174613850637781"
+  },
+  {
+    "BID": 1667223,
+    "BeerName": "Over Easy",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Otter Creek Brewing",
+    "Origin": "Middlebury, VT United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1004954_a93d0_sm.jpeg",
+    "HallRating": 21.72,
+    "BAR": 14.57,
     "StylePlus": "98",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.2388411952356683088887630481"
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.2289070233102875061392572443"
   },
   {
     "BID": 2004232,
@@ -195,21 +210,6 @@
     "AdjustedRating": "2.2453504375600508971928640058"
   },
   {
-    "BID": 1667223,
-    "BeerName": "Over Easy",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Otter Creek Brewing",
-    "Origin": "Middlebury, VT United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1004954_a93d0_sm.jpeg",
-    "HallRating": 21.72,
-    "BAR": 14.57,
-    "StylePlus": "98",
-    "RatingScore": 3.51,
-    "AdjustedRating": "2.2289070233102875061392572443"
-  },
-  {
     "BID": 1950105,
     "BeerName": "Habanero Hunny",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -240,21 +240,6 @@
     "AdjustedRating": "2.2338557683449124655401718326"
   },
   {
-    "BID": 901062,
-    "BeerName": "Jungle Boogie",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Marz Community Brewing Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 44.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-845200_1e143_sm.jpeg",
-    "HallRating": 21.70,
-    "BAR": 14.55,
-    "StylePlus": "109",
-    "RatingScore": 3.85,
-    "AdjustedRating": "2.2464551996313407616594392126"
-  },
-  {
     "BID": 850030,
     "BeerName": "Black Bavarian",
     "BeerStyle": "Schwarzbier",
@@ -268,21 +253,6 @@
     "StylePlus": "100",
     "RatingScore": 3.60,
     "AdjustedRating": "2.2327332195811335201894399516"
-  },
-  {
-    "BID": 1015330,
-    "BeerName": "Reparationsbajer",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "To Øl",
-    "Origin": "Svinninge, Region Sjælland Denmark",
-    "BeerAbv": 5.80,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-ReparationsbajerPaleAle_99370.jpeg",
-    "HallRating": 21.70,
-    "BAR": 14.55,
-    "StylePlus": "107",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.2302513095932876993925188376"
   },
   {
     "BID": 2013119,
@@ -300,6 +270,36 @@
     "AdjustedRating": "2.2347680904570121201807627583"
   },
   {
+    "BID": 1015330,
+    "BeerName": "Reparationsbajer",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "To Øl",
+    "Origin": "Svinninge, Region Sjælland Denmark",
+    "BeerAbv": 5.80,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-ReparationsbajerPaleAle_99370.jpeg",
+    "HallRating": 21.70,
+    "BAR": 14.55,
+    "StylePlus": "107",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.2302513095932876993925188376"
+  },
+  {
+    "BID": 901062,
+    "BeerName": "Jungle Boogie",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Marz Community Brewing Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 44.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-845200_1e143_sm.jpeg",
+    "HallRating": 21.70,
+    "BAR": 14.55,
+    "StylePlus": "109",
+    "RatingScore": 3.85,
+    "AdjustedRating": "2.2464551996313407616594392126"
+  },
+  {
     "BID": 1102602,
     "BeerName": "HogWild IPA",
     "BeerStyle": "IPA - American",
@@ -313,21 +313,6 @@
     "StylePlus": "94",
     "RatingScore": 3.52,
     "AdjustedRating": "2.2275454743234423329770429157"
-  },
-  {
-    "BID": 6104047,
-    "BeerName": "Hometown Holiday Ale",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Ottawa Brewing Company",
-    "Origin": "Ottawa, OH United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-564276_3002c.jpeg",
-    "HallRating": 21.69,
-    "BAR": 5.69,
-    "StylePlus": "112",
-    "RatingScore": 3.89,
-    "AdjustedRating": "2.1537732387078066059550087118"
   },
   {
     "BID": 2407035,
@@ -345,19 +330,19 @@
     "AdjustedRating": "2.2458979499205688781299644451"
   },
   {
-    "BID": 3336109,
-    "BeerName": "Coffee Cake Strong",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Tri City Brewing",
-    "Origin": "Bay City, MI United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-TriCityBrewingCo_2789.jpeg",
+    "BID": 3334497,
+    "BeerName": "Left of the Dial IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Notch Brewing",
+    "Origin": "Salem, MA United States",
+    "BeerAbv": 4.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_335731_sm_affe80c8557d32b45a0b5f7aa7361e.jpeg",
     "HallRating": 21.69,
-    "BAR": 5.69,
-    "StylePlus": "107",
-    "RatingScore": 3.71,
-    "AdjustedRating": "2.153758389932830541480327873"
+    "BAR": 14.54,
+    "StylePlus": "102",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.2366309379151871622356395478"
   },
   {
     "BID": 1100428,
@@ -373,5 +358,20 @@
     "StylePlus": "104",
     "RatingScore": 3.52,
     "AdjustedRating": "2.2274354365717529089017122316"
+  },
+  {
+    "BID": 6104047,
+    "BeerName": "Hometown Holiday Ale",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Ottawa Brewing Company",
+    "Origin": "Ottawa, OH United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-564276_3002c.jpeg",
+    "HallRating": 21.69,
+    "BAR": 5.69,
+    "StylePlus": "112",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.1537732387078066059550087118"
   }
 ]

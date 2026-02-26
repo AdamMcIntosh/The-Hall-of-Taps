@@ -1,35 +1,5 @@
 [
   {
-    "BID": 4503448,
-    "BeerName": "Punkin Ale",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4946504_b39d1_sm.jpeg",
-    "HallRating": 18.16,
-    "BAR": 13.32,
-    "StylePlus": "101",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.7033804473544921683558448178"
-  },
-  {
-    "BID": 1701581,
-    "BeerName": "Hell Or High Watermelon",
-    "BeerStyle": "Wheat Beer - Fruited",
-    "BreweryName": "21st Amendment Brewery",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 17.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7044_682f5_sm.jpeg",
-    "HallRating": 18.16,
-    "BAR": 13.31,
-    "StylePlus": "98",
-    "RatingScore": 3.52,
-    "AdjustedRating": "2.6247549471663437078727143772"
-  },
-  {
     "BID": 4631749,
     "BeerName": "CORNET Oaked",
     "BeerStyle": "Belgian Strong Golden Ale",
@@ -43,6 +13,36 @@
     "StylePlus": "98",
     "RatingScore": 3.61,
     "AdjustedRating": "2.6583387732831485710738428263"
+  },
+  {
+    "BID": 6304631,
+    "BeerName": "Mango Cart",
+    "BeerStyle": "Wheat Beer - Fruited",
+    "BreweryName": "Golden Road Brewing",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1919131_a9c8b_sm.jpeg",
+    "HallRating": 18.16,
+    "BAR": 13.31,
+    "StylePlus": "106",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.7243042546357898048674973617"
+  },
+  {
+    "BID": 4503448,
+    "BeerName": "Punkin Ale",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4946504_b39d1_sm.jpeg",
+    "HallRating": 18.16,
+    "BAR": 13.32,
+    "StylePlus": "101",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.7033804473544921683558448178"
   },
   {
     "BID": 2305583,
@@ -60,21 +60,6 @@
     "AdjustedRating": "2.6632688036378451550158367175"
   },
   {
-    "BID": 5202471,
-    "BeerName": "Skuumkoppe",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Texelse Bierbrouwerij",
-    "Origin": "Oudeschild, Noord-Holland Netherlands",
-    "BeerAbv": 6.00,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-51276_ce508_sm.jpeg",
-    "HallRating": 18.14,
-    "BAR": 13.28,
-    "StylePlus": "102",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.6518066346768083431135144771"
-  },
-  {
     "BID": 2005520,
     "BeerName": "Organic Chocolate Stout",
     "BeerStyle": "Stout - Other",
@@ -88,6 +73,21 @@
     "StylePlus": "109",
     "RatingScore": 4.04,
     "AdjustedRating": "2.7975427751880033525274862795"
+  },
+  {
+    "BID": 5202471,
+    "BeerName": "Skuumkoppe",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Texelse Bierbrouwerij",
+    "Origin": "Oudeschild, Noord-Holland Netherlands",
+    "BeerAbv": 6.00,
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-51276_ce508_sm.jpeg",
+    "HallRating": 18.14,
+    "BAR": 13.28,
+    "StylePlus": "102",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.6518066346768083431135144771"
   },
   {
     "BID": 4009612,
@@ -165,21 +165,6 @@
     "AdjustedRating": "2.6668373889840296308096698395"
   },
   {
-    "BID": 2203234,
-    "BeerName": "Trappist Westvleteren 12",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Brouwerij De Sint-Sixtusabdij van Westvleteren",
-    "Origin": "Vleteren, Vlaams Gewest Belgium",
-    "BeerAbv": 10.20,
-    "BeerIbu": 38.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4680_1d55d_sm.jpeg",
-    "HallRating": 18.11,
-    "BAR": 13.25,
-    "StylePlus": "115",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.9235185842122882139270421649"
-  },
-  {
     "BID": 4940007,
     "BeerName": "Hanalei Island IPA",
     "BeerStyle": "IPA - Fruited",
@@ -193,6 +178,21 @@
     "StylePlus": "96",
     "RatingScore": 3.55,
     "AdjustedRating": "2.619905150134548264194175792"
+  },
+  {
+    "BID": 2203234,
+    "BeerName": "Trappist Westvleteren 12",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Brouwerij De Sint-Sixtusabdij van Westvleteren",
+    "Origin": "Vleteren, Vlaams Gewest Belgium",
+    "BeerAbv": 10.20,
+    "BeerIbu": 38.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4680_1d55d_sm.jpeg",
+    "HallRating": 18.11,
+    "BAR": 13.25,
+    "StylePlus": "115",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.9235185842122882139270421649"
   },
   {
     "BID": 6301081,
@@ -270,36 +270,6 @@
     "AdjustedRating": "2.6754703975073717185936094331"
   },
   {
-    "BID": 1429226,
-    "BeerName": "Delirium Nocturnum",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Delirium - Huyghe Brewery",
-    "Origin": "Melle, Vlaams Gewest Belgium",
-    "BeerAbv": 8.50,
-    "BeerIbu": 24.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4486_27e5b_sm.jpeg",
-    "HallRating": 18.06,
-    "BAR": 13.19,
-    "StylePlus": "100",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.6680279863840837212305987638"
-  },
-  {
-    "BID": 3300665,
-    "BeerName": "La Trappe Isid'or",
-    "BeerStyle": "Belgian Strong Golden Ale",
-    "BreweryName": "Bierbrouwerij De Koningshoeven",
-    "Origin": "Berkel-Enschot, Noord-Brabant Netherlands",
-    "BeerAbv": 7.50,
-    "BeerIbu": 27.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6646_6f88a_sm.jpeg",
-    "HallRating": 18.06,
-    "BAR": 13.19,
-    "StylePlus": "102",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.6621455579449444042438263741"
-  },
-  {
     "BID": 5008053,
     "BeerName": "Backwoods Bastard",
     "BeerStyle": "Scotch Ale / Wee Heavy",
@@ -313,6 +283,21 @@
     "StylePlus": "108",
     "RatingScore": 4.11,
     "AdjustedRating": "2.7822679665482950930373421877"
+  },
+  {
+    "BID": 1429226,
+    "BeerName": "Delirium Nocturnum",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Delirium - Huyghe Brewery",
+    "Origin": "Melle, Vlaams Gewest Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 24.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4486_27e5b_sm.jpeg",
+    "HallRating": 18.06,
+    "BAR": 13.19,
+    "StylePlus": "100",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.6680279863840837212305987638"
   },
   {
     "BID": 4006067,
@@ -330,19 +315,19 @@
     "AdjustedRating": "2.6275488199027675928189250115"
   },
   {
-    "BID": 1300392,
-    "BeerName": "Sucks",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Lagunitas Brewing Company",
-    "Origin": "Petaluma, CA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 63.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-285026_b50eb_sm.jpeg",
-    "HallRating": 18.05,
-    "BAR": 13.18,
+    "BID": 3300665,
+    "BeerName": "La Trappe Isid'or",
+    "BeerStyle": "Belgian Strong Golden Ale",
+    "BreweryName": "Bierbrouwerij De Koningshoeven",
+    "Origin": "Berkel-Enschot, Noord-Brabant Netherlands",
+    "BeerAbv": 7.50,
+    "BeerIbu": 27.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6646_6f88a_sm.jpeg",
+    "HallRating": 18.06,
+    "BAR": 13.19,
     "StylePlus": "102",
-    "RatingScore": 3.96,
-    "AdjustedRating": "2.7299175005703117817902001709"
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.6621455579449444042438263741"
   },
   {
     "BID": 5001234,
@@ -358,6 +343,21 @@
     "StylePlus": "102",
     "RatingScore": 3.75,
     "AdjustedRating": "2.660461513261169276129895303"
+  },
+  {
+    "BID": 1300392,
+    "BeerName": "Sucks",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 63.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-285026_b50eb_sm.jpeg",
+    "HallRating": 18.05,
+    "BAR": 13.18,
+    "StylePlus": "102",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.7299175005703117817902001709"
   },
   {
     "BID": 2401660,

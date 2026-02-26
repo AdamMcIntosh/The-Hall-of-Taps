@@ -1,5 +1,20 @@
 [
   {
+    "BID": 2012498,
+    "BeerName": "Fruitesse",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Brouwerij Liefmans",
+    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
+    "BeerAbv": 3.80,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9085_4cbf4_sm.jpeg",
+    "HallRating": 11.76,
+    "BAR": 8.45,
+    "StylePlus": "96",
+    "RatingScore": 3.38,
+    "AdjustedRating": "2.4312451551512057000951563116"
+  },
+  {
     "BID": 6206066,
     "BeerName": "König Pilsener",
     "BeerStyle": "Pilsner - German",
@@ -13,21 +28,6 @@
     "StylePlus": "91",
     "RatingScore": 3.13,
     "AdjustedRating": "2.3752974573225169376562844212"
-  },
-  {
-    "BID": 5800183,
-    "BeerName": "Moosehead Canadian Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Moosehead Breweries Limited",
-    "Origin": "Saint John, NB Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5440_18c30_sm.jpeg",
-    "HallRating": 11.76,
-    "BAR": 8.45,
-    "StylePlus": "92",
-    "RatingScore": 3.18,
-    "AdjustedRating": "2.3867349123356172059465705199"
   },
   {
     "BID": 5206381,
@@ -75,19 +75,19 @@
     "AdjustedRating": "2.4124537422513761789900415925"
   },
   {
-    "BID": 6010082,
-    "BeerName": "The Stonewall Inn IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Brooklyn Brewery",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2885563_da69c_sm.jpeg",
+    "BID": 3403452,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Brand Bierbrouwerij",
+    "Origin": "Wijlre, Limburg Netherlands",
+    "BeerAbv": 7.00,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-938406_a9838_sm.jpeg",
     "HallRating": 11.73,
     "BAR": 8.41,
-    "StylePlus": "96",
-    "RatingScore": 3.46,
-    "AdjustedRating": "2.4389118251666809964123527619"
+    "StylePlus": "90",
+    "RatingScore": 3.37,
+    "AdjustedRating": "2.4188396597664657664931353134"
   },
   {
     "BID": 3335736,
@@ -105,19 +105,19 @@
     "AdjustedRating": "2.3387605226664583292642434423"
   },
   {
-    "BID": 3403452,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Brand Bierbrouwerij",
-    "Origin": "Wijlre, Limburg Netherlands",
-    "BeerAbv": 7.00,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-938406_a9838_sm.jpeg",
+    "BID": 6010082,
+    "BeerName": "The Stonewall Inn IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Brooklyn Brewery",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2885563_da69c_sm.jpeg",
     "HallRating": 11.73,
     "BAR": 8.41,
-    "StylePlus": "90",
-    "RatingScore": 3.37,
-    "AdjustedRating": "2.4188396597664657664931353134"
+    "StylePlus": "96",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.4389118251666809964123527619"
   },
   {
     "BID": 3337626,
@@ -135,21 +135,6 @@
     "AdjustedRating": "2.4296316325730856650207696528"
   },
   {
-    "BID": 5600178,
-    "BeerName": "Midway IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 4.10,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2036410_1be3d_sm.jpeg",
-    "HallRating": 11.72,
-    "BAR": 8.39,
-    "StylePlus": "95",
-    "RatingScore": 3.43,
-    "AdjustedRating": "2.4267024976909623282960284552"
-  },
-  {
     "BID": 5806022,
     "BeerName": "Alhambra Reserva 1925",
     "BeerStyle": "Malt Liquor",
@@ -165,19 +150,19 @@
     "AdjustedRating": "2.4138849599338079450072642643"
   },
   {
-    "BID": 2202599,
-    "BeerName": "FIX Hellas",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Olympic Brewery",
-    "Origin": "Kifissia, Αττική Greece",
-    "BeerAbv": 5.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13276_c01b8_sm.jpeg",
-    "HallRating": 11.71,
+    "BID": 5600178,
+    "BeerName": "Midway IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 4.10,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2036410_1be3d_sm.jpeg",
+    "HallRating": 11.72,
     "BAR": 8.39,
     "StylePlus": "95",
-    "RatingScore": 2.99,
-    "AdjustedRating": "2.3313748230629452956891341454"
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.4267024976909623282960284552"
   },
   {
     "BID": 1017639,
@@ -193,6 +178,21 @@
     "StylePlus": "99",
     "RatingScore": 3.43,
     "AdjustedRating": "2.4254825558974681850735461936"
+  },
+  {
+    "BID": 2202599,
+    "BeerName": "FIX Hellas",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Olympic Brewery",
+    "Origin": "Kifissia, Αττική Greece",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13276_c01b8_sm.jpeg",
+    "HallRating": 11.71,
+    "BAR": 8.39,
+    "StylePlus": "95",
+    "RatingScore": 2.99,
+    "AdjustedRating": "2.3313748230629452956891341454"
   },
   {
     "BID": 4960867,
@@ -225,21 +225,6 @@
     "AdjustedRating": "2.3311292448249551611720522806"
   },
   {
-    "BID": 4806994,
-    "BeerName": "Original Alcoholic Ginger Beer",
-    "BeerStyle": "Hard Ginger Beer",
-    "BreweryName": "John Crabbie & Co",
-    "Origin": "Glasgow, Glasgow City Scotland",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18526_c0ed1_sm.jpeg",
-    "HallRating": 11.67,
-    "BAR": 8.34,
-    "StylePlus": "103",
-    "RatingScore": 3.46,
-    "AdjustedRating": "2.4170295737287408261962121197"
-  },
-  {
     "BID": 1104568,
     "BeerName": "The Crisp",
     "BeerStyle": "Pilsner - German",
@@ -255,19 +240,19 @@
     "AdjustedRating": "2.4211614438018145314190146607"
   },
   {
-    "BID": 6578,
-    "BeerName": "Berliner Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Berliner-Kindl-Schultheiss-Brauerei",
-    "Origin": "Berlin, Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6578_b1415_sm.jpeg",
-    "HallRating": 11.65,
-    "BAR": 8.31,
-    "StylePlus": "89",
-    "RatingScore": 3.07,
-    "AdjustedRating": "2.3325189376029873628595629614"
+    "BID": 4806994,
+    "BeerName": "Original Alcoholic Ginger Beer",
+    "BeerStyle": "Hard Ginger Beer",
+    "BreweryName": "John Crabbie & Co",
+    "Origin": "Glasgow, Glasgow City Scotland",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-18526_c0ed1_sm.jpeg",
+    "HallRating": 11.67,
+    "BAR": 8.34,
+    "StylePlus": "103",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.4170295737287408261962121197"
   },
   {
     "BID": 8955,
@@ -300,19 +285,19 @@
     "AdjustedRating": "2.3249458258664140484680999129"
   },
   {
-    "BID": 6301901,
-    "BeerName": "Faxe Premium",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Royal Unibrew",
-    "Origin": "Fakse, Region Sjælland Denmark",
+    "BID": 6578,
+    "BeerName": "Berliner Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Berliner-Kindl-Schultheiss-Brauerei",
+    "Origin": "Berlin, Germany",
     "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-68016_43ead_sm.jpeg",
-    "HallRating": 11.64,
-    "BAR": 8.30,
-    "StylePlus": "95",
-    "RatingScore": 2.98,
-    "AdjustedRating": "2.3132539943481058489641219696"
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6578_b1415_sm.jpeg",
+    "HallRating": 11.65,
+    "BAR": 8.31,
+    "StylePlus": "89",
+    "RatingScore": 3.07,
+    "AdjustedRating": "2.3325189376029873628595629614"
   },
   {
     "BID": 4300508,
@@ -330,19 +315,19 @@
     "AdjustedRating": "2.377590177351142360677151577"
   },
   {
-    "BID": 5944,
-    "BeerName": "Leffe Ruby",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Abbaye de Leffe",
-    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BID": 6301901,
+    "BeerName": "Faxe Premium",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Royal Unibrew",
+    "Origin": "Fakse, Region Sjælland Denmark",
     "BeerAbv": 5.00,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5944_31099_sm.jpeg",
-    "HallRating": 11.62,
-    "BAR": 8.28,
-    "StylePlus": "91",
-    "RatingScore": 3.20,
-    "AdjustedRating": "2.3508735768366212498681316898"
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-68016_43ead_sm.jpeg",
+    "HallRating": 11.64,
+    "BAR": 8.30,
+    "StylePlus": "95",
+    "RatingScore": 2.98,
+    "AdjustedRating": "2.3132539943481058489641219696"
   },
   {
     "BID": 17852,
@@ -358,6 +343,21 @@
     "StylePlus": "94",
     "RatingScore": 3.23,
     "AdjustedRating": "2.3562219859034019762837828239"
+  },
+  {
+    "BID": 5944,
+    "BeerName": "Leffe Ruby",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5944_31099_sm.jpeg",
+    "HallRating": 11.62,
+    "BAR": 8.28,
+    "StylePlus": "91",
+    "RatingScore": 3.20,
+    "AdjustedRating": "2.3508735768366212498681316898"
   },
   {
     "BID": 1902800,

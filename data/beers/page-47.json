@@ -30,21 +30,6 @@
     "AdjustedRating": "2.2557508687218275953500704746"
   },
   {
-    "BID": 19434,
-    "BeerName": "JinxProof",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "3 Floyds Brewing",
-    "Origin": "Munster, IN United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19434_3938d_sm.jpeg",
-    "HallRating": 21.97,
-    "BAR": 14.91,
-    "StylePlus": "104",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.2515143729520405123622281799"
-  },
-  {
     "BID": 336,
     "BeerName": "Easy Street",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -75,6 +60,21 @@
     "AdjustedRating": "2.1627260572865670306512457815"
   },
   {
+    "BID": 19434,
+    "BeerName": "JinxProof",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "3 Floyds Brewing",
+    "Origin": "Munster, IN United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-19434_3938d_sm.jpeg",
+    "HallRating": 21.97,
+    "BAR": 14.91,
+    "StylePlus": "104",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.2515143729520405123622281799"
+  },
+  {
     "BID": 1100612,
     "BeerName": "Hoppy Poppy IPA",
     "BeerStyle": "IPA - American",
@@ -88,6 +88,21 @@
     "StylePlus": "99",
     "RatingScore": 3.70,
     "AdjustedRating": "2.2600730034057392409601251487"
+  },
+  {
+    "BID": 1000087,
+    "BeerName": "Celebration (2014)",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Sierra Nevada Brewing Co.",
+    "Origin": "Chico, CA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-820687_56281_sm.jpeg",
+    "HallRating": 21.95,
+    "BAR": 14.88,
+    "StylePlus": "102",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.2659086057340486522515299963"
   },
   {
     "BID": 3702296,
@@ -120,19 +135,34 @@
     "AdjustedRating": "2.2453715675517007610967061076"
   },
   {
-    "BID": 1000087,
-    "BeerName": "Celebration (2014)",
+    "BID": 2022103,
+    "BeerName": "Hop Shovel™",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Sierra Nevada Brewing Co.",
-    "Origin": "Chico, CA United States",
-    "BeerAbv": 6.80,
+    "BreweryName": "Bear Republic Brewing Co.",
+    "Origin": "Rohnert Park, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 100.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-782164_a43ab_sm.jpeg",
+    "HallRating": 21.94,
+    "BAR": 14.86,
+    "StylePlus": "103",
+    "RatingScore": 3.83,
+    "AdjustedRating": "2.2662402490642599783118200581"
+  },
+  {
+    "BID": 1406101,
+    "BeerName": "A Hopwork Orange",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Blue Mountain Brewery",
+    "Origin": "Afton, VA United States",
+    "BeerAbv": 7.00,
     "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-820687_56281_sm.jpeg",
-    "HallRating": 21.95,
-    "BAR": 14.88,
-    "StylePlus": "102",
-    "RatingScore": 3.81,
-    "AdjustedRating": "2.2659086057340486522515299963"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-659313_b5c9a_sm.jpeg",
+    "HallRating": 21.94,
+    "BAR": 14.87,
+    "StylePlus": "97",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.2523408025742066360435563224"
   },
   {
     "BID": 4300231,
@@ -180,51 +210,6 @@
     "AdjustedRating": "2.2479808198868960758626155632"
   },
   {
-    "BID": 1406101,
-    "BeerName": "A Hopwork Orange",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Blue Mountain Brewery",
-    "Origin": "Afton, VA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-659313_b5c9a_sm.jpeg",
-    "HallRating": 21.94,
-    "BAR": 14.87,
-    "StylePlus": "97",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.2523408025742066360435563224"
-  },
-  {
-    "BID": 2022103,
-    "BeerName": "Hop Shovel™",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Bear Republic Brewing Co.",
-    "Origin": "Rohnert Park, CA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 100.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-782164_a43ab_sm.jpeg",
-    "HallRating": 21.94,
-    "BAR": 14.86,
-    "StylePlus": "103",
-    "RatingScore": 3.83,
-    "AdjustedRating": "2.2662402490642599783118200581"
-  },
-  {
-    "BID": 1800827,
-    "BeerName": "Imperial Pumpkin",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "2SP Brewing Company",
-    "Origin": "Aston, PA United States",
-    "BeerAbv": 7.10,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-206264_5d765.jpeg",
-    "HallRating": 21.93,
-    "BAR": 12.60,
-    "StylePlus": "110",
-    "RatingScore": 3.80,
-    "AdjustedRating": "2.1630262294429971960944180404"
-  },
-  {
     "BID": 3344403,
     "BeerName": "Born In the IPA",
     "BeerStyle": "IPA - American",
@@ -238,21 +223,6 @@
     "StylePlus": "97",
     "RatingScore": 3.60,
     "AdjustedRating": "2.2504500847918226626265170972"
-  },
-  {
-    "BID": 6128,
-    "BeerName": "Organic Cider",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Samuel Smith",
-    "Origin": "Tadcaster, North Yorkshire England",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6128_08f73_sm.jpeg",
-    "HallRating": 21.93,
-    "BAR": 14.86,
-    "StylePlus": "100",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.2499526066350710900473933649"
   },
   {
     "BID": 4501814,
@@ -270,19 +240,34 @@
     "AdjustedRating": "2.2628801537973384101386789107"
   },
   {
-    "BID": 4407898,
-    "BeerName": "Spaten Oktoberfestbier",
-    "BeerStyle": "Festbier",
-    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.90,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1722617_7e19e_sm.jpeg",
-    "HallRating": 21.92,
-    "BAR": 14.84,
-    "StylePlus": "98",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.24749789327973743612727625"
+    "BID": 6128,
+    "BeerName": "Organic Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Samuel Smith",
+    "Origin": "Tadcaster, North Yorkshire England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6128_08f73_sm.jpeg",
+    "HallRating": 21.93,
+    "BAR": 14.86,
+    "StylePlus": "100",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.2499526066350710900473933649"
+  },
+  {
+    "BID": 1800827,
+    "BeerName": "Imperial Pumpkin",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "2SP Brewing Company",
+    "Origin": "Aston, PA United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-206264_5d765.jpeg",
+    "HallRating": 21.93,
+    "BAR": 12.60,
+    "StylePlus": "110",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.1630262294429971960944180404"
   },
   {
     "BID": 6008164,
@@ -300,6 +285,21 @@
     "AdjustedRating": "2.2474330602049629992763265401"
   },
   {
+    "BID": 4407898,
+    "BeerName": "Spaten Oktoberfestbier",
+    "BeerStyle": "Festbier",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.90,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1722617_7e19e_sm.jpeg",
+    "HallRating": 21.92,
+    "BAR": 14.84,
+    "StylePlus": "98",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.24749789327973743612727625"
+  },
+  {
     "BID": 8408,
     "BeerName": "Griswald's Holiday Ale",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -315,21 +315,6 @@
     "AdjustedRating": "2.1626392569647127848409663834"
   },
   {
-    "BID": 2012684,
-    "BeerName": "Hoplanta (2011–2018)",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Atlanta Brewing Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 61.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-99128_73396_sm.jpeg",
-    "HallRating": 21.91,
-    "BAR": 14.83,
-    "StylePlus": "95",
-    "RatingScore": 3.53,
-    "AdjustedRating": "2.2443157393265983830514649217"
-  },
-  {
     "BID": 1806721,
     "BeerName": "Green Head IPA",
     "BeerStyle": "IPA - American",
@@ -343,6 +328,21 @@
     "StylePlus": "98",
     "RatingScore": 3.65,
     "AdjustedRating": "2.2516050464342036096022428596"
+  },
+  {
+    "BID": 2012684,
+    "BeerName": "Hoplanta (2011–2018)",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Atlanta Brewing Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 61.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-99128_73396_sm.jpeg",
+    "HallRating": 21.91,
+    "BAR": 14.83,
+    "StylePlus": "95",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.2443157393265983830514649217"
   },
   {
     "BID": 206748,

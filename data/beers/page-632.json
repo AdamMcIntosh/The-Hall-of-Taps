@@ -1,35 +1,5 @@
 [
   {
-    "BID": 1005176,
-    "BeerName": "Japanese Green Tea IPA (Second Edition)",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 10.10,
-    "BeerIbu": 75.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-940095_4241b_sm.jpeg",
-    "HallRating": 16.81,
-    "BAR": 11.63,
-    "StylePlus": "98",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.317137768743155636607309499"
-  },
-  {
-    "BID": 5503377,
-    "BeerName": "Lupulus Hopera",
-    "BeerStyle": "IPA - Belgian",
-    "BreweryName": "Brasserie Lupulus",
-    "Origin": "Gouvy, Région Wallonne Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 37.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-850649_4f138_sm.jpeg",
-    "HallRating": 16.81,
-    "BAR": 11.62,
-    "StylePlus": "98",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.2920944770614537459803817878"
-  },
-  {
     "BID": 5002790,
     "BeerName": "De Garre",
     "BeerStyle": "Belgian Tripel",
@@ -90,6 +60,36 @@
     "AdjustedRating": "2.3050844425441902854506790283"
   },
   {
+    "BID": 4800350,
+    "BeerName": "Mallow Laser Quest",
+    "BeerStyle": "IPA - Milkshake",
+    "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4145557_67438_sm.jpeg",
+    "HallRating": 16.81,
+    "BAR": 11.62,
+    "StylePlus": "93",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.2948066552025281126486661685"
+  },
+  {
+    "BID": 4445884,
+    "BeerName": "Hop Juice",
+    "BeerStyle": "IPA - Triple",
+    "BreweryName": "Left Coast Brewing Co.",
+    "Origin": "San Clemente, CA United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 100.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5269_4eb09_sm.jpeg",
+    "HallRating": 16.81,
+    "BAR": 11.62,
+    "StylePlus": "94",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.3119037252273729095636059409"
+  },
+  {
     "BID": 904135,
     "BeerName": "Jahrhundert Bier",
     "BeerStyle": "Lager - Dortmunder / Export",
@@ -103,36 +103,6 @@
     "StylePlus": "105",
     "RatingScore": 3.59,
     "AdjustedRating": "2.2979750296837333141438491707"
-  },
-  {
-    "BID": 3504347,
-    "BeerName": "Jucifer",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Gnarly Barley Brewing",
-    "Origin": "Hammond, LA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2038053_8a8fb_sm.jpeg",
-    "HallRating": 16.81,
-    "BAR": 11.62,
-    "StylePlus": "103",
-    "RatingScore": 3.98,
-    "AdjustedRating": "2.3370083999595182673818439429"
-  },
-  {
-    "BID": 1208665,
-    "BeerName": "Oude Geuze (Vieille)",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Oud Beersel",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 6.50,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15215_d4451_sm.jpeg",
-    "HallRating": 16.81,
-    "BAR": 11.62,
-    "StylePlus": "93",
-    "RatingScore": 3.77,
-    "AdjustedRating": "2.3148169846525037867960666836"
   },
   {
     "BID": 4804717,
@@ -150,19 +120,34 @@
     "AdjustedRating": "2.3005566178223879858371087546"
   },
   {
-    "BID": 4653,
-    "BeerName": "OAKED Arrogant Bastard Ale",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Arrogant Consortia",
+    "BID": 5503377,
+    "BeerName": "Lupulus Hopera",
+    "BeerStyle": "IPA - Belgian",
+    "BreweryName": "Brasserie Lupulus",
+    "Origin": "Gouvy, Région Wallonne Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 37.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-850649_4f138_sm.jpeg",
+    "HallRating": 16.81,
+    "BAR": 11.62,
+    "StylePlus": "98",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.2920944770614537459803817878"
+  },
+  {
+    "BID": 1005176,
+    "BeerName": "Japanese Green Tea IPA (Second Edition)",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Stone Brewing",
     "Origin": "Escondido, CA United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-stoneOakedArrogantBastard.jpg",
-    "HallRating": 16.80,
-    "BAR": 11.61,
-    "StylePlus": "102",
-    "RatingScore": 3.89,
-    "AdjustedRating": "2.3256075707306525396814671162"
+    "BeerAbv": 10.10,
+    "BeerIbu": 75.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-940095_4241b_sm.jpeg",
+    "HallRating": 16.81,
+    "BAR": 11.63,
+    "StylePlus": "98",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.317137768743155636607309499"
   },
   {
     "BID": 2404329,
@@ -180,6 +165,36 @@
     "AdjustedRating": "2.2963649965299371783432027328"
   },
   {
+    "BID": 4653,
+    "BeerName": "OAKED Arrogant Bastard Ale",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Arrogant Consortia",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-stoneOakedArrogantBastard.jpg",
+    "HallRating": 16.80,
+    "BAR": 11.61,
+    "StylePlus": "102",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.3256075707306525396814671162"
+  },
+  {
+    "BID": 1207275,
+    "BeerName": "Kölsch",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Alaskan Brewing Co.",
+    "Origin": "Juneau, AK United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4086_646f2_sm.jpeg",
+    "HallRating": 16.80,
+    "BAR": 11.61,
+    "StylePlus": "98",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.2885209816895669029859986987"
+  },
+  {
     "BID": 4940903,
     "BeerName": "Hitachino Nest Espresso Stout",
     "BeerStyle": "Stout - Coffee",
@@ -193,6 +208,21 @@
     "StylePlus": "97",
     "RatingScore": 3.73,
     "AdjustedRating": "2.3101026842010448567825617006"
+  },
+  {
+    "BID": 703973,
+    "BeerName": "Konrad’s Stout",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "LERVIG",
+    "Origin": "Stavanger, Rogaland Norway",
+    "BeerAbv": 10.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-65947_19920_sm.jpeg",
+    "HallRating": 16.80,
+    "BAR": 11.60,
+    "StylePlus": "96",
+    "RatingScore": 3.85,
+    "AdjustedRating": "2.3207467907110918794172796769"
   },
   {
     "BID": 500092,
@@ -255,36 +285,6 @@
     "AdjustedRating": "2.3086460599999098965161487969"
   },
   {
-    "BID": 1207275,
-    "BeerName": "Kölsch",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Alaskan Brewing Co.",
-    "Origin": "Juneau, AK United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4086_646f2_sm.jpeg",
-    "HallRating": 16.80,
-    "BAR": 11.61,
-    "StylePlus": "98",
-    "RatingScore": 3.51,
-    "AdjustedRating": "2.2885209816895669029859986987"
-  },
-  {
-    "BID": 703973,
-    "BeerName": "Konrad’s Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "LERVIG",
-    "Origin": "Stavanger, Rogaland Norway",
-    "BeerAbv": 10.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-65947_19920_sm.jpeg",
-    "HallRating": 16.80,
-    "BAR": 11.60,
-    "StylePlus": "96",
-    "RatingScore": 3.85,
-    "AdjustedRating": "2.3207467907110918794172796769"
-  },
-  {
     "BID": 1012690,
     "BeerName": "Lentebier",
     "BeerStyle": "Pale Ale - Belgian",
@@ -298,6 +298,21 @@
     "StylePlus": "101",
     "RatingScore": 3.53,
     "AdjustedRating": "2.2889145224773558279719207758"
+  },
+  {
+    "BID": 1850137,
+    "BeerName": "Stone Citrusy Wit",
+    "BeerStyle": "Wheat Beer - Fruited",
+    "BreweryName": "Stone Brewing",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1543818_c35ad_sm.jpeg",
+    "HallRating": 16.79,
+    "BAR": 11.59,
+    "StylePlus": "98",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.2849304189303828312546252008"
   },
   {
     "BID": 4006779,
@@ -330,19 +345,19 @@
     "AdjustedRating": "2.2935013495261438276935842828"
   },
   {
-    "BID": 1501844,
-    "BeerName": "Blueberry Muffin",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Great Notion Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 5.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1454350_0dfbc_sm.jpeg",
+    "BID": 4100629,
+    "BeerName": "Milk & Cookies",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Wicked Weed Brewing",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 8.70,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-535667_5a178_sm.jpeg",
     "HallRating": 16.79,
-    "BAR": 11.59,
-    "StylePlus": "110",
-    "RatingScore": 4.24,
-    "AdjustedRating": "2.357376886462586568611969591"
+    "BAR": 11.60,
+    "StylePlus": "96",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.330786592858995028128840235"
   },
   {
     "BID": 1673187,
@@ -358,20 +373,5 @@
     "StylePlus": "105",
     "RatingScore": 3.79,
     "AdjustedRating": "2.3144169112641066219402776463"
-  },
-  {
-    "BID": 1850137,
-    "BeerName": "Stone Citrusy Wit",
-    "BeerStyle": "Wheat Beer - Fruited",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1543818_c35ad_sm.jpeg",
-    "HallRating": 16.79,
-    "BAR": 11.59,
-    "StylePlus": "98",
-    "RatingScore": 3.50,
-    "AdjustedRating": "2.2849304189303828312546252008"
   }
 ]

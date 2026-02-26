@@ -15,21 +15,6 @@
     "AdjustedRating": "2.3679778894797239417497696821"
   },
   {
-    "BID": 2105456,
-    "BeerName": "Coors Banquet",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Coors Brewing Company",
-    "Origin": "Golden, CO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3833_1d167_sm.jpeg",
-    "HallRating": 12.12,
-    "BAR": 8.89,
-    "StylePlus": "84",
-    "RatingScore": 2.90,
-    "AdjustedRating": "2.4157757128792683144405391948"
-  },
-  {
     "BID": 5018810,
     "BeerName": "Dos Equis Ambar",
     "BeerStyle": "Lager - Vienna",
@@ -43,6 +28,21 @@
     "StylePlus": "92",
     "RatingScore": 3.26,
     "AdjustedRating": "2.5433845839952198434790212338"
+  },
+  {
+    "BID": 2105456,
+    "BeerName": "Coors Banquet",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3833_1d167_sm.jpeg",
+    "HallRating": 12.12,
+    "BAR": 8.89,
+    "StylePlus": "84",
+    "RatingScore": 2.90,
+    "AdjustedRating": "2.4157757128792683144405391948"
   },
   {
     "BID": 3300392,
@@ -105,21 +105,6 @@
     "AdjustedRating": "2.431351445004229529248298846"
   },
   {
-    "BID": 5002298,
-    "BeerName": "Radeberger Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Radeberger Gruppe",
-    "Origin": "Frankfurt am Main, Hessen Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1589_8b362_sm.jpeg",
-    "HallRating": 12.01,
-    "BAR": 8.76,
-    "StylePlus": "92",
-    "RatingScore": 3.17,
-    "AdjustedRating": "2.4687033149390470046178341202"
-  },
-  {
     "BID": 3903621,
     "BeerName": "Miller Genuine Draft",
     "BeerStyle": "Lager - American",
@@ -133,6 +118,21 @@
     "StylePlus": "76",
     "RatingScore": 2.60,
     "AdjustedRating": "2.2918568529180300708279832664"
+  },
+  {
+    "BID": 5002298,
+    "BeerName": "Radeberger Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Radeberger Gruppe",
+    "Origin": "Frankfurt am Main, Hessen Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1589_8b362_sm.jpeg",
+    "HallRating": 12.01,
+    "BAR": 8.76,
+    "StylePlus": "92",
+    "RatingScore": 3.17,
+    "AdjustedRating": "2.4687033149390470046178341202"
   },
   {
     "BID": 5705272,
@@ -210,21 +210,6 @@
     "AdjustedRating": "2.5392776541542482098981174293"
   },
   {
-    "BID": 3608994,
-    "BeerName": "Chang Classic",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Thai Beverage PLC",
-    "Origin": "Krung Thep Maha Nakhon, Thailand",
-    "BeerAbv": 5.00,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-83409_58c7a_sm.jpeg",
-    "HallRating": 11.97,
-    "BAR": 8.71,
-    "StylePlus": "94",
-    "RatingScore": 2.95,
-    "AdjustedRating": "2.3898348421222927964998909733"
-  },
-  {
     "BID": 5476255,
     "BeerName": "Tuborg Grøn",
     "BeerStyle": "Pilsner - Other",
@@ -238,6 +223,21 @@
     "StylePlus": "84",
     "RatingScore": 2.88,
     "AdjustedRating": "2.369480287179198836101925422"
+  },
+  {
+    "BID": 3608994,
+    "BeerName": "Chang Classic",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Thai Beverage PLC",
+    "Origin": "Krung Thep Maha Nakhon, Thailand",
+    "BeerAbv": 5.00,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-83409_58c7a_sm.jpeg",
+    "HallRating": 11.97,
+    "BAR": 8.71,
+    "StylePlus": "94",
+    "RatingScore": 2.95,
+    "AdjustedRating": "2.3898348421222927964998909733"
   },
   {
     "BID": 6021413,
@@ -300,21 +300,6 @@
     "AdjustedRating": "2.3385823455296305417840073956"
   },
   {
-    "BID": 2403203,
-    "BeerName": "Long Hammer IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Redhook Brewery",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 44.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6504_1b007_sm.jpeg",
-    "HallRating": 11.93,
-    "BAR": 8.66,
-    "StylePlus": "93",
-    "RatingScore": 3.47,
-    "AdjustedRating": "2.5231381159435926761110451755"
-  },
-  {
     "BID": 6021126,
     "BeerName": "Mahou Cinco Estrellas",
     "BeerStyle": "Lager - Pale",
@@ -343,6 +328,21 @@
     "StylePlus": "92",
     "RatingScore": 3.43,
     "AdjustedRating": "2.513863882688180532726581061"
+  },
+  {
+    "BID": 2403203,
+    "BeerName": "Long Hammer IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Redhook Brewery",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 44.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6504_1b007_sm.jpeg",
+    "HallRating": 11.93,
+    "BAR": 8.66,
+    "StylePlus": "93",
+    "RatingScore": 3.47,
+    "AdjustedRating": "2.5231381159435926761110451755"
   },
   {
     "BID": 5805369,

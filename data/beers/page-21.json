@@ -1,20 +1,5 @@
 [
   {
-    "BID": 2202313,
-    "BeerName": "Deep Ellum® IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Deep Ellum Brewing Company®",
-    "Origin": "Dallas, TX United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-119056_67c54_sm.jpeg",
-    "HallRating": 23.27,
-    "BAR": 16.59,
-    "StylePlus": "100",
-    "RatingScore": 3.72,
-    "AdjustedRating": "2.4543385127546279462503737102"
-  },
-  {
     "BID": 3206461,
     "BeerName": "Green Zebra",
     "BeerStyle": "Sour - Fruited Gose",
@@ -30,19 +15,19 @@
     "AdjustedRating": "2.4592765417275595739821030439"
   },
   {
-    "BID": 5019152,
-    "BeerName": "West Coast IPA (-2013, 2019-)",
+    "BID": 2202313,
+    "BeerName": "Deep Ellum® IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Green Flash Brewing Company",
-    "Origin": "Fort Collins, CO United States",
+    "BreweryName": "Deep Ellum Brewing Company®",
+    "Origin": "Dallas, TX United States",
     "BeerAbv": 7.00,
-    "BeerIbu": 95.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6373_f9876_sm.jpeg",
-    "HallRating": 23.26,
-    "BAR": 16.58,
-    "StylePlus": "103",
-    "RatingScore": 3.83,
-    "AdjustedRating": "2.472807699313862408160786933"
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-119056_67c54_sm.jpeg",
+    "HallRating": 23.27,
+    "BAR": 16.59,
+    "StylePlus": "100",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.4543385127546279462503737102"
   },
   {
     "BID": 4961740,
@@ -58,6 +43,21 @@
     "StylePlus": "99",
     "RatingScore": 3.69,
     "AdjustedRating": "2.4447682874690236079113148174"
+  },
+  {
+    "BID": 5019152,
+    "BeerName": "West Coast IPA (-2013, 2019-)",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Green Flash Brewing Company",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 95.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6373_f9876_sm.jpeg",
+    "HallRating": 23.26,
+    "BAR": 16.58,
+    "StylePlus": "103",
+    "RatingScore": 3.83,
+    "AdjustedRating": "2.472807699313862408160786933"
   },
   {
     "BID": 5805668,
@@ -90,21 +90,6 @@
     "AdjustedRating": "2.4507488679337152873581873955"
   },
   {
-    "BID": 5401975,
-    "BeerName": "Blood & Honey",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Revolver Brewing",
-    "Origin": "Granbury, TX United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-172056_21cfd_sm.jpeg",
-    "HallRating": 23.23,
-    "BAR": 16.54,
-    "StylePlus": "105",
-    "RatingScore": 3.71,
-    "AdjustedRating": "2.4432244024230683924687094943"
-  },
-  {
     "BID": 3902467,
     "BeerName": "Ace Pineapple Cider",
     "BeerStyle": "Cider - Other Fruit",
@@ -120,19 +105,19 @@
     "AdjustedRating": "2.4574782679505710388632153254"
   },
   {
-    "BID": 2850056,
-    "BeerName": "Agave Wheat",
+    "BID": 5401975,
+    "BeerName": "Blood & Honey",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Breckenridge Brewery",
-    "Origin": "Littleton, CO United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6106_8938b_sm.jpeg",
-    "HallRating": 23.22,
-    "BAR": 16.52,
-    "StylePlus": "99",
-    "RatingScore": 3.51,
-    "AdjustedRating": "2.4040727544019144607833145122"
+    "BreweryName": "Revolver Brewing",
+    "Origin": "Granbury, TX United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-172056_21cfd_sm.jpeg",
+    "HallRating": 23.23,
+    "BAR": 16.54,
+    "StylePlus": "105",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.4432244024230683924687094943"
   },
   {
     "BID": 605366,
@@ -148,6 +133,21 @@
     "StylePlus": "110",
     "RatingScore": 4.11,
     "AdjustedRating": "2.5147083190632287946246554789"
+  },
+  {
+    "BID": 2850056,
+    "BeerName": "Agave Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Breckenridge Brewery",
+    "Origin": "Littleton, CO United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6106_8938b_sm.jpeg",
+    "HallRating": 23.22,
+    "BAR": 16.52,
+    "StylePlus": "99",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.4040727544019144607833145122"
   },
   {
     "BID": 2808997,
@@ -330,21 +330,6 @@
     "AdjustedRating": "2.4274132742683763980745819516"
   },
   {
-    "BID": 2801971,
-    "BeerName": "Liquid Truth Serum",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2008972_d47ab_sm.jpeg",
-    "HallRating": 23.10,
-    "BAR": 16.38,
-    "StylePlus": "104",
-    "RatingScore": 3.86,
-    "AdjustedRating": "2.4438107232742898284301011908"
-  },
-  {
     "BID": 701333,
     "BeerName": "Conehead",
     "BeerStyle": "IPA - American",
@@ -358,6 +343,21 @@
     "StylePlus": "102",
     "RatingScore": 3.80,
     "AdjustedRating": "2.4322479345022243822198960709"
+  },
+  {
+    "BID": 2801971,
+    "BeerName": "Liquid Truth Serum",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2008972_d47ab_sm.jpeg",
+    "HallRating": 23.10,
+    "BAR": 16.38,
+    "StylePlus": "104",
+    "RatingScore": 3.86,
+    "AdjustedRating": "2.4438107232742898284301011908"
   },
   {
     "BID": 4815984,

@@ -1,33 +1,33 @@
 [
   {
-    "BID": 408388,
-    "BeerName": "8th Street Pale Ale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Four Peaks Brewing",
-    "Origin": "Tempe, AZ United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4053_7c973_sm.jpeg",
+    "BID": 1404588,
+    "BeerName": "Pour Judgement IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Grey Sail Brewing of RI",
+    "Origin": "Westerly, RI United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-326480_ffaf1_sm.jpeg",
     "HallRating": 21.44,
     "BAR": 14.19,
-    "StylePlus": "101",
-    "RatingScore": 3.50,
-    "AdjustedRating": "2.2116723800957368170498611314"
+    "StylePlus": "99",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.2196313606551887446840063337"
   },
   {
-    "BID": 802579,
-    "BeerName": "Zephyr",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Rising Tide Brewing Company",
-    "Origin": "Portland, ME United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 58.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-211898_0684a_sm.jpeg",
+    "BID": 2204712,
+    "BeerName": "MT Pils",
+    "BeerStyle": "Pilsner - American",
+    "BreweryName": "Modern Times Beer",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5061825_45da4_sm.jpeg",
     "HallRating": 21.43,
     "BAR": 14.18,
     "StylePlus": "98",
-    "RatingScore": 3.66,
-    "AdjustedRating": "2.2183562024026280089673867532"
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.2118798944368810548655457963"
   },
   {
     "BID": 3004849,
@@ -43,21 +43,6 @@
     "StylePlus": "102",
     "RatingScore": 3.79,
     "AdjustedRating": "2.2241406466799996172358688267"
-  },
-  {
-    "BID": 6009980,
-    "BeerName": "Dallas Sucks",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Weyerbacher Brewery / Savant Beverages",
-    "Origin": "Easton, PA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2245867_09e78_sm.jpeg",
-    "HallRating": 21.43,
-    "BAR": 14.18,
-    "StylePlus": "102",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.2134474111155246923919962096"
   },
   {
     "BID": 901096,
@@ -90,6 +75,21 @@
     "AdjustedRating": "2.2116469079196121318866452567"
   },
   {
+    "BID": 802579,
+    "BeerName": "Zephyr",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Rising Tide Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 58.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-211898_0684a_sm.jpeg",
+    "HallRating": 21.43,
+    "BAR": 14.18,
+    "StylePlus": "98",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.2183562024026280089673867532"
+  },
+  {
     "BID": 21860,
     "BeerName": "Green 19",
     "BeerStyle": "IPA - American",
@@ -105,34 +105,19 @@
     "AdjustedRating": "2.2205438189343732803789745676"
   },
   {
-    "BID": 2204712,
-    "BeerName": "MT Pils",
-    "BeerStyle": "Pilsner - American",
-    "BreweryName": "Modern Times Beer",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5061825_45da4_sm.jpeg",
+    "BID": 6009980,
+    "BeerName": "Dallas Sucks",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Weyerbacher Brewery / Savant Beverages",
+    "Origin": "Easton, PA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2245867_09e78_sm.jpeg",
     "HallRating": 21.43,
     "BAR": 14.18,
-    "StylePlus": "98",
-    "RatingScore": 3.51,
-    "AdjustedRating": "2.2118798944368810548655457963"
-  },
-  {
-    "BID": 2601314,
-    "BeerName": "Single Speed",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "4 Hands Brewing Company",
-    "Origin": "St Louis, MO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-351252_d04db_sm.jpeg",
-    "HallRating": 21.42,
-    "BAR": 14.17,
-    "StylePlus": "100",
-    "RatingScore": 3.50,
-    "AdjustedRating": "2.210969307767243587135255976"
+    "StylePlus": "102",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.2134474111155246923919962096"
   },
   {
     "BID": 2020056,
@@ -150,6 +135,21 @@
     "AdjustedRating": "2.2145256865425451690052165503"
   },
   {
+    "BID": 2601314,
+    "BeerName": "Single Speed",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "4 Hands Brewing Company",
+    "Origin": "St Louis, MO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-351252_d04db_sm.jpeg",
+    "HallRating": 21.42,
+    "BAR": 14.17,
+    "StylePlus": "100",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.210969307767243587135255976"
+  },
+  {
     "BID": 701819,
     "BeerName": "Spiced Orange",
     "BeerStyle": "Hard Ginger Beer",
@@ -165,21 +165,6 @@
     "AdjustedRating": "2.2116989424398090742398636518"
   },
   {
-    "BID": 6501235,
-    "BeerName": "Hummin' Bird",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Red Oak Brewery",
-    "Origin": "Whitsett, NC United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7255_402bb_sm.jpeg",
-    "HallRating": 21.41,
-    "BAR": 14.15,
-    "StylePlus": "105",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.2160420758169433720050199745"
-  },
-  {
     "BID": 74,
     "BeerName": "Warrior IPA",
     "BeerStyle": "IPA - American",
@@ -193,6 +178,36 @@
     "StylePlus": "98",
     "RatingScore": 3.67,
     "AdjustedRating": "2.2176565605290756978598485755"
+  },
+  {
+    "BID": 34336,
+    "BeerName": "Twister Creek IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Denali Brewing Company",
+    "Origin": "Talkeetna, AK United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 71.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-34336_3d02f_sm.jpeg",
+    "HallRating": 21.41,
+    "BAR": 14.15,
+    "StylePlus": "100",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.2197994376398116524479912628"
+  },
+  {
+    "BID": 6501235,
+    "BeerName": "Hummin' Bird",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Red Oak Brewery",
+    "Origin": "Whitsett, NC United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7255_402bb_sm.jpeg",
+    "HallRating": 21.41,
+    "BAR": 14.15,
+    "StylePlus": "105",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.2160420758169433720050199745"
   },
   {
     "BID": 1501350,
@@ -240,21 +255,6 @@
     "AdjustedRating": "2.2164894381376634573933036356"
   },
   {
-    "BID": 34336,
-    "BeerName": "Twister Creek IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Denali Brewing Company",
-    "Origin": "Talkeetna, AK United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 71.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-34336_3d02f_sm.jpeg",
-    "HallRating": 21.41,
-    "BAR": 14.15,
-    "StylePlus": "100",
-    "RatingScore": 3.73,
-    "AdjustedRating": "2.2197994376398116524479912628"
-  },
-  {
     "BID": 605317,
     "BeerName": "Green Bench IPA",
     "BeerStyle": "IPA - American",
@@ -283,21 +283,6 @@
     "StylePlus": "98",
     "RatingScore": 3.64,
     "AdjustedRating": "2.2158817682072409787177982442"
-  },
-  {
-    "BID": 5806267,
-    "BeerName": "Weihenstephaner Braupakt Blonde Ale",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Bayerische Staatsbrauerei Weihenstephan",
-    "Origin": "Freising, Bayern Germany",
-    "BeerAbv": 6.50,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5627225_6c971_sm.jpeg",
-    "HallRating": 21.40,
-    "BAR": 14.14,
-    "StylePlus": "104",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.2153680738375449447488004753"
   },
   {
     "BID": 5004402,
@@ -330,6 +315,21 @@
     "AdjustedRating": "2.2101942947770401550525027132"
   },
   {
+    "BID": 5806267,
+    "BeerName": "Weihenstephaner Braupakt Blonde Ale",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Bayerische Staatsbrauerei Weihenstephan",
+    "Origin": "Freising, Bayern Germany",
+    "BeerAbv": 6.50,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5627225_6c971_sm.jpeg",
+    "HallRating": 21.40,
+    "BAR": 14.14,
+    "StylePlus": "104",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.2153680738375449447488004753"
+  },
+  {
     "BID": 2301953,
     "BeerName": "Willy Vanilly",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -345,6 +345,21 @@
     "AdjustedRating": "2.2156924861253558522721826565"
   },
   {
+    "BID": 1102516,
+    "BeerName": "Effortless IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Captain Lawrence Brewing Company",
+    "Origin": "Elmsford, NY United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1025774_e1cbd_sm.jpeg",
+    "HallRating": 21.39,
+    "BAR": 14.13,
+    "StylePlus": "101",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.214778196092340210360834254"
+  },
+  {
     "BID": 5020268,
     "BeerName": "IPA",
     "BeerStyle": "IPA - American",
@@ -358,20 +373,5 @@
     "StylePlus": "94",
     "RatingScore": 3.50,
     "AdjustedRating": "2.2093320040358239287931112991"
-  },
-  {
-    "BID": 6540500,
-    "BeerName": "Stroopwafel Bier",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Bad Shepherd Beer Company",
-    "Origin": "Charleston, WV United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-312510_4d08a.jpeg",
-    "HallRating": 21.39,
-    "BAR": 11.55,
-    "StylePlus": "112",
-    "RatingScore": 3.88,
-    "AdjustedRating": "2.1587979092773946226455068656"
   }
 ]

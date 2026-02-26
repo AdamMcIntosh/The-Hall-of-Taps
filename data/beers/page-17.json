@@ -1,20 +1,5 @@
 [
   {
-    "BID": 3201807,
-    "BeerName": "Pilsener",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Hertog Jan",
-    "Origin": "Arcen, Limburg Netherlands",
-    "BeerAbv": 5.10,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-94130_52756_sm.jpeg",
-    "HallRating": 24.21,
-    "BAR": 17.74,
-    "StylePlus": "106",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.661934547373977302718395355"
-  },
-  {
     "BID": 3402506,
     "BeerName": "Banana Bread Beer",
     "BeerStyle": "Fruit Beer",
@@ -28,6 +13,21 @@
     "StylePlus": "101",
     "RatingScore": 3.55,
     "AdjustedRating": "2.635614190179178023884946263"
+  },
+  {
+    "BID": 3201807,
+    "BeerName": "Pilsener",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Hertog Jan",
+    "Origin": "Arcen, Limburg Netherlands",
+    "BeerAbv": 5.10,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-94130_52756_sm.jpeg",
+    "HallRating": 24.21,
+    "BAR": 17.74,
+    "StylePlus": "106",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.661934547373977302718395355"
   },
   {
     "BID": 1628941,
@@ -180,21 +180,6 @@
     "AdjustedRating": "2.6585396282714862003690776796"
   },
   {
-    "BID": 1204819,
-    "BeerName": "Rübæus",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4590_3e544_sm.jpeg",
-    "HallRating": 24.06,
-    "BAR": 17.56,
-    "StylePlus": "106",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.6560881685752548580174369346"
-  },
-  {
     "BID": 6017480,
     "BeerName": "Atlanta’s OG IPA",
     "BeerStyle": "IPA - American",
@@ -223,6 +208,21 @@
     "StylePlus": "102",
     "RatingScore": 3.79,
     "AdjustedRating": "2.6716994871058899105766897999"
+  },
+  {
+    "BID": 1204819,
+    "BeerName": "Rübæus",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4590_3e544_sm.jpeg",
+    "HallRating": 24.06,
+    "BAR": 17.56,
+    "StylePlus": "106",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.6560881685752548580174369346"
   },
   {
     "BID": 6200424,
@@ -285,21 +285,6 @@
     "AdjustedRating": "2.5756742737874644384897810169"
   },
   {
-    "BID": 4601335,
-    "BeerName": "Schöfferhofer Grapefruit",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Radeberger Gruppe",
-    "Origin": "Frankfurt am Main, Hessen Germany",
-    "BeerAbv": 2.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-SchofferhoferGrapefruit_21857.jpeg",
-    "HallRating": 24.02,
-    "BAR": 17.52,
-    "StylePlus": "106",
-    "RatingScore": 3.58,
-    "AdjustedRating": "2.5961761181110101408965580269"
-  },
-  {
     "BID": 2204190,
     "BeerName": "Loose Cannon",
     "BeerStyle": "IPA - American",
@@ -313,6 +298,21 @@
     "StylePlus": "99",
     "RatingScore": 3.69,
     "AdjustedRating": "2.6299336928135015507325874637"
+  },
+  {
+    "BID": 4601335,
+    "BeerName": "Schöfferhofer Grapefruit",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Radeberger Gruppe",
+    "Origin": "Frankfurt am Main, Hessen Germany",
+    "BeerAbv": 2.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-SchofferhoferGrapefruit_21857.jpeg",
+    "HallRating": 24.02,
+    "BAR": 17.52,
+    "StylePlus": "106",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.5961761181110101408965580269"
   },
   {
     "BID": 5850092,
