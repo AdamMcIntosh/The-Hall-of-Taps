@@ -1,15 +1,15 @@
 [
   {
-    "BreweryName": "",
-    "Location": ""
-  },
-  {
     "BreweryName": "-",
     "Location": "Australia"
   },
   {
     "BreweryName": "!/bin/bash Brewery",
     "Location": "Germany"
+  },
+  {
+    "BreweryName": "\"A Coast\" Brewing Project",
+    "Location": null
   },
   {
     "BreweryName": "\"B\" Brewing Ltd",
@@ -25,7 +25,11 @@
   },
   {
     "BreweryName": "# Femdom",
-    "Location": null
+    "Location": "Sweden"
+  },
+  {
+    "BreweryName": "#/g/punk Presents:",
+    "Location": "Isle of Man"
   },
   {
     "BreweryName": "#1 Brother Brewing",
@@ -40,12 +44,20 @@
     "Location": "United States"
   },
   {
+    "BreweryName": "#2KlownS",
+    "Location": "Tecumseh, MI United States"
+  },
+  {
     "BreweryName": "#2MEN craft beer",
     "Location": "Ukraine"
   },
   {
     "BreweryName": "#331 Lockdown Brewing",
     "Location": "Denmark"
+  },
+  {
+    "BreweryName": "#Andreev_village",
+    "Location": "Magnitogorsk, Chelyabinsk Oblast Russia"
   },
   {
     "BreweryName": "#BABAVAR",
@@ -68,6 +80,10 @@
     "Location": "Hamelin, Niedersachsen Germany"
   },
   {
+    "BreweryName": "#fractured",
+    "Location": null
+  },
+  {
     "BreweryName": "#FREEDOM Craft Brewery",
     "Location": "Buchanan, NY United States"
   },
@@ -80,23 +96,7 @@
     "Location": "Poland"
   },
   {
-    "BreweryName": "#Pub309 Brew House",
-    "Location": "United States"
-  },
-  {
-    "BreweryName": "#unsupervisedScientist",
-    "Location": "United States"
-  },
-  {
-    "BreweryName": "#watchlistbrewingco",
-    "Location": "Australia"
-  },
-  {
-    "BreweryName": "#ВаняВарит",
-    "Location": "Russia"
-  },
-  {
-    "BreweryName": "$teve",
+    "BreweryName": "#Notacult Brewing",
     "Location": "United States"
   }
 ]
