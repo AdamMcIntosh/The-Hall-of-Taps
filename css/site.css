@@ -223,6 +223,16 @@ body {
   font-size: 1rem;
 }
 
+.featured-image {
+  width: 100%;
+  height: auto;
+  max-height: 380px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border: 1px solid var(--border);
+}
+
 .featured-caption {
   font-size: 0.9rem;
   color: var(--text-muted);
