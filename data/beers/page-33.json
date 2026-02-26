@@ -1,20 +1,5 @@
 [
   {
-    "BID": 16906,
-    "BeerName": "Angel City IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Angel City Brewery",
-    "Origin": "Los Angeles, CA United States",
-    "BeerAbv": 6.10,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-176962_2fe02_sm.jpeg",
-    "HallRating": 22.59,
-    "BAR": 15.73,
-    "StylePlus": "96",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.3173318106541845301399818251"
-  },
-  {
     "BID": 3956,
     "BeerName": "HopFish",
     "BeerStyle": "IPA - American",
@@ -30,34 +15,19 @@
     "AdjustedRating": "2.3126036963165087100925626998"
   },
   {
-    "BID": 4903369,
-    "BeerName": "Guava Gose",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Collective Arts Brewing",
-    "Origin": "Hamilton, ON Canada",
-    "BeerAbv": 4.90,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2148237_ad96d_sm.jpeg",
-    "HallRating": 22.58,
-    "BAR": 15.71,
-    "StylePlus": "98",
-    "RatingScore": 3.75,
-    "AdjustedRating": "2.3364106384250455480263259844"
-  },
-  {
-    "BID": 2806538,
-    "BeerName": "Orange Blossom Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Orange Blossom Brewing Company",
-    "Origin": "Orlando, FL United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 7.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-23910_e9323_sm.jpeg",
-    "HallRating": 22.58,
-    "BAR": 15.71,
-    "StylePlus": "104",
+    "BID": 16906,
+    "BeerName": "Angel City IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Angel City Brewery",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 6.10,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-176962_2fe02_sm.jpeg",
+    "HallRating": 22.59,
+    "BAR": 15.73,
+    "StylePlus": "96",
     "RatingScore": 3.57,
-    "AdjustedRating": "2.3152677458147760166013700117"
+    "AdjustedRating": "2.3173318106541845301399818251"
   },
   {
     "BID": 2405156,
@@ -105,19 +75,34 @@
     "AdjustedRating": "2.3191310739366459737338493283"
   },
   {
-    "BID": 3802537,
-    "BeerName": "Gösser NaturRadler",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Brauerei Göss",
-    "Origin": "Göss, Steiermark Austria",
-    "BeerAbv": 2.00,
+    "BID": 2806538,
+    "BeerName": "Orange Blossom Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Orange Blossom Brewing Company",
+    "Origin": "Orlando, FL United States",
+    "BeerAbv": 5.50,
     "BeerIbu": 7.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-GosserNaturRadler_47226.jpeg",
-    "HallRating": 22.57,
-    "BAR": 15.70,
-    "StylePlus": "106",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.317694568440837097553515464"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-23910_e9323_sm.jpeg",
+    "HallRating": 22.58,
+    "BAR": 15.71,
+    "StylePlus": "104",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.3152677458147760166013700117"
+  },
+  {
+    "BID": 4903369,
+    "BeerName": "Guava Gose",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Collective Arts Brewing",
+    "Origin": "Hamilton, ON Canada",
+    "BeerAbv": 4.90,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2148237_ad96d_sm.jpeg",
+    "HallRating": 22.58,
+    "BAR": 15.71,
+    "StylePlus": "98",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.3364106384250455480263259844"
   },
   {
     "BID": 904251,
@@ -135,6 +120,21 @@
     "AdjustedRating": "2.3291532215169674834225736676"
   },
   {
+    "BID": 3802537,
+    "BeerName": "Gösser NaturRadler",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Brauerei Göss",
+    "Origin": "Göss, Steiermark Austria",
+    "BeerAbv": 2.00,
+    "BeerIbu": 7.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-GosserNaturRadler_47226.jpeg",
+    "HallRating": 22.57,
+    "BAR": 15.70,
+    "StylePlus": "106",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.317694568440837097553515464"
+  },
+  {
     "BID": 3903326,
     "BeerName": "White Rajah",
     "BeerStyle": "IPA - American",
@@ -150,6 +150,21 @@
     "AdjustedRating": "2.3587396944108476381753420401"
   },
   {
+    "BID": 1150192,
+    "BeerName": "Cape May IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Cape May Brewing Co.",
+    "Origin": "Cape May, NJ United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 63.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-155721_4d313_sm.jpeg",
+    "HallRating": 22.55,
+    "BAR": 15.67,
+    "StylePlus": "98",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.3205757711041665278490374941"
+  },
+  {
     "BID": 3402556,
     "BeerName": "Florah’s Lavender Ale",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -163,6 +178,21 @@
     "StylePlus": "109",
     "RatingScore": 3.79,
     "AdjustedRating": "2.1537199954002529860857652829"
+  },
+  {
+    "BID": 4940454,
+    "BeerName": "A Little Bit of Software Now",
+    "BeerStyle": "Other",
+    "BreweryName": "Wooden Robot Brewery",
+    "Origin": "Charlotte, NC United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-163220_bccbb.jpeg",
+    "HallRating": 22.55,
+    "BAR": 5.03,
+    "StylePlus": "100",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.1537073460959647219402932839"
   },
   {
     "BID": 808502,
@@ -195,21 +225,6 @@
     "AdjustedRating": "2.1537089960052197129157896316"
   },
   {
-    "BID": 1150192,
-    "BeerName": "Cape May IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Cape May Brewing Co.",
-    "Origin": "Cape May, NJ United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 63.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-155721_4d313_sm.jpeg",
-    "HallRating": 22.55,
-    "BAR": 15.67,
-    "StylePlus": "98",
-    "RatingScore": 3.65,
-    "AdjustedRating": "2.3205757711041665278490374941"
-  },
-  {
     "BID": 203503,
     "BeerName": "Hell",
     "BeerStyle": "Lager - Helles",
@@ -223,21 +238,6 @@
     "StylePlus": "102",
     "RatingScore": 3.55,
     "AdjustedRating": "2.3092288998182876386723001942"
-  },
-  {
-    "BID": 4940454,
-    "BeerName": "A Little Bit of Software Now",
-    "BeerStyle": "Other",
-    "BreweryName": "Wooden Robot Brewery",
-    "Origin": "Charlotte, NC United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-163220_bccbb.jpeg",
-    "HallRating": 22.55,
-    "BAR": 5.03,
-    "StylePlus": "100",
-    "RatingScore": 3.56,
-    "AdjustedRating": "2.1537073460959647219402932839"
   },
   {
     "BID": 2704996,
@@ -255,21 +255,6 @@
     "AdjustedRating": "2.3334280447481416090563621122"
   },
   {
-    "BID": 3850141,
-    "BeerName": "Basement IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Scofflaw Brewing Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1661921_57e96_sm.jpeg",
-    "HallRating": 22.54,
-    "BAR": 15.66,
-    "StylePlus": "104",
-    "RatingScore": 3.87,
-    "AdjustedRating": "2.3438324467434772847009343094"
-  },
-  {
     "BID": 5012361,
     "BeerName": "House Lager",
     "BeerStyle": "Lager - Helles",
@@ -283,6 +268,21 @@
     "StylePlus": "103",
     "RatingScore": 3.57,
     "AdjustedRating": "2.3105874389520085539434168202"
+  },
+  {
+    "BID": 3850141,
+    "BeerName": "Basement IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Scofflaw Brewing Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1661921_57e96_sm.jpeg",
+    "HallRating": 22.54,
+    "BAR": 15.66,
+    "StylePlus": "104",
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.3438324467434772847009343094"
   },
   {
     "BID": 1204089,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.3156917448944788366924292717"
   },
   {
-    "BID": 1828260,
-    "BeerName": "Heart & Soul",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Vocation Brewery",
-    "Origin": "Hebden Bridge, West Yorkshire England",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1070307_fcc5c_sm.jpeg",
+    "BID": 5016396,
+    "BeerName": "Andechser Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Klosterbrauerei Andechs",
+    "Origin": "Andechs, Bayern Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-AndechserVollbierHell_87308.jpeg",
     "HallRating": 22.50,
-    "BAR": 15.61,
-    "StylePlus": "100",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.3089296274393849793021880544"
+    "BAR": 15.60,
+    "StylePlus": "102",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.3032160244290621909815152537"
   }
 ]

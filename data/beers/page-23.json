@@ -1,5 +1,20 @@
 [
   {
+    "BID": 34675,
+    "BeerName": "Big Daddy IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Speakeasy Ales & Lagers",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-917_6de62_sm.jpeg",
+    "HallRating": 22.96,
+    "BAR": 16.19,
+    "StylePlus": "96",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.3728842703317607831257665917"
+  },
+  {
     "BID": 3345282,
     "BeerName": "Zeemuh",
     "BeerStyle": "Other",
@@ -13,21 +28,6 @@
     "StylePlus": "101",
     "RatingScore": 3.58,
     "AdjustedRating": "2.1536977493569055469865181404"
-  },
-  {
-    "BID": 1006404,
-    "BeerName": "Mosaic IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Community Beer Company",
-    "Origin": "Dallas, TX United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-342746_be3f7_sm.jpeg",
-    "HallRating": 22.96,
-    "BAR": 16.20,
-    "StylePlus": "103",
-    "RatingScore": 3.84,
-    "AdjustedRating": "2.4126238364379288965442814852"
   },
   {
     "BID": 401718,
@@ -45,21 +45,6 @@
     "AdjustedRating": "2.3832637770582950519553167325"
   },
   {
-    "BID": 700156,
-    "BeerName": "Drunken Sailor",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "CREW Republic",
-    "Origin": "Unterschleissheim, Bayern Germany",
-    "BeerAbv": 6.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-162217_ed05c_sm.jpeg",
-    "HallRating": 22.93,
-    "BAR": 16.15,
-    "StylePlus": "96",
-    "RatingScore": 3.56,
-    "AdjustedRating": "2.3636544440710983322770946489"
-  },
-  {
     "BID": 5208725,
     "BeerName": "Aloha Sculpin",
     "BeerStyle": "IPA - American",
@@ -73,6 +58,21 @@
     "StylePlus": "101",
     "RatingScore": 3.78,
     "AdjustedRating": "2.3962880971270687678534585991"
+  },
+  {
+    "BID": 700156,
+    "BeerName": "Drunken Sailor",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "CREW Republic",
+    "Origin": "Unterschleissheim, Bayern Germany",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-162217_ed05c_sm.jpeg",
+    "HallRating": 22.93,
+    "BAR": 16.15,
+    "StylePlus": "96",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.3636544440710983322770946489"
   },
   {
     "BID": 6212885,
@@ -120,21 +120,6 @@
     "AdjustedRating": "2.3661617504217575788558867134"
   },
   {
-    "BID": 305777,
-    "BeerName": "Cannonball",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Magic Rock Brewing",
-    "Origin": "Huddersfield, West Yorkshire England",
-    "BeerAbv": 7.40,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-61315_269e3_sm.jpeg",
-    "HallRating": 22.90,
-    "BAR": 16.12,
-    "StylePlus": "100",
-    "RatingScore": 3.73,
-    "AdjustedRating": "2.3846472478375714230849652006"
-  },
-  {
     "BID": 6550717,
     "BeerName": "Warsteiner Märzen / Oktoberfest",
     "BeerStyle": "Festbier",
@@ -150,21 +135,6 @@
     "AdjustedRating": "2.3716552855518507377991675893"
   },
   {
-    "BID": 2004120,
-    "BeerName": "Nu Skool IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Southern Tier Brewing Company",
-    "Origin": "Lakewood, NY United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1461111_71d71_sm.jpeg",
-    "HallRating": 22.90,
-    "BAR": 16.12,
-    "StylePlus": "99",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.379318038667250269560482967"
-  },
-  {
     "BID": 704170,
     "BeerName": "80-Acre Hoppy Wheat Beer",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -178,6 +148,36 @@
     "StylePlus": "102",
     "RatingScore": 3.61,
     "AdjustedRating": "2.3663235469932195863435295725"
+  },
+  {
+    "BID": 305777,
+    "BeerName": "Cannonball",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Magic Rock Brewing",
+    "Origin": "Huddersfield, West Yorkshire England",
+    "BeerAbv": 7.40,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-61315_269e3_sm.jpeg",
+    "HallRating": 22.90,
+    "BAR": 16.12,
+    "StylePlus": "100",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.3846472478375714230849652006"
+  },
+  {
+    "BID": 2004120,
+    "BeerName": "Nu Skool IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Southern Tier Brewing Company",
+    "Origin": "Lakewood, NY United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1461111_71d71_sm.jpeg",
+    "HallRating": 22.90,
+    "BAR": 16.12,
+    "StylePlus": "99",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.379318038667250269560482967"
   },
   {
     "BID": 702793,
@@ -240,21 +240,6 @@
     "AdjustedRating": "2.3742341268735572564241607171"
   },
   {
-    "BID": 5950103,
-    "BeerName": "Harvest Autumn IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Southern Tier Brewing Company",
-    "Origin": "Lakewood, NY United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4877_376f4_sm.jpeg",
-    "HallRating": 22.86,
-    "BAR": 16.07,
-    "StylePlus": "95",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.3511206870677420323038465331"
-  },
-  {
     "BID": 1008678,
     "BeerName": "Down to Earth",
     "BeerStyle": "IPA - Session",
@@ -283,6 +268,21 @@
     "StylePlus": "96",
     "RatingScore": 3.58,
     "AdjustedRating": "2.3557163763395175376481140537"
+  },
+  {
+    "BID": 5950103,
+    "BeerName": "Harvest Autumn IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Southern Tier Brewing Company",
+    "Origin": "Lakewood, NY United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4877_376f4_sm.jpeg",
+    "HallRating": 22.86,
+    "BAR": 16.07,
+    "StylePlus": "95",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.3511206870677420323038465331"
   },
   {
     "BID": 1902355,
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.3836165082508961345116739685"
   },
   {
-    "BID": 501103,
-    "BeerName": "Northern Lights",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Starr Hill Brewery",
-    "Origin": "Crozet, VA United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7252_ff5f2_sm.jpeg",
-    "HallRating": 22.82,
-    "BAR": 16.02,
-    "StylePlus": "95",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.3466140037531213171689141587"
-  },
-  {
     "BID": 1504255,
     "BeerName": "Devil's Gap Jalapeño Ale",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -373,5 +358,20 @@
     "StylePlus": "104",
     "RatingScore": 3.59,
     "AdjustedRating": "2.1736989853772050050780441149"
+  },
+  {
+    "BID": 501103,
+    "BeerName": "Northern Lights",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Starr Hill Brewery",
+    "Origin": "Crozet, VA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7252_ff5f2_sm.jpeg",
+    "HallRating": 22.82,
+    "BAR": 16.02,
+    "StylePlus": "95",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.3466140037531213171689141587"
   }
 ]

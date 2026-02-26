@@ -1,20 +1,5 @@
 [
   {
-    "BID": 1803319,
-    "BeerName": "CB Beer",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Brouwerij Strubbe",
-    "Origin": "Ichtegem, Vlaams Gewest Belgium",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-187908_5c48b.jpeg",
-    "HallRating": 6.97,
-    "BAR": 3.47,
-    "StylePlus": "71",
-    "RatingScore": 2.47,
-    "AdjustedRating": "2.1541038442336495257114328507"
-  },
-  {
     "BID": 6412491,
     "BeerName": "Efes 0,0%",
     "BeerStyle": "Non-Alcoholic - Lager",
@@ -28,6 +13,21 @@
     "StylePlus": "79",
     "RatingScore": 2.11,
     "AdjustedRating": "2.1535647617692505473054101483"
+  },
+  {
+    "BID": 1803319,
+    "BeerName": "CB Beer",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Brouwerij Strubbe",
+    "Origin": "Ichtegem, Vlaams Gewest Belgium",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-187908_5c48b.jpeg",
+    "HallRating": 6.97,
+    "BAR": 3.47,
+    "StylePlus": "71",
+    "RatingScore": 2.47,
+    "AdjustedRating": "2.1541038442336495257114328507"
   },
   {
     "BID": 8898,
@@ -180,19 +180,19 @@
     "AdjustedRating": "2.1536746640139368293713180251"
   },
   {
-    "BID": 5014992,
-    "BeerName": "Lager Sin Alcohol",
+    "BID": 5350531,
+    "BeerName": "Bintang 0.0",
     "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Carrefour",
-    "Origin": "Levallois-Perret, Île-de-France France",
-    "BeerAbv": 1.00,
-    "BeerIbu": 1.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CarrefourSA_15996_e3a83.jpeg",
+    "BreweryName": "PT Multi Bintang Indonesia Tbk.",
+    "Origin": "Tangerang, Banten Indonesia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2885_8d7b9.jpeg",
     "HallRating": 6.87,
-    "BAR": 3.12,
-    "StylePlus": "74",
-    "RatingScore": 1.98,
-    "AdjustedRating": "2.1534938073612214411686825842"
+    "BAR": 3.09,
+    "StylePlus": "73",
+    "RatingScore": 1.96,
+    "AdjustedRating": "2.1534877864769394495046141086"
   },
   {
     "BID": 6022776,
@@ -210,19 +210,19 @@
     "AdjustedRating": "2.1537850098422246425323994045"
   },
   {
-    "BID": 5350531,
-    "BeerName": "Bintang 0.0",
+    "BID": 5014992,
+    "BeerName": "Lager Sin Alcohol",
     "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "PT Multi Bintang Indonesia Tbk.",
-    "Origin": "Tangerang, Banten Indonesia",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2885_8d7b9.jpeg",
+    "BreweryName": "Carrefour",
+    "Origin": "Levallois-Perret, Île-de-France France",
+    "BeerAbv": 1.00,
+    "BeerIbu": 1.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CarrefourSA_15996_e3a83.jpeg",
     "HallRating": 6.87,
-    "BAR": 3.09,
-    "StylePlus": "73",
-    "RatingScore": 1.96,
-    "AdjustedRating": "2.1534877864769394495046141086"
+    "BAR": 3.12,
+    "StylePlus": "74",
+    "RatingScore": 1.98,
+    "AdjustedRating": "2.1534938073612214411686825842"
   },
   {
     "BID": 5550358,
@@ -240,6 +240,21 @@
     "AdjustedRating": "2.1537090727318170457385653587"
   },
   {
+    "BID": 4960811,
+    "BeerName": "Falkenfelser Schankbier Alkoholfrei",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Tucher Bräu",
+    "Origin": "Fürth, Bayern Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-TucherBrau_8309.jpeg",
+    "HallRating": 6.86,
+    "BAR": 2.52,
+    "StylePlus": "88",
+    "RatingScore": 2.49,
+    "AdjustedRating": "2.1537174334672985023893787615"
+  },
+  {
     "BID": 3201381,
     "BeerName": "Delster Classic",
     "BeerStyle": "Non-Alcoholic - Lager",
@@ -253,6 +268,36 @@
     "StylePlus": "70",
     "RatingScore": 1.89,
     "AdjustedRating": "2.1534409810960635743853784909"
+  },
+  {
+    "BID": 4677856,
+    "BeerName": "Sunshine Yellow",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "JoyBräu",
+    "Origin": "Doormannsweg, Hamburg Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 6.86,
+    "BAR": 3.06,
+    "StylePlus": "64",
+    "RatingScore": 1.81,
+    "AdjustedRating": "2.1533904851366172094963762775"
+  },
+  {
+    "BID": 100906,
+    "BeerName": "Senza",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Calanda",
+    "Origin": "Chur, Graubünden Switzerland",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-100906_f36c8_sm.jpeg",
+    "HallRating": 6.86,
+    "BAR": 3.06,
+    "StylePlus": "84",
+    "RatingScore": 2.25,
+    "AdjustedRating": "2.1536971712230719073446271226"
   },
   {
     "BID": 6016538,
@@ -285,51 +330,6 @@
     "AdjustedRating": "2.1532877643202622216892513091"
   },
   {
-    "BID": 4960811,
-    "BeerName": "Falkenfelser Schankbier Alkoholfrei",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Tucher Bräu",
-    "Origin": "Fürth, Bayern Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-TucherBrau_8309.jpeg",
-    "HallRating": 6.86,
-    "BAR": 2.52,
-    "StylePlus": "88",
-    "RatingScore": 2.49,
-    "AdjustedRating": "2.1537174334672985023893787615"
-  },
-  {
-    "BID": 100906,
-    "BeerName": "Senza",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Calanda",
-    "Origin": "Chur, Graubünden Switzerland",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-100906_f36c8_sm.jpeg",
-    "HallRating": 6.86,
-    "BAR": 3.06,
-    "StylePlus": "84",
-    "RatingScore": 2.25,
-    "AdjustedRating": "2.1536971712230719073446271226"
-  },
-  {
-    "BID": 4677856,
-    "BeerName": "Sunshine Yellow",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "JoyBräu",
-    "Origin": "Doormannsweg, Hamburg Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 6.86,
-    "BAR": 3.06,
-    "StylePlus": "64",
-    "RatingScore": 1.81,
-    "AdjustedRating": "2.1533904851366172094963762775"
-  },
-  {
     "BID": 1674687,
     "BeerName": "Bottom Sniffer",
     "BeerStyle": "Non-Alcoholic - Other",
@@ -345,6 +345,21 @@
     "AdjustedRating": "2.1535771289221589801762004467"
   },
   {
+    "BID": 3700624,
+    "BeerName": "Arboga Alkoholfri",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Three Towns Independent Brewers",
+    "Origin": "Stockholm, Stockholms län Sweden",
+    "BeerAbv": 0.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-8237_ccc88.jpeg",
+    "HallRating": 6.84,
+    "BAR": 2.91,
+    "StylePlus": "92",
+    "RatingScore": 2.46,
+    "AdjustedRating": "2.1537922900862542852288287208"
+  },
+  {
     "BID": 5010772,
     "BeerName": "Martens 0.0",
     "BeerStyle": "Non-Alcoholic - Lager",
@@ -358,20 +373,5 @@
     "StylePlus": "78",
     "RatingScore": 2.09,
     "AdjustedRating": "2.1536034455614780829003890876"
-  },
-  {
-    "BID": 3340767,
-    "BeerName": "Karada wo Omou All-Free (からだを想うオールフリー)",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Suntory Spirits Limited",
-    "Origin": "Minato-ku, Tokyo Japan",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3340767_d1f65_sm.jpeg",
-    "HallRating": 6.84,
-    "BAR": 2.80,
-    "StylePlus": "81",
-    "RatingScore": 2.29,
-    "AdjustedRating": "2.1536896357843443493471606172"
   }
 ]

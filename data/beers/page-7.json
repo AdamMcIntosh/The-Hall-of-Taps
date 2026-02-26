@@ -1,18 +1,18 @@
 [
   {
-    "BID": 3348901,
-    "BeerName": "Tête De Pioche 177",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Le Prospecteur",
-    "Origin": "Val-d'Or, QC Canada",
-    "BeerAbv": 6.20,
-    "BeerIbu": 59.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3348901_42f1b_sm.jpeg",
+    "BID": 4300578,
+    "BeerName": "BA IStout 2.0",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
     "HallRating": 28.20,
     "BAR": 8.41,
-    "StylePlus": "122",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1539187297524297084349878015"
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1539175298964124305083389993"
   },
   {
     "BID": 5206408,
@@ -165,21 +165,6 @@
     "AdjustedRating": "2.1581035321713308962058166665"
   },
   {
-    "BID": 6303290,
-    "BeerName": "Sixth Chapter (Bourbon Barrel Aged)",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Croma",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-315257_1f13d.jpeg",
-    "HallRating": 28.05,
-    "BAR": 8.62,
-    "StylePlus": "122",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1539421776614598565690046069"
-  },
-  {
     "BID": 4939829,
     "BeerName": "Liquid Heat",
     "BeerStyle": "IPA - New England / Hazy",
@@ -225,6 +210,36 @@
     "AdjustedRating": "2.1539607252039104818611533972"
   },
   {
+    "BID": 6303290,
+    "BeerName": "Sixth Chapter (Bourbon Barrel Aged)",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Croma",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-315257_1f13d.jpeg",
+    "HallRating": 28.05,
+    "BAR": 8.62,
+    "StylePlus": "122",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1539421776614598565690046069"
+  },
+  {
+    "BID": 3345925,
+    "BeerName": "Tête De Pioche 176",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Le Prospecteur",
+    "Origin": "Val-d'Or, QC Canada",
+    "BeerAbv": 6.50,
+    "BeerIbu": 57.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
+    "HallRating": 28.03,
+    "BAR": 8.66,
+    "StylePlus": "123",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1539588655531503247061646678"
+  },
+  {
     "BID": 6600461,
     "BeerName": "Dark Superstition",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -255,19 +270,19 @@
     "AdjustedRating": "2.1578638450788580555000998203"
   },
   {
-    "BID": 3345925,
-    "BeerName": "Tête De Pioche 176",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Le Prospecteur",
-    "Origin": "Val-d'Or, QC Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 57.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
-    "HallRating": 28.03,
-    "BAR": 8.66,
-    "StylePlus": "123",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1539588655531503247061646678"
+    "BID": 3349056,
+    "BeerName": "Hydra | Boysenberry + Prickly Pear + Pineapple",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3349056_24ad4_sm.jpeg",
+    "HallRating": 28.02,
+    "BAR": 14.25,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1578640805773780408676642343"
   },
   {
     "BID": 4001362,
@@ -285,34 +300,19 @@
     "AdjustedRating": "2.1578879594322106650162710376"
   },
   {
-    "BID": 3349056,
-    "BeerName": "Hydra | Boysenberry + Prickly Pear + Pineapple",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 7.00,
+    "BID": 5605304,
+    "BeerName": "Mead Didn’t Start the Fire",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Funktastic Meads",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 20.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3349056_24ad4_sm.jpeg",
-    "HallRating": 28.02,
-    "BAR": 14.25,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1578640805773780408676642343"
-  },
-  {
-    "BID": 6604271,
-    "BeerName": "Barrel Aged S’meeses (2026)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Dimensional Brewing Company",
-    "Origin": "Dubuque, IA United States",
-    "BeerAbv": 14.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6608552_bffc8_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605304_7fee3_sm.jpeg",
     "HallRating": 28.00,
     "BAR": 8.70,
-    "StylePlus": "117",
-    "RatingScore": 4.84,
-    "AdjustedRating": "2.1539993250927997400357450851"
+    "StylePlus": "114",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.1539704540625663971203959456"
   },
   {
     "BID": 6407226,
@@ -330,34 +330,19 @@
     "AdjustedRating": "2.1576877386508273228680526092"
   },
   {
-    "BID": 5605304,
-    "BeerName": "Mead Didn’t Start the Fire",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Funktastic Meads",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 20.00,
+    "BID": 6604271,
+    "BeerName": "Barrel Aged S’meeses (2026)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Dimensional Brewing Company",
+    "Origin": "Dubuque, IA United States",
+    "BeerAbv": 14.90,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605304_7fee3_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6608552_bffc8_sm.jpeg",
     "HallRating": 28.00,
     "BAR": 8.70,
-    "StylePlus": "114",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.1539704540625663971203959456"
-  },
-  {
-    "BID": 5902002,
-    "BeerName": "Barrel-Aged Seismic Overlay",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Whiskey Hill Brewing",
-    "Origin": "Westmont, IL United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4053347_07d24_sm.jpeg",
-    "HallRating": 27.99,
-    "BAR": 14.16,
-    "StylePlus": "115",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1578095682578822448893004125"
+    "StylePlus": "117",
+    "RatingScore": 4.84,
+    "AdjustedRating": "2.1539993250927997400357450851"
   },
   {
     "BID": 5302224,
@@ -373,5 +358,20 @@
     "StylePlus": "113",
     "RatingScore": 4.60,
     "AdjustedRating": "2.1577817709893181591294798842"
+  },
+  {
+    "BID": 5902002,
+    "BeerName": "Barrel-Aged Seismic Overlay",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Whiskey Hill Brewing",
+    "Origin": "Westmont, IL United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4053347_07d24_sm.jpeg",
+    "HallRating": 27.99,
+    "BAR": 14.16,
+    "StylePlus": "115",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1578095682578822448893004125"
   }
 ]

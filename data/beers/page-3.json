@@ -1,20 +1,5 @@
 [
   {
-    "BID": 6600111,
-    "BeerName": "Aquilon",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Brasserie du Bas-Canada",
-    "Origin": "Gatineau, QC Canada",
-    "BeerAbv": 11.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600111_32294_sm.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
-    "StylePlus": "112",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.1537538123093845307734613269"
-  },
-  {
     "BID": 6605219,
     "BeerName": "Lunar VIII",
     "BeerStyle": "Stout - Imperial / Double",
@@ -43,6 +28,21 @@
     "StylePlus": "122",
     "RatingScore": 4.71,
     "AdjustedRating": "2.1537578121093945302734863257"
+  },
+  {
+    "BID": 6600111,
+    "BeerName": "Aquilon",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 11.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600111_32294_sm.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "112",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.1537538123093845307734613269"
   },
   {
     "BID": 3803236,
@@ -120,21 +120,6 @@
     "AdjustedRating": "2.1537694521037645523610010474"
   },
   {
-    "BID": 6600615,
-    "BeerName": "Solaris",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Brasserie du Bas-Canada",
-    "Origin": "Gatineau, QC Canada",
-    "BeerAbv": 11.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600615_a8846_sm.jpeg",
-    "HallRating": 30.23,
-    "BAR": 6.61,
-    "StylePlus": "114",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.1537589526549856132553040965"
-  },
-  {
     "BID": 6506313,
     "BeerName": "Knitting Circle S:6.h",
     "BeerStyle": "Farmhouse Ale - Saison",
@@ -148,6 +133,21 @@
     "StylePlus": "124",
     "RatingScore": 4.58,
     "AdjustedRating": "2.1537573777376687723894495539"
+  },
+  {
+    "BID": 6600615,
+    "BeerName": "Solaris",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 11.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600615_a8846_sm.jpeg",
+    "HallRating": 30.23,
+    "BAR": 6.61,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.1537589526549856132553040965"
   },
   {
     "BID": 3904435,
@@ -165,21 +165,6 @@
     "AdjustedRating": "2.1822815078306407786176572304"
   },
   {
-    "BID": 5204071,
-    "BeerName": "Double Barrel V.S.O.J.",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Revolution Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 16.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5193715_e8ae7_sm.jpeg",
-    "HallRating": 30.19,
-    "BAR": 18.40,
-    "StylePlus": "119",
-    "RatingScore": 4.73,
-    "AdjustedRating": "2.1841295282515464732504594952"
-  },
-  {
     "BID": 4631365,
     "BeerName": "Enter the Fog Dog",
     "BeerStyle": "IPA - Triple New England / Hazy",
@@ -193,6 +178,21 @@
     "StylePlus": "109",
     "RatingScore": 4.51,
     "AdjustedRating": "2.1815136243484275797327009066"
+  },
+  {
+    "BID": 5204071,
+    "BeerName": "Double Barrel V.S.O.J.",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Revolution Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 16.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5193715_e8ae7_sm.jpeg",
+    "HallRating": 30.19,
+    "BAR": 18.40,
+    "StylePlus": "119",
+    "RatingScore": 4.73,
+    "AdjustedRating": "2.1841295282515464732504594952"
   },
   {
     "BID": 1012039,
@@ -225,6 +225,21 @@
     "AdjustedRating": "2.1794810320015429580285743958"
   },
   {
+    "BID": 6407256,
+    "BeerName": "Rye Barrel-Aged Vietnamese Speedway Stout",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "AleSmith Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2044570_1c4b8_sm.jpeg",
+    "HallRating": 30.07,
+    "BAR": 18.21,
+    "StylePlus": "113",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1794543692009416978257859022"
+  },
+  {
     "BID": 6605126,
     "BeerName": "Side-Poured Guinness",
     "BeerStyle": "Stout - Irish Dry",
@@ -253,21 +268,6 @@
     "StylePlus": "119",
     "RatingScore": 4.63,
     "AdjustedRating": "2.1537661928593927333996630185"
-  },
-  {
-    "BID": 6407256,
-    "BeerName": "Rye Barrel-Aged Vietnamese Speedway Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "AleSmith Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2044570_1c4b8_sm.jpeg",
-    "HallRating": 30.07,
-    "BAR": 18.21,
-    "StylePlus": "113",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1794543692009416978257859022"
   },
   {
     "BID": 6504806,
@@ -300,21 +300,6 @@
     "AdjustedRating": "2.1765272018320232716469641641"
   },
   {
-    "BID": 6606242,
-    "BeerName": "Empty By Design",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Obercreek Brewing Company",
-    "Origin": "Wappingers Falls, NY United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-236847_ee516.jpeg",
-    "HallRating": 29.92,
-    "BAR": 6.81,
-    "StylePlus": "114",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.153770083220214837646835307"
-  },
-  {
     "BID": 6605436,
     "BeerName": "DCDGVC",
     "BeerStyle": "Mead - Melomel",
@@ -328,6 +313,21 @@
     "StylePlus": "120",
     "RatingScore": 4.88,
     "AdjustedRating": "2.1537867572614574661956937476"
+  },
+  {
+    "BID": 6606242,
+    "BeerName": "Empty By Design",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Obercreek Brewing Company",
+    "Origin": "Wappingers Falls, NY United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-236847_ee516.jpeg",
+    "HallRating": 29.92,
+    "BAR": 6.81,
+    "StylePlus": "114",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.153770083220214837646835307"
   },
   {
     "BID": 3904423,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.1755016101065147386673272232"
   },
   {
-    "BID": 6601435,
-    "BeerName": "Waters To Fire #10",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Sworn Brewing Company",
-    "Origin": "Mechanicsburg, PA United States",
-    "BeerAbv": 7.50,
+    "BID": 6017900,
+    "BeerName": "Laza Tiger (Mythos 2024)",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Living Waters Brewing",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 10.10,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-547098_3a992.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-413851_e12d1.jpeg",
     "HallRating": 29.78,
     "BAR": 6.90,
-    "StylePlus": "114",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.1537767733935963842169469832"
+    "StylePlus": "112",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1537779733216007039577625342"
   }
 ]

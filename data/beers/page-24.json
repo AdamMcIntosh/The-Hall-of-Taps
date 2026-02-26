@@ -1,18 +1,18 @@
 [
   {
-    "BID": 3350560,
-    "BeerName": "Hyaku-Shiki （百式）",
+    "BID": 4630919,
+    "BeerName": "Winter Harvest",
     "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Beer++ Brewing",
-    "Origin": "Kita, Tokyo Japan",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-173515_30bf6.jpeg",
+    "BreweryName": "Lindsay Brewing Company",
+    "Origin": "Lindsay, ON Canada",
+    "BeerAbv": 5.20,
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4630919_311da_sm.jpeg",
     "HallRating": 22.81,
     "BAR": 4.88,
-    "StylePlus": "104",
-    "RatingScore": 3.61,
-    "AdjustedRating": "2.1537028148592570371481425929"
+    "StylePlus": "112",
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.1537158142092895355232238388"
   },
   {
     "BID": 4980326,
@@ -30,21 +30,6 @@
     "AdjustedRating": "2.1537033148342582870856457177"
   },
   {
-    "BID": 505701,
-    "BeerName": "Harvest Ale",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 7.60,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7009_a7b87_sm.jpeg",
-    "HallRating": 22.81,
-    "BAR": 16.01,
-    "StylePlus": "105",
-    "RatingScore": 3.93,
-    "AdjustedRating": "2.3968192910947745912693360837"
-  },
-  {
     "BID": 2501684,
     "BeerName": "Stacy's Mom",
     "BeerStyle": "IPA - American",
@@ -60,19 +45,49 @@
     "AdjustedRating": "2.3569459520700929033093432027"
   },
   {
-    "BID": 4630919,
-    "BeerName": "Winter Harvest",
+    "BID": 3350560,
+    "BeerName": "Hyaku-Shiki （百式）",
     "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Lindsay Brewing Company",
-    "Origin": "Lindsay, ON Canada",
-    "BeerAbv": 5.20,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4630919_311da_sm.jpeg",
+    "BreweryName": "Beer++ Brewing",
+    "Origin": "Kita, Tokyo Japan",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-173515_30bf6.jpeg",
     "HallRating": 22.81,
     "BAR": 4.88,
-    "StylePlus": "112",
-    "RatingScore": 3.87,
-    "AdjustedRating": "2.1537158142092895355232238388"
+    "StylePlus": "104",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.1537028148592570371481425929"
+  },
+  {
+    "BID": 505701,
+    "BeerName": "Harvest Ale",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7009_a7b87_sm.jpeg",
+    "HallRating": 22.81,
+    "BAR": 16.01,
+    "StylePlus": "105",
+    "RatingScore": 3.93,
+    "AdjustedRating": "2.3968192910947745912693360837"
+  },
+  {
+    "BID": 1666939,
+    "BeerName": "Xalapa",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "One Well Brewing",
+    "Origin": "Kalamazoo, MI United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-885850_021a1_sm.jpeg",
+    "HallRating": 22.80,
+    "BAR": 14.05,
+    "StylePlus": "107",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.1747413412628552689651431432"
   },
   {
     "BID": 4050922,
@@ -105,21 +120,6 @@
     "AdjustedRating": "2.3890599513335724874768229381"
   },
   {
-    "BID": 1666939,
-    "BeerName": "Xalapa",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "One Well Brewing",
-    "Origin": "Kalamazoo, MI United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-885850_021a1_sm.jpeg",
-    "HallRating": 22.80,
-    "BAR": 14.05,
-    "StylePlus": "107",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.1747413412628552689651431432"
-  },
-  {
     "BID": 806838,
     "BeerName": "Dallas Blonde®",
     "BeerStyle": "Blonde / Golden Ale - Other",
@@ -135,21 +135,6 @@
     "AdjustedRating": "2.3407257738379725045036472514"
   },
   {
-    "BID": 4105378,
-    "BeerName": "Hoppy Xmas",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "BrewDog",
-    "Origin": "Ellon, Aberdeenshire Scotland",
-    "BeerAbv": 6.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3518943_f16c6_sm.jpeg",
-    "HallRating": 22.78,
-    "BAR": 15.96,
-    "StylePlus": "95",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.3385484167993673697095750328"
-  },
-  {
     "BID": 3202742,
     "BeerName": "Sumpin’ Easy",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -163,6 +148,21 @@
     "StylePlus": "101",
     "RatingScore": 3.59,
     "AdjustedRating": "2.3451501494995016683277722408"
+  },
+  {
+    "BID": 4105378,
+    "BeerName": "Hoppy Xmas",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
+    "BeerAbv": 6.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3518943_f16c6_sm.jpeg",
+    "HallRating": 22.78,
+    "BAR": 15.96,
+    "StylePlus": "95",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.3385484167993673697095750328"
   },
   {
     "BID": 1676387,
@@ -270,21 +270,6 @@
     "AdjustedRating": "2.3882674750914255435585166911"
   },
   {
-    "BID": 1672878,
-    "BeerName": "Even Keel",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Ballast Point Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 3.80,
-    "BeerIbu": 51.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6508_7178e_sm.jpeg",
-    "HallRating": 22.75,
-    "BAR": 15.93,
-    "StylePlus": "101",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.3482737673646567044847199711"
-  },
-  {
     "BID": 703037,
     "BeerName": "Sunshine Daydream",
     "BeerStyle": "IPA - Session",
@@ -298,6 +283,21 @@
     "StylePlus": "104",
     "RatingScore": 3.72,
     "AdjustedRating": "2.3577466381119071173100546816"
+  },
+  {
+    "BID": 1672878,
+    "BeerName": "Even Keel",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Ballast Point Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 3.80,
+    "BeerIbu": 51.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6508_7178e_sm.jpeg",
+    "HallRating": 22.75,
+    "BAR": 15.93,
+    "StylePlus": "101",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.3482737673646567044847199711"
   },
   {
     "BID": 33159,
@@ -345,33 +345,33 @@
     "AdjustedRating": "2.3901690112623355352713001017"
   },
   {
-    "BID": 903475,
-    "BeerName": "Christmas Ale",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Begyle Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-521574_3355a_sm.jpeg",
-    "HallRating": 22.72,
-    "BAR": 13.92,
-    "StylePlus": "106",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.1729272675216459832755778021"
-  },
-  {
-    "BID": 4403745,
-    "BeerName": "Bodhizafa",
+    "BID": 450180,
+    "BeerName": "Falco",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Georgetown Brewing Company",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1094728_bfd85_sm.jpeg",
+    "BreweryName": "Evil Twin Brewing",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-318741_16143_sm.jpeg",
     "HallRating": 22.72,
     "BAR": 15.89,
-    "StylePlus": "106",
-    "RatingScore": 3.95,
-    "AdjustedRating": "2.3822988142120018763158755959"
+    "StylePlus": "100",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.3547409998822231043372432355"
+  },
+  {
+    "BID": 2008674,
+    "BeerName": "100W",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Nya Carnegiebryggeriet",
+    "Origin": "Stockholm, Stockholms län Sweden",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-977885_07976_sm.jpeg",
+    "HallRating": 22.72,
+    "BAR": 15.89,
+    "StylePlus": "95",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.3308676436279116417702171453"
   }
 ]

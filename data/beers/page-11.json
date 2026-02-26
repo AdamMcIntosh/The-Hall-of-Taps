@@ -1,18 +1,18 @@
 [
   {
-    "BID": 6203828,
-    "BeerName": "We Have To Move Fast",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 9.80,
+    "BID": 5607291,
+    "BeerName": "Pick of Destiny #27 Drafty Van Winkle",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Mikerphone Brewing",
+    "Origin": "Elk Grove Village, IL United States",
+    "BeerAbv": 15.71,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5607291_347ea_sm.jpeg",
     "HallRating": 27.60,
-    "BAR": 12.97,
-    "StylePlus": "109",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1559467721632799856140981838"
+    "BAR": 9.57,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1541129568438470113626706525"
   },
   {
     "BID": 5404191,
@@ -45,21 +45,6 @@
     "AdjustedRating": "2.1559545134396651198105808952"
   },
   {
-    "BID": 6503040,
-    "BeerName": "Hot Garbage Aged In Barton 1792 Barrels For 39 Months",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Voodoo Brewing Company",
-    "Origin": "Meadville, PA United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1330_7b026.jpeg",
-    "HallRating": 27.58,
-    "BAR": 12.88,
-    "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1558522988390912542210322297"
-  },
-  {
     "BID": 1668809,
     "BeerName": "Term Oil 2-B",
     "BeerStyle": "Stout - Imperial / Double",
@@ -73,6 +58,21 @@
     "StylePlus": "113",
     "RatingScore": 4.59,
     "AdjustedRating": "2.1541415302786414852880895012"
+  },
+  {
+    "BID": 6503040,
+    "BeerName": "Hot Garbage Aged In Barton 1792 Barrels For 39 Months",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Voodoo Brewing Company",
+    "Origin": "Meadville, PA United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1330_7b026.jpeg",
+    "HallRating": 27.58,
+    "BAR": 12.88,
+    "StylePlus": "111",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1558522988390912542210322297"
   },
   {
     "BID": 5000474,
@@ -90,21 +90,6 @@
     "AdjustedRating": "2.1541394307195488947321062577"
   },
   {
-    "BID": 6003072,
-    "BeerName": "Atramento (Batch 2)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Tuber Meadery",
-    "Origin": "Zeist, Utrecht Netherlands",
-    "BeerAbv": 12.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003072_134e8_sm.jpeg",
-    "HallRating": 27.57,
-    "BAR": 9.65,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1541454940825074671632278141"
-  },
-  {
     "BID": 3018980,
     "BeerName": "Black Currant Bourbon Pancake",
     "BeerStyle": "Mead - Melomel",
@@ -120,19 +105,19 @@
     "AdjustedRating": "2.1559091533517997237534562039"
   },
   {
-    "BID": 6200492,
-    "BeerName": "The Gloaming",
-    "BeerStyle": "Rye Wine",
-    "BreweryName": "Solaris Beer & Blending",
-    "Origin": "Murrieta, CA United States",
-    "BeerAbv": 15.50,
+    "BID": 6003072,
+    "BeerName": "Atramento (Batch 2)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Tuber Meadery",
+    "Origin": "Zeist, Utrecht Netherlands",
+    "BeerAbv": 12.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6200492_ee694_sm.jpeg",
-    "HallRating": 27.55,
-    "BAR": 9.70,
-    "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1541445735552517327481272823"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003072_134e8_sm.jpeg",
+    "HallRating": 27.57,
+    "BAR": 9.65,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1541454940825074671632278141"
   },
   {
     "BID": 4802065,
@@ -148,6 +133,21 @@
     "StylePlus": "117",
     "RatingScore": 4.75,
     "AdjustedRating": "2.1559322351413120855240973636"
+  },
+  {
+    "BID": 6200492,
+    "BeerName": "The Gloaming",
+    "BeerStyle": "Rye Wine",
+    "BreweryName": "Solaris Beer & Blending",
+    "Origin": "Murrieta, CA United States",
+    "BeerAbv": 15.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6200492_ee694_sm.jpeg",
+    "HallRating": 27.55,
+    "BAR": 9.70,
+    "StylePlus": "111",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1541445735552517327481272823"
   },
   {
     "BID": 4502493,
@@ -225,21 +225,6 @@
     "AdjustedRating": "2.1556821701553679372533346655"
   },
   {
-    "BID": 6100663,
-    "BeerName": "Barrel Aged Thanatos (Copper Wax)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6100663_ac6cd_sm.jpeg",
-    "HallRating": 27.52,
-    "BAR": 12.63,
-    "StylePlus": "112",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.155718960370689547503965429"
-  },
-  {
     "BID": 4941629,
     "BeerName": "AJ's Stout Vol.1 (2022)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -253,6 +238,21 @@
     "StylePlus": "115",
     "RatingScore": 4.67,
     "AdjustedRating": "2.1557231354897048207367366667"
+  },
+  {
+    "BID": 6100663,
+    "BeerName": "Barrel Aged Thanatos (Copper Wax)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6100663_ac6cd_sm.jpeg",
+    "HallRating": 27.52,
+    "BAR": 12.63,
+    "StylePlus": "112",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.155718960370689547503965429"
   },
   {
     "BID": 6014341,
@@ -270,21 +270,6 @@
     "AdjustedRating": "2.1556113566024115044800427646"
   },
   {
-    "BID": 6004992,
-    "BeerName": "Baal",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Monkey Brew",
-    "Origin": "Trondheim, Trøndelag Norway",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004992_777fb_sm.jpeg",
-    "HallRating": 27.51,
-    "BAR": 12.59,
-    "StylePlus": "112",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1555911762575281830694253976"
-  },
-  {
     "BID": 6305131,
     "BeerName": "Spiritus Profanum (Japan Edition)",
     "BeerStyle": "IPA - Quadruple",
@@ -298,21 +283,6 @@
     "StylePlus": "112",
     "RatingScore": 4.61,
     "AdjustedRating": "2.155648703941008520491895416"
-  },
-  {
-    "BID": 6506103,
-    "BeerName": "Ripened Psychosis",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
-    "HallRating": 27.51,
-    "BAR": 12.59,
-    "StylePlus": "112",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1555665215360366098883668183"
   },
   {
     "BID": 6403888,
@@ -330,6 +300,36 @@
     "AdjustedRating": "2.1541953640894389818392677721"
   },
   {
+    "BID": 6506103,
+    "BeerName": "Ripened Psychosis",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Troon Brewing",
+    "Origin": "Hopewell, NJ United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
+    "HallRating": 27.51,
+    "BAR": 12.59,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1555665215360366098883668183"
+  },
+  {
+    "BID": 6004992,
+    "BeerName": "Baal",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Monkey Brew",
+    "Origin": "Trondheim, Trøndelag Norway",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004992_777fb_sm.jpeg",
+    "HallRating": 27.51,
+    "BAR": 12.59,
+    "StylePlus": "112",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1555911762575281830694253976"
+  },
+  {
     "BID": 6406219,
     "BeerName": "Electa. Chivas BA",
     "BeerStyle": "Mead - Melomel",
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.1555038631884231746341024738"
   },
   {
-    "BID": 5102354,
-    "BeerName": "Best In Show",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 11.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5102354_430ba_sm.jpeg",
-    "HallRating": 27.49,
-    "BAR": 12.50,
-    "StylePlus": "109",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1555058503782012210353820482"
-  },
-  {
     "BID": 6604931,
     "BeerName": "Macadamia Cocoa Coconut Truth (2026)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -373,5 +358,20 @@
     "StylePlus": "112",
     "RatingScore": 4.56,
     "AdjustedRating": "2.154213403249711944853373057"
+  },
+  {
+    "BID": 5102354,
+    "BeerName": "Best In Show",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 11.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5102354_430ba_sm.jpeg",
+    "HallRating": 27.49,
+    "BAR": 12.50,
+    "StylePlus": "109",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1555058503782012210353820482"
   }
 ]
