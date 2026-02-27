@@ -1,20 +1,5 @@
 [
   {
-    "BID": 2402354,
-    "BeerName": "Reserve Bourbon County Brand Stout (2017)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2353294_8c1ef_sm.jpeg",
-    "HallRating": 31.63,
-    "BAR": 20.54,
-    "StylePlus": "113",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.2313161324077258832591329455"
-  },
-  {
     "BID": 2401566,
     "BeerName": "Proprietor's Bourbon County Brand Stout (2017)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -27,22 +12,7 @@
     "BAR": 20.26,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.2234614683248842043838214377"
-  },
-  {
-    "BID": 5600925,
-    "BeerName": "Bourbon County Brand Eagle Rare 2-Year Reserve Stout (2023)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5614353_8b339_sm.jpeg",
-    "HallRating": 31.34,
-    "BAR": 20.13,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.2180237298537340912079722957"
+    "AdjustedRating": "2.2115903813657196348031170599"
   },
   {
     "BID": 6600600,
@@ -57,37 +27,7 @@
     "BAR": 6.02,
     "StylePlus": "117",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1556619735210591576336946522"
-  },
-  {
-    "BID": 6501242,
-    "BeerName": "Bij-den Seylseiken ?!?",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwhuis aan de Werf",
-    "Origin": "Alphen aan den Rijn, Zuid-Holland Netherlands",
-    "BeerAbv": 8.60,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-399026_a9835.jpeg",
-    "HallRating": 31.34,
-    "BAR": 6.02,
-    "StylePlus": "135",
-    "RatingScore": 4.94,
-    "AdjustedRating": "2.1556783728650853965841366345"
-  },
-  {
-    "BID": 3338876,
-    "BeerName": "Complaint Department",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Hopkinsville Brewing Company",
-    "Origin": "Hopkinsville, KY United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 29.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238381_dc1ab.jpeg",
-    "HallRating": 31.34,
-    "BAR": 6.02,
-    "StylePlus": "120",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.155663973441062357505699772"
+    "AdjustedRating": "2.1434564617415303387864485421"
   },
   {
     "BID": 6204976,
@@ -102,7 +42,52 @@
     "BAR": 6.02,
     "StylePlus": "123",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1556631734730610775568977241"
+    "AdjustedRating": "2.1434576616935322587096516139"
+  },
+  {
+    "BID": 6501242,
+    "BeerName": "Bij-den Seylseiken ?!?",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwhuis aan de Werf",
+    "Origin": "Alphen aan den Rijn, Zuid-Holland Netherlands",
+    "BeerAbv": 8.60,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-399026_a9835.jpeg",
+    "HallRating": 31.34,
+    "BAR": 6.02,
+    "StylePlus": "135",
+    "RatingScore": 4.94,
+    "AdjustedRating": "2.1434728610855565777368905244"
+  },
+  {
+    "BID": 5600925,
+    "BeerName": "Bourbon County Brand Eagle Rare 2-Year Reserve Stout (2023)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5614353_8b339_sm.jpeg",
+    "HallRating": 31.34,
+    "BAR": 20.13,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.2061334755565946296106881755"
+  },
+  {
+    "BID": 3338876,
+    "BeerName": "Complaint Department",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Hopkinsville Brewing Company",
+    "Origin": "Hopkinsville, KY United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 29.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238381_dc1ab.jpeg",
+    "HallRating": 31.34,
+    "BAR": 6.02,
+    "StylePlus": "120",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1434584616615335386584536619"
   },
   {
     "BID": 2012665,
@@ -117,7 +102,7 @@
     "BAR": 19.98,
     "StylePlus": "115",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.2167059581194746394488788275"
+    "AdjustedRating": "2.2047955738568724263773150407"
   },
   {
     "BID": 4016650,
@@ -130,39 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4008262_b355f_sm.jpeg",
     "HallRating": 31.22,
     "BAR": 19.96,
-    "StylePlus": "115",
+    "StylePlus": "114",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.2124059930211561455308557624"
-  },
-  {
-    "BID": 6601026,
-    "BeerName": "Marble Fox Pick Your Prize",
-    "BeerStyle": "IPA - Triple",
-    "BreweryName": "Marble Fox Brewing",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 10.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-543713_438fd.jpeg",
-    "HallRating": 31.07,
-    "BAR": 6.15,
-    "StylePlus": "115",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1556696090416157313314184147"
-  },
-  {
-    "BID": 803069,
-    "BeerName": "Black Tuesday (2014)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "The Bruery",
-    "Origin": "Placentia, CA United States",
-    "BeerAbv": 19.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-803069_ae7c9_sm.jpeg",
-    "HallRating": 31.07,
-    "BAR": 19.74,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.2082089033892750404766213883"
+    "AdjustedRating": "2.2004921793026036455918596423"
   },
   {
     "BID": 4959873,
@@ -177,7 +132,37 @@
     "BAR": 6.15,
     "StylePlus": "109",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1556679091138626608369144311"
+    "AdjustedRating": "2.1434624278468165102983123217"
+  },
+  {
+    "BID": 803069,
+    "BeerName": "Black Tuesday (2014)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "The Bruery",
+    "Origin": "Placentia, CA United States",
+    "BeerAbv": 19.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-803069_ae7c9_sm.jpeg",
+    "HallRating": 31.07,
+    "BAR": 19.74,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1962679332221347198919971238"
+  },
+  {
+    "BID": 6601026,
+    "BeerName": "Marble Fox Pick Your Prize",
+    "BeerStyle": "IPA - Triple",
+    "BreweryName": "Marble Fox Brewing",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 10.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-543713_438fd.jpeg",
+    "HallRating": 31.07,
+    "BAR": 6.15,
+    "StylePlus": "115",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1434641277745695807928163053"
   },
   {
     "BID": 11024,
@@ -192,7 +177,7 @@
     "BAR": 19.70,
     "StylePlus": "117",
     "RatingScore": 4.76,
-    "AdjustedRating": "2.2109514523197232138706259741"
+    "AdjustedRating": "2.1990050184613803582657802594"
   },
   {
     "BID": 3904415,
@@ -205,24 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22085_22036_sm.jpeg",
     "HallRating": 30.95,
     "BAR": 19.56,
-    "StylePlus": "112",
+    "StylePlus": "111",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.2031567613387198326232725188"
-  },
-  {
-    "BID": 1603099,
-    "BeerName": "Fundamental Observation (2016)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Bottle Logic Brewing",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 14.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1555220_f9e85_sm.jpeg",
-    "HallRating": 30.93,
-    "BAR": 19.52,
-    "StylePlus": "116",
-    "RatingScore": 4.72,
-    "AdjustedRating": "2.2060471727707630774056936711"
+    "AdjustedRating": "2.191195401059823950649344286"
   },
   {
     "BID": 1010269,
@@ -237,22 +207,7 @@
     "BAR": 19.45,
     "StylePlus": "116",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.2039151354042263088584748111"
-  },
-  {
-    "BID": 6604181,
-    "BeerName": "Ghost Signatures: Peacharine (batch 02)",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Marlowe Artisanal Ales",
-    "Origin": "Mamaroneck, NY United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6604181_2bac3_sm.jpeg",
-    "HallRating": 30.83,
-    "BAR": 6.28,
-    "StylePlus": "118",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1556756445959931803068861901"
+    "AdjustedRating": "2.1919419832801591057901461331"
   },
   {
     "BID": 4980052,
@@ -267,7 +222,22 @@
     "BAR": 6.28,
     "StylePlus": "119",
     "RatingScore": 4.82,
-    "AdjustedRating": "2.1556868940897659605317760701"
+    "AdjustedRating": "2.1434814433350499227534760936"
+  },
+  {
+    "BID": 6604181,
+    "BeerName": "Ghost Signatures: Peacharine (batch 02)",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Marlowe Artisanal Ales",
+    "Origin": "Mamaroneck, NY United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6604181_2bac3_sm.jpeg",
+    "HallRating": 30.83,
+    "BAR": 6.28,
+    "StylePlus": "118",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1434701938412771425285862136"
   },
   {
     "BID": 10068,
@@ -282,7 +252,7 @@
     "BAR": 19.18,
     "StylePlus": "116",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.1983760400152392188671361329"
+    "AdjustedRating": "2.1863754009512222099325295874"
   },
   {
     "BID": 3343863,
@@ -297,22 +267,7 @@
     "BAR": 6.39,
     "StylePlus": "123",
     "RatingScore": 4.71,
-    "AdjustedRating": "2.1556883298043342941210292511"
-  },
-  {
-    "BID": 6409187,
-    "BeerName": "Przepalanka z Kranu 2025",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "Szynkarnia",
-    "Origin": "Wrocław, Województwo dolnośląskie Poland",
-    "BeerAbv": 45.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-566018_b2847.jpeg",
-    "HallRating": 30.61,
-    "BAR": 6.39,
-    "StylePlus": "131",
-    "RatingScore": 5.00,
-    "AdjustedRating": "2.1557021041500528724885567936"
+    "AdjustedRating": "2.1434829095617958146988018069"
   },
   {
     "BID": 5805042,
@@ -327,7 +282,22 @@
     "BAR": 6.39,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1556816801201942907711883686"
+    "AdjustedRating": "2.1434762598776558113489609244"
+  },
+  {
+    "BID": 6409187,
+    "BeerName": "Przepalanka z Kranu 2025",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Szynkarnia",
+    "Origin": "Wrocław, Województwo dolnośląskie Poland",
+    "BeerAbv": 45.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-566018_b2847.jpeg",
+    "HallRating": 30.61,
+    "BAR": 6.39,
+    "StylePlus": "131",
+    "RatingScore": 5.00,
+    "AdjustedRating": "2.1434966839075143930663293494"
   },
   {
     "BID": 3008402,
@@ -342,7 +312,7 @@
     "BAR": 19.04,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1932383907327623326550547339"
+    "AdjustedRating": "2.1812252319638995032244888921"
   },
   {
     "BID": 4702155,
@@ -357,7 +327,7 @@
     "BAR": 19.00,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1926492731080751823074973112"
+    "AdjustedRating": "2.1806330986244797806649455231"
   },
   {
     "BID": 1200653,
@@ -372,6 +342,36 @@
     "BAR": 18.95,
     "StylePlus": "115",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.1933684184609324026541591264"
+    "AdjustedRating": "2.1813473920055151358471519494"
+  },
+  {
+    "BID": 1400059,
+    "BeerName": "Red Agnes",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1400059_f3b19_sm.jpeg",
+    "HallRating": 30.45,
+    "BAR": 18.80,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1777849742209603801299303029"
+  },
+  {
+    "BID": 24328,
+    "BeerName": "Lou Pepe Kriek",
+    "BeerStyle": "Lambic - Kriek",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LouPepeKriek_24328.jpeg",
+    "HallRating": 30.45,
+    "BAR": 18.80,
+    "StylePlus": "115",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1771160997922432552992756856"
   }
 ]

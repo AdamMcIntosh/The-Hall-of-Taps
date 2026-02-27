@@ -1,48 +1,18 @@
 [
   {
-    "BID": 4502493,
-    "BeerName": "Coco Nilla Killa AF",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BID": 6401056,
+    "BeerName": "Partially Barrel-Aged Coconut Killa",
+    "BeerStyle": "Stout - Russian Imperial",
     "BreweryName": "Boiler Brewing Co.",
     "Origin": "Lincoln, NE United States",
-    "BeerAbv": 14.30,
+    "BeerAbv": 12.70,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4502493_c40b8_sm.jpeg",
-    "HallRating": 27.54,
-    "BAR": 12.70,
-    "StylePlus": "112",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1577030426105353605747014465"
-  },
-  {
-    "BID": 6004323,
-    "BeerName": "Cosmic Fusion (2023)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004323_ac9bc_sm.jpeg",
-    "HallRating": 27.54,
-    "BAR": 12.71,
-    "StylePlus": "114",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.1577265778772467952880993536"
-  },
-  {
-    "BID": 6101052,
-    "BeerName": "Bruce Banner #3: OG Kush",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Lost Cabin Beer Co.",
-    "Origin": "Rapid City, SD United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 42.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6101052_bc696_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6401056_a9ebc_sm.jpeg",
     "HallRating": 27.53,
-    "BAR": 9.77,
-    "StylePlus": "126",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1560988777525056862206003649"
+    "BAR": 9.80,
+    "StylePlus": "114",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1439106603247761134341937209"
   },
   {
     "BID": 4303684,
@@ -57,37 +27,22 @@
     "BAR": 12.66,
     "StylePlus": "118",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1576175251036618873957136434"
+    "AdjustedRating": "2.1454218913923165309486936104"
   },
   {
-    "BID": 6401056,
-    "BeerName": "Partially Barrel-Aged Coconut Killa",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 12.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6401056_a9ebc_sm.jpeg",
+    "BID": 6101052,
+    "BeerName": "Bruce Banner #3: OG Kush",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Lost Cabin Beer Co.",
+    "Origin": "Rapid City, SD United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 42.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6101052_bc696_sm.jpeg",
     "HallRating": 27.53,
-    "BAR": 9.80,
-    "StylePlus": "114",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1561138840913692135039278564"
-  },
-  {
-    "BID": 6100663,
-    "BeerName": "Barrel Aged Thanatos (Copper Wax)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6100663_ac6cd_sm.jpeg",
-    "HallRating": 27.52,
-    "BAR": 12.63,
-    "StylePlus": "112",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.1576543394906765583823547779"
+    "BAR": 9.77,
+    "StylePlus": "126",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1438956234847159389137444075"
   },
   {
     "BID": 6014341,
@@ -102,7 +57,22 @@
     "BAR": 12.60,
     "StylePlus": "110",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.157546755060187694682650107"
+    "AdjustedRating": "2.1453508471739635451663748248"
+  },
+  {
+    "BID": 6100663,
+    "BeerName": "Barrel Aged Thanatos (Copper Wax)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6100663_ac6cd_sm.jpeg",
+    "HallRating": 27.52,
+    "BAR": 12.63,
+    "StylePlus": "112",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.1454585534614760138384103313"
   },
   {
     "BID": 4941629,
@@ -117,7 +87,7 @@
     "BAR": 12.61,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.1576585242785381170175828623"
+    "AdjustedRating": "2.1454626773211301591425138572"
   },
   {
     "BID": 6004992,
@@ -132,37 +102,7 @@
     "BAR": 12.59,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1575265843843438771610350487"
-  },
-  {
-    "BID": 6305131,
-    "BeerName": "Spiritus Profanum (Japan Edition)",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Brujos Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-178746_96491.jpeg",
-    "HallRating": 27.51,
-    "BAR": 12.59,
-    "StylePlus": "111",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.1575841120678242145835050671"
-  },
-  {
-    "BID": 6403888,
-    "BeerName": "Grifter And Friends",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "Barreled Souls Brewing Company",
-    "Origin": "Saco, ME United States",
-    "BeerAbv": 15.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6403888_aeb49_sm.jpeg",
-    "HallRating": 27.51,
-    "BAR": 9.87,
-    "StylePlus": "120",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1561319090013846746014686549"
+    "AdjustedRating": "2.1453306155686947485693017493"
   },
   {
     "BID": 6506103,
@@ -177,22 +117,37 @@
     "BAR": 12.59,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1575019296628523039799764694"
+    "AdjustedRating": "2.14530596084720317538824317"
   },
   {
-    "BID": 6406219,
-    "BeerName": "Electa. Chivas BA",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Bugtown Project",
-    "Origin": "Russia",
-    "BeerAbv": 15.00,
+    "BID": 6403888,
+    "BeerName": "Grifter And Friends",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Barreled Souls Brewing Company",
+    "Origin": "Saco, ME United States",
+    "BeerAbv": 15.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6406219_ce44d_sm.jpeg",
-    "HallRating": 27.50,
-    "BAR": 12.51,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6403888_aeb49_sm.jpeg",
+    "HallRating": 27.51,
+    "BAR": 9.87,
+    "StylePlus": "120",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1439287767374666953265982494"
+  },
+  {
+    "BID": 6305131,
+    "BeerName": "Spiritus Profanum (Japan Edition)",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Brujos Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-178746_96491.jpeg",
+    "HallRating": 27.51,
+    "BAR": 12.59,
     "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1574393293315047824599005288"
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.1453881432521750859917717677"
   },
   {
     "BID": 5218697,
@@ -207,22 +162,22 @@
     "BAR": 12.53,
     "StylePlus": "112",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.157495010254270947564579425"
+    "AdjustedRating": "2.1452987977148338458387144317"
   },
   {
-    "BID": 6604931,
-    "BeerName": "Macadamia Cocoa Coconut Truth (2026)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 16.80,
+    "BID": 6406219,
+    "BeerName": "Electa. Chivas BA",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Bugtown Project",
+    "Origin": "Russia",
+    "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 27.49,
-    "BAR": 9.93,
-    "StylePlus": "112",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1561499336410920351814684939"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6406219_ce44d_sm.jpeg",
+    "HallRating": 27.50,
+    "BAR": 12.51,
+    "StylePlus": "111",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1452429949265207323196366879"
   },
   {
     "BID": 6010238,
@@ -237,7 +192,7 @@
     "BAR": 9.93,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1561475092290119645985848432"
+    "AdjustedRating": "2.1439444684663968987520526272"
   },
   {
     "BID": 5102354,
@@ -252,7 +207,22 @@
     "BAR": 12.50,
     "StylePlus": "109",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1574413213561286583598956824"
+    "AdjustedRating": "2.1452449564843773418998990797"
+  },
+  {
+    "BID": 6604931,
+    "BeerName": "Macadamia Cocoa Coconut Truth (2026)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 16.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 27.49,
+    "BAR": 9.93,
+    "StylePlus": "112",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.143946892878476969334936278"
   },
   {
     "BID": 1674045,
@@ -267,22 +237,7 @@
     "BAR": 9.93,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1561523580531721057643521446"
-  },
-  {
-    "BID": 5301004,
-    "BeerName": "Grand Cuvee Del Cerrito",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Horus Aged Ales",
-    "Origin": "Oceanside, CA United States",
-    "BeerAbv": 14.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5301004_e4c84_sm.jpeg",
-    "HallRating": 27.48,
-    "BAR": 12.45,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1574152717026097339805000637"
+    "AdjustedRating": "2.1439493172905570399178199287"
   },
   {
     "BID": 3650567,
@@ -297,7 +252,22 @@
     "BAR": 12.42,
     "StylePlus": "112",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1573989832752526198773435256"
+    "AdjustedRating": "2.145202283259015001061690461"
+  },
+  {
+    "BID": 5301004,
+    "BeerName": "Grand Cuvee Del Cerrito",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Horus Aged Ales",
+    "Origin": "Oceanside, CA United States",
+    "BeerAbv": 14.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5301004_e4c84_sm.jpeg",
+    "HallRating": 27.48,
+    "BAR": 12.45,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1452186935592254983025612714"
   },
   {
     "BID": 6102570,
@@ -312,22 +282,7 @@
     "BAR": 9.98,
     "StylePlus": "123",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.156161949917395444627454705"
-  },
-  {
-    "BID": 3903561,
-    "BeerName": "Madeline (Batch #06 - 5th Birthday)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
-    "HallRating": 27.47,
-    "BAR": 12.39,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1573315013739695228578566075"
+    "AdjustedRating": "2.1439589701548866655502763066"
   },
   {
     "BID": 6404951,
@@ -342,7 +297,7 @@
     "BAR": 10.00,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1561579605098725318670332417"
+    "AdjustedRating": "2.1439550112471882029492626843"
   },
   {
     "BID": 3602650,
@@ -357,7 +312,22 @@
     "BAR": 10.02,
     "StylePlus": "119",
     "RatingScore": 4.73,
-    "AdjustedRating": "2.1562168802377399706574090042"
+    "AdjustedRating": "2.1440139614747276312731035414"
+  },
+  {
+    "BID": 3903561,
+    "BeerName": "Madeline (Batch #06 - 5th Birthday)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
+    "HallRating": 27.47,
+    "BAR": 12.39,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1451346490132400699475393455"
   },
   {
     "BID": 6402730,
@@ -372,6 +342,36 @@
     "BAR": 10.11,
     "StylePlus": "129",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.156197998025518301445870459"
+    "AdjustedRating": "2.1439952012596693367990902388"
+  },
+  {
+    "BID": 6018889,
+    "BeerName": "Corvian Curse",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Brujos Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-178746_96491.jpeg",
+    "HallRating": 27.45,
+    "BAR": 12.28,
+    "StylePlus": "109",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1450590827558295818489779807"
+  },
+  {
+    "BID": 1675563,
+    "BeerName": "The Man With the Axe (R&D)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266944_bf1b0.jpeg",
+    "HallRating": 27.45,
+    "BAR": 12.29,
+    "StylePlus": "115",
+    "RatingScore": 4.66,
+    "AdjustedRating": "2.1451653938299270273578707278"
   }
 ]

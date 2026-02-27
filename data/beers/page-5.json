@@ -1,35 +1,5 @@
 [
   {
-    "BID": 4940902,
-    "BeerName": "25 Jahre Red Kaos",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Kevin Brewery",
-    "Origin": "Zwickau, Sachsen Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940902_954f6_sm.jpeg",
-    "HallRating": 29.33,
-    "BAR": 7.24,
-    "StylePlus": "132",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1557352985291029627926045177"
-  },
-  {
-    "BID": 5343165,
-    "BeerName": "Triple Orchid",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5343165_379ff_sm.jpeg",
-    "HallRating": 29.31,
-    "BAR": 16.92,
-    "StylePlus": "111",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.170194722900069082396910675"
-  },
-  {
     "BID": 4003451,
     "BeerName": "No Rules Vietnamese Porter (2020)",
     "BeerStyle": "Porter - Imperial / Double",
@@ -42,7 +12,7 @@
     "BAR": 16.90,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1695860793844869233292577461"
+    "AdjustedRating": "2.1574527579797015874909293333"
   },
   {
     "BID": 4000077,
@@ -57,7 +27,7 @@
     "BAR": 16.80,
     "StylePlus": "113",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1689868578374468360125580112"
+    "AdjustedRating": "2.1568504299105378418217567793"
   },
   {
     "BID": 3346915,
@@ -72,7 +42,7 @@
     "BAR": 16.69,
     "StylePlus": "112",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1685882370492667425866158766"
+    "AdjustedRating": "2.1564483387952598103327382403"
   },
   {
     "BID": 2504340,
@@ -87,22 +57,7 @@
     "BAR": 16.67,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.168863291069994355494441281"
-  },
-  {
-    "BID": 4304995,
-    "BeerName": "TDH More Citra Than All Citra Imperial IPA",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Other Half Brewing Co.",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4303315_215d2_sm.jpeg",
-    "HallRating": 29.16,
-    "BAR": 16.66,
-    "StylePlus": "113",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1684217331841352729081188611"
+    "AdjustedRating": "2.1567228796427301503626656986"
   },
   {
     "BID": 1004753,
@@ -117,7 +72,22 @@
     "BAR": 16.66,
     "StylePlus": "114",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1681727938250974775204901727"
+    "AdjustedRating": "2.1560318691811888278825495345"
+  },
+  {
+    "BID": 4304995,
+    "BeerName": "TDH More Citra Than All Citra Imperial IPA",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Other Half Brewing Co.",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4303315_215d2_sm.jpeg",
+    "HallRating": 29.16,
+    "BAR": 16.66,
+    "StylePlus": "113",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1562809896804674872559990053"
   },
   {
     "BID": 5302997,
@@ -132,7 +102,7 @@
     "BAR": 7.39,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.155746569007324450666200035"
+    "AdjustedRating": "2.1435414843886708496862735295"
   },
   {
     "BID": 3334736,
@@ -147,7 +117,7 @@
     "BAR": 16.59,
     "StylePlus": "113",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.1681941518664335438236954613"
+    "AdjustedRating": "2.1560512041225934335960524974"
   },
   {
     "BID": 5800667,
@@ -162,7 +132,7 @@
     "BAR": 16.56,
     "StylePlus": "121",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1675719437880860589478920532"
+    "AdjustedRating": "2.1554281805745554035567715458"
   },
   {
     "BID": 6407335,
@@ -177,7 +147,7 @@
     "BAR": 7.46,
     "StylePlus": "115",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.1557626283962992868052725914"
+    "AdjustedRating": "2.1435575742879926805672560377"
   },
   {
     "BID": 1672225,
@@ -192,7 +162,7 @@
     "BAR": 16.43,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1670225486464094583398643051"
+    "AdjustedRating": "2.1548751900201775926713789183"
   },
   {
     "BID": 5450904,
@@ -207,7 +177,7 @@
     "BAR": 16.39,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1667098289598749919132905692"
+    "AdjustedRating": "2.1545613519982881058189472846"
   },
   {
     "BID": 4800168,
@@ -222,7 +192,7 @@
     "BAR": 16.35,
     "StylePlus": "109",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1664527768515246679175231052"
+    "AdjustedRating": "2.1543032115822006778513803383"
   },
   {
     "BID": 1676537,
@@ -237,7 +207,7 @@
     "BAR": 7.53,
     "StylePlus": "112",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1557593392528597712183025358"
+    "AdjustedRating": "2.1435543156547476201903847692"
   },
   {
     "BID": 6300931,
@@ -252,7 +222,7 @@
     "BAR": 16.26,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1662995226314505731907035088"
+    "AdjustedRating": "2.1541477801615785517663631884"
   },
   {
     "BID": 4150318,
@@ -267,7 +237,7 @@
     "BAR": 16.27,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1661417083751247520514090449"
+    "AdjustedRating": "2.1539902985836131180670836268"
   },
   {
     "BID": 3345295,
@@ -282,7 +252,7 @@
     "BAR": 16.19,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1659824062250300572768480558"
+    "AdjustedRating": "2.1538290605949722825856974657"
   },
   {
     "BID": 2012147,
@@ -295,9 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-VintageGeuze_11408.jpeg",
     "HallRating": 28.88,
     "BAR": 16.13,
-    "StylePlus": "113",
+    "StylePlus": "112",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.165677177468743931766920101"
+    "AdjustedRating": "2.1535222887756981891147723821"
   },
   {
     "BID": 6405419,
@@ -312,7 +282,7 @@
     "BAR": 7.66,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1557671097956673682736967358"
+    "AdjustedRating": "2.1435621472174865136463400611"
   },
   {
     "BID": 3750080,
@@ -327,22 +297,7 @@
     "BAR": 15.94,
     "StylePlus": "120",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1648329062287537262695465718"
-  },
-  {
-    "BID": 6500531,
-    "BeerName": "Indulgence 28",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Moersleutel Craft Brewery",
-    "Origin": "Alkmaar, Noord-Holland Netherlands",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6497871_70384_sm.jpeg",
-    "HallRating": 28.77,
-    "BAR": 15.91,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1647630148210687806177977351"
+    "AdjustedRating": "2.1526737493805115791413579186"
   },
   {
     "BID": 5401625,
@@ -357,7 +312,22 @@
     "BAR": 15.92,
     "StylePlus": "118",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.165059472813851088840628798"
+    "AdjustedRating": "2.1528999222968261242055348568"
+  },
+  {
+    "BID": 6500531,
+    "BeerName": "Indulgence 28",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Moersleutel Craft Brewery",
+    "Origin": "Alkmaar, Noord-Holland Netherlands",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6497871_70384_sm.jpeg",
+    "HallRating": 28.77,
+    "BAR": 15.91,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1526033128861858473860775099"
   },
   {
     "BID": 6214111,
@@ -372,6 +342,36 @@
     "BAR": 7.78,
     "StylePlus": "115",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.1557923786859182673559379656"
+    "AdjustedRating": "2.1435874771270585647291743743"
+  },
+  {
+    "BID": 6405420,
+    "BeerName": "Destiny",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Brasseria Della Fonte",
+    "Origin": "Pienza, Toscana Italy",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405420_385dd_sm.jpeg",
+    "HallRating": 28.72,
+    "BAR": 7.78,
+    "StylePlus": "112",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1435766780989710926016658501"
+  },
+  {
+    "BID": 6405422,
+    "BeerName": "Infinity",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Brasseria Della Fonte",
+    "Origin": "Pienza, Toscana Italy",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405422_b8075_sm.jpeg",
+    "HallRating": 28.72,
+    "BAR": 7.78,
+    "StylePlus": "114",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.143573978341949224569788719"
   }
 ]
