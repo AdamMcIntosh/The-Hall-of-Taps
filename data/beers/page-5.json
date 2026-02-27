@@ -1,5 +1,65 @@
 [
   {
+    "BID": 4940902,
+    "BeerName": "25 Jahre Red Kaos",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Kevin Brewery",
+    "Origin": "Zwickau, Sachsen Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940902_954f6_sm.jpeg",
+    "HallRating": 29.33,
+    "BAR": 7.24,
+    "StylePlus": "132",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1557352985291029627926045177"
+  },
+  {
+    "BID": 5343165,
+    "BeerName": "Triple Orchid",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5343165_379ff_sm.jpeg",
+    "HallRating": 29.31,
+    "BAR": 16.92,
+    "StylePlus": "111",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.170194722900069082396910675"
+  },
+  {
+    "BID": 4003451,
+    "BeerName": "No Rules Vietnamese Porter (2020)",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Perrin Brewing Co.®",
+    "Origin": "Comstock Park, MI United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 56.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3737505_2f2f0_sm.jpeg",
+    "HallRating": 29.29,
+    "BAR": 16.90,
+    "StylePlus": "114",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1695860793844869233292577461"
+  },
+  {
+    "BID": 4000077,
+    "BeerName": "Flora (w/ Blueberries, Black Currants & Raspberries)",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 29.24,
+    "BAR": 16.80,
+    "StylePlus": "113",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1689868578374468360125580112"
+  },
+  {
     "BID": 3346915,
     "BeerName": "Millerzzzzz",
     "BeerStyle": "Stout - Imperial / Double",
@@ -12,7 +72,7 @@
     "BAR": 16.69,
     "StylePlus": "112",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1666617268970455867799829926"
+    "AdjustedRating": "2.1685882370492667425866158766"
   },
   {
     "BID": 2504340,
@@ -27,22 +87,7 @@
     "BAR": 16.67,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.1669366994810536078834098781"
-  },
-  {
-    "BID": 1004753,
-    "BeerName": "Brew 1000 (2014)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Fremont Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-684620_f55a3_sm.jpeg",
-    "HallRating": 29.16,
-    "BAR": 16.66,
-    "StylePlus": "114",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1662461207925519216996896634"
+    "AdjustedRating": "2.168863291069994355494441281"
   },
   {
     "BID": 4304995,
@@ -57,7 +102,22 @@
     "BAR": 16.66,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1664950888971776700236230262"
+    "AdjustedRating": "2.1684217331841352729081188611"
+  },
+  {
+    "BID": 1004753,
+    "BeerName": "Brew 1000 (2014)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Fremont Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-684620_f55a3_sm.jpeg",
+    "HallRating": 29.16,
+    "BAR": 16.66,
+    "StylePlus": "114",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1681727938250974775204901727"
   },
   {
     "BID": 5302997,
@@ -72,7 +132,7 @@
     "BAR": 7.39,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1538097142714296427767917406"
+    "AdjustedRating": "2.155746569007324450666200035"
   },
   {
     "BID": 3334736,
@@ -87,7 +147,7 @@
     "BAR": 16.59,
     "StylePlus": "113",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.1662671577832106785516207095"
+    "AdjustedRating": "2.1681941518664335438236954613"
   },
   {
     "BID": 5800667,
@@ -102,7 +162,7 @@
     "BAR": 16.56,
     "StylePlus": "121",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1656448202959830866807610994"
+    "AdjustedRating": "2.1675719437880860589478920532"
   },
   {
     "BID": 6407335,
@@ -117,7 +177,7 @@
     "BAR": 7.46,
     "StylePlus": "115",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.1538257785021660821286350308"
+    "AdjustedRating": "2.1557626283962992868052725914"
   },
   {
     "BID": 1672225,
@@ -132,7 +192,7 @@
     "BAR": 16.43,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1650948545894693367767104304"
+    "AdjustedRating": "2.1670225486464094583398643051"
   },
   {
     "BID": 5450904,
@@ -147,7 +207,7 @@
     "BAR": 16.39,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1647819574315615560321875918"
+    "AdjustedRating": "2.1667098289598749919132905692"
   },
   {
     "BID": 4800168,
@@ -162,7 +222,7 @@
     "BAR": 16.35,
     "StylePlus": "109",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.164524732616994062579319063"
+    "AdjustedRating": "2.1664527768515246679175231052"
   },
   {
     "BID": 1676537,
@@ -177,22 +237,7 @@
     "BAR": 7.53,
     "StylePlus": "112",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1538224942004639628829693625"
-  },
-  {
-    "BID": 4150318,
-    "BeerName": "Brownie",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 12.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4150318_c5791_sm.jpeg",
-    "HallRating": 28.95,
-    "BAR": 16.27,
-    "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1642133714288558650263690371"
+    "AdjustedRating": "2.1557593392528597712183025358"
   },
   {
     "BID": 6300931,
@@ -207,7 +252,22 @@
     "BAR": 16.26,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1643711328916388326123856979"
+    "AdjustedRating": "2.1662995226314505731907035088"
+  },
+  {
+    "BID": 4150318,
+    "BeerName": "Brownie",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 12.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4150318_c5791_sm.jpeg",
+    "HallRating": 28.95,
+    "BAR": 16.27,
+    "StylePlus": "111",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1661417083751247520514090449"
   },
   {
     "BID": 3345295,
@@ -222,7 +282,7 @@
     "BAR": 16.19,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1640537620758065680439495884"
+    "AdjustedRating": "2.1659824062250300572768480558"
   },
   {
     "BID": 2012147,
@@ -235,9 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-VintageGeuze_11408.jpeg",
     "HallRating": 28.88,
     "BAR": 16.13,
-    "StylePlus": "112",
+    "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1637482884470800284802405883"
+    "AdjustedRating": "2.165677177468743931766920101"
   },
   {
     "BID": 6405419,
@@ -252,7 +312,7 @@
     "BAR": 7.66,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.153830274426673732732717719"
+    "AdjustedRating": "2.1557671097956673682736967358"
   },
   {
     "BID": 3750080,
@@ -267,7 +327,7 @@
     "BAR": 15.94,
     "StylePlus": "120",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.162903339883100355878976244"
+    "AdjustedRating": "2.1648329062287537262695465718"
   },
   {
     "BID": 6500531,
@@ -282,7 +342,7 @@
     "BAR": 15.91,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.1628333619742829177905126232"
+    "AdjustedRating": "2.1647630148210687806177977351"
   },
   {
     "BID": 5401625,
@@ -297,81 +357,21 @@
     "BAR": 15.92,
     "StylePlus": "118",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.163129843995935526289573828"
+    "AdjustedRating": "2.165059472813851088840628798"
   },
   {
-    "BID": 6405420,
-    "BeerName": "Destiny",
+    "BID": 6214111,
+    "BeerName": "Golden Delicious",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Brasseria Della Fonte",
-    "Origin": "Pienza, Toscana Italy",
-    "BeerAbv": 13.00,
+    "BreweryName": "Greenhouse Aleworks",
+    "Origin": "Bentonville, AR United States",
+    "BeerAbv": 12.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405420_385dd_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6214111_c2c74_sm.jpeg",
     "HallRating": 28.72,
     "BAR": 7.78,
-    "StylePlus": "112",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1538447539721425071743543081"
-  },
-  {
-    "BID": 6405422,
-    "BeerName": "Infinity",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Brasseria Della Fonte",
-    "Origin": "Pienza, Toscana Italy",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405422_b8075_sm.jpeg",
-    "HallRating": 28.72,
-    "BAR": 7.78,
-    "StylePlus": "114",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1538420542151206391424771771"
-  },
-  {
-    "BID": 4903534,
-    "BeerName": "Badder Batter",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 11.10,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3925767_ea42c_sm.jpeg",
-    "HallRating": 28.70,
-    "BAR": 15.78,
-    "StylePlus": "110",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1622021273945644321550457116"
-  },
-  {
-    "BID": 5400881,
-    "BeerName": "Kill The King",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Anchorage Brewing Company",
-    "Origin": "Anchorage, AK United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5383004_c7ffd_sm.jpeg",
-    "HallRating": 28.68,
-    "BAR": 15.74,
-    "StylePlus": "122",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.1623616107462805552510687487"
-  },
-  {
-    "BID": 4009702,
-    "BeerName": "Pod Squad (2020)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Covert Artisan Ales",
-    "Origin": "Sioux Falls, SD United States",
-    "BeerAbv": 13.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4009702_f72dd_sm.jpeg",
-    "HallRating": 28.67,
-    "BAR": 7.84,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1538516437229556266045390801"
+    "StylePlus": "115",
+    "RatingScore": 4.66,
+    "AdjustedRating": "2.1557923786859182673559379656"
   }
 ]

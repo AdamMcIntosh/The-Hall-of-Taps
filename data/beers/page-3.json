@@ -1,18 +1,33 @@
 [
   {
-    "BID": 6605219,
-    "BeerName": "Lunar VIII",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Track Brewing Company",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 10.60,
+    "BID": 24328,
+    "BeerName": "Lou Pepe Kriek",
+    "BeerStyle": "Lambic - Kriek",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605219_e50ee_sm.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LouPepeKriek_24328.jpeg",
+    "HallRating": 30.45,
+    "BAR": 18.80,
+    "StylePlus": "115",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1891487395351473643481539717"
+  },
+  {
+    "BID": 1400059,
+    "BeerName": "Red Agnes",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1400059_f3b19_sm.jpeg",
+    "HallRating": 30.45,
+    "BAR": 18.80,
     "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1537513124343782810859457027"
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1898178215479253541537278562"
   },
   {
     "BID": 6601518,
@@ -27,22 +42,22 @@
     "BAR": 6.51,
     "StylePlus": "122",
     "RatingScore": 4.71,
-    "AdjustedRating": "2.1537578121093945302734863257"
+    "AdjustedRating": "2.1556947152642367881605919704"
   },
   {
-    "BID": 6600111,
-    "BeerName": "Aquilon",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Brasserie du Bas-Canada",
-    "Origin": "Gatineau, QC Canada",
-    "BeerAbv": 11.30,
+    "BID": 6605219,
+    "BeerName": "Lunar VIII",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Track Brewing Company",
+    "Origin": "Manchester, Greater Manchester England",
+    "BeerAbv": 10.60,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600111_32294_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605219_e50ee_sm.jpeg",
     "HallRating": 30.41,
     "BAR": 6.51,
-    "StylePlus": "112",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.1537538123093845307734613269"
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1556882155892205389730513474"
   },
   {
     "BID": 3803236,
@@ -57,7 +72,22 @@
     "BAR": 6.51,
     "StylePlus": "113",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.1537553122343882805859707015"
+    "AdjustedRating": "2.1556922153892305384730763462"
+  },
+  {
+    "BID": 6600111,
+    "BeerName": "Aquilon",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 11.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600111_32294_sm.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "112",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.1556907154642267886605669717"
   },
   {
     "BID": 4961446,
@@ -72,7 +102,7 @@
     "BAR": 6.51,
     "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.1537523123843807809609519524"
+    "AdjustedRating": "2.1556892155392230388480575971"
   },
   {
     "BID": 2503502,
@@ -85,9 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-825239_2f2eb_sm.jpeg",
     "HallRating": 30.36,
     "BAR": 18.67,
-    "StylePlus": "112",
+    "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1858752867467502034976936928"
+    "AdjustedRating": "2.1877864384203645692015490491"
   },
   {
     "BID": 3000429,
@@ -102,22 +132,7 @@
     "BAR": 18.60,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1841452147820593809222994315"
-  },
-  {
-    "BID": 4815867,
-    "BeerName": "Metheglin: May Honey And Cardamom",
-    "BeerStyle": "Mead - Metheglin",
-    "BreweryName": "Punchiller",
-    "Origin": "Minsk, Minskaja voblasć Belarus",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815867_2fb39_sm.jpeg",
-    "HallRating": 30.23,
-    "BAR": 6.61,
-    "StylePlus": "125",
-    "RatingScore": 4.81,
-    "AdjustedRating": "2.1537694521037645523610010474"
+    "AdjustedRating": "2.1860571304485154769425142135"
   },
   {
     "BID": 6506313,
@@ -132,7 +147,22 @@
     "BAR": 6.61,
     "StylePlus": "124",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.1537573777376687723894495539"
+    "AdjustedRating": "2.1556942760505073483642108789"
+  },
+  {
+    "BID": 4815867,
+    "BeerName": "Metheglin: May Honey And Cardamom",
+    "BeerStyle": "Mead - Metheglin",
+    "BreweryName": "Punchiller",
+    "Origin": "Minsk, Minskaja voblasć Belarus",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815867_2fb39_sm.jpeg",
+    "HallRating": 30.23,
+    "BAR": 6.61,
+    "StylePlus": "125",
+    "RatingScore": 4.81,
+    "AdjustedRating": "2.1557063504166031283357623725"
   },
   {
     "BID": 6600615,
@@ -147,7 +177,7 @@
     "BAR": 6.61,
     "StylePlus": "114",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.1537589526549856132553040965"
+    "AdjustedRating": "2.1556958509678241892300654216"
   },
   {
     "BID": 3904435,
@@ -162,7 +192,22 @@
     "BAR": 18.42,
     "StylePlus": "112",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1822815078306407786176572304"
+    "AdjustedRating": "2.1841954448890865075836174102"
+  },
+  {
+    "BID": 5204071,
+    "BeerName": "Double Barrel V.S.O.J.",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Revolution Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 16.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5193715_e8ae7_sm.jpeg",
+    "HallRating": 30.19,
+    "BAR": 18.40,
+    "StylePlus": "120",
+    "RatingScore": 4.73,
+    "AdjustedRating": "2.1860435976995592798276645784"
   },
   {
     "BID": 4631365,
@@ -177,22 +222,7 @@
     "BAR": 18.40,
     "StylePlus": "109",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1815136243484275797327009066"
-  },
-  {
-    "BID": 5204071,
-    "BeerName": "Double Barrel V.S.O.J.",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Revolution Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 16.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5193715_e8ae7_sm.jpeg",
-    "HallRating": 30.19,
-    "BAR": 18.40,
-    "StylePlus": "119",
-    "RatingScore": 4.73,
-    "AdjustedRating": "2.1841295282515464732504594952"
+    "AdjustedRating": "2.1834277032535388720077077003"
   },
   {
     "BID": 1012039,
@@ -207,7 +237,7 @@
     "BAR": 18.32,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1809861870055533724318432896"
+    "AdjustedRating": "2.1829010748383046767452838349"
   },
   {
     "BID": 5805511,
@@ -222,7 +252,22 @@
     "BAR": 18.23,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1794810320015429580285743958"
+    "AdjustedRating": "2.1813968715536894994782625897"
+  },
+  {
+    "BID": 6613958,
+    "BeerName": "In All Seriousness",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Troon Brewing",
+    "Origin": "Hopewell, NJ United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
+    "HallRating": 30.07,
+    "BAR": 6.71,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1556964866932318722470264135"
   },
   {
     "BID": 6407256,
@@ -237,22 +282,7 @@
     "BAR": 18.21,
     "StylePlus": "113",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1794543692009416978257859022"
-  },
-  {
-    "BID": 6605126,
-    "BeerName": "Side-Poured Guinness",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Queue Beer",
-    "Origin": "Kings County, NY United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605126_24654_sm.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "132",
-    "RatingScore": 4.82,
-    "AdjustedRating": "2.1537766422846743429111398873"
+    "AdjustedRating": "2.1813704077393317110807763072"
   },
   {
     "BID": 5805024,
@@ -267,7 +297,22 @@
     "BAR": 6.71,
     "StylePlus": "119",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.1537661928593927333996630185"
+    "AdjustedRating": "2.1557030863302518361490118044"
+  },
+  {
+    "BID": 6605126,
+    "BeerName": "Side-Poured Guinness",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Queue Beer",
+    "Origin": "Kings County, NY United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605126_24654_sm.jpeg",
+    "HallRating": 30.07,
+    "BAR": 6.71,
+    "StylePlus": "132",
+    "RatingScore": 4.82,
+    "AdjustedRating": "2.1557135357555334456604886731"
   },
   {
     "BID": 6504806,
@@ -282,7 +327,7 @@
     "BAR": 18.17,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1789449848753546191384269874"
+    "AdjustedRating": "2.180861350409466074047691482"
   },
   {
     "BID": 1670477,
@@ -297,22 +342,7 @@
     "BAR": 17.97,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1765272018320232716469641641"
-  },
-  {
-    "BID": 6605436,
-    "BeerName": "DCDGVC",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brewlihan",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605436_65645_sm.jpeg",
-    "HallRating": 29.92,
-    "BAR": 6.81,
-    "StylePlus": "120",
-    "RatingScore": 4.88,
-    "AdjustedRating": "2.1537867572614574661956937476"
+    "AdjustedRating": "2.1784453797115801200717955066"
   },
   {
     "BID": 6606242,
@@ -327,51 +357,21 @@
     "BAR": 6.81,
     "StylePlus": "114",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.153770083220214837646835307"
+    "AdjustedRating": "2.1557069718491186756761486215"
   },
   {
-    "BID": 3904423,
-    "BeerName": "Cable Car Ale",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "The Lost Abbey",
-    "Origin": "San Marcos, CA United States",
-    "BeerAbv": 7.00,
+    "BID": 6605436,
+    "BeerName": "DCDGVC",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brewlihan",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 12.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CableCar_8225.jpeg",
-    "HallRating": 29.86,
-    "BAR": 17.86,
-    "StylePlus": "114",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1758325592915970029103969286"
-  },
-  {
-    "BID": 4961097,
-    "BeerName": "No Sleep Means Insomnia",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 10.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3743582_397b1_sm.jpeg",
-    "HallRating": 29.85,
-    "BAR": 17.84,
-    "StylePlus": "109",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1755016101065147386673272232"
-  },
-  {
-    "BID": 6017900,
-    "BeerName": "Laza Tiger (Mythos 2024)",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Living Waters Brewing",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 10.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-413851_e12d1.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "112",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1537779733216007039577625342"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605436_65645_sm.jpeg",
+    "HallRating": 29.92,
+    "BAR": 6.81,
+    "StylePlus": "120",
+    "RatingScore": 4.88,
+    "AdjustedRating": "2.1557236458903613042250070621"
   }
 ]
