@@ -1,35 +1,5 @@
 [
   {
-    "BID": 2012278,
-    "BeerName": "3 Fonteinen Schaerbeekse Kriek (2014)",
-    "BeerStyle": "Lambic - Kriek",
-    "BreweryName": "Brouwerij 3 Fonteinen",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2012278_4a229_sm.jpeg",
-    "HallRating": 27.78,
-    "BAR": 13.56,
-    "StylePlus": "115",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1585944346653683382644844762"
-  },
-  {
-    "BID": 6302102,
-    "BeerName": "Double Coconut DPV (2025)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brewlihan",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 12.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
-    "HallRating": 27.77,
-    "BAR": 9.13,
-    "StylePlus": "113",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1559746992378776554927049719"
-  },
-  {
     "BID": 6274453,
     "BeerName": "Minutiae Reserve (2025)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -42,7 +12,7 @@
     "BAR": 13.52,
     "StylePlus": "114",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.1586996417023507821375513414"
+    "AdjustedRating": "2.1465090323466623387972684486"
   },
   {
     "BID": 6406583,
@@ -57,7 +27,7 @@
     "BAR": 13.53,
     "StylePlus": "112",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1586107608606091778670535097"
+    "AdjustedRating": "2.1464202123808073267133907772"
   },
   {
     "BID": 4817038,
@@ -72,7 +42,7 @@
     "BAR": 13.46,
     "StylePlus": "114",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.1585761228092516436074718283"
+    "AdjustedRating": "2.1463850873053327041057102407"
   },
   {
     "BID": 6103962,
@@ -87,7 +57,7 @@
     "BAR": 13.46,
     "StylePlus": "112",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.1586190985088341340151613515"
+    "AdjustedRating": "2.1464280934450625730351667449"
   },
   {
     "BID": 3333953,
@@ -102,22 +72,7 @@
     "BAR": 13.46,
     "StylePlus": "118",
     "RatingScore": 4.79,
-    "AdjustedRating": "2.1587968019256362814645023234"
-  },
-  {
-    "BID": 4007402,
-    "BeerName": "Double Barrel Batch 1000",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Cellarmaker Brewing Company",
-    "Origin": "Oakland, CA United States",
-    "BeerAbv": 17.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-82753_b6ced.jpeg",
-    "HallRating": 27.73,
-    "BAR": 13.41,
-    "StylePlus": "118",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1584668685905198998204658898"
+    "AdjustedRating": "2.1466057664217173419627407357"
   },
   {
     "BID": 3301531,
@@ -132,7 +87,22 @@
     "BAR": 13.41,
     "StylePlus": "122",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.1585869741635683091082972725"
+    "AdjustedRating": "2.1463956342498145979459699711"
+  },
+  {
+    "BID": 4007402,
+    "BeerName": "Double Barrel Batch 1000",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Cellarmaker Brewing Company",
+    "Origin": "Oakland, CA United States",
+    "BeerAbv": 17.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-82753_b6ced.jpeg",
+    "HallRating": 27.73,
+    "BAR": 13.41,
+    "StylePlus": "118",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1462755286767661886581385883"
   },
   {
     "BID": 4816857,
@@ -147,7 +117,7 @@
     "BAR": 13.40,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1583830612841122755500288405"
+    "AdjustedRating": "2.1461916604865673356156003186"
   },
   {
     "BID": 6606035,
@@ -162,7 +132,7 @@
     "BAR": 9.26,
     "StylePlus": "117",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1559866123763032061809028897"
+    "AdjustedRating": "2.1437827785568061669053742961"
   },
   {
     "BID": 5550435,
@@ -175,24 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5550435_3e947_sm.jpeg",
     "HallRating": 27.71,
     "BAR": 13.34,
-    "StylePlus": "118",
+    "StylePlus": "119",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.158405353776235126665251645"
-  },
-  {
-    "BID": 5816271,
-    "BeerName": "S'more Than A Feeling",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Prairie Artisan Ales",
-    "Origin": "Krebs, OK United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-prairieartisanales_37713.jpeg",
-    "HallRating": 27.70,
-    "BAR": 9.29,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.156001519726449239136955348"
+    "AdjustedRating": "2.1462135267751239184448079108"
   },
   {
     "BID": 1672076,
@@ -207,22 +162,22 @@
     "BAR": 9.29,
     "StylePlus": "121",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.1560051190785658581455338039"
+    "AdjustedRating": "2.1438013157631626307264692355"
   },
   {
-    "BID": 6100253,
-    "BeerName": "Bloodless IX",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Root + Branch Brewing",
-    "Origin": "Copiague, NY United States",
-    "BeerAbv": 10.00,
+    "BID": 5816271,
+    "BeerName": "S'more Than A Feeling",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Prairie Artisan Ales",
+    "Origin": "Krebs, OK United States",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-227413_f6bc3.jpeg",
-    "HallRating": 27.69,
-    "BAR": 13.29,
-    "StylePlus": "109",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.158242124583286511593062891"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-prairieartisanales_37713.jpeg",
+    "HallRating": 27.70,
+    "BAR": 9.29,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1437977164110460117178907797"
   },
   {
     "BID": 6004322,
@@ -237,7 +192,22 @@
     "BAR": 13.28,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1582643156625122049279191316"
+    "AdjustedRating": "2.1460721233203397152724539459"
+  },
+  {
+    "BID": 6100253,
+    "BeerName": "Bloodless IX",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Root + Branch Brewing",
+    "Origin": "Copiague, NY United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-227413_f6bc3.jpeg",
+    "HallRating": 27.69,
+    "BAR": 13.29,
+    "StylePlus": "109",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.146049993132811427001785469"
   },
   {
     "BID": 1668659,
@@ -252,7 +222,7 @@
     "BAR": 13.25,
     "StylePlus": "113",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.158278369617876068183974868"
+    "AdjustedRating": "2.1460859641499727803499098505"
   },
   {
     "BID": 4020606,
@@ -267,22 +237,22 @@
     "BAR": 13.26,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.1582853746669363639314869059"
+    "AdjustedRating": "2.1460930605395443614542675846"
   },
   {
-    "BID": 5450886,
-    "BeerName": "25th Anniversary Series: Elijah Craig Barrel Magenta Label",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 14.87,
+    "BID": 6407331,
+    "BeerName": "Dessert Station: BA Mixed Berry Cheesecake Overtime",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 10.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5450886_cb046_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407331_35691_sm.jpeg",
     "HallRating": 27.67,
-    "BAR": 13.22,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1581819294228113504860890868"
+    "BAR": 9.38,
+    "StylePlus": "138",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1438252827594825970130600512"
   },
   {
     "BID": 4632191,
@@ -297,7 +267,22 @@
     "BAR": 9.38,
     "StylePlus": "116",
     "RatingScore": 4.71,
-    "AdjustedRating": "2.156045866400049990626757483"
+    "AdjustedRating": "2.143842154596013247516090733"
+  },
+  {
+    "BID": 5450886,
+    "BeerName": "25th Anniversary Series: Elijah Craig Barrel Magenta Label",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 14.87,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5450886_cb046_sm.jpeg",
+    "HallRating": 27.67,
+    "BAR": 13.22,
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.14598937171768125641480268"
   },
   {
     "BID": 4900156,
@@ -312,52 +297,7 @@
     "BAR": 13.22,
     "StylePlus": "113",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1581869943062631105783637998"
-  },
-  {
-    "BID": 6407331,
-    "BeerName": "Dessert Station: BA Mixed Berry Cheesecake Overtime",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407331_35691_sm.jpeg",
-    "HallRating": 27.67,
-    "BAR": 9.38,
-    "StylePlus": "139",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1560289945635193401237268012"
-  },
-  {
-    "BID": 2700454,
-    "BeerName": "Black Widow (Blue Label Batch Three)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Garagiste Meadery",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2700454_d28ec_sm.jpeg",
-    "HallRating": 27.66,
-    "BAR": 13.19,
-    "StylePlus": "114",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.1582332962902843158065603656"
-  },
-  {
-    "BID": 5304487,
-    "BeerName": "Barrel Aged As Above So Below | Marshmallow (Red Wax)",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5304487_cf977_sm.jpeg",
-    "HallRating": 27.66,
-    "BAR": 13.17,
-    "StylePlus": "110",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1581334611955617821797013718"
+    "AdjustedRating": "2.1459944061532314454100489462"
   },
   {
     "BID": 6401712,
@@ -372,6 +312,66 @@
     "BAR": 13.17,
     "StylePlus": "110",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1581489898359263791424218965"
+    "AdjustedRating": "2.1459560971955148215668156732"
+  },
+  {
+    "BID": 2700454,
+    "BeerName": "Black Widow (Blue Label Batch Three)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Garagiste Meadery",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2700454_d28ec_sm.jpeg",
+    "HallRating": 27.66,
+    "BAR": 13.19,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.1460405558954636832444716371"
+  },
+  {
+    "BID": 5304487,
+    "BeerName": "Barrel Aged As Above So Below | Marshmallow (Red Wax)",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5304487_cf977_sm.jpeg",
+    "HallRating": 27.66,
+    "BAR": 13.17,
+    "StylePlus": "110",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1459405990045725730525358926"
+  },
+  {
+    "BID": 6003704,
+    "BeerName": "THE GREAT NORTHERN BARREL-AGED SERIES 45 - RELEASED 09/30/24",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Evil Twin Brewing NYC",
+    "Origin": "Ridgewood, NY United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003704_be6c6_sm.jpeg",
+    "HallRating": 27.65,
+    "BAR": 13.14,
+    "StylePlus": "113",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1459577948429793344571392895"
+  },
+  {
+    "BID": 3341616,
+    "BeerName": "Barrel Aged Omerta (Maple Syrup) (2019)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "White Rooster Farmhouse Brewery",
+    "Origin": "Sparta, IL United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-162005_12dc3.jpeg",
+    "HallRating": 27.65,
+    "BAR": 9.43,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1438164903256123196284715192"
   }
 ]

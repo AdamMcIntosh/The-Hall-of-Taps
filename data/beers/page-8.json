@@ -1,35 +1,5 @@
 [
   {
-    "BID": 3349056,
-    "BeerName": "Hydra | Boysenberry + Prickly Pear + Pineapple",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3349056_24ad4_sm.jpeg",
-    "HallRating": 28.02,
-    "BAR": 14.25,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1597976581450832027311658365"
-  },
-  {
-    "BID": 4001362,
-    "BeerName": "Rye Black Gold (2020)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4001362_71b1e_sm.jpeg",
-    "HallRating": 28.02,
-    "BAR": 14.26,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.159821517698496675916867975"
-  },
-  {
     "BID": 5216973,
     "BeerName": "Fanal Select (2022)",
     "BeerStyle": "Mead - Melomel",
@@ -42,37 +12,7 @@
     "BAR": 14.19,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.1598218818085847128321466274"
-  },
-  {
-    "BID": 6604271,
-    "BeerName": "Barrel Aged S’meeses (2026)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Dimensional Brewing Company",
-    "Origin": "Dubuque, IA United States",
-    "BeerAbv": 14.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6608552_bffc8_sm.jpeg",
-    "HallRating": 28.00,
-    "BAR": 8.70,
-    "StylePlus": "117",
-    "RatingScore": 4.84,
-    "AdjustedRating": "2.1559360587919161115346639837"
-  },
-  {
-    "BID": 5605304,
-    "BeerName": "Mead Didn’t Start the Fire",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Funktastic Meads",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 20.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605304_7fee3_sm.jpeg",
-    "HallRating": 28.00,
-    "BAR": 8.70,
-    "StylePlus": "114",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.1559071877616827686193148442"
+    "AdjustedRating": "2.1476368704905799759913548912"
   },
   {
     "BID": 6407226,
@@ -87,22 +27,37 @@
     "BAR": 14.19,
     "StylePlus": "109",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1596214030796875389952332227"
+    "AdjustedRating": "2.1474364221717537248246774314"
   },
   {
-    "BID": 6024793,
-    "BeerName": "Within the Church Ov Thee Overlords",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Brujos Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 12.10,
+    "BID": 6604271,
+    "BeerName": "Barrel Aged S’meeses (2026)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Dimensional Brewing Company",
+    "Origin": "Dubuque, IA United States",
+    "BeerAbv": 14.90,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6024793_228ac_sm.jpeg",
-    "HallRating": 27.99,
-    "BAR": 14.17,
-    "StylePlus": "111",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.1597215740202305574758972849"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6608552_bffc8_sm.jpeg",
+    "HallRating": 28.00,
+    "BAR": 8.70,
+    "StylePlus": "117",
+    "RatingScore": 4.84,
+    "AdjustedRating": "2.143731736886178150504305658"
+  },
+  {
+    "BID": 5605304,
+    "BeerName": "Mead Didn’t Start the Fire",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Funktastic Meads",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 20.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605304_7fee3_sm.jpeg",
+    "HallRating": 28.00,
+    "BAR": 8.70,
+    "StylePlus": "114",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.1437028658559448075889565185"
   },
   {
     "BID": 5302224,
@@ -117,7 +72,7 @@
     "BAR": 14.16,
     "StylePlus": "113",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.1597154836777478286912249176"
+    "AdjustedRating": "2.1475301986622741339722471798"
   },
   {
     "BID": 5902002,
@@ -132,22 +87,22 @@
     "BAR": 14.16,
     "StylePlus": "115",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.1597432857724013487105638179"
+    "AdjustedRating": "2.1475579703453387874083742847"
   },
   {
-    "BID": 1668078,
-    "BeerName": "Blåbær Lambik (Blueberry Lambic) (2009-II) (Batch 4)",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.00,
+    "BID": 6024793,
+    "BeerName": "Within the Church Ov Thee Overlords",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Brujos Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 12.10,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16564_sm_7d3e5e05e5fcc0d509b2d6097c61d6.jpeg",
-    "HallRating": 27.98,
-    "BAR": 8.74,
-    "StylePlus": "116",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.1559189713440118383426320315"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6024793_228ac_sm.jpeg",
+    "HallRating": 27.99,
+    "BAR": 14.17,
+    "StylePlus": "111",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.1475363194161939298344568372"
   },
   {
     "BID": 4013983,
@@ -162,7 +117,7 @@
     "BAR": 14.15,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.1598154872877654569640882806"
+    "AdjustedRating": "2.1476301110370697594321610674"
   },
   {
     "BID": 6006731,
@@ -177,7 +132,22 @@
     "BAR": 14.15,
     "StylePlus": "116",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.1597985908849272606114151798"
+    "AdjustedRating": "2.1476132146342315630794879666"
+  },
+  {
+    "BID": 1668078,
+    "BeerName": "Blåbær Lambik (Blueberry Lambic) (2009-II) (Batch 4)",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16564_sm_7d3e5e05e5fcc0d509b2d6097c61d6.jpeg",
+    "HallRating": 27.98,
+    "BAR": 8.74,
+    "StylePlus": "115",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.1437146799448077269182314476"
   },
   {
     "BID": 4982258,
@@ -192,37 +162,7 @@
     "BAR": 14.13,
     "StylePlus": "117",
     "RatingScore": 4.76,
-    "AdjustedRating": "2.1599221304315271919534779245"
-  },
-  {
-    "BID": 6303536,
-    "BeerName": "Dream 012: BBA Infinite Boysenberry Lemon Cheesecake",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Zymarium Meadery",
-    "Origin": "Orlando, FL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6303536_b914b_sm.jpeg",
-    "HallRating": 27.96,
-    "BAR": 8.78,
-    "StylePlus": "118",
-    "RatingScore": 4.78,
-    "AdjustedRating": "2.1559409284177004776819303249"
-  },
-  {
-    "BID": 6504350,
-    "BeerName": "Placed Flowers",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400435_8c104_sm.jpeg",
-    "HallRating": 27.96,
-    "BAR": 14.10,
-    "StylePlus": "110",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1595067163843838447369603307"
+    "AdjustedRating": "2.1477365412933336661092669778"
   },
   {
     "BID": 3401837,
@@ -237,37 +177,37 @@
     "BAR": 14.08,
     "StylePlus": "114",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.159448777626636382922963647"
+    "AdjustedRating": "2.1472627322758982166702025433"
   },
   {
-    "BID": 5004220,
-    "BeerName": "Tree of Knowledge",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Forager Brewery",
-    "Origin": "Rochester, MN United States",
-    "BeerAbv": 13.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5004220_86bd5_sm.jpeg",
-    "HallRating": 27.95,
-    "BAR": 14.05,
-    "StylePlus": "117",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1593955262251463885824393604"
-  },
-  {
-    "BID": 3208001,
-    "BeerName": "The Man With the Axe",
+    "BID": 6303536,
+    "BeerName": "Dream 012: BBA Infinite Boysenberry Lemon Cheesecake",
     "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
+    "BreweryName": "Zymarium Meadery",
+    "Origin": "Orlando, FL United States",
     "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3208001_18f7c_sm.jpeg",
-    "HallRating": 27.95,
-    "BAR": 14.05,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1593691454073036862874300818"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6303536_b914b_sm.jpeg",
+    "HallRating": 27.96,
+    "BAR": 8.78,
+    "StylePlus": "118",
+    "RatingScore": 4.78,
+    "AdjustedRating": "2.1437366675248777049270478957"
+  },
+  {
+    "BID": 6504350,
+    "BeerName": "Placed Flowers",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400435_8c104_sm.jpeg",
+    "HallRating": 27.96,
+    "BAR": 14.10,
+    "StylePlus": "110",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1473208839370841257718475922"
   },
   {
     "BID": 4816288,
@@ -282,7 +222,37 @@
     "BAR": 14.07,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1593984804768227788704411809"
+    "AdjustedRating": "2.1472123438794764533809889879"
+  },
+  {
+    "BID": 5004220,
+    "BeerName": "Tree of Knowledge",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Forager Brewery",
+    "Origin": "Rochester, MN United States",
+    "BeerAbv": 13.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5004220_86bd5_sm.jpeg",
+    "HallRating": 27.95,
+    "BAR": 14.05,
+    "StylePlus": "117",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1472092071304842679073296626"
+  },
+  {
+    "BID": 3208001,
+    "BeerName": "The Man With the Axe",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3208001_18f7c_sm.jpeg",
+    "HallRating": 27.95,
+    "BAR": 14.05,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1471828567292404535663564185"
   },
   {
     "BID": 6213003,
@@ -297,7 +267,7 @@
     "BAR": 14.04,
     "StylePlus": "114",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.1595122852207945208214774214"
+    "AdjustedRating": "2.147325905292479108635097493"
   },
   {
     "BID": 5608860,
@@ -312,7 +282,7 @@
     "BAR": 14.03,
     "StylePlus": "115",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1593600239616613418530351438"
+    "AdjustedRating": "2.1471735223642172523961661342"
   },
   {
     "BID": 5014131,
@@ -327,7 +297,7 @@
     "BAR": 14.03,
     "StylePlus": "123",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1594139391624921063994948096"
+    "AdjustedRating": "2.1472274679825579508837088566"
   },
   {
     "BID": 3334154,
@@ -342,22 +312,7 @@
     "BAR": 8.82,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.1559315399267106269590909318"
-  },
-  {
-    "BID": 6408140,
-    "BeerName": "Barrel Aged Vietnamese Abraxas (2025)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Perennial Artisan Ales",
-    "Origin": "St Louis, MO United States",
-    "BeerAbv": 14.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6408140_011de_sm.jpeg",
-    "HallRating": 27.92,
-    "BAR": 13.99,
-    "StylePlus": "109",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.159283098742720785169247205"
+    "AdjustedRating": "2.1437273095401166830809532618"
   },
   {
     "BID": 5705352,
@@ -372,6 +327,51 @@
     "BAR": 13.97,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1592845625053042518883136722"
+    "AdjustedRating": "2.147097513366714758550454044"
+  },
+  {
+    "BID": 6408140,
+    "BeerName": "Barrel Aged Vietnamese Abraxas (2025)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Perennial Artisan Ales",
+    "Origin": "St Louis, MO United States",
+    "BeerAbv": 14.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6408140_011de_sm.jpeg",
+    "HallRating": 27.92,
+    "BAR": 13.99,
+    "StylePlus": "109",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1470962017038292476543018818"
+  },
+  {
+    "BID": 3339606,
+    "BeerName": "At the End of the Day, It's just a Chocolate Banana Foster",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "The Answer",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3339606_f4c41_sm.jpeg",
+    "HallRating": 27.91,
+    "BAR": 8.85,
+    "StylePlus": "111",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.143714452118312548899037392"
+  },
+  {
+    "BID": 4605043,
+    "BeerName": "4 YR Double Barrel Eagle Rare BCS",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 18.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4308693_8c86f_sm.jpeg",
+    "HallRating": 27.91,
+    "BAR": 13.94,
+    "StylePlus": "115",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.1472487731332404758695402557"
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "BID": 4816596,
-    "BeerName": "Stevnsberry Van Oak",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816596_dff03_sm.jpeg",
-    "HallRating": 28.27,
-    "BAR": 8.31,
-    "StylePlus": "114",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.1558515270743864455587607425"
-  },
-  {
-    "BID": 5009208,
-    "BeerName": "Black Currant Pancake (2022)",
-    "BeerStyle": "Mead - Acerglyn / Maple Wine",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5009208_3d641_sm.jpeg",
-    "HallRating": 28.27,
-    "BAR": 14.85,
-    "StylePlus": "109",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1612381588989709029416312909"
-  },
-  {
     "BID": 5010052,
     "BeerName": "MT Ultra: Coconut Edition (2022)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -42,7 +12,7 @@
     "BAR": 14.76,
     "StylePlus": "113",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.1610079422094508301404853129"
+    "AdjustedRating": "2.1488292225415070242656449553"
   },
   {
     "BID": 6408150,
@@ -55,9 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6408150_93253_sm.jpeg",
     "HallRating": 28.22,
     "BAR": 14.75,
-    "StylePlus": "110",
+    "StylePlus": "109",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1608383845942777320461972112"
+    "AdjustedRating": "2.1486594826511012996083713737"
   },
   {
     "BID": 5013203,
@@ -72,22 +42,7 @@
     "BAR": 14.71,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.160825024384281306049546864"
-  },
-  {
-    "BID": 4300578,
-    "BeerName": "BA IStout 2.0",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Orchestrated Minds Brewing",
-    "Origin": "Fort Lauderdale, FL United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
-    "HallRating": 28.20,
-    "BAR": 8.41,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1558542974843018837739471263"
+    "AdjustedRating": "2.148645605964981428033317285"
   },
   {
     "BID": 3348901,
@@ -102,7 +57,22 @@
     "BAR": 8.41,
     "StylePlus": "122",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1558554973403191617005959285"
+    "AdjustedRating": "2.1436509618845738511378634564"
+  },
+  {
+    "BID": 4300578,
+    "BeerName": "BA IStout 2.0",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
+    "HallRating": 28.20,
+    "BAR": 8.41,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1436497620285565732112146542"
   },
   {
     "BID": 5206408,
@@ -117,7 +87,7 @@
     "BAR": 14.68,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1607218675707161798419909046"
+    "AdjustedRating": "2.1485421453214689307818381841"
   },
   {
     "BID": 4404637,
@@ -132,7 +102,7 @@
     "BAR": 14.65,
     "StylePlus": "112",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.1608324996944016883994880916"
+    "AdjustedRating": "2.1486524736000478978578182027"
   },
   {
     "BID": 5601746,
@@ -147,7 +117,7 @@
     "BAR": 14.59,
     "StylePlus": "116",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.1608294310042437049215500874"
+    "AdjustedRating": "2.1486486756197780100741213834"
   },
   {
     "BID": 6401822,
@@ -162,7 +132,7 @@
     "BAR": 8.49,
     "StylePlus": "113",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.1558725159355080614923134608"
+    "AdjustedRating": "2.1436680414948131483564554431"
   },
   {
     "BID": 4279144,
@@ -175,24 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
     "HallRating": 28.11,
     "BAR": 8.54,
-    "StylePlus": "110",
+    "StylePlus": "111",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1558748009628772331527730214"
-  },
-  {
-    "BID": 6003832,
-    "BeerName": "Stricken From Narrative",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003832_8c221_sm.jpeg",
-    "HallRating": 28.10,
-    "BAR": 14.46,
-    "StylePlus": "110",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1602465192873895902989171116"
+    "AdjustedRating": "2.1436703570294787414604637909"
   },
   {
     "BID": 3010113,
@@ -207,22 +162,22 @@
     "BAR": 14.45,
     "StylePlus": "116",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1601838433439128091502485179"
+    "AdjustedRating": "2.1480014771343593428748228437"
   },
   {
-    "BID": 6008416,
-    "BeerName": "He Who Says Farewell",
-    "BeerStyle": "IPA - Quadruple",
+    "BID": 6003832,
+    "BeerName": "Stricken From Narrative",
+    "BeerStyle": "IPA - Triple New England / Hazy",
     "BreweryName": "Fidens Brewing Co.",
     "Origin": "Albany, NY United States",
-    "BeerAbv": 12.00,
+    "BeerAbv": 10.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
-    "HallRating": 28.08,
-    "BAR": 14.40,
-    "StylePlus": "112",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1602405429683601157800179659"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003832_8c221_sm.jpeg",
+    "HallRating": 28.10,
+    "BAR": 14.46,
+    "StylePlus": "110",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.14806427466440441139777434"
   },
   {
     "BID": 6500935,
@@ -237,7 +192,22 @@
     "BAR": 8.58,
     "StylePlus": "109",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1558756361672982512273404457"
+    "AdjustedRating": "2.1436712227410436643236379271"
+  },
+  {
+    "BID": 6008416,
+    "BeerName": "He Who Says Farewell",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
+    "HallRating": 28.08,
+    "BAR": 14.40,
+    "StylePlus": "112",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1480576903882623016269088731"
   },
   {
     "BID": 4200156,
@@ -252,22 +222,7 @@
     "BAR": 14.36,
     "StylePlus": "110",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1600369312156109246528340965"
-  },
-  {
-    "BID": 6303290,
-    "BeerName": "Sixth Chapter (Bourbon Barrel Aged)",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Croma",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-315257_1f13d.jpeg",
-    "HallRating": 28.05,
-    "BAR": 8.62,
-    "StylePlus": "122",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.155878921042961807560498234"
+    "AdjustedRating": "2.1478536226278556189097805338"
   },
   {
     "BID": 5950080,
@@ -282,7 +237,7 @@
     "BAR": 8.62,
     "StylePlus": "112",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.1558987934098731918020862236"
+    "AdjustedRating": "2.1436944104906099941757717102"
   },
   {
     "BID": 6402689,
@@ -297,7 +252,7 @@
     "BAR": 8.62,
     "StylePlus": "115",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.1558974685854124328526470243"
+    "AdjustedRating": "2.1436930856661492352263325109"
   },
   {
     "BID": 4939829,
@@ -312,7 +267,22 @@
     "BAR": 8.62,
     "StylePlus": "118",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1558842203408048433582550312"
+    "AdjustedRating": "2.1436798374215416457319405179"
+  },
+  {
+    "BID": 6303290,
+    "BeerName": "Sixth Chapter (Bourbon Barrel Aged)",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Croma",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-315257_1f13d.jpeg",
+    "HallRating": 28.05,
+    "BAR": 8.62,
+    "StylePlus": "122",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1436745381236986099341837207"
   },
   {
     "BID": 4003827,
@@ -327,37 +297,7 @@
     "BAR": 14.29,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1597973647434617688161309643"
-  },
-  {
-    "BID": 3345925,
-    "BeerName": "Tête De Pioche 176",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Le Prospecteur",
-    "Origin": "Val-d'Or, QC Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 57.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
-    "HallRating": 28.03,
-    "BAR": 8.66,
-    "StylePlus": "123",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1558956040934473846030785844"
-  },
-  {
-    "BID": 6600461,
-    "BeerName": "Dark Superstition",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 8.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
-    "HallRating": 28.03,
-    "BAR": 8.66,
-    "StylePlus": "113",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1558915546401235833162523059"
+    "AdjustedRating": "2.1476132960670792573367937712"
   },
   {
     "BID": 6214956,
@@ -372,6 +312,66 @@
     "BAR": 8.66,
     "StylePlus": "112",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.1558996535467711858899048628"
+    "AdjustedRating": "2.1436953011343468631734715813"
+  },
+  {
+    "BID": 3345925,
+    "BeerName": "Tête De Pioche 176",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Le Prospecteur",
+    "Origin": "Val-d'Or, QC Canada",
+    "BeerAbv": 6.50,
+    "BeerIbu": 57.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
+    "HallRating": 28.03,
+    "BAR": 8.66,
+    "StylePlus": "123",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1436912516810230618866453029"
+  },
+  {
+    "BID": 6600461,
+    "BeerName": "Dark Superstition",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Troon Brewing",
+    "Origin": "Hopewell, NJ United States",
+    "BeerAbv": 8.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
+    "HallRating": 28.03,
+    "BAR": 8.66,
+    "StylePlus": "113",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1436872022276992605998190244"
+  },
+  {
+    "BID": 3349056,
+    "BeerName": "Hydra | Boysenberry + Prickly Pear + Pineapple",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3349056_24ad4_sm.jpeg",
+    "HallRating": 28.02,
+    "BAR": 14.25,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1476132245924713257534164529"
+  },
+  {
+    "BID": 4001362,
+    "BeerName": "Rye Black Gold (2020)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4001362_71b1e_sm.jpeg",
+    "HallRating": 28.02,
+    "BAR": 14.26,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1476372057737227734632354409"
   }
 ]

@@ -1,50 +1,5 @@
 [
   {
-    "BID": 3904423,
-    "BeerName": "Cable Car Ale",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "The Lost Abbey",
-    "Origin": "San Marcos, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CableCar_8225.jpeg",
-    "HallRating": 29.86,
-    "BAR": 17.86,
-    "StylePlus": "114",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1777516874109852003220013623"
-  },
-  {
-    "BID": 4961097,
-    "BeerName": "No Sleep Means Insomnia",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 10.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3743582_397b1_sm.jpeg",
-    "HallRating": 29.85,
-    "BAR": 17.84,
-    "StylePlus": "109",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1774208570720832301213772603"
-  },
-  {
-    "BID": 3336981,
-    "BeerName": "Craft Root Beer",
-    "BeerStyle": "Root Beer",
-    "BreweryName": "Erie Brewing Company",
-    "Origin": "Erie, PA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3336981_367c7_sm.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "118",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1557100573965562066276023439"
-  },
-  {
     "BID": 6601435,
     "BeerName": "Waters To Fire #10",
     "BeerStyle": "Sour - Smoothie / Pastry",
@@ -57,22 +12,7 @@
     "BAR": 6.90,
     "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.1557136571805691658500489971"
-  },
-  {
-    "BID": 3338741,
-    "BeerName": "Cool Down KAPOW!",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3338741_547eb_sm.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "120",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1557112573245605263684178949"
+    "AdjustedRating": "2.1435083894966302021878687279"
   },
   {
     "BID": 6017900,
@@ -87,7 +27,37 @@
     "BAR": 6.90,
     "StylePlus": "112",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.1557148571085734855908645481"
+    "AdjustedRating": "2.1435095894246345219286842789"
+  },
+  {
+    "BID": 3338741,
+    "BeerName": "Cool Down KAPOW!",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3338741_547eb_sm.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "120",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1435059896406215627062376257"
+  },
+  {
+    "BID": 3336981,
+    "BeerName": "Craft Root Beer",
+    "BeerStyle": "Root Beer",
+    "BreweryName": "Erie Brewing Company",
+    "Origin": "Erie, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3336981_367c7_sm.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "118",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1435047897126172429654220747"
   },
   {
     "BID": 1005596,
@@ -102,7 +72,7 @@
     "BAR": 17.65,
     "StylePlus": "117",
     "RatingScore": 4.74,
-    "AdjustedRating": "2.1772542360276162970859104825"
+    "AdjustedRating": "2.1651506625184377207878329635"
   },
   {
     "BID": 3224634,
@@ -117,37 +87,7 @@
     "BAR": 17.55,
     "StylePlus": "131",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.1753260769827866270865727755"
-  },
-  {
-    "BID": 4815863,
-    "BeerName": "Metheglin: May Honey And Cinnamon #2",
-    "BeerStyle": "Mead - Metheglin",
-    "BreweryName": "Punchiller",
-    "Origin": "Minsk, Minskaja voblasć Belarus",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815863_5137c_sm.jpeg",
-    "HallRating": 29.66,
-    "BAR": 6.99,
-    "StylePlus": "126",
-    "RatingScore": 4.82,
-    "AdjustedRating": "2.1557335166552090494344103494"
-  },
-  {
-    "BID": 6404910,
-    "BeerName": "Stranger From Saturn - September 2025",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Sparrow",
-    "Origin": "Cambridge, ON Canada",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6404910_1fcc9_sm.jpeg",
-    "HallRating": 29.66,
-    "BAR": 6.99,
-    "StylePlus": "118",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1557178926317105180926192113"
+    "AdjustedRating": "2.1632179409919327039205620572"
   },
   {
     "BID": 6500936,
@@ -162,7 +102,37 @@
     "BAR": 6.99,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1557172676707705768389475658"
+    "AdjustedRating": "2.1435120304980938691331791763"
+  },
+  {
+    "BID": 4815863,
+    "BeerName": "Metheglin: May Honey And Cinnamon #2",
+    "BeerStyle": "Mead - Metheglin",
+    "BreweryName": "Punchiller",
+    "Origin": "Minsk, Minskaja voblasć Belarus",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815863_5137c_sm.jpeg",
+    "HallRating": 29.66,
+    "BAR": 6.99,
+    "StylePlus": "126",
+    "RatingScore": 4.82,
+    "AdjustedRating": "2.1435282794825323417286419599"
+  },
+  {
+    "BID": 6404910,
+    "BeerName": "Stranger From Saturn - September 2025",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Sparrow",
+    "Origin": "Cambridge, ON Canada",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6404910_1fcc9_sm.jpeg",
+    "HallRating": 29.66,
+    "BAR": 6.99,
+    "StylePlus": "118",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1435126554590338103868508218"
   },
   {
     "BID": 6504815,
@@ -177,7 +147,7 @@
     "BAR": 17.35,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1727806207283358067830428891"
+    "AdjustedRating": "2.1606638606661934849830994724"
   },
   {
     "BID": 4941284,
@@ -192,7 +162,7 @@
     "BAR": 7.07,
     "StylePlus": "116",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.1557323773954692944958577692"
+    "AdjustedRating": "2.1435271707339022963507372021"
   },
   {
     "BID": 6450642,
@@ -207,7 +177,7 @@
     "BAR": 7.07,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.1557304275222110562813417128"
+    "AdjustedRating": "2.1435252208606440581362211456"
   },
   {
     "BID": 3401449,
@@ -222,7 +192,7 @@
     "BAR": 17.32,
     "StylePlus": "109",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1726731444597495749723887172"
+    "AdjustedRating": "2.1605554521425114478239827259"
   },
   {
     "BID": 3008094,
@@ -237,7 +207,7 @@
     "BAR": 17.32,
     "StylePlus": "115",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.173812048288460011119053292"
+    "AdjustedRating": "2.161694265745373679612421571"
   },
   {
     "BID": 1484633,
@@ -252,7 +222,7 @@
     "BAR": 17.22,
     "StylePlus": "115",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1721268999488546927060833122"
+    "AdjustedRating": "2.1600049655638149433677446906"
   },
   {
     "BID": 5902466,
@@ -267,7 +237,7 @@
     "BAR": 17.21,
     "StylePlus": "116",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.1721869297176240996521510275"
+    "AdjustedRating": "2.1600646040704040361405399232"
   },
   {
     "BID": 5606393,
@@ -282,7 +252,7 @@
     "BAR": 7.16,
     "StylePlus": "123",
     "RatingScore": 4.95,
-    "AdjustedRating": "2.1557556114962240048796706222"
+    "AdjustedRating": "2.1435504353456141710434545668"
   },
   {
     "BID": 6505617,
@@ -297,7 +267,7 @@
     "BAR": 7.16,
     "StylePlus": "109",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1557272634097198439105360388"
+    "AdjustedRating": "2.1435220872591100100743199834"
   },
   {
     "BID": 4878058,
@@ -312,7 +282,7 @@
     "BAR": 17.10,
     "StylePlus": "118",
     "RatingScore": 4.78,
-    "AdjustedRating": "2.1726775535547966470040360137"
+    "AdjustedRating": "2.1605511331884507916796026079"
   },
   {
     "BID": 4962087,
@@ -327,22 +297,7 @@
     "BAR": 17.01,
     "StylePlus": "109",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1703813456158918021872096432"
-  },
-  {
-    "BID": 6505076,
-    "BeerName": "Applewood Awn",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Millpond Brewing",
-    "Origin": "Millstadt, IL United States",
-    "BeerAbv": 10.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505076_f2287_sm.jpeg",
-    "HallRating": 29.33,
-    "BAR": 7.24,
-    "StylePlus": "114",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1557317987740858139930204886"
+    "AdjustedRating": "2.1582518222606466230417219431"
   },
   {
     "BID": 6405421,
@@ -357,7 +312,37 @@
     "BAR": 7.24,
     "StylePlus": "114",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1557324987250892437529372944"
+    "AdjustedRating": "2.1435273530852840301178917476"
+  },
+  {
+    "BID": 6505076,
+    "BeerName": "Applewood Awn",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Millpond Brewing",
+    "Origin": "Millstadt, IL United States",
+    "BeerAbv": 10.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505076_f2287_sm.jpeg",
+    "HallRating": 29.33,
+    "BAR": 7.24,
+    "StylePlus": "114",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1435266531342806003579749418"
+  },
+  {
+    "BID": 4940902,
+    "BeerName": "25 Jahre Red Kaos",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Kevin Brewery",
+    "Origin": "Zwickau, Sachsen Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940902_954f6_sm.jpeg",
+    "HallRating": 29.33,
+    "BAR": 7.24,
+    "StylePlus": "132",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1435301528892977491575589709"
   },
   {
     "BID": 1672967,
@@ -372,6 +357,21 @@
     "BAR": 7.24,
     "StylePlus": "118",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1557324987250892437529372944"
+    "AdjustedRating": "2.1435273530852840301178917476"
+  },
+  {
+    "BID": 5343165,
+    "BeerName": "Triple Orchid",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5343165_379ff_sm.jpeg",
+    "HallRating": 29.31,
+    "BAR": 16.92,
+    "StylePlus": "111",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1580620648181741373397810237"
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "BID": 6003704,
-    "BeerName": "THE GREAT NORTHERN BARREL-AGED SERIES 45 - RELEASED 09/30/24",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Evil Twin Brewing NYC",
-    "Origin": "Ridgewood, NY United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003704_be6c6_sm.jpeg",
-    "HallRating": 27.65,
-    "BAR": 13.14,
-    "StylePlus": "113",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1581508397327839170880939002"
-  },
-  {
-    "BID": 3341616,
-    "BeerName": "Barrel Aged Omerta (Maple Syrup) (2019)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "White Rooster Farmhouse Brewery",
-    "Origin": "Sparta, IL United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-162005_12dc3.jpeg",
-    "HallRating": 27.65,
-    "BAR": 9.43,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1560201411228338544830120202"
-  },
-  {
     "BID": 5008645,
     "BeerName": "One & Dunn Reserve",
     "BeerStyle": "Stout - Imperial / Double",
@@ -42,37 +12,7 @@
     "BAR": 13.12,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1580365616103091753658658409"
-  },
-  {
-    "BID": 6408145,
-    "BeerName": "Triple Barrel Blue Ridge (2025)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Perennial Artisan Ales",
-    "Origin": "St Louis, MO United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6408145_7a3b8_sm.jpeg",
-    "HallRating": 27.63,
-    "BAR": 13.06,
-    "StylePlus": "119",
-    "RatingScore": 4.71,
-    "AdjustedRating": "2.1581826128218575959641367598"
-  },
-  {
-    "BID": 3342777,
-    "BeerName": "Barrel Aged Imperial German Chocolate Cupcake Stout (2017)",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
-    "HallRating": 27.63,
-    "BAR": 9.46,
-    "StylePlus": "115",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.1560572188423257464794365099"
+    "AdjustedRating": "2.1458433644673093252085310424"
   },
   {
     "BID": 6603847,
@@ -87,7 +27,37 @@
     "BAR": 9.46,
     "StylePlus": "117",
     "RatingScore": 4.76,
-    "AdjustedRating": "2.1560747654207429551237508686"
+    "AdjustedRating": "2.1438711451267002934427786582"
+  },
+  {
+    "BID": 3342777,
+    "BeerName": "Barrel Aged Imperial German Chocolate Cupcake Stout (2017)",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
+    "HallRating": 27.63,
+    "BAR": 9.46,
+    "StylePlus": "115",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.1438535985482830847984642995"
+  },
+  {
+    "BID": 6408145,
+    "BeerName": "Triple Barrel Blue Ridge (2025)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Perennial Artisan Ales",
+    "Origin": "St Louis, MO United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6408145_7a3b8_sm.jpeg",
+    "HallRating": 27.63,
+    "BAR": 13.06,
+    "StylePlus": "119",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.145989111161059913588571714"
   },
   {
     "BID": 6302099,
@@ -102,22 +72,7 @@
     "BAR": 9.46,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.156027974544963732072245912"
-  },
-  {
-    "BID": 3950068,
-    "BeerName": "Rye Barrel Gratitude Extended Aging",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "East End Brewing Company",
-    "Origin": "Pittsburgh, PA United States",
-    "BeerAbv": 11.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-476_c67cd.jpeg",
-    "HallRating": 27.61,
-    "BAR": 9.52,
-    "StylePlus": "119",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.1560577884423115376924615077"
+    "AdjustedRating": "2.1438243542509210703912737016"
   },
   {
     "BID": 6304046,
@@ -132,7 +87,22 @@
     "BAR": 13.01,
     "StylePlus": "111",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.158008991008991008991008991"
+    "AdjustedRating": "2.1458151848151848151848151848"
+  },
+  {
+    "BID": 3950068,
+    "BeerName": "Rye Barrel Gratitude Extended Aging",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "East End Brewing Company",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 11.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-476_c67cd.jpeg",
+    "HallRating": 27.61,
+    "BAR": 9.52,
+    "StylePlus": "119",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.1438542291541691661667666467"
   },
   {
     "BID": 1672504,
@@ -147,7 +117,7 @@
     "BAR": 9.54,
     "StylePlus": "115",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.1560659466458042246445094868"
+    "AdjustedRating": "2.1438624178603832723873415633"
   },
   {
     "BID": 6405767,
@@ -162,7 +132,7 @@
     "BAR": 9.54,
     "StylePlus": "113",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.1560760695959068288671544012"
+    "AdjustedRating": "2.1438725408104858766099864777"
   },
   {
     "BID": 6275098,
@@ -177,22 +147,7 @@
     "BAR": 12.94,
     "StylePlus": "118",
     "RatingScore": 4.78,
-    "AdjustedRating": "2.1581036846850671974864318772"
-  },
-  {
-    "BID": 6203828,
-    "BeerName": "We Have To Move Fast",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 9.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
-    "HallRating": 27.60,
-    "BAR": 12.97,
-    "StylePlus": "109",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1578818757617534815880437172"
+    "AdjustedRating": "2.1459094825756080991640587731"
   },
   {
     "BID": 5607291,
@@ -207,7 +162,22 @@
     "BAR": 9.57,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1560495598402327522857814148"
+    "AdjustedRating": "2.1438460615573807369489254703"
+  },
+  {
+    "BID": 6203828,
+    "BeerName": "We Have To Move Fast",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Troon Brewing",
+    "Origin": "Hopewell, NJ United States",
+    "BeerAbv": 9.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
+    "HallRating": 27.60,
+    "BAR": 12.97,
+    "StylePlus": "109",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1456878259305880237367379968"
   },
   {
     "BID": 6015895,
@@ -222,7 +192,7 @@
     "BAR": 12.91,
     "StylePlus": "111",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.1578896653695720586839568212"
+    "AdjustedRating": "2.1456953109780159947250375891"
   },
   {
     "BID": 5404191,
@@ -237,22 +207,7 @@
     "BAR": 12.93,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1578368374518589561073564011"
-  },
-  {
-    "BID": 5000474,
-    "BeerName": "Funktastic Freshy: These Are Your Decisions",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "Funktastic Meads",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5000474_1c256_sm.jpeg",
-    "HallRating": 27.58,
-    "BAR": 9.62,
-    "StylePlus": "119",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1560760240349526599414123034"
+    "AdjustedRating": "2.145642604886284735230502565"
   },
   {
     "BID": 6503040,
@@ -267,7 +222,22 @@
     "BAR": 12.88,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1577874797690171239035306812"
+    "AdjustedRating": "2.1455929426339241113353447759"
+  },
+  {
+    "BID": 5000474,
+    "BeerName": "Funktastic Freshy: These Are Your Decisions",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Funktastic Meads",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5000474_1c256_sm.jpeg",
+    "HallRating": 27.58,
+    "BAR": 9.62,
+    "StylePlus": "119",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1438725867567810759740454505"
   },
   {
     "BID": 1668809,
@@ -282,7 +252,7 @@
     "BAR": 9.62,
     "StylePlus": "113",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.1560781235940452504973955469"
+    "AdjustedRating": "2.143874686315873666530028694"
   },
   {
     "BID": 6003072,
@@ -297,7 +267,7 @@
     "BAR": 9.65,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.1560820825574565404851469063"
+    "AdjustedRating": "2.1438786757813964532536835922"
   },
   {
     "BID": 3018980,
@@ -312,22 +282,7 @@
     "BAR": 12.82,
     "StylePlus": "114",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.1578443777833837454135830376"
-  },
-  {
-    "BID": 5022777,
-    "BeerName": "Grackle",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Lua Brewing",
-    "Origin": "Des Moines, IA United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64726_8e04d.jpeg",
-    "HallRating": 27.56,
-    "BAR": 12.79,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.157726027260397491264134119"
+    "AdjustedRating": "2.1456495665227154086125979414"
   },
   {
     "BID": 6214912,
@@ -342,22 +297,22 @@
     "BAR": 9.67,
     "StylePlus": "112",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.156101038276770494343716101"
+    "AdjustedRating": "2.1438976620026694260733942202"
   },
   {
-    "BID": 4802065,
-    "BeerName": "Barrique Puffeney (2018)",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Bokke",
-    "Origin": "Hasselt, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
+    "BID": 5022777,
+    "BeerName": "Grackle",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Lua Brewing",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
-    "HallRating": 27.55,
-    "BAR": 12.75,
-    "StylePlus": "117",
-    "RatingScore": 4.75,
-    "AdjustedRating": "2.1578675175781493924142323688"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64726_8e04d.jpeg",
+    "HallRating": 27.56,
+    "BAR": 12.79,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.145531033242498644972911947"
   },
   {
     "BID": 6200492,
@@ -372,6 +327,51 @@
     "BAR": 9.70,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1560811523493640133271013555"
+    "AdjustedRating": "2.1438778065770694873864934377"
+  },
+  {
+    "BID": 4802065,
+    "BeerName": "Barrique Puffeney (2018)",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "Bokke",
+    "Origin": "Hasselt, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
+    "HallRating": 27.55,
+    "BAR": 12.75,
+    "StylePlus": "117",
+    "RatingScore": 4.75,
+    "AdjustedRating": "2.1456723407975421813140837507"
+  },
+  {
+    "BID": 6004323,
+    "BeerName": "Cosmic Fusion (2023)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004323_ac9bc_sm.jpeg",
+    "HallRating": 27.54,
+    "BAR": 12.71,
+    "StylePlus": "114",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.145531187866556096196309211"
+  },
+  {
+    "BID": 4502493,
+    "BeerName": "Coco Nilla Killa AF",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 14.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4502493_c40b8_sm.jpeg",
+    "HallRating": 27.54,
+    "BAR": 12.70,
+    "StylePlus": "112",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1455076221377954624363364781"
   }
 ]

@@ -1,20 +1,5 @@
 [
   {
-    "BID": 17663,
-    "BeerName": "Fou' Foune",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_17663_sm_48376e0fc0fe1a34b0cac9a69d9e43.jpeg",
-    "HallRating": 32.97,
-    "BAR": 22.39,
-    "StylePlus": "112",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.3199825593563239773969257959"
-  },
-  {
     "BID": 6605944,
     "BeerName": "LAB 21 LF - Hazelnut & Peanut",
     "BeerStyle": "Stout - Imperial / Double Pastry",
@@ -27,7 +12,7 @@
     "BAR": 5.40,
     "StylePlus": "111",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.1556400307990760277191684249"
+    "AdjustedRating": "2.1434343969680909572712818615"
   },
   {
     "BID": 6550208,
@@ -42,22 +27,7 @@
     "BAR": 5.40,
     "StylePlus": "114",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.1556409307720768376948691539"
-  },
-  {
-    "BID": 6103218,
-    "BeerName": "Merry Cocoa & Cherry",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 32.84,
-    "BAR": 5.40,
-    "StylePlus": "113",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.155638230853074407767766967"
+    "AdjustedRating": "2.1434352969410917672469825905"
   },
   {
     "BID": 5901151,
@@ -72,7 +42,22 @@
     "BAR": 5.40,
     "StylePlus": "124",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.155637930862074137775866724"
+    "AdjustedRating": "2.1434322970310890673279801606"
+  },
+  {
+    "BID": 6103218,
+    "BeerName": "Merry Cocoa & Cherry",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Los Forajidos Brewing Co.",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "113",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1434325970220893373198804036"
   },
   {
     "BID": 5800005,
@@ -87,7 +72,7 @@
     "BAR": 21.95,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2919859539050687467322339509"
+    "AdjustedRating": "2.2804871856467939387944475061"
   },
   {
     "BID": 2408879,
@@ -102,37 +87,7 @@
     "BAR": 21.67,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.2766197958176780902501043683"
-  },
-  {
-    "BID": 4419286,
-    "BeerName": "BA Stoop Vision",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Orchestrated Minds Brewing",
-    "Origin": "Fort Lauderdale, FL United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
-    "HallRating": 32.38,
-    "BAR": 5.57,
-    "StylePlus": "113",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.1556487164167164567151567574"
-  },
-  {
-    "BID": 6605017,
-    "BeerName": "Salvation For the Wicked",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Orchestrated Minds Brewing",
-    "Origin": "Fort Lauderdale, FL United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
-    "HallRating": 32.38,
-    "BAR": 5.57,
-    "StylePlus": "126",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.1556477414484029269048755915"
+    "AdjustedRating": "2.2650387111465330752590231128"
   },
   {
     "BID": 5402457,
@@ -147,7 +102,37 @@
     "BAR": 5.57,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1556454665223380240142195379"
+    "AdjustedRating": "2.1434398632044458555096959349"
+  },
+  {
+    "BID": 4419286,
+    "BeerName": "BA Stoop Vision",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
+    "HallRating": 32.38,
+    "BAR": 5.57,
+    "StylePlus": "113",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.1434431130988242882106331544"
+  },
+  {
+    "BID": 6605017,
+    "BeerName": "Salvation For the Wicked",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
+    "HallRating": 32.38,
+    "BAR": 5.57,
+    "StylePlus": "126",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.1434421381305107584003519886"
   },
   {
     "BID": 6406463,
@@ -162,7 +147,7 @@
     "BAR": 5.57,
     "StylePlus": "142",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.1556493663955921432553442013"
+    "AdjustedRating": "2.1434437630776999747508205983"
   },
   {
     "BID": 4018394,
@@ -177,7 +162,7 @@
     "BAR": 21.50,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2675280197918427700960304402"
+    "AdjustedRating": "2.2559024551695236099635451019"
   },
   {
     "BID": 1209346,
@@ -192,7 +177,7 @@
     "BAR": 21.30,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2581446412303542863701248861"
+    "AdjustedRating": "2.246470430705296960219596816"
   },
   {
     "BID": 1013084,
@@ -207,7 +192,7 @@
     "BAR": 21.11,
     "StylePlus": "113",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.2557462434030052775957779234"
+    "AdjustedRating": "2.2440284927772057782353774117"
   },
   {
     "BID": 6506268,
@@ -222,7 +207,7 @@
     "BAR": 5.73,
     "StylePlus": "113",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.1556557020504282350117745879"
+    "AdjustedRating": "2.1434501292454764083257086002"
   },
   {
     "BID": 6601746,
@@ -237,7 +222,7 @@
     "BAR": 5.73,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1556494022709205177818776343"
+    "AdjustedRating": "2.1434438294659686910958116466"
   },
   {
     "BID": 6007759,
@@ -252,7 +237,7 @@
     "BAR": 5.73,
     "StylePlus": "118",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1556511522096726614568490103"
+    "AdjustedRating": "2.1434455794047208347707830226"
   },
   {
     "BID": 1013077,
@@ -267,52 +252,7 @@
     "BAR": 20.87,
     "StylePlus": "114",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.2448059425938110835544693579"
-  },
-  {
-    "BID": 3340599,
-    "BeerName": "Ice Lakes",
-    "BeerStyle": "Bock - Eisbock",
-    "BreweryName": "Burns Family Artisan Ales",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-403719_89619.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "117",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1556556629126407759709010912"
-  },
-  {
-    "BID": 3334597,
-    "BeerName": "Summer-Rita",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Honey Pot Meadery",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1556560378985788032948764421"
-  },
-  {
-    "BID": 6103223,
-    "BeerName": "Santa’s Coconut",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "114",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1556582878142069672387285477"
+    "AdjustedRating": "2.2330383728244915076535961417"
   },
   {
     "BID": 4815824,
@@ -327,7 +267,22 @@
     "BAR": 5.88,
     "StylePlus": "119",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1556575378423309125907778458"
+    "AdjustedRating": "2.1434519955501668687424221592"
+  },
+  {
+    "BID": 6103223,
+    "BeerName": "Santa’s Coconut",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Los Forajidos Brewing Co.",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "114",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.143452745522042923390372861"
   },
   {
     "BID": 1673471,
@@ -342,22 +297,7 @@
     "BAR": 5.88,
     "StylePlus": "116",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.1556605377298351311825806532"
-  },
-  {
-    "BID": 6504214,
-    "BeerName": "Decadence",
-    "BeerStyle": "Cider - Ice",
-    "BreweryName": "Eden Specialty Ciders",
-    "Origin": "Newport, VT United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-13108_6911b.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "117",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.1556605377298351311825806532"
+    "AdjustedRating": "2.1434549954376710873342249666"
   },
   {
     "BID": 6204507,
@@ -372,6 +312,66 @@
     "BAR": 5.88,
     "StylePlus": "135",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1556552879267027486469257403"
+    "AdjustedRating": "2.1434497456345387047985700536"
+  },
+  {
+    "BID": 3340599,
+    "BeerName": "Ice Lakes",
+    "BeerStyle": "Bock - Eisbock",
+    "BreweryName": "Burns Family Artisan Ales",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-403719_89619.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "117",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1434501206204767321225454045"
+  },
+  {
+    "BID": 3334597,
+    "BeerName": "Summer-Rita",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Honey Pot Meadery",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1434504956064147594465207555"
+  },
+  {
+    "BID": 6504214,
+    "BeerName": "Decadence",
+    "BeerStyle": "Cider - Ice",
+    "BreweryName": "Eden Specialty Ciders",
+    "Origin": "Newport, VT United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-13108_6911b.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "117",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.1434549954376710873342249666"
+  },
+  {
+    "BID": 2402354,
+    "BeerName": "Reserve Bourbon County Brand Stout (2017)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2353294_8c1ef_sm.jpeg",
+    "HallRating": 31.63,
+    "BAR": 20.54,
+    "StylePlus": "113",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.2194899308701065288267295796"
   }
 ]
