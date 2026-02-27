@@ -1,63 +1,33 @@
 [
   {
-    "BID": 6204976,
-    "BeerName": "Volume 5: Chapter 1",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Nostrum",
-    "Origin": "New York, NY United States",
-    "BeerAbv": 13.20,
+    "BID": 2402354,
+    "BeerName": "Reserve Bourbon County Brand Stout (2017)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-517399_f6d43.jpeg",
-    "HallRating": 31.34,
-    "BAR": 6.02,
-    "StylePlus": "123",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1537262509499620015199392024"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2353294_8c1ef_sm.jpeg",
+    "HallRating": 31.63,
+    "BAR": 20.54,
+    "StylePlus": "113",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.2313161324077258832591329455"
   },
   {
-    "BID": 3338876,
-    "BeerName": "Complaint Department",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Hopkinsville Brewing Company",
-    "Origin": "Hopkinsville, KY United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 29.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238381_dc1ab.jpeg",
-    "HallRating": 31.34,
-    "BAR": 6.02,
-    "StylePlus": "120",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1537270509179632814687412503"
-  },
-  {
-    "BID": 6501242,
-    "BeerName": "Bij-den Seylseiken ?!?",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwhuis aan de Werf",
-    "Origin": "Alphen aan den Rijn, Zuid-Holland Netherlands",
-    "BeerAbv": 8.60,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-399026_a9835.jpeg",
-    "HallRating": 31.34,
-    "BAR": 6.02,
-    "StylePlus": "135",
-    "RatingScore": 4.94,
-    "AdjustedRating": "2.1537414503419863205471781129"
-  },
-  {
-    "BID": 6600600,
-    "BeerName": "Goetia",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Brasserie du Bas-Canada",
-    "Origin": "Gatineau, QC Canada",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600600_d4b15_sm.jpeg",
-    "HallRating": 31.34,
-    "BAR": 6.02,
-    "StylePlus": "117",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1537250509979600815967361306"
+    "BID": 2401566,
+    "BeerName": "Proprietor's Bourbon County Brand Stout (2017)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2353293_11e96_sm.jpeg",
+    "HallRating": 31.43,
+    "BAR": 20.26,
+    "StylePlus": "114",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.2234614683248842043838214377"
   },
   {
     "BID": 5600925,
@@ -72,7 +42,67 @@
     "BAR": 20.13,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.2161368363117416991783197198"
+    "AdjustedRating": "2.2180237298537340912079722957"
+  },
+  {
+    "BID": 6600600,
+    "BeerName": "Goetia",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600600_d4b15_sm.jpeg",
+    "HallRating": 31.34,
+    "BAR": 6.02,
+    "StylePlus": "117",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1556619735210591576336946522"
+  },
+  {
+    "BID": 6501242,
+    "BeerName": "Bij-den Seylseiken ?!?",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwhuis aan de Werf",
+    "Origin": "Alphen aan den Rijn, Zuid-Holland Netherlands",
+    "BeerAbv": 8.60,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-399026_a9835.jpeg",
+    "HallRating": 31.34,
+    "BAR": 6.02,
+    "StylePlus": "135",
+    "RatingScore": 4.94,
+    "AdjustedRating": "2.1556783728650853965841366345"
+  },
+  {
+    "BID": 3338876,
+    "BeerName": "Complaint Department",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Hopkinsville Brewing Company",
+    "Origin": "Hopkinsville, KY United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 29.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238381_dc1ab.jpeg",
+    "HallRating": 31.34,
+    "BAR": 6.02,
+    "StylePlus": "120",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.155663973441062357505699772"
+  },
+  {
+    "BID": 6204976,
+    "BeerName": "Volume 5: Chapter 1",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Nostrum",
+    "Origin": "New York, NY United States",
+    "BeerAbv": 13.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-517399_f6d43.jpeg",
+    "HallRating": 31.34,
+    "BAR": 6.02,
+    "StylePlus": "123",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1556631734730610775568977241"
   },
   {
     "BID": 2012665,
@@ -87,7 +117,7 @@
     "BAR": 19.98,
     "StylePlus": "115",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.2148158701040182666224312562"
+    "AdjustedRating": "2.2167059581194746394488788275"
   },
   {
     "BID": 4016650,
@@ -100,9 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4008262_b355f_sm.jpeg",
     "HallRating": 31.22,
     "BAR": 19.96,
-    "StylePlus": "114",
+    "StylePlus": "115",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.2105153607769454137283131207"
+    "AdjustedRating": "2.2124059930211561455308557624"
   },
   {
     "BID": 6601026,
@@ -117,22 +147,7 @@
     "BAR": 6.15,
     "StylePlus": "115",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1537326913606171737701147701"
-  },
-  {
-    "BID": 4959873,
-    "BeerName": "Future You Hates You [Cream S'mores Milkshake] Ghost 1244",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Adroit Theory",
-    "Origin": "Purcellville, VA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 49.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959873_ae28d_sm.jpeg",
-    "HallRating": 31.07,
-    "BAR": 6.15,
-    "StylePlus": "109",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1537309914328641032756107865"
+    "AdjustedRating": "2.1556696090416157313314184147"
   },
   {
     "BID": 803069,
@@ -147,7 +162,22 @@
     "BAR": 19.74,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.2063139616218040589124384291"
+    "AdjustedRating": "2.2082089033892750404766213883"
+  },
+  {
+    "BID": 4959873,
+    "BeerName": "Future You Hates You [Cream S'mores Milkshake] Ghost 1244",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Adroit Theory",
+    "Origin": "Purcellville, VA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 49.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959873_ae28d_sm.jpeg",
+    "HallRating": 31.07,
+    "BAR": 6.15,
+    "StylePlus": "109",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1556679091138626608369144311"
   },
   {
     "BID": 11024,
@@ -162,7 +192,7 @@
     "BAR": 19.70,
     "StylePlus": "117",
     "RatingScore": 4.76,
-    "AdjustedRating": "2.2090556435057292673437878495"
+    "AdjustedRating": "2.2109514523197232138706259741"
   },
   {
     "BID": 3904415,
@@ -177,7 +207,7 @@
     "BAR": 19.56,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.2012585838145332585299168751"
+    "AdjustedRating": "2.2031567613387198326232725188"
   },
   {
     "BID": 1603099,
@@ -192,7 +222,7 @@
     "BAR": 19.52,
     "StylePlus": "116",
     "RatingScore": 4.72,
-    "AdjustedRating": "2.204148302093953415418398557"
+    "AdjustedRating": "2.2060471727707630774056936711"
   },
   {
     "BID": 1010269,
@@ -207,22 +237,7 @@
     "BAR": 19.45,
     "StylePlus": "116",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.2020150866032826604606907173"
-  },
-  {
-    "BID": 4980052,
-    "BeerName": "Melomel: Mix of Three Types of Honey And Grapefruit",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Punchiller",
-    "Origin": "Minsk, Minskaja voblasć Belarus",
-    "BeerAbv": 16.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980052_c7c70_sm.jpeg",
-    "HallRating": 30.83,
-    "BAR": 6.28,
-    "StylePlus": "119",
-    "RatingScore": 4.82,
-    "AdjustedRating": "2.1537499812508437120329585169"
+    "AdjustedRating": "2.2039151354042263088584748111"
   },
   {
     "BID": 6604181,
@@ -237,7 +252,22 @@
     "BAR": 6.28,
     "StylePlus": "118",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1537387317570709318080686369"
+    "AdjustedRating": "2.1556756445959931803068861901"
+  },
+  {
+    "BID": 4980052,
+    "BeerName": "Melomel: Mix of Three Types of Honey And Grapefruit",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Punchiller",
+    "Origin": "Minsk, Minskaja voblasć Belarus",
+    "BeerAbv": 16.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980052_c7c70_sm.jpeg",
+    "HallRating": 30.83,
+    "BAR": 6.28,
+    "StylePlus": "119",
+    "RatingScore": 4.82,
+    "AdjustedRating": "2.1556868940897659605317760701"
   },
   {
     "BID": 10068,
@@ -252,37 +282,7 @@
     "BAR": 19.18,
     "StylePlus": "116",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.1964716292445525937396305718"
-  },
-  {
-    "BID": 5805042,
-    "BeerName": "French Dessert",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Sinnister Brew",
-    "Origin": "Dalkeith, Midlothian Scotland",
-    "BeerAbv": 12.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-328626_f10b2.jpeg",
-    "HallRating": 30.61,
-    "BAR": 6.39,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1537447721233241421032500956"
-  },
-  {
-    "BID": 6409187,
-    "BeerName": "Przepalanka z Kranu 2025",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "Szynkarnia",
-    "Origin": "Wrocław, Województwo dolnośląskie Poland",
-    "BeerAbv": 45.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-566018_b2847.jpeg",
-    "HallRating": 30.61,
-    "BAR": 6.39,
-    "StylePlus": "132",
-    "RatingScore": 5.00,
-    "AdjustedRating": "2.1537651961531827238206185206"
+    "AdjustedRating": "2.1983760400152392188671361329"
   },
   {
     "BID": 3343863,
@@ -297,7 +297,37 @@
     "BAR": 6.39,
     "StylePlus": "123",
     "RatingScore": 4.71,
-    "AdjustedRating": "2.1537514218074641454530909782"
+    "AdjustedRating": "2.1556883298043342941210292511"
+  },
+  {
+    "BID": 6409187,
+    "BeerName": "Przepalanka z Kranu 2025",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Szynkarnia",
+    "Origin": "Wrocław, Województwo dolnośląskie Poland",
+    "BeerAbv": 45.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-566018_b2847.jpeg",
+    "HallRating": 30.61,
+    "BAR": 6.39,
+    "StylePlus": "131",
+    "RatingScore": 5.00,
+    "AdjustedRating": "2.1557021041500528724885567936"
+  },
+  {
+    "BID": 5805042,
+    "BeerName": "French Dessert",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Sinnister Brew",
+    "Origin": "Dalkeith, Midlothian Scotland",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-328626_f10b2.jpeg",
+    "HallRating": 30.61,
+    "BAR": 6.39,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1556816801201942907711883686"
   },
   {
     "BID": 3008402,
@@ -312,7 +342,7 @@
     "BAR": 19.04,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1913319931794862962297715915"
+    "AdjustedRating": "2.1932383907327623326550547339"
   },
   {
     "BID": 4702155,
@@ -327,7 +357,7 @@
     "BAR": 19.00,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1907423969836507768526699465"
+    "AdjustedRating": "2.1926492731080751823074973112"
   },
   {
     "BID": 1200653,
@@ -342,36 +372,6 @@
     "BAR": 18.95,
     "StylePlus": "115",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.1914607723652300230207679334"
-  },
-  {
-    "BID": 24328,
-    "BeerName": "Lou Pepe Kriek",
-    "BeerStyle": "Lambic - Kriek",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LouPepeKriek_24328.jpeg",
-    "HallRating": 30.45,
-    "BAR": 18.80,
-    "StylePlus": "115",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1872392504984436727843593428"
-  },
-  {
-    "BID": 1400059,
-    "BeerName": "Red Agnes",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1400059_f3b19_sm.jpeg",
-    "HallRating": 30.45,
-    "BAR": 18.80,
-    "StylePlus": "112",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1879082995691992231784619328"
+    "AdjustedRating": "2.1933684184609324026541591264"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "BID": 17663,
+    "BeerName": "Fou' Foune",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_17663_sm_48376e0fc0fe1a34b0cac9a69d9e43.jpeg",
+    "HallRating": 32.97,
+    "BAR": 22.39,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.3199825593563239773969257959"
+  },
+  {
     "BID": 6605944,
     "BeerName": "LAB 21 LF - Hazelnut & Peanut",
     "BeerStyle": "Stout - Imperial / Double Pastry",
@@ -12,22 +27,22 @@
     "BAR": 5.40,
     "StylePlus": "111",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.153703088907332780016599502"
+    "AdjustedRating": "2.1556400307990760277191684249"
   },
   {
-    "BID": 5901151,
-    "BeerName": "1909",
-    "BeerStyle": "Cider - Sweet",
-    "BreweryName": "Wilding Cider",
-    "Origin": "Bristol, Bath and North East Somerset England",
-    "BeerAbv": 5.00,
+    "BID": 6550208,
+    "BeerName": "Coco Coco Del Cerrito",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Horus Aged Ales",
+    "Origin": "Oceanside, CA United States",
+    "BeerAbv": 13.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-324969_2db2b.jpeg",
     "HallRating": 32.84,
     "BAR": 5.40,
-    "StylePlus": "124",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1537009889703308900732978011"
+    "StylePlus": "114",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1556409307720768376948691539"
   },
   {
     "BID": 6103218,
@@ -42,7 +57,22 @@
     "BAR": 5.40,
     "StylePlus": "113",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1537012889613311600651980441"
+    "AdjustedRating": "2.155638230853074407767766967"
+  },
+  {
+    "BID": 5901151,
+    "BeerName": "1909",
+    "BeerStyle": "Cider - Sweet",
+    "BreweryName": "Wilding Cider",
+    "Origin": "Bristol, Bath and North East Somerset England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "124",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.155637930862074137775866724"
   },
   {
     "BID": 5800005,
@@ -57,7 +87,7 @@
     "BAR": 21.95,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2901611862402909077206419188"
+    "AdjustedRating": "2.2919859539050687467322339509"
   },
   {
     "BID": 2408879,
@@ -72,22 +102,7 @@
     "BAR": 21.67,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.2747819651599681202322668792"
-  },
-  {
-    "BID": 6605017,
-    "BeerName": "Salvation For the Wicked",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Orchestrated Minds Brewing",
-    "Origin": "Fort Lauderdale, FL United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
-    "HallRating": 32.38,
-    "BAR": 5.57,
-    "StylePlus": "126",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.1537108043988570371462927455"
+    "AdjustedRating": "2.2766197958176780902501043683"
   },
   {
     "BID": 4419286,
@@ -102,22 +117,22 @@
     "BAR": 5.57,
     "StylePlus": "113",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.1537117793671705669565739113"
+    "AdjustedRating": "2.1556487164167164567151567574"
   },
   {
-    "BID": 6406463,
-    "BeerName": "Raketentreibstoff",
-    "BeerStyle": "Flavored Malt Beverage",
-    "BreweryName": "Faselbräu - Zum Wohl Brauerei",
-    "Origin": "Mörfelden-Walldorf, Hessen Germany",
-    "BeerAbv": 6.00,
+    "BID": 6605017,
+    "BeerName": "Salvation For the Wicked",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6406463_214ae_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
     "HallRating": 32.38,
     "BAR": 5.57,
-    "StylePlus": "142",
-    "RatingScore": 4.69,
-    "AdjustedRating": "2.1537124293460462534967613553"
+    "StylePlus": "126",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.1556477414484029269048755915"
   },
   {
     "BID": 5402457,
@@ -132,7 +147,22 @@
     "BAR": 5.57,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1537085294727921342556366918"
+    "AdjustedRating": "2.1556454665223380240142195379"
+  },
+  {
+    "BID": 6406463,
+    "BeerName": "Raketentreibstoff",
+    "BeerStyle": "Flavored Malt Beverage",
+    "BreweryName": "Faselbräu - Zum Wohl Brauerei",
+    "Origin": "Mörfelden-Walldorf, Hessen Germany",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6406463_214ae_sm.jpeg",
+    "HallRating": 32.38,
+    "BAR": 5.57,
+    "StylePlus": "142",
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.1556493663955921432553442013"
   },
   {
     "BID": 4018394,
@@ -147,7 +177,7 @@
     "BAR": 21.50,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2656831305018679861228513397"
+    "AdjustedRating": "2.2675280197918427700960304402"
   },
   {
     "BID": 1209346,
@@ -162,7 +192,7 @@
     "BAR": 21.30,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2562920322030696689071089209"
+    "AdjustedRating": "2.2581446412303542863701248861"
   },
   {
     "BID": 1013084,
@@ -177,7 +207,7 @@
     "BAR": 21.11,
     "StylePlus": "113",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.2538867248906200875039299969"
+    "AdjustedRating": "2.2557462434030052775957779234"
   },
   {
     "BID": 6506268,
@@ -192,7 +222,7 @@
     "BAR": 5.73,
     "StylePlus": "113",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.153718769843055493057742979"
+    "AdjustedRating": "2.1556557020504282350117745879"
   },
   {
     "BID": 6601746,
@@ -207,7 +237,7 @@
     "BAR": 5.73,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1537124700635477758278460254"
+    "AdjustedRating": "2.1556494022709205177818776343"
   },
   {
     "BID": 6007759,
@@ -222,7 +252,7 @@
     "BAR": 5.73,
     "StylePlus": "118",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1537142200022999195028174014"
+    "AdjustedRating": "2.1556511522096726614568490103"
   },
   {
     "BID": 1013077,
@@ -237,82 +267,7 @@
     "BAR": 20.87,
     "StylePlus": "114",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.2429385181596662352405260989"
-  },
-  {
-    "BID": 1673471,
-    "BeerName": "Maple Oak Marshal Zhukov's",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "116",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.1537236103646113270752346787"
-  },
-  {
-    "BID": 3334597,
-    "BeerName": "Summer-Rita",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Honey Pot Meadery",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "111",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1537191105333549991875304676"
-  },
-  {
-    "BID": 6103223,
-    "BeerName": "Santa’s Coconut",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "114",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1537213604489831631313825732"
-  },
-  {
-    "BID": 4815824,
-    "BeerName": "Mouthful of Rainbows- Lemon",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "SJ Brewing Company",
-    "Origin": "Yulee Heights, FL United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815824_3fca6_sm.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "118",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1537206104771071084834318713"
-  },
-  {
-    "BID": 6204507,
-    "BeerName": "Lil Hefe",
-    "BeerStyle": "Wheat Beer - Hefeweizen Light / Leicht",
-    "BreweryName": "Percent Tap House",
-    "Origin": "Harrisburg, NC United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6204507_7258c_sm.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "135",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1537183605614789445395797658"
+    "AdjustedRating": "2.2448059425938110835544693579"
   },
   {
     "BID": 3340599,
@@ -327,7 +282,67 @@
     "BAR": 5.88,
     "StylePlus": "117",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1537187355474169718635551167"
+    "AdjustedRating": "2.1556556629126407759709010912"
+  },
+  {
+    "BID": 3334597,
+    "BeerName": "Summer-Rita",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Honey Pot Meadery",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1556560378985788032948764421"
+  },
+  {
+    "BID": 6103223,
+    "BeerName": "Santa’s Coconut",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Los Forajidos Brewing Co.",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "114",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1556582878142069672387285477"
+  },
+  {
+    "BID": 4815824,
+    "BeerName": "Mouthful of Rainbows- Lemon",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "SJ Brewing Company",
+    "Origin": "Yulee Heights, FL United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815824_3fca6_sm.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "119",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1556575378423309125907778458"
+  },
+  {
+    "BID": 1673471,
+    "BeerName": "Maple Oak Marshal Zhukov's",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "116",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.1556605377298351311825806532"
   },
   {
     "BID": 6504214,
@@ -340,38 +355,23 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-13108_6911b.jpeg",
     "HallRating": 31.64,
     "BAR": 5.88,
-    "StylePlus": "118",
+    "StylePlus": "117",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.1537236103646113270752346787"
+    "AdjustedRating": "2.1556605377298351311825806532"
   },
   {
-    "BID": 2402354,
-    "BeerName": "Reserve Bourbon County Brand Stout (2017)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2353294_8c1ef_sm.jpeg",
-    "HallRating": 31.63,
-    "BAR": 20.54,
-    "StylePlus": "113",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.2294394035548364281112085378"
-  },
-  {
-    "BID": 2401566,
-    "BeerName": "Proprietor's Bourbon County Brand Stout (2017)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2353293_11e96_sm.jpeg",
-    "HallRating": 31.43,
-    "BAR": 20.26,
-    "StylePlus": "114",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.2215776164946448326586187194"
+    "BID": 6204507,
+    "BeerName": "Lil Hefe",
+    "BeerStyle": "Wheat Beer - Hefeweizen Light / Leicht",
+    "BreweryName": "Percent Tap House",
+    "Origin": "Harrisburg, NC United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6204507_7258c_sm.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "135",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1556552879267027486469257403"
   }
 ]
