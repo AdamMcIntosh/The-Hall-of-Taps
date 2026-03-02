@@ -1,6 +1,6 @@
 [
   {
-    "BID": 2626115,
+    "BID": 5619774,
     "BeerName": "Heady Topper",
     "BeerStyle": "IPA - Imperial / Double",
     "BreweryName": "The Alchemist",
@@ -12,7 +12,7 @@
     "BAR": 27.30,
     "StylePlus": "117",
     "RatingScore": 4.52,
-    "AdjustedRating": "3.1397598296070770557566412732"
+    "AdjustedRating": "3.1260073077151994379127284024"
   },
   {
     "BID": 6205786,
@@ -27,7 +27,7 @@
     "BAR": 24.34,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.519135226433020162567296527"
+    "AdjustedRating": "2.4988426052992716140610155178"
   },
   {
     "BID": 6019151,
@@ -42,7 +42,7 @@
     "BAR": 24.29,
     "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.5185347110133912874021919178"
+    "AdjustedRating": "2.4981753788408338946574651873"
   },
   {
     "BID": 2402231,
@@ -57,7 +57,7 @@
     "BAR": 23.81,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.4511873143456229250393150446"
+    "AdjustedRating": "2.430193954219814782456753451"
   },
   {
     "BID": 4980636,
@@ -72,7 +72,22 @@
     "BAR": 23.81,
     "StylePlus": "118",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.4470941993210623582815974695"
+    "AdjustedRating": "2.4260978124576756215949354922"
+  },
+  {
+    "BID": 1410960,
+    "BeerName": "Juice Machine",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-616287_51162_sm.jpeg",
+    "HallRating": 34.04,
+    "BAR": 23.79,
+    "StylePlus": "113",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.4231987312698239090014218528"
   },
   {
     "BID": 6001317,
@@ -87,37 +102,7 @@
     "BAR": 5.00,
     "StylePlus": "123",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.1434241643958901027474313142"
-  },
-  {
-    "BID": 3347942,
-    "BeerName": "Froojee Raz Passion",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Imprint Beer Co.",
-    "Origin": "Hatfield, PA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3347942_8650d_sm.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "120",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.1434231644208894777630559236"
-  },
-  {
-    "BID": 6401408,
-    "BeerName": "Зима Близко",
-    "BeerStyle": "Stout - Oatmeal",
-    "BreweryName": "Samovar Brew",
-    "Origin": "Moscow, Москва Russia",
-    "BeerAbv": 6.50,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6401408_88e09_sm.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "122",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1434211644708882277943051424"
+    "AdjustedRating": "2.1193957651058723531911702207"
   },
   {
     "BID": 5021590,
@@ -132,7 +117,37 @@
     "BAR": 5.00,
     "StylePlus": "144",
     "RatingScore": 4.88,
-    "AdjustedRating": "2.1434294142646433839154021149"
+    "AdjustedRating": "2.1194010149746256343591410215"
+  },
+  {
+    "BID": 6610542,
+    "BeerName": "Oscillation: Voidstalker",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Neuronova Brewing",
+    "Origin": "Lombard, IL United States",
+    "BeerAbv": 15.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6610542_475cd_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "117",
+    "RatingScore": 4.83,
+    "AdjustedRating": "2.1193997650058748531286717832"
+  },
+  {
+    "BID": 6616186,
+    "BeerName": "Bean Me Up",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Bellbrook Brewing Company",
+    "Origin": "Bellbrook, OH United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6616186_9ecd5_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "118",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1193927651808704782380440489"
   },
   {
     "BID": 6600522,
@@ -147,7 +162,22 @@
     "BAR": 5.00,
     "StylePlus": "119",
     "RatingScore": 4.83,
-    "AdjustedRating": "2.1434281642958926026849328767"
+    "AdjustedRating": "2.1193997650058748531286717832"
+  },
+  {
+    "BID": 6401408,
+    "BeerName": "Зима Близко",
+    "BeerStyle": "Stout - Oatmeal",
+    "BreweryName": "Samovar Brew",
+    "Origin": "Moscow, Москва Russia",
+    "BeerAbv": 6.50,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6401408_88e09_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "122",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1193927651808704782380440489"
   },
   {
     "BID": 6600624,
@@ -162,7 +192,97 @@
     "BAR": 5.00,
     "StylePlus": "115",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.1434231644208894777630559236"
+    "AdjustedRating": "2.1193947651308717282067948301"
+  },
+  {
+    "BID": 6606911,
+    "BeerName": "Carnelian",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Ghost Hawk Brewing Company",
+    "Origin": "Clifton, NJ United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6606911_681ec_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "125",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1193922651933701657458563536"
+  },
+  {
+    "BID": 6606924,
+    "BeerName": "DBA Re-Spec'd: King of Cakes",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Memphis Filling Station (MFS Brewing)",
+    "Origin": "Memphis, TN United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6606924_bc6ac_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "114",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.1193967650808729781755456114"
+  },
+  {
+    "BID": 6608060,
+    "BeerName": "Raven’s Call",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Trágmar Ale Works",
+    "Origin": "Bristol, RI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-571805_0772a.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "121",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.1193947651308717282067948301"
+  },
+  {
+    "BID": 6608665,
+    "BeerName": "Pecan Cobbler BA Southern Nights",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Township Meadery",
+    "Origin": "Odenton, MD United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-422662_4abc3.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "116",
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.1193962650933726656833579161"
+  },
+  {
+    "BID": 6608705,
+    "BeerName": "Shenquistador",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Elkton Brewing Company",
+    "Origin": "Elkton, VA United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6608705_0cc36_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "112",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1193935151621209469763255919"
+  },
+  {
+    "BID": 6609932,
+    "BeerName": "Never Say Never!",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Seedz Brewery",
+    "Origin": "Union Pier, MI United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-488867_eb43f.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "117",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1193922651933701657458563536"
   },
   {
     "BID": 5013057,
@@ -177,7 +297,7 @@
     "BAR": 23.25,
     "StylePlus": "116",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.3976331676256129724187706151"
+    "AdjustedRating": "2.3760223626728183128390881354"
   },
   {
     "BID": 28331,
@@ -192,22 +312,7 @@
     "BAR": 23.14,
     "StylePlus": "117",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.3832174873958505173859299049"
-  },
-  {
-    "BID": 6501261,
-    "BeerName": "‘T Tuintje Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij 'T Tuintje",
-    "Origin": "Netherlands",
-    "BeerAbv": 8.00,
-    "BeerIbu": 36.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6501261_004a2_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "129",
-    "RatingScore": 4.73,
-    "AdjustedRating": "2.1434321306164080487786585869"
+    "AdjustedRating": "2.3614969955684917731230494923"
   },
   {
     "BID": 6021543,
@@ -222,112 +327,7 @@
     "BAR": 5.21,
     "StylePlus": "127",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1434271807525293054441002872"
-  },
-  {
-    "BID": 6505619,
-    "BeerName": "City of Shadows",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Union Craft Brewing",
-    "Origin": "Baltimore, MD United States",
-    "BeerAbv": 11.80,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505619_b3c23_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "115",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1434266307676538895180382539"
-  },
-  {
-    "BID": 1669755,
-    "BeerName": "Broadacres with Mexican Candy",
-    "BeerStyle": "Sour - Berliner Weisse",
-    "BreweryName": "Phantom Carriage Brewery",
-    "Origin": "Carson, CA United States",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-48094_db820.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "122",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1434271807525293054441002872"
-  },
-  {
-    "BID": 6502230,
-    "BeerName": "Waachners Session Neipa",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "BillBrew",
-    "Origin": "Hamburg, Germany",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-552123_b7329.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "128",
-    "RatingScore": 4.95,
-    "AdjustedRating": "2.1434381804500376239653409531"
-  },
-  {
-    "BID": 1673906,
-    "BeerName": "Chai Latte",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "Odd Elixir MeadWorks",
-    "Origin": "DeLand, FL United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1673906_55cd0_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "120",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1434282807222801372962243538"
-  },
-  {
-    "BID": 6600627,
-    "BeerName": "Amor Amor Amor",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Brasserie du Bas-Canada",
-    "Origin": "Gatineau, QC Canada",
-    "BeerAbv": 11.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600627_b66a4_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "114",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1434280057298424293331933372"
-  },
-  {
-    "BID": 4980950,
-    "BeerName": "Ta-Ta And Farewell",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brood Meadery",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980950_8c32f_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "115",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.1434307556542195089635035037"
-  },
-  {
-    "BID": 6605236,
-    "BeerName": "Gratitude Ponfeigh Rye Barrel-Aged With Coconut And Cinnamon  (2026)",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "East End Brewing Company",
-    "Origin": "Pittsburgh, PA United States",
-    "BeerAbv": 11.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-476_c67cd.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "117",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1434271807525293054441002872"
+    "AdjustedRating": "2.1193988415318578739084675171"
   },
   {
     "BID": 6603599,
@@ -342,36 +342,36 @@
     "BAR": 5.21,
     "StylePlus": "113",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.1434285557147178452592553705"
+    "AdjustedRating": "2.1194002164940464137236226004"
   },
   {
-    "BID": 4959638,
-    "BeerName": "Akatosh",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Yorwick Brew",
-    "Origin": "Yekaterinburg, Sverdlovsk Oblast Russia",
-    "BeerAbv": 6.00,
+    "BID": 6411443,
+    "BeerName": "The BIG 3-0",
+    "BeerStyle": "Wheat Beer - Wheat Wine",
+    "BreweryName": "Bremer Brewing Company",
+    "Origin": "Waverly, IA United States",
+    "BeerAbv": 14.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959638_81a7c_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-492795_b0175.jpeg",
     "HallRating": 33.37,
     "BAR": 5.21,
-    "StylePlus": "122",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1434263557752161815550072373"
+    "StylePlus": "119",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1193988415318578739084675171"
   },
   {
-    "BID": 17663,
-    "BeerName": "Fou' Foune",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.00,
+    "BID": 4980950,
+    "BeerName": "Ta-Ta And Farewell",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brood Meadery",
+    "Origin": "Manchester, Greater Manchester England",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_17663_sm_48376e0fc0fe1a34b0cac9a69d9e43.jpeg",
-    "HallRating": 32.97,
-    "BAR": 22.39,
-    "StylePlus": "112",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.308628932865148943096993233"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980950_8c32f_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "115",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.1194024164335480774278707336"
   }
 ]
