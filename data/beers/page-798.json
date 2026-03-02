@@ -75,21 +75,6 @@
     "AdjustedRating": "2.7065594819176808870321094592"
   },
   {
-    "BID": 2401660,
-    "BeerName": "Resin",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Sixpoint Brewery",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 9.10,
-    "BeerIbu": 103.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-117064_ad684_sm.jpeg",
-    "HallRating": 18.04,
-    "BAR": 13.16,
-    "StylePlus": "102",
-    "RatingScore": 3.95,
-    "AdjustedRating": "2.6960576876973553526538943648"
-  },
-  {
     "BID": 4802476,
     "BeerName": "Ten FIDY®",
     "BeerStyle": "Stout - Imperial / Double",
@@ -103,6 +88,21 @@
     "StylePlus": "100",
     "RatingScore": 4.08,
     "AdjustedRating": "2.7379775219373297375734096292"
+  },
+  {
+    "BID": 2401660,
+    "BeerName": "Resin",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Sixpoint Brewery",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 9.10,
+    "BeerIbu": 103.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-117064_ad684_sm.jpeg",
+    "HallRating": 18.04,
+    "BAR": 13.16,
+    "StylePlus": "102",
+    "RatingScore": 3.95,
+    "AdjustedRating": "2.6960576876973553526538943648"
   },
   {
     "BID": 2702708,
@@ -195,21 +195,6 @@
     "AdjustedRating": "2.4640014541299888343590143076"
   },
   {
-    "BID": 6415969,
-    "BeerName": "Gouden Carolus Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij Het Anker",
-    "Origin": "Mechelen, Vlaams Gewest Belgium",
-    "BeerAbv": 9.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-356_e2231_sm.jpeg",
-    "HallRating": 18.00,
-    "BAR": 13.12,
-    "StylePlus": "104",
-    "RatingScore": 3.82,
-    "AdjustedRating": "2.6396117353914920493902565989"
-  },
-  {
     "BID": 2211706,
     "BeerName": "White Rascal",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
@@ -240,6 +225,21 @@
     "AdjustedRating": "2.6092619102967555695881922302"
   },
   {
+    "BID": 6203879,
+    "BeerName": "2XIPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Southern Tier Brewing Company",
+    "Origin": "Lakewood, NY United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5742_4cc45_sm.jpeg",
+    "HallRating": 18.00,
+    "BAR": 13.12,
+    "StylePlus": "98",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.6287410570683822306028506461"
+  },
+  {
     "BID": 2825419,
     "BeerName": "Mosaic Promise",
     "BeerStyle": "Pale Ale - American",
@@ -255,19 +255,19 @@
     "AdjustedRating": "2.6215346717576056164552284764"
   },
   {
-    "BID": 6203879,
-    "BeerName": "2XIPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Southern Tier Brewing Company",
-    "Origin": "Lakewood, NY United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5742_4cc45_sm.jpeg",
+    "BID": 6415969,
+    "BeerName": "Gouden Carolus Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij Het Anker",
+    "Origin": "Mechelen, Vlaams Gewest Belgium",
+    "BeerAbv": 9.00,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-356_e2231_sm.jpeg",
     "HallRating": 18.00,
     "BAR": 13.12,
-    "StylePlus": "98",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.6287410570683822306028506461"
+    "StylePlus": "104",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.6396117353914920493902565989"
   },
   {
     "BID": 6501286,
@@ -300,6 +300,21 @@
     "AdjustedRating": "2.5508680251553059906598829265"
   },
   {
+    "BID": 3215054,
+    "BeerName": "Namaste White",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400_dd7e9_sm.jpeg",
+    "HallRating": 17.99,
+    "BAR": 13.11,
+    "StylePlus": "103",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.5707236962154665888106273494"
+  },
+  {
     "BID": 4206408,
     "BeerName": "Shake Chocolate Porter",
     "BeerStyle": "Porter - American",
@@ -315,19 +330,19 @@
     "AdjustedRating": "2.6893918177852016526426116898"
   },
   {
-    "BID": 3215054,
-    "BeerName": "Namaste White",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400_dd7e9_sm.jpeg",
-    "HallRating": 17.99,
-    "BAR": 13.11,
-    "StylePlus": "103",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.5707236962154665888106273494"
+    "BID": 4980757,
+    "BeerName": "Sour Monkey",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Victory Brewing Company",
+    "Origin": "Downingtown, PA United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1046722_476e9_sm.jpeg",
+    "HallRating": 17.98,
+    "BAR": 13.10,
+    "StylePlus": "100",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.62124418456578963435375633"
   },
   {
     "BID": 3902690,
@@ -358,20 +373,5 @@
     "StylePlus": "107",
     "RatingScore": 4.30,
     "AdjustedRating": "2.7787699949075333626324564524"
-  },
-  {
-    "BID": 4980757,
-    "BeerName": "Sour Monkey",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Victory Brewing Company",
-    "Origin": "Downingtown, PA United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1046722_476e9_sm.jpeg",
-    "HallRating": 17.98,
-    "BAR": 13.10,
-    "StylePlus": "100",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.62124418456578963435375633"
   }
 ]

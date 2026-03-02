@@ -45,21 +45,6 @@
     "AdjustedRating": "2.3829559123057431077895209533"
   },
   {
-    "BID": 8955,
-    "BeerName": "Bia Saigon Export Premium",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Sabeco",
-    "Origin": "Ho Chi Minh City, Thành phố Hồ Chí Minh Vietnam",
-    "BeerAbv": 4.80,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8955_04f36_sm.jpeg",
-    "HallRating": 11.65,
-    "BAR": 8.31,
-    "StylePlus": "92",
-    "RatingScore": 2.89,
-    "AdjustedRating": "2.2700982939326421119521239372"
-  },
-  {
     "BID": 4621447,
     "BeerName": "Berliner Pilsner",
     "BeerStyle": "Pilsner - German",
@@ -103,6 +88,21 @@
     "StylePlus": "88",
     "RatingScore": 3.03,
     "AdjustedRating": "2.297352517030609843662320266"
+  },
+  {
+    "BID": 8955,
+    "BeerName": "Bia Saigon Export Premium",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Sabeco",
+    "Origin": "Ho Chi Minh City, Thành phố Hồ Chí Minh Vietnam",
+    "BeerAbv": 4.80,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8955_04f36_sm.jpeg",
+    "HallRating": 11.65,
+    "BAR": 8.31,
+    "StylePlus": "92",
+    "RatingScore": 2.89,
+    "AdjustedRating": "2.2700982939326421119521239372"
   },
   {
     "BID": 6301901,
@@ -165,19 +165,19 @@
     "AdjustedRating": "2.3287654020456269753364411284"
   },
   {
-    "BID": 6402757,
-    "BeerName": "Gösser Märzen / Gösser Beer / Gösser Export",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Brauerei Göss",
-    "Origin": "Göss, Steiermark Austria",
-    "BeerAbv": 5.20,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-71980_5ef56_sm.jpeg",
+    "BID": 5906186,
+    "BeerName": "Kozel Světlý / Kozel 10",
+    "BeerStyle": "Lager - Světlé (Czech Pale)",
+    "BreweryName": "Pivovar Velké Popovice",
+    "Origin": "Velké Popovice, Středočeský kraj Czech Republic",
+    "BeerAbv": 4.20,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20966_25ee5_sm.jpeg",
     "HallRating": 11.61,
-    "BAR": 8.27,
-    "StylePlus": "90",
-    "RatingScore": 3.13,
-    "AdjustedRating": "2.3073706690433894345719558923"
+    "BAR": 8.26,
+    "StylePlus": "89",
+    "RatingScore": 3.12,
+    "AdjustedRating": "2.304140495059191859896291948"
   },
   {
     "BID": 1631500,
@@ -195,36 +195,6 @@
     "AdjustedRating": "2.3636543825655006041194220829"
   },
   {
-    "BID": 6400421,
-    "BeerName": "Astra Urtyp / Premium",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Holsten-Brauerei AG",
-    "Origin": "Altona-Nord, Hamburg Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1655_c1028_sm.jpeg",
-    "HallRating": 11.61,
-    "BAR": 8.26,
-    "StylePlus": "89",
-    "RatingScore": 3.08,
-    "AdjustedRating": "2.2960628019323671497584541063"
-  },
-  {
-    "BID": 5906186,
-    "BeerName": "Kozel Světlý / Kozel 10",
-    "BeerStyle": "Lager - Světlé (Czech Pale)",
-    "BreweryName": "Pivovar Velké Popovice",
-    "Origin": "Velké Popovice, Středočeský kraj Czech Republic",
-    "BeerAbv": 4.20,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-20966_25ee5_sm.jpeg",
-    "HallRating": 11.61,
-    "BAR": 8.26,
-    "StylePlus": "89",
-    "RatingScore": 3.12,
-    "AdjustedRating": "2.304140495059191859896291948"
-  },
-  {
     "BID": 6418520,
     "BeerName": "Summerfest",
     "BeerStyle": "Pilsner - German",
@@ -238,6 +208,36 @@
     "StylePlus": "101",
     "RatingScore": 3.49,
     "AdjustedRating": "2.3708932161701519651368094465"
+  },
+  {
+    "BID": 6402757,
+    "BeerName": "Gösser Märzen / Gösser Beer / Gösser Export",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Brauerei Göss",
+    "Origin": "Göss, Steiermark Austria",
+    "BeerAbv": 5.20,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-71980_5ef56_sm.jpeg",
+    "HallRating": 11.61,
+    "BAR": 8.27,
+    "StylePlus": "90",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.3073706690433894345719558923"
+  },
+  {
+    "BID": 6400421,
+    "BeerName": "Astra Urtyp / Premium",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Holsten-Brauerei AG",
+    "Origin": "Altona-Nord, Hamburg Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1655_c1028_sm.jpeg",
+    "HallRating": 11.61,
+    "BAR": 8.26,
+    "StylePlus": "89",
+    "RatingScore": 3.08,
+    "AdjustedRating": "2.2960628019323671497584541063"
   },
   {
     "BID": 4405716,
@@ -270,6 +270,21 @@
     "AdjustedRating": "2.2954497494010551317678710111"
   },
   {
+    "BID": 3013933,
+    "BeerName": "Amstel Light",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Amstel Bier",
+    "Origin": "Zoeterwoude, Zuid-Holland Netherlands",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4541_68e90_sm.jpeg",
+    "HallRating": 11.57,
+    "BAR": 8.21,
+    "StylePlus": "96",
+    "RatingScore": 2.72,
+    "AdjustedRating": "2.2240832543844983704547659296"
+  },
+  {
     "BID": 3410248,
     "BeerName": "Indie",
     "BeerStyle": "Pale Ale - Other",
@@ -285,19 +300,19 @@
     "AdjustedRating": "2.3026005027718497298323681049"
   },
   {
-    "BID": 3013933,
-    "BeerName": "Amstel Light",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Amstel Bier",
-    "Origin": "Zoeterwoude, Zuid-Holland Netherlands",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4541_68e90_sm.jpeg",
-    "HallRating": 11.57,
-    "BAR": 8.21,
-    "StylePlus": "96",
-    "RatingScore": 2.72,
-    "AdjustedRating": "2.2240832543844983704547659296"
+    "BID": 6020038,
+    "BeerName": "Festbier",
+    "BeerStyle": "Festbier",
+    "BreweryName": "Victory Brewing Company",
+    "Origin": "Downingtown, PA United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3825_c7b44_sm.jpeg",
+    "HallRating": 11.56,
+    "BAR": 8.20,
+    "StylePlus": "95",
+    "RatingScore": 3.49,
+    "AdjustedRating": "2.3565584771323847109582216121"
   },
   {
     "BID": 2802910,
@@ -330,21 +345,6 @@
     "AdjustedRating": "2.2662925124344669982524532867"
   },
   {
-    "BID": 6020038,
-    "BeerName": "Festbier",
-    "BeerStyle": "Festbier",
-    "BreweryName": "Victory Brewing Company",
-    "Origin": "Downingtown, PA United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3825_c7b44_sm.jpeg",
-    "HallRating": 11.56,
-    "BAR": 8.20,
-    "StylePlus": "95",
-    "RatingScore": 3.49,
-    "AdjustedRating": "2.3565584771323847109582216121"
-  },
-  {
     "BID": 1504055,
     "BeerName": "Summer Honey Wheat",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.3221562211071981383945730878"
   },
   {
-    "BID": 4411485,
-    "BeerName": "Blondie",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Brouwerij 't IJ",
-    "Origin": "Amsterdam, Noord-Holland Netherlands",
-    "BeerAbv": 5.80,
-    "BeerIbu": 17.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3713306_410a7_sm.jpeg",
+    "BID": 2003127,
+    "BeerName": "O'Hara's Irish Pale Ale",
+    "BeerStyle": "Pale Ale - Other",
+    "BreweryName": "O'Hara's Brewery",
+    "Origin": "Carlow, County Carlow Ireland",
+    "BeerAbv": 5.20,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-143851_0fcd7_sm.jpeg",
     "HallRating": 11.54,
     "BAR": 8.17,
-    "StylePlus": "97",
-    "RatingScore": 3.40,
-    "AdjustedRating": "2.3320958777887569992536908946"
+    "StylePlus": "98",
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.3375581783023271320930852837"
   }
 ]

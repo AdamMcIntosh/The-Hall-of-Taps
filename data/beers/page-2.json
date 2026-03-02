@@ -1,5 +1,20 @@
 [
   {
+    "BID": 6204507,
+    "BeerName": "Lil Hefe",
+    "BeerStyle": "Wheat Beer - Hefeweizen Light / Leicht",
+    "BreweryName": "Percent Tap House",
+    "Origin": "Harrisburg, NC United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6204507_7258c_sm.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "135",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1194216466882491906553504244"
+  },
+  {
     "BID": 6504214,
     "BeerName": "Decadence",
     "BeerStyle": "Cider - Ice",
@@ -15,19 +30,19 @@
     "AdjustedRating": "2.1194268964913815731910053373"
   },
   {
-    "BID": 6204507,
-    "BeerName": "Lil Hefe",
-    "BeerStyle": "Wheat Beer - Hefeweizen Light / Leicht",
-    "BreweryName": "Percent Tap House",
-    "Origin": "Harrisburg, NC United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6204507_7258c_sm.jpeg",
+    "BID": 3334597,
+    "BeerName": "Summer-Rita",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Honey Pot Meadery",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
     "HallRating": 31.64,
     "BAR": 5.88,
-    "StylePlus": "135",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1194216466882491906553504244"
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1194223966601252453033011262"
   },
   {
     "BID": 6615940,
@@ -45,21 +60,6 @@
     "AdjustedRating": "2.1194238966038773545992025299"
   },
   {
-    "BID": 1673471,
-    "BeerName": "Maple Oak Marshal Zhukov's",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "116",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.1194268964913815731910053373"
-  },
-  {
     "BID": 3340599,
     "BeerName": "Ice Lakes",
     "BeerStyle": "Bock - Eisbock",
@@ -73,21 +73,6 @@
     "StylePlus": "117",
     "RatingScore": 4.52,
     "AdjustedRating": "2.1194220216741872179793257753"
-  },
-  {
-    "BID": 6103223,
-    "BeerName": "Santa’s Coconut",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "114",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1194246465757534092471532318"
   },
   {
     "BID": 6607020,
@@ -105,19 +90,34 @@
     "AdjustedRating": "2.1194220216741872179793257753"
   },
   {
-    "BID": 3334597,
-    "BeerName": "Summer-Rita",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Honey Pot Meadery",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 9.00,
+    "BID": 1673471,
+    "BeerName": "Maple Oak Marshal Zhukov's",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
     "HallRating": 31.64,
     "BAR": 5.88,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1194223966601252453033011262"
+    "StylePlus": "116",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.1194268964913815731910053373"
+  },
+  {
+    "BID": 6103223,
+    "BeerName": "Santa’s Coconut",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Los Forajidos Brewing Co.",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "114",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1194246465757534092471532318"
   },
   {
     "BID": 2402354,
@@ -150,21 +150,6 @@
     "AdjustedRating": "2.1882206985423732934583074997"
   },
   {
-    "BID": 6207963,
-    "BeerName": "Volume 5: Chapter 1",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Nostrum",
-    "Origin": "New York, NY United States",
-    "BeerAbv": 13.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-517399_f6d43.jpeg",
-    "HallRating": 31.34,
-    "BAR": 6.02,
-    "StylePlus": "123",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1194296228150873965041398344"
-  },
-  {
     "BID": 6501242,
     "BeerName": "Bij-den Seylseiken ?!?",
     "BeerStyle": "Belgian Tripel",
@@ -180,19 +165,19 @@
     "AdjustedRating": "2.1194448222071117155313787449"
   },
   {
-    "BID": 6600600,
-    "BeerName": "Goetia",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Brasserie du Bas-Canada",
-    "Origin": "Gatineau, QC Canada",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600600_d4b15_sm.jpeg",
+    "BID": 3338876,
+    "BeerName": "Complaint Department",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Hopkinsville Brewing Company",
+    "Origin": "Hopkinsville, KY United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 29.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238381_dc1ab.jpeg",
     "HallRating": 31.34,
     "BAR": 6.02,
-    "StylePlus": "118",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1194284228630854765809367625"
+    "StylePlus": "120",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1194304227830886764529418823"
   },
   {
     "BID": 6615208,
@@ -210,19 +195,34 @@
     "AdjustedRating": "2.1194344226230950761969521219"
   },
   {
-    "BID": 3338876,
-    "BeerName": "Complaint Department",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Hopkinsville Brewing Company",
-    "Origin": "Hopkinsville, KY United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 29.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238381_dc1ab.jpeg",
+    "BID": 6600600,
+    "BeerName": "Goetia",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600600_d4b15_sm.jpeg",
     "HallRating": 31.34,
     "BAR": 6.02,
-    "StylePlus": "120",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1194304227830886764529418823"
+    "StylePlus": "118",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1194284228630854765809367625"
+  },
+  {
+    "BID": 6207963,
+    "BeerName": "Volume 5: Chapter 1",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Nostrum",
+    "Origin": "New York, NY United States",
+    "BeerAbv": 13.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-517399_f6d43.jpeg",
+    "HallRating": 31.34,
+    "BAR": 6.02,
+    "StylePlus": "123",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1194296228150873965041398344"
   },
   {
     "BID": 2012665,
@@ -253,6 +253,36 @@
     "StylePlus": "114",
     "RatingScore": 4.53,
     "AdjustedRating": "2.1770383836411995802933066543"
+  },
+  {
+    "BID": 4959873,
+    "BeerName": "Future You Hates You [Cream S'mores Milkshake] Ghost 1244",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Adroit Theory",
+    "Origin": "Purcellville, VA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 49.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959873_ae28d_sm.jpeg",
+    "HallRating": 31.07,
+    "BAR": 6.15,
+    "StylePlus": "109",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1194344490359159735711232273"
+  },
+  {
+    "BID": 5817691,
+    "BeerName": "LAB LF 03",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Los Forajidos Brewing Co.",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
+    "HallRating": 31.07,
+    "BAR": 6.15,
+    "StylePlus": "119",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.1194374239094838469365051985"
   },
   {
     "BID": 6601026,
@@ -298,36 +328,6 @@
     "StylePlus": "113",
     "RatingScore": 4.58,
     "AdjustedRating": "2.1727606767788924813758627268"
-  },
-  {
-    "BID": 4959873,
-    "BeerName": "Future You Hates You [Cream S'mores Milkshake] Ghost 1244",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Adroit Theory",
-    "Origin": "Purcellville, VA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 49.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959873_ae28d_sm.jpeg",
-    "HallRating": 31.07,
-    "BAR": 6.15,
-    "StylePlus": "109",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1194344490359159735711232273"
-  },
-  {
-    "BID": 5817691,
-    "BeerName": "LAB LF 03",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 31.07,
-    "BAR": 6.15,
-    "StylePlus": "119",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.1194374239094838469365051985"
   },
   {
     "BID": 11024,

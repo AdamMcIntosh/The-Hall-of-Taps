@@ -1,35 +1,5 @@
 [
   {
-    "BID": 6601435,
-    "BeerName": "Waters To Fire #10",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Sworn Brewing Company",
-    "Origin": "Mechanicsburg, PA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-547098_3a992.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "114",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.1194808311501309921404715717"
-  },
-  {
-    "BID": 3336981,
-    "BeerName": "Craft Root Beer",
-    "BeerStyle": "Root Beer",
-    "BreweryName": "Erie Brewing Company",
-    "Origin": "Erie, PA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3336981_367c7_sm.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "118",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1194772313661180329180249185"
-  },
-  {
     "BID": 6017900,
     "BeerName": "Laza Tiger (Mythos 2024)",
     "BeerStyle": "Stout - Imperial / Double Coffee",
@@ -45,6 +15,21 @@
     "AdjustedRating": "2.1194820310781353118812871228"
   },
   {
+    "BID": 6601435,
+    "BeerName": "Waters To Fire #10",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Sworn Brewing Company",
+    "Origin": "Mechanicsburg, PA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-547098_3a992.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "114",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.1194808311501309921404715717"
+  },
+  {
     "BID": 3338741,
     "BeerName": "Cool Down KAPOW!",
     "BeerStyle": "Sour - Fruited Gose",
@@ -58,6 +43,21 @@
     "StylePlus": "120",
     "RatingScore": 4.56,
     "AdjustedRating": "2.1194784312941223526588404696"
+  },
+  {
+    "BID": 3336981,
+    "BeerName": "Craft Root Beer",
+    "BeerStyle": "Root Beer",
+    "BreweryName": "Erie Brewing Company",
+    "Origin": "Erie, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3336981_367c7_sm.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "118",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1194772313661180329180249185"
   },
   {
     "BID": 1005596,
@@ -90,21 +90,6 @@
     "AdjustedRating": "2.139381598232287535990357932"
   },
   {
-    "BID": 6615507,
-    "BeerName": "HAPAX // 01",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "VAT'33",
-    "Origin": "Amersfoort, Utrecht Netherlands",
-    "BeerAbv": 7.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-548149_6e63c.jpeg",
-    "HallRating": 29.66,
-    "BAR": 6.99,
-    "StylePlus": "115",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.119488906943316042747328292"
-  },
-  {
     "BID": 6500936,
     "BeerName": "Where The Field Begins (November 2025)",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -118,6 +103,21 @@
     "StylePlus": "113",
     "RatingScore": 4.56,
     "AdjustedRating": "2.1194845322167364539716267733"
+  },
+  {
+    "BID": 6615507,
+    "BeerName": "HAPAX // 01",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "VAT'33",
+    "Origin": "Amersfoort, Utrecht Netherlands",
+    "BeerAbv": 7.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-548149_6e63c.jpeg",
+    "HallRating": 29.66,
+    "BAR": 6.99,
+    "StylePlus": "115",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.119488906943316042747328292"
   },
   {
     "BID": 6404910,
@@ -150,34 +150,19 @@
     "AdjustedRating": "2.1368105403701736709137204489"
   },
   {
-    "BID": 3008094,
-    "BeerName": "Armand'4 Lente (Spring)",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Brouwerij 3 Fonteinen",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
+    "BID": 3401449,
+    "BeerName": "Imperial German Chocolate Coffee Cupcake Stout",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Armand4LenteSpring_66323.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2115656_8ceb4_sm.jpeg",
     "HallRating": 29.54,
     "BAR": 17.32,
-    "StylePlus": "115",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.1378389325708839647367167024"
-  },
-  {
-    "BID": 6450642,
-    "BeerName": "Singularity: Advocator Select 25-26 #1",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Moksa Brewing Co",
-    "Origin": "Rocklin, CA United States",
-    "BeerAbv": 14.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6450642_67120_sm.jpeg",
-    "HallRating": 29.54,
-    "BAR": 7.07,
-    "StylePlus": "115",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.1194977826441281316714413563"
+    "StylePlus": "109",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1367002965886105009741508755"
   },
   {
     "BID": 4941284,
@@ -195,6 +180,36 @@
     "AdjustedRating": "2.1194997325173863698859574128"
   },
   {
+    "BID": 6450642,
+    "BeerName": "Singularity: Advocator Select 25-26 #1",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Moksa Brewing Co",
+    "Origin": "Rocklin, CA United States",
+    "BeerAbv": 14.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6450642_67120_sm.jpeg",
+    "HallRating": 29.54,
+    "BAR": 7.07,
+    "StylePlus": "115",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.1194977826441281316714413563"
+  },
+  {
+    "BID": 3008094,
+    "BeerName": "Armand'4 Lente (Spring)",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "Brouwerij 3 Fonteinen",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Armand4LenteSpring_66323.jpeg",
+    "HallRating": 29.54,
+    "BAR": 17.32,
+    "StylePlus": "115",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.1378389325708839647367167024"
+  },
+  {
     "BID": 5610137,
     "BeerName": "Trantor",
     "BeerStyle": "Stout - Russian Imperial",
@@ -208,21 +223,6 @@
     "StylePlus": "115",
     "RatingScore": 4.62,
     "AdjustedRating": "2.1194945328553644013139145956"
-  },
-  {
-    "BID": 3401449,
-    "BeerName": "Imperial German Chocolate Coffee Cupcake Stout",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2115656_8ceb4_sm.jpeg",
-    "HallRating": 29.54,
-    "BAR": 17.32,
-    "StylePlus": "109",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1367002965886105009741508755"
   },
   {
     "BID": 1484633,
@@ -330,34 +330,34 @@
     "AdjustedRating": "2.1343733758651701025037140827"
   },
   {
-    "BID": 1672967,
-    "BeerName": "The Hefe Is A Lie (2016) 5th Form w/ Spiced Rum Soaked Figs",
-    "BeerStyle": "Wheat Beer - Wheat Wine",
-    "BreweryName": "8-Bit Aleworks",
-    "Origin": "Avondale, AZ United States",
-    "BeerAbv": 11.40,
-    "BeerIbu": 37.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-115045_7173f.jpeg",
-    "HallRating": 29.33,
-    "BAR": 7.24,
-    "StylePlus": "118",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1195000349975501714879958403"
-  },
-  {
-    "BID": 6405421,
-    "BeerName": "Immortality",
+    "BID": 6505076,
+    "BeerName": "Applewood Awn",
     "BeerStyle": "Barleywine - English",
-    "BreweryName": "Brasseria Della Fonte",
-    "Origin": "Pienza, Toscana Italy",
-    "BeerAbv": 13.80,
+    "BreweryName": "Millpond Brewing",
+    "Origin": "Millstadt, IL United States",
+    "BeerAbv": 10.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405421_a58b2_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505076_f2287_sm.jpeg",
     "HallRating": 29.33,
     "BAR": 7.24,
     "StylePlus": "114",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1195000349975501714879958403"
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1194993350465467417280790345"
+  },
+  {
+    "BID": 2809887,
+    "BeerName": "Moment of Clarity - Extra Maple",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2809887_b0f58_sm.jpeg",
+    "HallRating": 29.33,
+    "BAR": 16.96,
+    "StylePlus": "119",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1341400678821851503992923556"
   },
   {
     "BID": 4940902,

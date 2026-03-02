@@ -1,20 +1,5 @@
 [
   {
-    "BID": 5050067,
-    "BeerName": "Chimay Première (Red)",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Bières de Chimay",
-    "Origin": "Chimay, Région Wallonne Belgium",
-    "BeerAbv": 7.00,
-    "BeerIbu": 19.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4072_54847_sm.jpeg",
-    "HallRating": 18.20,
-    "BAR": 13.36,
-    "StylePlus": "103",
-    "RatingScore": 3.72,
-    "AdjustedRating": "2.6871943606536221831497104512"
-  },
-  {
     "BID": 3703451,
     "BeerName": "Bourbon County Brand Stout",
     "BeerStyle": "Stout - Imperial / Double",
@@ -30,19 +15,34 @@
     "AdjustedRating": "2.922887980157945582233452765"
   },
   {
-    "BID": 6302672,
-    "BeerName": "Stone Tangerine Express Hazy IPA",
-    "BeerStyle": "IPA - Fruited",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 75.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1512388_30ba0_sm.jpeg",
+    "BID": 605901,
+    "BeerName": "Trappistes Rochefort 8",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Abbaye Notre-Dame de Saint-Rémy",
+    "Origin": "Rochefort, Région Wallonne Belgium",
+    "BeerAbv": 9.20,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11473_93eae_sm.jpeg",
     "HallRating": 18.20,
-    "BAR": 13.37,
-    "StylePlus": "99",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.6725998417711341665005049173"
+    "BAR": 13.36,
+    "StylePlus": "102",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.7319896840498797438398902723"
+  },
+  {
+    "BID": 1101419,
+    "BeerName": "Not Your Father’s Root Beer (5.9%)",
+    "BeerStyle": "Root Beer",
+    "BreweryName": "Not Your Father’s",
+    "Origin": "Wauconda, IL United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-867402_f0d64_sm.jpeg",
+    "HallRating": 18.20,
+    "BAR": 13.36,
+    "StylePlus": "104",
+    "RatingScore": 3.99,
+    "AdjustedRating": "2.7830259229328674915679091802"
   },
   {
     "BID": 5600280,
@@ -105,6 +105,21 @@
     "AdjustedRating": "2.8771029424718851851972686135"
   },
   {
+    "BID": 4503448,
+    "BeerName": "Punkin Ale",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4946504_b39d1_sm.jpeg",
+    "HallRating": 18.16,
+    "BAR": 13.32,
+    "StylePlus": "102",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.6809682878856194415583566943"
+  },
+  {
     "BID": 5411165,
     "BeerName": "CORNET Oaked",
     "BeerStyle": "Belgian Strong Golden Ale",
@@ -148,21 +163,6 @@
     "StylePlus": "98",
     "RatingScore": 3.52,
     "AdjustedRating": "2.6022829119035022055655928492"
-  },
-  {
-    "BID": 4503448,
-    "BeerName": "Punkin Ale",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4946504_b39d1_sm.jpeg",
-    "HallRating": 18.16,
-    "BAR": 13.32,
-    "StylePlus": "102",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.6809682878856194415583566943"
   },
   {
     "BID": 2305583,
@@ -225,21 +225,6 @@
     "AdjustedRating": "2.5873185435892011951664507258"
   },
   {
-    "BID": 6216501,
-    "BeerName": "IJwit",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Brouwerij 't IJ",
-    "Origin": "Amsterdam, Noord-Holland Netherlands",
-    "BeerAbv": 6.50,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30318_e6fe5_sm.jpeg",
-    "HallRating": 18.12,
-    "BAR": 13.27,
-    "StylePlus": "105",
-    "RatingScore": 3.68,
-    "AdjustedRating": "2.6444029866840077039327548195"
-  },
-  {
     "BID": 3904056,
     "BeerName": "La Trappe Tripel",
     "BeerStyle": "Belgian Tripel",
@@ -253,6 +238,21 @@
     "StylePlus": "102",
     "RatingScore": 3.74,
     "AdjustedRating": "2.6647820180887253137662397975"
+  },
+  {
+    "BID": 6216501,
+    "BeerName": "IJwit",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Brouwerij 't IJ",
+    "Origin": "Amsterdam, Noord-Holland Netherlands",
+    "BeerAbv": 6.50,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-30318_e6fe5_sm.jpeg",
+    "HallRating": 18.12,
+    "BAR": 13.27,
+    "StylePlus": "105",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.6444029866840077039327548195"
   },
   {
     "BID": 5817686,
@@ -315,21 +315,6 @@
     "AdjustedRating": "2.6840445307855270760238814969"
   },
   {
-    "BID": 6301081,
-    "BeerName": "DirtWolf",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Victory Brewing Company",
-    "Origin": "Downingtown, PA United States",
-    "BeerAbv": 8.70,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-424316_9422d_sm.jpeg",
-    "HallRating": 18.10,
-    "BAR": 13.24,
-    "StylePlus": "101",
-    "RatingScore": 3.91,
-    "AdjustedRating": "2.7098062979961226086767103502"
-  },
-  {
     "BID": 5608591,
     "BeerName": "La Trappe Blond",
     "BeerStyle": "Belgian Blonde",
@@ -343,6 +328,21 @@
     "StylePlus": "105",
     "RatingScore": 3.67,
     "AdjustedRating": "2.6319480193463089719344635416"
+  },
+  {
+    "BID": 6301081,
+    "BeerName": "DirtWolf",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Victory Brewing Company",
+    "Origin": "Downingtown, PA United States",
+    "BeerAbv": 8.70,
+    "BeerIbu": 85.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-424316_9422d_sm.jpeg",
+    "HallRating": 18.10,
+    "BAR": 13.24,
+    "StylePlus": "101",
+    "RatingScore": 3.91,
+    "AdjustedRating": "2.7098062979961226086767103502"
   },
   {
     "BID": 634900,

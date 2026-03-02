@@ -1,5 +1,20 @@
 [
   {
+    "BID": 6415456,
+    "BeerName": "Patagonia Provisions Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Deschutes Brewery",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5953634_3d604_sm.jpeg",
+    "HallRating": 22.42,
+    "BAR": 13.44,
+    "StylePlus": "104",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.1334551514761308088136969883"
+  },
+  {
     "BID": 3610865,
     "BeerName": "Weissbier",
     "BeerStyle": "Wheat Beer - Hefeweizen",
@@ -30,19 +45,19 @@
     "AdjustedRating": "2.2734071542595049126514827889"
   },
   {
-    "BID": 6415456,
-    "BeerName": "Patagonia Provisions Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Deschutes Brewery",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5953634_3d604_sm.jpeg",
-    "HallRating": 22.42,
-    "BAR": 13.44,
-    "StylePlus": "104",
-    "RatingScore": 3.61,
-    "AdjustedRating": "2.1334551514761308088136969883"
+    "BID": 4000098,
+    "BeerName": "Bulldog",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Frontaal Brewing Co.",
+    "Origin": "Breda, Noord-Brabant Netherlands",
+    "BeerAbv": 6.00,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3635338_5a2cd_sm.jpeg",
+    "HallRating": 22.41,
+    "BAR": 15.49,
+    "StylePlus": "96",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.2660102089963404259150060543"
   },
   {
     "BID": 6930,
@@ -75,21 +90,6 @@
     "AdjustedRating": "2.2974152264939284372335183564"
   },
   {
-    "BID": 4000098,
-    "BeerName": "Bulldog",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Frontaal Brewing Co.",
-    "Origin": "Breda, Noord-Brabant Netherlands",
-    "BeerAbv": 6.00,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3635338_5a2cd_sm.jpeg",
-    "HallRating": 22.41,
-    "BAR": 15.49,
-    "StylePlus": "96",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.2660102089963404259150060543"
-  },
-  {
     "BID": 1669122,
     "BeerName": "Rekorderlig Strawberry-Lime (Jordgubb-Lime)",
     "BeerStyle": "Cider - Other Fruit",
@@ -118,6 +118,21 @@
     "StylePlus": "95",
     "RatingScore": 3.55,
     "AdjustedRating": "2.259313413715486871366000424"
+  },
+  {
+    "BID": 3008374,
+    "BeerName": "Éphémère Pomme (Apple)",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Unibroue",
+    "Origin": "Chambly, QC Canada",
+    "BeerAbv": 5.50,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_7243_sm_b389b0890b1944b57a35dd08410269.jpeg",
+    "HallRating": 22.38,
+    "BAR": 15.45,
+    "StylePlus": "100",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.2579359449874109971031756775"
   },
   {
     "BID": 5403351,
@@ -150,21 +165,6 @@
     "AdjustedRating": "2.2807314762602909665050186083"
   },
   {
-    "BID": 3008374,
-    "BeerName": "Éphémère Pomme (Apple)",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Unibroue",
-    "Origin": "Chambly, QC Canada",
-    "BeerAbv": 5.50,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_7243_sm_b389b0890b1944b57a35dd08410269.jpeg",
-    "HallRating": 22.38,
-    "BAR": 15.45,
-    "StylePlus": "100",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.2579359449874109971031756775"
-  },
-  {
     "BID": 807886,
     "BeerName": "American Dream",
     "BeerStyle": "Pilsner - American",
@@ -180,21 +180,6 @@
     "AdjustedRating": "2.2570855681422807025471173789"
   },
   {
-    "BID": 4504510,
-    "BeerName": "Zadie's Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Union Craft Brewing",
-    "Origin": "Baltimore, MD United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4504510_185f4_sm.jpeg",
-    "HallRating": 22.37,
-    "BAR": 13.36,
-    "StylePlus": "102",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.1321748846150987615477803735"
-  },
-  {
     "BID": 1671956,
     "BeerName": "Pre-2016 DPA (old version)",
     "BeerStyle": "Pale Ale - English",
@@ -208,6 +193,21 @@
     "StylePlus": "102",
     "RatingScore": 3.51,
     "AdjustedRating": "2.253526509923857237402336912"
+  },
+  {
+    "BID": 4504510,
+    "BeerName": "Zadie's Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Union Craft Brewing",
+    "Origin": "Baltimore, MD United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4504510_185f4_sm.jpeg",
+    "HallRating": 22.37,
+    "BAR": 13.36,
+    "StylePlus": "102",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.1321748846150987615477803735"
   },
   {
     "BID": 6403664,
@@ -240,19 +240,34 @@
     "AdjustedRating": "2.2651021113946596927277700047"
   },
   {
-    "BID": 4300383,
-    "BeerName": "Bean Flicker",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Odd Side Ales",
-    "Origin": "Grand Haven, MI United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-161708_90f71_sm.jpeg",
+    "BID": 3081373,
+    "BeerName": "Nu Juice IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Southern Tier Brewing Company",
+    "Origin": "Lakewood, NY United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3081373_7ffe4_sm.jpeg",
     "HallRating": 22.35,
-    "BAR": 15.42,
-    "StylePlus": "108",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.2776089021576876102591939205"
+    "BAR": 15.41,
+    "StylePlus": "98",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.2655000033942257431657264661"
+  },
+  {
+    "BID": 1429544,
+    "BeerName": "Hop Perfect",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Yazoo Brewing Company",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 91.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1416636_ca4f3_sm.jpeg",
+    "HallRating": 22.35,
+    "BAR": 15.41,
+    "StylePlus": "99",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.2687128343298472313654163302"
   },
   {
     "BID": 6014652,
@@ -285,19 +300,34 @@
     "AdjustedRating": "2.2785205872567901849265929012"
   },
   {
-    "BID": 1429544,
-    "BeerName": "Hop Perfect",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Yazoo Brewing Company",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 91.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1416636_ca4f3_sm.jpeg",
+    "BID": 4300383,
+    "BeerName": "Bean Flicker",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Odd Side Ales",
+    "Origin": "Grand Haven, MI United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-161708_90f71_sm.jpeg",
     "HallRating": 22.35,
-    "BAR": 15.41,
-    "StylePlus": "99",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.2687128343298472313654163302"
+    "BAR": 15.42,
+    "StylePlus": "108",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.2776089021576876102591939205"
+  },
+  {
+    "BID": 4420407,
+    "BeerName": "Logical Conclusion",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Threes Brewing",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2398268_2ef50_sm.jpeg",
+    "HallRating": 22.35,
+    "BAR": 15.42,
+    "StylePlus": "107",
+    "RatingScore": 3.99,
+    "AdjustedRating": "2.2977616152844116369952236214"
   },
   {
     "BID": 905545,
@@ -330,48 +360,18 @@
     "AdjustedRating": "2.2609211934449670913455555782"
   },
   {
-    "BID": 3081373,
-    "BeerName": "Nu Juice IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Southern Tier Brewing Company",
-    "Origin": "Lakewood, NY United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3081373_7ffe4_sm.jpeg",
-    "HallRating": 22.35,
-    "BAR": 15.41,
-    "StylePlus": "98",
-    "RatingScore": 3.66,
-    "AdjustedRating": "2.2655000033942257431657264661"
-  },
-  {
-    "BID": 4420407,
-    "BeerName": "Logical Conclusion",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Threes Brewing",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 7.00,
+    "BID": 6302029,
+    "BeerName": "Community Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Marto Brewing Company",
+    "Origin": "Sioux City, IA United States",
+    "BeerAbv": 4.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2398268_2ef50_sm.jpeg",
-    "HallRating": 22.35,
-    "BAR": 15.42,
-    "StylePlus": "107",
-    "RatingScore": 3.99,
-    "AdjustedRating": "2.2977616152844116369952236214"
-  },
-  {
-    "BID": 1803705,
-    "BeerName": "Axis IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Real Ale Brewing Company",
-    "Origin": "Blanco, TX United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1717949_64c54_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6302029_0eacb_sm.jpeg",
     "HallRating": 22.34,
-    "BAR": 15.40,
-    "StylePlus": "100",
-    "RatingScore": 3.72,
-    "AdjustedRating": "2.2704970399465718845862150934"
+    "BAR": 5.18,
+    "StylePlus": "110",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.1194340339579625222486650801"
   }
 ]

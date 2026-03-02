@@ -1,5 +1,20 @@
 [
   {
+    "BID": 4050922,
+    "BeerName": "Santilli",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Night Shift Brewing",
+    "Origin": "Everett, MA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1092172_a22f5_sm.jpeg",
+    "HallRating": 22.80,
+    "BAR": 15.99,
+    "StylePlus": "104",
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.3564519977694492355176304289"
+  },
+  {
     "BID": 1666939,
     "BeerName": "Xalapa",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -30,21 +45,6 @@
     "AdjustedRating": "2.3193100133707455000637216466"
   },
   {
-    "BID": 6204917,
-    "BeerName": "Lush IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Fremont Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1854869_161eb_sm.jpeg",
-    "HallRating": 22.80,
-    "BAR": 15.99,
-    "StylePlus": "104",
-    "RatingScore": 3.89,
-    "AdjustedRating": "2.3594123291164406948148212179"
-  },
-  {
     "BID": 806838,
     "BeerName": "Dallas Blonde®",
     "BeerStyle": "Blonde / Golden Ale - Other",
@@ -58,21 +58,6 @@
     "StylePlus": "101",
     "RatingScore": 3.54,
     "AdjustedRating": "2.311056416156469573078029338"
-  },
-  {
-    "BID": 3202742,
-    "BeerName": "Sumpin’ Easy",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Lagunitas Brewing Company",
-    "Origin": "Petaluma, CA United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 51.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2403540_d1558_sm.jpeg",
-    "HallRating": 22.78,
-    "BAR": 15.96,
-    "StylePlus": "101",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.3154253152489491701694327686"
   },
   {
     "BID": 4611554,
@@ -90,19 +75,19 @@
     "AdjustedRating": "2.3091878510118020103920069482"
   },
   {
-    "BID": 1676387,
-    "BeerName": "Chiemseer Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Auerbräu Rosenheimer Spezialitätenbrauerei",
-    "Origin": "Rosenheim, Bayern Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-72326_166ab_sm.jpeg",
-    "HallRating": 22.77,
+    "BID": 3202742,
+    "BeerName": "Sumpin’ Easy",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 51.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2403540_d1558_sm.jpeg",
+    "HallRating": 22.78,
     "BAR": 15.96,
     "StylePlus": "101",
-    "RatingScore": 3.51,
-    "AdjustedRating": "2.3042986448877675761437823497"
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.3154253152489491701694327686"
   },
   {
     "BID": 4414586,
@@ -135,34 +120,19 @@
     "AdjustedRating": "2.3212377910896906389501366964"
   },
   {
-    "BID": 2014930,
-    "BeerName": "Shape Shifter IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Fourpure Brewing Co",
-    "Origin": "London, Greater London England",
-    "BeerAbv": 5.90,
-    "BeerIbu": 68.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1389383_4be91_sm.jpeg",
-    "HallRating": 22.76,
-    "BAR": 15.94,
-    "StylePlus": "95",
-    "RatingScore": 3.53,
-    "AdjustedRating": "2.3052970234710399402697411544"
-  },
-  {
-    "BID": 1432994,
-    "BeerName": "Hop Knot",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Four Peaks Brewing",
-    "Origin": "Tempe, AZ United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 47.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4057_19d4b_sm.jpeg",
-    "HallRating": 22.76,
-    "BAR": 15.94,
-    "StylePlus": "99",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.3270491643088094467739518845"
+    "BID": 1676387,
+    "BeerName": "Chiemseer Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Auerbräu Rosenheimer Spezialitätenbrauerei",
+    "Origin": "Rosenheim, Bayern Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-72326_166ab_sm.jpeg",
+    "HallRating": 22.77,
+    "BAR": 15.96,
+    "StylePlus": "101",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.3042986448877675761437823497"
   },
   {
     "BID": 6001763,
@@ -180,19 +150,19 @@
     "AdjustedRating": "2.3579905453771973424609367369"
   },
   {
-    "BID": 3404818,
-    "BeerName": "Broken Skull IPA",
+    "BID": 1432994,
+    "BeerName": "Hop Knot",
     "BeerStyle": "IPA - American",
-    "BreweryName": "El Segundo Brewing Company",
-    "Origin": "El Segundo, CA United States",
+    "BreweryName": "Four Peaks Brewing",
+    "Origin": "Tempe, AZ United States",
     "BeerAbv": 6.70,
-    "BeerIbu": 67.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1312129_09bed_sm.jpeg",
+    "BeerIbu": 47.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4057_19d4b_sm.jpeg",
     "HallRating": 22.76,
     "BAR": 15.94,
-    "StylePlus": "101",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.3382101214610048532310016409"
+    "StylePlus": "99",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.3270491643088094467739518845"
   },
   {
     "BID": 5500119,
@@ -225,19 +195,34 @@
     "AdjustedRating": "2.3584744746831594583090834861"
   },
   {
-    "BID": 703037,
-    "BeerName": "Sunshine Daydream",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Fat Head’s Brewery",
-    "Origin": "Middleburg Heights, OH United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-181608_78d85_sm.jpeg",
-    "HallRating": 22.75,
-    "BAR": 15.93,
-    "StylePlus": "104",
-    "RatingScore": 3.72,
-    "AdjustedRating": "2.3279180753802167697609444813"
+    "BID": 3404818,
+    "BeerName": "Broken Skull IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "El Segundo Brewing Company",
+    "Origin": "El Segundo, CA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 67.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1312129_09bed_sm.jpeg",
+    "HallRating": 22.76,
+    "BAR": 15.94,
+    "StylePlus": "101",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.3382101214610048532310016409"
+  },
+  {
+    "BID": 2014930,
+    "BeerName": "Shape Shifter IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Fourpure Brewing Co",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 5.90,
+    "BeerIbu": 68.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1389383_4be91_sm.jpeg",
+    "HallRating": 22.76,
+    "BAR": 15.94,
+    "StylePlus": "95",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.3052970234710399402697411544"
   },
   {
     "BID": 1672878,
@@ -253,6 +238,21 @@
     "StylePlus": "101",
     "RatingScore": 3.64,
     "AdjustedRating": "2.3184671739007634582878893876"
+  },
+  {
+    "BID": 703037,
+    "BeerName": "Sunshine Daydream",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Fat Head’s Brewery",
+    "Origin": "Middleburg Heights, OH United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-181608_78d85_sm.jpeg",
+    "HallRating": 22.75,
+    "BAR": 15.93,
+    "StylePlus": "104",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.3279180753802167697609444813"
   },
   {
     "BID": 33159,
@@ -285,21 +285,6 @@
     "AdjustedRating": "2.1403070240386988498938743275"
   },
   {
-    "BID": 27563,
-    "BeerName": "Golden Nugget",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27563_eb1cb_sm.jpeg",
-    "HallRating": 22.73,
-    "BAR": 15.91,
-    "StylePlus": "107",
-    "RatingScore": 3.99,
-    "AdjustedRating": "2.3602888655119015727194913981"
-  },
-  {
     "BID": 3207809,
     "BeerName": "Life",
     "BeerStyle": "IPA - Session",
@@ -315,19 +300,34 @@
     "AdjustedRating": "2.3250428443507114580587249748"
   },
   {
-    "BID": 2008674,
-    "BeerName": "100W",
+    "BID": 27563,
+    "BeerName": "Golden Nugget",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Nya Carnegiebryggeriet",
-    "Origin": "Stockholm, Stockholms län Sweden",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
     "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-977885_07976_sm.jpeg",
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27563_eb1cb_sm.jpeg",
+    "HallRating": 22.73,
+    "BAR": 15.91,
+    "StylePlus": "107",
+    "RatingScore": 3.99,
+    "AdjustedRating": "2.3602888655119015727194913981"
+  },
+  {
+    "BID": 6613233,
+    "BeerName": "Bodhizafa",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Georgetown Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1094728_bfd85_sm.jpeg",
     "HallRating": 22.72,
     "BAR": 15.89,
-    "StylePlus": "95",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.300954401449525001471765006"
+    "StylePlus": "106",
+    "RatingScore": 3.95,
+    "AdjustedRating": "2.3524364862064075572960413644"
   },
   {
     "BID": 450180,
@@ -345,6 +345,21 @@
     "AdjustedRating": "2.3248186890122880561141476224"
   },
   {
+    "BID": 2008674,
+    "BeerName": "100W",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Nya Carnegiebryggeriet",
+    "Origin": "Stockholm, Stockholms län Sweden",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-977885_07976_sm.jpeg",
+    "HallRating": 22.72,
+    "BAR": 15.89,
+    "StylePlus": "95",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.300954401449525001471765006"
+  },
+  {
     "BID": 903475,
     "BeerName": "Christmas Ale",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -358,20 +373,5 @@
     "StylePlus": "106",
     "RatingScore": 3.67,
     "AdjustedRating": "2.1390657425781674219313054725"
-  },
-  {
-    "BID": 6613233,
-    "BeerName": "Bodhizafa",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Georgetown Brewing Company",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1094728_bfd85_sm.jpeg",
-    "HallRating": 22.72,
-    "BAR": 15.89,
-    "StylePlus": "106",
-    "RatingScore": 3.95,
-    "AdjustedRating": "2.3524364862064075572960413644"
   }
 ]

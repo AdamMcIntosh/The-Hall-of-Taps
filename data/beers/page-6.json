@@ -1,33 +1,33 @@
 [
   {
-    "BID": 6505076,
-    "BeerName": "Applewood Awn",
+    "BID": 1672967,
+    "BeerName": "The Hefe Is A Lie (2016) 5th Form w/ Spiced Rum Soaked Figs",
+    "BeerStyle": "Wheat Beer - Wheat Wine",
+    "BreweryName": "8-Bit Aleworks",
+    "Origin": "Avondale, AZ United States",
+    "BeerAbv": 11.40,
+    "BeerIbu": 37.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-115045_7173f.jpeg",
+    "HallRating": 29.33,
+    "BAR": 7.24,
+    "StylePlus": "118",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1195000349975501714879958403"
+  },
+  {
+    "BID": 6405421,
+    "BeerName": "Immortality",
     "BeerStyle": "Barleywine - English",
-    "BreweryName": "Millpond Brewing",
-    "Origin": "Millstadt, IL United States",
-    "BeerAbv": 10.20,
+    "BreweryName": "Brasseria Della Fonte",
+    "Origin": "Pienza, Toscana Italy",
+    "BeerAbv": 13.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505076_f2287_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405421_a58b2_sm.jpeg",
     "HallRating": 29.33,
     "BAR": 7.24,
     "StylePlus": "114",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1194993350465467417280790345"
-  },
-  {
-    "BID": 2809887,
-    "BeerName": "Moment of Clarity - Extra Maple",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 7.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2809887_b0f58_sm.jpeg",
-    "HallRating": 29.33,
-    "BAR": 16.96,
-    "StylePlus": "119",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1341400678821851503992923556"
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1195000349975501714879958403"
   },
   {
     "BID": 5343165,
@@ -60,21 +60,6 @@
     "AdjustedRating": "2.1335668346603842980546526307"
   },
   {
-    "BID": 6608556,
-    "BeerName": "Wizzle (2026)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Dimensional Brewing Company",
-    "Origin": "Dubuque, IA United States",
-    "BeerAbv": 15.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6608556_1307f_sm.jpeg",
-    "HallRating": 29.24,
-    "BAR": 7.31,
-    "StylePlus": "121",
-    "RatingScore": 4.81,
-    "AdjustedRating": "2.1195270592882016053836096883"
-  },
-  {
     "BID": 4000077,
     "BeerName": "Flora (w/ Blueberries, Black Currants & Raspberries)",
     "BeerStyle": "Wild Ale - American",
@@ -88,6 +73,21 @@
     "StylePlus": "113",
     "RatingScore": 4.51,
     "AdjustedRating": "2.1329583910234580268610192074"
+  },
+  {
+    "BID": 6608556,
+    "BeerName": "Wizzle (2026)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Dimensional Brewing Company",
+    "Origin": "Dubuque, IA United States",
+    "BeerAbv": 15.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6608556_1307f_sm.jpeg",
+    "HallRating": 29.24,
+    "BAR": 7.31,
+    "StylePlus": "121",
+    "RatingScore": 4.81,
+    "AdjustedRating": "2.1195270592882016053836096883"
   },
   {
     "BID": 3346915,
@@ -120,21 +120,6 @@
     "AdjustedRating": "2.1328229987492571383102787192"
   },
   {
-    "BID": 4304995,
-    "BeerName": "TDH More Citra Than All Citra Imperial IPA",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Other Half Brewing Co.",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4303315_215d2_sm.jpeg",
-    "HallRating": 29.16,
-    "BAR": 16.66,
-    "StylePlus": "113",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1323804550540842969041402462"
-  },
-  {
     "BID": 1004753,
     "BeerName": "Brew 1000 (2014)",
     "BeerStyle": "Barleywine - English",
@@ -148,6 +133,21 @@
     "StylePlus": "114",
     "RatingScore": 4.52,
     "AdjustedRating": "2.13213097795814434630381157"
+  },
+  {
+    "BID": 4304995,
+    "BeerName": "TDH More Citra Than All Citra Imperial IPA",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Other Half Brewing Co.",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4303315_215d2_sm.jpeg",
+    "HallRating": 29.16,
+    "BAR": 16.66,
+    "StylePlus": "113",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1323804550540842969041402462"
   },
   {
     "BID": 5302997,
@@ -255,21 +255,6 @@
     "AdjustedRating": "2.1309616327180535962640353693"
   },
   {
-    "BID": 4612631,
-    "BeerName": "Castle Hill",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Aslin Beer Company",
-    "Origin": "Alexandria, VA United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3210388_dcebb_sm.jpeg",
-    "HallRating": 29.01,
-    "BAR": 16.37,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1305274184959764308926500814"
-  },
-  {
     "BID": 5450904,
     "BeerName": "25th Anniversary Series: Pappy Van Winkle Gold Label Barrel Aged Stout",
     "BeerStyle": "Stout - Imperial / Double",
@@ -283,6 +268,21 @@
     "StylePlus": "111",
     "RatingScore": 4.52,
     "AdjustedRating": "2.1306455931165929324647792702"
+  },
+  {
+    "BID": 4612631,
+    "BeerName": "Castle Hill",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Aslin Beer Company",
+    "Origin": "Alexandria, VA United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3210388_dcebb_sm.jpeg",
+    "HallRating": 29.01,
+    "BAR": 16.37,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1305274184959764308926500814"
   },
   {
     "BID": 6608414,

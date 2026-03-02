@@ -1,20 +1,5 @@
 [
   {
-    "BID": 6015895,
-    "BeerName": "Kilauea",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 12.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015895_cfd3d_sm.jpeg",
-    "HallRating": 27.59,
-    "BAR": 12.91,
-    "StylePlus": "111",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1216892367788761732545419125"
-  },
-  {
     "BID": 5404191,
     "BeerName": "Barrel-Aged One Man Wrecking Machine",
     "BeerStyle": "Stout - Imperial / Double Milk",
@@ -30,19 +15,19 @@
     "AdjustedRating": "2.1216367705164516241826637295"
   },
   {
-    "BID": 5000474,
-    "BeerName": "Funktastic Freshy: These Are Your Decisions",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "Funktastic Meads",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 6.50,
+    "BID": 6015895,
+    "BeerName": "Kilauea",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 12.30,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5000474_1c256_sm.jpeg",
-    "HallRating": 27.58,
-    "BAR": 9.62,
-    "StylePlus": "119",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1198486317873246618210175863"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015895_cfd3d_sm.jpeg",
+    "HallRating": 27.59,
+    "BAR": 12.91,
+    "StylePlus": "111",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1216892367788761732545419125"
   },
   {
     "BID": 6503040,
@@ -75,34 +60,19 @@
     "AdjustedRating": "2.1198507313464172523770008298"
   },
   {
-    "BID": 6003072,
-    "BeerName": "Atramento (Batch 2)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Tuber Meadery",
-    "Origin": "Zeist, Utrecht Netherlands",
-    "BeerAbv": 12.40,
+    "BID": 5000474,
+    "BeerName": "Funktastic Freshy: These Are Your Decisions",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Funktastic Meads",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003072_134e8_sm.jpeg",
-    "HallRating": 27.57,
-    "BAR": 9.65,
-    "StylePlus": "113",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5000474_1c256_sm.jpeg",
+    "HallRating": 27.58,
+    "BAR": 9.62,
+    "StylePlus": "119",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.1198547808590674481672644563"
-  },
-  {
-    "BID": 6212579,
-    "BeerName": "RumBA in the Park (2022)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212579_39e35_sm.jpeg",
-    "HallRating": 27.57,
-    "BAR": 12.82,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1215875933830710323278392075"
+    "AdjustedRating": "2.1198486317873246618210175863"
   },
   {
     "BID": 6216152,
@@ -120,6 +90,21 @@
     "AdjustedRating": "2.1216554604218077188214960087"
   },
   {
+    "BID": 6212579,
+    "BeerName": "RumBA in the Park (2022)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212579_39e35_sm.jpeg",
+    "HallRating": 27.57,
+    "BAR": 12.82,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1215875933830710323278392075"
+  },
+  {
     "BID": 3018980,
     "BeerName": "Black Currant Bourbon Pancake",
     "BeerStyle": "Mead - Melomel",
@@ -135,19 +120,19 @@
     "AdjustedRating": "2.1216425929209949870993363589"
   },
   {
-    "BID": 5023643,
-    "BeerName": "Grackle",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Lua Brewing",
-    "Origin": "Des Moines, IA United States",
-    "BeerAbv": 15.00,
+    "BID": 6003072,
+    "BeerName": "Atramento (Batch 2)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Tuber Meadery",
+    "Origin": "Zeist, Utrecht Netherlands",
+    "BeerAbv": 12.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64726_8e04d.jpeg",
-    "HallRating": 27.56,
-    "BAR": 12.79,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1215236998608755598072739353"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003072_134e8_sm.jpeg",
+    "HallRating": 27.57,
+    "BAR": 9.65,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1198547808590674481672644563"
   },
   {
     "BID": 6214912,
@@ -165,19 +150,19 @@
     "AdjustedRating": "2.1198738271271676589533250351"
   },
   {
-    "BID": 5618221,
-    "BeerName": "KCSC Stoutified - Green Wax",
+    "BID": 5023643,
+    "BeerName": "Grackle",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Marto Brewing Company",
-    "Origin": "Sioux City, IA United States",
-    "BeerAbv": 14.70,
+    "BreweryName": "Lua Brewing",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5618221_8a896_sm.jpeg",
-    "HallRating": 27.55,
-    "BAR": 9.72,
-    "StylePlus": "115",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.1198930235348223390854012117"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64726_8e04d.jpeg",
+    "HallRating": 27.56,
+    "BAR": 12.79,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1215236998608755598072739353"
   },
   {
     "BID": 6200492,
@@ -195,6 +180,21 @@
     "AdjustedRating": "2.1198540317480947893833091303"
   },
   {
+    "BID": 5618221,
+    "BeerName": "KCSC Stoutified - Green Wax",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Marto Brewing Company",
+    "Origin": "Sioux City, IA United States",
+    "BeerAbv": 14.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5618221_8a896_sm.jpeg",
+    "HallRating": 27.55,
+    "BAR": 9.72,
+    "StylePlus": "115",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.1198930235348223390854012117"
+  },
+  {
     "BID": 4802065,
     "BeerName": "Barrique Puffeney (2018)",
     "BeerStyle": "Lambic - Gueuze",
@@ -210,21 +210,6 @@
     "AdjustedRating": "2.1216646476252326060621198686"
   },
   {
-    "BID": 6004323,
-    "BeerName": "Cosmic Fusion (2023)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004323_ac9bc_sm.jpeg",
-    "HallRating": 27.54,
-    "BAR": 12.71,
-    "StylePlus": "114",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.1215230749248154105927842777"
-  },
-  {
     "BID": 5613482,
     "BeerName": "Proper Black - Banana",
     "BeerStyle": "Mead - Melomel",
@@ -238,6 +223,21 @@
     "StylePlus": "116",
     "RatingScore": 4.72,
     "AdjustedRating": "2.1215991047810785090008967176"
+  },
+  {
+    "BID": 6004323,
+    "BeerName": "Cosmic Fusion (2023)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004323_ac9bc_sm.jpeg",
+    "HallRating": 27.54,
+    "BAR": 12.71,
+    "StylePlus": "114",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.1215230749248154105927842777"
   },
   {
     "BID": 4502493,
@@ -270,21 +270,6 @@
     "AdjustedRating": "2.1198720287935214576720237946"
   },
   {
-    "BID": 6401056,
-    "BeerName": "Partially Barrel-Aged Coconut Killa",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 12.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6401056_a9ebc_sm.jpeg",
-    "HallRating": 27.53,
-    "BAR": 9.80,
-    "StylePlus": "114",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.119887125678908048418984681"
-  },
-  {
     "BID": 4303684,
     "BeerName": "Double Barrel-Aged 120 Minute IPA",
     "BeerStyle": "IPA - Imperial / Double",
@@ -300,19 +285,19 @@
     "AdjustedRating": "2.1214132986961083079382524854"
   },
   {
-    "BID": 4941629,
-    "BeerName": "AJ's Stout Vol.1 (2022)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Triptych Brewing",
-    "Origin": "Savoy, IL United States",
-    "BeerAbv": 19.40,
+    "BID": 6401056,
+    "BeerName": "Partially Barrel-Aged Coconut Killa",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 12.70,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941624_1cccd_sm.jpeg",
-    "HallRating": 27.52,
-    "BAR": 12.61,
-    "StylePlus": "115",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.1214536648240339917019081615"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6401056_a9ebc_sm.jpeg",
+    "HallRating": 27.53,
+    "BAR": 9.80,
+    "StylePlus": "114",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.119887125678908048418984681"
   },
   {
     "BID": 6014341,
@@ -328,6 +313,21 @@
     "StylePlus": "110",
     "RatingScore": 4.55,
     "AdjustedRating": "2.1213417147310600478104368635"
+  },
+  {
+    "BID": 4941629,
+    "BeerName": "AJ's Stout Vol.1 (2022)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Triptych Brewing",
+    "Origin": "Savoy, IL United States",
+    "BeerAbv": 19.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941624_1cccd_sm.jpeg",
+    "HallRating": 27.52,
+    "BAR": 12.61,
+    "StylePlus": "115",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.1214536648240339917019081615"
   },
   {
     "BID": 6100663,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.1212967084572938757871650567"
   },
   {
-    "BID": 6004992,
-    "BeerName": "Baal",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Monkey Brew",
-    "Origin": "Trondheim, Trøndelag Norway",
-    "BeerAbv": 15.00,
+    "BID": 6403888,
+    "BeerName": "Grifter And Friends",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Barreled Souls Brewing Company",
+    "Origin": "Saco, ME United States",
+    "BeerAbv": 15.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004992_777fb_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6403888_aeb49_sm.jpeg",
     "HallRating": 27.51,
-    "BAR": 12.59,
-    "StylePlus": "112",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1213213631787854489682236361"
+    "BAR": 9.87,
+    "StylePlus": "119",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1199054222257769424185316451"
   }
 ]

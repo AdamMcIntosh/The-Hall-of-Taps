@@ -165,21 +165,6 @@
     "AdjustedRating": "2.1351919367810229194888012166"
   },
   {
-    "BID": 3347077,
-    "BeerName": "Classic Flavored",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Alis",
-    "Origin": null,
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 8.10,
-    "BAR": 1.39,
-    "StylePlus": "56",
-    "RatingScore": 1.57,
-    "AdjustedRating": "2.1193141472902130680752875532"
-  },
-  {
     "BID": 4447098,
     "BeerName": "Mulligan - Alkoholfri Pale Ale",
     "BeerStyle": "Non-Alcoholic - Other",
@@ -193,6 +178,21 @@
     "StylePlus": "83",
     "RatingScore": 2.33,
     "AdjustedRating": "2.1193388464874891566024104217"
+  },
+  {
+    "BID": 3347077,
+    "BeerName": "Classic Flavored",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Alis",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 8.10,
+    "BAR": 1.39,
+    "StylePlus": "56",
+    "RatingScore": 1.57,
+    "AdjustedRating": "2.1193141472902130680752875532"
   },
   {
     "BID": 6150280,
@@ -315,21 +315,6 @@
     "AdjustedRating": "2.1293003464468077401286802429"
   },
   {
-    "BID": 5900446,
-    "BeerName": "O'Doul's Premium",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Anheuser-Busch",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": 0.20,
-    "BeerIbu": 5.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17527_2224a_sm.jpeg",
-    "HallRating": 7.92,
-    "BAR": 5.16,
-    "StylePlus": "76",
-    "RatingScore": 2.06,
-    "AdjustedRating": "2.1174110270353956611770170108"
-  },
-  {
     "BID": 6211767,
     "BeerName": "Antarctica",
     "BeerStyle": "Lager - American",
@@ -343,6 +328,21 @@
     "StylePlus": "71",
     "RatingScore": 2.45,
     "AdjustedRating": "2.1300278684281190504413710686"
+  },
+  {
+    "BID": 5900446,
+    "BeerName": "O'Doul's Premium",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Anheuser-Busch",
+    "Origin": "St. Louis, MO United States",
+    "BeerAbv": 0.20,
+    "BeerIbu": 5.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17527_2224a_sm.jpeg",
+    "HallRating": 7.92,
+    "BAR": 5.16,
+    "StylePlus": "76",
+    "RatingScore": 2.06,
+    "AdjustedRating": "2.1174110270353956611770170108"
   },
   {
     "BID": 208534,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.1250844906366039360064586885"
   },
   {
-    "BID": 6093,
-    "BeerName": "Carlton Sterling",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Carlton & United Breweries",
-    "Origin": "Abbotsford, Victoria Australia",
-    "BeerAbv": 0.00,
+    "BID": 4961878,
+    "BeerName": "Nepal Ice Peach",
+    "BeerStyle": "Flavored Malt Beverage",
+    "BreweryName": "Sungold Brewery (Chaudhary Group)",
+    "Origin": "Kathmandu, Bagmati Province Nepal",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4045_ce45d.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961878_6fdf6_sm.jpeg",
     "HallRating": 7.83,
     "BAR": 1.51,
-    "StylePlus": "47",
-    "RatingScore": 1.64,
-    "AdjustedRating": "2.1193128274869005239790408384"
+    "StylePlus": "71",
+    "RatingScore": 2.36,
+    "AdjustedRating": "2.1193416263349466021359145634"
   }
 ]
