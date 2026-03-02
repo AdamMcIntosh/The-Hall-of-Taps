@@ -45,21 +45,6 @@
     "AdjustedRating": "2.4305477456107106318887935419"
   },
   {
-    "BID": 2009269,
-    "BeerName": "Kungaloosh Spiced Excursion Ale",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Concrete Beach Brewery",
-    "Origin": "Miami, FL United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1537846_5d3aa_sm.jpeg",
-    "HallRating": 23.43,
-    "BAR": 14.99,
-    "StylePlus": "108",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.1592116400180503213688973449"
-  },
-  {
     "BID": 6304724,
     "BeerName": "Hopadillo IPA",
     "BeerStyle": "IPA - American",
@@ -73,6 +58,21 @@
     "StylePlus": "99",
     "RatingScore": 3.68,
     "AdjustedRating": "2.4517102713082966545398738"
+  },
+  {
+    "BID": 2009269,
+    "BeerName": "Kungaloosh Spiced Excursion Ale",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Concrete Beach Brewery",
+    "Origin": "Miami, FL United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1537846_5d3aa_sm.jpeg",
+    "HallRating": 23.43,
+    "BAR": 14.99,
+    "StylePlus": "108",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.1592116400180503213688973449"
   },
   {
     "BID": 6207303,
@@ -180,21 +180,6 @@
     "AdjustedRating": "2.4822023919555240179446355915"
   },
   {
-    "BID": 2600611,
-    "BeerName": "Hop Ottin' IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Anderson Valley Brewing Company",
-    "Origin": "Boonville, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4482_8fb6a_sm.jpeg",
-    "HallRating": 23.37,
-    "BAR": 16.72,
-    "StylePlus": "95",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.4136089780631991151409003084"
-  },
-  {
     "BID": 3805890,
     "BeerName": "Avery IPA",
     "BeerStyle": "IPA - American",
@@ -210,6 +195,21 @@
     "AdjustedRating": "2.4263030958668745426198733654"
   },
   {
+    "BID": 2600611,
+    "BeerName": "Hop Ottin' IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Anderson Valley Brewing Company",
+    "Origin": "Boonville, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4482_8fb6a_sm.jpeg",
+    "HallRating": 23.37,
+    "BAR": 16.72,
+    "StylePlus": "95",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.4136089780631991151409003084"
+  },
+  {
     "BID": 5301663,
     "BeerName": "Hop Gun IPA",
     "BeerStyle": "IPA - American",
@@ -223,21 +223,6 @@
     "StylePlus": "100",
     "RatingScore": 3.74,
     "AdjustedRating": "2.4504446734274108524664515641"
-  },
-  {
-    "BID": 6503101,
-    "BeerName": "Blizzard of Hops",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tröegs Independent Brewing",
-    "Origin": "Hershey, PA United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-533372_e6293_sm.jpeg",
-    "HallRating": 23.35,
-    "BAR": 16.69,
-    "StylePlus": "101",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.4521451048149720300763866884"
   },
   {
     "BID": 3349533,
@@ -270,6 +255,21 @@
     "AdjustedRating": "2.4122257338505004070296413351"
   },
   {
+    "BID": 6503101,
+    "BeerName": "Blizzard of Hops",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Tröegs Independent Brewing",
+    "Origin": "Hershey, PA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-533372_e6293_sm.jpeg",
+    "HallRating": 23.35,
+    "BAR": 16.69,
+    "StylePlus": "101",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.4521451048149720300763866884"
+  },
+  {
     "BID": 2006165,
     "BeerName": "Dayglow IPA",
     "BeerStyle": "IPA - American",
@@ -283,21 +283,6 @@
     "StylePlus": "101",
     "RatingScore": 3.75,
     "AdjustedRating": "2.4474871000207677684234068725"
-  },
-  {
-    "BID": 2826684,
-    "BeerName": "Briney Melon Gose",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Anderson Valley Brewing Company",
-    "Origin": "Boonville, CA United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1048349_a5532_sm.jpeg",
-    "HallRating": 23.33,
-    "BAR": 16.66,
-    "StylePlus": "99",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.4460938820128213855264896552"
   },
   {
     "BID": 3202765,
@@ -315,21 +300,6 @@
     "AdjustedRating": "2.4723030885325967293180407935"
   },
   {
-    "BID": 4700213,
-    "BeerName": "Floridian",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Funky Buddha Brewery",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14417_8f593_sm.jpeg",
-    "HallRating": 23.33,
-    "BAR": 16.67,
-    "StylePlus": "102",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.4156456218654764475799678449"
-  },
-  {
     "BID": 2021930,
     "BeerName": "Apocalypse IPA",
     "BeerStyle": "IPA - American",
@@ -345,33 +315,63 @@
     "AdjustedRating": "2.4381658201416236063368255411"
   },
   {
-    "BID": 1604306,
-    "BeerName": "Inversion IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Deschutes Brewery",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-423_42d04_sm.jpeg",
-    "HallRating": 23.30,
-    "BAR": 16.62,
-    "StylePlus": "97",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.4115916109368646097974401198"
+    "BID": 2826684,
+    "BeerName": "Briney Melon Gose",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Anderson Valley Brewing Company",
+    "Origin": "Boonville, CA United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1048349_a5532_sm.jpeg",
+    "HallRating": 23.33,
+    "BAR": 16.66,
+    "StylePlus": "99",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.4460938820128213855264896552"
   },
   {
-    "BID": 4631031,
-    "BeerName": "Lunch Lady Lager",
+    "BID": 4700213,
+    "BeerName": "Floridian",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Funky Buddha Brewery",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14417_8f593_sm.jpeg",
+    "HallRating": 23.33,
+    "BAR": 16.67,
+    "StylePlus": "102",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.4156456218654764475799678449"
+  },
+  {
+    "BID": 6350728,
+    "BeerName": "Oro Grande Mexican Corn Lager",
     "BeerStyle": "Lager - American",
-    "BreweryName": "Blue Monkey Brewing Co.",
-    "Origin": "North Royalton, OH United States",
-    "BeerAbv": 0.00,
+    "BreweryName": "Distant West Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-456761_23714.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-550259_9776c.jpeg",
     "HallRating": 23.30,
     "BAR": 4.61,
-    "StylePlus": "104",
-    "RatingScore": 3.61,
-    "AdjustedRating": "2.1193953506975953521975316049"
+    "StylePlus": "110",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.1194038503363607046700515228"
+  },
+  {
+    "BID": 5101567,
+    "BeerName": "Elephant Valley",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Mike Hess Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-hessbrewing_2174.jpeg",
+    "HallRating": 23.30,
+    "BAR": 4.61,
+    "StylePlus": "108",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.1194013004447310989282955474"
   }
 ]

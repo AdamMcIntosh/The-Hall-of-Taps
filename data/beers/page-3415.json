@@ -240,21 +240,6 @@
     "AdjustedRating": "2.130536947385348736177883173"
   },
   {
-    "BID": 3150740,
-    "BeerName": "Peroni Libera",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Birra Peroni",
-    "Origin": "Roma, Lazio Italy",
-    "BeerAbv": 0.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3043363_9d401_sm.jpeg",
-    "HallRating": 8.00,
-    "BAR": 5.26,
-    "StylePlus": "88",
-    "RatingScore": 2.38,
-    "AdjustedRating": "2.1295292888285669673420853502"
-  },
-  {
     "BID": 5616924,
     "BeerName": "Bavaria 0.0%",
     "BeerStyle": "Non-Alcoholic - Lager",
@@ -268,6 +253,21 @@
     "StylePlus": "92",
     "RatingScore": 2.49,
     "AdjustedRating": "2.1340573475325772780087768997"
+  },
+  {
+    "BID": 3150740,
+    "BeerName": "Peroni Libera",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Birra Peroni",
+    "Origin": "Roma, Lazio Italy",
+    "BeerAbv": 0.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3043363_9d401_sm.jpeg",
+    "HallRating": 8.00,
+    "BAR": 5.26,
+    "StylePlus": "88",
+    "RatingScore": 2.38,
+    "AdjustedRating": "2.1295292888285669673420853502"
   },
   {
     "BID": 17855,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.1250844906366039360064586885"
   },
   {
-    "BID": 2650329,
-    "BeerName": "Veltins Pilsener 0,0% Alkoholfrei",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Brauerei VELTINS",
-    "Origin": "Meschede, Nordrhein-Westfalen Germany",
-    "BeerAbv": 0.00,
+    "BID": 1672542,
+    "BeerName": "Hurricane",
+    "BeerStyle": "Flavored Malt Beverage",
+    "BreweryName": "Clubtails",
+    "Origin": "Rochester, NY United States",
+    "BeerAbv": 10.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-87363_60bfe_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-127653_1403b.jpeg",
     "HallRating": 7.83,
-    "BAR": 5.02,
-    "StylePlus": "90",
-    "RatingScore": 2.43,
-    "AdjustedRating": "2.1272334500376426216806882387"
+    "BAR": 1.51,
+    "StylePlus": "75",
+    "RatingScore": 2.50,
+    "AdjustedRating": "2.1193472261109555617775288988"
   }
 ]

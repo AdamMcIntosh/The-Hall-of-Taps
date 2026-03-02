@@ -15,21 +15,6 @@
     "AdjustedRating": "2.1261903978380426707352948509"
   },
   {
-    "BID": 6505927,
-    "BeerName": "Évasif #2",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Brasserie du Bas-Canada",
-    "Origin": "Gatineau, QC Canada",
-    "BeerAbv": 11.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505927_16139_sm.jpeg",
-    "HallRating": 28.42,
-    "BAR": 8.12,
-    "StylePlus": "115",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.1195955924627914069022752611"
-  },
-  {
     "BID": 2626302,
     "BeerName": "Pjassel (2017)",
     "BeerStyle": "Lambic - Fruit",
@@ -43,6 +28,21 @@
     "StylePlus": "112",
     "RatingScore": 4.52,
     "AdjustedRating": "2.1258500731757789418308654688"
+  },
+  {
+    "BID": 6505927,
+    "BeerName": "Évasif #2",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 11.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505927_16139_sm.jpeg",
+    "HallRating": 28.42,
+    "BAR": 8.12,
+    "StylePlus": "115",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.1195955924627914069022752611"
   },
   {
     "BID": 3702621,
@@ -135,19 +135,19 @@
     "AdjustedRating": "2.1196009198965116424402254746"
   },
   {
-    "BID": 4631290,
-    "BeerName": "A Deeper Understanding",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Forager Brewery",
-    "Origin": "Rochester, MN United States",
-    "BeerAbv": 12.50,
+    "BID": 3809347,
+    "BeerName": "Oreo Marshmallow Vanilla Bubble Wrap",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "WeldWerks Brewing Co.",
+    "Origin": "Greeley, CO United States",
+    "BeerAbv": 13.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4631290_affb9_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3809347_1b90f_sm.jpeg",
     "HallRating": 28.28,
     "BAR": 14.89,
     "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1250260505647822302475863634"
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1251920808278318298245920324"
   },
   {
     "BID": 1010945,
@@ -180,34 +180,19 @@
     "AdjustedRating": "2.1251787651672922720073825587"
   },
   {
-    "BID": 3809347,
-    "BeerName": "Oreo Marshmallow Vanilla Bubble Wrap",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "WeldWerks Brewing Co.",
-    "Origin": "Greeley, CO United States",
-    "BeerAbv": 13.20,
+    "BID": 4631290,
+    "BeerName": "A Deeper Understanding",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Forager Brewery",
+    "Origin": "Rochester, MN United States",
+    "BeerAbv": 12.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3809347_1b90f_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4631290_affb9_sm.jpeg",
     "HallRating": 28.28,
     "BAR": 14.89,
     "StylePlus": "111",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1251920808278318298245920324"
-  },
-  {
-    "BID": 3334258,
-    "BeerName": "Flora (Blueberry) (2014)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
-    "HallRating": 28.27,
-    "BAR": 8.31,
-    "StylePlus": "122",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1196080450748163961144468386"
+    "AdjustedRating": "2.1250260505647822302475863634"
   },
   {
     "BID": 5009208,
@@ -223,6 +208,21 @@
     "StylePlus": "110",
     "RatingScore": 4.59,
     "AdjustedRating": "2.1250875705228291938324013429"
+  },
+  {
+    "BID": 3334258,
+    "BeerName": "Flora (Blueberry) (2014)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 28.27,
+    "BAR": 8.31,
+    "StylePlus": "122",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1196080450748163961144468386"
   },
   {
     "BID": 6609944,
@@ -315,21 +315,6 @@
     "AdjustedRating": "2.1246689350492550009604039184"
   },
   {
-    "BID": 6418171,
-    "BeerName": "Mekong Maman 30th",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Perennial Artisan Ales",
-    "Origin": "St Louis, MO United States",
-    "BeerAbv": 13.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-PerennialArtisanAles_3533.jpeg",
-    "HallRating": 28.20,
-    "BAR": 8.41,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1196236451625804903411590609"
-  },
-  {
     "BID": 3348901,
     "BeerName": "Tête De Pioche 177",
     "BeerStyle": "IPA - American",
@@ -343,6 +328,21 @@
     "StylePlus": "122",
     "RatingScore": 4.56,
     "AdjustedRating": "2.1196248450185977682678078631"
+  },
+  {
+    "BID": 6418171,
+    "BeerName": "Mekong Maman 30th",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Perennial Artisan Ales",
+    "Origin": "St Louis, MO United States",
+    "BeerAbv": 13.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-PerennialArtisanAles_3533.jpeg",
+    "HallRating": 28.20,
+    "BAR": 8.41,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1196236451625804903411590609"
   },
   {
     "BID": 4300578,

@@ -1,18 +1,18 @@
 [
   {
-    "BID": 4940386,
-    "BeerName": "Kaa",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Salvaje - Cerveza Hecha A Mano",
-    "Origin": "Panamá, Provincia de Panamá Panama",
-    "BeerAbv": 6.00,
-    "BeerIbu": 17.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940386_fa900_sm.jpeg",
+    "BID": 4630939,
+    "BeerName": "OPumpkin",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "King's Court Brewing Company",
+    "Origin": "Poughkeepsie, NY United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-404176_d465f.jpeg",
     "HallRating": 23.73,
     "BAR": 4.41,
-    "StylePlus": "110",
-    "RatingScore": 3.82,
-    "AdjustedRating": "2.1193957726585253053010512106"
+    "StylePlus": "109",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.119393897728835168681174456"
   },
   {
     "BID": 5405050,
@@ -28,36 +28,6 @@
     "StylePlus": "102",
     "RatingScore": 3.52,
     "AdjustedRating": "2.1193845230803844855817906828"
-  },
-  {
-    "BID": 3503853,
-    "BeerName": "Villages Lake Shore Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "The Villages",
-    "Origin": "The Villages, FL United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 23.73,
-    "BAR": 4.41,
-    "StylePlus": "101",
-    "RatingScore": 3.50,
-    "AdjustedRating": "2.119383773108508430933839981"
-  },
-  {
-    "BID": 4630939,
-    "BeerName": "OPumpkin",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "King's Court Brewing Company",
-    "Origin": "Poughkeepsie, NY United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-404176_d465f.jpeg",
-    "HallRating": 23.73,
-    "BAR": 4.41,
-    "StylePlus": "109",
-    "RatingScore": 3.77,
-    "AdjustedRating": "2.119393897728835168681174456"
   },
   {
     "BID": 4446219,
@@ -105,6 +75,36 @@
     "AdjustedRating": "2.1193908978413309500893716486"
   },
   {
+    "BID": 3503853,
+    "BeerName": "Villages Lake Shore Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "The Villages",
+    "Origin": "The Villages, FL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 23.73,
+    "BAR": 4.41,
+    "StylePlus": "101",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.119383773108508430933839981"
+  },
+  {
+    "BID": 4940386,
+    "BeerName": "Kaa",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Salvaje - Cerveza Hecha A Mano",
+    "Origin": "Panamá, Provincia de Panamá Panama",
+    "BeerAbv": 6.00,
+    "BeerIbu": 17.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940386_fa900_sm.jpeg",
+    "HallRating": 23.73,
+    "BAR": 4.41,
+    "StylePlus": "110",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.1193957726585253053010512106"
+  },
+  {
     "BID": 2428728,
     "BeerName": "Azacca IPA",
     "BeerStyle": "IPA - American",
@@ -118,21 +118,6 @@
     "StylePlus": "100",
     "RatingScore": 3.73,
     "AdjustedRating": "2.5343042043569119300993649109"
-  },
-  {
-    "BID": 6417109,
-    "BeerName": "Maisel's Weisse Original",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Brauerei Gebr. Maisel",
-    "Origin": "Bayreuth, Bayern Germany",
-    "BeerAbv": 5.10,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-35642_f357d_sm.jpeg",
-    "HallRating": 23.72,
-    "BAR": 17.14,
-    "StylePlus": "102",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.5007518657443582229167788"
   },
   {
     "BID": 5602950,
@@ -150,6 +135,21 @@
     "AdjustedRating": "2.6428178189786818720763882575"
   },
   {
+    "BID": 6417109,
+    "BeerName": "Maisel's Weisse Original",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Brauerei Gebr. Maisel",
+    "Origin": "Bayreuth, Bayern Germany",
+    "BeerAbv": 5.10,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-35642_f357d_sm.jpeg",
+    "HallRating": 23.72,
+    "BAR": 17.14,
+    "StylePlus": "102",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.5007518657443582229167788"
+  },
+  {
     "BID": 2004126,
     "BeerName": "Otra Vez with Cactus and Grapefruit",
     "BeerStyle": "Sour - Fruited Gose",
@@ -165,21 +165,6 @@
     "AdjustedRating": "2.4763123554184708464321727267"
   },
   {
-    "BID": 6141854,
-    "BeerName": "Head Hunter",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Fat Head’s Brewery",
-    "Origin": "Middleburg Heights, OH United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 75.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11845_01796_sm.jpeg",
-    "HallRating": 23.70,
-    "BAR": 17.13,
-    "StylePlus": "106",
-    "RatingScore": 3.94,
-    "AdjustedRating": "2.5850716750853496311593596219"
-  },
-  {
     "BID": 3950942,
     "BeerName": "Jaipur",
     "BeerStyle": "IPA - American",
@@ -193,6 +178,21 @@
     "StylePlus": "95",
     "RatingScore": 3.53,
     "AdjustedRating": "2.4788178869694649520392404521"
+  },
+  {
+    "BID": 6141854,
+    "BeerName": "Head Hunter",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Fat Head’s Brewery",
+    "Origin": "Middleburg Heights, OH United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 75.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11845_01796_sm.jpeg",
+    "HallRating": 23.70,
+    "BAR": 17.13,
+    "StylePlus": "106",
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.5850716750853496311593596219"
   },
   {
     "BID": 2008355,
@@ -240,21 +240,6 @@
     "AdjustedRating": "2.5422581602485358697816295328"
   },
   {
-    "BID": 1750434,
-    "BeerName": "Headless Heron",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 29.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-852756_37597_sm.jpeg",
-    "HallRating": 23.64,
-    "BAR": 15.29,
-    "StylePlus": "114",
-    "RatingScore": 3.95,
-    "AdjustedRating": "2.1724971113980833276694080065"
-  },
-  {
     "BID": 1901994,
     "BeerName": "Blood Orange Gose",
     "BeerStyle": "Sour - Fruited Gose",
@@ -268,6 +253,21 @@
     "StylePlus": "97",
     "RatingScore": 3.70,
     "AdjustedRating": "2.5084324316174724566448933131"
+  },
+  {
+    "BID": 1750434,
+    "BeerName": "Headless Heron",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 29.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-852756_37597_sm.jpeg",
+    "HallRating": 23.64,
+    "BAR": 15.29,
+    "StylePlus": "114",
+    "RatingScore": 3.95,
+    "AdjustedRating": "2.1724971113980833276694080065"
   },
   {
     "BID": 1202461,
@@ -298,21 +298,6 @@
     "StylePlus": "103",
     "RatingScore": 3.84,
     "AdjustedRating": "2.5401416446645287765300456662"
-  },
-  {
-    "BID": 605225,
-    "BeerName": "Modus Hoperandi",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Ska Brewing",
-    "Origin": "Durango, CO United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 75.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5729_bc30f_sm.jpeg",
-    "HallRating": 23.61,
-    "BAR": 17.01,
-    "StylePlus": "100",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.5101201674071994202216665592"
   },
   {
     "BID": 4810079,
@@ -358,6 +343,21 @@
     "StylePlus": "112",
     "RatingScore": 3.79,
     "AdjustedRating": "2.5223761668193656448164861784"
+  },
+  {
+    "BID": 605225,
+    "BeerName": "Modus Hoperandi",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Ska Brewing",
+    "Origin": "Durango, CO United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 75.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5729_bc30f_sm.jpeg",
+    "HallRating": 23.61,
+    "BAR": 17.01,
+    "StylePlus": "100",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.5101201674071994202216665592"
   },
   {
     "BID": 4820174,

@@ -60,21 +60,6 @@
     "AdjustedRating": "2.6175867997011352891780559247"
   },
   {
-    "BID": 4605881,
-    "BeerName": "Harpoon IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Harpoon Brewery",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 42.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5928_9b695_sm.jpeg",
-    "HallRating": 24.17,
-    "BAR": 17.70,
-    "StylePlus": "94",
-    "RatingScore": 3.50,
-    "AdjustedRating": "2.5852277790568822353371838979"
-  },
-  {
     "BID": 5417857,
     "BeerName": "Hop Hunter",
     "BeerStyle": "IPA - American",
@@ -88,6 +73,21 @@
     "StylePlus": "101",
     "RatingScore": 3.77,
     "AdjustedRating": "2.6754996278547025406997657722"
+  },
+  {
+    "BID": 4605881,
+    "BeerName": "Harpoon IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Harpoon Brewery",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 42.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5928_9b695_sm.jpeg",
+    "HallRating": 24.17,
+    "BAR": 17.70,
+    "StylePlus": "94",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.5852277790568822353371838979"
   },
   {
     "BID": 6206401,
@@ -135,19 +135,19 @@
     "AdjustedRating": "2.5993239115109604216321460942"
   },
   {
-    "BID": 3805457,
-    "BeerName": "HopDevil IPA",
+    "BID": 6203912,
+    "BeerName": "Pernicious",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Victory Brewing Company",
-    "Origin": "Downingtown, PA United States",
-    "BeerAbv": 6.70,
+    "BreweryName": "Wicked Weed Brewing",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 7.30,
     "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3832_fe69a_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-883318_6a64c_sm.jpeg",
     "HallRating": 24.10,
     "BAR": 17.61,
-    "StylePlus": "98",
-    "RatingScore": 3.65,
-    "AdjustedRating": "2.6160897083011080977935986329"
+    "StylePlus": "106",
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.7100370711275871678165190296"
   },
   {
     "BID": 6611300,
@@ -165,19 +165,19 @@
     "AdjustedRating": "2.1806641677796766765760461097"
   },
   {
-    "BID": 6203912,
-    "BeerName": "Pernicious",
+    "BID": 3805457,
+    "BeerName": "HopDevil IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Wicked Weed Brewing",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 7.30,
+    "BreweryName": "Victory Brewing Company",
+    "Origin": "Downingtown, PA United States",
+    "BeerAbv": 6.70,
     "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-883318_6a64c_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3832_fe69a_sm.jpeg",
     "HallRating": 24.10,
     "BAR": 17.61,
-    "StylePlus": "106",
-    "RatingScore": 3.94,
-    "AdjustedRating": "2.7100370711275871678165190296"
+    "StylePlus": "98",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.6160897083011080977935986329"
   },
   {
     "BID": 2023022,
@@ -195,6 +195,21 @@
     "AdjustedRating": "2.6352272410593820837595625444"
   },
   {
+    "BID": 1214497,
+    "BeerName": "Rübæus",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4590_3e544_sm.jpeg",
+    "HallRating": 24.06,
+    "BAR": 17.56,
+    "StylePlus": "106",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.6327027073191562046289179264"
+  },
+  {
     "BID": 6420054,
     "BeerName": "Lagerbier Hell",
     "BeerStyle": "Lager - Helles",
@@ -208,6 +223,21 @@
     "StylePlus": "105",
     "RatingScore": 3.65,
     "AdjustedRating": "2.604915047093644491631020698"
+  },
+  {
+    "BID": 1215779,
+    "BeerName": "Neck Oil",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Beavertown",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 4.30,
+    "BeerIbu": 31.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-136656_7e75b_sm.jpeg",
+    "HallRating": 24.06,
+    "BAR": 17.57,
+    "StylePlus": "101",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.5997485524889007099453730794"
   },
   {
     "BID": 6017480,
@@ -240,34 +270,19 @@
     "AdjustedRating": "2.6482737783032326293794943902"
   },
   {
-    "BID": 1214497,
-    "BeerName": "Rübæus",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4590_3e544_sm.jpeg",
-    "HallRating": 24.06,
-    "BAR": 17.56,
-    "StylePlus": "106",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.6327027073191562046289179264"
-  },
-  {
-    "BID": 1215779,
-    "BeerName": "Neck Oil",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Beavertown",
-    "Origin": "London, Greater London England",
-    "BeerAbv": 4.30,
-    "BeerIbu": 31.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-136656_7e75b_sm.jpeg",
-    "HallRating": 24.06,
-    "BAR": 17.57,
-    "StylePlus": "101",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.5997485524889007099453730794"
+    "BID": 6012952,
+    "BeerName": "Hofbräu Oktoberfestbier",
+    "BeerStyle": "Festbier",
+    "BreweryName": "Staatliches Hofbräuhaus München",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 6.30,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-40139_2d691_sm.jpeg",
+    "HallRating": 24.04,
+    "BAR": 17.54,
+    "StylePlus": "98",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.5875413687261004509834182142"
   },
   {
     "BID": 3701168,
@@ -283,21 +298,6 @@
     "StylePlus": "101",
     "RatingScore": 3.58,
     "AdjustedRating": "2.5761579366047512933159917599"
-  },
-  {
-    "BID": 6012952,
-    "BeerName": "Hofbräu Oktoberfestbier",
-    "BeerStyle": "Festbier",
-    "BreweryName": "Staatliches Hofbräuhaus München",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 6.30,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-40139_2d691_sm.jpeg",
-    "HallRating": 24.04,
-    "BAR": 17.54,
-    "StylePlus": "98",
-    "RatingScore": 3.61,
-    "AdjustedRating": "2.5875413687261004509834182142"
   },
   {
     "BID": 4603376,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.5700988524541992847500341377"
   },
   {
-    "BID": 5208922,
-    "BeerName": "Brew Free! or Die",
+    "BID": 5012459,
+    "BeerName": "Focal Banger",
     "BeerStyle": "IPA - American",
-    "BreweryName": "21st Amendment Brewery",
-    "Origin": "San Francisco, CA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3985_67263_sm.jpeg",
+    "BreweryName": "The Alchemist",
+    "Origin": "Stowe, VT United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 90.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-45458_e3a3c_sm.jpeg",
     "HallRating": 24.00,
     "BAR": 17.49,
-    "StylePlus": "101",
-    "RatingScore": 3.75,
-    "AdjustedRating": "2.619034825353065099222346485"
+    "StylePlus": "118",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.813957133139914210752807585"
   }
 ]

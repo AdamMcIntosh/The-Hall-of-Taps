@@ -180,21 +180,6 @@
     "AdjustedRating": "2.1194645794481303528305943173"
   },
   {
-    "BID": 6613958,
-    "BeerName": "In All Seriousness",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "112",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1194634795086270255135967522"
-  },
-  {
     "BID": 6605126,
     "BeerName": "Side-Poured Guinness",
     "BeerStyle": "Stout - Irish Dry",
@@ -208,6 +193,21 @@
     "StylePlus": "132",
     "RatingScore": 4.82,
     "AdjustedRating": "2.1194805285709285989270590118"
+  },
+  {
+    "BID": 2412357,
+    "BeerName": "Helligen Herman",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Brouwerij Herman",
+    "Origin": "Enschede, Overijssel Netherlands",
+    "BeerAbv": 5.50,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2412357_5eaad_sm.jpeg",
+    "HallRating": 30.07,
+    "BAR": 6.71,
+    "StylePlus": "131",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1194667793271370074645894476"
   },
   {
     "BID": 5805024,
@@ -225,6 +225,21 @@
     "AdjustedRating": "2.119470079145646989415582143"
   },
   {
+    "BID": 6613958,
+    "BeerName": "In All Seriousness",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Troon Brewing",
+    "Origin": "Hopewell, NJ United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
+    "HallRating": 30.07,
+    "BAR": 6.71,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1194634795086270255135967522"
+  },
+  {
     "BID": 6407256,
     "BeerName": "Rye Barrel-Aged Vietnamese Speedway Stout",
     "BeerStyle": "Stout - Russian Imperial",
@@ -238,21 +253,6 @@
     "StylePlus": "113",
     "RatingScore": 4.54,
     "AdjustedRating": "2.1455275288345500227511029339"
-  },
-  {
-    "BID": 2412357,
-    "BeerName": "Helligen Herman",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Brouwerij Herman",
-    "Origin": "Enschede, Overijssel Netherlands",
-    "BeerAbv": 5.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2412357_5eaad_sm.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "131",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1194667793271370074645894476"
   },
   {
     "BID": 6504806,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.1421271351244224790358341694"
   },
   {
-    "BID": 6610334,
-    "BeerName": "Barrel No. 5",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "River North Brewery",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 25.80,
+    "BID": 3336981,
+    "BeerName": "Craft Root Beer",
+    "BeerStyle": "Root Beer",
+    "BreweryName": "Erie Brewing Company",
+    "Origin": "Erie, PA United States",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6610222_a8471_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3336981_367c7_sm.jpeg",
     "HallRating": 29.78,
     "BAR": 6.90,
     "StylePlus": "118",
-    "RatingScore": 4.78,
-    "AdjustedRating": "2.1194916305021698698078115313"
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1194772313661180329180249185"
   }
 ]
