@@ -1,18 +1,33 @@
 [
   {
-    "BID": 5602100,
-    "BeerName": "Caribbean Rum Cask",
-    "BeerStyle": "Scottish Export Ale",
-    "BreweryName": "Innis & Gunn",
-    "Origin": "Edinburgh, Scotland",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13131_0bbc0_sm.jpeg",
+    "BID": 6105233,
+    "BeerName": "Prior 8",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "Brouwerij St. Bernardus",
+    "Origin": "Poperinge, Vlaams Gewest Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-475_0a4ba_sm.jpeg",
     "HallRating": 17.75,
     "BAR": 12.81,
-    "StylePlus": "99",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.4875171669315421751776664967"
+    "StylePlus": "102",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.5143759915091190711036270013"
+  },
+  {
+    "BID": 5408990,
+    "BeerName": "Peanut Butter Milk Stout",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Belching Beaver Brewery",
+    "Origin": "Oceanside, CA United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-638512_4dfc5_sm.jpeg",
+    "HallRating": 17.75,
+    "BAR": 12.80,
+    "StylePlus": "105",
+    "RatingScore": 3.99,
+    "AdjustedRating": "2.5845288845145342940217432137"
   },
   {
     "BID": 4701043,
@@ -30,19 +45,19 @@
     "AdjustedRating": "2.4765152609394608445430722219"
   },
   {
-    "BID": 5212401,
-    "BeerName": "Black Chocolate Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Brooklyn Brewery",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 51.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-37235_fdc9c_sm.jpeg",
-    "HallRating": 17.75,
-    "BAR": 12.81,
-    "StylePlus": "96",
-    "RatingScore": 3.84,
-    "AdjustedRating": "2.5492803843651018391240016278"
+    "BID": 2105969,
+    "BeerName": "Undercover Investigation Shut-Down Ale",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 9.70,
+    "BeerIbu": 66.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-201_b938d_sm.jpeg",
+    "HallRating": 17.74,
+    "BAR": 12.79,
+    "StylePlus": "101",
+    "RatingScore": 3.86,
+    "AdjustedRating": "2.5486610830591439263671959605"
   },
   {
     "BID": 814949,
@@ -60,36 +75,6 @@
     "AdjustedRating": "2.4949061707523245984784446323"
   },
   {
-    "BID": 2208505,
-    "BeerName": "Moose Drool Brown Ale",
-    "BeerStyle": "Brown Ale - American",
-    "BreweryName": "Big Sky Brewing Company",
-    "Origin": "Missoula, MT United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-MooseDroolBrownAle_3762.jpeg",
-    "HallRating": 17.74,
-    "BAR": 12.79,
-    "StylePlus": "100",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.4948820274745238458309094982"
-  },
-  {
-    "BID": 2105969,
-    "BeerName": "Undercover Investigation Shut-Down Ale",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Lagunitas Brewing Company",
-    "Origin": "Petaluma, CA United States",
-    "BeerAbv": 9.70,
-    "BeerIbu": 66.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-201_b938d_sm.jpeg",
-    "HallRating": 17.74,
-    "BAR": 12.79,
-    "StylePlus": "101",
-    "RatingScore": 3.86,
-    "AdjustedRating": "2.5486610830591439263671959605"
-  },
-  {
     "BID": 5212576,
     "BeerName": "Oatmeal Stout",
     "BeerStyle": "Stout - Oatmeal",
@@ -103,6 +88,21 @@
     "StylePlus": "102",
     "RatingScore": 3.80,
     "AdjustedRating": "2.5346678035072661806861322387"
+  },
+  {
+    "BID": 2208505,
+    "BeerName": "Moose Drool Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Big Sky Brewing Company",
+    "Origin": "Missoula, MT United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-MooseDroolBrownAle_3762.jpeg",
+    "HallRating": 17.74,
+    "BAR": 12.79,
+    "StylePlus": "100",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.4948820274745238458309094982"
   },
   {
     "BID": 4018080,
@@ -150,21 +150,6 @@
     "AdjustedRating": "2.5416839488194249259134200931"
   },
   {
-    "BID": 6417445,
-    "BeerName": "(Oktober) Fest-Märzen",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Ayinger Privatbrauerei",
-    "Origin": "Aying, Bayern Germany",
-    "BeerAbv": 5.80,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5964_14f6c_sm.jpeg",
-    "HallRating": 17.72,
-    "BAR": 12.77,
-    "StylePlus": "105",
-    "RatingScore": 3.81,
-    "AdjustedRating": "2.5295449743063471085646771915"
-  },
-  {
     "BID": 2548986,
     "BeerName": "Trippel",
     "BeerStyle": "Belgian Tripel",
@@ -178,6 +163,21 @@
     "StylePlus": "98",
     "RatingScore": 3.60,
     "AdjustedRating": "2.4789485041092986367955420451"
+  },
+  {
+    "BID": 3809586,
+    "BeerName": "Hop Bullet",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Sierra Nevada Brewing Co.",
+    "Origin": "Chico, CA United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2127800_2db04_sm.jpeg",
+    "HallRating": 17.72,
+    "BAR": 12.77,
+    "StylePlus": "97",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.5188421080502464283958135541"
   },
   {
     "BID": 4305068,
@@ -195,19 +195,19 @@
     "AdjustedRating": "2.5217489851855078997365175999"
   },
   {
-    "BID": 3809586,
-    "BeerName": "Hop Bullet",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Sierra Nevada Brewing Co.",
-    "Origin": "Chico, CA United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2127800_2db04_sm.jpeg",
+    "BID": 6417445,
+    "BeerName": "(Oktober) Fest-Märzen",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Ayinger Privatbrauerei",
+    "Origin": "Aying, Bayern Germany",
+    "BeerAbv": 5.80,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5964_14f6c_sm.jpeg",
     "HallRating": 17.72,
     "BAR": 12.77,
-    "StylePlus": "97",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.5188421080502464283958135541"
+    "StylePlus": "105",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.5295449743063471085646771915"
   },
   {
     "BID": 5401843,
@@ -255,6 +255,21 @@
     "AdjustedRating": "2.4770951118796000318518434254"
   },
   {
+    "BID": 6102626,
+    "BeerName": "Haze",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 90.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-718853_2ceb8_sm.jpeg",
+    "HallRating": 17.69,
+    "BAR": 12.74,
+    "StylePlus": "111",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.6742733441921320755436710623"
+  },
+  {
     "BID": 6010597,
     "BeerName": "Mc Chouffe",
     "BeerStyle": "Brown Ale - Belgian",
@@ -300,21 +315,6 @@
     "AdjustedRating": "2.4906794895731328611110052696"
   },
   {
-    "BID": 6102626,
-    "BeerName": "Haze",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 90.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-718853_2ceb8_sm.jpeg",
-    "HallRating": 17.69,
-    "BAR": 12.74,
-    "StylePlus": "111",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.6742733441921320755436710623"
-  },
-  {
     "BID": 5210585,
     "BeerName": "White",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
@@ -330,21 +330,6 @@
     "AdjustedRating": "2.4567520968263783725832173482"
   },
   {
-    "BID": 5003522,
-    "BeerName": "Kwaremont",
-    "BeerStyle": "Belgian Blonde",
-    "BreweryName": "Brouwerij De Brabandere",
-    "Origin": "Harelbeke, Vlaams Gewest Belgium",
-    "BeerAbv": 6.60,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26918_f6aa1_sm.jpeg",
-    "HallRating": 17.67,
-    "BAR": 12.72,
-    "StylePlus": "100",
-    "RatingScore": 3.50,
-    "AdjustedRating": "2.442446362779867180378849969"
-  },
-  {
     "BID": 2824583,
     "BeerName": "Coconut Hiwa",
     "BeerStyle": "Porter - American",
@@ -358,6 +343,21 @@
     "StylePlus": "100",
     "RatingScore": 3.74,
     "AdjustedRating": "2.4967631631938784316357743535"
+  },
+  {
+    "BID": 5003522,
+    "BeerName": "Kwaremont",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Brouwerij De Brabandere",
+    "Origin": "Harelbeke, Vlaams Gewest Belgium",
+    "BeerAbv": 6.60,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26918_f6aa1_sm.jpeg",
+    "HallRating": 17.67,
+    "BAR": 12.72,
+    "StylePlus": "100",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.442446362779867180378849969"
   },
   {
     "BID": 3607105,

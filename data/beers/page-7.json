@@ -345,21 +345,6 @@
     "AdjustedRating": "2.1266613492192076172434850883"
   },
   {
-    "BID": 6010670,
-    "BeerName": "The Statement Reserve (Batch 7)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
-    "HallRating": 28.47,
-    "BAR": 8.06,
-    "StylePlus": "115",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.1195913668848942983344207219"
-  },
-  {
     "BID": 3347932,
     "BeerName": "Mark Your Nutz",
     "BeerStyle": "Stout - Other",
@@ -373,5 +358,20 @@
     "StylePlus": "127",
     "RatingScore": 4.68,
     "AdjustedRating": "2.1195944415697391017420714377"
+  },
+  {
+    "BID": 6010670,
+    "BeerName": "The Statement Reserve (Batch 7)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
+    "HallRating": 28.47,
+    "BAR": 8.06,
+    "StylePlus": "115",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.1195913668848942983344207219"
   }
 ]

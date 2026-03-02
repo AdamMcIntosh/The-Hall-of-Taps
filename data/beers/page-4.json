@@ -180,21 +180,6 @@
     "AdjustedRating": "2.1194645794481303528305943173"
   },
   {
-    "BID": 2412357,
-    "BeerName": "Helligen Herman",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Brouwerij Herman",
-    "Origin": "Enschede, Overijssel Netherlands",
-    "BeerAbv": 5.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2412357_5eaad_sm.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "131",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1194667793271370074645894476"
-  },
-  {
     "BID": 6613958,
     "BeerName": "In All Seriousness",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -210,19 +195,19 @@
     "AdjustedRating": "2.1194634795086270255135967522"
   },
   {
-    "BID": 6407256,
-    "BeerName": "Rye Barrel-Aged Vietnamese Speedway Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "AleSmith Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 13.00,
+    "BID": 6605126,
+    "BeerName": "Side-Poured Guinness",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Queue Beer",
+    "Origin": "Kings County, NY United States",
+    "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2044570_1c4b8_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605126_24654_sm.jpeg",
     "HallRating": 30.07,
-    "BAR": 18.21,
-    "StylePlus": "113",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1455275288345500227511029339"
+    "BAR": 6.71,
+    "StylePlus": "132",
+    "RatingScore": 4.82,
+    "AdjustedRating": "2.1194805285709285989270590118"
   },
   {
     "BID": 5805024,
@@ -240,19 +225,34 @@
     "AdjustedRating": "2.119470079145646989415582143"
   },
   {
-    "BID": 6605126,
-    "BeerName": "Side-Poured Guinness",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Queue Beer",
-    "Origin": "Kings County, NY United States",
-    "BeerAbv": 4.20,
+    "BID": 6407256,
+    "BeerName": "Rye Barrel-Aged Vietnamese Speedway Stout",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "AleSmith Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 13.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605126_24654_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2044570_1c4b8_sm.jpeg",
+    "HallRating": 30.07,
+    "BAR": 18.21,
+    "StylePlus": "113",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1455275288345500227511029339"
+  },
+  {
+    "BID": 2412357,
+    "BeerName": "Helligen Herman",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Brouwerij Herman",
+    "Origin": "Enschede, Overijssel Netherlands",
+    "BeerAbv": 5.50,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2412357_5eaad_sm.jpeg",
     "HallRating": 30.07,
     "BAR": 6.71,
-    "StylePlus": "132",
-    "RatingScore": 4.82,
-    "AdjustedRating": "2.1194805285709285989270590118"
+    "StylePlus": "131",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1194667793271370074645894476"
   },
   {
     "BID": 6504806,

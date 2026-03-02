@@ -15,6 +15,21 @@
     "AdjustedRating": "2.1174968681023683111614866074"
   },
   {
+    "BID": 3017714,
+    "BeerName": "Bavaria",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Heineken Brasil",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-42233_367df_sm.jpeg",
+    "HallRating": 7.29,
+    "BAR": 4.17,
+    "StylePlus": "51",
+    "RatingScore": 1.76,
+    "AdjustedRating": "2.1174011403393168407677522186"
+  },
+  {
     "BID": 6400714,
     "BeerName": "Dog Beer (chicken)",
     "BeerStyle": "Non-Alcoholic - Other",
@@ -43,21 +58,6 @@
     "StylePlus": "73",
     "RatingScore": 1.98,
     "AdjustedRating": "2.1193215508836837237207209459"
-  },
-  {
-    "BID": 3017714,
-    "BeerName": "Bavaria",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Heineken Brasil",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-42233_367df_sm.jpeg",
-    "HallRating": 7.29,
-    "BAR": 4.17,
-    "StylePlus": "51",
-    "RatingScore": 1.76,
-    "AdjustedRating": "2.1174011403393168407677522186"
   },
   {
     "BID": 1801598,
@@ -90,21 +90,6 @@
     "AdjustedRating": "2.1193491004447155345460726794"
   },
   {
-    "BID": 30653,
-    "BeerName": "Freiberger Alkoholfrei",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Freiberger Brauhaus",
-    "Origin": "Freiberg, Sachsen Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1662384_d6250_sm.jpeg",
-    "HallRating": 7.24,
-    "BAR": 4.07,
-    "StylePlus": "88",
-    "RatingScore": 2.36,
-    "AdjustedRating": "2.1204161170702570866827605087"
-  },
-  {
     "BID": 5501080,
     "BeerName": "Motörhead No Class",
     "BeerStyle": "Non-Alcoholic - Lager",
@@ -118,6 +103,21 @@
     "StylePlus": "88",
     "RatingScore": 2.37,
     "AdjustedRating": "2.1204648894021144006211798435"
+  },
+  {
+    "BID": 30653,
+    "BeerName": "Freiberger Alkoholfrei",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Freiberger Brauhaus",
+    "Origin": "Freiberg, Sachsen Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1662384_d6250_sm.jpeg",
+    "HallRating": 7.24,
+    "BAR": 4.07,
+    "StylePlus": "88",
+    "RatingScore": 2.36,
+    "AdjustedRating": "2.1204161170702570866827605087"
   },
   {
     "BID": 5201756,
@@ -165,21 +165,6 @@
     "AdjustedRating": "2.120542655344023621204312961"
   },
   {
-    "BID": 5902925,
-    "BeerName": "Saer Brau Sin",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "H-West B.V.",
-    "Origin": "De Meern, Utrecht Netherlands",
-    "BeerAbv": 0.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4066_2e493.jpeg",
-    "HallRating": 7.21,
-    "BAR": 1.91,
-    "StylePlus": "83",
-    "RatingScore": 2.24,
-    "AdjustedRating": "2.1193422559082477989370903473"
-  },
-  {
     "BID": 28691,
     "BeerName": "Frugal Joe's Ordinary Beer",
     "BeerStyle": "Lager - American",
@@ -193,6 +178,21 @@
     "StylePlus": "69",
     "RatingScore": 2.38,
     "AdjustedRating": "2.119354154896833769129623982"
+  },
+  {
+    "BID": 5902925,
+    "BeerName": "Saer Brau Sin",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "H-West B.V.",
+    "Origin": "De Meern, Utrecht Netherlands",
+    "BeerAbv": 0.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4066_2e493.jpeg",
+    "HallRating": 7.21,
+    "BAR": 1.91,
+    "StylePlus": "83",
+    "RatingScore": 2.24,
+    "AdjustedRating": "2.1193422559082477989370903473"
   },
   {
     "BID": 4024657,
@@ -255,21 +255,6 @@
     "AdjustedRating": "2.1196601114356055697867971732"
   },
   {
-    "BID": 301421,
-    "BeerName": "Svijanský Vozka",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Svijany",
-    "Origin": "Svijany, Liberecký kraj Czech Republic",
-    "BeerAbv": 0.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-301421_eef7b_sm.jpeg",
-    "HallRating": 7.13,
-    "BAR": 3.85,
-    "StylePlus": "91",
-    "RatingScore": 2.45,
-    "AdjustedRating": "2.1203284323133329511551336087"
-  },
-  {
     "BID": 5804992,
     "BeerName": "Royal 0,0 Classic",
     "BeerStyle": "Non-Alcoholic - Lager",
@@ -285,19 +270,19 @@
     "AdjustedRating": "2.1197485468159566088716511959"
   },
   {
-    "BID": 5504243,
-    "BeerName": "Alexander Bohemian Non-alcoholic",
+    "BID": 301421,
+    "BeerName": "Svijanský Vozka",
     "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "A. Le Coq",
-    "Origin": "Tartu, Tartu maakond Estonia",
-    "BeerAbv": 0.00,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4692751_80fdf_sm.jpeg",
-    "HallRating": 7.12,
-    "BAR": 3.83,
+    "BreweryName": "Svijany",
+    "Origin": "Svijany, Liberecký kraj Czech Republic",
+    "BeerAbv": 0.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-301421_eef7b_sm.jpeg",
+    "HallRating": 7.13,
+    "BAR": 3.85,
     "StylePlus": "91",
-    "RatingScore": 2.46,
-    "AdjustedRating": "2.1203179272162548203838359163"
+    "RatingScore": 2.45,
+    "AdjustedRating": "2.1203284323133329511551336087"
   },
   {
     "BID": 5016889,
@@ -313,6 +298,21 @@
     "StylePlus": "85",
     "RatingScore": 2.39,
     "AdjustedRating": "2.1201025571991962945789770206"
+  },
+  {
+    "BID": 5504243,
+    "BeerName": "Alexander Bohemian Non-alcoholic",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "A. Le Coq",
+    "Origin": "Tartu, Tartu maakond Estonia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4692751_80fdf_sm.jpeg",
+    "HallRating": 7.12,
+    "BAR": 3.83,
+    "StylePlus": "91",
+    "RatingScore": 2.46,
+    "AdjustedRating": "2.1203179272162548203838359163"
   },
   {
     "BID": 302414,
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.1200244323224667670552569383"
   },
   {
-    "BID": 2002708,
-    "BeerName": "Antarctica Cristal",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "AmBev",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-74548_252b4_sm.jpeg",
-    "HallRating": 7.10,
-    "BAR": 3.79,
-    "StylePlus": "68",
-    "RatingScore": 2.35,
-    "AdjustedRating": "2.1199565679181023521140104616"
-  },
-  {
     "BID": 3350662,
     "BeerName": "Hefeweizen Ingwer",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -373,5 +358,20 @@
     "StylePlus": "64",
     "RatingScore": 2.22,
     "AdjustedRating": "2.1196023207513769176492294497"
+  },
+  {
+    "BID": 2002708,
+    "BeerName": "Antarctica Cristal",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "AmBev",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-74548_252b4_sm.jpeg",
+    "HallRating": 7.10,
+    "BAR": 3.79,
+    "StylePlus": "68",
+    "RatingScore": 2.35,
+    "AdjustedRating": "2.1199565679181023521140104616"
   }
 ]

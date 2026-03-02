@@ -75,21 +75,6 @@
     "AdjustedRating": "2.4517102713082966545398738"
   },
   {
-    "BID": 1500486,
-    "BeerName": "Hoptical Illusion",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Blue Point Brewing Company",
-    "Origin": "Patchogue, NY United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4947_74fe0_sm.jpeg",
-    "HallRating": 23.41,
-    "BAR": 16.76,
-    "StylePlus": "96",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.4290731012271028295594033809"
-  },
-  {
     "BID": 6207303,
     "BeerName": "Bayreuther Hell",
     "BeerStyle": "Lager - Helles",
@@ -103,6 +88,21 @@
     "StylePlus": "101",
     "RatingScore": 3.52,
     "AdjustedRating": "2.4140683218779238929179118914"
+  },
+  {
+    "BID": 1500486,
+    "BeerName": "Hoptical Illusion",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Blue Point Brewing Company",
+    "Origin": "Patchogue, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4947_74fe0_sm.jpeg",
+    "HallRating": 23.41,
+    "BAR": 16.76,
+    "StylePlus": "96",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.4290731012271028295594033809"
   },
   {
     "BID": 1672224,
@@ -165,21 +165,6 @@
     "AdjustedRating": "2.1581549166819263871085881707"
   },
   {
-    "BID": 3805890,
-    "BeerName": "Avery IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Avery Brewing Co.",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 69.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10773_e0d40_sm.jpeg",
-    "HallRating": 23.37,
-    "BAR": 16.71,
-    "StylePlus": "97",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.4263030958668745426198733654"
-  },
-  {
     "BID": 6419213,
     "BeerName": "IPA",
     "BeerStyle": "IPA - American",
@@ -210,6 +195,21 @@
     "AdjustedRating": "2.4136089780631991151409003084"
   },
   {
+    "BID": 3805890,
+    "BeerName": "Avery IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Avery Brewing Co.",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 69.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10773_e0d40_sm.jpeg",
+    "HallRating": 23.37,
+    "BAR": 16.71,
+    "StylePlus": "97",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.4263030958668745426198733654"
+  },
+  {
     "BID": 5301663,
     "BeerName": "Hop Gun IPA",
     "BeerStyle": "IPA - American",
@@ -223,6 +223,21 @@
     "StylePlus": "100",
     "RatingScore": 3.74,
     "AdjustedRating": "2.4504446734274108524664515641"
+  },
+  {
+    "BID": 6503101,
+    "BeerName": "Blizzard of Hops",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Tröegs Independent Brewing",
+    "Origin": "Hershey, PA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-533372_e6293_sm.jpeg",
+    "HallRating": 23.35,
+    "BAR": 16.69,
+    "StylePlus": "101",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.4521451048149720300763866884"
   },
   {
     "BID": 3349533,
@@ -255,21 +270,6 @@
     "AdjustedRating": "2.4122257338505004070296413351"
   },
   {
-    "BID": 6503101,
-    "BeerName": "Blizzard of Hops",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tröegs Independent Brewing",
-    "Origin": "Hershey, PA United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-533372_e6293_sm.jpeg",
-    "HallRating": 23.35,
-    "BAR": 16.69,
-    "StylePlus": "101",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.4521451048149720300763866884"
-  },
-  {
     "BID": 2006165,
     "BeerName": "Dayglow IPA",
     "BeerStyle": "IPA - American",
@@ -283,36 +283,6 @@
     "StylePlus": "101",
     "RatingScore": 3.75,
     "AdjustedRating": "2.4474871000207677684234068725"
-  },
-  {
-    "BID": 2021930,
-    "BeerName": "Apocalypse IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "10 Barrel Brewing Co.",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12786_f0066_sm.jpeg",
-    "HallRating": 23.33,
-    "BAR": 16.66,
-    "StylePlus": "100",
-    "RatingScore": 3.72,
-    "AdjustedRating": "2.4381658201416236063368255411"
-  },
-  {
-    "BID": 3202765,
-    "BeerName": "Breaking Bud",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Knee Deep Brewing Company",
-    "Origin": "Auburn, CA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-929842_66b44_sm.jpeg",
-    "HallRating": 23.33,
-    "BAR": 16.66,
-    "StylePlus": "104",
-    "RatingScore": 3.89,
-    "AdjustedRating": "2.4723030885325967293180407935"
   },
   {
     "BID": 2826684,
@@ -330,6 +300,21 @@
     "AdjustedRating": "2.4460938820128213855264896552"
   },
   {
+    "BID": 3202765,
+    "BeerName": "Breaking Bud",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Knee Deep Brewing Company",
+    "Origin": "Auburn, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-929842_66b44_sm.jpeg",
+    "HallRating": 23.33,
+    "BAR": 16.66,
+    "StylePlus": "104",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.4723030885325967293180407935"
+  },
+  {
     "BID": 4700213,
     "BeerName": "Floridian",
     "BeerStyle": "Wheat Beer - Hefeweizen",
@@ -345,33 +330,48 @@
     "AdjustedRating": "2.4156456218654764475799678449"
   },
   {
-    "BID": 6350728,
-    "BeerName": "Oro Grande Mexican Corn Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Distant West Brewing Company",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-550259_9776c.jpeg",
-    "HallRating": 23.30,
-    "BAR": 4.61,
-    "StylePlus": "110",
-    "RatingScore": 3.81,
-    "AdjustedRating": "2.1194038503363607046700515228"
+    "BID": 2021930,
+    "BeerName": "Apocalypse IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "10 Barrel Brewing Co.",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-12786_f0066_sm.jpeg",
+    "HallRating": 23.33,
+    "BAR": 16.66,
+    "StylePlus": "100",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.4381658201416236063368255411"
   },
   {
-    "BID": 4445611,
-    "BeerName": "Open Market Nordic Style White Ale W/ Guava",
-    "BeerStyle": "Traditional Ale",
-    "BreweryName": "Platform Beer Company",
-    "Origin": "Cleveland, OH United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-139979_fafe0.jpeg",
+    "BID": 1604306,
+    "BeerName": "Inversion IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Deschutes Brewery",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-423_42d04_sm.jpeg",
+    "HallRating": 23.30,
+    "BAR": 16.62,
+    "StylePlus": "97",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.4115916109368646097974401198"
+  },
+  {
+    "BID": 4631031,
+    "BeerName": "Lunch Lady Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Blue Monkey Brewing Co.",
+    "Origin": "North Royalton, OH United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-456761_23714.jpeg",
     "HallRating": 23.30,
     "BAR": 4.61,
-    "StylePlus": "106",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.119399175535039760810165568"
+    "StylePlus": "104",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.1193953506975953521975316049"
   }
 ]

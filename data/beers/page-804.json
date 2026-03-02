@@ -1,20 +1,5 @@
 [
   {
-    "BID": 2007237,
-    "BeerName": "Icelandic Toasted Porter",
-    "BeerStyle": "Porter - Baltic",
-    "BreweryName": "Einstök Ölgerð",
-    "Origin": "Akureyri, Akureyrarbær Iceland",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-ToastedPorter_107027.jpeg",
-    "HallRating": 17.61,
-    "BAR": 12.64,
-    "StylePlus": "99",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.4826738188570249638951929028"
-  },
-  {
     "BID": 6207656,
     "BeerName": "Eliot Ness Amber Lager",
     "BeerStyle": "Lager - American Amber / Red",
@@ -28,21 +13,6 @@
     "StylePlus": "103",
     "RatingScore": 3.59,
     "AdjustedRating": "2.4447693349971868934543196273"
-  },
-  {
-    "BID": 1812920,
-    "BeerName": "Moon Man",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "New Glarus Brewing Company",
-    "Origin": "New Glarus, WI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7832_7b254_sm.jpeg",
-    "HallRating": 17.61,
-    "BAR": 12.64,
-    "StylePlus": "106",
-    "RatingScore": 3.83,
-    "AdjustedRating": "2.4972966619468957605810187304"
   },
   {
     "BID": 5018729,
@@ -75,6 +45,36 @@
     "AdjustedRating": "2.4857578402643556331442109857"
   },
   {
+    "BID": 1812920,
+    "BeerName": "Moon Man",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "New Glarus Brewing Company",
+    "Origin": "New Glarus, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7832_7b254_sm.jpeg",
+    "HallRating": 17.61,
+    "BAR": 12.64,
+    "StylePlus": "106",
+    "RatingScore": 3.83,
+    "AdjustedRating": "2.4972966619468957605810187304"
+  },
+  {
+    "BID": 3504521,
+    "BeerName": "Best Brown Ale",
+    "BeerStyle": "Brown Ale - American",
+    "BreweryName": "Bell’s Brewery",
+    "Origin": "Comstock, MI United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 34.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7230_76e23_sm.jpeg",
+    "HallRating": 17.61,
+    "BAR": 12.64,
+    "StylePlus": "101",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.465980455188375980455188376"
+  },
+  {
     "BID": 3401950,
     "BeerName": "Zeezuiper",
     "BeerStyle": "Belgian Tripel",
@@ -88,21 +88,6 @@
     "StylePlus": "100",
     "RatingScore": 3.65,
     "AdjustedRating": "2.4574590875979229238002859291"
-  },
-  {
-    "BID": 6032605,
-    "BeerName": "Tongerlo Blond - Blonde",
-    "BeerStyle": "Belgian Blonde",
-    "BreweryName": "Brouwerij Haacht Brasserie",
-    "Origin": "Boortmeerbeek, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4717_3a3d2_sm.jpeg",
-    "HallRating": 17.61,
-    "BAR": 12.64,
-    "StylePlus": "100",
-    "RatingScore": 3.51,
-    "AdjustedRating": "2.4273215411804090403045614144"
   },
   {
     "BID": 5023407,
@@ -120,6 +105,21 @@
     "AdjustedRating": "2.4510870335679206116146017923"
   },
   {
+    "BID": 6032605,
+    "BeerName": "Tongerlo Blond - Blonde",
+    "BeerStyle": "Belgian Blonde",
+    "BreweryName": "Brouwerij Haacht Brasserie",
+    "Origin": "Boortmeerbeek, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4717_3a3d2_sm.jpeg",
+    "HallRating": 17.61,
+    "BAR": 12.64,
+    "StylePlus": "100",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.4273215411804090403045614144"
+  },
+  {
     "BID": 4818831,
     "BeerName": "Dortmunder Gold Lager",
     "BeerStyle": "Lager - Dortmunder / Export",
@@ -133,36 +133,6 @@
     "StylePlus": "104",
     "RatingScore": 3.56,
     "AdjustedRating": "2.4378751825528186155194236199"
-  },
-  {
-    "BID": 1550068,
-    "BeerName": "Guinness Original Extra Stout (Canada / USA)",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Guinness",
-    "Origin": "Dublin, County Dublin Ireland",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-980458_36a3b_sm.jpeg",
-    "HallRating": 17.60,
-    "BAR": 12.62,
-    "StylePlus": "99",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.4468676259920770639404783077"
-  },
-  {
-    "BID": 3407452,
-    "BeerName": "Kalamazoo Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Bell’s Brewery",
-    "Origin": "Comstock, MI United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4134_5b549_sm.jpeg",
-    "HallRating": 17.60,
-    "BAR": 12.63,
-    "StylePlus": "99",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.4747230029354818562238461058"
   },
   {
     "BID": 1411870,
@@ -180,6 +150,21 @@
     "AdjustedRating": "2.4317438635769700326469796668"
   },
   {
+    "BID": 3407452,
+    "BeerName": "Kalamazoo Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Bell’s Brewery",
+    "Origin": "Comstock, MI United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4134_5b549_sm.jpeg",
+    "HallRating": 17.60,
+    "BAR": 12.63,
+    "StylePlus": "99",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.4747230029354818562238461058"
+  },
+  {
     "BID": 3020805,
     "BeerName": "Peeper",
     "BeerStyle": "Pale Ale - American",
@@ -193,6 +178,21 @@
     "StylePlus": "106",
     "RatingScore": 3.83,
     "AdjustedRating": "2.4939972665592814955825645531"
+  },
+  {
+    "BID": 1550068,
+    "BeerName": "Guinness Original Extra Stout (Canada / USA)",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Guinness",
+    "Origin": "Dublin, County Dublin Ireland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-980458_36a3b_sm.jpeg",
+    "HallRating": 17.60,
+    "BAR": 12.62,
+    "StylePlus": "99",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.4468676259920770639404783077"
   },
   {
     "BID": 3003475,
@@ -225,21 +225,6 @@
     "AdjustedRating": "2.4727652162674984873317707324"
   },
   {
-    "BID": 4611597,
-    "BeerName": "Weihenstephaner Hefeweissbier Dunkel",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Bayerische Staatsbrauerei Weihenstephan",
-    "Origin": "Freising, Bayern Germany",
-    "BeerAbv": 5.30,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6273_4358a_sm.jpeg",
-    "HallRating": 17.59,
-    "BAR": 12.61,
-    "StylePlus": "106",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.4745475129961961397282061528"
-  },
-  {
     "BID": 2501400,
     "BeerName": "The Substance",
     "BeerStyle": "IPA - New England / Hazy",
@@ -253,36 +238,6 @@
     "StylePlus": "107",
     "RatingScore": 4.12,
     "AdjustedRating": "2.5551687889121797077871288678"
-  },
-  {
-    "BID": 6301106,
-    "BeerName": "Curieux",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Allagash Brewing Company",
-    "Origin": "Portland, ME United States",
-    "BeerAbv": 10.20,
-    "BeerIbu": 27.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6732_b3ca6_sm.jpeg",
-    "HallRating": 17.59,
-    "BAR": 12.61,
-    "StylePlus": "110",
-    "RatingScore": 4.04,
-    "AdjustedRating": "2.5363298155513105564776250274"
-  },
-  {
-    "BID": 6404007,
-    "BeerName": "Kasteel Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Kasteel Brouwerij Vanhonsebrouck",
-    "Origin": "Izegem, Vlaams Gewest Belgium",
-    "BeerAbv": 11.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8782_370b1_sm.jpeg",
-    "HallRating": 17.59,
-    "BAR": 12.61,
-    "StylePlus": "99",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.4470805380295090118572432546"
   },
   {
     "BID": 4415633,
@@ -313,6 +268,51 @@
     "StylePlus": "99",
     "RatingScore": 3.43,
     "AdjustedRating": "2.4027502155341327690257857199"
+  },
+  {
+    "BID": 4611597,
+    "BeerName": "Weihenstephaner Hefeweissbier Dunkel",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Bayerische Staatsbrauerei Weihenstephan",
+    "Origin": "Freising, Bayern Germany",
+    "BeerAbv": 5.30,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6273_4358a_sm.jpeg",
+    "HallRating": 17.59,
+    "BAR": 12.61,
+    "StylePlus": "106",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.4745475129961961397282061528"
+  },
+  {
+    "BID": 6404007,
+    "BeerName": "Kasteel Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Kasteel Brouwerij Vanhonsebrouck",
+    "Origin": "Izegem, Vlaams Gewest Belgium",
+    "BeerAbv": 11.00,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8782_370b1_sm.jpeg",
+    "HallRating": 17.59,
+    "BAR": 12.61,
+    "StylePlus": "99",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.4470805380295090118572432546"
+  },
+  {
+    "BID": 6301106,
+    "BeerName": "Curieux",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Allagash Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 10.20,
+    "BeerIbu": 27.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6732_b3ca6_sm.jpeg",
+    "HallRating": 17.59,
+    "BAR": 12.61,
+    "StylePlus": "110",
+    "RatingScore": 4.04,
+    "AdjustedRating": "2.5363298155513105564776250274"
   },
   {
     "BID": 3603981,

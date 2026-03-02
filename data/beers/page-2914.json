@@ -1,20 +1,5 @@
 [
   {
-    "BID": 4503797,
-    "BeerName": "Cruzcampo Pilsen",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Cruzcampo",
-    "Origin": "Seville, Andalucía Spain",
-    "BeerAbv": 4.80,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-399207_559dd_sm.jpeg",
-    "HallRating": 11.78,
-    "BAR": 8.47,
-    "StylePlus": "84",
-    "RatingScore": 2.91,
-    "AdjustedRating": "2.3026324805364900003456765466"
-  },
-  {
     "BID": 6009614,
     "BeerName": "Victoria",
     "BeerStyle": "Lager - Vienna",
@@ -28,6 +13,21 @@
     "StylePlus": "90",
     "RatingScore": 3.18,
     "AdjustedRating": "2.3675902135636775155916994905"
+  },
+  {
+    "BID": 1006274,
+    "BeerName": "Bud Light Lime",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Anheuser-Busch",
+    "Origin": "St. Louis, MO United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 8.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6341_c1b78_sm.jpeg",
+    "HallRating": 11.78,
+    "BAR": 8.47,
+    "StylePlus": "78",
+    "RatingScore": 2.65,
+    "AdjustedRating": "2.2422180961730199926614810361"
   },
   {
     "BID": 2408216,
@@ -60,19 +60,19 @@
     "AdjustedRating": "2.3887263414867646354889665406"
   },
   {
-    "BID": 1006274,
-    "BeerName": "Bud Light Lime",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Anheuser-Busch",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6341_c1b78_sm.jpeg",
+    "BID": 4503797,
+    "BeerName": "Cruzcampo Pilsen",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Cruzcampo",
+    "Origin": "Seville, Andalucía Spain",
+    "BeerAbv": 4.80,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-399207_559dd_sm.jpeg",
     "HallRating": 11.78,
     "BAR": 8.47,
-    "StylePlus": "78",
-    "RatingScore": 2.65,
-    "AdjustedRating": "2.2422180961730199926614810361"
+    "StylePlus": "84",
+    "RatingScore": 2.91,
+    "AdjustedRating": "2.3026324805364900003456765466"
   },
   {
     "BID": 6023747,
@@ -90,21 +90,6 @@
     "AdjustedRating": "2.3408867423346278055714239002"
   },
   {
-    "BID": 3018647,
-    "BeerName": "Pilsener",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Brand Bierbrouwerij",
-    "Origin": "Wijlre, Limburg Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 27.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-63303_80f92_sm.jpeg",
-    "HallRating": 11.77,
-    "BAR": 8.47,
-    "StylePlus": "95",
-    "RatingScore": 3.26,
-    "AdjustedRating": "2.3829543742022789832228697966"
-  },
-  {
     "BID": 5400842,
     "BeerName": "Busch Light",
     "BeerStyle": "Lager - American Light",
@@ -120,19 +105,19 @@
     "AdjustedRating": "2.2351586601561524167497775702"
   },
   {
-    "BID": 3345411,
-    "BeerName": "Sam ’76",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2325896_e8931_sm.jpeg",
-    "HallRating": 11.76,
-    "BAR": 8.45,
-    "StylePlus": "102",
-    "RatingScore": 3.46,
-    "AdjustedRating": "2.4230556055077625729705062833"
+    "BID": 3018647,
+    "BeerName": "Pilsener",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Brand Bierbrouwerij",
+    "Origin": "Wijlre, Limburg Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 27.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-63303_80f92_sm.jpeg",
+    "HallRating": 11.77,
+    "BAR": 8.47,
+    "StylePlus": "95",
+    "RatingScore": 3.26,
+    "AdjustedRating": "2.3829543742022789832228697966"
   },
   {
     "BID": 2012498,
@@ -165,6 +150,21 @@
     "AdjustedRating": "2.3487862087090278770826650383"
   },
   {
+    "BID": 3345411,
+    "BeerName": "Sam ’76",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2325896_e8931_sm.jpeg",
+    "HallRating": 11.76,
+    "BAR": 8.45,
+    "StylePlus": "102",
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.4230556055077625729705062833"
+  },
+  {
     "BID": 5206381,
     "BeerName": "Lost Lager",
     "BeerStyle": "Pilsner - Other",
@@ -178,6 +178,21 @@
     "StylePlus": "96",
     "RatingScore": 3.30,
     "AdjustedRating": "2.3829745300476311604488552405"
+  },
+  {
+    "BID": 1801002,
+    "BeerName": "Bass Pale Ale",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Bass Brewers",
+    "Origin": "Shamlesbury, Lancashire England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 49.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5872_5ce96_sm.jpeg",
+    "HallRating": 11.74,
+    "BAR": 8.42,
+    "StylePlus": "96",
+    "RatingScore": 3.33,
+    "AdjustedRating": "2.3857019536574284416174466152"
   },
   {
     "BID": 2801785,
@@ -195,19 +210,19 @@
     "AdjustedRating": "2.3749710128541519651608425961"
   },
   {
-    "BID": 1801002,
-    "BeerName": "Bass Pale Ale",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Bass Brewers",
-    "Origin": "Shamlesbury, Lancashire England",
-    "BeerAbv": 5.00,
-    "BeerIbu": 49.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5872_5ce96_sm.jpeg",
-    "HallRating": 11.74,
-    "BAR": 8.42,
+    "BID": 6010082,
+    "BeerName": "The Stonewall Inn IPA",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Brooklyn Brewery",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2885563_da69c_sm.jpeg",
+    "HallRating": 11.73,
+    "BAR": 8.41,
     "StylePlus": "96",
-    "RatingScore": 3.33,
-    "AdjustedRating": "2.3857019536574284416174466152"
+    "RatingScore": 3.46,
+    "AdjustedRating": "2.412103736937134102970947092"
   },
   {
     "BID": 3335736,
@@ -240,21 +255,6 @@
     "AdjustedRating": "2.392019779837390109299338652"
   },
   {
-    "BID": 6010082,
-    "BeerName": "The Stonewall Inn IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Brooklyn Brewery",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2885563_da69c_sm.jpeg",
-    "HallRating": 11.73,
-    "BAR": 8.41,
-    "StylePlus": "96",
-    "RatingScore": 3.46,
-    "AdjustedRating": "2.412103736937134102970947092"
-  },
-  {
     "BID": 5600178,
     "BeerName": "Midway IPA",
     "BeerStyle": "IPA - Session",
@@ -285,19 +285,19 @@
     "AdjustedRating": "2.3869862027994376812389835128"
   },
   {
-    "BID": 5417863,
-    "BeerName": "Nooner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Sierra Nevada Brewing Co.",
-    "Origin": "Chico, CA United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 38.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-913150_65582_sm.jpeg",
+    "BID": 1502972,
+    "BeerName": "Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Widmer Brothers Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6395_4f8de_sm.jpeg",
     "HallRating": 11.71,
     "BAR": 8.39,
     "StylePlus": "99",
-    "RatingScore": 3.43,
-    "AdjustedRating": "2.3984896468680890581837356272"
+    "RatingScore": 3.47,
+    "AdjustedRating": "2.407182763335202179664984705"
   },
   {
     "BID": 4820294,
@@ -315,34 +315,19 @@
     "AdjustedRating": "2.3044710812614290185364163716"
   },
   {
-    "BID": 1502972,
-    "BeerName": "Hefeweizen",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Widmer Brothers Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6395_4f8de_sm.jpeg",
+    "BID": 5417863,
+    "BeerName": "Nooner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Sierra Nevada Brewing Co.",
+    "Origin": "Chico, CA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 38.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-913150_65582_sm.jpeg",
     "HallRating": 11.71,
     "BAR": 8.39,
     "StylePlus": "99",
-    "RatingScore": 3.47,
-    "AdjustedRating": "2.407182763335202179664984705"
-  },
-  {
-    "BID": 4502427,
-    "BeerName": "Ichnusa Anima Sarda",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Ichnusa",
-    "Origin": "Località Macchiareddu-Grogastu I, Sardegna Italy",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-32023_3650d_sm.jpeg",
-    "HallRating": 11.69,
-    "BAR": 8.37,
-    "StylePlus": "95",
-    "RatingScore": 3.01,
-    "AdjustedRating": "2.3039401686534478829136815403"
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.3984896468680890581837356272"
   },
   {
     "BID": 4960867,
@@ -358,6 +343,21 @@
     "StylePlus": "96",
     "RatingScore": 3.04,
     "AdjustedRating": "2.3089615470889850106896353217"
+  },
+  {
+    "BID": 4502427,
+    "BeerName": "Ichnusa Anima Sarda",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Ichnusa",
+    "Origin": "Località Macchiareddu-Grogastu I, Sardegna Italy",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-32023_3650d_sm.jpeg",
+    "HallRating": 11.69,
+    "BAR": 8.37,
+    "StylePlus": "95",
+    "RatingScore": 3.01,
+    "AdjustedRating": "2.3039401686534478829136815403"
   },
   {
     "BID": 5403738,

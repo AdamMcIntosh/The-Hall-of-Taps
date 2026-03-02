@@ -15,6 +15,21 @@
     "AdjustedRating": "2.3657096935294407281577299936"
   },
   {
+    "BID": 6021413,
+    "BeerName": "Żywiec",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Grupa Żywiec",
+    "Origin": "Żywiec, Województwo Śląskie Poland",
+    "BeerAbv": 5.50,
+    "BeerIbu": 24.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10519_19e15_sm.jpeg",
+    "HallRating": 11.95,
+    "BAR": 8.69,
+    "StylePlus": "98",
+    "RatingScore": 3.10,
+    "AdjustedRating": "2.4034904739075622791597862178"
+  },
+  {
     "BID": 6502121,
     "BeerName": "Bavaria",
     "BeerStyle": "Pilsner - Other",
@@ -30,19 +45,19 @@
     "AdjustedRating": "2.3360236198768323543586159556"
   },
   {
-    "BID": 6021413,
-    "BeerName": "Żywiec",
+    "BID": 3609672,
+    "BeerName": "Tyskie Gronie",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Grupa Żywiec",
-    "Origin": "Żywiec, Województwo Śląskie Poland",
-    "BeerAbv": 5.50,
-    "BeerIbu": 24.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10519_19e15_sm.jpeg",
-    "HallRating": 11.95,
-    "BAR": 8.69,
-    "StylePlus": "98",
-    "RatingScore": 3.10,
-    "AdjustedRating": "2.4034904739075622791597862178"
+    "BreweryName": "Tyskie Browary Książęce",
+    "Origin": "Tychy, Województwo Śląskie Poland",
+    "BeerAbv": 5.20,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1409_c0dda_sm.jpeg",
+    "HallRating": 11.94,
+    "BAR": 8.67,
+    "StylePlus": "99",
+    "RatingScore": 3.12,
+    "AdjustedRating": "2.403729136879251137663044159"
   },
   {
     "BID": 2208648,
@@ -60,19 +75,19 @@
     "AdjustedRating": "2.3141373962978626964964782763"
   },
   {
-    "BID": 3609672,
-    "BeerName": "Tyskie Gronie",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Tyskie Browary Książęce",
-    "Origin": "Tychy, Województwo Śląskie Poland",
-    "BeerAbv": 5.20,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1409_c0dda_sm.jpeg",
-    "HallRating": 11.94,
-    "BAR": 8.67,
-    "StylePlus": "99",
-    "RatingScore": 3.12,
-    "AdjustedRating": "2.403729136879251137663044159"
+    "BID": 3212797,
+    "BeerName": "Defender IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Brooklyn Brewery",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1488846_0f8ef_sm.jpeg",
+    "HallRating": 11.93,
+    "BAR": 8.66,
+    "StylePlus": "92",
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.4893286240003732059648361034"
   },
   {
     "BID": 6021126,
@@ -105,19 +120,19 @@
     "AdjustedRating": "2.4984676441922107254476728922"
   },
   {
-    "BID": 3212797,
-    "BeerName": "Defender IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Brooklyn Brewery",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1488846_0f8ef_sm.jpeg",
-    "HallRating": 11.93,
-    "BAR": 8.66,
-    "StylePlus": "92",
-    "RatingScore": 3.43,
-    "AdjustedRating": "2.4893286240003732059648361034"
+    "BID": 5805369,
+    "BeerName": "Efes Pilsener",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Anadolu Efes",
+    "Origin": "Istanbul, Turkey",
+    "BeerAbv": 5.00,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17259_8f37c_sm.jpeg",
+    "HallRating": 11.92,
+    "BAR": 8.65,
+    "StylePlus": "86",
+    "RatingScore": 2.96,
+    "AdjustedRating": "2.3532746696786369631544855683"
   },
   {
     "BID": 3807083,
@@ -133,21 +148,6 @@
     "StylePlus": "89",
     "RatingScore": 2.82,
     "AdjustedRating": "2.3134780604969664767213008095"
-  },
-  {
-    "BID": 5805369,
-    "BeerName": "Efes Pilsener",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Anadolu Efes",
-    "Origin": "Istanbul, Turkey",
-    "BeerAbv": 5.00,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17259_8f37c_sm.jpeg",
-    "HallRating": 11.92,
-    "BAR": 8.65,
-    "StylePlus": "86",
-    "RatingScore": 2.96,
-    "AdjustedRating": "2.3532746696786369631544855683"
   },
   {
     "BID": 4409650,
@@ -195,21 +195,6 @@
     "AdjustedRating": "2.4374902748607433111131403525"
   },
   {
-    "BID": 5410084,
-    "BeerName": "San Miguel Premium Especial (5.4%)",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Grupo Mahou-San Miguel",
-    "Origin": "Madrid, Comunidad de Madrid Spain",
-    "BeerAbv": 5.40,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-69014_3085d_sm.jpeg",
-    "HallRating": 11.88,
-    "BAR": 8.60,
-    "StylePlus": "99",
-    "RatingScore": 3.11,
-    "AdjustedRating": "2.3811630353615426210874419255"
-  },
-  {
     "BID": 5302283,
     "BeerName": "Summer Love",
     "BeerStyle": "Blonde / Golden Ale - Other",
@@ -225,19 +210,19 @@
     "AdjustedRating": "2.4737487746968696608508063552"
   },
   {
-    "BID": 2022964,
-    "BeerName": "Labatt Blue",
-    "BeerStyle": "Pilsner - American",
-    "BreweryName": "Labatt Brewing Company",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LabattBlue_3853.jpeg",
-    "HallRating": 11.86,
-    "BAR": 8.58,
-    "StylePlus": "82",
-    "RatingScore": 2.96,
-    "AdjustedRating": "2.337154933699334492830933766"
+    "BID": 5410084,
+    "BeerName": "San Miguel Premium Especial (5.4%)",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Grupo Mahou-San Miguel",
+    "Origin": "Madrid, Comunidad de Madrid Spain",
+    "BeerAbv": 5.40,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-69014_3085d_sm.jpeg",
+    "HallRating": 11.88,
+    "BAR": 8.60,
+    "StylePlus": "99",
+    "RatingScore": 3.11,
+    "AdjustedRating": "2.3811630353615426210874419255"
   },
   {
     "BID": 2605889,
@@ -253,6 +238,21 @@
     "StylePlus": "94",
     "RatingScore": 2.97,
     "AdjustedRating": "2.337813926527063256285776393"
+  },
+  {
+    "BID": 2022964,
+    "BeerName": "Labatt Blue",
+    "BeerStyle": "Pilsner - American",
+    "BreweryName": "Labatt Brewing Company",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LabattBlue_3853.jpeg",
+    "HallRating": 11.86,
+    "BAR": 8.58,
+    "StylePlus": "82",
+    "RatingScore": 2.96,
+    "AdjustedRating": "2.337154933699334492830933766"
   },
   {
     "BID": 5476098,
@@ -345,21 +345,6 @@
     "AdjustedRating": "2.3645720572685965764581487726"
   },
   {
-    "BID": 5008168,
-    "BeerName": "Sagres",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Sociedade Central de Cervejas",
-    "Origin": "Vialonga, Lisboa Portugal",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-311619_674ef_sm.jpeg",
-    "HallRating": 11.79,
-    "BAR": 8.49,
-    "StylePlus": "86",
-    "RatingScore": 2.97,
-    "AdjustedRating": "2.3207230890470947638774135566"
-  },
-  {
     "BID": 2827812,
     "BeerName": "Camden Hells Lager",
     "BeerStyle": "Lager - Helles",
@@ -373,5 +358,20 @@
     "StylePlus": "94",
     "RatingScore": 3.26,
     "AdjustedRating": "2.3888637374680436305872334901"
+  },
+  {
+    "BID": 5008168,
+    "BeerName": "Sagres",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Sociedade Central de Cervejas",
+    "Origin": "Vialonga, Lisboa Portugal",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-311619_674ef_sm.jpeg",
+    "HallRating": 11.79,
+    "BAR": 8.49,
+    "StylePlus": "86",
+    "RatingScore": 2.97,
+    "AdjustedRating": "2.3207230890470947638774135566"
   }
 ]

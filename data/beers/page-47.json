@@ -15,6 +15,21 @@
     "AdjustedRating": "2.1334551514761308088136969883"
   },
   {
+    "BID": 1203163,
+    "BeerName": "El Guapo Agave IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "O'Connor Brewing Co.",
+    "Origin": "Norfolk, VA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-60879_81ba2_sm.jpeg",
+    "HallRating": 22.42,
+    "BAR": 15.50,
+    "StylePlus": "98",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.2734071542595049126514827889"
+  },
+  {
     "BID": 3610865,
     "BeerName": "Weissbier",
     "BeerStyle": "Wheat Beer - Hefeweizen",
@@ -30,19 +45,19 @@
     "AdjustedRating": "2.2748557097550552194156413774"
   },
   {
-    "BID": 1203163,
-    "BeerName": "El Guapo Agave IPA",
+    "BID": 4501231,
+    "BeerName": "Narangi",
     "BeerStyle": "IPA - American",
-    "BreweryName": "O'Connor Brewing Co.",
-    "Origin": "Norfolk, VA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-60879_81ba2_sm.jpeg",
-    "HallRating": 22.42,
-    "BAR": 15.50,
-    "StylePlus": "98",
-    "RatingScore": 3.65,
-    "AdjustedRating": "2.2734071542595049126514827889"
+    "BreweryName": "O/O Brewing",
+    "Origin": "Gothenburg, Västra Götalands län Sweden",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1692471_89b88_sm.jpeg",
+    "HallRating": 22.41,
+    "BAR": 15.49,
+    "StylePlus": "105",
+    "RatingScore": 3.90,
+    "AdjustedRating": "2.2974152264939284372335183564"
   },
   {
     "BID": 4000098,
@@ -75,19 +90,19 @@
     "AdjustedRating": "2.2884315137224549672182048086"
   },
   {
-    "BID": 4501231,
-    "BeerName": "Narangi",
+    "BID": 606725,
+    "BeerName": "Last Chance IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "O/O Brewing",
-    "Origin": "Gothenburg, Västra Götalands län Sweden",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1692471_89b88_sm.jpeg",
-    "HallRating": 22.41,
-    "BAR": 15.49,
-    "StylePlus": "105",
-    "RatingScore": 3.90,
-    "AdjustedRating": "2.2974152264939284372335183564"
+    "BreweryName": "Weyerbacher Brewery / Savant Beverages",
+    "Origin": "Easton, PA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-169925_3a28d_sm.jpeg",
+    "HallRating": 22.39,
+    "BAR": 15.46,
+    "StylePlus": "95",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.259313413715486871366000424"
   },
   {
     "BID": 1669122,
@@ -105,19 +120,19 @@
     "AdjustedRating": "2.2707874276671573390080002885"
   },
   {
-    "BID": 606725,
-    "BeerName": "Last Chance IPA",
+    "BID": 5403351,
+    "BeerName": "IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Weyerbacher Brewery / Savant Beverages",
-    "Origin": "Easton, PA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-169925_3a28d_sm.jpeg",
-    "HallRating": 22.39,
-    "BAR": 15.46,
-    "StylePlus": "95",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.259313413715486871366000424"
+    "BreweryName": "Good People Brewing Company",
+    "Origin": "Birmingham, AL United States",
+    "BeerAbv": 7.10,
+    "BeerIbu": 76.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17655_de5ca_sm.jpeg",
+    "HallRating": 22.38,
+    "BAR": 15.44,
+    "StylePlus": "99",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.2727441618979898192981862098"
   },
   {
     "BID": 3008374,
@@ -133,21 +148,6 @@
     "StylePlus": "100",
     "RatingScore": 3.54,
     "AdjustedRating": "2.2579359449874109971031756775"
-  },
-  {
-    "BID": 5403351,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Good People Brewing Company",
-    "Origin": "Birmingham, AL United States",
-    "BeerAbv": 7.10,
-    "BeerIbu": 76.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17655_de5ca_sm.jpeg",
-    "HallRating": 22.38,
-    "BAR": 15.44,
-    "StylePlus": "99",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.2727441618979898192981862098"
   },
   {
     "BID": 2414937,
@@ -210,6 +210,21 @@
     "AdjustedRating": "2.1321748846150987615477803735"
   },
   {
+    "BID": 553347,
+    "BeerName": "Mango Magnifico",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-406766_22479_sm.jpeg",
+    "HallRating": 22.36,
+    "BAR": 15.42,
+    "StylePlus": "103",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.2651021113946596927277700047"
+  },
+  {
     "BID": 6403664,
     "BeerName": "Blood Orange Italian Soda",
     "BeerStyle": "Flavored Malt Beverage",
@@ -225,19 +240,34 @@
     "AdjustedRating": "2.1347393289774599658566922618"
   },
   {
-    "BID": 553347,
-    "BeerName": "Mango Magnifico",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-406766_22479_sm.jpeg",
-    "HallRating": 22.36,
-    "BAR": 15.42,
-    "StylePlus": "103",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.2651021113946596927277700047"
+    "BID": 4619011,
+    "BeerName": "Citra",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Oakham Ales",
+    "Origin": "Peterborough, England",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14646_1ca7c_sm.jpeg",
+    "HallRating": 22.35,
+    "BAR": 15.41,
+    "StylePlus": "101",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.2609211934449670913455555782"
+  },
+  {
+    "BID": 3901948,
+    "BeerName": "Mountain Standard",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Odell Brewing Co.",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3090000_ae44a_sm.jpeg",
+    "HallRating": 22.35,
+    "BAR": 15.41,
+    "StylePlus": "102",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.2785205872567901849265929012"
   },
   {
     "BID": 3081373,
@@ -270,36 +300,6 @@
     "AdjustedRating": "2.2687128343298472313654163302"
   },
   {
-    "BID": 6014652,
-    "BeerName": "Bodem",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Half Acre Beer Company",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3195565_14f42_sm.jpeg",
-    "HallRating": 22.35,
-    "BAR": 15.42,
-    "StylePlus": "105",
-    "RatingScore": 3.90,
-    "AdjustedRating": "2.2892099460632992978052172733"
-  },
-  {
-    "BID": 3901948,
-    "BeerName": "Mountain Standard",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Odell Brewing Co.",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3090000_ae44a_sm.jpeg",
-    "HallRating": 22.35,
-    "BAR": 15.41,
-    "StylePlus": "102",
-    "RatingScore": 3.80,
-    "AdjustedRating": "2.2785205872567901849265929012"
-  },
-  {
     "BID": 4300383,
     "BeerName": "Bean Flicker",
     "BeerStyle": "Blonde / Golden Ale - Other",
@@ -313,6 +313,21 @@
     "StylePlus": "108",
     "RatingScore": 3.78,
     "AdjustedRating": "2.2776089021576876102591939205"
+  },
+  {
+    "BID": 6014652,
+    "BeerName": "Bodem",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Half Acre Beer Company",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3195565_14f42_sm.jpeg",
+    "HallRating": 22.35,
+    "BAR": 15.42,
+    "StylePlus": "105",
+    "RatingScore": 3.90,
+    "AdjustedRating": "2.2892099460632992978052172733"
   },
   {
     "BID": 4420407,
@@ -345,33 +360,18 @@
     "AdjustedRating": "2.275632216665648841149102391"
   },
   {
-    "BID": 4619011,
-    "BeerName": "Citra",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Oakham Ales",
-    "Origin": "Peterborough, England",
-    "BeerAbv": 4.20,
+    "BID": 6417587,
+    "BeerName": "Little Sip",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Lawson’s Finest Liquids",
+    "Origin": "Waitsfield, VT United States",
+    "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14646_1ca7c_sm.jpeg",
-    "HallRating": 22.35,
-    "BAR": 15.41,
-    "StylePlus": "101",
-    "RatingScore": 3.61,
-    "AdjustedRating": "2.2609211934449670913455555782"
-  },
-  {
-    "BID": 6302029,
-    "BeerName": "Community Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Marto Brewing Company",
-    "Origin": "Sioux City, IA United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6302029_0eacb_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3832058_03200_sm.jpeg",
     "HallRating": 22.34,
-    "BAR": 5.18,
-    "StylePlus": "110",
-    "RatingScore": 3.82,
-    "AdjustedRating": "2.1194340339579625222486650801"
+    "BAR": 15.40,
+    "StylePlus": "106",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.2935546909481031825249706328"
   }
 ]

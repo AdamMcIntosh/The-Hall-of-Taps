@@ -15,21 +15,6 @@
     "AdjustedRating": "2.5156203166014653171526724608"
   },
   {
-    "BID": 6017751,
-    "BeerName": "Beck's",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Brauerei Beck",
-    "Origin": "Neustadt, Bremen Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6870_b6a22_sm.jpeg",
-    "HallRating": 12.22,
-    "BAR": 9.01,
-    "StylePlus": "85",
-    "RatingScore": 2.96,
-    "AdjustedRating": "2.446711350387637130737281396"
-  },
-  {
     "BID": 4410949,
     "BeerName": "Brooklyn East IPA",
     "BeerStyle": "IPA - American",
@@ -43,6 +28,21 @@
     "StylePlus": "94",
     "RatingScore": 3.49,
     "AdjustedRating": "2.6557059207532986488892405689"
+  },
+  {
+    "BID": 6017751,
+    "BeerName": "Beck's",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Brauerei Beck",
+    "Origin": "Neustadt, Bremen Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6870_b6a22_sm.jpeg",
+    "HallRating": 12.22,
+    "BAR": 9.01,
+    "StylePlus": "85",
+    "RatingScore": 2.96,
+    "AdjustedRating": "2.446711350387637130737281396"
   },
   {
     "BID": 6613027,
@@ -60,19 +60,19 @@
     "AdjustedRating": "2.5037511277524086943937233843"
   },
   {
-    "BID": 5803824,
-    "BeerName": "Amstel",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Amstel Bier",
-    "Origin": "Zoeterwoude, Zuid-Holland Netherlands",
-    "BeerAbv": 5.00,
+    "BID": 6020515,
+    "BeerName": "Spaten München / Münchner Hell / Premium Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.20,
     "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-72160_68a98_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1633_d78e8_sm.jpeg",
     "HallRating": 12.18,
-    "BAR": 8.97,
-    "StylePlus": "92",
-    "RatingScore": 2.89,
-    "AdjustedRating": "2.4078880530489044587979543642"
+    "BAR": 8.96,
+    "StylePlus": "97",
+    "RatingScore": 3.39,
+    "AdjustedRating": "2.5941487772568840954143610075"
   },
   {
     "BID": 4221353,
@@ -105,19 +105,19 @@
     "AdjustedRating": "2.5949940171274390959214796856"
   },
   {
-    "BID": 6020515,
-    "BeerName": "Spaten München / Münchner Hell / Premium Lager",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.20,
+    "BID": 5803824,
+    "BeerName": "Amstel",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Amstel Bier",
+    "Origin": "Zoeterwoude, Zuid-Holland Netherlands",
+    "BeerAbv": 5.00,
     "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1633_d78e8_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-72160_68a98_sm.jpeg",
     "HallRating": 12.18,
-    "BAR": 8.96,
-    "StylePlus": "97",
-    "RatingScore": 3.39,
-    "AdjustedRating": "2.5941487772568840954143610075"
+    "BAR": 8.97,
+    "StylePlus": "92",
+    "RatingScore": 2.89,
+    "AdjustedRating": "2.4078880530489044587979543642"
   },
   {
     "BID": 6606044,
