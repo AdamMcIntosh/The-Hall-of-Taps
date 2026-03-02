@@ -1,20 +1,5 @@
 [
   {
-    "BID": 6407226,
-    "BeerName": "Flock What Ewe Heard",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "RaR Brewing",
-    "Origin": "Cambridge, MD United States",
-    "BeerAbv": 10.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407226_f385c_sm.jpeg",
-    "HallRating": 28.00,
-    "BAR": 14.19,
-    "StylePlus": "109",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1234488008185879358107264968"
-  },
-  {
     "BID": 5216973,
     "BeerName": "Fanal Select (2022)",
     "BeerStyle": "Mead - Melomel",
@@ -30,34 +15,19 @@
     "AdjustedRating": "2.1236491892714798759137385853"
   },
   {
-    "BID": 6024793,
-    "BeerName": "Within the Church Ov Thee Overlords",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Brujos Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 12.10,
+    "BID": 5605304,
+    "BeerName": "Mead Didn’t Start the Fire",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Funktastic Meads",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 20.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6024793_228ac_sm.jpeg",
-    "HallRating": 27.99,
-    "BAR": 14.17,
-    "StylePlus": "111",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.1235481592588617878062598426"
-  },
-  {
-    "BID": 5902002,
-    "BeerName": "Barrel-Aged Seismic Overlay",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Whiskey Hill Brewing",
-    "Origin": "Westmont, IL United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4053347_07d24_sm.jpeg",
-    "HallRating": 27.99,
-    "BAR": 14.16,
-    "StylePlus": "115",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1235696904504603435667953649"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605304_7fee3_sm.jpeg",
+    "HallRating": 28.00,
+    "BAR": 8.70,
+    "StylePlus": "114",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.1196771693892089837647323493"
   },
   {
     "BID": 5302224,
@@ -75,6 +45,36 @@
     "AdjustedRating": "2.1235419786363182589597683937"
   },
   {
+    "BID": 5902002,
+    "BeerName": "Barrel-Aged Seismic Overlay",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Whiskey Hill Brewing",
+    "Origin": "Westmont, IL United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4053347_07d24_sm.jpeg",
+    "HallRating": 27.99,
+    "BAR": 14.16,
+    "StylePlus": "115",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1235696904504603435667953649"
+  },
+  {
+    "BID": 6024793,
+    "BeerName": "Within the Church Ov Thee Overlords",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Brujos Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 12.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6024793_228ac_sm.jpeg",
+    "HallRating": 27.99,
+    "BAR": 14.17,
+    "StylePlus": "111",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.1235481592588617878062598426"
+  },
+  {
     "BID": 4013983,
     "BeerName": "Black Agnes (Batch 12)",
     "BeerStyle": "Mead - Melomel",
@@ -88,6 +88,21 @@
     "StylePlus": "115",
     "RatingScore": 4.67,
     "AdjustedRating": "2.1236417114034496614479992613"
+  },
+  {
+    "BID": 1668078,
+    "BeerName": "Blåbær Lambik (Blueberry Lambic) (2009-II) (Batch 4)",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16564_sm_7d3e5e05e5fcc0d509b2d6097c61d6.jpeg",
+    "HallRating": 27.98,
+    "BAR": 8.74,
+    "StylePlus": "115",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.119689043533905253264542964"
   },
   {
     "BID": 6006731,
@@ -120,19 +135,19 @@
     "AdjustedRating": "2.1196680464734937108804767333"
   },
   {
-    "BID": 1668078,
-    "BeerName": "Blåbær Lambik (Blueberry Lambic) (2009-II) (Batch 4)",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.00,
+    "BID": 3807483,
+    "BeerName": "Valentine (Batch 1)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 12.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16564_sm_7d3e5e05e5fcc0d509b2d6097c61d6.jpeg",
-    "HallRating": 27.98,
-    "BAR": 8.74,
-    "StylePlus": "115",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.119689043533905253264542964"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
+    "HallRating": 27.97,
+    "BAR": 14.13,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1233905043814220715852736299"
   },
   {
     "BID": 6030251,
@@ -165,19 +180,19 @@
     "AdjustedRating": "2.1237477225647041205979983528"
   },
   {
-    "BID": 3807483,
-    "BeerName": "Valentine (Batch 1)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 12.50,
+    "BID": 3401837,
+    "BeerName": "Framboos Noyaux (2018)",
+    "BeerStyle": "Lambic - Framboise",
+    "BreweryName": "Bokke",
+    "Origin": "Hasselt, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
-    "HallRating": 27.97,
-    "BAR": 14.13,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1233905043814220715852736299"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
+    "HallRating": 27.96,
+    "BAR": 14.08,
+    "StylePlus": "113",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1232730154372215497123460334"
   },
   {
     "BID": 6303536,
@@ -225,19 +240,19 @@
     "AdjustedRating": "2.1233315862247979593772306832"
   },
   {
-    "BID": 3401837,
-    "BeerName": "Framboos Noyaux (2018)",
-    "BeerStyle": "Lambic - Framboise",
-    "BreweryName": "Bokke",
-    "Origin": "Hasselt, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
+    "BID": 5004220,
+    "BeerName": "Tree of Knowledge",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Forager Brewery",
+    "Origin": "Rochester, MN United States",
+    "BeerAbv": 13.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
-    "HallRating": 27.96,
-    "BAR": 14.08,
-    "StylePlus": "113",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5004220_86bd5_sm.jpeg",
+    "HallRating": 27.95,
+    "BAR": 14.05,
+    "StylePlus": "116",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1232730154372215497123460334"
+    "AdjustedRating": "2.1232189513934994983102289802"
   },
   {
     "BID": 3208001,
@@ -255,19 +270,19 @@
     "AdjustedRating": "2.1231926608710410910352504823"
   },
   {
-    "BID": 5004220,
-    "BeerName": "Tree of Knowledge",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Forager Brewery",
-    "Origin": "Rochester, MN United States",
-    "BeerAbv": 13.40,
+    "BID": 5608860,
+    "BeerName": "XYAUYÙ KENTUCKY - RISERVA 2018",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "BIRRIFICIO AGRICOLO BALADIN - Baladin Indipendent Italian Farm Brewery",
+    "Origin": "Piozzo, Piemonte Italy",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5004220_86bd5_sm.jpeg",
-    "HallRating": 27.95,
-    "BAR": 14.05,
-    "StylePlus": "116",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-128_c2ca5.jpeg",
+    "HallRating": 27.94,
+    "BAR": 14.03,
+    "StylePlus": "115",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1232189513934994983102289802"
+    "AdjustedRating": "2.1231829073482428115015974441"
   },
   {
     "BID": 5014131,
@@ -300,21 +315,6 @@
     "AdjustedRating": "2.1233355297970267868731342539"
   },
   {
-    "BID": 5608860,
-    "BeerName": "XYAUYÙ KENTUCKY - RISERVA 2018",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "BIRRIFICIO AGRICOLO BALADIN - Baladin Indipendent Italian Farm Brewery",
-    "Origin": "Piozzo, Piemonte Italy",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-128_c2ca5.jpeg",
-    "HallRating": 27.94,
-    "BAR": 14.03,
-    "StylePlus": "115",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1231829073482428115015974441"
-  },
-  {
     "BID": 3334154,
     "BeerName": "Downslope Barrel Aged Elderberry Mead",
     "BeerStyle": "Mead - Melomel",
@@ -330,21 +330,6 @@
     "AdjustedRating": "2.1197017932399802028705837654"
   },
   {
-    "BID": 5705352,
-    "BeerName": "I (One)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Spartacus Brewing",
-    "Origin": "Juiz de Fora, Minas Gerais Brazil",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5705352_6c871_sm.jpeg",
-    "HallRating": 27.92,
-    "BAR": 13.97,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1231058204492014916804369206"
-  },
-  {
     "BID": 6408140,
     "BeerName": "Barrel Aged Vietnamese Abraxas (2025)",
     "BeerStyle": "Stout - Imperial / Double Pastry",
@@ -358,6 +343,21 @@
     "StylePlus": "109",
     "RatingScore": 4.53,
     "AdjustedRating": "2.1231048082131259251123863344"
+  },
+  {
+    "BID": 5705352,
+    "BeerName": "I (One)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Spartacus Brewing",
+    "Origin": "Juiz de Fora, Minas Gerais Brazil",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5705352_6c871_sm.jpeg",
+    "HallRating": 27.92,
+    "BAR": 13.97,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1231058204492014916804369206"
   },
   {
     "BID": 3339606,

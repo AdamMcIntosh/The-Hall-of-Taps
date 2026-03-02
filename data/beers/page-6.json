@@ -120,21 +120,6 @@
     "AdjustedRating": "2.1328229987492571383102787192"
   },
   {
-    "BID": 1004753,
-    "BeerName": "Brew 1000 (2014)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Fremont Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-684620_f55a3_sm.jpeg",
-    "HallRating": 29.16,
-    "BAR": 16.66,
-    "StylePlus": "114",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.13213097795814434630381157"
-  },
-  {
     "BID": 4304995,
     "BeerName": "TDH More Citra Than All Citra Imperial IPA",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -148,6 +133,21 @@
     "StylePlus": "113",
     "RatingScore": 4.56,
     "AdjustedRating": "2.1323804550540842969041402462"
+  },
+  {
+    "BID": 1004753,
+    "BeerName": "Brew 1000 (2014)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Fremont Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-684620_f55a3_sm.jpeg",
+    "HallRating": 29.16,
+    "BAR": 16.66,
+    "StylePlus": "114",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.13213097795814434630381157"
   },
   {
     "BID": 5302997,
@@ -255,21 +255,6 @@
     "AdjustedRating": "2.1309616327180535962640353693"
   },
   {
-    "BID": 4612631,
-    "BeerName": "Castle Hill",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Aslin Beer Company",
-    "Origin": "Alexandria, VA United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3210388_dcebb_sm.jpeg",
-    "HallRating": 29.01,
-    "BAR": 16.37,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1305274184959764308926500814"
-  },
-  {
     "BID": 5450904,
     "BeerName": "25th Anniversary Series: Pappy Van Winkle Gold Label Barrel Aged Stout",
     "BeerStyle": "Stout - Imperial / Double",
@@ -283,6 +268,21 @@
     "StylePlus": "111",
     "RatingScore": 4.52,
     "AdjustedRating": "2.1306455931165929324647792702"
+  },
+  {
+    "BID": 4612631,
+    "BeerName": "Castle Hill",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Aslin Beer Company",
+    "Origin": "Alexandria, VA United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3210388_dcebb_sm.jpeg",
+    "HallRating": 29.01,
+    "BAR": 16.37,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1305274184959764308926500814"
   },
   {
     "BID": 4800168,
@@ -300,21 +300,6 @@
     "AdjustedRating": "2.1303853102339632407467314325"
   },
   {
-    "BID": 1676537,
-    "BeerName": "Bourbon Barrel Sabbath Noir",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Four Fires Meadery",
-    "Origin": "Maumee, OH United States",
-    "BeerAbv": 18.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-288085_8694d.jpeg",
-    "HallRating": 28.99,
-    "BAR": 7.53,
-    "StylePlus": "112",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1195272378209743220542356611"
-  },
-  {
     "BID": 6608414,
     "BeerName": "The Ever Watchful Crow",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -328,6 +313,21 @@
     "StylePlus": "112",
     "RatingScore": 4.52,
     "AdjustedRating": "2.1195240380769538436925045996"
+  },
+  {
+    "BID": 1676537,
+    "BeerName": "Bourbon Barrel Sabbath Noir",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Four Fires Meadery",
+    "Origin": "Maumee, OH United States",
+    "BeerAbv": 18.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-288085_8694d.jpeg",
+    "HallRating": 28.99,
+    "BAR": 7.53,
+    "StylePlus": "112",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1195272378209743220542356611"
   },
   {
     "BID": 6300931,

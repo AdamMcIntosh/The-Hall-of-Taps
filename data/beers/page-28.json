@@ -1,18 +1,33 @@
 [
   {
-    "BID": 4939337,
-    "BeerName": "Bicentennial Lager",
+    "BID": 1604306,
+    "BeerName": "Inversion IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Deschutes Brewery",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-423_42d04_sm.jpeg",
+    "HallRating": 23.30,
+    "BAR": 16.62,
+    "StylePlus": "97",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.4115916109368646097974401198"
+  },
+  {
+    "BID": 4631031,
+    "BeerName": "Lunch Lady Lager",
     "BeerStyle": "Lager - American",
-    "BreweryName": "Troy City Brewing",
-    "Origin": "Fall River, MA United States",
-    "BeerAbv": 4.80,
+    "BreweryName": "Blue Monkey Brewing Co.",
+    "Origin": "North Royalton, OH United States",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4939337_00719_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-456761_23714.jpeg",
     "HallRating": 23.30,
     "BAR": 4.61,
-    "StylePlus": "114",
-    "RatingScore": 3.96,
-    "AdjustedRating": "2.1194102250654347190244414612"
+    "StylePlus": "104",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.1193953506975953521975316049"
   },
   {
     "BID": 4445611,
@@ -45,6 +60,21 @@
     "AdjustedRating": "2.1194025753905459017991735351"
   },
   {
+    "BID": 4939337,
+    "BeerName": "Bicentennial Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Troy City Brewing",
+    "Origin": "Fall River, MA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4939337_00719_sm.jpeg",
+    "HallRating": 23.30,
+    "BAR": 4.61,
+    "StylePlus": "114",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.1194102250654347190244414612"
+  },
+  {
     "BID": 5705150,
     "BeerName": "Petrus Red",
     "BeerStyle": "Fruit Beer",
@@ -58,36 +88,6 @@
     "StylePlus": "102",
     "RatingScore": 3.60,
     "AdjustedRating": "2.4082483520198321032170826525"
-  },
-  {
-    "BID": 6350728,
-    "BeerName": "Oro Grande Mexican Corn Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Distant West Brewing Company",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-550259_9776c.jpeg",
-    "HallRating": 23.30,
-    "BAR": 4.61,
-    "StylePlus": "110",
-    "RatingScore": 3.81,
-    "AdjustedRating": "2.1194038503363607046700515228"
-  },
-  {
-    "BID": 5101567,
-    "BeerName": "Elephant Valley",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Mike Hess Brewing",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-hessbrewing_2174.jpeg",
-    "HallRating": 23.30,
-    "BAR": 4.61,
-    "StylePlus": "108",
-    "RatingScore": 3.75,
-    "AdjustedRating": "2.1194013004447310989282955474"
   },
   {
     "BID": 3343383,
@@ -105,21 +105,6 @@
     "AdjustedRating": "2.4095039099306601380354511118"
   },
   {
-    "BID": 4402452,
-    "BeerName": "Tegernseer Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Herzoglich Bayerisches Brauhaus Tegernsee",
-    "Origin": "Tegernsee, Bayern Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-83159_9ed82_sm.jpeg",
-    "HallRating": 23.29,
-    "BAR": 16.61,
-    "StylePlus": "104",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.4102570365623123213904239068"
-  },
-  {
     "BID": 2548903,
     "BeerName": "Crooked Tree IPA",
     "BeerStyle": "IPA - American",
@@ -133,6 +118,21 @@
     "StylePlus": "99",
     "RatingScore": 3.68,
     "AdjustedRating": "2.4216986650380251512237991288"
+  },
+  {
+    "BID": 4402452,
+    "BeerName": "Tegernseer Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Herzoglich Bayerisches Brauhaus Tegernsee",
+    "Origin": "Tegernsee, Bayern Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-83159_9ed82_sm.jpeg",
+    "HallRating": 23.29,
+    "BAR": 16.61,
+    "StylePlus": "104",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.4102570365623123213904239068"
   },
   {
     "BID": 1085325,
@@ -150,21 +150,6 @@
     "AdjustedRating": "2.3992141995310942613524016287"
   },
   {
-    "BID": 3206461,
-    "BeerName": "Green Zebra",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2200142_99922_sm.jpeg",
-    "HallRating": 23.27,
-    "BAR": 16.59,
-    "StylePlus": "99",
-    "RatingScore": 3.75,
-    "AdjustedRating": "2.4315453558672463873577228377"
-  },
-  {
     "BID": 2202313,
     "BeerName": "Deep Ellum® IPA",
     "BeerStyle": "IPA - American",
@@ -178,6 +163,21 @@
     "StylePlus": "100",
     "RatingScore": 3.72,
     "AdjustedRating": "2.4266249727292560541051559887"
+  },
+  {
+    "BID": 3206461,
+    "BeerName": "Green Zebra",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2200142_99922_sm.jpeg",
+    "HallRating": 23.27,
+    "BAR": 16.59,
+    "StylePlus": "99",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.4315453558672463873577228377"
   },
   {
     "BID": 5019152,
@@ -195,21 +195,6 @@
     "AdjustedRating": "2.4450399740927398951565567632"
   },
   {
-    "BID": 4961740,
-    "BeerName": "Bubble Stash",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Hop Valley Brewing Company",
-    "Origin": "Eugene, OR United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-285530_a209b_sm.jpeg",
-    "HallRating": 23.26,
-    "BAR": 16.57,
-    "StylePlus": "99",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.4169696730230324545460071608"
-  },
-  {
     "BID": 5701847,
     "BeerName": "Oh Mama",
     "BeerStyle": "Lager - American",
@@ -223,6 +208,21 @@
     "StylePlus": "105",
     "RatingScore": 3.63,
     "AdjustedRating": "2.1507186520011652757615297427"
+  },
+  {
+    "BID": 4961740,
+    "BeerName": "Bubble Stash",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Hop Valley Brewing Company",
+    "Origin": "Eugene, OR United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-285530_a209b_sm.jpeg",
+    "HallRating": 23.26,
+    "BAR": 16.57,
+    "StylePlus": "99",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.4169696730230324545460071608"
   },
   {
     "BID": 5809704,
@@ -285,21 +285,6 @@
     "AdjustedRating": "2.4295488691191140245516174345"
   },
   {
-    "BID": 605366,
-    "BeerName": "Another One",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Maine Beer Company",
-    "Origin": "Freeport, ME United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-383188_a9e89_sm.jpeg",
-    "HallRating": 23.22,
-    "BAR": 16.52,
-    "StylePlus": "110",
-    "RatingScore": 4.11,
-    "AdjustedRating": "2.4867405450364499241645873086"
-  },
-  {
     "BID": 2850056,
     "BeerName": "Agave Wheat",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -330,19 +315,34 @@
     "AdjustedRating": "2.4216105934441541702611040072"
   },
   {
-    "BID": 4102569,
-    "BeerName": "Three Hos",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Saucy Brew Works",
-    "Origin": "Cleveland, OH United States",
-    "BeerAbv": 7.50,
+    "BID": 605366,
+    "BeerName": "Another One",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Maine Beer Company",
+    "Origin": "Freeport, ME United States",
+    "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2366343_8e367_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-383188_a9e89_sm.jpeg",
+    "HallRating": 23.22,
+    "BAR": 16.52,
+    "StylePlus": "110",
+    "RatingScore": 4.11,
+    "AdjustedRating": "2.4867405450364499241645873086"
+  },
+  {
+    "BID": 3201204,
+    "BeerName": "P3 Pils",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Phase Three Brewing",
+    "Origin": "Lake Zurich, IL United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3201204_bf0f6_sm.jpeg",
     "HallRating": 23.21,
-    "BAR": 14.67,
-    "StylePlus": "101",
-    "RatingScore": 3.50,
-    "AdjustedRating": "2.1470008329658484002155911608"
+    "BAR": 14.66,
+    "StylePlus": "108",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.1516314739766841282519956681"
   },
   {
     "BID": 2808997,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.4584948596747353268470970179"
   },
   {
-    "BID": 3201204,
-    "BeerName": "P3 Pils",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Phase Three Brewing",
-    "Origin": "Lake Zurich, IL United States",
-    "BeerAbv": 4.70,
+    "BID": 4102569,
+    "BeerName": "Three Hos",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Saucy Brew Works",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3201204_bf0f6_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2366343_8e367_sm.jpeg",
     "HallRating": 23.21,
-    "BAR": 14.66,
-    "StylePlus": "108",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.1516314739766841282519956681"
+    "BAR": 14.67,
+    "StylePlus": "101",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.1470008329658484002155911608"
   }
 ]

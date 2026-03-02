@@ -1,35 +1,5 @@
 [
   {
-    "BID": 6601435,
-    "BeerName": "Waters To Fire #10",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Sworn Brewing Company",
-    "Origin": "Mechanicsburg, PA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-547098_3a992.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "114",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.1194808311501309921404715717"
-  },
-  {
-    "BID": 3336981,
-    "BeerName": "Craft Root Beer",
-    "BeerStyle": "Root Beer",
-    "BreweryName": "Erie Brewing Company",
-    "Origin": "Erie, PA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3336981_367c7_sm.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "118",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1194772313661180329180249185"
-  },
-  {
     "BID": 6017900,
     "BeerName": "Laza Tiger (Mythos 2024)",
     "BeerStyle": "Stout - Imperial / Double Coffee",
@@ -43,6 +13,36 @@
     "StylePlus": "112",
     "RatingScore": 4.62,
     "AdjustedRating": "2.1194820310781353118812871228"
+  },
+  {
+    "BID": 6610334,
+    "BeerName": "Barrel No. 5",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "River North Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 25.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6610222_a8471_sm.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "118",
+    "RatingScore": 4.78,
+    "AdjustedRating": "2.1194916305021698698078115313"
+  },
+  {
+    "BID": 6601435,
+    "BeerName": "Waters To Fire #10",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Sworn Brewing Company",
+    "Origin": "Mechanicsburg, PA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-547098_3a992.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "114",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.1194808311501309921404715717"
   },
   {
     "BID": 3338741,
@@ -90,21 +90,6 @@
     "AdjustedRating": "2.139381598232287535990357932"
   },
   {
-    "BID": 6615507,
-    "BeerName": "HAPAX // 01",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "VAT'33",
-    "Origin": "Amersfoort, Utrecht Netherlands",
-    "BeerAbv": 7.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-548149_6e63c.jpeg",
-    "HallRating": 29.66,
-    "BAR": 6.99,
-    "StylePlus": "115",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.119488906943316042747328292"
-  },
-  {
     "BID": 6500936,
     "BeerName": "Where The Field Begins (November 2025)",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -118,6 +103,21 @@
     "StylePlus": "113",
     "RatingScore": 4.56,
     "AdjustedRating": "2.1194845322167364539716267733"
+  },
+  {
+    "BID": 6615507,
+    "BeerName": "HAPAX // 01",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "VAT'33",
+    "Origin": "Amersfoort, Utrecht Netherlands",
+    "BeerAbv": 7.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-548149_6e63c.jpeg",
+    "HallRating": 29.66,
+    "BAR": 6.99,
+    "StylePlus": "115",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.119488906943316042747328292"
   },
   {
     "BID": 6404910,
@@ -165,21 +165,6 @@
     "AdjustedRating": "2.1378389325708839647367167024"
   },
   {
-    "BID": 5610137,
-    "BeerName": "Trantor",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Living Waters Brewing",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 10.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-413851_e12d1.jpeg",
-    "HallRating": 29.54,
-    "BAR": 7.07,
-    "StylePlus": "115",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1194945328553644013139145956"
-  },
-  {
     "BID": 6450642,
     "BeerName": "Singularity: Advocator Select 25-26 #1",
     "BeerStyle": "Stout - Imperial / Double",
@@ -193,6 +178,21 @@
     "StylePlus": "115",
     "RatingScore": 4.67,
     "AdjustedRating": "2.1194977826441281316714413563"
+  },
+  {
+    "BID": 5610137,
+    "BeerName": "Trantor",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Living Waters Brewing",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 10.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-413851_e12d1.jpeg",
+    "HallRating": 29.54,
+    "BAR": 7.07,
+    "StylePlus": "115",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1194945328553644013139145956"
   },
   {
     "BID": 4941284,
@@ -255,21 +255,6 @@
     "AdjustedRating": "2.1362003272412174962322568471"
   },
   {
-    "BID": 6505617,
-    "BeerName": "Beam Me Up Jeezus [Amaretto Cherry + Dark Chocolate Cheesecake] (Ghost 1734)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Adroit Theory",
-    "Origin": "Purcellville, VA United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505617_5395c_sm.jpeg",
-    "HallRating": 29.43,
-    "BAR": 7.16,
-    "StylePlus": "109",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1194947091071352683693850665"
-  },
-  {
     "BID": 5606393,
     "BeerName": "Vinyl Combat",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -283,6 +268,21 @@
     "StylePlus": "123",
     "RatingScore": 4.95,
     "AdjustedRating": "2.1195230571936394293385196499"
+  },
+  {
+    "BID": 6505617,
+    "BeerName": "Beam Me Up Jeezus [Amaretto Cherry + Dark Chocolate Cheesecake] (Ghost 1734)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Adroit Theory",
+    "Origin": "Purcellville, VA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505617_5395c_sm.jpeg",
+    "HallRating": 29.43,
+    "BAR": 7.16,
+    "StylePlus": "109",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1194947091071352683693850665"
   },
   {
     "BID": 3211206,

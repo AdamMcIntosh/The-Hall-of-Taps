@@ -1,20 +1,5 @@
 [
   {
-    "BID": 1429226,
-    "BeerName": "Delirium Nocturnum",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Delirium - Huyghe Brewery",
-    "Origin": "Melle, Vlaams Gewest Belgium",
-    "BeerAbv": 8.50,
-    "BeerIbu": 24.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4486_27e5b_sm.jpeg",
-    "HallRating": 18.06,
-    "BAR": 13.19,
-    "StylePlus": "100",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.6447130240011964060234964626"
-  },
-  {
     "BID": 3612685,
     "BeerName": "La Trappe Isid'or",
     "BeerStyle": "Belgian Strong Golden Ale",
@@ -30,19 +15,34 @@
     "AdjustedRating": "2.6392588341367582610703691566"
   },
   {
-    "BID": 5008053,
-    "BeerName": "Backwoods Bastard",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6830_66eb0_sm.jpeg",
+    "BID": 1429226,
+    "BeerName": "Delirium Nocturnum",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Delirium - Huyghe Brewery",
+    "Origin": "Melle, Vlaams Gewest Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 24.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4486_27e5b_sm.jpeg",
     "HallRating": 18.06,
     "BAR": 13.19,
-    "StylePlus": "108",
-    "RatingScore": 4.11,
-    "AdjustedRating": "2.7589909007154891438053435179"
+    "StylePlus": "100",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.6447130240011964060234964626"
+  },
+  {
+    "BID": 4006067,
+    "BeerName": "Accumulation IPA",
+    "BeerStyle": "IPA - White / Wheat",
+    "BreweryName": "New Belgium Brewing Company",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-280679_ec62a_sm.jpeg",
+    "HallRating": 18.06,
+    "BAR": 13.19,
+    "StylePlus": "101",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.6042605719872891713517477389"
   },
   {
     "BID": 5001234,
@@ -105,6 +105,21 @@
     "AdjustedRating": "2.6960576876973553526538943648"
   },
   {
+    "BID": 3003009,
+    "BeerName": "Straffe Hendrik Brugs Tripel Bier 9°",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij De Halve Maan",
+    "Origin": "Brugge, Vlaams Gewest Belgium",
+    "BeerAbv": 9.00,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9601_96801_sm.jpeg",
+    "HallRating": 18.03,
+    "BAR": 13.15,
+    "StylePlus": "102",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.6291157577819707795890170848"
+  },
+  {
     "BID": 2702708,
     "BeerName": "Toasted Lager",
     "BeerStyle": "Lager - American Amber / Red",
@@ -133,21 +148,6 @@
     "StylePlus": "100",
     "RatingScore": 3.62,
     "AdjustedRating": "2.5887335500319550293092903235"
-  },
-  {
-    "BID": 3003009,
-    "BeerName": "Straffe Hendrik Brugs Tripel Bier 9°",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij De Halve Maan",
-    "Origin": "Brugge, Vlaams Gewest Belgium",
-    "BeerAbv": 9.00,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9601_96801_sm.jpeg",
-    "HallRating": 18.03,
-    "BAR": 13.15,
-    "StylePlus": "102",
-    "RatingScore": 3.75,
-    "AdjustedRating": "2.6291157577819707795890170848"
   },
   {
     "BID": 2628021,
@@ -210,34 +210,19 @@
     "AdjustedRating": "2.6396117353914920493902565989"
   },
   {
-    "BID": 6203879,
-    "BeerName": "2XIPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Southern Tier Brewing Company",
-    "Origin": "Lakewood, NY United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5742_4cc45_sm.jpeg",
+    "BID": 2211706,
+    "BeerName": "White Rascal",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Avery Brewing Co.",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6109_3ba16_sm.jpeg",
     "HallRating": 18.00,
     "BAR": 13.12,
-    "StylePlus": "98",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.6287410570683822306028506461"
-  },
-  {
-    "BID": 6501286,
-    "BeerName": "Christmas Ale",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Great Lakes Brewing Company",
-    "Origin": "Cleveland, OH United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7472_6ee0a_sm.jpeg",
-    "HallRating": 18.00,
-    "BAR": 13.12,
-    "StylePlus": "107",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.6292914902610226099489318653"
+    "StylePlus": "104",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.5833472017016176106337243844"
   },
   {
     "BID": 2302490,
@@ -255,6 +240,36 @@
     "AdjustedRating": "2.6092619102967555695881922302"
   },
   {
+    "BID": 6501286,
+    "BeerName": "Christmas Ale",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Great Lakes Brewing Company",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7472_6ee0a_sm.jpeg",
+    "HallRating": 18.00,
+    "BAR": 13.12,
+    "StylePlus": "107",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.6292914902610226099489318653"
+  },
+  {
+    "BID": 6203879,
+    "BeerName": "2XIPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Southern Tier Brewing Company",
+    "Origin": "Lakewood, NY United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5742_4cc45_sm.jpeg",
+    "HallRating": 18.00,
+    "BAR": 13.12,
+    "StylePlus": "98",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.6287410570683822306028506461"
+  },
+  {
     "BID": 2825419,
     "BeerName": "Mosaic Promise",
     "BeerStyle": "Pale Ale - American",
@@ -268,36 +283,6 @@
     "StylePlus": "104",
     "RatingScore": 3.76,
     "AdjustedRating": "2.6215346717576056164552284764"
-  },
-  {
-    "BID": 2211706,
-    "BeerName": "White Rascal",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Avery Brewing Co.",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6109_3ba16_sm.jpeg",
-    "HallRating": 18.00,
-    "BAR": 13.12,
-    "StylePlus": "104",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.5833472017016176106337243844"
-  },
-  {
-    "BID": 3215054,
-    "BeerName": "Namaste White",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400_dd7e9_sm.jpeg",
-    "HallRating": 17.99,
-    "BAR": 13.11,
-    "StylePlus": "103",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.5707236962154665888106273494"
   },
   {
     "BID": 5008904,
@@ -315,6 +300,21 @@
     "AdjustedRating": "2.5508680251553059906598829265"
   },
   {
+    "BID": 3215054,
+    "BeerName": "Namaste White",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400_dd7e9_sm.jpeg",
+    "HallRating": 17.99,
+    "BAR": 13.11,
+    "StylePlus": "103",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.5707236962154665888106273494"
+  },
+  {
     "BID": 4206408,
     "BeerName": "Shake Chocolate Porter",
     "BeerStyle": "Porter - American",
@@ -328,6 +328,21 @@
     "StylePlus": "106",
     "RatingScore": 3.99,
     "AdjustedRating": "2.6893918177852016526426116898"
+  },
+  {
+    "BID": 3902690,
+    "BeerName": "La Trappe Witte Trappist",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Bierbrouwerij De Koningshoeven",
+    "Origin": "Berkel-Enschot, Noord-Brabant Netherlands",
+    "BeerAbv": 5.50,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17860_9120c_sm.jpeg",
+    "HallRating": 17.98,
+    "BAR": 13.10,
+    "StylePlus": "103",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.5668815118589313094276628739"
   },
   {
     "BID": 5401853,
@@ -358,20 +373,5 @@
     "StylePlus": "100",
     "RatingScore": 3.78,
     "AdjustedRating": "2.62124418456578963435375633"
-  },
-  {
-    "BID": 3902690,
-    "BeerName": "La Trappe Witte Trappist",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Bierbrouwerij De Koningshoeven",
-    "Origin": "Berkel-Enschot, Noord-Brabant Netherlands",
-    "BeerAbv": 5.50,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17860_9120c_sm.jpeg",
-    "HallRating": 17.98,
-    "BAR": 13.10,
-    "StylePlus": "103",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.5668815118589313094276628739"
   }
 ]

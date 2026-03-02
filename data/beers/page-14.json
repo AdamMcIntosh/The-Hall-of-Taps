@@ -1,20 +1,5 @@
 [
   {
-    "BID": 6015895,
-    "BeerName": "Kilauea",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 12.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015895_cfd3d_sm.jpeg",
-    "HallRating": 27.59,
-    "BAR": 12.91,
-    "StylePlus": "111",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1216892367788761732545419125"
-  },
-  {
     "BID": 5404191,
     "BeerName": "Barrel-Aged One Man Wrecking Machine",
     "BeerStyle": "Stout - Imperial / Double Milk",
@@ -30,34 +15,19 @@
     "AdjustedRating": "2.1216367705164516241826637295"
   },
   {
-    "BID": 5000474,
-    "BeerName": "Funktastic Freshy: These Are Your Decisions",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "Funktastic Meads",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 6.50,
+    "BID": 6015895,
+    "BeerName": "Kilauea",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 12.30,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5000474_1c256_sm.jpeg",
-    "HallRating": 27.58,
-    "BAR": 9.62,
-    "StylePlus": "119",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1198486317873246618210175863"
-  },
-  {
-    "BID": 6503040,
-    "BeerName": "Hot Garbage Aged In Barton 1792 Barrels For 39 Months",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Voodoo Brewing Company",
-    "Origin": "Meadville, PA United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1330_7b026.jpeg",
-    "HallRating": 27.58,
-    "BAR": 12.88,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015895_cfd3d_sm.jpeg",
+    "HallRating": 27.59,
+    "BAR": 12.91,
     "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1215865086818390712730033768"
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1216892367788761732545419125"
   },
   {
     "BID": 1668809,
@@ -75,19 +45,34 @@
     "AdjustedRating": "2.1198507313464172523770008298"
   },
   {
-    "BID": 3018980,
-    "BeerName": "Black Currant Bourbon Pancake",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
+    "BID": 6503040,
+    "BeerName": "Hot Garbage Aged In Barton 1792 Barrels For 39 Months",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Voodoo Brewing Company",
+    "Origin": "Meadville, PA United States",
+    "BeerAbv": 13.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266944_bf1b0.jpeg",
-    "HallRating": 27.57,
-    "BAR": 12.82,
-    "StylePlus": "114",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.1216425929209949870993363589"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1330_7b026.jpeg",
+    "HallRating": 27.58,
+    "BAR": 12.88,
+    "StylePlus": "111",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1215865086818390712730033768"
+  },
+  {
+    "BID": 5000474,
+    "BeerName": "Funktastic Freshy: These Are Your Decisions",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Funktastic Meads",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5000474_1c256_sm.jpeg",
+    "HallRating": 27.58,
+    "BAR": 9.62,
+    "StylePlus": "119",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1198486317873246618210175863"
   },
   {
     "BID": 6216152,
@@ -103,6 +88,21 @@
     "StylePlus": "114",
     "RatingScore": 4.62,
     "AdjustedRating": "2.1216554604218077188214960087"
+  },
+  {
+    "BID": 3018980,
+    "BeerName": "Black Currant Bourbon Pancake",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266944_bf1b0.jpeg",
+    "HallRating": 27.57,
+    "BAR": 12.82,
+    "StylePlus": "114",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.1216425929209949870993363589"
   },
   {
     "BID": 6003072,
@@ -165,6 +165,21 @@
     "AdjustedRating": "2.1198738271271676589533250351"
   },
   {
+    "BID": 6200492,
+    "BeerName": "The Gloaming",
+    "BeerStyle": "Rye Wine",
+    "BreweryName": "Solaris Beer & Blending",
+    "Origin": "Murrieta, CA United States",
+    "BeerAbv": 15.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6200492_ee694_sm.jpeg",
+    "HallRating": 27.55,
+    "BAR": 9.70,
+    "StylePlus": "111",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1198540317480947893833091303"
+  },
+  {
     "BID": 4802065,
     "BeerName": "Barrique Puffeney (2018)",
     "BeerStyle": "Lambic - Gueuze",
@@ -195,21 +210,6 @@
     "AdjustedRating": "2.1198930235348223390854012117"
   },
   {
-    "BID": 6200492,
-    "BeerName": "The Gloaming",
-    "BeerStyle": "Rye Wine",
-    "BreweryName": "Solaris Beer & Blending",
-    "Origin": "Murrieta, CA United States",
-    "BeerAbv": 15.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6200492_ee694_sm.jpeg",
-    "HallRating": 27.55,
-    "BAR": 9.70,
-    "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1198540317480947893833091303"
-  },
-  {
     "BID": 6004323,
     "BeerName": "Cosmic Fusion (2023)",
     "BeerStyle": "Mead - Melomel",
@@ -223,21 +223,6 @@
     "StylePlus": "114",
     "RatingScore": 4.64,
     "AdjustedRating": "2.1215230749248154105927842777"
-  },
-  {
-    "BID": 5613482,
-    "BeerName": "Proper Black - Banana",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brewlihan",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
-    "HallRating": 27.54,
-    "BAR": 12.71,
-    "StylePlus": "116",
-    "RatingScore": 4.72,
-    "AdjustedRating": "2.1215991047810785090008967176"
   },
   {
     "BID": 4502493,
@@ -255,19 +240,19 @@
     "AdjustedRating": "2.1214994492277948879347166333"
   },
   {
-    "BID": 6101052,
-    "BeerName": "Bruce Banner #3: OG Kush",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Lost Cabin Beer Co.",
-    "Origin": "Rapid City, SD United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 42.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6101052_bc696_sm.jpeg",
-    "HallRating": 27.53,
-    "BAR": 9.77,
-    "StylePlus": "126",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1198720287935214576720237946"
+    "BID": 5613482,
+    "BeerName": "Proper Black - Banana",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brewlihan",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
+    "HallRating": 27.54,
+    "BAR": 12.71,
+    "StylePlus": "116",
+    "RatingScore": 4.72,
+    "AdjustedRating": "2.1215991047810785090008967176"
   },
   {
     "BID": 6401056,
@@ -300,6 +285,36 @@
     "AdjustedRating": "2.1214132986961083079382524854"
   },
   {
+    "BID": 6101052,
+    "BeerName": "Bruce Banner #3: OG Kush",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Lost Cabin Beer Co.",
+    "Origin": "Rapid City, SD United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 42.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6101052_bc696_sm.jpeg",
+    "HallRating": 27.53,
+    "BAR": 9.77,
+    "StylePlus": "126",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1198720287935214576720237946"
+  },
+  {
+    "BID": 6014341,
+    "BeerName": "King Sized Candy Bar (2024)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "American Solera",
+    "Origin": "Tulsa, OK United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-262817_c0b72.jpeg",
+    "HallRating": 27.52,
+    "BAR": 12.60,
+    "StylePlus": "110",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1213417147310600478104368635"
+  },
+  {
     "BID": 6100663,
     "BeerName": "Barrel Aged Thanatos (Copper Wax)",
     "BeerStyle": "Stout - Imperial / Double Pastry",
@@ -330,36 +345,6 @@
     "AdjustedRating": "2.1214536648240339917019081615"
   },
   {
-    "BID": 6014341,
-    "BeerName": "King Sized Candy Bar (2024)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "American Solera",
-    "Origin": "Tulsa, OK United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-262817_c0b72.jpeg",
-    "HallRating": 27.52,
-    "BAR": 12.60,
-    "StylePlus": "110",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1213417147310600478104368635"
-  },
-  {
-    "BID": 6004992,
-    "BeerName": "Baal",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Monkey Brew",
-    "Origin": "Trondheim, Trøndelag Norway",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004992_777fb_sm.jpeg",
-    "HallRating": 27.51,
-    "BAR": 12.59,
-    "StylePlus": "112",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1213213631787854489682236361"
-  },
-  {
     "BID": 6403888,
     "BeerName": "Grifter And Friends",
     "BeerStyle": "Strong Ale - Other",
@@ -373,5 +358,20 @@
     "StylePlus": "119",
     "RatingScore": 4.56,
     "AdjustedRating": "2.1199054222257769424185316451"
+  },
+  {
+    "BID": 6506103,
+    "BeerName": "Ripened Psychosis",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Troon Brewing",
+    "Origin": "Hopewell, NJ United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
+    "HallRating": 27.51,
+    "BAR": 12.59,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1212967084572938757871650567"
   }
 ]

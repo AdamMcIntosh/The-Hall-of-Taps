@@ -15,21 +15,6 @@
     "AdjustedRating": "2.1192863802589118105079500774"
   },
   {
-    "BID": 6209901,
-    "BeerName": "Nordlicht Alkoholfreies Bier",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "REWE",
-    "Origin": "Cologne, Nordrhein-Westfalen Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-281970_32012.jpeg",
-    "HallRating": 6.97,
-    "BAR": 3.47,
-    "StylePlus": "88",
-    "RatingScore": 2.36,
-    "AdjustedRating": "2.1196918614374973477217866245"
-  },
-  {
     "BID": 1803319,
     "BeerName": "CB Beer",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -43,21 +28,6 @@
     "StylePlus": "71",
     "RatingScore": 2.47,
     "AdjustedRating": "2.1198572141787319021467798303"
-  },
-  {
-    "BID": 5846,
-    "BeerName": "Keystone Premium",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Coors Brewing Company",
-    "Origin": "Golden, CO United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-KeystonePremium_5846.jpeg",
-    "HallRating": 6.97,
-    "BAR": 3.48,
-    "StylePlus": "58",
-    "RatingScore": 2.02,
-    "AdjustedRating": "2.1191822348254136254256073329"
   },
   {
     "BID": 6412491,
@@ -75,19 +45,34 @@
     "AdjustedRating": "2.119318046225776899093607323"
   },
   {
-    "BID": 8898,
-    "BeerName": "Yanjing Alcoholfree",
+    "BID": 6209901,
+    "BeerName": "Nordlicht Alkoholfreies Bier",
     "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Beijing Yanjing Brewery (北京燕京)",
-    "Origin": "Bei Jing Shi, China / People's Republic of China",
+    "BreweryName": "REWE",
+    "Origin": "Cologne, Nordrhein-Westfalen Germany",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BeijingYanjingBrewery_2285.jpeg",
-    "HallRating": 6.96,
-    "BAR": 2.25,
-    "StylePlus": "66",
-    "RatingScore": 1.77,
-    "AdjustedRating": "2.1192769888742523052619212474"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-281970_32012.jpeg",
+    "HallRating": 6.97,
+    "BAR": 3.47,
+    "StylePlus": "88",
+    "RatingScore": 2.36,
+    "AdjustedRating": "2.1196918614374973477217866245"
+  },
+  {
+    "BID": 5846,
+    "BeerName": "Keystone Premium",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Coors Brewing Company",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-KeystonePremium_5846.jpeg",
+    "HallRating": 6.97,
+    "BAR": 3.48,
+    "StylePlus": "58",
+    "RatingScore": 2.02,
+    "AdjustedRating": "2.1191822348254136254256073329"
   },
   {
     "BID": 214264,
@@ -103,6 +88,21 @@
     "StylePlus": "76",
     "RatingScore": 2.06,
     "AdjustedRating": "2.1192481638481548608718663092"
+  },
+  {
+    "BID": 8898,
+    "BeerName": "Yanjing Alcoholfree",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Beijing Yanjing Brewery (北京燕京)",
+    "Origin": "Bei Jing Shi, China / People's Republic of China",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BeijingYanjingBrewery_2285.jpeg",
+    "HallRating": 6.96,
+    "BAR": 2.25,
+    "StylePlus": "66",
+    "RatingScore": 1.77,
+    "AdjustedRating": "2.1192769888742523052619212474"
   },
   {
     "BID": 40130,
@@ -135,21 +135,6 @@
     "AdjustedRating": "2.1198344996667024514221943711"
   },
   {
-    "BID": 1672563,
-    "BeerName": "Wieckse Rosé 0,0%",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Wieckse",
-    "Origin": "Maastricht, Limburg Netherlands",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-142430_2d494_sm.jpeg",
-    "HallRating": 6.94,
-    "BAR": 3.36,
-    "StylePlus": "73",
-    "RatingScore": 2.05,
-    "AdjustedRating": "2.1192468264035236658909541264"
-  },
-  {
     "BID": 8885,
     "BeerName": "Kingway 12°",
     "BeerStyle": "Lager - American",
@@ -163,6 +148,21 @@
     "StylePlus": "69",
     "RatingScore": 2.38,
     "AdjustedRating": "2.1193769574748355908605765505"
+  },
+  {
+    "BID": 1672563,
+    "BeerName": "Wieckse Rosé 0,0%",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Wieckse",
+    "Origin": "Maastricht, Limburg Netherlands",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-142430_2d494_sm.jpeg",
+    "HallRating": 6.94,
+    "BAR": 3.36,
+    "StylePlus": "73",
+    "RatingScore": 2.05,
+    "AdjustedRating": "2.1192468264035236658909541264"
   },
   {
     "BID": 19778,
@@ -180,21 +180,6 @@
     "AdjustedRating": "2.1197601681943823675556632017"
   },
   {
-    "BID": 1413236,
-    "BeerName": "Pito",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Samson (Budějovický měšťanský pivovar)",
-    "Origin": "České Budějovice, Jihočeský kraj Czech Republic",
-    "BeerAbv": 0.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-261672_e6601_sm.jpeg",
-    "HallRating": 6.93,
-    "BAR": 3.36,
-    "StylePlus": "87",
-    "RatingScore": 2.34,
-    "AdjustedRating": "2.119599786259694471217470773"
-  },
-  {
     "BID": 3862,
     "BeerName": "Labatt Wildcat",
     "BeerStyle": "Lager - American",
@@ -210,19 +195,19 @@
     "AdjustedRating": "2.1195013009323764863339675691"
   },
   {
-    "BID": 6007543,
-    "BeerName": "Night Lighter Red Punch",
-    "BeerStyle": "Flavored Malt Beverage",
-    "BreweryName": "Van Pur",
-    "Origin": "Rakszawa, Województwo podkarpackie Poland",
-    "BeerAbv": 8.00,
+    "BID": 1413236,
+    "BeerName": "Pito",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Samson (Budějovický měšťanský pivovar)",
+    "Origin": "České Budějovice, Jihočeský kraj Czech Republic",
+    "BeerAbv": 0.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6007543_64f65_sm.jpeg",
-    "HallRating": 6.92,
-    "BAR": 3.30,
-    "StylePlus": "75",
-    "RatingScore": 2.48,
-    "AdjustedRating": "2.1197264994830660426832618283"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-261672_e6601_sm.jpeg",
+    "HallRating": 6.93,
+    "BAR": 3.36,
+    "StylePlus": "87",
+    "RatingScore": 2.34,
+    "AdjustedRating": "2.119599786259694471217470773"
   },
   {
     "BID": 5015184,
@@ -240,6 +225,21 @@
     "AdjustedRating": "2.1193156998847710292871550942"
   },
   {
+    "BID": 411719,
+    "BeerName": "Power's Gold",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Carlton & United Breweries",
+    "Origin": "Abbotsford, Victoria Australia",
+    "BeerAbv": 3.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4045_ce45d.jpeg",
+    "HallRating": 6.92,
+    "BAR": 2.34,
+    "StylePlus": "63",
+    "RatingScore": 2.18,
+    "AdjustedRating": "2.1193433731175404611635318378"
+  },
+  {
     "BID": 5700023,
     "BeerName": "Keldby Brown Ale",
     "BeerStyle": "Non-Alcoholic - Other",
@@ -255,19 +255,19 @@
     "AdjustedRating": "2.1193413718462084514364842504"
   },
   {
-    "BID": 411719,
-    "BeerName": "Power's Gold",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Carlton & United Breweries",
-    "Origin": "Abbotsford, Victoria Australia",
-    "BeerAbv": 3.00,
+    "BID": 6007543,
+    "BeerName": "Night Lighter Red Punch",
+    "BeerStyle": "Flavored Malt Beverage",
+    "BreweryName": "Van Pur",
+    "Origin": "Rakszawa, Województwo podkarpackie Poland",
+    "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4045_ce45d.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6007543_64f65_sm.jpeg",
     "HallRating": 6.92,
-    "BAR": 2.34,
-    "StylePlus": "63",
-    "RatingScore": 2.18,
-    "AdjustedRating": "2.1193433731175404611635318378"
+    "BAR": 3.30,
+    "StylePlus": "75",
+    "RatingScore": 2.48,
+    "AdjustedRating": "2.1197264994830660426832618283"
   },
   {
     "BID": 6004297,
@@ -285,36 +285,6 @@
     "AdjustedRating": "2.1192997702527220057936270103"
   },
   {
-    "BID": 6202818,
-    "BeerName": "Karlskrone Helles Alkoholfrei",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Brauerei Braunschweig",
-    "Origin": "Braunschweig, Niedersachsen Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-110938_120a7.jpeg",
-    "HallRating": 6.91,
-    "BAR": 2.37,
-    "StylePlus": "88",
-    "RatingScore": 2.36,
-    "AdjustedRating": "2.1193795225442975012435044079"
-  },
-  {
-    "BID": 304923,
-    "BeerName": "Postřižinské Střízlík",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Pivovar Nymburk",
-    "Origin": "Nymburk 2, Středočeský kraj Czech Republic",
-    "BeerAbv": 0.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-343757_13efe_sm.jpeg",
-    "HallRating": 6.91,
-    "BAR": 3.27,
-    "StylePlus": "91",
-    "RatingScore": 2.45,
-    "AdjustedRating": "2.119673887526410165478729515"
-  },
-  {
     "BID": 5808837,
     "BeerName": "0,0 Alkoholivaba õlu",
     "BeerStyle": "Non-Alcoholic - Lager",
@@ -328,21 +298,6 @@
     "StylePlus": "89",
     "RatingScore": 2.41,
     "AdjustedRating": "2.119645582770607743636872178"
-  },
-  {
-    "BID": 35469,
-    "BeerName": "Delster Pomegranate",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Iran Behnoush Co.",
-    "Origin": "Tehran, Tehran Province Iran",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-5871_cf09f.jpeg",
-    "HallRating": 6.91,
-    "BAR": 2.37,
-    "StylePlus": "88",
-    "RatingScore": 2.49,
-    "AdjustedRating": "2.1194051924744862889579308087"
   },
   {
     "BID": 8867,
@@ -360,18 +315,63 @@
     "AdjustedRating": "2.1197041892988699506774052569"
   },
   {
-    "BID": 1613322,
-    "BeerName": "Stary Melnik Bezalkogolnoe (Старый Мельник Безалкогольное)",
+    "BID": 304923,
+    "BeerName": "Postřižinské Střízlík",
     "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "AB InBev Efes",
-    "Origin": "Moskva, Russia",
+    "BreweryName": "Pivovar Nymburk",
+    "Origin": "Nymburk 2, Středočeský kraj Czech Republic",
     "BeerAbv": 0.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-638744_0e7ae_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-343757_13efe_sm.jpeg",
+    "HallRating": 6.91,
+    "BAR": 3.27,
+    "StylePlus": "91",
+    "RatingScore": 2.45,
+    "AdjustedRating": "2.119673887526410165478729515"
+  },
+  {
+    "BID": 6202818,
+    "BeerName": "Karlskrone Helles Alkoholfrei",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Brauerei Braunschweig",
+    "Origin": "Braunschweig, Niedersachsen Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-110938_120a7.jpeg",
+    "HallRating": 6.91,
+    "BAR": 2.37,
+    "StylePlus": "88",
+    "RatingScore": 2.36,
+    "AdjustedRating": "2.1193795225442975012435044079"
+  },
+  {
+    "BID": 35469,
+    "BeerName": "Delster Pomegranate",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Iran Behnoush Co.",
+    "Origin": "Tehran, Tehran Province Iran",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-5871_cf09f.jpeg",
+    "HallRating": 6.91,
+    "BAR": 2.37,
+    "StylePlus": "88",
+    "RatingScore": 2.49,
+    "AdjustedRating": "2.1194051924744862889579308087"
+  },
+  {
+    "BID": 1628567,
+    "BeerName": "Kamenitza Non-Alcoholic 0.0% (Каменица Безалкохолна 0.0%)",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Kamenitza (StarBev)",
+    "Origin": "Plovdiv, Bulgaria",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-8743_08d03.jpeg",
     "HallRating": 6.90,
-    "BAR": 3.23,
-    "StylePlus": "85",
-    "RatingScore": 2.28,
-    "AdjustedRating": "2.1194852915465730227632610857"
+    "BAR": 3.22,
+    "StylePlus": "68",
+    "RatingScore": 1.83,
+    "AdjustedRating": "2.1190573954742994155552225386"
   }
 ]

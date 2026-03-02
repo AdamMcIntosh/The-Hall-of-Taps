@@ -1,20 +1,5 @@
 [
   {
-    "BID": 1666939,
-    "BeerName": "Xalapa",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "One Well Brewing",
-    "Origin": "Kalamazoo, MI United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-885850_021a1_sm.jpeg",
-    "HallRating": 22.80,
-    "BAR": 14.05,
-    "StylePlus": "106",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.1409146318911761877639783713"
-  },
-  {
     "BID": 4050922,
     "BeerName": "Santilli",
     "BeerStyle": "IPA - American",
@@ -45,6 +30,21 @@
     "AdjustedRating": "2.3193100133707455000637216466"
   },
   {
+    "BID": 1666939,
+    "BeerName": "Xalapa",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "One Well Brewing",
+    "Origin": "Kalamazoo, MI United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-885850_021a1_sm.jpeg",
+    "HallRating": 22.80,
+    "BAR": 14.05,
+    "StylePlus": "106",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.1409146318911761877639783713"
+  },
+  {
     "BID": 806838,
     "BeerName": "Dallas Blonde®",
     "BeerStyle": "Blonde / Golden Ale - Other",
@@ -58,21 +58,6 @@
     "StylePlus": "101",
     "RatingScore": 3.54,
     "AdjustedRating": "2.311056416156469573078029338"
-  },
-  {
-    "BID": 4611554,
-    "BeerName": "Hoppy Xmas",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "BrewDog",
-    "Origin": "Ellon, Aberdeenshire Scotland",
-    "BeerAbv": 6.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3518943_f16c6_sm.jpeg",
-    "HallRating": 22.78,
-    "BAR": 15.97,
-    "StylePlus": "95",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.3091878510118020103920069482"
   },
   {
     "BID": 3202742,
@@ -90,34 +75,19 @@
     "AdjustedRating": "2.3154253152489491701694327686"
   },
   {
-    "BID": 6025558,
-    "BeerName": "Hop Commander",
+    "BID": 4611554,
+    "BeerName": "Hoppy Xmas",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Captain Lawrence Brewing Company",
-    "Origin": "Elmsford, NY United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 71.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-871255_7b1a9_sm.jpeg",
-    "HallRating": 22.77,
-    "BAR": 15.96,
-    "StylePlus": "98",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.3212377910896906389501366964"
-  },
-  {
-    "BID": 4414586,
-    "BeerName": "Free Dive",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Coppertail Brewing Company",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-667659_47071_sm.jpeg",
-    "HallRating": 22.77,
-    "BAR": 15.95,
-    "StylePlus": "100",
-    "RatingScore": 3.72,
-    "AdjustedRating": "2.3308206623620079150177046449"
+    "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
+    "BeerAbv": 6.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3518943_f16c6_sm.jpeg",
+    "HallRating": 22.78,
+    "BAR": 15.97,
+    "StylePlus": "95",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.3091878510118020103920069482"
   },
   {
     "BID": 1676387,
@@ -135,6 +105,36 @@
     "AdjustedRating": "2.3042986448877675761437823497"
   },
   {
+    "BID": 4414586,
+    "BeerName": "Free Dive",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Coppertail Brewing Company",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-667659_47071_sm.jpeg",
+    "HallRating": 22.77,
+    "BAR": 15.95,
+    "StylePlus": "100",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.3308206623620079150177046449"
+  },
+  {
+    "BID": 6025558,
+    "BeerName": "Hop Commander",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Captain Lawrence Brewing Company",
+    "Origin": "Elmsford, NY United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 71.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-871255_7b1a9_sm.jpeg",
+    "HallRating": 22.77,
+    "BAR": 15.96,
+    "StylePlus": "98",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.3212377910896906389501366964"
+  },
+  {
     "BID": 5500119,
     "BeerName": "Erdinger Oktoberfest / Festweiße",
     "BeerStyle": "Wheat Beer - Hefeweizen",
@@ -148,21 +148,6 @@
     "StylePlus": "103",
     "RatingScore": 3.63,
     "AdjustedRating": "2.3174114557425336093474062859"
-  },
-  {
-    "BID": 6001763,
-    "BeerName": "Lazurite",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Warpigs Brewpub",
-    "Origin": "Copenhagen, Region Hovedstaden Denmark",
-    "BeerAbv": 7.40,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1041469_b7ee9_sm.jpeg",
-    "HallRating": 22.76,
-    "BAR": 15.94,
-    "StylePlus": "105",
-    "RatingScore": 3.93,
-    "AdjustedRating": "2.3579905453771973424609367369"
   },
   {
     "BID": 1432994,
@@ -180,21 +165,6 @@
     "AdjustedRating": "2.3270491643088094467739518845"
   },
   {
-    "BID": 3404818,
-    "BeerName": "Broken Skull IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "El Segundo Brewing Company",
-    "Origin": "El Segundo, CA United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 67.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1312129_09bed_sm.jpeg",
-    "HallRating": 22.76,
-    "BAR": 15.94,
-    "StylePlus": "101",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.3382101214610048532310016409"
-  },
-  {
     "BID": 2014930,
     "BeerName": "Shape Shifter IPA",
     "BeerStyle": "IPA - American",
@@ -208,6 +178,36 @@
     "StylePlus": "95",
     "RatingScore": 3.53,
     "AdjustedRating": "2.3052970234710399402697411544"
+  },
+  {
+    "BID": 6001763,
+    "BeerName": "Lazurite",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Warpigs Brewpub",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 7.40,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1041469_b7ee9_sm.jpeg",
+    "HallRating": 22.76,
+    "BAR": 15.94,
+    "StylePlus": "105",
+    "RatingScore": 3.93,
+    "AdjustedRating": "2.3579905453771973424609367369"
+  },
+  {
+    "BID": 3404818,
+    "BeerName": "Broken Skull IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "El Segundo Brewing Company",
+    "Origin": "El Segundo, CA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 67.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1312129_09bed_sm.jpeg",
+    "HallRating": 22.76,
+    "BAR": 15.94,
+    "StylePlus": "101",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.3382101214610048532310016409"
   },
   {
     "BID": 5203381,
@@ -285,21 +285,6 @@
     "AdjustedRating": "2.1403070240386988498938743275"
   },
   {
-    "BID": 3207809,
-    "BeerName": "Life",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Lord Hobo Brewing Co.",
-    "Origin": "Woburn, MA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 74.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1441465_a3ad2_sm.jpeg",
-    "HallRating": 22.73,
-    "BAR": 15.90,
-    "StylePlus": "104",
-    "RatingScore": 3.72,
-    "AdjustedRating": "2.3250428443507114580587249748"
-  },
-  {
     "BID": 27563,
     "BeerName": "Golden Nugget",
     "BeerStyle": "IPA - American",
@@ -315,34 +300,19 @@
     "AdjustedRating": "2.3602888655119015727194913981"
   },
   {
-    "BID": 903475,
-    "BeerName": "Christmas Ale",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Begyle Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-521574_3355a_sm.jpeg",
-    "HallRating": 22.72,
-    "BAR": 13.92,
-    "StylePlus": "106",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.1390657425781674219313054725"
-  },
-  {
-    "BID": 2008674,
-    "BeerName": "100W",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Nya Carnegiebryggeriet",
-    "Origin": "Stockholm, Stockholms län Sweden",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-977885_07976_sm.jpeg",
-    "HallRating": 22.72,
-    "BAR": 15.89,
-    "StylePlus": "95",
-    "RatingScore": 3.54,
-    "AdjustedRating": "2.300954401449525001471765006"
+    "BID": 3207809,
+    "BeerName": "Life",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Lord Hobo Brewing Co.",
+    "Origin": "Woburn, MA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 74.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1441465_a3ad2_sm.jpeg",
+    "HallRating": 22.73,
+    "BAR": 15.90,
+    "StylePlus": "104",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.3250428443507114580587249748"
   },
   {
     "BID": 450180,
@@ -373,5 +343,35 @@
     "StylePlus": "106",
     "RatingScore": 3.95,
     "AdjustedRating": "2.3524364862064075572960413644"
+  },
+  {
+    "BID": 903475,
+    "BeerName": "Christmas Ale",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Begyle Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-521574_3355a_sm.jpeg",
+    "HallRating": 22.72,
+    "BAR": 13.92,
+    "StylePlus": "106",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.1390657425781674219313054725"
+  },
+  {
+    "BID": 2008674,
+    "BeerName": "100W",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Nya Carnegiebryggeriet",
+    "Origin": "Stockholm, Stockholms län Sweden",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-977885_07976_sm.jpeg",
+    "HallRating": 22.72,
+    "BAR": 15.89,
+    "StylePlus": "95",
+    "RatingScore": 3.54,
+    "AdjustedRating": "2.300954401449525001471765006"
   }
 ]

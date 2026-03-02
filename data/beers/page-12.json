@@ -1,18 +1,33 @@
 [
   {
-    "BID": 6305342,
-    "BeerName": "BA Recess Synergy Fluff",
-    "BeerStyle": "Mead - Pyment",
-    "BreweryName": "Brewlihan",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 12.50,
+    "BID": 5500225,
+    "BeerName": "25th Anniversary Series: B&E'S Double Barrel Maple Bourbon Stout Green Label",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 16.74,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5500225_510b1_sm.jpeg",
     "HallRating": 27.80,
-    "BAR": 9.06,
+    "BAR": 13.63,
     "StylePlus": "114",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1197334183195230774999062652"
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.1226401885492295247321062986"
+  },
+  {
+    "BID": 6604318,
+    "BeerName": "Doozie Mallow",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Drafting Table Brewing Company",
+    "Origin": "Wixom, MI United States",
+    "BeerAbv": 13.20,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6604318_f4359_sm.jpeg",
+    "HallRating": 27.79,
+    "BAR": 9.10,
+    "StylePlus": "114",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.1197478416061349877270250409"
   },
   {
     "BID": 5218371,
@@ -43,21 +58,6 @@
     "StylePlus": "112",
     "RatingScore": 4.52,
     "AdjustedRating": "2.1197280448725960216564266896"
-  },
-  {
-    "BID": 6604318,
-    "BeerName": "Doozie Mallow",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Drafting Table Brewing Company",
-    "Origin": "Wixom, MI United States",
-    "BeerAbv": 13.20,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6604318_f4359_sm.jpeg",
-    "HallRating": 27.79,
-    "BAR": 9.10,
-    "StylePlus": "114",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.1197478416061349877270250409"
   },
   {
     "BID": 2012278,
@@ -180,21 +180,6 @@
     "AdjustedRating": "2.1223954944179624002137429741"
   },
   {
-    "BID": 4621753,
-    "BeerName": "Double Honey Ann (12/08/2016)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
-    "HallRating": 27.73,
-    "BAR": 13.43,
-    "StylePlus": "129",
-    "RatingScore": 4.79,
-    "AdjustedRating": "2.1225662634056206849195350637"
-  },
-  {
     "BID": 5419008,
     "BeerName": "Plum (2018, June)",
     "BeerStyle": "Mead - Melomel",
@@ -210,19 +195,19 @@
     "AdjustedRating": "2.1223110075684367969356695357"
   },
   {
-    "BID": 4816857,
-    "BeerName": "Monster Tones (2022)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Modern Times Beer",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 14.30,
+    "BID": 4621753,
+    "BeerName": "Double Honey Ann (12/08/2016)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816857_fda6a_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
     "HallRating": 27.73,
-    "BAR": 13.40,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1221914007975449399344285218"
+    "BAR": 13.43,
+    "StylePlus": "129",
+    "RatingScore": 4.79,
+    "AdjustedRating": "2.1225662634056206849195350637"
   },
   {
     "BID": 4007402,
@@ -238,6 +223,21 @@
     "StylePlus": "117",
     "RatingScore": 4.57,
     "AdjustedRating": "2.1222753888449139909259115913"
+  },
+  {
+    "BID": 4816857,
+    "BeerName": "Monster Tones (2022)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Modern Times Beer",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 14.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816857_fda6a_sm.jpeg",
+    "HallRating": 27.73,
+    "BAR": 13.40,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1221914007975449399344285218"
   },
   {
     "BID": 6606035,
@@ -270,21 +270,6 @@
     "AdjustedRating": "2.1222124280523890976739540284"
   },
   {
-    "BID": 1672076,
-    "BeerName": "Kromer Juice: Dragonfruit",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "The Answer",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1672076_ba4bf_sm.jpeg",
-    "HallRating": 27.70,
-    "BAR": 9.29,
-    "StylePlus": "121",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1197766402047631426343258214"
-  },
-  {
     "BID": 5816271,
     "BeerName": "S'more Than A Feeling",
     "BeerStyle": "Stout - Imperial / Double",
@@ -300,34 +285,19 @@
     "AdjustedRating": "2.1197730408526465236257473655"
   },
   {
-    "BID": 6004322,
-    "BeerName": "Boreal Fluency (2023)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 12.00,
+    "BID": 1672076,
+    "BeerName": "Kromer Juice: Dragonfruit",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "The Answer",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004322_3cc84_sm.jpeg",
-    "HallRating": 27.69,
-    "BAR": 13.28,
-    "StylePlus": "112",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1220703053791581034478453152"
-  },
-  {
-    "BID": 6100253,
-    "BeerName": "Bloodless IX",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Root + Branch Brewing",
-    "Origin": "Copiague, NY United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-227413_f6bc3.jpeg",
-    "HallRating": 27.69,
-    "BAR": 13.29,
-    "StylePlus": "109",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1220482950643642856251014471"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1672076_ba4bf_sm.jpeg",
+    "HallRating": 27.70,
+    "BAR": 9.29,
+    "StylePlus": "121",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1197766402047631426343258214"
   },
   {
     "BID": 3809290,
@@ -345,19 +315,34 @@
     "AdjustedRating": "2.1221339672773038735841141099"
   },
   {
-    "BID": 4020606,
-    "BeerName": "Hedonistic",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Lua Brewing",
-    "Origin": "Des Moines, IA United States",
+    "BID": 6100253,
+    "BeerName": "Bloodless IX",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Root + Branch Brewing",
+    "Origin": "Copiague, NY United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-227413_f6bc3.jpeg",
+    "HallRating": 27.69,
+    "BAR": 13.29,
+    "StylePlus": "109",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1220482950643642856251014471"
+  },
+  {
+    "BID": 6004322,
+    "BeerName": "Boreal Fluency (2023)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
     "BeerAbv": 12.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64726_8e04d.jpeg",
-    "HallRating": 27.68,
-    "BAR": 13.26,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1220910028493016588878983341"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004322_3cc84_sm.jpeg",
+    "HallRating": 27.69,
+    "BAR": 13.28,
+    "StylePlus": "112",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1220703053791581034478453152"
   },
   {
     "BID": 6212575,
@@ -373,5 +358,20 @@
     "StylePlus": "112",
     "RatingScore": 4.53,
     "AdjustedRating": "2.1220108878872254616738877998"
+  },
+  {
+    "BID": 4020606,
+    "BeerName": "Hedonistic",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Lua Brewing",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64726_8e04d.jpeg",
+    "HallRating": 27.68,
+    "BAR": 13.26,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1220910028493016588878983341"
   }
 ]

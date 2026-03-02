@@ -1,18 +1,18 @@
 [
   {
-    "BID": 3608994,
-    "BeerName": "Chang Classic",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Thai Beverage PLC",
-    "Origin": "Krung Thep Maha Nakhon, Thailand",
-    "BeerAbv": 5.00,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-83409_58c7a_sm.jpeg",
+    "BID": 6028896,
+    "BeerName": "Tuborg Grøn",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Carlsberg Group",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 4.60,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6797_09553_sm.jpeg",
     "HallRating": 11.97,
     "BAR": 8.71,
-    "StylePlus": "94",
-    "RatingScore": 2.95,
-    "AdjustedRating": "2.3657096935294407281577299936"
+    "StylePlus": "84",
+    "RatingScore": 2.88,
+    "AdjustedRating": "2.3454119565255586282991485728"
   },
   {
     "BID": 6021413,
@@ -45,6 +45,21 @@
     "AdjustedRating": "2.3360236198768323543586159556"
   },
   {
+    "BID": 2208648,
+    "BeerName": "Foster's Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Carlton & United Breweries",
+    "Origin": "Abbotsford, Victoria Australia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5519_45b43_sm.jpeg",
+    "HallRating": 11.94,
+    "BAR": 8.68,
+    "StylePlus": "89",
+    "RatingScore": 2.80,
+    "AdjustedRating": "2.3141373962978626964964782763"
+  },
+  {
     "BID": 3609672,
     "BeerName": "Tyskie Gronie",
     "BeerStyle": "Lager - Pale",
@@ -60,19 +75,19 @@
     "AdjustedRating": "2.403729136879251137663044159"
   },
   {
-    "BID": 2208648,
-    "BeerName": "Foster's Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Carlton & United Breweries",
-    "Origin": "Abbotsford, Victoria Australia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5519_45b43_sm.jpeg",
-    "HallRating": 11.94,
-    "BAR": 8.68,
-    "StylePlus": "89",
-    "RatingScore": 2.80,
-    "AdjustedRating": "2.3141373962978626964964782763"
+    "BID": 2403203,
+    "BeerName": "Long Hammer IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Redhook Brewery",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 44.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6504_1b007_sm.jpeg",
+    "HallRating": 11.93,
+    "BAR": 8.66,
+    "StylePlus": "93",
+    "RatingScore": 3.47,
+    "AdjustedRating": "2.4984676441922107254476728922"
   },
   {
     "BID": 3212797,
@@ -103,21 +118,6 @@
     "StylePlus": "95",
     "RatingScore": 3.01,
     "AdjustedRating": "2.3690425952978936232989586857"
-  },
-  {
-    "BID": 2403203,
-    "BeerName": "Long Hammer IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Redhook Brewery",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 44.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6504_1b007_sm.jpeg",
-    "HallRating": 11.93,
-    "BAR": 8.66,
-    "StylePlus": "93",
-    "RatingScore": 3.47,
-    "AdjustedRating": "2.4984676441922107254476728922"
   },
   {
     "BID": 5805369,
@@ -300,21 +300,6 @@
     "AdjustedRating": "2.382408853822915998808226256"
   },
   {
-    "BID": 1668029,
-    "BeerName": "Jever Pilsener",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Friesisches Brauhaus zu Jever",
-    "Origin": "Jever, Niedersachsen Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5325_f4509_sm.jpeg",
-    "HallRating": 11.81,
-    "BAR": 8.52,
-    "StylePlus": "90",
-    "RatingScore": 3.13,
-    "AdjustedRating": "2.3657767901533296407689355774"
-  },
-  {
     "BID": 5001766,
     "BeerName": "Lucky Beer (Lucky Buddha)",
     "BeerStyle": "Lager - Pale",
@@ -328,6 +313,21 @@
     "StylePlus": "95",
     "RatingScore": 3.00,
     "AdjustedRating": "2.3340481843892258132817108029"
+  },
+  {
+    "BID": 1668029,
+    "BeerName": "Jever Pilsener",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Friesisches Brauhaus zu Jever",
+    "Origin": "Jever, Niedersachsen Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5325_f4509_sm.jpeg",
+    "HallRating": 11.81,
+    "BAR": 8.52,
+    "StylePlus": "90",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.3657767901533296407689355774"
   },
   {
     "BID": 6213583,

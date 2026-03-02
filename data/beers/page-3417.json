@@ -1,18 +1,18 @@
 [
   {
-    "BID": 1206172,
-    "BeerName": "Name Tag Classic Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Josephsbrau (Trader Joe’s)",
-    "Origin": "San Jose, CA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-NameTagClassicLager_49033.jpeg",
+    "BID": 4701892,
+    "BeerName": "Holsten Alkoholfrei / 0,0%",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Holsten-Brauerei AG",
+    "Origin": "Altona-Nord, Hamburg Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-31427_588a0_sm.jpeg",
     "HallRating": 7.53,
     "BAR": 4.57,
-    "StylePlus": "70",
-    "RatingScore": 2.42,
-    "AdjustedRating": "2.1227018742553159932168865905"
+    "StylePlus": "92",
+    "RatingScore": 2.48,
+    "AdjustedRating": "2.1233470209120822342479536617"
   },
   {
     "BID": 5844,
@@ -120,21 +120,6 @@
     "AdjustedRating": "2.120452459324976656288931985"
   },
   {
-    "BID": 1670017,
-    "BeerName": "Four Loko Gold",
-    "BeerStyle": "Flavored Malt Beverage",
-    "BreweryName": "Drink Four Brewing Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1122556_ad0df_sm.jpeg",
-    "HallRating": 7.45,
-    "BAR": 4.44,
-    "StylePlus": "67",
-    "RatingScore": 2.24,
-    "AdjustedRating": "2.1204018058467012572538641849"
-  },
-  {
     "BID": 4212516,
     "BeerName": "Schin",
     "BeerStyle": "Lager - American",
@@ -163,6 +148,21 @@
     "StylePlus": "62",
     "RatingScore": 2.15,
     "AdjustedRating": "2.1196073573424771569579608745"
+  },
+  {
+    "BID": 1670017,
+    "BeerName": "Four Loko Gold",
+    "BeerStyle": "Flavored Malt Beverage",
+    "BreweryName": "Drink Four Brewing Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1122556_ad0df_sm.jpeg",
+    "HallRating": 7.45,
+    "BAR": 4.44,
+    "StylePlus": "67",
+    "RatingScore": 2.24,
+    "AdjustedRating": "2.1204018058467012572538641849"
   },
   {
     "BID": 809229,
@@ -195,21 +195,6 @@
     "AdjustedRating": "2.1226283414375430613590288827"
   },
   {
-    "BID": 6091,
-    "BeerName": "Carlton Midstrength",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Carlton & United Breweries",
-    "Origin": "Abbotsford, Victoria Australia",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CarltonMidstrength_6091.jpeg",
-    "HallRating": 7.43,
-    "BAR": 4.40,
-    "StylePlus": "65",
-    "RatingScore": 2.26,
-    "AdjustedRating": "2.1204961595485672066604188051"
-  },
-  {
     "BID": 600532,
     "BeerName": "Lech Free",
     "BeerStyle": "Non-Alcoholic - Lager",
@@ -223,6 +208,21 @@
     "StylePlus": "87",
     "RatingScore": 2.34,
     "AdjustedRating": "2.1211435839835759500732685198"
+  },
+  {
+    "BID": 6091,
+    "BeerName": "Carlton Midstrength",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Carlton & United Breweries",
+    "Origin": "Abbotsford, Victoria Australia",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CarltonMidstrength_6091.jpeg",
+    "HallRating": 7.43,
+    "BAR": 4.40,
+    "StylePlus": "65",
+    "RatingScore": 2.26,
+    "AdjustedRating": "2.1204961595485672066604188051"
   },
   {
     "BID": 413469,
