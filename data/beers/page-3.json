@@ -1,18 +1,18 @@
 [
   {
-    "BID": 1010269,
-    "BeerName": "Double Barrel Hunahpu's®",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.50,
+    "BID": 4980052,
+    "BeerName": "Melomel: Mix of Three Types of Honey And Grapefruit",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Punchiller",
+    "Origin": "Minsk, Minskaja voblasć Belarus",
+    "BeerAbv": 16.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-489624_d0908_sm.jpeg",
-    "HallRating": 30.88,
-    "BAR": 19.45,
-    "StylePlus": "115",
-    "RatingScore": 4.69,
-    "AdjustedRating": "2.1683713727288555810868141812"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980052_c7c70_sm.jpeg",
+    "HallRating": 30.83,
+    "BAR": 6.28,
+    "StylePlus": "119",
+    "RatingScore": 4.82,
+    "AdjustedRating": "2.1194535245913933872975716093"
   },
   {
     "BID": 6604181,
@@ -30,21 +30,6 @@
     "AdjustedRating": "2.1194422750976206070726817293"
   },
   {
-    "BID": 4980052,
-    "BeerName": "Melomel: Mix of Three Types of Honey And Grapefruit",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Punchiller",
-    "Origin": "Minsk, Minskaja voblasć Belarus",
-    "BeerAbv": 16.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980052_c7c70_sm.jpeg",
-    "HallRating": 30.83,
-    "BAR": 6.28,
-    "StylePlus": "119",
-    "RatingScore": 4.82,
-    "AdjustedRating": "2.1194535245913933872975716093"
-  },
-  {
     "BID": 10068,
     "BeerName": "Bourbon County Brand Vanilla Stout (2010)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -58,6 +43,21 @@
     "StylePlus": "116",
     "RatingScore": 4.70,
     "AdjustedRating": "2.1627506790055180719930194546"
+  },
+  {
+    "BID": 6409187,
+    "BeerName": "Przepalanka z Kranu 2025",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Szynkarnia",
+    "Origin": "Wrocław, Województwo dolnośląskie Poland",
+    "BeerAbv": 45.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-566018_b2847.jpeg",
+    "HallRating": 30.61,
+    "BAR": 6.39,
+    "StylePlus": "131",
+    "RatingScore": 5.00,
+    "AdjustedRating": "2.1194688252308015369269959677"
   },
   {
     "BID": 5805042,
@@ -90,19 +90,19 @@
     "AdjustedRating": "2.1194550508850829585594684252"
   },
   {
-    "BID": 6409187,
-    "BeerName": "Przepalanka z Kranu 2025",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "Szynkarnia",
-    "Origin": "Wrocław, Województwo dolnośląskie Poland",
-    "BeerAbv": 45.00,
+    "BID": 6607452,
+    "BeerName": "One Hundred",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Autodidact Beer",
+    "Origin": "Morris Plains, NJ United States",
+    "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-566018_b2847.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6607452_dc0f1_sm.jpeg",
     "HallRating": 30.61,
     "BAR": 6.39,
-    "StylePlus": "131",
-    "RatingScore": 5.00,
-    "AdjustedRating": "2.1194688252308015369269959677"
+    "StylePlus": "119",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.119450301110697241881010652"
   },
   {
     "BID": 6410850,
@@ -118,21 +118,6 @@
     "StylePlus": "116",
     "RatingScore": 4.59,
     "AdjustedRating": "2.1194493511558200985453190973"
-  },
-  {
-    "BID": 6607452,
-    "BeerName": "One Hundred",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Autodidact Beer",
-    "Origin": "Morris Plains, NJ United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6607452_dc0f1_sm.jpeg",
-    "HallRating": 30.61,
-    "BAR": 6.39,
-    "StylePlus": "119",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.119450301110697241881010652"
   },
   {
     "BID": 3008402,
@@ -180,6 +165,21 @@
     "AdjustedRating": "2.1576825349927983159138752447"
   },
   {
+    "BID": 24328,
+    "BeerName": "Lou Pepe Kriek",
+    "BeerStyle": "Lambic - Kriek",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LouPepeKriek_24328.jpeg",
+    "HallRating": 30.45,
+    "BAR": 18.80,
+    "StylePlus": "115",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1534283806064131032154237819"
+  },
+  {
     "BID": 1400059,
     "BeerName": "Red Agnes",
     "BeerStyle": "Mead - Melomel",
@@ -195,19 +195,34 @@
     "AdjustedRating": "2.1540968463805834048048580921"
   },
   {
-    "BID": 24328,
-    "BeerName": "Lou Pepe Kriek",
-    "BeerStyle": "Lambic - Kriek",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.00,
+    "BID": 4222823,
+    "BeerName": "Banana PB BassLine",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 9.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LouPepeKriek_24328.jpeg",
-    "HallRating": 30.45,
-    "BAR": 18.80,
-    "StylePlus": "115",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1534283806064131032154237819"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1194535273236338183090845458"
+  },
+  {
+    "BID": 6600111,
+    "BeerName": "Aquilon",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 11.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600111_32294_sm.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "112",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.1194575271236438178091095445"
   },
   {
     "BID": 3803236,
@@ -240,19 +255,34 @@
     "AdjustedRating": "2.1194535273236338183090845458"
   },
   {
-    "BID": 6605219,
-    "BeerName": "Lunar VIII",
+    "BID": 6607863,
+    "BeerName": "Elk Reserve Six (2026)",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Track Brewing Company",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 10.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605219_e50ee_sm.jpeg",
+    "BreweryName": "Elkton Brewing Company",
+    "Origin": "Elkton, VA United States",
+    "BeerAbv": 15.10,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6607863_f7ae9_sm.jpeg",
     "HallRating": 30.41,
     "BAR": 6.51,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1194550272486375681215939203"
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.1194565271736413179341032948"
+  },
+  {
+    "BID": 6601518,
+    "BeerName": "Hand Pulled Heady Topper",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "The Alchemist",
+    "Origin": "Stowe, VT United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 100.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1244_f17ed.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "122",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.1194615269236538173091345433"
   },
   {
     "BID": 4961446,
@@ -270,51 +300,6 @@
     "AdjustedRating": "2.11945602719864006799660017"
   },
   {
-    "BID": 6600111,
-    "BeerName": "Aquilon",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Brasserie du Bas-Canada",
-    "Origin": "Gatineau, QC Canada",
-    "BeerAbv": 11.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600111_32294_sm.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
-    "StylePlus": "112",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.1194575271236438178091095445"
-  },
-  {
-    "BID": 6607863,
-    "BeerName": "Elk Reserve Six (2026)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Elkton Brewing Company",
-    "Origin": "Elkton, VA United States",
-    "BeerAbv": 15.10,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6607863_f7ae9_sm.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
-    "StylePlus": "114",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.1194565271736413179341032948"
-  },
-  {
-    "BID": 4222823,
-    "BeerName": "Banana PB BassLine",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Orchestrated Minds Brewing",
-    "Origin": "Fort Lauderdale, FL United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1194535273236338183090845458"
-  },
-  {
     "BID": 6609700,
     "BeerName": "A Finite View of the Infinite (2nd Edition, 2026)",
     "BeerStyle": "IPA - Imperial / Double",
@@ -330,19 +315,19 @@
     "AdjustedRating": "2.1194530273486325683715814209"
   },
   {
-    "BID": 6601518,
-    "BeerName": "Hand Pulled Heady Topper",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "The Alchemist",
-    "Origin": "Stowe, VT United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 100.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1244_f17ed.jpeg",
+    "BID": 6605219,
+    "BeerName": "Lunar VIII",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Track Brewing Company",
+    "Origin": "Manchester, Greater Manchester England",
+    "BeerAbv": 10.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605219_e50ee_sm.jpeg",
     "HallRating": 30.41,
     "BAR": 6.51,
-    "StylePlus": "122",
-    "RatingScore": 4.71,
-    "AdjustedRating": "2.1194615269236538173091345433"
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1194550272486375681215939203"
   },
   {
     "BID": 1809242,
@@ -373,5 +358,20 @@
     "StylePlus": "113",
     "RatingScore": 4.57,
     "AdjustedRating": "2.1520349769369280481487876471"
+  },
+  {
+    "BID": 1809221,
+    "BeerName": "Berry White",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Superstition Meadery",
+    "Origin": "Prescott, AZ United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-647045_b5f29_sm.jpeg",
+    "HallRating": 30.36,
+    "BAR": 18.67,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1520230483858236640618833373"
   }
 ]

@@ -1,20 +1,5 @@
 [
   {
-    "BID": 5500225,
-    "BeerName": "25th Anniversary Series: B&E'S Double Barrel Maple Bourbon Stout Green Label",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 16.74,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5500225_510b1_sm.jpeg",
-    "HallRating": 27.80,
-    "BAR": 13.63,
-    "StylePlus": "114",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.1226401885492295247321062986"
-  },
-  {
     "BID": 6604318,
     "BeerName": "Doozie Mallow",
     "BeerStyle": "Stout - Imperial / Double",
@@ -120,6 +105,21 @@
     "AdjustedRating": "2.122510330707481804222169511"
   },
   {
+    "BID": 4817038,
+    "BeerName": "Stevnsberry Van Oak (2021)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4817038_abb4c_sm.jpeg",
+    "HallRating": 27.74,
+    "BAR": 13.46,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.1223855467413749622338579394"
+  },
+  {
     "BID": 6103962,
     "BeerName": "Opera Omnia",
     "BeerStyle": "Stout - Imperial / Double Pastry",
@@ -150,34 +150,19 @@
     "AdjustedRating": "2.1226062258577596000908884344"
   },
   {
-    "BID": 4817038,
-    "BeerName": "Stevnsberry Van Oak (2021)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 11.00,
+    "BID": 4621753,
+    "BeerName": "Double Honey Ann (12/08/2016)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4817038_abb4c_sm.jpeg",
-    "HallRating": 27.74,
-    "BAR": 13.46,
-    "StylePlus": "114",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.1223855467413749622338579394"
-  },
-  {
-    "BID": 3301531,
-    "BeerName": "Prestige - Wildflower (ASP4R)",
-    "BeerStyle": "Mead - Traditional",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3301531_1f778_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
     "HallRating": 27.73,
-    "BAR": 13.41,
-    "StylePlus": "122",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.1223954944179624002137429741"
+    "BAR": 13.43,
+    "StylePlus": "129",
+    "RatingScore": 4.79,
+    "AdjustedRating": "2.1225662634056206849195350637"
   },
   {
     "BID": 5419008,
@@ -195,19 +180,19 @@
     "AdjustedRating": "2.1223110075684367969356695357"
   },
   {
-    "BID": 4621753,
-    "BeerName": "Double Honey Ann (12/08/2016)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 0.00,
+    "BID": 4816857,
+    "BeerName": "Monster Tones (2022)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Modern Times Beer",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 14.30,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816857_fda6a_sm.jpeg",
     "HallRating": 27.73,
-    "BAR": 13.43,
-    "StylePlus": "129",
-    "RatingScore": 4.79,
-    "AdjustedRating": "2.1225662634056206849195350637"
+    "BAR": 13.40,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1221914007975449399344285218"
   },
   {
     "BID": 4007402,
@@ -225,19 +210,19 @@
     "AdjustedRating": "2.1222753888449139909259115913"
   },
   {
-    "BID": 4816857,
-    "BeerName": "Monster Tones (2022)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Modern Times Beer",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 14.30,
+    "BID": 3301531,
+    "BeerName": "Prestige - Wildflower (ASP4R)",
+    "BeerStyle": "Mead - Traditional",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816857_fda6a_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3301531_1f778_sm.jpeg",
     "HallRating": 27.73,
-    "BAR": 13.40,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1221914007975449399344285218"
+    "BAR": 13.41,
+    "StylePlus": "122",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.1223954944179624002137429741"
   },
   {
     "BID": 6606035,
@@ -270,21 +255,6 @@
     "AdjustedRating": "2.1222124280523890976739540284"
   },
   {
-    "BID": 5816271,
-    "BeerName": "S'more Than A Feeling",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Prairie Artisan Ales",
-    "Origin": "Krebs, OK United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-prairieartisanales_37713.jpeg",
-    "HallRating": 27.70,
-    "BAR": 9.29,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1197730408526465236257473655"
-  },
-  {
     "BID": 1672076,
     "BeerName": "Kromer Juice: Dragonfruit",
     "BeerStyle": "Sour - Other",
@@ -298,6 +268,21 @@
     "StylePlus": "121",
     "RatingScore": 4.59,
     "AdjustedRating": "2.1197766402047631426343258214"
+  },
+  {
+    "BID": 5816271,
+    "BeerName": "S'more Than A Feeling",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Prairie Artisan Ales",
+    "Origin": "Krebs, OK United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-prairieartisanales_37713.jpeg",
+    "HallRating": 27.70,
+    "BAR": 9.29,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1197730408526465236257473655"
   },
   {
     "BID": 3809290,
@@ -373,5 +358,20 @@
     "StylePlus": "113",
     "RatingScore": 4.58,
     "AdjustedRating": "2.1220910028493016588878983341"
+  },
+  {
+    "BID": 4632191,
+    "BeerName": "Grand Cru (7th Anniversary) Blend 2 W/Coconut And Double Stuff",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
+    "HallRating": 27.67,
+    "BAR": 9.38,
+    "StylePlus": "116",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.1198176591889020808598387802"
   }
 ]

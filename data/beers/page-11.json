@@ -1,20 +1,5 @@
 [
   {
-    "BID": 4605043,
-    "BeerName": "4 YR Double Barrel Eagle Rare BCS",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 18.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4308693_8c86f_sm.jpeg",
-    "HallRating": 27.91,
-    "BAR": 13.94,
-    "StylePlus": "115",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.1232566011172849675747727239"
-  },
-  {
     "BID": 6300610,
     "BeerName": "Temple of Nothing",
     "BeerStyle": "IPA - Triple New England / Hazy",
@@ -75,6 +60,21 @@
     "AdjustedRating": "2.1230586849127676942163820498"
   },
   {
+    "BID": 6303467,
+    "BeerName": "PHARMAKA (2022)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5952438_cb4a6_sm.jpeg",
+    "HallRating": 27.88,
+    "BAR": 13.86,
+    "StylePlus": "114",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1230212860498613298850947725"
+  },
+  {
     "BID": 6407211,
     "BeerName": "Fate Flickers",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -103,21 +103,6 @@
     "StylePlus": "109",
     "RatingScore": 4.51,
     "AdjustedRating": "2.1228709188627859198737871106"
-  },
-  {
-    "BID": 6303467,
-    "BeerName": "PHARMAKA (2022)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5952438_cb4a6_sm.jpeg",
-    "HallRating": 27.88,
-    "BAR": 13.86,
-    "StylePlus": "114",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1230212860498613298850947725"
   },
   {
     "BID": 6610999,
@@ -225,21 +210,6 @@
     "AdjustedRating": "2.122816984391695543194959007"
   },
   {
-    "BID": 4962053,
-    "BeerName": "Partial BA Imperial Cake Talk",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4962053_5a50e_sm.jpeg",
-    "HallRating": 27.82,
-    "BAR": 13.70,
-    "StylePlus": "113",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.1228279935788130790490052403"
-  },
-  {
     "BID": 6418537,
     "BeerName": "Leviathan (2025)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -253,6 +223,21 @@
     "StylePlus": "112",
     "RatingScore": 4.55,
     "AdjustedRating": "2.1197208446648536234202527596"
+  },
+  {
+    "BID": 4962053,
+    "BeerName": "Partial BA Imperial Cake Talk",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4962053_5a50e_sm.jpeg",
+    "HallRating": 27.82,
+    "BAR": 13.70,
+    "StylePlus": "113",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.1228279935788130790490052403"
   },
   {
     "BID": 6608673,
@@ -373,5 +358,20 @@
     "StylePlus": "112",
     "RatingScore": 4.54,
     "AdjustedRating": "2.1197252946396210615774936573"
+  },
+  {
+    "BID": 5500225,
+    "BeerName": "25th Anniversary Series: B&E'S Double Barrel Maple Bourbon Stout Green Label",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 16.74,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5500225_510b1_sm.jpeg",
+    "HallRating": 27.80,
+    "BAR": 13.63,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.1226401885492295247321062986"
   }
 ]

@@ -1,33 +1,18 @@
 [
   {
-    "BID": 6405421,
-    "BeerName": "Immortality",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Brasseria Della Fonte",
-    "Origin": "Pienza, Toscana Italy",
-    "BeerAbv": 13.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405421_a58b2_sm.jpeg",
+    "BID": 4940902,
+    "BeerName": "25 Jahre Red Kaos",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Kevin Brewery",
+    "Origin": "Zwickau, Sachsen Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940902_954f6_sm.jpeg",
     "HallRating": 29.33,
     "BAR": 7.24,
-    "StylePlus": "114",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1195000349975501714879958403"
-  },
-  {
-    "BID": 1672967,
-    "BeerName": "The Hefe Is A Lie (2016) 5th Form w/ Spiced Rum Soaked Figs",
-    "BeerStyle": "Wheat Beer - Wheat Wine",
-    "BreweryName": "8-Bit Aleworks",
-    "Origin": "Avondale, AZ United States",
-    "BeerAbv": 11.40,
-    "BeerIbu": 37.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-115045_7173f.jpeg",
-    "HallRating": 29.33,
-    "BAR": 7.24,
-    "StylePlus": "118",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1195000349975501714879958403"
+    "StylePlus": "132",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1195028348015638905276630636"
   },
   {
     "BID": 5343165,
@@ -255,21 +240,6 @@
     "AdjustedRating": "2.1309616327180535962640353693"
   },
   {
-    "BID": 5450904,
-    "BeerName": "25th Anniversary Series: Pappy Van Winkle Gold Label Barrel Aged Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 14.85,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5450904_1fd51_sm.jpeg",
-    "HallRating": 29.01,
-    "BAR": 16.39,
-    "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1306455931165929324647792702"
-  },
-  {
     "BID": 4612631,
     "BeerName": "Castle Hill",
     "BeerStyle": "Stout - Imperial / Double",
@@ -285,19 +255,19 @@
     "AdjustedRating": "2.1305274184959764308926500814"
   },
   {
-    "BID": 4800168,
-    "BeerName": "Imperial Cake Talk",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 11.10,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4082856_7b2e0_sm.jpeg",
-    "HallRating": 28.99,
-    "BAR": 16.35,
-    "StylePlus": "109",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1303853102339632407467314325"
+    "BID": 5450904,
+    "BeerName": "25th Anniversary Series: Pappy Van Winkle Gold Label Barrel Aged Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 14.85,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5450904_1fd51_sm.jpeg",
+    "HallRating": 29.01,
+    "BAR": 16.39,
+    "StylePlus": "111",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1306455931165929324647792702"
   },
   {
     "BID": 6608414,
@@ -315,6 +285,21 @@
     "AdjustedRating": "2.1195240380769538436925045996"
   },
   {
+    "BID": 4800168,
+    "BeerName": "Imperial Cake Talk",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 11.10,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4082856_7b2e0_sm.jpeg",
+    "HallRating": 28.99,
+    "BAR": 16.35,
+    "StylePlus": "109",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1303853102339632407467314325"
+  },
+  {
     "BID": 1676537,
     "BeerName": "Bourbon Barrel Sabbath Noir",
     "BeerStyle": "Mead - Melomel",
@@ -328,21 +313,6 @@
     "StylePlus": "112",
     "RatingScore": 4.56,
     "AdjustedRating": "2.1195272378209743220542356611"
-  },
-  {
-    "BID": 6300931,
-    "BeerName": "Assassin (2025)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 14.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6300931_e4eb2_sm.jpeg",
-    "HallRating": 28.95,
-    "BAR": 16.26,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1302255927284673930898538028"
   },
   {
     "BID": 4150318,
@@ -360,6 +330,21 @@
     "AdjustedRating": "2.1300687660684375443320880942"
   },
   {
+    "BID": 6300931,
+    "BeerName": "Assassin (2025)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 14.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6300931_e4eb2_sm.jpeg",
+    "HallRating": 28.95,
+    "BAR": 16.26,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1302255927284673930898538028"
+  },
+  {
     "BID": 3345295,
     "BeerName": "Black Magick (aged in Woodford Reserve Double Oak Bourbon Barrels)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -373,5 +358,20 @@
     "StylePlus": "113",
     "RatingScore": 4.57,
     "AdjustedRating": "2.1299037171454672630826942273"
+  },
+  {
+    "BID": 2012147,
+    "BeerName": "3 Fonteinen Oude Geuze Vintage 2014",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "Brouwerij 3 Fonteinen",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-VintageGeuze_11408.jpeg",
+    "HallRating": 28.88,
+    "BAR": 16.13,
+    "StylePlus": "112",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1295939076184643573772287531"
   }
 ]
