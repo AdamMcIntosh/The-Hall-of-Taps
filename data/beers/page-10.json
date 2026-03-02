@@ -1,33 +1,18 @@
 [
   {
-    "BID": 5216973,
-    "BeerName": "Fanal Select (2022)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 10.00,
+    "BID": 6407226,
+    "BeerName": "Flock What Ewe Heard",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "RaR Brewing",
+    "Origin": "Cambridge, MD United States",
+    "BeerAbv": 10.10,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5216973_cc60e_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407226_f385c_sm.jpeg",
     "HallRating": 28.00,
     "BAR": 14.19,
-    "StylePlus": "114",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.1236491892714798759137385853"
-  },
-  {
-    "BID": 5605304,
-    "BeerName": "Mead Didn’t Start the Fire",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Funktastic Meads",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 20.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605304_7fee3_sm.jpeg",
-    "HallRating": 28.00,
-    "BAR": 8.70,
-    "StylePlus": "114",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.1196771693892089837647323493"
+    "StylePlus": "109",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1234488008185879358107264968"
   },
   {
     "BID": 5302224,
@@ -45,21 +30,6 @@
     "AdjustedRating": "2.1235419786363182589597683937"
   },
   {
-    "BID": 5902002,
-    "BeerName": "Barrel-Aged Seismic Overlay",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Whiskey Hill Brewing",
-    "Origin": "Westmont, IL United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4053347_07d24_sm.jpeg",
-    "HallRating": 27.99,
-    "BAR": 14.16,
-    "StylePlus": "115",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1235696904504603435667953649"
-  },
-  {
     "BID": 6024793,
     "BeerName": "Within the Church Ov Thee Overlords",
     "BeerStyle": "IPA - Quadruple",
@@ -73,6 +43,21 @@
     "StylePlus": "111",
     "RatingScore": 4.60,
     "AdjustedRating": "2.1235481592588617878062598426"
+  },
+  {
+    "BID": 5902002,
+    "BeerName": "Barrel-Aged Seismic Overlay",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Whiskey Hill Brewing",
+    "Origin": "Westmont, IL United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4053347_07d24_sm.jpeg",
+    "HallRating": 27.99,
+    "BAR": 14.16,
+    "StylePlus": "115",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1235696904504603435667953649"
   },
   {
     "BID": 4013983,
@@ -135,6 +120,21 @@
     "AdjustedRating": "2.1196680464734937108804767333"
   },
   {
+    "BID": 4982258,
+    "BeerName": "3 Fonteinen J & J Oude Geuze Blauw",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "Brouwerij 3 Fonteinen",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16789_sm_900484df1674964bef0cf9a910f01c.jpeg",
+    "HallRating": 27.97,
+    "BAR": 14.13,
+    "StylePlus": "117",
+    "RatingScore": 4.76,
+    "AdjustedRating": "2.1237477225647041205979983528"
+  },
+  {
     "BID": 3807483,
     "BeerName": "Valentine (Batch 1)",
     "BeerStyle": "Mead - Melomel",
@@ -163,51 +163,6 @@
     "StylePlus": "109",
     "RatingScore": 4.51,
     "AdjustedRating": "2.1232939320727592196953057924"
-  },
-  {
-    "BID": 4982258,
-    "BeerName": "3 Fonteinen J & J Oude Geuze Blauw",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Brouwerij 3 Fonteinen",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16789_sm_900484df1674964bef0cf9a910f01c.jpeg",
-    "HallRating": 27.97,
-    "BAR": 14.13,
-    "StylePlus": "117",
-    "RatingScore": 4.76,
-    "AdjustedRating": "2.1237477225647041205979983528"
-  },
-  {
-    "BID": 3401837,
-    "BeerName": "Framboos Noyaux (2018)",
-    "BeerStyle": "Lambic - Framboise",
-    "BreweryName": "Bokke",
-    "Origin": "Hasselt, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
-    "HallRating": 27.96,
-    "BAR": 14.08,
-    "StylePlus": "113",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1232730154372215497123460334"
-  },
-  {
-    "BID": 6303536,
-    "BeerName": "Dream 012: BBA Infinite Boysenberry Lemon Cheesecake",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Zymarium Meadery",
-    "Origin": "Orlando, FL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6303536_b914b_sm.jpeg",
-    "HallRating": 27.96,
-    "BAR": 8.78,
-    "StylePlus": "118",
-    "RatingScore": 4.78,
-    "AdjustedRating": "2.1197110911695083450608288319"
   },
   {
     "BID": 6419240,
@@ -240,19 +195,34 @@
     "AdjustedRating": "2.1233315862247979593772306832"
   },
   {
-    "BID": 5004220,
-    "BeerName": "Tree of Knowledge",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Forager Brewery",
-    "Origin": "Rochester, MN United States",
-    "BeerAbv": 13.40,
+    "BID": 3401837,
+    "BeerName": "Framboos Noyaux (2018)",
+    "BeerStyle": "Lambic - Framboise",
+    "BreweryName": "Bokke",
+    "Origin": "Hasselt, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5004220_86bd5_sm.jpeg",
-    "HallRating": 27.95,
-    "BAR": 14.05,
-    "StylePlus": "116",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
+    "HallRating": 27.96,
+    "BAR": 14.08,
+    "StylePlus": "113",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1232189513934994983102289802"
+    "AdjustedRating": "2.1232730154372215497123460334"
+  },
+  {
+    "BID": 6303536,
+    "BeerName": "Dream 012: BBA Infinite Boysenberry Lemon Cheesecake",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Zymarium Meadery",
+    "Origin": "Orlando, FL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6303536_b914b_sm.jpeg",
+    "HallRating": 27.96,
+    "BAR": 8.78,
+    "StylePlus": "118",
+    "RatingScore": 4.78,
+    "AdjustedRating": "2.1197110911695083450608288319"
   },
   {
     "BID": 3208001,
@@ -270,6 +240,21 @@
     "AdjustedRating": "2.1231926608710410910352504823"
   },
   {
+    "BID": 5004220,
+    "BeerName": "Tree of Knowledge",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Forager Brewery",
+    "Origin": "Rochester, MN United States",
+    "BeerAbv": 13.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5004220_86bd5_sm.jpeg",
+    "HallRating": 27.95,
+    "BAR": 14.05,
+    "StylePlus": "116",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1232189513934994983102289802"
+  },
+  {
     "BID": 5608860,
     "BeerName": "XYAUYÙ KENTUCKY - RISERVA 2018",
     "BeerStyle": "Barleywine - Other",
@@ -285,21 +270,6 @@
     "AdjustedRating": "2.1231829073482428115015974441"
   },
   {
-    "BID": 5014131,
-    "BeerName": "A Thousand Summers Cuvée",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Sante Adairius Rustic Ales",
-    "Origin": "Capitola, CA United States",
-    "BeerAbv": 7.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
-    "HallRating": 27.94,
-    "BAR": 14.03,
-    "StylePlus": "123",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.123236912847162422218395022"
-  },
-  {
     "BID": 6213003,
     "BeerName": "Double Barrel 2x4 Benthic (2025)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -313,6 +283,21 @@
     "StylePlus": "114",
     "RatingScore": 4.61,
     "AdjustedRating": "2.1233355297970267868731342539"
+  },
+  {
+    "BID": 5014131,
+    "BeerName": "A Thousand Summers Cuvée",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Sante Adairius Rustic Ales",
+    "Origin": "Capitola, CA United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
+    "HallRating": 27.94,
+    "BAR": 14.03,
+    "StylePlus": "123",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.123236912847162422218395022"
   },
   {
     "BID": 3334154,
@@ -373,5 +358,20 @@
     "StylePlus": "111",
     "RatingScore": 4.54,
     "AdjustedRating": "2.1196889958731087164643215126"
+  },
+  {
+    "BID": 4605043,
+    "BeerName": "4 YR Double Barrel Eagle Rare BCS",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 18.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4308693_8c86f_sm.jpeg",
+    "HallRating": 27.91,
+    "BAR": 13.94,
+    "StylePlus": "115",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.1232566011172849675747727239"
   }
 ]

@@ -45,21 +45,6 @@
     "AdjustedRating": "2.4981753788408338946574651873"
   },
   {
-    "BID": 2402231,
-    "BeerName": "Bourbon County Brand Stout (2014) 13.8%",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 13.80,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-790245_7ab12_sm.jpeg",
-    "HallRating": 34.06,
-    "BAR": 23.81,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.430193954219814782456753451"
-  },
-  {
     "BID": 4980636,
     "BeerName": "Jjjuliusss",
     "BeerStyle": "IPA - New England / Hazy",
@@ -75,6 +60,21 @@
     "AdjustedRating": "2.4260978124576756215949354922"
   },
   {
+    "BID": 2402231,
+    "BeerName": "Bourbon County Brand Stout (2014) 13.8%",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 13.80,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-790245_7ab12_sm.jpeg",
+    "HallRating": 34.06,
+    "BAR": 23.81,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.430193954219814782456753451"
+  },
+  {
     "BID": 1410960,
     "BeerName": "Juice Machine",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -88,6 +88,51 @@
     "StylePlus": "113",
     "RatingScore": 4.55,
     "AdjustedRating": "2.4231987312698239090014218528"
+  },
+  {
+    "BID": 6616186,
+    "BeerName": "Bean Me Up",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Bellbrook Brewing Company",
+    "Origin": "Bellbrook, OH United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6616186_9ecd5_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "118",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1193927651808704782380440489"
+  },
+  {
+    "BID": 6610542,
+    "BeerName": "Oscillation: Voidstalker",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Neuronova Brewing",
+    "Origin": "Lombard, IL United States",
+    "BeerAbv": 15.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6610542_475cd_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "117",
+    "RatingScore": 4.83,
+    "AdjustedRating": "2.1193997650058748531286717832"
+  },
+  {
+    "BID": 6001317,
+    "BeerName": "The Darkness of Sparrows",
+    "BeerStyle": "Farmhouse Ale - Other",
+    "BreweryName": "Amory’s Tomb Brewing Co.",
+    "Origin": "Maynard, MA United States",
+    "BeerAbv": 9.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-45022_c80fc.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "123",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.1193957651058723531911702207"
   },
   {
     "BID": 5021590,
@@ -116,36 +161,6 @@
     "HallRating": 34.01,
     "BAR": 5.00,
     "StylePlus": "122",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1193927651808704782380440489"
-  },
-  {
-    "BID": 6001317,
-    "BeerName": "The Darkness of Sparrows",
-    "BeerStyle": "Farmhouse Ale - Other",
-    "BreweryName": "Amory’s Tomb Brewing Co.",
-    "Origin": "Maynard, MA United States",
-    "BeerAbv": 9.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-45022_c80fc.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "123",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.1193957651058723531911702207"
-  },
-  {
-    "BID": 6616186,
-    "BeerName": "Bean Me Up",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Bellbrook Brewing Company",
-    "Origin": "Bellbrook, OH United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6616186_9ecd5_sm.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "118",
     "RatingScore": 4.55,
     "AdjustedRating": "2.1193927651808704782380440489"
   },
@@ -180,19 +195,19 @@
     "AdjustedRating": "2.1193922651933701657458563536"
   },
   {
-    "BID": 6610542,
-    "BeerName": "Oscillation: Voidstalker",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Neuronova Brewing",
-    "Origin": "Lombard, IL United States",
-    "BeerAbv": 15.50,
+    "BID": 6600624,
+    "BeerName": "Sunday Service In Stockholm",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6610542_475cd_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
     "HallRating": 34.01,
     "BAR": 5.00,
-    "StylePlus": "117",
-    "RatingScore": 4.83,
-    "AdjustedRating": "2.1193997650058748531286717832"
+    "StylePlus": "115",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.1193947651308717282067948301"
   },
   {
     "BID": 6606924,
@@ -208,21 +223,6 @@
     "StylePlus": "114",
     "RatingScore": 4.71,
     "AdjustedRating": "2.1193967650808729781755456114"
-  },
-  {
-    "BID": 6600624,
-    "BeerName": "Sunday Service In Stockholm",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "115",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.1193947651308717282067948301"
   },
   {
     "BID": 6608060,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.1194037913957366172430258168"
   },
   {
-    "BID": 6505619,
-    "BeerName": "City of Shadows",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Union Craft Brewing",
-    "Origin": "Baltimore, MD United States",
-    "BeerAbv": 11.80,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505619_b3c23_sm.jpeg",
+    "BID": 4980950,
+    "BeerName": "Ta-Ta And Farewell",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brood Meadery",
+    "Origin": "Manchester, Greater Manchester England",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980950_8c32f_sm.jpeg",
     "HallRating": 33.37,
     "BAR": 5.21,
     "StylePlus": "115",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1193982915469824579824054838"
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.1194024164335480774278707336"
   }
 ]

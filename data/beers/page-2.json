@@ -1,16 +1,31 @@
 [
   {
-    "BID": 6504214,
-    "BeerName": "Decadence",
-    "BeerStyle": "Cider - Ice",
-    "BreweryName": "Eden Specialty Ciders",
-    "Origin": "Newport, VT United States",
-    "BeerAbv": 10.00,
+    "BID": 3334597,
+    "BeerName": "Summer-Rita",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Honey Pot Meadery",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-13108_6911b.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
     "HallRating": 31.64,
     "BAR": 5.88,
-    "StylePlus": "118",
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1194223966601252453033011262"
+  },
+  {
+    "BID": 1673471,
+    "BeerName": "Maple Oak Marshal Zhukov's",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "116",
     "RatingScore": 4.65,
     "AdjustedRating": "2.1194268964913815731910053373"
   },
@@ -30,66 +45,6 @@
     "AdjustedRating": "2.1194246465757534092471532318"
   },
   {
-    "BID": 1673471,
-    "BeerName": "Maple Oak Marshal Zhukov's",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "116",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.1194268964913815731910053373"
-  },
-  {
-    "BID": 6615940,
-    "BeerName": "KACHOW",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Deep Fried Beers",
-    "Origin": "Athens, NY United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6615940_9b987_sm.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1194238966038773545992025299"
-  },
-  {
-    "BID": 3334597,
-    "BeerName": "Summer-Rita",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Honey Pot Meadery",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1194223966601252453033011262"
-  },
-  {
-    "BID": 6607020,
-    "BeerName": "Small World",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Seeker Brewing",
-    "Origin": "Unanderra, New South Wales Australia",
-    "BeerAbv": 9.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6607020_5eae6_sm.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "109",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1194220216741872179793257753"
-  },
-  {
     "BID": 3340599,
     "BeerName": "Ice Lakes",
     "BeerStyle": "Bock - Eisbock",
@@ -105,6 +60,21 @@
     "AdjustedRating": "2.1194220216741872179793257753"
   },
   {
+    "BID": 6504214,
+    "BeerName": "Decadence",
+    "BeerStyle": "Cider - Ice",
+    "BreweryName": "Eden Specialty Ciders",
+    "Origin": "Newport, VT United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-13108_6911b.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "118",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.1194268964913815731910053373"
+  },
+  {
     "BID": 6204507,
     "BeerName": "Lil Hefe",
     "BeerStyle": "Wheat Beer - Hefeweizen Light / Leicht",
@@ -118,6 +88,21 @@
     "StylePlus": "135",
     "RatingScore": 4.51,
     "AdjustedRating": "2.1194216466882491906553504244"
+  },
+  {
+    "BID": 6615940,
+    "BeerName": "KACHOW",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Deep Fried Beers",
+    "Origin": "Athens, NY United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6615940_9b987_sm.jpeg",
+    "HallRating": 31.64,
+    "BAR": 5.88,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1194238966038773545992025299"
   },
   {
     "BID": 2402354,
@@ -150,21 +135,6 @@
     "AdjustedRating": "2.1882206985423732934583074997"
   },
   {
-    "BID": 6207963,
-    "BeerName": "Volume 5: Chapter 1",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Nostrum",
-    "Origin": "New York, NY United States",
-    "BeerAbv": 13.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-517399_f6d43.jpeg",
-    "HallRating": 31.34,
-    "BAR": 6.02,
-    "StylePlus": "123",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1194296228150873965041398344"
-  },
-  {
     "BID": 3338876,
     "BeerName": "Complaint Department",
     "BeerStyle": "Stout - Milk / Sweet",
@@ -180,19 +150,19 @@
     "AdjustedRating": "2.1194304227830886764529418823"
   },
   {
-    "BID": 6600600,
-    "BeerName": "Goetia",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Brasserie du Bas-Canada",
-    "Origin": "Gatineau, QC Canada",
-    "BeerAbv": 6.00,
+    "BID": 6207963,
+    "BeerName": "Volume 5: Chapter 1",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Nostrum",
+    "Origin": "New York, NY United States",
+    "BeerAbv": 13.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600600_d4b15_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-517399_f6d43.jpeg",
     "HallRating": 31.34,
     "BAR": 6.02,
-    "StylePlus": "118",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1194284228630854765809367625"
+    "StylePlus": "123",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1194296228150873965041398344"
   },
   {
     "BID": 6615208,
@@ -225,6 +195,21 @@
     "AdjustedRating": "2.1194448222071117155313787449"
   },
   {
+    "BID": 6600600,
+    "BeerName": "Goetia",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600600_d4b15_sm.jpeg",
+    "HallRating": 31.34,
+    "BAR": 6.02,
+    "StylePlus": "118",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1194284228630854765809367625"
+  },
+  {
     "BID": 2012665,
     "BeerName": "Barrel-Aged Abraxas",
     "BeerStyle": "Stout - Imperial / Double",
@@ -255,6 +240,21 @@
     "AdjustedRating": "2.1770383836411995802933066543"
   },
   {
+    "BID": 4959873,
+    "BeerName": "Future You Hates You [Cream S'mores Milkshake] Ghost 1244",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Adroit Theory",
+    "Origin": "Purcellville, VA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 49.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959873_ae28d_sm.jpeg",
+    "HallRating": 31.07,
+    "BAR": 6.15,
+    "StylePlus": "109",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1194344490359159735711232273"
+  },
+  {
     "BID": 5817691,
     "BeerName": "LAB LF 03",
     "BeerStyle": "IPA - New England / Hazy",
@@ -268,21 +268,6 @@
     "StylePlus": "119",
     "RatingScore": 4.60,
     "AdjustedRating": "2.1194374239094838469365051985"
-  },
-  {
-    "BID": 6601026,
-    "BeerName": "Marble Fox Pick Your Prize",
-    "BeerStyle": "IPA - Triple",
-    "BreweryName": "Marble Fox Brewing",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 10.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-543713_438fd.jpeg",
-    "HallRating": 31.07,
-    "BAR": 6.15,
-    "StylePlus": "115",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1194361489636690440656272108"
   },
   {
     "BID": 6615939,
@@ -300,19 +285,19 @@
     "AdjustedRating": "2.1194446486024343965381471287"
   },
   {
-    "BID": 4959873,
-    "BeerName": "Future You Hates You [Cream S'mores Milkshake] Ghost 1244",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Adroit Theory",
-    "Origin": "Purcellville, VA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 49.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4959873_ae28d_sm.jpeg",
+    "BID": 6601026,
+    "BeerName": "Marble Fox Pick Your Prize",
+    "BeerStyle": "IPA - Triple",
+    "BreweryName": "Marble Fox Brewing",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 10.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-543713_438fd.jpeg",
     "HallRating": 31.07,
     "BAR": 6.15,
-    "StylePlus": "109",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1194344490359159735711232273"
+    "StylePlus": "115",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1194361489636690440656272108"
   },
   {
     "BID": 803069,
@@ -373,5 +358,20 @@
     "StylePlus": "111",
     "RatingScore": 4.53,
     "AdjustedRating": "2.167648004194217761238274197"
+  },
+  {
+    "BID": 1010269,
+    "BeerName": "Double Barrel Hunahpu's®",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-489624_d0908_sm.jpeg",
+    "HallRating": 30.88,
+    "BAR": 19.45,
+    "StylePlus": "115",
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.1683713727288555810868141812"
   }
 ]
