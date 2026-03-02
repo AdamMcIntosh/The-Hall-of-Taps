@@ -45,21 +45,6 @@
     "AdjustedRating": "2.1246693727250273807533886021"
   },
   {
-    "BID": 5409496,
-    "BeerName": "Double Barrel Aged Pastry Mode",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Moksa Brewing Co",
-    "Origin": "Rocklin, CA United States",
-    "BeerAbv": 16.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5409496_45a7d_sm.jpeg",
-    "HallRating": 28.14,
-    "BAR": 14.56,
-    "StylePlus": "114",
-    "RatingScore": 4.73,
-    "AdjustedRating": "2.1246534203888557621058987019"
-  },
-  {
     "BID": 6401822,
     "BeerName": "Meadowfoam Razzamatazz",
     "BeerStyle": "Mead - Melomel",
@@ -73,6 +58,21 @@
     "StylePlus": "113",
     "RatingScore": 4.60,
     "AdjustedRating": "2.1196420447444069491313585802"
+  },
+  {
+    "BID": 5409496,
+    "BeerName": "Double Barrel Aged Pastry Mode",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Moksa Brewing Co",
+    "Origin": "Rocklin, CA United States",
+    "BeerAbv": 16.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5409496_45a7d_sm.jpeg",
+    "HallRating": 28.14,
+    "BAR": 14.56,
+    "StylePlus": "114",
+    "RatingScore": 4.73,
+    "AdjustedRating": "2.1246534203888557621058987019"
   },
   {
     "BID": 1808896,
@@ -195,21 +195,6 @@
     "AdjustedRating": "2.1238009113004247079197297041"
   },
   {
-    "BID": 6402689,
-    "BeerName": "6 Summers",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Orchestrated Minds Brewing",
-    "Origin": "Fort Lauderdale, FL United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6402689_43760_sm.jpeg",
-    "HallRating": 28.05,
-    "BAR": 8.62,
-    "StylePlus": "115",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.119667269086845992905939963"
-  },
-  {
     "BID": 6303290,
     "BeerName": "Sixth Chapter (Bourbon Barrel Aged)",
     "BeerStyle": "Stout - Other",
@@ -223,21 +208,6 @@
     "StylePlus": "122",
     "RatingScore": 4.51,
     "AdjustedRating": "2.1196487215443953676137911727"
-  },
-  {
-    "BID": 4939829,
-    "BeerName": "Liquid Heat",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Noble Savage Brewing Company",
-    "Origin": "Glen Cove, NY United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-441029_4d0aa.jpeg",
-    "HallRating": 28.05,
-    "BAR": 8.62,
-    "StylePlus": "118",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1196540208422384034115479699"
   },
   {
     "BID": 5950080,
@@ -255,6 +225,36 @@
     "AdjustedRating": "2.1196685939113067518553791623"
   },
   {
+    "BID": 4939829,
+    "BeerName": "Liquid Heat",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Noble Savage Brewing Company",
+    "Origin": "Glen Cove, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-441029_4d0aa.jpeg",
+    "HallRating": 28.05,
+    "BAR": 8.62,
+    "StylePlus": "118",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1196540208422384034115479699"
+  },
+  {
+    "BID": 6402689,
+    "BeerName": "6 Summers",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6402689_43760_sm.jpeg",
+    "HallRating": 28.05,
+    "BAR": 8.62,
+    "StylePlus": "115",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.119667269086845992905939963"
+  },
+  {
     "BID": 6616328,
     "BeerName": "Can Time Be Stopped?",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -268,36 +268,6 @@
     "StylePlus": "112",
     "RatingScore": 4.52,
     "AdjustedRating": "2.119650046368856126563230372"
-  },
-  {
-    "BID": 6600461,
-    "BeerName": "Dark Superstition",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 8.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
-    "HallRating": 28.03,
-    "BAR": 8.66,
-    "StylePlus": "113",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1196614457048298479705239793"
-  },
-  {
-    "BID": 3345925,
-    "BeerName": "Tête De Pioche 176",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Le Prospecteur",
-    "Origin": "Val-d'Or, QC Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 57.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
-    "HallRating": 28.03,
-    "BAR": 8.66,
-    "StylePlus": "123",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1196654951581536492573502577"
   },
   {
     "BID": 6214956,
@@ -315,6 +285,21 @@
     "AdjustedRating": "2.1196695446114774505441765362"
   },
   {
+    "BID": 6600461,
+    "BeerName": "Dark Superstition",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Troon Brewing",
+    "Origin": "Hopewell, NJ United States",
+    "BeerAbv": 8.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
+    "HallRating": 28.03,
+    "BAR": 8.66,
+    "StylePlus": "113",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1196614457048298479705239793"
+  },
+  {
     "BID": 4003827,
     "BeerName": "Presto",
     "BeerStyle": "Mead - Melomel",
@@ -328,6 +313,21 @@
     "StylePlus": "111",
     "RatingScore": 4.51,
     "AdjustedRating": "2.123627470553004591734877221"
+  },
+  {
+    "BID": 3345925,
+    "BeerName": "Tête De Pioche 176",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Le Prospecteur",
+    "Origin": "Val-d'Or, QC Canada",
+    "BeerAbv": 6.50,
+    "BeerIbu": 57.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
+    "HallRating": 28.03,
+    "BAR": 8.66,
+    "StylePlus": "123",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1196654951581536492573502577"
   },
   {
     "BID": 4001362,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.123626680775028200085848049"
   },
   {
-    "BID": 5216973,
-    "BeerName": "Fanal Select (2022)",
+    "BID": 5605304,
+    "BeerName": "Mead Didn’t Start the Fire",
     "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 10.00,
+    "BreweryName": "Funktastic Meads",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 20.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5216973_cc60e_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605304_7fee3_sm.jpeg",
     "HallRating": 28.00,
-    "BAR": 14.19,
+    "BAR": 8.70,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.1236491892714798759137385853"
+    "AdjustedRating": "2.1196771693892089837647323493"
   }
 ]

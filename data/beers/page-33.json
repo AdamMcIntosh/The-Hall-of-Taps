@@ -1,20 +1,5 @@
 [
   {
-    "BID": 4050922,
-    "BeerName": "Santilli",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Night Shift Brewing",
-    "Origin": "Everett, MA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1092172_a22f5_sm.jpeg",
-    "HallRating": 22.80,
-    "BAR": 15.99,
-    "StylePlus": "104",
-    "RatingScore": 3.87,
-    "AdjustedRating": "2.3564519977694492355176304289"
-  },
-  {
     "BID": 1666939,
     "BeerName": "Xalapa",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -28,6 +13,21 @@
     "StylePlus": "106",
     "RatingScore": 3.69,
     "AdjustedRating": "2.1409146318911761877639783713"
+  },
+  {
+    "BID": 4050922,
+    "BeerName": "Santilli",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Night Shift Brewing",
+    "Origin": "Everett, MA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1092172_a22f5_sm.jpeg",
+    "HallRating": 22.80,
+    "BAR": 15.99,
+    "StylePlus": "104",
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.3564519977694492355176304289"
   },
   {
     "BID": 1995,
@@ -90,21 +90,6 @@
     "AdjustedRating": "2.3154253152489491701694327686"
   },
   {
-    "BID": 4414586,
-    "BeerName": "Free Dive",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Coppertail Brewing Company",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-667659_47071_sm.jpeg",
-    "HallRating": 22.77,
-    "BAR": 15.95,
-    "StylePlus": "100",
-    "RatingScore": 3.72,
-    "AdjustedRating": "2.3308206623620079150177046449"
-  },
-  {
     "BID": 6025558,
     "BeerName": "Hop Commander",
     "BeerStyle": "IPA - American",
@@ -120,6 +105,21 @@
     "AdjustedRating": "2.3212377910896906389501366964"
   },
   {
+    "BID": 4414586,
+    "BeerName": "Free Dive",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Coppertail Brewing Company",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-667659_47071_sm.jpeg",
+    "HallRating": 22.77,
+    "BAR": 15.95,
+    "StylePlus": "100",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.3308206623620079150177046449"
+  },
+  {
     "BID": 1676387,
     "BeerName": "Chiemseer Hell",
     "BeerStyle": "Lager - Helles",
@@ -133,6 +133,21 @@
     "StylePlus": "101",
     "RatingScore": 3.51,
     "AdjustedRating": "2.3042986448877675761437823497"
+  },
+  {
+    "BID": 5500119,
+    "BeerName": "Erdinger Oktoberfest / Festweiße",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Erdinger Weissbräu",
+    "Origin": "Erding, Bayern Germany",
+    "BeerAbv": 5.70,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5943660_09d11_sm.jpeg",
+    "HallRating": 22.76,
+    "BAR": 15.94,
+    "StylePlus": "103",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.3174114557425336093474062859"
   },
   {
     "BID": 6001763,
@@ -165,36 +180,6 @@
     "AdjustedRating": "2.3270491643088094467739518845"
   },
   {
-    "BID": 5500119,
-    "BeerName": "Erdinger Oktoberfest / Festweiße",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Erdinger Weissbräu",
-    "Origin": "Erding, Bayern Germany",
-    "BeerAbv": 5.70,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5943660_09d11_sm.jpeg",
-    "HallRating": 22.76,
-    "BAR": 15.94,
-    "StylePlus": "103",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.3174114557425336093474062859"
-  },
-  {
-    "BID": 5203381,
-    "BeerName": "Zombie Killer",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "B. Nektar Meadery",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-37947_31a7c_sm.jpeg",
-    "HallRating": 22.76,
-    "BAR": 15.94,
-    "StylePlus": "107",
-    "RatingScore": 3.94,
-    "AdjustedRating": "2.3584744746831594583090834861"
-  },
-  {
     "BID": 3404818,
     "BeerName": "Broken Skull IPA",
     "BeerStyle": "IPA - American",
@@ -225,19 +210,19 @@
     "AdjustedRating": "2.3052970234710399402697411544"
   },
   {
-    "BID": 1672878,
-    "BeerName": "Even Keel",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Ballast Point Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 3.80,
-    "BeerIbu": 51.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6508_7178e_sm.jpeg",
-    "HallRating": 22.75,
-    "BAR": 15.93,
-    "StylePlus": "101",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.3184671739007634582878893876"
+    "BID": 5203381,
+    "BeerName": "Zombie Killer",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "B. Nektar Meadery",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-37947_31a7c_sm.jpeg",
+    "HallRating": 22.76,
+    "BAR": 15.94,
+    "StylePlus": "107",
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.3584744746831594583090834861"
   },
   {
     "BID": 703037,
@@ -253,6 +238,21 @@
     "StylePlus": "104",
     "RatingScore": 3.72,
     "AdjustedRating": "2.3279180753802167697609444813"
+  },
+  {
+    "BID": 1672878,
+    "BeerName": "Even Keel",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Ballast Point Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 3.80,
+    "BeerIbu": 51.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6508_7178e_sm.jpeg",
+    "HallRating": 22.75,
+    "BAR": 15.93,
+    "StylePlus": "101",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.3184671739007634582878893876"
   },
   {
     "BID": 33159,
@@ -315,34 +315,19 @@
     "AdjustedRating": "2.3602888655119015727194913981"
   },
   {
-    "BID": 6613233,
-    "BeerName": "Bodhizafa",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Georgetown Brewing Company",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1094728_bfd85_sm.jpeg",
+    "BID": 903475,
+    "BeerName": "Christmas Ale",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Begyle Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-521574_3355a_sm.jpeg",
     "HallRating": 22.72,
-    "BAR": 15.89,
+    "BAR": 13.92,
     "StylePlus": "106",
-    "RatingScore": 3.95,
-    "AdjustedRating": "2.3524364862064075572960413644"
-  },
-  {
-    "BID": 450180,
-    "BeerName": "Falco",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Evil Twin Brewing",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-318741_16143_sm.jpeg",
-    "HallRating": 22.72,
-    "BAR": 15.89,
-    "StylePlus": "100",
-    "RatingScore": 3.73,
-    "AdjustedRating": "2.3248186890122880561141476224"
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.1390657425781674219313054725"
   },
   {
     "BID": 2008674,
@@ -360,18 +345,33 @@
     "AdjustedRating": "2.300954401449525001471765006"
   },
   {
-    "BID": 903475,
-    "BeerName": "Christmas Ale",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Begyle Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-521574_3355a_sm.jpeg",
+    "BID": 450180,
+    "BeerName": "Falco",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Evil Twin Brewing",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-318741_16143_sm.jpeg",
     "HallRating": 22.72,
-    "BAR": 13.92,
+    "BAR": 15.89,
+    "StylePlus": "100",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.3248186890122880561141476224"
+  },
+  {
+    "BID": 6613233,
+    "BeerName": "Bodhizafa",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Georgetown Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1094728_bfd85_sm.jpeg",
+    "HallRating": 22.72,
+    "BAR": 15.89,
     "StylePlus": "106",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.1390657425781674219313054725"
+    "RatingScore": 3.95,
+    "AdjustedRating": "2.3524364862064075572960413644"
   }
 ]

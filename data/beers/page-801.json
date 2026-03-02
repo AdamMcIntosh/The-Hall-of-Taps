@@ -1,33 +1,33 @@
 [
   {
-    "BID": 5008738,
-    "BeerName": "Leffe Triple / Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Abbaye de Leffe",
-    "Origin": "Leuven, Vlaams Gewest Belgium",
-    "BeerAbv": 8.50,
+    "BID": 3612466,
+    "BeerName": "Molson Canadian",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Molson Coors Canada",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 5.00,
     "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5943_9989d_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3836_99686_sm.jpeg",
     "HallRating": 17.85,
     "BAR": 12.93,
-    "StylePlus": "99",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.531998754046162225375562182"
+    "StylePlus": "84",
+    "RatingScore": 2.91,
+    "AdjustedRating": "2.3341373910700174433636923122"
   },
   {
-    "BID": 4620104,
-    "BeerName": "Paulaner Oktoberfest Märzen / Original Münchner Märzen",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Paulaner Brauerei",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.80,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15180_7d22a_sm.jpeg",
+    "BID": 5216985,
+    "BeerName": "Speedway Stout",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "AleSmith Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-923_ad825_sm.jpeg",
     "HallRating": 17.84,
     "BAR": 12.92,
     "StylePlus": "101",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.5409962636683351835155168409"
+    "RatingScore": 4.16,
+    "AdjustedRating": "2.6690029664050969561468881972"
   },
   {
     "BID": 3810123,
@@ -45,21 +45,6 @@
     "AdjustedRating": "2.4978611735568331269423464917"
   },
   {
-    "BID": 6616473,
-    "BeerName": "Tripel LeFort",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Omer Vander Ghinste",
-    "Origin": "Kortrijk, Vlaams Gewest Belgium",
-    "BeerAbv": 8.80,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1533976_8e870_sm.jpeg",
-    "HallRating": 17.84,
-    "BAR": 12.92,
-    "StylePlus": "102",
-    "RatingScore": 3.72,
-    "AdjustedRating": "2.5488873402509890857610061513"
-  },
-  {
     "BID": 5202004,
     "BeerName": "Duvel Tripel Hop Citra",
     "BeerStyle": "IPA - Belgian",
@@ -75,19 +60,49 @@
     "AdjustedRating": "2.5400441178618906402933399559"
   },
   {
-    "BID": 5216985,
-    "BeerName": "Speedway Stout",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "AleSmith Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-923_ad825_sm.jpeg",
+    "BID": 4620104,
+    "BeerName": "Paulaner Oktoberfest Märzen / Original Münchner Märzen",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Paulaner Brauerei",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.80,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-15180_7d22a_sm.jpeg",
     "HallRating": 17.84,
     "BAR": 12.92,
     "StylePlus": "101",
-    "RatingScore": 4.16,
-    "AdjustedRating": "2.6690029664050969561468881972"
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.5409962636683351835155168409"
+  },
+  {
+    "BID": 6616473,
+    "BeerName": "Tripel LeFort",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Omer Vander Ghinste",
+    "Origin": "Kortrijk, Vlaams Gewest Belgium",
+    "BeerAbv": 8.80,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1533976_8e870_sm.jpeg",
+    "HallRating": 17.84,
+    "BAR": 12.92,
+    "StylePlus": "102",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.5488873402509890857610061513"
+  },
+  {
+    "BID": 2015307,
+    "BeerName": "Tripel d'Anvers",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij De Koninck",
+    "Origin": "Antwerpen, Vlaams Gewest Belgium",
+    "BeerAbv": 8.00,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-67064_27a53_sm.jpeg",
+    "HallRating": 17.83,
+    "BAR": 12.91,
+    "StylePlus": "100",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.5278731413720994591582956247"
   },
   {
     "BID": 5219134,
@@ -120,21 +135,6 @@
     "AdjustedRating": "2.5891900491384729866697458399"
   },
   {
-    "BID": 2015307,
-    "BeerName": "Tripel d'Anvers",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij De Koninck",
-    "Origin": "Antwerpen, Vlaams Gewest Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-67064_27a53_sm.jpeg",
-    "HallRating": 17.83,
-    "BAR": 12.91,
-    "StylePlus": "100",
-    "RatingScore": 3.65,
-    "AdjustedRating": "2.5278731413720994591582956247"
-  },
-  {
     "BID": 3202347,
     "BeerName": "Guayabera®",
     "BeerStyle": "Pale Ale - American",
@@ -165,6 +165,21 @@
     "AdjustedRating": "2.6433036995709099718467021733"
   },
   {
+    "BID": 6304042,
+    "BeerName": "Paix Dieu Triple",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brasserie Caulier",
+    "Origin": "Péruwelz, Région Wallonne Belgium",
+    "BeerAbv": 10.00,
+    "BeerIbu": 24.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-61070_e1124_sm.jpeg",
+    "HallRating": 17.81,
+    "BAR": 12.89,
+    "StylePlus": "103",
+    "RatingScore": 3.77,
+    "AdjustedRating": "2.5544994348368758813415168463"
+  },
+  {
     "BID": 4002582,
     "BeerName": "Canadian Breakfast Stout (CBS)",
     "BeerStyle": "Stout - Imperial / Double Coffee",
@@ -180,19 +195,19 @@
     "AdjustedRating": "2.7337338340743195353418201567"
   },
   {
-    "BID": 6304042,
-    "BeerName": "Paix Dieu Triple",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brasserie Caulier",
-    "Origin": "Péruwelz, Région Wallonne Belgium",
-    "BeerAbv": 10.00,
-    "BeerIbu": 24.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-61070_e1124_sm.jpeg",
-    "HallRating": 17.81,
-    "BAR": 12.89,
-    "StylePlus": "103",
-    "RatingScore": 3.77,
-    "AdjustedRating": "2.5544994348368758813415168463"
+    "BID": 5609511,
+    "BeerName": "Gouden Carolus Classic",
+    "BeerStyle": "Belgian Strong Dark Ale",
+    "BreweryName": "Brouwerij Het Anker",
+    "Origin": "Mechelen, Vlaams Gewest Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9087_5383c_sm.jpeg",
+    "HallRating": 17.80,
+    "BAR": 12.87,
+    "StylePlus": "99",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.5381970912830985863384278426"
   },
   {
     "BID": 2404089,
@@ -225,21 +240,6 @@
     "AdjustedRating": "2.5275905433433181556633184517"
   },
   {
-    "BID": 5609511,
-    "BeerName": "Gouden Carolus Classic",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Brouwerij Het Anker",
-    "Origin": "Mechelen, Vlaams Gewest Belgium",
-    "BeerAbv": 8.50,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9087_5383c_sm.jpeg",
-    "HallRating": 17.80,
-    "BAR": 12.87,
-    "StylePlus": "99",
-    "RatingScore": 3.73,
-    "AdjustedRating": "2.5381970912830985863384278426"
-  },
-  {
     "BID": 4302568,
     "BeerName": "Juice Bomb",
     "BeerStyle": "IPA - New England / Hazy",
@@ -270,21 +270,6 @@
     "AdjustedRating": "2.647586610095880800454348044"
   },
   {
-    "BID": 6413125,
-    "BeerName": "Voodoo Ranger Imperial IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "New Belgium Brewing Company",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1846245_6a0b6_sm.jpeg",
-    "HallRating": 17.78,
-    "BAR": 12.85,
-    "StylePlus": "96",
-    "RatingScore": 3.73,
-    "AdjustedRating": "2.5332425363707963681214985214"
-  },
-  {
     "BID": 2609792,
     "BeerName": "Matilda",
     "BeerStyle": "Pale Ale - Belgian",
@@ -298,6 +283,21 @@
     "StylePlus": "106",
     "RatingScore": 3.71,
     "AdjustedRating": "2.525614663085219456714562008"
+  },
+  {
+    "BID": 6413125,
+    "BeerName": "Voodoo Ranger Imperial IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "New Belgium Brewing Company",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1846245_6a0b6_sm.jpeg",
+    "HallRating": 17.78,
+    "BAR": 12.85,
+    "StylePlus": "96",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.5332425363707963681214985214"
   },
   {
     "BID": 5200864,
@@ -330,34 +330,19 @@
     "AdjustedRating": "2.5693861305712515651817482495"
   },
   {
-    "BID": 6105233,
-    "BeerName": "Prior 8",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Brouwerij St. Bernardus",
-    "Origin": "Poperinge, Vlaams Gewest Belgium",
-    "BeerAbv": 8.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-475_0a4ba_sm.jpeg",
+    "BID": 5212401,
+    "BeerName": "Black Chocolate Stout",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Brooklyn Brewery",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 51.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-37235_fdc9c_sm.jpeg",
     "HallRating": 17.75,
     "BAR": 12.81,
-    "StylePlus": "102",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.5143759915091190711036270013"
-  },
-  {
-    "BID": 5408990,
-    "BeerName": "Peanut Butter Milk Stout",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Belching Beaver Brewery",
-    "Origin": "Oceanside, CA United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-638512_4dfc5_sm.jpeg",
-    "HallRating": 17.75,
-    "BAR": 12.80,
-    "StylePlus": "105",
-    "RatingScore": 3.99,
-    "AdjustedRating": "2.5845288845145342940217432137"
+    "StylePlus": "96",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.5492803843651018391240016278"
   },
   {
     "BID": 6028691,
@@ -373,5 +358,20 @@
     "StylePlus": "106",
     "RatingScore": 3.98,
     "AdjustedRating": "2.584385606330514354291286167"
+  },
+  {
+    "BID": 5602100,
+    "BeerName": "Caribbean Rum Cask",
+    "BeerStyle": "Scottish Export Ale",
+    "BreweryName": "Innis & Gunn",
+    "Origin": "Edinburgh, Scotland",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13131_0bbc0_sm.jpeg",
+    "HallRating": 17.75,
+    "BAR": 12.81,
+    "StylePlus": "99",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.4875171669315421751776664967"
   }
 ]

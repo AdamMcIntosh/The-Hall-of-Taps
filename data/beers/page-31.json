@@ -15,21 +15,6 @@
     "AdjustedRating": "2.1194037533217172184321244741"
   },
   {
-    "BID": 4979726,
-    "BeerName": "Golden Stone American Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Angry James Brewery",
-    "Origin": "Silverthorne, CO United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-380061_b156d.jpeg",
-    "HallRating": 22.96,
-    "BAR": 4.80,
-    "StylePlus": "107",
-    "RatingScore": 3.71,
-    "AdjustedRating": "2.1194075531412257917748906927"
-  },
-  {
     "BID": 436556,
     "BeerName": "Big Daddy IPA",
     "BeerStyle": "IPA - American",
@@ -45,34 +30,19 @@
     "AdjustedRating": "2.3438269580709191012140431599"
   },
   {
-    "BID": 5503208,
-    "BeerName": "Fundação",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Menze Brewing Co.",
-    "Origin": "São Caetano do Sul, São Paulo Brazil",
-    "BeerAbv": 4.50,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5503208_4e492_sm.jpeg",
+    "BID": 1006404,
+    "BeerName": "Mosaic IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Community Beer Company",
+    "Origin": "Dallas, TX United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 85.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-342746_be3f7_sm.jpeg",
     "HallRating": 22.96,
-    "BAR": 4.80,
-    "StylePlus": "105",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.1194042282991557900999702514"
-  },
-  {
-    "BID": 6210687,
-    "BeerName": "Hook’s Stash",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Aslan Brewing Company",
-    "Origin": "Bellingham, WA United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-69800_babcb.jpeg",
-    "HallRating": 22.96,
-    "BAR": 4.80,
-    "StylePlus": "110",
-    "RatingScore": 3.81,
-    "AdjustedRating": "2.1194123029156115084533484659"
+    "BAR": 16.20,
+    "StylePlus": "103",
+    "RatingScore": 3.84,
+    "AdjustedRating": "2.3835933462976560532736325567"
   },
   {
     "BID": 4982315,
@@ -90,6 +60,36 @@
     "AdjustedRating": "2.11940802811866436344273647"
   },
   {
+    "BID": 6210687,
+    "BeerName": "Hook’s Stash",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Aslan Brewing Company",
+    "Origin": "Bellingham, WA United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-69800_babcb.jpeg",
+    "HallRating": 22.96,
+    "BAR": 4.80,
+    "StylePlus": "110",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.1194123029156115084533484659"
+  },
+  {
+    "BID": 5503208,
+    "BeerName": "Fundação",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Menze Brewing Co.",
+    "Origin": "São Caetano do Sul, São Paulo Brazil",
+    "BeerAbv": 4.50,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5503208_4e492_sm.jpeg",
+    "HallRating": 22.96,
+    "BAR": 4.80,
+    "StylePlus": "105",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.1194042282991557900999702514"
+  },
+  {
     "BID": 832486,
     "BeerName": "Escape to Colorado IPA",
     "BeerStyle": "IPA - American",
@@ -103,21 +103,6 @@
     "StylePlus": "98",
     "RatingScore": 3.66,
     "AdjustedRating": "2.3541997601420501498052743322"
-  },
-  {
-    "BID": 6616543,
-    "BeerName": "Yellow Rose",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Lone Pint Brewery",
-    "Origin": "Magnolia, TX United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 62.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-327936_2c809_sm.jpeg",
-    "HallRating": 22.94,
-    "BAR": 16.16,
-    "StylePlus": "108",
-    "RatingScore": 4.04,
-    "AdjustedRating": "2.4078579850481505637216891044"
   },
   {
     "BID": 3337571,
@@ -135,19 +120,19 @@
     "AdjustedRating": "2.1411244979919678714859437751"
   },
   {
-    "BID": 608807,
-    "BeerName": "Swami's IPA",
+    "BID": 6616543,
+    "BeerName": "Yellow Rose",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Pizza Port Brewing Company",
-    "Origin": "Carlsbad, CA United States",
+    "BreweryName": "Lone Pint Brewery",
+    "Origin": "Magnolia, TX United States",
     "BeerAbv": 6.80,
-    "BeerIbu": 72.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-490277_b00af_sm.jpeg",
-    "HallRating": 22.93,
-    "BAR": 16.15,
-    "StylePlus": "102",
-    "RatingScore": 3.82,
-    "AdjustedRating": "2.3732078521448776026712605542"
+    "BeerIbu": 62.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-327936_2c809_sm.jpeg",
+    "HallRating": 22.94,
+    "BAR": 16.16,
+    "StylePlus": "108",
+    "RatingScore": 4.04,
+    "AdjustedRating": "2.4078579850481505637216891044"
   },
   {
     "BID": 5208725,
@@ -178,6 +163,21 @@
     "StylePlus": "95",
     "RatingScore": 3.56,
     "AdjustedRating": "2.3344784378442522893441821097"
+  },
+  {
+    "BID": 608807,
+    "BeerName": "Swami's IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Pizza Port Brewing Company",
+    "Origin": "Carlsbad, CA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 72.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-490277_b00af_sm.jpeg",
+    "HallRating": 22.93,
+    "BAR": 16.15,
+    "StylePlus": "102",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.3732078521448776026712605542"
   },
   {
     "BID": 6204974,
@@ -255,6 +255,21 @@
     "AdjustedRating": "2.3423882208128270603871072342"
   },
   {
+    "BID": 811493,
+    "BeerName": "80-Acre Hoppy Wheat Beer",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Boulevard Brewing Co.",
+    "Origin": "Kansas City, MO United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-33035_1e64f_sm.jpeg",
+    "HallRating": 22.90,
+    "BAR": 16.12,
+    "StylePlus": "102",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.3370372687117455044629800025"
+  },
+  {
     "BID": 14196,
     "BeerName": "Urweisse",
     "BeerStyle": "Wheat Beer - Hefeweizen",
@@ -285,19 +300,19 @@
     "AdjustedRating": "2.3553697587286956670165826015"
   },
   {
-    "BID": 811493,
-    "BeerName": "80-Acre Hoppy Wheat Beer",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Boulevard Brewing Co.",
-    "Origin": "Kansas City, MO United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-33035_1e64f_sm.jpeg",
-    "HallRating": 22.90,
-    "BAR": 16.12,
-    "StylePlus": "102",
-    "RatingScore": 3.61,
-    "AdjustedRating": "2.3370372687117455044629800025"
+    "BID": 702793,
+    "BeerName": "RPM IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Boneyard Beer",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29293_28a61_sm.jpeg",
+    "HallRating": 22.89,
+    "BAR": 16.11,
+    "StylePlus": "106",
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.3840330906231839469456124158"
   },
   {
     "BID": 6679,
@@ -313,21 +328,6 @@
     "StylePlus": "103",
     "RatingScore": 3.57,
     "AdjustedRating": "2.140939396327527779966900465"
-  },
-  {
-    "BID": 702793,
-    "BeerName": "RPM IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Boneyard Beer",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-29293_28a61_sm.jpeg",
-    "HallRating": 22.89,
-    "BAR": 16.11,
-    "StylePlus": "106",
-    "RatingScore": 3.94,
-    "AdjustedRating": "2.3840330906231839469456124158"
   },
   {
     "BID": 4406560,

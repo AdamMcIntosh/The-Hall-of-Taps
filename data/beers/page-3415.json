@@ -180,21 +180,6 @@
     "AdjustedRating": "2.1193388464874891566024104217"
   },
   {
-    "BID": 3347077,
-    "BeerName": "Classic Flavored",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Alis",
-    "Origin": null,
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 8.10,
-    "BAR": 1.39,
-    "StylePlus": "56",
-    "RatingScore": 1.57,
-    "AdjustedRating": "2.1193141472902130680752875532"
-  },
-  {
     "BID": 6150280,
     "BeerName": "Maltich Peach",
     "BeerStyle": "Non-Alcoholic - Other",
@@ -208,6 +193,21 @@
     "StylePlus": "84",
     "RatingScore": 2.38,
     "AdjustedRating": "2.1193404714346783729528790314"
+  },
+  {
+    "BID": 3347077,
+    "BeerName": "Classic Flavored",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Alis",
+    "Origin": null,
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 8.10,
+    "BAR": 1.39,
+    "StylePlus": "56",
+    "RatingScore": 1.57,
+    "AdjustedRating": "2.1193141472902130680752875532"
   },
   {
     "BID": 6100943,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.1250844906366039360064586885"
   },
   {
-    "BID": 4961878,
-    "BeerName": "Nepal Ice Peach",
-    "BeerStyle": "Flavored Malt Beverage",
-    "BreweryName": "Sungold Brewery (Chaudhary Group)",
-    "Origin": "Kathmandu, Bagmati Province Nepal",
-    "BeerAbv": 5.00,
+    "BID": 2650329,
+    "BeerName": "Veltins Pilsener 0,0% Alkoholfrei",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Brauerei VELTINS",
+    "Origin": "Meschede, Nordrhein-Westfalen Germany",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961878_6fdf6_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-87363_60bfe_sm.jpeg",
     "HallRating": 7.83,
-    "BAR": 1.51,
-    "StylePlus": "71",
-    "RatingScore": 2.36,
-    "AdjustedRating": "2.1193416263349466021359145634"
+    "BAR": 5.02,
+    "StylePlus": "90",
+    "RatingScore": 2.43,
+    "AdjustedRating": "2.1272334500376426216806882387"
   }
 ]

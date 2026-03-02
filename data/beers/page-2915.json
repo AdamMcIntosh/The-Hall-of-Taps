@@ -1,20 +1,5 @@
 [
   {
-    "BID": 2814388,
-    "BeerName": "The Crisp",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Sixpoint Brewery",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 44.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11517_8efe6_sm.jpeg",
-    "HallRating": 11.67,
-    "BAR": 8.34,
-    "StylePlus": "101",
-    "RatingScore": 3.48,
-    "AdjustedRating": "2.393800928004789702140398144"
-  },
-  {
     "BID": 4806994,
     "BeerName": "Original Alcoholic Ginger Beer",
     "BeerStyle": "Hard Ginger Beer",
@@ -28,6 +13,21 @@
     "StylePlus": "103",
     "RatingScore": 3.46,
     "AdjustedRating": "2.3896469794558689391021099"
+  },
+  {
+    "BID": 2814388,
+    "BeerName": "The Crisp",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Sixpoint Brewery",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 44.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11517_8efe6_sm.jpeg",
+    "HallRating": 11.67,
+    "BAR": 8.34,
+    "StylePlus": "101",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.393800928004789702140398144"
   },
   {
     "BID": 5807024,
@@ -45,19 +45,19 @@
     "AdjustedRating": "2.3829559123057431077895209533"
   },
   {
-    "BID": 4621447,
-    "BeerName": "Berliner Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Berliner-Kindl-Schultheiss-Brauerei",
-    "Origin": "Berlin, Germany",
+    "BID": 4102193,
+    "BeerName": "Presidente",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Cervecería Nacional Dominicana",
+    "Origin": "Santo Domingo, Distrito Nacional Dominican Republic",
     "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6578_b1415_sm.jpeg",
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7057_46c43_sm.jpeg",
     "HallRating": 11.65,
     "BAR": 8.31,
-    "StylePlus": "89",
-    "RatingScore": 3.07,
-    "AdjustedRating": "2.3051333955524088436906639204"
+    "StylePlus": "88",
+    "RatingScore": 3.03,
+    "AdjustedRating": "2.297352517030609843662320266"
   },
   {
     "BID": 4810657,
@@ -75,19 +75,19 @@
     "AdjustedRating": "2.386035158526927668948661154"
   },
   {
-    "BID": 4102193,
-    "BeerName": "Presidente",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Cervecería Nacional Dominicana",
-    "Origin": "Santo Domingo, Distrito Nacional Dominican Republic",
+    "BID": 4621447,
+    "BeerName": "Berliner Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Berliner-Kindl-Schultheiss-Brauerei",
+    "Origin": "Berlin, Germany",
     "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7057_46c43_sm.jpeg",
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6578_b1415_sm.jpeg",
     "HallRating": 11.65,
     "BAR": 8.31,
-    "StylePlus": "88",
-    "RatingScore": 3.03,
-    "AdjustedRating": "2.297352517030609843662320266"
+    "StylePlus": "89",
+    "RatingScore": 3.07,
+    "AdjustedRating": "2.3051333955524088436906639204"
   },
   {
     "BID": 8955,
@@ -120,21 +120,6 @@
     "AdjustedRating": "2.2855810941921845720636675186"
   },
   {
-    "BID": 1902800,
-    "BeerName": "Benediktiner Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Benediktiner Weissbräu",
-    "Origin": "Ettal, Bayern Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 17.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1140001_d27e4_sm.jpeg",
-    "HallRating": 11.62,
-    "BAR": 8.28,
-    "StylePlus": "98",
-    "RatingScore": 3.40,
-    "AdjustedRating": "2.3601865816304782473668078749"
-  },
-  {
     "BID": 5944,
     "BeerName": "Leffe Ruby",
     "BeerStyle": "Fruit Beer",
@@ -165,6 +150,36 @@
     "AdjustedRating": "2.3287654020456269753364411284"
   },
   {
+    "BID": 1902800,
+    "BeerName": "Benediktiner Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Benediktiner Weissbräu",
+    "Origin": "Ettal, Bayern Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 17.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1140001_d27e4_sm.jpeg",
+    "HallRating": 11.62,
+    "BAR": 8.28,
+    "StylePlus": "98",
+    "RatingScore": 3.40,
+    "AdjustedRating": "2.3601865816304782473668078749"
+  },
+  {
+    "BID": 6402757,
+    "BeerName": "Gösser Märzen / Gösser Beer / Gösser Export",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Brauerei Göss",
+    "Origin": "Göss, Steiermark Austria",
+    "BeerAbv": 5.20,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-71980_5ef56_sm.jpeg",
+    "HallRating": 11.61,
+    "BAR": 8.27,
+    "StylePlus": "90",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.3073706690433894345719558923"
+  },
+  {
     "BID": 5906186,
     "BeerName": "Kozel Světlý / Kozel 10",
     "BeerStyle": "Lager - Světlé (Czech Pale)",
@@ -178,6 +193,21 @@
     "StylePlus": "89",
     "RatingScore": 3.12,
     "AdjustedRating": "2.304140495059191859896291948"
+  },
+  {
+    "BID": 6400421,
+    "BeerName": "Astra Urtyp / Premium",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Holsten-Brauerei AG",
+    "Origin": "Altona-Nord, Hamburg Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1655_c1028_sm.jpeg",
+    "HallRating": 11.61,
+    "BAR": 8.26,
+    "StylePlus": "89",
+    "RatingScore": 3.08,
+    "AdjustedRating": "2.2960628019323671497584541063"
   },
   {
     "BID": 1631500,
@@ -210,36 +240,6 @@
     "AdjustedRating": "2.3708932161701519651368094465"
   },
   {
-    "BID": 6402757,
-    "BeerName": "Gösser Märzen / Gösser Beer / Gösser Export",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Brauerei Göss",
-    "Origin": "Göss, Steiermark Austria",
-    "BeerAbv": 5.20,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-71980_5ef56_sm.jpeg",
-    "HallRating": 11.61,
-    "BAR": 8.27,
-    "StylePlus": "90",
-    "RatingScore": 3.13,
-    "AdjustedRating": "2.3073706690433894345719558923"
-  },
-  {
-    "BID": 6400421,
-    "BeerName": "Astra Urtyp / Premium",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Holsten-Brauerei AG",
-    "Origin": "Altona-Nord, Hamburg Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1655_c1028_sm.jpeg",
-    "HallRating": 11.61,
-    "BAR": 8.26,
-    "StylePlus": "89",
-    "RatingScore": 3.08,
-    "AdjustedRating": "2.2960628019323671497584541063"
-  },
-  {
     "BID": 4405716,
     "BeerName": "Light Lager",
     "BeerStyle": "Lager - American Light",
@@ -270,21 +270,6 @@
     "AdjustedRating": "2.2954497494010551317678710111"
   },
   {
-    "BID": 3013933,
-    "BeerName": "Amstel Light",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Amstel Bier",
-    "Origin": "Zoeterwoude, Zuid-Holland Netherlands",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4541_68e90_sm.jpeg",
-    "HallRating": 11.57,
-    "BAR": 8.21,
-    "StylePlus": "96",
-    "RatingScore": 2.72,
-    "AdjustedRating": "2.2240832543844983704547659296"
-  },
-  {
     "BID": 3410248,
     "BeerName": "Indie",
     "BeerStyle": "Pale Ale - Other",
@@ -298,6 +283,21 @@
     "StylePlus": "90",
     "RatingScore": 3.17,
     "AdjustedRating": "2.3026005027718497298323681049"
+  },
+  {
+    "BID": 3013933,
+    "BeerName": "Amstel Light",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Amstel Bier",
+    "Origin": "Zoeterwoude, Zuid-Holland Netherlands",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4541_68e90_sm.jpeg",
+    "HallRating": 11.57,
+    "BAR": 8.21,
+    "StylePlus": "96",
+    "RatingScore": 2.72,
+    "AdjustedRating": "2.2240832543844983704547659296"
   },
   {
     "BID": 6020038,
@@ -315,21 +315,6 @@
     "AdjustedRating": "2.3565584771323847109582216121"
   },
   {
-    "BID": 2802910,
-    "BeerName": "Harvest Patch Shandy",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Jacob Leinenkugel Brewing Company",
-    "Origin": "Chippewa Falls, WI United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 11.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-781690_c0214_sm.jpeg",
-    "HallRating": 11.56,
-    "BAR": 8.19,
-    "StylePlus": "102",
-    "RatingScore": 3.45,
-    "AdjustedRating": "2.3470407040476106601793274082"
-  },
-  {
     "BID": 1901358,
     "BeerName": "Daura",
     "BeerStyle": "Gluten-Free",
@@ -343,6 +328,21 @@
     "StylePlus": "89",
     "RatingScore": 2.97,
     "AdjustedRating": "2.2662925124344669982524532867"
+  },
+  {
+    "BID": 2802910,
+    "BeerName": "Harvest Patch Shandy",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Jacob Leinenkugel Brewing Company",
+    "Origin": "Chippewa Falls, WI United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 11.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-781690_c0214_sm.jpeg",
+    "HallRating": 11.56,
+    "BAR": 8.19,
+    "StylePlus": "102",
+    "RatingScore": 3.45,
+    "AdjustedRating": "2.3470407040476106601793274082"
   },
   {
     "BID": 1504055,

@@ -1,18 +1,18 @@
 [
   {
-    "BID": 2200562,
-    "BeerName": "Daisy Cutter Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Half Acre Beer Company",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7249_5b3d3_sm.jpeg",
+    "BID": 3902464,
+    "BeerName": "1554",
+    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
+    "BreweryName": "New Belgium Brewing Company",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1805_22e92_sm.jpeg",
     "HallRating": 17.93,
-    "BAR": 13.04,
-    "StylePlus": "105",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.6022693046205562539116312633"
+    "BAR": 13.03,
+    "StylePlus": "103",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.5743043275198582177416060961"
   },
   {
     "BID": 6500045,
@@ -30,6 +30,21 @@
     "AdjustedRating": "2.7440833113743029491571293256"
   },
   {
+    "BID": 6018576,
+    "BeerName": "Vedett Extra White",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Duvel Moortgat",
+    "Origin": "Puurs-Sint-Amands, Vlaams Gewest Belgium",
+    "BeerAbv": 4.70,
+    "BeerIbu": 4.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11097_41743_sm.jpeg",
+    "HallRating": 17.92,
+    "BAR": 13.02,
+    "StylePlus": "100",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.5170680440040793297938799374"
+  },
+  {
     "BID": 5008625,
     "BeerName": "Warlock",
     "BeerStyle": "Pumpkin / Yam Beer",
@@ -45,19 +60,34 @@
     "AdjustedRating": "2.6438866949911352261498342983"
   },
   {
-    "BID": 6018576,
-    "BeerName": "Vedett Extra White",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Duvel Moortgat",
-    "Origin": "Puurs-Sint-Amands, Vlaams Gewest Belgium",
-    "BeerAbv": 4.70,
-    "BeerIbu": 4.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11097_41743_sm.jpeg",
-    "HallRating": 17.92,
-    "BAR": 13.02,
-    "StylePlus": "100",
-    "RatingScore": 3.50,
-    "AdjustedRating": "2.5170680440040793297938799374"
+    "BID": 2024140,
+    "BeerName": "Stone Ripper",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Stone Brewing",
+    "Origin": "Escondido, CA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1652170_0a575_sm.jpeg",
+    "HallRating": 17.91,
+    "BAR": 13.01,
+    "StylePlus": "101",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.5565641809596605399072771043"
+  },
+  {
+    "BID": 1903856,
+    "BeerName": "Alpha King",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "3 Floyds Brewing",
+    "Origin": "Munster, IN United States",
+    "BeerAbv": 6.66,
+    "BeerIbu": 68.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2743_4cdb5_sm.jpeg",
+    "HallRating": 17.91,
+    "BAR": 13.00,
+    "StylePlus": "110",
+    "RatingScore": 3.95,
+    "AdjustedRating": "2.6393772697089939987507092141"
   },
   {
     "BID": 1413108,
@@ -90,51 +120,6 @@
     "AdjustedRating": "2.6503958439776620945180664778"
   },
   {
-    "BID": 1903856,
-    "BeerName": "Alpha King",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "3 Floyds Brewing",
-    "Origin": "Munster, IN United States",
-    "BeerAbv": 6.66,
-    "BeerIbu": 68.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2743_4cdb5_sm.jpeg",
-    "HallRating": 17.91,
-    "BAR": 13.00,
-    "StylePlus": "110",
-    "RatingScore": 3.95,
-    "AdjustedRating": "2.6393772697089939987507092141"
-  },
-  {
-    "BID": 2024140,
-    "BeerName": "Stone Ripper",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Stone Brewing",
-    "Origin": "Escondido, CA United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1652170_0a575_sm.jpeg",
-    "HallRating": 17.91,
-    "BAR": 13.01,
-    "StylePlus": "101",
-    "RatingScore": 3.65,
-    "AdjustedRating": "2.5565641809596605399072771043"
-  },
-  {
-    "BID": 6505094,
-    "BeerName": "Christmas Ale",
-    "BeerStyle": "Winter Ale",
-    "BreweryName": "Brouwerij St. Bernardus",
-    "Origin": "Poperinge, Vlaams Gewest Belgium",
-    "BeerAbv": 10.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8121_84b9c_sm.jpeg",
-    "HallRating": 17.90,
-    "BAR": 12.99,
-    "StylePlus": "109",
-    "RatingScore": 3.85,
-    "AdjustedRating": "2.6074226112054451269201359846"
-  },
-  {
     "BID": 6303892,
     "BeerName": "Affligem Tripel",
     "BeerStyle": "Belgian Tripel",
@@ -148,21 +133,6 @@
     "StylePlus": "100",
     "RatingScore": 3.66,
     "AdjustedRating": "2.5554636861896039373268189167"
-  },
-  {
-    "BID": 4502931,
-    "BeerName": "Pumpkinhead Ale",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Shipyard Brewing Company",
-    "Origin": "Portland, ME United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5117_e164a_sm.jpeg",
-    "HallRating": 17.90,
-    "BAR": 12.99,
-    "StylePlus": "98",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.5423925879250390907605778431"
   },
   {
     "BID": 5001585,
@@ -180,6 +150,36 @@
     "AdjustedRating": "2.6226404164925601989924839807"
   },
   {
+    "BID": 4502931,
+    "BeerName": "Pumpkinhead Ale",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Shipyard Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5117_e164a_sm.jpeg",
+    "HallRating": 17.90,
+    "BAR": 12.99,
+    "StylePlus": "98",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.5423925879250390907605778431"
+  },
+  {
+    "BID": 6505094,
+    "BeerName": "Christmas Ale",
+    "BeerStyle": "Winter Ale",
+    "BreweryName": "Brouwerij St. Bernardus",
+    "Origin": "Poperinge, Vlaams Gewest Belgium",
+    "BeerAbv": 10.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8121_84b9c_sm.jpeg",
+    "HallRating": 17.90,
+    "BAR": 12.99,
+    "StylePlus": "109",
+    "RatingScore": 3.85,
+    "AdjustedRating": "2.6074226112054451269201359846"
+  },
+  {
     "BID": 4303501,
     "BeerName": "OMER. Traditional Blond",
     "BeerStyle": "Belgian Strong Golden Ale",
@@ -193,21 +193,6 @@
     "StylePlus": "98",
     "RatingScore": 3.60,
     "AdjustedRating": "2.5380392353745936515507135416"
-  },
-  {
-    "BID": 6419726,
-    "BeerName": "Erdinger Dunkel",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Erdinger Weissbräu",
-    "Origin": "Erding, Bayern Germany",
-    "BeerAbv": 5.30,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8697_2e046_sm.jpeg",
-    "HallRating": 17.89,
-    "BAR": 12.98,
-    "StylePlus": "101",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.5265622690434103982837958609"
   },
   {
     "BID": 5412771,
@@ -240,6 +225,21 @@
     "AdjustedRating": "2.5680134726175525464470649197"
   },
   {
+    "BID": 6419726,
+    "BeerName": "Erdinger Dunkel",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Erdinger Weissbräu",
+    "Origin": "Erding, Bayern Germany",
+    "BeerAbv": 5.30,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8697_2e046_sm.jpeg",
+    "HallRating": 17.89,
+    "BAR": 12.98,
+    "StylePlus": "101",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.5265622690434103982837958609"
+  },
+  {
     "BID": 4801204,
     "BeerName": "Paulaner Salvator",
     "BeerStyle": "Bock - Doppelbock",
@@ -255,21 +255,6 @@
     "AdjustedRating": "2.5324421805125210215812555089"
   },
   {
-    "BID": 5403134,
-    "BeerName": "Mind Haze",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Firestone Walker Brewing Company",
-    "Origin": "Paso Robles, CA United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2916237_fd909_sm.jpeg",
-    "HallRating": 17.87,
-    "BAR": 12.96,
-    "StylePlus": "97",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.5714331250565969392375260346"
-  },
-  {
     "BID": 2015820,
     "BeerName": "Sofie",
     "BeerStyle": "Farmhouse Ale - Saison",
@@ -283,6 +268,21 @@
     "StylePlus": "101",
     "RatingScore": 3.75,
     "AdjustedRating": "2.5685191893869684608640839305"
+  },
+  {
+    "BID": 2702379,
+    "BeerName": "12th of Never Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Lagunitas Brewing Company",
+    "Origin": "Petaluma, CA United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1613790_d4793_sm.jpeg",
+    "HallRating": 17.87,
+    "BAR": 12.96,
+    "StylePlus": "103",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.5531713800260201321272634167"
   },
   {
     "BID": 2810903,
@@ -315,19 +315,19 @@
     "AdjustedRating": "2.5735646592807622195403923445"
   },
   {
-    "BID": 2702379,
-    "BeerName": "12th of Never Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Lagunitas Brewing Company",
-    "Origin": "Petaluma, CA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1613790_d4793_sm.jpeg",
+    "BID": 5403134,
+    "BeerName": "Mind Haze",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Firestone Walker Brewing Company",
+    "Origin": "Paso Robles, CA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2916237_fd909_sm.jpeg",
     "HallRating": 17.87,
     "BAR": 12.96,
-    "StylePlus": "103",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.5531713800260201321272634167"
+    "StylePlus": "97",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.5714331250565969392375260346"
   },
   {
     "BID": 2503680,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.5250229600078408880531728371"
   },
   {
-    "BID": 3612466,
-    "BeerName": "Molson Canadian",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Molson Coors Canada",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 5.00,
+    "BID": 5008738,
+    "BeerName": "Leffe Triple / Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Abbaye de Leffe",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 8.50,
     "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3836_99686_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5943_9989d_sm.jpeg",
     "HallRating": 17.85,
     "BAR": 12.93,
-    "StylePlus": "84",
-    "RatingScore": 2.91,
-    "AdjustedRating": "2.3341373910700174433636923122"
+    "StylePlus": "99",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.531998754046162225375562182"
   }
 ]

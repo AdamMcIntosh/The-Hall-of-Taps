@@ -15,21 +15,6 @@
     "AdjustedRating": "2.1197334183195230774999062652"
   },
   {
-    "BID": 6604318,
-    "BeerName": "Doozie Mallow",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Drafting Table Brewing Company",
-    "Origin": "Wixom, MI United States",
-    "BeerAbv": 13.20,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6604318_f4359_sm.jpeg",
-    "HallRating": 27.79,
-    "BAR": 9.10,
-    "StylePlus": "114",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.1197478416061349877270250409"
-  },
-  {
     "BID": 5218371,
     "BeerName": "Tropical Distraction",
     "BeerStyle": "Stout - Imperial / Double Pastry",
@@ -58,6 +43,21 @@
     "StylePlus": "112",
     "RatingScore": 4.52,
     "AdjustedRating": "2.1197280448725960216564266896"
+  },
+  {
+    "BID": 6604318,
+    "BeerName": "Doozie Mallow",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Drafting Table Brewing Company",
+    "Origin": "Wixom, MI United States",
+    "BeerAbv": 13.20,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6604318_f4359_sm.jpeg",
+    "HallRating": 27.79,
+    "BAR": 9.10,
+    "StylePlus": "114",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.1197478416061349877270250409"
   },
   {
     "BID": 2012278,
@@ -165,19 +165,19 @@
     "AdjustedRating": "2.1223855467413749622338579394"
   },
   {
-    "BID": 4007402,
-    "BeerName": "Double Barrel Batch 1000",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Cellarmaker Brewing Company",
-    "Origin": "Oakland, CA United States",
-    "BeerAbv": 17.20,
+    "BID": 3301531,
+    "BeerName": "Prestige - Wildflower (ASP4R)",
+    "BeerStyle": "Mead - Traditional",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-82753_b6ced.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3301531_1f778_sm.jpeg",
     "HallRating": 27.73,
     "BAR": 13.41,
-    "StylePlus": "117",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1222753888449139909259115913"
+    "StylePlus": "122",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.1223954944179624002137429741"
   },
   {
     "BID": 4621753,
@@ -225,19 +225,19 @@
     "AdjustedRating": "2.1221914007975449399344285218"
   },
   {
-    "BID": 3301531,
-    "BeerName": "Prestige - Wildflower (ASP4R)",
-    "BeerStyle": "Mead - Traditional",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
+    "BID": 4007402,
+    "BeerName": "Double Barrel Batch 1000",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Cellarmaker Brewing Company",
+    "Origin": "Oakland, CA United States",
+    "BeerAbv": 17.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3301531_1f778_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-82753_b6ced.jpeg",
     "HallRating": 27.73,
     "BAR": 13.41,
-    "StylePlus": "122",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.1223954944179624002137429741"
+    "StylePlus": "117",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1222753888449139909259115913"
   },
   {
     "BID": 6606035,
@@ -300,21 +300,6 @@
     "AdjustedRating": "2.1197730408526465236257473655"
   },
   {
-    "BID": 3809290,
-    "BeerName": "Sir Smorgasbord",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Funktastic Meads",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3809290_1d04f_sm.jpeg",
-    "HallRating": 27.69,
-    "BAR": 13.29,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1221339672773038735841141099"
-  },
-  {
     "BID": 6004322,
     "BeerName": "Boreal Fluency (2023)",
     "BeerStyle": "Mead - Melomel",
@@ -343,6 +328,21 @@
     "StylePlus": "109",
     "RatingScore": 4.51,
     "AdjustedRating": "2.1220482950643642856251014471"
+  },
+  {
+    "BID": 3809290,
+    "BeerName": "Sir Smorgasbord",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Funktastic Meads",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3809290_1d04f_sm.jpeg",
+    "HallRating": 27.69,
+    "BAR": 13.29,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1221339672773038735841141099"
   },
   {
     "BID": 4020606,

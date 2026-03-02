@@ -1,20 +1,5 @@
 [
   {
-    "BID": 1672967,
-    "BeerName": "The Hefe Is A Lie (2016) 5th Form w/ Spiced Rum Soaked Figs",
-    "BeerStyle": "Wheat Beer - Wheat Wine",
-    "BreweryName": "8-Bit Aleworks",
-    "Origin": "Avondale, AZ United States",
-    "BeerAbv": 11.40,
-    "BeerIbu": 37.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-115045_7173f.jpeg",
-    "HallRating": 29.33,
-    "BAR": 7.24,
-    "StylePlus": "118",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1195000349975501714879958403"
-  },
-  {
     "BID": 6405421,
     "BeerName": "Immortality",
     "BeerStyle": "Barleywine - English",
@@ -26,6 +11,21 @@
     "HallRating": 29.33,
     "BAR": 7.24,
     "StylePlus": "114",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1195000349975501714879958403"
+  },
+  {
+    "BID": 1672967,
+    "BeerName": "The Hefe Is A Lie (2016) 5th Form w/ Spiced Rum Soaked Figs",
+    "BeerStyle": "Wheat Beer - Wheat Wine",
+    "BreweryName": "8-Bit Aleworks",
+    "Origin": "Avondale, AZ United States",
+    "BeerAbv": 11.40,
+    "BeerIbu": 37.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-115045_7173f.jpeg",
+    "HallRating": 29.33,
+    "BAR": 7.24,
+    "StylePlus": "118",
     "RatingScore": 4.52,
     "AdjustedRating": "2.1195000349975501714879958403"
   },
@@ -60,21 +60,6 @@
     "AdjustedRating": "2.1335668346603842980546526307"
   },
   {
-    "BID": 4000077,
-    "BeerName": "Flora (w/ Blueberries, Black Currants & Raspberries)",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
-    "HallRating": 29.24,
-    "BAR": 16.80,
-    "StylePlus": "113",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1329583910234580268610192074"
-  },
-  {
     "BID": 6608556,
     "BeerName": "Wizzle (2026)",
     "BeerStyle": "Barleywine - English",
@@ -88,6 +73,21 @@
     "StylePlus": "121",
     "RatingScore": 4.81,
     "AdjustedRating": "2.1195270592882016053836096883"
+  },
+  {
+    "BID": 4000077,
+    "BeerName": "Flora (w/ Blueberries, Black Currants & Raspberries)",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 29.24,
+    "BAR": 16.80,
+    "StylePlus": "113",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1329583910234580268610192074"
   },
   {
     "BID": 3346915,
@@ -210,21 +210,6 @@
     "AdjustedRating": "2.1317357127576479719006373103"
   },
   {
-    "BID": 5409780,
-    "BeerName": "Amethyst",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Foxes Den Meadery",
-    "Origin": "Yorkville, IL United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-387121_cfb6c.jpeg",
-    "HallRating": 29.07,
-    "BAR": 7.46,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.119518812292047366329109494"
-  },
-  {
     "BID": 6407335,
     "BeerName": "Member Pick: BA Stout 2025",
     "BeerStyle": "Stout - Imperial / Double",
@@ -238,6 +223,21 @@
     "StylePlus": "115",
     "RatingScore": 4.68,
     "AdjustedRating": "2.1195304363911796835745229745"
+  },
+  {
+    "BID": 5409780,
+    "BeerName": "Amethyst",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Foxes Den Meadery",
+    "Origin": "Yorkville, IL United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-387121_cfb6c.jpeg",
+    "HallRating": 29.07,
+    "BAR": 7.46,
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.119518812292047366329109494"
   },
   {
     "BID": 1672225,
@@ -255,21 +255,6 @@
     "AdjustedRating": "2.1309616327180535962640353693"
   },
   {
-    "BID": 5450904,
-    "BeerName": "25th Anniversary Series: Pappy Van Winkle Gold Label Barrel Aged Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 14.85,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5450904_1fd51_sm.jpeg",
-    "HallRating": 29.01,
-    "BAR": 16.39,
-    "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1306455931165929324647792702"
-  },
-  {
     "BID": 4612631,
     "BeerName": "Castle Hill",
     "BeerStyle": "Stout - Imperial / Double",
@@ -285,19 +270,19 @@
     "AdjustedRating": "2.1305274184959764308926500814"
   },
   {
-    "BID": 6608414,
-    "BeerName": "The Ever Watchful Crow",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 8.00,
+    "BID": 5450904,
+    "BeerName": "25th Anniversary Series: Pappy Van Winkle Gold Label Barrel Aged Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 14.85,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 28.99,
-    "BAR": 7.53,
-    "StylePlus": "112",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5450904_1fd51_sm.jpeg",
+    "HallRating": 29.01,
+    "BAR": 16.39,
+    "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1195240380769538436925045996"
+    "AdjustedRating": "2.1306455931165929324647792702"
   },
   {
     "BID": 4800168,
@@ -330,19 +315,19 @@
     "AdjustedRating": "2.1195272378209743220542356611"
   },
   {
-    "BID": 4150318,
-    "BeerName": "Brownie",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 12.60,
+    "BID": 6608414,
+    "BeerName": "The Ever Watchful Crow",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Los Forajidos Brewing Co.",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4150318_c5791_sm.jpeg",
-    "HallRating": 28.95,
-    "BAR": 16.27,
-    "StylePlus": "111",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
+    "HallRating": 28.99,
+    "BAR": 7.53,
+    "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1300687660684375443320880942"
+    "AdjustedRating": "2.1195240380769538436925045996"
   },
   {
     "BID": 6300931,
@@ -358,6 +343,21 @@
     "StylePlus": "113",
     "RatingScore": 4.57,
     "AdjustedRating": "2.1302255927284673930898538028"
+  },
+  {
+    "BID": 4150318,
+    "BeerName": "Brownie",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 12.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4150318_c5791_sm.jpeg",
+    "HallRating": 28.95,
+    "BAR": 16.27,
+    "StylePlus": "111",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1300687660684375443320880942"
   },
   {
     "BID": 3345295,

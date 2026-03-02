@@ -1,20 +1,5 @@
 [
   {
-    "BID": 6017900,
-    "BeerName": "Laza Tiger (Mythos 2024)",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Living Waters Brewing",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 10.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-413851_e12d1.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "112",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1194820310781353118812871228"
-  },
-  {
     "BID": 6601435,
     "BeerName": "Waters To Fire #10",
     "BeerStyle": "Sour - Smoothie / Pastry",
@@ -30,21 +15,6 @@
     "AdjustedRating": "2.1194808311501309921404715717"
   },
   {
-    "BID": 3338741,
-    "BeerName": "Cool Down KAPOW!",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3338741_547eb_sm.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "120",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1194784312941223526588404696"
-  },
-  {
     "BID": 3336981,
     "BeerName": "Craft Root Beer",
     "BeerStyle": "Root Beer",
@@ -58,6 +28,36 @@
     "StylePlus": "118",
     "RatingScore": 4.54,
     "AdjustedRating": "2.1194772313661180329180249185"
+  },
+  {
+    "BID": 6017900,
+    "BeerName": "Laza Tiger (Mythos 2024)",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Living Waters Brewing",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 10.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-413851_e12d1.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "112",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1194820310781353118812871228"
+  },
+  {
+    "BID": 3338741,
+    "BeerName": "Cool Down KAPOW!",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3338741_547eb_sm.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "120",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1194784312941223526588404696"
   },
   {
     "BID": 1005596,
@@ -90,21 +90,6 @@
     "AdjustedRating": "2.139381598232287535990357932"
   },
   {
-    "BID": 6500936,
-    "BeerName": "Where The Field Begins (November 2025)",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Obercreek Brewing Company",
-    "Origin": "Wappingers Falls, NY United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6500936_98ceb_sm.jpeg",
-    "HallRating": 29.66,
-    "BAR": 6.99,
-    "StylePlus": "113",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1194845322167364539716267733"
-  },
-  {
     "BID": 6615507,
     "BeerName": "HAPAX // 01",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -118,6 +103,21 @@
     "StylePlus": "115",
     "RatingScore": 4.63,
     "AdjustedRating": "2.119488906943316042747328292"
+  },
+  {
+    "BID": 6500936,
+    "BeerName": "Where The Field Begins (November 2025)",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Obercreek Brewing Company",
+    "Origin": "Wappingers Falls, NY United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6500936_98ceb_sm.jpeg",
+    "HallRating": 29.66,
+    "BAR": 6.99,
+    "StylePlus": "113",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1194845322167364539716267733"
   },
   {
     "BID": 6404910,
@@ -150,51 +150,6 @@
     "AdjustedRating": "2.1368105403701736709137204489"
   },
   {
-    "BID": 3401449,
-    "BeerName": "Imperial German Chocolate Coffee Cupcake Stout",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2115656_8ceb4_sm.jpeg",
-    "HallRating": 29.54,
-    "BAR": 17.32,
-    "StylePlus": "109",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1367002965886105009741508755"
-  },
-  {
-    "BID": 4941284,
-    "BeerName": "Volume 1: Chapter 3 (Jackfruit, Papaya, Mango And Cashew)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Nostrum",
-    "Origin": "New York, NY United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941284_53ef3_sm.jpeg",
-    "HallRating": 29.54,
-    "BAR": 7.07,
-    "StylePlus": "116",
-    "RatingScore": 4.70,
-    "AdjustedRating": "2.1194997325173863698859574128"
-  },
-  {
-    "BID": 6450642,
-    "BeerName": "Singularity: Advocator Select 25-26 #1",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Moksa Brewing Co",
-    "Origin": "Rocklin, CA United States",
-    "BeerAbv": 14.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6450642_67120_sm.jpeg",
-    "HallRating": 29.54,
-    "BAR": 7.07,
-    "StylePlus": "115",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.1194977826441281316714413563"
-  },
-  {
     "BID": 3008094,
     "BeerName": "Armand'4 Lente (Spring)",
     "BeerStyle": "Lambic - Gueuze",
@@ -223,6 +178,51 @@
     "StylePlus": "115",
     "RatingScore": 4.62,
     "AdjustedRating": "2.1194945328553644013139145956"
+  },
+  {
+    "BID": 6450642,
+    "BeerName": "Singularity: Advocator Select 25-26 #1",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Moksa Brewing Co",
+    "Origin": "Rocklin, CA United States",
+    "BeerAbv": 14.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6450642_67120_sm.jpeg",
+    "HallRating": 29.54,
+    "BAR": 7.07,
+    "StylePlus": "115",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.1194977826441281316714413563"
+  },
+  {
+    "BID": 4941284,
+    "BeerName": "Volume 1: Chapter 3 (Jackfruit, Papaya, Mango And Cashew)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Nostrum",
+    "Origin": "New York, NY United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941284_53ef3_sm.jpeg",
+    "HallRating": 29.54,
+    "BAR": 7.07,
+    "StylePlus": "116",
+    "RatingScore": 4.70,
+    "AdjustedRating": "2.1194997325173863698859574128"
+  },
+  {
+    "BID": 3401449,
+    "BeerName": "Imperial German Chocolate Coffee Cupcake Stout",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2115656_8ceb4_sm.jpeg",
+    "HallRating": 29.54,
+    "BAR": 17.32,
+    "StylePlus": "109",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1367002965886105009741508755"
   },
   {
     "BID": 1484633,
@@ -255,21 +255,6 @@
     "AdjustedRating": "2.1362003272412174962322568471"
   },
   {
-    "BID": 5606393,
-    "BeerName": "Vinyl Combat",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Willow Park Brewing",
-    "Origin": "Bethlehem, PA United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-355154_40975.jpeg",
-    "HallRating": 29.43,
-    "BAR": 7.16,
-    "StylePlus": "123",
-    "RatingScore": 4.95,
-    "AdjustedRating": "2.1195230571936394293385196499"
-  },
-  {
     "BID": 6505617,
     "BeerName": "Beam Me Up Jeezus [Amaretto Cherry + Dark Chocolate Cheesecake] (Ghost 1734)",
     "BeerStyle": "Stout - Imperial / Double Pastry",
@@ -283,6 +268,21 @@
     "StylePlus": "109",
     "RatingScore": 4.53,
     "AdjustedRating": "2.1194947091071352683693850665"
+  },
+  {
+    "BID": 5606393,
+    "BeerName": "Vinyl Combat",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Willow Park Brewing",
+    "Origin": "Bethlehem, PA United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-355154_40975.jpeg",
+    "HallRating": 29.43,
+    "BAR": 7.16,
+    "StylePlus": "123",
+    "RatingScore": 4.95,
+    "AdjustedRating": "2.1195230571936394293385196499"
   },
   {
     "BID": 3211206,
@@ -330,19 +330,19 @@
     "AdjustedRating": "2.1343733758651701025037140827"
   },
   {
-    "BID": 6505076,
-    "BeerName": "Applewood Awn",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Millpond Brewing",
-    "Origin": "Millstadt, IL United States",
-    "BeerAbv": 10.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505076_f2287_sm.jpeg",
+    "BID": 4940902,
+    "BeerName": "25 Jahre Red Kaos",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Kevin Brewery",
+    "Origin": "Zwickau, Sachsen Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940902_954f6_sm.jpeg",
     "HallRating": 29.33,
     "BAR": 7.24,
-    "StylePlus": "114",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1194993350465467417280790345"
+    "StylePlus": "132",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1195028348015638905276630636"
   },
   {
     "BID": 2809887,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.1341400678821851503992923556"
   },
   {
-    "BID": 4940902,
-    "BeerName": "25 Jahre Red Kaos",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Kevin Brewery",
-    "Origin": "Zwickau, Sachsen Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940902_954f6_sm.jpeg",
+    "BID": 6505076,
+    "BeerName": "Applewood Awn",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Millpond Brewing",
+    "Origin": "Millstadt, IL United States",
+    "BeerAbv": 10.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505076_f2287_sm.jpeg",
     "HallRating": 29.33,
     "BAR": 7.24,
-    "StylePlus": "132",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1195028348015638905276630636"
+    "StylePlus": "114",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1194993350465467417280790345"
   }
 ]

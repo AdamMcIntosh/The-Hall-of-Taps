@@ -1,20 +1,5 @@
 [
   {
-    "BID": 3890586,
-    "BeerName": "Honey Ginger",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Ardent Craft Ales",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 7.80,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-703251_46a29_sm.jpeg",
-    "HallRating": 23.07,
-    "BAR": 14.46,
-    "StylePlus": "106",
-    "RatingScore": 3.68,
-    "AdjustedRating": "2.1468745978496313723949251693"
-  },
-  {
     "BID": 634707,
     "BeerName": "Icy Bay",
     "BeerStyle": "IPA - American",
@@ -30,6 +15,21 @@
     "AdjustedRating": "2.3596222440082601531048580547"
   },
   {
+    "BID": 6612230,
+    "BeerName": "Headwaters Ale",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Victory Brewing Company",
+    "Origin": "Downingtown, PA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26414_4c8e1_sm.jpeg",
+    "HallRating": 23.07,
+    "BAR": 16.34,
+    "StylePlus": "95",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.3568171487904856822361315558"
+  },
+  {
     "BID": 3401082,
     "BeerName": "Slightly Mighty",
     "BeerStyle": "IPA - Session",
@@ -43,6 +43,21 @@
     "StylePlus": "97",
     "RatingScore": 3.50,
     "AdjustedRating": "2.346051204687111488145360633"
+  },
+  {
+    "BID": 3022262,
+    "BeerName": "Landlord",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Timothy Taylor's Brewery",
+    "Origin": "Keighley, West Yorkshire England",
+    "BeerAbv": 4.30,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8676_f27a8_sm.jpeg",
+    "HallRating": 23.06,
+    "BAR": 16.33,
+    "StylePlus": "102",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.3505351924522000500960173666"
   },
   {
     "BID": 3805304,
@@ -75,21 +90,6 @@
     "AdjustedRating": "2.3869204036693417935525615471"
   },
   {
-    "BID": 3022262,
-    "BeerName": "Landlord",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Timothy Taylor's Brewery",
-    "Origin": "Keighley, West Yorkshire England",
-    "BeerAbv": 4.30,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8676_f27a8_sm.jpeg",
-    "HallRating": 23.06,
-    "BAR": 16.33,
-    "StylePlus": "102",
-    "RatingScore": 3.52,
-    "AdjustedRating": "2.3505351924522000500960173666"
-  },
-  {
     "BID": 13018,
     "BeerName": "Islander IPA",
     "BeerStyle": "IPA - American",
@@ -120,6 +120,21 @@
     "AdjustedRating": "2.3928604819876607479234222086"
   },
   {
+    "BID": 5017938,
+    "BeerName": "Green Bullet",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Two Chefs Brewing",
+    "Origin": "Amsterdam, Noord-Holland Netherlands",
+    "BeerAbv": 6.50,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4737360_e608e_sm.jpeg",
+    "HallRating": 23.04,
+    "BAR": 16.30,
+    "StylePlus": "95",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.3489168484198981065569309728"
+  },
+  {
     "BID": 3400123,
     "BeerName": "Tasty Juice",
     "BeerStyle": "IPA - American",
@@ -148,21 +163,6 @@
     "StylePlus": "99",
     "RatingScore": 3.56,
     "AdjustedRating": "2.3535493190692026671970355173"
-  },
-  {
-    "BID": 5017938,
-    "BeerName": "Green Bullet",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Two Chefs Brewing",
-    "Origin": "Amsterdam, Noord-Holland Netherlands",
-    "BeerAbv": 6.50,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4737360_e608e_sm.jpeg",
-    "HallRating": 23.04,
-    "BAR": 16.30,
-    "StylePlus": "95",
-    "RatingScore": 3.53,
-    "AdjustedRating": "2.3489168484198981065569309728"
   },
   {
     "BID": 3409563,
@@ -330,6 +330,21 @@
     "AdjustedRating": "2.3549682685888606268538157973"
   },
   {
+    "BID": 3410014,
+    "BeerName": "Cactus Taproom Ctr Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Cactus Taproom",
+    "Origin": "Peoria, AZ United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 22.96,
+    "BAR": 4.80,
+    "StylePlus": "119",
+    "RatingScore": 4.13,
+    "AdjustedRating": "2.1194275021936458018244133404"
+  },
+  {
     "BID": 6504841,
     "BeerName": "Festweisse (TAP04)",
     "BeerStyle": "Wheat Beer - Hefeweizen",
@@ -345,33 +360,18 @@
     "AdjustedRating": "2.3528292252998927970644192186"
   },
   {
-    "BID": 1006404,
-    "BeerName": "Mosaic IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Community Beer Company",
-    "Origin": "Dallas, TX United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-342746_be3f7_sm.jpeg",
-    "HallRating": 22.96,
-    "BAR": 16.20,
-    "StylePlus": "103",
-    "RatingScore": 3.84,
-    "AdjustedRating": "2.3835933462976560532736325567"
-  },
-  {
-    "BID": 3410014,
-    "BeerName": "Cactus Taproom Ctr Lager",
+    "BID": 4979726,
+    "BeerName": "Golden Stone American Lager",
     "BeerStyle": "Lager - American",
-    "BreweryName": "Cactus Taproom",
-    "Origin": "Peoria, AZ United States",
-    "BeerAbv": 5.00,
+    "BreweryName": "Angry James Brewery",
+    "Origin": "Silverthorne, CO United States",
+    "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-380061_b156d.jpeg",
     "HallRating": 22.96,
     "BAR": 4.80,
-    "StylePlus": "119",
-    "RatingScore": 4.13,
-    "AdjustedRating": "2.1194275021936458018244133404"
+    "StylePlus": "107",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.1194075531412257917748906927"
   }
 ]

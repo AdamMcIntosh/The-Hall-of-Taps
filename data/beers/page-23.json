@@ -150,21 +150,6 @@
     "AdjustedRating": "2.6160897083011080977935986329"
   },
   {
-    "BID": 6203912,
-    "BeerName": "Pernicious",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Wicked Weed Brewing",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-883318_6a64c_sm.jpeg",
-    "HallRating": 24.10,
-    "BAR": 17.61,
-    "StylePlus": "106",
-    "RatingScore": 3.94,
-    "AdjustedRating": "2.7100370711275871678165190296"
-  },
-  {
     "BID": 6611300,
     "BeerName": "SNORRI NR.10",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -178,6 +163,21 @@
     "StylePlus": "103",
     "RatingScore": 3.56,
     "AdjustedRating": "2.1806641677796766765760461097"
+  },
+  {
+    "BID": 6203912,
+    "BeerName": "Pernicious",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Wicked Weed Brewing",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-883318_6a64c_sm.jpeg",
+    "HallRating": 24.10,
+    "BAR": 17.61,
+    "StylePlus": "106",
+    "RatingScore": 3.94,
+    "AdjustedRating": "2.7100370711275871678165190296"
   },
   {
     "BID": 2023022,
@@ -195,21 +195,6 @@
     "AdjustedRating": "2.6352272410593820837595625444"
   },
   {
-    "BID": 5618239,
-    "BeerName": "Perpetual IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tröegs Independent Brewing",
-    "Origin": "Hershey, PA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-71016_bc5eb_sm.jpeg",
-    "HallRating": 24.06,
-    "BAR": 17.56,
-    "StylePlus": "102",
-    "RatingScore": 3.79,
-    "AdjustedRating": "2.6482737783032326293794943902"
-  },
-  {
     "BID": 6420054,
     "BeerName": "Lagerbier Hell",
     "BeerStyle": "Lager - Helles",
@@ -223,21 +208,6 @@
     "StylePlus": "105",
     "RatingScore": 3.65,
     "AdjustedRating": "2.604915047093644491631020698"
-  },
-  {
-    "BID": 1214497,
-    "BeerName": "Rübæus",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4590_3e544_sm.jpeg",
-    "HallRating": 24.06,
-    "BAR": 17.56,
-    "StylePlus": "106",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.6327027073191562046289179264"
   },
   {
     "BID": 6017480,
@@ -255,6 +225,36 @@
     "AdjustedRating": "2.6119370246098367702723679654"
   },
   {
+    "BID": 5618239,
+    "BeerName": "Perpetual IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Tröegs Independent Brewing",
+    "Origin": "Hershey, PA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 85.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-71016_bc5eb_sm.jpeg",
+    "HallRating": 24.06,
+    "BAR": 17.56,
+    "StylePlus": "102",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.6482737783032326293794943902"
+  },
+  {
+    "BID": 1214497,
+    "BeerName": "Rübæus",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4590_3e544_sm.jpeg",
+    "HallRating": 24.06,
+    "BAR": 17.56,
+    "StylePlus": "106",
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.6327027073191562046289179264"
+  },
+  {
     "BID": 1215779,
     "BeerName": "Neck Oil",
     "BeerStyle": "IPA - Session",
@@ -270,21 +270,6 @@
     "AdjustedRating": "2.5997485524889007099453730794"
   },
   {
-    "BID": 6012952,
-    "BeerName": "Hofbräu Oktoberfestbier",
-    "BeerStyle": "Festbier",
-    "BreweryName": "Staatliches Hofbräuhaus München",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 6.30,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-40139_2d691_sm.jpeg",
-    "HallRating": 24.04,
-    "BAR": 17.54,
-    "StylePlus": "98",
-    "RatingScore": 3.61,
-    "AdjustedRating": "2.5875413687261004509834182142"
-  },
-  {
     "BID": 3701168,
     "BeerName": "Delirium Red",
     "BeerStyle": "Fruit Beer",
@@ -298,6 +283,21 @@
     "StylePlus": "101",
     "RatingScore": 3.58,
     "AdjustedRating": "2.5761579366047512933159917599"
+  },
+  {
+    "BID": 6012952,
+    "BeerName": "Hofbräu Oktoberfestbier",
+    "BeerStyle": "Festbier",
+    "BreweryName": "Staatliches Hofbräuhaus München",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 6.30,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-40139_2d691_sm.jpeg",
+    "HallRating": 24.04,
+    "BAR": 17.54,
+    "StylePlus": "98",
+    "RatingScore": 3.61,
+    "AdjustedRating": "2.5875413687261004509834182142"
   },
   {
     "BID": 4603376,
