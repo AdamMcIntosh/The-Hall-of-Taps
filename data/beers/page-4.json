@@ -90,21 +90,6 @@
     "AdjustedRating": "2.1483918778716466577738254039"
   },
   {
-    "BID": 4631365,
-    "BeerName": "Enter the Fog Dog",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2062799_82e5a_sm.jpeg",
-    "HallRating": 30.19,
-    "BAR": 18.40,
-    "StylePlus": "109",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1476214827441389362385434423"
-  },
-  {
     "BID": 5204071,
     "BeerName": "Double Barrel V.S.O.J.",
     "BeerStyle": "Barleywine - English",
@@ -118,6 +103,21 @@
     "StylePlus": "119",
     "RatingScore": 4.73,
     "AdjustedRating": "2.1502375541018597205478369138"
+  },
+  {
+    "BID": 4631365,
+    "BeerName": "Enter the Fog Dog",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Monkish Brewing Co.",
+    "Origin": "Torrance, CA United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2062799_82e5a_sm.jpeg",
+    "HallRating": 30.19,
+    "BAR": 18.40,
+    "StylePlus": "109",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1476214827441389362385434423"
   },
   {
     "BID": 1012039,
@@ -165,19 +165,19 @@
     "AdjustedRating": "2.1455577150374117868146323853"
   },
   {
-    "BID": 6605126,
-    "BeerName": "Side-Poured Guinness",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Queue Beer",
-    "Origin": "Kings County, NY United States",
-    "BeerAbv": 4.20,
+    "BID": 6608418,
+    "BeerName": "Dead Air",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Los Forajidos Brewing Co.",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605126_24654_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
     "HallRating": 30.07,
     "BAR": 6.71,
-    "StylePlus": "132",
-    "RatingScore": 4.82,
-    "AdjustedRating": "2.1194805285709285989270590118"
+    "StylePlus": "109",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1194645794481303528305943173"
   },
   {
     "BID": 2412357,
@@ -193,6 +193,21 @@
     "StylePlus": "131",
     "RatingScore": 4.57,
     "AdjustedRating": "2.1194667793271370074645894476"
+  },
+  {
+    "BID": 6613958,
+    "BeerName": "In All Seriousness",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Troon Brewing",
+    "Origin": "Hopewell, NJ United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
+    "HallRating": 30.07,
+    "BAR": 6.71,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1194634795086270255135967522"
   },
   {
     "BID": 6407256,
@@ -225,34 +240,19 @@
     "AdjustedRating": "2.119470079145646989415582143"
   },
   {
-    "BID": 6613958,
-    "BeerName": "In All Seriousness",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 8.60,
+    "BID": 6605126,
+    "BeerName": "Side-Poured Guinness",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Queue Beer",
+    "Origin": "Kings County, NY United States",
+    "BeerAbv": 4.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605126_24654_sm.jpeg",
     "HallRating": 30.07,
     "BAR": 6.71,
-    "StylePlus": "112",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1194634795086270255135967522"
-  },
-  {
-    "BID": 6608418,
-    "BeerName": "Dead Air",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "109",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1194645794481303528305943173"
+    "StylePlus": "132",
+    "RatingScore": 4.82,
+    "AdjustedRating": "2.1194805285709285989270590118"
   },
   {
     "BID": 6504806,

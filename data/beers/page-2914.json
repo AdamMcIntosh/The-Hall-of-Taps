@@ -1,5 +1,20 @@
 [
   {
+    "BID": 4503797,
+    "BeerName": "Cruzcampo Pilsen",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Cruzcampo",
+    "Origin": "Seville, Andalucía Spain",
+    "BeerAbv": 4.80,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-399207_559dd_sm.jpeg",
+    "HallRating": 11.78,
+    "BAR": 8.47,
+    "StylePlus": "84",
+    "RatingScore": 2.91,
+    "AdjustedRating": "2.3026324805364900003456765466"
+  },
+  {
     "BID": 6009614,
     "BeerName": "Victoria",
     "BeerStyle": "Lager - Vienna",
@@ -30,36 +45,6 @@
     "AdjustedRating": "2.4325934071828983719121315345"
   },
   {
-    "BID": 1006274,
-    "BeerName": "Bud Light Lime",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Anheuser-Busch",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6341_c1b78_sm.jpeg",
-    "HallRating": 11.78,
-    "BAR": 8.47,
-    "StylePlus": "78",
-    "RatingScore": 2.65,
-    "AdjustedRating": "2.2422180961730199926614810361"
-  },
-  {
-    "BID": 4503797,
-    "BeerName": "Cruzcampo Pilsen",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Cruzcampo",
-    "Origin": "Seville, Andalucía Spain",
-    "BeerAbv": 4.80,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-399207_559dd_sm.jpeg",
-    "HallRating": 11.78,
-    "BAR": 8.47,
-    "StylePlus": "84",
-    "RatingScore": 2.91,
-    "AdjustedRating": "2.3026324805364900003456765466"
-  },
-  {
     "BID": 4611499,
     "BeerName": "Vedett Extra Pilsner",
     "BeerStyle": "Pilsner - Other",
@@ -73,6 +58,21 @@
     "StylePlus": "95",
     "RatingScore": 3.27,
     "AdjustedRating": "2.3887263414867646354889665406"
+  },
+  {
+    "BID": 1006274,
+    "BeerName": "Bud Light Lime",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Anheuser-Busch",
+    "Origin": "St. Louis, MO United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 8.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6341_c1b78_sm.jpeg",
+    "HallRating": 11.78,
+    "BAR": 8.47,
+    "StylePlus": "78",
+    "RatingScore": 2.65,
+    "AdjustedRating": "2.2422180961730199926614810361"
   },
   {
     "BID": 6023747,
@@ -120,21 +120,6 @@
     "AdjustedRating": "2.2351586601561524167497775702"
   },
   {
-    "BID": 2012498,
-    "BeerName": "Fruitesse",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Brouwerij Liefmans",
-    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
-    "BeerAbv": 3.80,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9085_4cbf4_sm.jpeg",
-    "HallRating": 11.76,
-    "BAR": 8.45,
-    "StylePlus": "95",
-    "RatingScore": 3.38,
-    "AdjustedRating": "2.4047112431437169757312723869"
-  },
-  {
     "BID": 3345411,
     "BeerName": "Sam ’76",
     "BeerStyle": "Lager - American Light",
@@ -148,6 +133,21 @@
     "StylePlus": "102",
     "RatingScore": 3.46,
     "AdjustedRating": "2.4230556055077625729705062833"
+  },
+  {
+    "BID": 2012498,
+    "BeerName": "Fruitesse",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Brouwerij Liefmans",
+    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
+    "BeerAbv": 3.80,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9085_4cbf4_sm.jpeg",
+    "HallRating": 11.76,
+    "BAR": 8.45,
+    "StylePlus": "95",
+    "RatingScore": 3.38,
+    "AdjustedRating": "2.4047112431437169757312723869"
   },
   {
     "BID": 6206066,
@@ -255,21 +255,6 @@
     "AdjustedRating": "2.412103736937134102970947092"
   },
   {
-    "BID": 5806022,
-    "BeerName": "Alhambra Reserva 1925",
-    "BeerStyle": "Malt Liquor",
-    "BreweryName": "Grupo Cervezas Alhambra",
-    "Origin": "Granada, Andalucía Spain",
-    "BeerAbv": 6.40,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14519_498fb_sm.jpeg",
-    "HallRating": 11.72,
-    "BAR": 8.40,
-    "StylePlus": "107",
-    "RatingScore": 3.36,
-    "AdjustedRating": "2.3869862027994376812389835128"
-  },
-  {
     "BID": 5600178,
     "BeerName": "Midway IPA",
     "BeerStyle": "IPA - Session",
@@ -283,6 +268,21 @@
     "StylePlus": "96",
     "RatingScore": 3.43,
     "AdjustedRating": "2.3997423703499911568770019848"
+  },
+  {
+    "BID": 5806022,
+    "BeerName": "Alhambra Reserva 1925",
+    "BeerStyle": "Malt Liquor",
+    "BreweryName": "Grupo Cervezas Alhambra",
+    "Origin": "Granada, Andalucía Spain",
+    "BeerAbv": 6.40,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14519_498fb_sm.jpeg",
+    "HallRating": 11.72,
+    "BAR": 8.40,
+    "StylePlus": "107",
+    "RatingScore": 3.36,
+    "AdjustedRating": "2.3869862027994376812389835128"
   },
   {
     "BID": 5417863,
@@ -300,21 +300,6 @@
     "AdjustedRating": "2.3984896468680890581837356272"
   },
   {
-    "BID": 1502972,
-    "BeerName": "Hefeweizen",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Widmer Brothers Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6395_4f8de_sm.jpeg",
-    "HallRating": 11.71,
-    "BAR": 8.39,
-    "StylePlus": "99",
-    "RatingScore": 3.47,
-    "AdjustedRating": "2.407182763335202179664984705"
-  },
-  {
     "BID": 4820294,
     "BeerName": "FIX Hellas",
     "BeerStyle": "Lager - Pale",
@@ -330,19 +315,19 @@
     "AdjustedRating": "2.3044710812614290185364163716"
   },
   {
-    "BID": 4960867,
-    "BeerName": "Ožujsko",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Zagrebačka Pivovara",
-    "Origin": "Zagreb, Grad Zagreb Croatia",
-    "BeerAbv": 5.00,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-39687_dfe34_sm.jpeg",
-    "HallRating": 11.69,
-    "BAR": 8.36,
-    "StylePlus": "96",
-    "RatingScore": 3.04,
-    "AdjustedRating": "2.3089615470889850106896353217"
+    "BID": 1502972,
+    "BeerName": "Hefeweizen",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Widmer Brothers Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6395_4f8de_sm.jpeg",
+    "HallRating": 11.71,
+    "BAR": 8.39,
+    "StylePlus": "99",
+    "RatingScore": 3.47,
+    "AdjustedRating": "2.407182763335202179664984705"
   },
   {
     "BID": 4502427,
@@ -358,6 +343,21 @@
     "StylePlus": "95",
     "RatingScore": 3.01,
     "AdjustedRating": "2.3039401686534478829136815403"
+  },
+  {
+    "BID": 4960867,
+    "BeerName": "Ožujsko",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Zagrebačka Pivovara",
+    "Origin": "Zagreb, Grad Zagreb Croatia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-39687_dfe34_sm.jpeg",
+    "HallRating": 11.69,
+    "BAR": 8.36,
+    "StylePlus": "96",
+    "RatingScore": 3.04,
+    "AdjustedRating": "2.3089615470889850106896353217"
   },
   {
     "BID": 5403738,

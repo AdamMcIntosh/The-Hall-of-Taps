@@ -1,5 +1,20 @@
 [
   {
+    "BID": 4411485,
+    "BeerName": "Blondie",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Brouwerij 't IJ",
+    "Origin": "Amsterdam, Noord-Holland Netherlands",
+    "BeerAbv": 5.80,
+    "BeerIbu": 17.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3713306_410a7_sm.jpeg",
+    "HallRating": 11.54,
+    "BAR": 8.17,
+    "StylePlus": "97",
+    "RatingScore": 3.40,
+    "AdjustedRating": "2.3320958777887569992536908946"
+  },
+  {
     "BID": 3349323,
     "BeerName": "Tennent's Lager",
     "BeerStyle": "Lager - Pale",
@@ -30,21 +45,6 @@
     "AdjustedRating": "2.341689554004052047783346625"
   },
   {
-    "BID": 2003127,
-    "BeerName": "O'Hara's Irish Pale Ale",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "O'Hara's Brewery",
-    "Origin": "Carlow, County Carlow Ireland",
-    "BeerAbv": 5.20,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-143851_0fcd7_sm.jpeg",
-    "HallRating": 11.54,
-    "BAR": 8.17,
-    "StylePlus": "98",
-    "RatingScore": 3.43,
-    "AdjustedRating": "2.3375581783023271320930852837"
-  },
-  {
     "BID": 4024428,
     "BeerName": "Sunshine Pils",
     "BeerStyle": "Pilsner - German",
@@ -58,6 +58,21 @@
     "StylePlus": "100",
     "RatingScore": 3.45,
     "AdjustedRating": "2.3383354706120692896019649041"
+  },
+  {
+    "BID": 3224903,
+    "BeerName": "Cidre",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Stella Artois",
+    "Origin": "Leuven, Vlaams Gewest Belgium",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-45159_a3849_sm.jpeg",
+    "HallRating": 11.53,
+    "BAR": 8.16,
+    "StylePlus": "96",
+    "RatingScore": 3.44,
+    "AdjustedRating": "2.3366896545962631735038700757"
   },
   {
     "BID": 5817060,
@@ -90,19 +105,19 @@
     "AdjustedRating": "2.2832428130013790858809563053"
   },
   {
-    "BID": 3224903,
-    "BeerName": "Cidre",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Stella Artois",
-    "Origin": "Leuven, Vlaams Gewest Belgium",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-45159_a3849_sm.jpeg",
-    "HallRating": 11.53,
-    "BAR": 8.16,
-    "StylePlus": "96",
-    "RatingScore": 3.44,
-    "AdjustedRating": "2.3366896545962631735038700757"
+    "BID": 6407192,
+    "BeerName": "Elephant",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Carlsberg Group",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 7.20,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2014_ac3dd_sm.jpeg",
+    "HallRating": 11.52,
+    "BAR": 8.15,
+    "StylePlus": "102",
+    "RatingScore": 3.09,
+    "AdjustedRating": "2.2771541501976284584980237154"
   },
   {
     "BID": 703315,
@@ -135,21 +150,6 @@
     "AdjustedRating": "2.3358302343229203788409211922"
   },
   {
-    "BID": 1429641,
-    "BeerName": "Münchner Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Hacker-Pschorr",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 6.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16238_775a0_sm.jpeg",
-    "HallRating": 11.52,
-    "BAR": 8.15,
-    "StylePlus": "99",
-    "RatingScore": 3.43,
-    "AdjustedRating": "2.3319777365880221586922601657"
-  },
-  {
     "BID": 3225579,
     "BeerName": "Leo Beer",
     "BeerStyle": "Lager - Pale",
@@ -165,19 +165,19 @@
     "AdjustedRating": "2.238935121616834126084049045"
   },
   {
-    "BID": 6407192,
-    "BeerName": "Elephant",
-    "BeerStyle": "Lager - Strong",
-    "BreweryName": "Carlsberg Group",
-    "Origin": "Copenhagen, Region Hovedstaden Denmark",
-    "BeerAbv": 7.20,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2014_ac3dd_sm.jpeg",
+    "BID": 1429641,
+    "BeerName": "Münchner Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Hacker-Pschorr",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 6.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-16238_775a0_sm.jpeg",
     "HallRating": 11.52,
     "BAR": 8.15,
-    "StylePlus": "102",
-    "RatingScore": 3.09,
-    "AdjustedRating": "2.2771541501976284584980237154"
+    "StylePlus": "99",
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.3319777365880221586922601657"
   },
   {
     "BID": 1808757,
@@ -195,19 +195,19 @@
     "AdjustedRating": "2.3372129264712984212504435574"
   },
   {
-    "BID": 5017369,
-    "BeerName": "Somersby Apple Cider",
-    "BeerStyle": "Cider - Sweet",
-    "BreweryName": "Carlsberg Group",
-    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BID": 6216452,
+    "BeerName": "Cass Fresh",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Oriental Brewery",
+    "Origin": "Seoul, South Korea",
     "BeerAbv": 4.50,
-    "BeerIbu": 2.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-56093_95446_sm.jpeg",
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3700_7ea8e_sm.jpeg",
     "HallRating": 11.50,
-    "BAR": 8.13,
-    "StylePlus": "91",
-    "RatingScore": 3.32,
-    "AdjustedRating": "2.309270764717395284625049193"
+    "BAR": 8.12,
+    "StylePlus": "90",
+    "RatingScore": 2.85,
+    "AdjustedRating": "2.2346863822109564642549616938"
   },
   {
     "BID": 5405743,
@@ -225,19 +225,34 @@
     "AdjustedRating": "2.3239761020969651517002818705"
   },
   {
-    "BID": 6216452,
-    "BeerName": "Cass Fresh",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Oriental Brewery",
-    "Origin": "Seoul, South Korea",
+    "BID": 5017369,
+    "BeerName": "Somersby Apple Cider",
+    "BeerStyle": "Cider - Sweet",
+    "BreweryName": "Carlsberg Group",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
     "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3700_7ea8e_sm.jpeg",
+    "BeerIbu": 2.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-56093_95446_sm.jpeg",
     "HallRating": 11.50,
+    "BAR": 8.13,
+    "StylePlus": "91",
+    "RatingScore": 3.32,
+    "AdjustedRating": "2.309270764717395284625049193"
+  },
+  {
+    "BID": 2400712,
+    "BeerName": "Maes Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Brouwerij Alken-Maes",
+    "Origin": "Alken, Vlaams Gewest Belgium",
+    "BeerAbv": 5.20,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-MaesPils_6817.jpeg",
+    "HallRating": 11.49,
     "BAR": 8.12,
-    "StylePlus": "90",
-    "RatingScore": 2.85,
-    "AdjustedRating": "2.2346863822109564642549616938"
+    "StylePlus": "83",
+    "RatingScore": 2.86,
+    "AdjustedRating": "2.2351416790576523563963849958"
   },
   {
     "BID": 6611236,
@@ -270,36 +285,6 @@
     "AdjustedRating": "2.253055295714988565841957342"
   },
   {
-    "BID": 2400712,
-    "BeerName": "Maes Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Brouwerij Alken-Maes",
-    "Origin": "Alken, Vlaams Gewest Belgium",
-    "BeerAbv": 5.20,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-MaesPils_6817.jpeg",
-    "HallRating": 11.49,
-    "BAR": 8.12,
-    "StylePlus": "83",
-    "RatingScore": 2.86,
-    "AdjustedRating": "2.2351416790576523563963849958"
-  },
-  {
-    "BID": 3006454,
-    "BeerName": "Nanny State",
-    "BeerStyle": "Non-Alcoholic - Pale Ale",
-    "BreweryName": "BrewDog",
-    "Origin": "Ellon, Aberdeenshire Scotland",
-    "BeerAbv": 0.50,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10839_8d2c5_sm.jpeg",
-    "HallRating": 11.48,
-    "BAR": 8.10,
-    "StylePlus": "84",
-    "RatingScore": 2.69,
-    "AdjustedRating": "2.2068907250008465680132741864"
-  },
-  {
     "BID": 1667666,
     "BeerName": "Curious Traveler Lemon Shandy",
     "BeerStyle": "Shandy / Radler",
@@ -313,21 +298,6 @@
     "StylePlus": "103",
     "RatingScore": 3.48,
     "AdjustedRating": "2.3275458849636223500215979063"
-  },
-  {
-    "BID": 4802293,
-    "BeerName": "Kronenbourg",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Brasseries Kronenbourg",
-    "Origin": "Obernai, Grand Est France",
-    "BeerAbv": 4.20,
-    "BeerIbu": 4.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5938_0ebd4_sm.jpeg",
-    "HallRating": 11.48,
-    "BAR": 8.10,
-    "StylePlus": "91",
-    "RatingScore": 2.88,
-    "AdjustedRating": "2.2360809609670619905020697361"
   },
   {
     "BID": 2011791,
@@ -345,6 +315,36 @@
     "AdjustedRating": "2.300257838349326508449604034"
   },
   {
+    "BID": 3006454,
+    "BeerName": "Nanny State",
+    "BeerStyle": "Non-Alcoholic - Pale Ale",
+    "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
+    "BeerAbv": 0.50,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10839_8d2c5_sm.jpeg",
+    "HallRating": 11.48,
+    "BAR": 8.10,
+    "StylePlus": "84",
+    "RatingScore": 2.69,
+    "AdjustedRating": "2.2068907250008465680132741864"
+  },
+  {
+    "BID": 4802293,
+    "BeerName": "Kronenbourg",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Brasseries Kronenbourg",
+    "Origin": "Obernai, Grand Est France",
+    "BeerAbv": 4.20,
+    "BeerIbu": 4.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5938_0ebd4_sm.jpeg",
+    "HallRating": 11.48,
+    "BAR": 8.10,
+    "StylePlus": "91",
+    "RatingScore": 2.88,
+    "AdjustedRating": "2.2360809609670619905020697361"
+  },
+  {
     "BID": 6612750,
     "BeerName": "Löwenbräu Oktoberfestbier",
     "BeerStyle": "Festbier",
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.3049376805840680535240032184"
   },
   {
-    "BID": 5215237,
-    "BeerName": "Amstel Radler 2.0 Citroen",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Amstel Bier",
-    "Origin": "Zoeterwoude, Zuid-Holland Netherlands",
-    "BeerAbv": 2.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-329449_46994_sm.jpeg",
+    "BID": 6400774,
+    "BeerName": "Tuborg Guld/Gold",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Carlsberg Group",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 5.60,
+    "BeerIbu": 3.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-TuborgGold_7520.jpeg",
     "HallRating": 11.46,
-    "BAR": 8.08,
-    "StylePlus": "93",
-    "RatingScore": 3.15,
-    "AdjustedRating": "2.2730671056997728258927431912"
+    "BAR": 8.07,
+    "StylePlus": "95",
+    "RatingScore": 2.99,
+    "AdjustedRating": "2.2481409813995893083850958138"
   }
 ]

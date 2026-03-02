@@ -105,21 +105,6 @@
     "AdjustedRating": "2.1289623637703970831423960471"
   },
   {
-    "BID": 6405420,
-    "BeerName": "Destiny",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Brasseria Della Fonte",
-    "Origin": "Pienza, Toscana Italy",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405420_385dd_sm.jpeg",
-    "HallRating": 28.72,
-    "BAR": 7.78,
-    "StylePlus": "112",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1195498405143537081662650361"
-  },
-  {
     "BID": 2813298,
     "BeerName": "Doubleganger Guava",
     "BeerStyle": "IPA - Imperial / Double",
@@ -135,19 +120,19 @@
     "AdjustedRating": "2.1280864037622302373313671961"
   },
   {
-    "BID": 6405422,
-    "BeerName": "Infinity",
-    "BeerStyle": "Barleywine - English",
+    "BID": 6405420,
+    "BeerName": "Destiny",
+    "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Brasseria Della Fonte",
     "Origin": "Pienza, Toscana Italy",
-    "BeerAbv": 14.00,
+    "BeerAbv": 13.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405422_b8075_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405420_385dd_sm.jpeg",
     "HallRating": 28.72,
     "BAR": 7.78,
-    "StylePlus": "114",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1195471407573318401343879051"
+    "StylePlus": "112",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1195498405143537081662650361"
   },
   {
     "BID": 6214111,
@@ -163,6 +148,21 @@
     "StylePlus": "115",
     "RatingScore": 4.66,
     "AdjustedRating": "2.1195606395424411802937735604"
+  },
+  {
+    "BID": 6405422,
+    "BeerName": "Infinity",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Brasseria Della Fonte",
+    "Origin": "Pienza, Toscana Italy",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405422_b8075_sm.jpeg",
+    "HallRating": 28.72,
+    "BAR": 7.78,
+    "StylePlus": "114",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1195471407573318401343879051"
   },
   {
     "BID": 4903534,

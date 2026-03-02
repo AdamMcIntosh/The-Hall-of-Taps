@@ -15,21 +15,6 @@
     "AdjustedRating": "2.1174968681023683111614866074"
   },
   {
-    "BID": 3017714,
-    "BeerName": "Bavaria",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Heineken Brasil",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-42233_367df_sm.jpeg",
-    "HallRating": 7.29,
-    "BAR": 4.17,
-    "StylePlus": "51",
-    "RatingScore": 1.76,
-    "AdjustedRating": "2.1174011403393168407677522186"
-  },
-  {
     "BID": 6400714,
     "BeerName": "Dog Beer (chicken)",
     "BeerStyle": "Non-Alcoholic - Other",
@@ -58,6 +43,21 @@
     "StylePlus": "73",
     "RatingScore": 1.98,
     "AdjustedRating": "2.1193215508836837237207209459"
+  },
+  {
+    "BID": 3017714,
+    "BeerName": "Bavaria",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Heineken Brasil",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-42233_367df_sm.jpeg",
+    "HallRating": 7.29,
+    "BAR": 4.17,
+    "StylePlus": "51",
+    "RatingScore": 1.76,
+    "AdjustedRating": "2.1174011403393168407677522186"
   },
   {
     "BID": 1801598,
@@ -120,21 +120,6 @@
     "AdjustedRating": "2.1204648894021144006211798435"
   },
   {
-    "BID": 3350395,
-    "BeerName": "Edelmeister Non-Alcoholic 0,0%",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Van Pur",
-    "Origin": "Rakszawa, Województwo podkarpackie Poland",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-656533_e37bf_sm.jpeg",
-    "HallRating": 7.23,
-    "BAR": 4.06,
-    "StylePlus": "88",
-    "RatingScore": 2.38,
-    "AdjustedRating": "2.1204810202826983530419069569"
-  },
-  {
     "BID": 5201756,
     "BeerName": "Lensmann",
     "BeerStyle": "Non-Alcoholic - Other",
@@ -148,6 +133,21 @@
     "StylePlus": "86",
     "RatingScore": 2.42,
     "AdjustedRating": "2.1193568030637472408526296581"
+  },
+  {
+    "BID": 3350395,
+    "BeerName": "Edelmeister Non-Alcoholic 0,0%",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Van Pur",
+    "Origin": "Rakszawa, Województwo podkarpackie Poland",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-656533_e37bf_sm.jpeg",
+    "HallRating": 7.23,
+    "BAR": 4.06,
+    "StylePlus": "88",
+    "RatingScore": 2.38,
+    "AdjustedRating": "2.1204810202826983530419069569"
   },
   {
     "BID": 5410124,
@@ -165,21 +165,6 @@
     "AdjustedRating": "2.120542655344023621204312961"
   },
   {
-    "BID": 28691,
-    "BeerName": "Frugal Joe's Ordinary Beer",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Steinhaus Brewing Company (Trader Joe’s)",
-    "Origin": "San Jose, CA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1845_9f574.jpeg",
-    "HallRating": 7.21,
-    "BAR": 1.91,
-    "StylePlus": "69",
-    "RatingScore": 2.38,
-    "AdjustedRating": "2.119354154896833769129623982"
-  },
-  {
     "BID": 5902925,
     "BeerName": "Saer Brau Sin",
     "BeerStyle": "Non-Alcoholic - Lager",
@@ -193,6 +178,21 @@
     "StylePlus": "83",
     "RatingScore": 2.24,
     "AdjustedRating": "2.1193422559082477989370903473"
+  },
+  {
+    "BID": 28691,
+    "BeerName": "Frugal Joe's Ordinary Beer",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Steinhaus Brewing Company (Trader Joe’s)",
+    "Origin": "San Jose, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1845_9f574.jpeg",
+    "HallRating": 7.21,
+    "BAR": 1.91,
+    "StylePlus": "69",
+    "RatingScore": 2.38,
+    "AdjustedRating": "2.119354154896833769129623982"
   },
   {
     "BID": 4024657,
@@ -300,21 +300,6 @@
     "AdjustedRating": "2.1203179272162548203838359163"
   },
   {
-    "BID": 302414,
-    "BeerName": "Karlskrone Alkoholfrei",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Privatbrauerei Fritz Egger",
-    "Origin": "Unterradlberg, Niederösterreich Austria",
-    "BeerAbv": 0.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-15477_d17be.jpeg",
-    "HallRating": 7.12,
-    "BAR": 3.83,
-    "StylePlus": "84",
-    "RatingScore": 2.27,
-    "AdjustedRating": "2.1197706696446376580385274997"
-  },
-  {
     "BID": 5016889,
     "BeerName": "Anarkist Mighty Mild Ale",
     "BeerStyle": "Non-Alcoholic - Other",
@@ -328,6 +313,21 @@
     "StylePlus": "85",
     "RatingScore": 2.39,
     "AdjustedRating": "2.1201025571991962945789770206"
+  },
+  {
+    "BID": 302414,
+    "BeerName": "Karlskrone Alkoholfrei",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Privatbrauerei Fritz Egger",
+    "Origin": "Unterradlberg, Niederösterreich Austria",
+    "BeerAbv": 0.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-15477_d17be.jpeg",
+    "HallRating": 7.12,
+    "BAR": 3.83,
+    "StylePlus": "84",
+    "RatingScore": 2.27,
+    "AdjustedRating": "2.1197706696446376580385274997"
   },
   {
     "BID": 4878065,
@@ -345,6 +345,21 @@
     "AdjustedRating": "2.1200244323224667670552569383"
   },
   {
+    "BID": 2002708,
+    "BeerName": "Antarctica Cristal",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "AmBev",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-74548_252b4_sm.jpeg",
+    "HallRating": 7.10,
+    "BAR": 3.79,
+    "StylePlus": "68",
+    "RatingScore": 2.35,
+    "AdjustedRating": "2.1199565679181023521140104616"
+  },
+  {
     "BID": 3350662,
     "BeerName": "Hefeweizen Ingwer",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -358,20 +373,5 @@
     "StylePlus": "64",
     "RatingScore": 2.22,
     "AdjustedRating": "2.1196023207513769176492294497"
-  },
-  {
-    "BID": 6417953,
-    "BeerName": "Leikeim frei",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Brauhaus Leikeim",
-    "Origin": "Altenkunstadt, Bayern Germany",
-    "BeerAbv": 0.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-112845_6ddab_sm.jpeg",
-    "HallRating": 7.10,
-    "BAR": 3.79,
-    "StylePlus": "89",
-    "RatingScore": 2.41,
-    "AdjustedRating": "2.1201060169347841263825585686"
   }
 ]

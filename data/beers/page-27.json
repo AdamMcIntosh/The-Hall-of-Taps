@@ -15,21 +15,6 @@
     "AdjustedRating": "2.1564690966719492868462757528"
   },
   {
-    "BID": 3013483,
-    "BeerName": "DBA (Double Barrel Ale)",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Firestone Walker Brewing Company",
-    "Origin": "Paso Robles, CA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1238_c12cb_sm.jpeg",
-    "HallRating": 23.44,
-    "BAR": 16.79,
-    "StylePlus": "103",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.4305477456107106318887935419"
-  },
-  {
     "BID": 904457,
     "BeerName": "Chestnut Ale",
     "BeerStyle": "Spiced / Herbed Beer",
@@ -43,6 +28,21 @@
     "StylePlus": "110",
     "RatingScore": 3.83,
     "AdjustedRating": "2.161275392997019904695479132"
+  },
+  {
+    "BID": 3013483,
+    "BeerName": "DBA (Double Barrel Ale)",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Firestone Walker Brewing Company",
+    "Origin": "Paso Robles, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1238_c12cb_sm.jpeg",
+    "HallRating": 23.44,
+    "BAR": 16.79,
+    "StylePlus": "103",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.4305477456107106318887935419"
   },
   {
     "BID": 2009269,
@@ -105,21 +105,6 @@
     "AdjustedRating": "2.4140683218779238929179118914"
   },
   {
-    "BID": 6209719,
-    "BeerName": "Big Swell IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Maui Brewing Company",
-    "Origin": "Kihei, HI United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5382_a8418_sm.jpeg",
-    "HallRating": 23.40,
-    "BAR": 16.75,
-    "StylePlus": "99",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.4482228793023706274632270102"
-  },
-  {
     "BID": 1672224,
     "BeerName": "Icelandic Arctic Pale Ale",
     "BeerStyle": "Pale Ale - English",
@@ -133,6 +118,21 @@
     "StylePlus": "102",
     "RatingScore": 3.53,
     "AdjustedRating": "2.4147438398428312511241162717"
+  },
+  {
+    "BID": 6209719,
+    "BeerName": "Big Swell IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Maui Brewing Company",
+    "Origin": "Kihei, HI United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5382_a8418_sm.jpeg",
+    "HallRating": 23.40,
+    "BAR": 16.75,
+    "StylePlus": "99",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.4482228793023706274632270102"
   },
   {
     "BID": 2209305,
@@ -165,6 +165,21 @@
     "AdjustedRating": "2.1581549166819263871085881707"
   },
   {
+    "BID": 3805890,
+    "BeerName": "Avery IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Avery Brewing Co.",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 69.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10773_e0d40_sm.jpeg",
+    "HallRating": 23.37,
+    "BAR": 16.71,
+    "StylePlus": "97",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.4263030958668745426198733654"
+  },
+  {
     "BID": 6419213,
     "BeerName": "IPA",
     "BeerStyle": "IPA - American",
@@ -193,21 +208,6 @@
     "StylePlus": "95",
     "RatingScore": 3.55,
     "AdjustedRating": "2.4136089780631991151409003084"
-  },
-  {
-    "BID": 3805890,
-    "BeerName": "Avery IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Avery Brewing Co.",
-    "Origin": "Boulder, CO United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 69.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10773_e0d40_sm.jpeg",
-    "HallRating": 23.37,
-    "BAR": 16.71,
-    "StylePlus": "97",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.4263030958668745426198733654"
   },
   {
     "BID": 5301663,
@@ -285,21 +285,6 @@
     "AdjustedRating": "2.4474871000207677684234068725"
   },
   {
-    "BID": 4700213,
-    "BeerName": "Floridian",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Funky Buddha Brewery",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14417_8f593_sm.jpeg",
-    "HallRating": 23.33,
-    "BAR": 16.67,
-    "StylePlus": "102",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.4156456218654764475799678449"
-  },
-  {
     "BID": 2021930,
     "BeerName": "Apocalypse IPA",
     "BeerStyle": "IPA - American",
@@ -313,21 +298,6 @@
     "StylePlus": "100",
     "RatingScore": 3.72,
     "AdjustedRating": "2.4381658201416236063368255411"
-  },
-  {
-    "BID": 2826684,
-    "BeerName": "Briney Melon Gose",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Anderson Valley Brewing Company",
-    "Origin": "Boonville, CA United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1048349_a5532_sm.jpeg",
-    "HallRating": 23.33,
-    "BAR": 16.66,
-    "StylePlus": "99",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.4460938820128213855264896552"
   },
   {
     "BID": 3202765,
@@ -345,33 +315,63 @@
     "AdjustedRating": "2.4723030885325967293180407935"
   },
   {
-    "BID": 4939337,
-    "BeerName": "Bicentennial Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Troy City Brewing",
-    "Origin": "Fall River, MA United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4939337_00719_sm.jpeg",
-    "HallRating": 23.30,
-    "BAR": 4.61,
-    "StylePlus": "114",
-    "RatingScore": 3.96,
-    "AdjustedRating": "2.1194102250654347190244414612"
+    "BID": 2826684,
+    "BeerName": "Briney Melon Gose",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Anderson Valley Brewing Company",
+    "Origin": "Boonville, CA United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1048349_a5532_sm.jpeg",
+    "HallRating": 23.33,
+    "BAR": 16.66,
+    "StylePlus": "99",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.4460938820128213855264896552"
   },
   {
-    "BID": 4631031,
-    "BeerName": "Lunch Lady Lager",
+    "BID": 4700213,
+    "BeerName": "Floridian",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Funky Buddha Brewery",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14417_8f593_sm.jpeg",
+    "HallRating": 23.33,
+    "BAR": 16.67,
+    "StylePlus": "102",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.4156456218654764475799678449"
+  },
+  {
+    "BID": 6350728,
+    "BeerName": "Oro Grande Mexican Corn Lager",
     "BeerStyle": "Lager - American",
-    "BreweryName": "Blue Monkey Brewing Co.",
-    "Origin": "North Royalton, OH United States",
-    "BeerAbv": 0.00,
+    "BreweryName": "Distant West Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-456761_23714.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-550259_9776c.jpeg",
     "HallRating": 23.30,
     "BAR": 4.61,
-    "StylePlus": "104",
-    "RatingScore": 3.61,
-    "AdjustedRating": "2.1193953506975953521975316049"
+    "StylePlus": "110",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.1194038503363607046700515228"
+  },
+  {
+    "BID": 4445611,
+    "BeerName": "Open Market Nordic Style White Ale W/ Guava",
+    "BeerStyle": "Traditional Ale",
+    "BreweryName": "Platform Beer Company",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-139979_fafe0.jpeg",
+    "HallRating": 23.30,
+    "BAR": 4.61,
+    "StylePlus": "106",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.119399175535039760810165568"
   }
 ]

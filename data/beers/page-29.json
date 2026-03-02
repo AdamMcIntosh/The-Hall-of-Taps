@@ -105,36 +105,6 @@
     "AdjustedRating": "2.4025548621397009153502438662"
   },
   {
-    "BID": 5606230,
-    "BeerName": "Théorème de l'Empereur",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "L'Ermitage",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2238824_3a372_sm.jpeg",
-    "HallRating": 23.12,
-    "BAR": 14.53,
-    "StylePlus": "104",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.1465514575782041811966399258"
-  },
-  {
-    "BID": 3348281,
-    "BeerName": "Freedom 33 Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Citizen 33 Brewery",
-    "Origin": "Driggs, ID United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-433425_7651e.jpeg",
-    "HallRating": 23.12,
-    "BAR": 4.71,
-    "StylePlus": "108",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.1194058267377967991440385183"
-  },
-  {
     "BID": 2428708,
     "BeerName": "DreamWeaver Wheat",
     "BeerStyle": "Wheat Beer - Hefeweizen",
@@ -148,6 +118,36 @@
     "StylePlus": "101",
     "RatingScore": 3.55,
     "AdjustedRating": "2.3649020679829193639906727468"
+  },
+  {
+    "BID": 4816870,
+    "BeerName": "Zed's At the Fiesta Chiles Lima Y Sal Marina",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Zed's Beer - Bado Brewing",
+    "Origin": "Marlton, NJ United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816870_bd82d_sm.jpeg",
+    "HallRating": 23.12,
+    "BAR": 4.71,
+    "StylePlus": "121",
+    "RatingScore": 4.19,
+    "AdjustedRating": "2.1194251758670859811308491118"
+  },
+  {
+    "BID": 5815181,
+    "BeerName": "Süffig",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Brokerage Brewing Company",
+    "Origin": "West Lafayette, IN United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-377317_41268.jpeg",
+    "HallRating": 23.12,
+    "BAR": 4.71,
+    "StylePlus": "105",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.1193999770010349534270957807"
   },
   {
     "BID": 6008237,
@@ -195,6 +195,21 @@
     "AdjustedRating": "2.1194026768795404206810693519"
   },
   {
+    "BID": 3348281,
+    "BeerName": "Freedom 33 Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Citizen 33 Brewery",
+    "Origin": "Driggs, ID United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-433425_7651e.jpeg",
+    "HallRating": 23.12,
+    "BAR": 4.71,
+    "StylePlus": "108",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.1194058267377967991440385183"
+  },
+  {
     "BID": 6420098,
     "BeerName": "Red Crown",
     "BeerStyle": "Lager - American",
@@ -210,34 +225,19 @@
     "AdjustedRating": "2.1193977271022803973821178047"
   },
   {
-    "BID": 5815181,
-    "BeerName": "Süffig",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Brokerage Brewing Company",
-    "Origin": "West Lafayette, IN United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-377317_41268.jpeg",
-    "HallRating": 23.12,
-    "BAR": 4.71,
-    "StylePlus": "105",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.1193999770010349534270957807"
-  },
-  {
-    "BID": 4816870,
-    "BeerName": "Zed's At the Fiesta Chiles Lima Y Sal Marina",
+    "BID": 5606230,
+    "BeerName": "Théorème de l'Empereur",
     "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Zed's Beer - Bado Brewing",
-    "Origin": "Marlton, NJ United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4816870_bd82d_sm.jpeg",
+    "BreweryName": "L'Ermitage",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2238824_3a372_sm.jpeg",
     "HallRating": 23.12,
-    "BAR": 4.71,
-    "StylePlus": "121",
-    "RatingScore": 4.19,
-    "AdjustedRating": "2.1194251758670859811308491118"
+    "BAR": 14.53,
+    "StylePlus": "104",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.1465514575782041811966399258"
   },
   {
     "BID": 2904843,
@@ -270,21 +270,6 @@
     "AdjustedRating": "2.3826987456370886842039811307"
   },
   {
-    "BID": 701333,
-    "BeerName": "Conehead",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Zero Gravity Beer",
-    "Origin": "Burlington, VT United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 49.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-52813_16d4c_sm.jpeg",
-    "HallRating": 23.10,
-    "BAR": 16.37,
-    "StylePlus": "102",
-    "RatingScore": 3.80,
-    "AdjustedRating": "2.4037542421108161883517971596"
-  },
-  {
     "BID": 2801971,
     "BeerName": "Liquid Truth Serum",
     "BeerStyle": "IPA - American",
@@ -298,6 +283,21 @@
     "StylePlus": "103",
     "RatingScore": 3.86,
     "AdjustedRating": "2.4153453495199819072497567231"
+  },
+  {
+    "BID": 701333,
+    "BeerName": "Conehead",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Zero Gravity Beer",
+    "Origin": "Burlington, VT United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 49.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-52813_16d4c_sm.jpeg",
+    "HallRating": 23.10,
+    "BAR": 16.37,
+    "StylePlus": "102",
+    "RatingScore": 3.80,
+    "AdjustedRating": "2.4037542421108161883517971596"
   },
   {
     "BID": 4815984,
@@ -330,21 +330,6 @@
     "AdjustedRating": "2.1472058614102545215260488025"
   },
   {
-    "BID": 4026320,
-    "BeerName": "White Oak Jai Alai®",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11109_9cd07_sm.jpeg",
-    "HallRating": 23.08,
-    "BAR": 16.35,
-    "StylePlus": "107",
-    "RatingScore": 4.00,
-    "AdjustedRating": "2.4341858993572451460352349552"
-  },
-  {
     "BID": 5219870,
     "BeerName": "Hop Drop ‘N Roll",
     "BeerStyle": "IPA - American",
@@ -360,18 +345,33 @@
     "AdjustedRating": "2.4244115502406300131252734432"
   },
   {
-    "BID": 3890586,
-    "BeerName": "Honey Ginger",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Ardent Craft Ales",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 7.80,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-703251_46a29_sm.jpeg",
+    "BID": 4026320,
+    "BeerName": "White Oak Jai Alai®",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11109_9cd07_sm.jpeg",
+    "HallRating": 23.08,
+    "BAR": 16.35,
+    "StylePlus": "107",
+    "RatingScore": 4.00,
+    "AdjustedRating": "2.4341858993572451460352349552"
+  },
+  {
+    "BID": 6612230,
+    "BeerName": "Headwaters Ale",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Victory Brewing Company",
+    "Origin": "Downingtown, PA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-26414_4c8e1_sm.jpeg",
     "HallRating": 23.07,
-    "BAR": 14.46,
-    "StylePlus": "106",
-    "RatingScore": 3.68,
-    "AdjustedRating": "2.1468745978496313723949251693"
+    "BAR": 16.34,
+    "StylePlus": "95",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.3568171487904856822361315558"
   }
 ]

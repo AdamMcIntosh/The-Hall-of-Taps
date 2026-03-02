@@ -150,21 +150,6 @@
     "AdjustedRating": "2.6160897083011080977935986329"
   },
   {
-    "BID": 6611300,
-    "BeerName": "SNORRI NR.10",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Borg Brugghús",
-    "Origin": "Reykjavík, Reykjavíkurborg Iceland",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-196380_a0c74_sm.jpeg",
-    "HallRating": 24.10,
-    "BAR": 15.94,
-    "StylePlus": "103",
-    "RatingScore": 3.56,
-    "AdjustedRating": "2.1806641677796766765760461097"
-  },
-  {
     "BID": 6203912,
     "BeerName": "Pernicious",
     "BeerStyle": "IPA - American",
@@ -178,6 +163,21 @@
     "StylePlus": "106",
     "RatingScore": 3.94,
     "AdjustedRating": "2.7100370711275871678165190296"
+  },
+  {
+    "BID": 6611300,
+    "BeerName": "SNORRI NR.10",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Borg Brugghús",
+    "Origin": "Reykjavík, Reykjavíkurborg Iceland",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-196380_a0c74_sm.jpeg",
+    "HallRating": 24.10,
+    "BAR": 15.94,
+    "StylePlus": "103",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.1806641677796766765760461097"
   },
   {
     "BID": 2023022,
@@ -195,6 +195,21 @@
     "AdjustedRating": "2.6352272410593820837595625444"
   },
   {
+    "BID": 5618239,
+    "BeerName": "Perpetual IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Tröegs Independent Brewing",
+    "Origin": "Hershey, PA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 85.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-71016_bc5eb_sm.jpeg",
+    "HallRating": 24.06,
+    "BAR": 17.56,
+    "StylePlus": "102",
+    "RatingScore": 3.79,
+    "AdjustedRating": "2.6482737783032326293794943902"
+  },
+  {
     "BID": 6420054,
     "BeerName": "Lagerbier Hell",
     "BeerStyle": "Lager - Helles",
@@ -208,21 +223,6 @@
     "StylePlus": "105",
     "RatingScore": 3.65,
     "AdjustedRating": "2.604915047093644491631020698"
-  },
-  {
-    "BID": 6017480,
-    "BeerName": "Atlanta’s OG IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "SweetWater Brewing Company",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7053_45c8c_sm.jpeg",
-    "HallRating": 24.06,
-    "BAR": 17.57,
-    "StylePlus": "98",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.6119370246098367702723679654"
   },
   {
     "BID": 1214497,
@@ -240,19 +240,19 @@
     "AdjustedRating": "2.6327027073191562046289179264"
   },
   {
-    "BID": 5618239,
-    "BeerName": "Perpetual IPA",
+    "BID": 6017480,
+    "BeerName": "Atlanta’s OG IPA",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Tröegs Independent Brewing",
-    "Origin": "Hershey, PA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-71016_bc5eb_sm.jpeg",
+    "BreweryName": "SweetWater Brewing Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7053_45c8c_sm.jpeg",
     "HallRating": 24.06,
-    "BAR": 17.56,
-    "StylePlus": "102",
-    "RatingScore": 3.79,
-    "AdjustedRating": "2.6482737783032326293794943902"
+    "BAR": 17.57,
+    "StylePlus": "98",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.6119370246098367702723679654"
   },
   {
     "BID": 1215779,
@@ -360,18 +360,18 @@
     "AdjustedRating": "2.5700988524541992847500341377"
   },
   {
-    "BID": 5012459,
-    "BeerName": "Focal Banger",
+    "BID": 5208922,
+    "BeerName": "Brew Free! or Die",
     "BeerStyle": "IPA - American",
-    "BreweryName": "The Alchemist",
-    "Origin": "Stowe, VT United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 90.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-45458_e3a3c_sm.jpeg",
+    "BreweryName": "21st Amendment Brewery",
+    "Origin": "San Francisco, CA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3985_67263_sm.jpeg",
     "HallRating": 24.00,
     "BAR": 17.49,
-    "StylePlus": "118",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.813957133139914210752807585"
+    "StylePlus": "101",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.619034825353065099222346485"
   }
 ]
