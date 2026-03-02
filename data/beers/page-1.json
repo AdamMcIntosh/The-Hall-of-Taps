@@ -1,33 +1,93 @@
 [
   {
-    "BID": 6605944,
-    "BeerName": "LAB 21 LF - Hazelnut & Peanut",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 32.84,
-    "BAR": 5.40,
-    "StylePlus": "111",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1434343969680909572712818615"
+    "BID": 6501261,
+    "BeerName": "‘T Tuintje Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij 'T Tuintje",
+    "Origin": "Netherlands",
+    "BeerAbv": 8.00,
+    "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6501261_004a2_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "129",
+    "RatingScore": 4.73,
+    "AdjustedRating": "2.1194037913957366172430258168"
   },
   {
-    "BID": 6550208,
-    "BeerName": "Coco Coco Del Cerrito",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Horus Aged Ales",
-    "Origin": "Oceanside, CA United States",
-    "BeerAbv": 13.80,
+    "BID": 6605236,
+    "BeerName": "Gratitude Ponfeigh Rye Barrel-Aged With Coconut And Cinnamon  (2026)",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "East End Brewing Company",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 11.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-324969_2db2b.jpeg",
-    "HallRating": 32.84,
-    "BAR": 5.40,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-476_c67cd.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "117",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1193988415318578739084675171"
+  },
+  {
+    "BID": 6502230,
+    "BeerName": "Waachners Session Neipa",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "BillBrew",
+    "Origin": "Hamburg, Germany",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-552123_b7329.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "128",
+    "RatingScore": 4.95,
+    "AdjustedRating": "2.119409841229366192429708183"
+  },
+  {
+    "BID": 6600627,
+    "BeerName": "Amor Amor Amor",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 11.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600627_b66a4_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
     "StylePlus": "114",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1434352969410917672469825905"
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1193996665091709977975605671"
+  },
+  {
+    "BID": 6505619,
+    "BeerName": "City of Shadows",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Union Craft Brewing",
+    "Origin": "Baltimore, MD United States",
+    "BeerAbv": 11.80,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505619_b3c23_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "115",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.1193982915469824579824054838"
+  },
+  {
+    "BID": 17663,
+    "BeerName": "Fou' Foune",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_17663_sm_48376e0fc0fe1a34b0cac9a69d9e43.jpeg",
+    "HallRating": 32.97,
+    "BAR": 22.39,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.2862779340976210962025905169"
   },
   {
     "BID": 5901151,
@@ -42,7 +102,22 @@
     "BAR": 5.40,
     "StylePlus": "124",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1434322970310890673279801606"
+    "AdjustedRating": "2.1194040178794636160915172545"
+  },
+  {
+    "BID": 6609758,
+    "BeerName": "Barrel Aged Espresso Martini",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "903 Brewers",
+    "Origin": "Sherman, TX United States",
+    "BeerAbv": 14.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-45007_23388.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1194058178254652360429187124"
   },
   {
     "BID": 6103218,
@@ -57,7 +132,37 @@
     "BAR": 5.40,
     "StylePlus": "113",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1434325970220893373198804036"
+    "AdjustedRating": "2.1194043178704638860834174975"
+  },
+  {
+    "BID": 6605944,
+    "BeerName": "LAB 21 LF - Hazelnut & Peanut",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Los Forajidos Brewing Co.",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "111",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1194061178164655060348189554"
+  },
+  {
+    "BID": 6550208,
+    "BeerName": "Coco Coco Del Cerrito",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Horus Aged Ales",
+    "Origin": "Oceanside, CA United States",
+    "BeerAbv": 13.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-324969_2db2b.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "114",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1194070177894663160105196844"
   },
   {
     "BID": 5800005,
@@ -72,7 +177,7 @@
     "BAR": 21.95,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2804871856467939387944475061"
+    "AdjustedRating": "2.2578504576050042157125967377"
   },
   {
     "BID": 2408879,
@@ -87,7 +192,7 @@
     "BAR": 21.67,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.2650387111465330752590231128"
+    "AdjustedRating": "2.2422399332042961782230824699"
   },
   {
     "BID": 5402457,
@@ -102,7 +207,7 @@
     "BAR": 5.57,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1434398632044458555096959349"
+    "AdjustedRating": "2.1194116441215660491034041394"
   },
   {
     "BID": 4419286,
@@ -117,7 +222,7 @@
     "BAR": 5.57,
     "StylePlus": "113",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.1434431130988242882106331544"
+    "AdjustedRating": "2.1194148940159444818043413589"
   },
   {
     "BID": 6605017,
@@ -132,7 +237,7 @@
     "BAR": 5.57,
     "StylePlus": "126",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.1434421381305107584003519886"
+    "AdjustedRating": "2.119413919047630951994060193"
   },
   {
     "BID": 6406463,
@@ -145,9 +250,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6406463_214ae_sm.jpeg",
     "HallRating": 32.38,
     "BAR": 5.57,
-    "StylePlus": "142",
+    "StylePlus": "141",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.1434437630776999747508205983"
+    "AdjustedRating": "2.1194155439948201683445288028"
   },
   {
     "BID": 4018394,
@@ -162,7 +267,7 @@
     "BAR": 21.50,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2559024551695236099635451019"
+    "AdjustedRating": "2.2330161130173273868909996166"
   },
   {
     "BID": 1209346,
@@ -177,7 +282,7 @@
     "BAR": 21.30,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.246470430705296960219596816"
+    "AdjustedRating": "2.2234883231592865972775159545"
   },
   {
     "BID": 1013084,
@@ -192,22 +297,7 @@
     "BAR": 21.11,
     "StylePlus": "113",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.2440284927772057782353774117"
-  },
-  {
-    "BID": 6506268,
-    "BeerName": "Everybody’s Favorite Uncle with Pineapple",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
-    "HallRating": 31.99,
-    "BAR": 5.73,
-    "StylePlus": "113",
-    "RatingScore": 4.69,
-    "AdjustedRating": "2.1434501292454764083257086002"
+    "AdjustedRating": "2.2209606712314630148295881363"
   },
   {
     "BID": 6601746,
@@ -222,7 +312,7 @@
     "BAR": 5.73,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1434438294659686910958116466"
+    "AdjustedRating": "2.1194156704515341963031293905"
   },
   {
     "BID": 6007759,
@@ -237,141 +327,51 @@
     "BAR": 5.73,
     "StylePlus": "118",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1434455794047208347707830226"
+    "AdjustedRating": "2.1194174203902863399781007665"
   },
   {
-    "BID": 1013077,
-    "BeerName": "Bourbon County Brand Stout (2014) 14.4%",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.40,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-790245_7ab12_sm.jpeg",
-    "HallRating": 31.86,
-    "BAR": 20.87,
-    "StylePlus": "114",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.2330383728244915076535961417"
-  },
-  {
-    "BID": 4815824,
-    "BeerName": "Mouthful of Rainbows- Lemon",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "SJ Brewing Company",
-    "Origin": "Yulee Heights, FL United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4815824_3fca6_sm.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "119",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1434519955501668687424221592"
-  },
-  {
-    "BID": 6103223,
-    "BeerName": "Santa’s Coconut",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "114",
+    "BID": 6415198,
+    "BeerName": "RED ALERT",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Samovar Brew",
+    "Origin": "Moscow, Москва Russia",
+    "BeerAbv": 5.50,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6415198_2bb26_sm.jpeg",
+    "HallRating": 31.99,
+    "BAR": 5.73,
+    "StylePlus": "130",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.143452745522042923390372861"
+    "AdjustedRating": "2.1194184703535376261830835921"
   },
   {
-    "BID": 1673471,
-    "BeerName": "Maple Oak Marshal Zhukov's",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.50,
+    "BID": 6607278,
+    "BeerName": "Barrel Aged Eos (Metallic Purple Wax)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 13.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6607278_82757_sm.jpeg",
+    "HallRating": 31.99,
+    "BAR": 5.73,
     "StylePlus": "116",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.1434549954376710873342249666"
+    "RatingScore": 4.70,
+    "AdjustedRating": "2.1194223202187923422680206193"
   },
   {
-    "BID": 6204507,
-    "BeerName": "Lil Hefe",
-    "BeerStyle": "Wheat Beer - Hefeweizen Light / Leicht",
-    "BreweryName": "Percent Tap House",
-    "Origin": "Harrisburg, NC United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6204507_7258c_sm.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "135",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1434497456345387047985700536"
-  },
-  {
-    "BID": 3340599,
-    "BeerName": "Ice Lakes",
-    "BeerStyle": "Bock - Eisbock",
-    "BreweryName": "Burns Family Artisan Ales",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-403719_89619.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "117",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1434501206204767321225454045"
-  },
-  {
-    "BID": 3334597,
-    "BeerName": "Summer-Rita",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Honey Pot Meadery",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-319534_14b17.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1434504956064147594465207555"
-  },
-  {
-    "BID": 6504214,
-    "BeerName": "Decadence",
-    "BeerStyle": "Cider - Ice",
-    "BreweryName": "Eden Specialty Ciders",
-    "Origin": "Newport, VT United States",
+    "BID": 6506268,
+    "BeerName": "Everybody’s Favorite Uncle with Pineapple",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
     "BeerAbv": 10.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-13108_6911b.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "117",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.1434549954376710873342249666"
-  },
-  {
-    "BID": 2402354,
-    "BeerName": "Reserve Bourbon County Brand Stout (2017)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2353294_8c1ef_sm.jpeg",
-    "HallRating": 31.63,
-    "BAR": 20.54,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
+    "HallRating": 31.99,
+    "BAR": 5.73,
     "StylePlus": "113",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.2194899308701065288267295796"
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.1194219702310419135330263441"
   }
 ]

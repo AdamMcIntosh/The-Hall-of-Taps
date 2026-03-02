@@ -1,5 +1,13 @@
 [
   {
+    "BreweryName": "#lolbrewing",
+    "Location": "New Zealand"
+  },
+  {
+    "BreweryName": "#narodła",
+    "Location": "Poland"
+  },
+  {
     "BreweryName": "#Notacult Brewing",
     "Location": "United States"
   },
@@ -10,6 +18,10 @@
   {
     "BreweryName": "#Pub309 Brew House",
     "Location": "United States"
+  },
+  {
+    "BreweryName": "#RealCasey*s Liquid Solutions",
+    "Location": "Houston, TX United States"
   },
   {
     "BreweryName": "#RussoCompound",
@@ -48,6 +60,10 @@
     "Location": "Queenstown, Otago New Zealand"
   },
   {
+    "BreweryName": "&Bier Te Culemborg",
+    "Location": null
+  },
+  {
     "BreweryName": "&soda",
     "Location": null
   },
@@ -64,8 +80,16 @@
     "Location": "United States"
   },
   {
+    "BreweryName": "(506) Brewing Co",
+    "Location": "Costa Rica"
+  },
+  {
     "BreweryName": "(512) Brewing Company",
     "Location": "Austin, TX United States"
+  },
+  {
+    "BreweryName": "(B)aardige Poging",
+    "Location": "Netherlands"
   },
   {
     "BreweryName": "(B)eer(K)ing (BA)d",
@@ -74,29 +98,5 @@
   {
     "BreweryName": "(BAC2) Beer Alchemists of Coastal Carolina",
     "Location": "Jacksonville, NC United States"
-  },
-  {
-    "BreweryName": "(closed)Clearwater Brewing Company",
-    "Location": "Clearwater, FL United States"
-  },
-  {
-    "BreweryName": "(d)Äckel Brewery",
-    "Location": "Sweden"
-  },
-  {
-    "BreweryName": "(Dis)Honest Eight Brewing",
-    "Location": "United States"
-  },
-  {
-    "BreweryName": "(Everything's Coming Up) Brewhouse",
-    "Location": "Australia"
-  },
-  {
-    "BreweryName": "(HB) Handcraft Brewing",
-    "Location": "Elk Grove, CA United States"
-  },
-  {
-    "BreweryName": "(Homebrew) Ardmore Brewing Company",
-    "Location": "United States"
   }
 ]
