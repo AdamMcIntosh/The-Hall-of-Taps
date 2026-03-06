@@ -1,33 +1,48 @@
 [
   {
-    "BID": 6505619,
-    "BeerName": "City of Shadows",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Union Craft Brewing",
-    "Origin": "Baltimore, MD United States",
-    "BeerAbv": 11.80,
-    "BeerIbu": 33.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505619_b3c23_sm.jpeg",
+    "BID": 6411443,
+    "BeerName": "The BIG 3-0",
+    "BeerStyle": "Wheat Beer - Wheat Wine",
+    "BreweryName": "Bremer Brewing Company",
+    "Origin": "Waverly, IA United States",
+    "BeerAbv": 14.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-492795_b0175.jpeg",
     "HallRating": 33.37,
     "BAR": 5.21,
-    "StylePlus": "115",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1193982915469824579824054838"
+    "StylePlus": "119",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0925685793640674881440760379"
   },
   {
-    "BID": 6603599,
-    "BeerName": "Redux 2025",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-sideproject_64810.jpeg",
+    "BID": 6501261,
+    "BeerName": "‘T Tuintje Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij 'T Tuintje",
+    "Origin": "Netherlands",
+    "BeerAbv": 8.00,
+    "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6501261_004a2_sm.jpeg",
     "HallRating": 33.37,
     "BAR": 5.21,
-    "StylePlus": "113",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.1194002164940464137236226004"
+    "StylePlus": "129",
+    "RatingScore": 4.73,
+    "AdjustedRating": "2.0925735292279462314786343376"
+  },
+  {
+    "BID": 6600627,
+    "BeerName": "Amor Amor Amor",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 11.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600627_b66a4_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "114",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.0925694043413806120331690879"
   },
   {
     "BID": 6502230,
@@ -42,7 +57,52 @@
     "BAR": 5.21,
     "StylePlus": "128",
     "RatingScore": 4.95,
-    "AdjustedRating": "2.119409841229366192429708183"
+    "AdjustedRating": "2.0925795790615758066653167038"
+  },
+  {
+    "BID": 6505619,
+    "BeerName": "City of Shadows",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Union Craft Brewing",
+    "Origin": "Baltimore, MD United States",
+    "BeerAbv": 11.80,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505619_b3c23_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "115",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.0925680293791920722180140046"
+  },
+  {
+    "BID": 6603599,
+    "BeerName": "Redux 2025",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Side Project Brewing",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-sideproject_64810.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "113",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.0925699543262560279592311211"
+  },
+  {
+    "BID": 6428582,
+    "BeerName": "Stevnsberry CRYO (2024)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6428582_63ea3_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "117",
+    "RatingScore": 4.75,
+    "AdjustedRating": "2.0925740792128216474046963708"
   },
   {
     "BID": 6605236,
@@ -57,25 +117,10 @@
     "BAR": 5.21,
     "StylePlus": "117",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1193988415318578739084675171"
+    "AdjustedRating": "2.0925685793640674881440760379"
   },
   {
-    "BID": 6021543,
-    "BeerName": "Sweet Sixteen (2021 Vintage)",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Haykin Family Cider",
-    "Origin": "Aurora, CO United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-380998_e1ceb.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "127",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.1193988415318578739084675171"
-  },
-  {
-    "BID": 17663,
+    "BID": 1246754,
     "BeerName": "Fou' Foune",
     "BeerStyle": "Lambic - Fruit",
     "BreweryName": "Brasserie Cantillon",
@@ -85,54 +130,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_17663_sm_48376e0fc0fe1a34b0cac9a69d9e43.jpeg",
     "HallRating": 32.97,
     "BAR": 22.39,
-    "StylePlus": "112",
+    "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2862779340976210962025905169"
+    "AdjustedRating": "2.2615924870141042870894387582"
   },
   {
-    "BID": 6609758,
-    "BeerName": "Barrel Aged Espresso Martini",
+    "BID": 6426993,
+    "BeerName": "Oktoberlab Stout",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "903 Brewers",
-    "Origin": "Sherman, TX United States",
-    "BeerAbv": 14.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-45007_23388.jpeg",
-    "HallRating": 32.84,
-    "BAR": 5.40,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1194058178254652360429187124"
-  },
-  {
-    "BID": 6550208,
-    "BeerName": "Coco Coco Del Cerrito",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Horus Aged Ales",
-    "Origin": "Oceanside, CA United States",
-    "BeerAbv": 13.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-324969_2db2b.jpeg",
-    "HallRating": 32.84,
-    "BAR": 5.40,
-    "StylePlus": "114",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1194070177894663160105196844"
-  },
-  {
-    "BID": 6605944,
-    "BeerName": "LAB 21 LF - Hazelnut & Peanut",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
     "BreweryName": "Los Forajidos Brewing Co.",
     "Origin": "São Paulo, Brazil",
-    "BeerAbv": 13.00,
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
     "HallRating": 32.84,
     "BAR": 5.40,
     "StylePlus": "111",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1194061178164655060348189554"
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0925738227853164405067847965"
   },
   {
     "BID": 6103218,
@@ -147,7 +162,22 @@
     "BAR": 5.40,
     "StylePlus": "113",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1194043178704638860834174975"
+    "AdjustedRating": "2.0925741227763167104986850394"
+  },
+  {
+    "BID": 6617249,
+    "BeerName": "BA Cassius King - 2026",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Marto Brewing Company",
+    "Origin": "Sioux City, IA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6617249_60935_sm.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.0925741227763167104986850394"
   },
   {
     "BID": 5901151,
@@ -160,9 +190,69 @@
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": 32.84,
     "BAR": 5.40,
-    "StylePlus": "124",
+    "StylePlus": "123",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1194040178794636160915172545"
+    "AdjustedRating": "2.0925738227853164405067847965"
+  },
+  {
+    "BID": 6550208,
+    "BeerName": "Coco Coco Del Cerrito",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Horus Aged Ales",
+    "Origin": "Oceanside, CA United States",
+    "BeerAbv": 13.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-324969_2db2b.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "114",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0925768226953191404257872264"
+  },
+  {
+    "BID": 5622479,
+    "BeerName": "2023 Single Cask - Double Avarice",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "River North Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 19.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-RiverNorthBrewery_23833.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.0925741227763167104986850394"
+  },
+  {
+    "BID": 6609758,
+    "BeerName": "Barrel Aged Espresso Martini",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "903 Brewers",
+    "Origin": "Sherman, TX United States",
+    "BeerAbv": 14.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-45007_23388.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.0925756227313180604581862544"
+  },
+  {
+    "BID": 6605944,
+    "BeerName": "LAB 21 LF - Hazelnut & Peanut",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Los Forajidos Brewing Co.",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "111",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0925759227223183304500864974"
   },
   {
     "BID": 5800005,
@@ -177,7 +267,7 @@
     "BAR": 21.95,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2578504576050042157125967377"
+    "AdjustedRating": "2.2325740811395141803382932723"
   },
   {
     "BID": 2408879,
@@ -192,22 +282,7 @@
     "BAR": 21.67,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.2422399332042961782230824699"
-  },
-  {
-    "BID": 5402457,
-    "BeerName": "BA Slick Talk",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Orchestrated Minds Brewing",
-    "Origin": "Fort Lauderdale, FL United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
-    "HallRating": 32.38,
-    "BAR": 5.57,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1194116441215660491034041394"
+    "AdjustedRating": "2.2167826103457436714865839311"
   },
   {
     "BID": 4419286,
@@ -222,7 +297,22 @@
     "BAR": 5.57,
     "StylePlus": "113",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.1194148940159444818043413589"
+    "AdjustedRating": "2.0925847659951051590823298243"
+  },
+  {
+    "BID": 5402457,
+    "BeerName": "BA Slick Talk",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
+    "HallRating": 32.38,
+    "BAR": 5.57,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0925815161007267263813926047"
   },
   {
     "BID": 6605017,
@@ -237,7 +327,7 @@
     "BAR": 5.57,
     "StylePlus": "126",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.119413919047630951994060193"
+    "AdjustedRating": "2.0925837910267916292720486584"
   },
   {
     "BID": 4018394,
@@ -252,7 +342,7 @@
     "BAR": 21.50,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2330161130173273868909996166"
+    "AdjustedRating": "2.2074610151653328444106854997"
   },
   {
     "BID": 1209346,
@@ -267,7 +357,7 @@
     "BAR": 21.30,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2234883231592865972775159545"
+    "AdjustedRating": "2.1978262927973487701478404958"
   },
   {
     "BID": 1013084,
@@ -282,96 +372,6 @@
     "BAR": 21.11,
     "StylePlus": "113",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.2209606712314630148295881363"
-  },
-  {
-    "BID": 6601746,
-    "BeerName": "Barrel Aged Degenerate Breakfast",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Covert Artisan Ales",
-    "Origin": "Sioux Falls, SD United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6601746_d6c1f_sm.jpeg",
-    "HallRating": 31.99,
-    "BAR": 5.73,
-    "StylePlus": "114",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1194156704515341963031293905"
-  },
-  {
-    "BID": 6607278,
-    "BeerName": "Barrel Aged Eos (Metallic Purple Wax)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6607278_82757_sm.jpeg",
-    "HallRating": 31.99,
-    "BAR": 5.73,
-    "StylePlus": "116",
-    "RatingScore": 4.70,
-    "AdjustedRating": "2.1194223202187923422680206193"
-  },
-  {
-    "BID": 6415198,
-    "BeerName": "RED ALERT",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Samovar Brew",
-    "Origin": "Moscow, Москва Russia",
-    "BeerAbv": 5.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6415198_2bb26_sm.jpeg",
-    "HallRating": 31.99,
-    "BAR": 5.73,
-    "StylePlus": "130",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.1194184703535376261830835921"
-  },
-  {
-    "BID": 6007759,
-    "BeerName": "Funktastic Frootz: Nice Tats",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Funktastic Beer",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6007759_d7d0f_sm.jpeg",
-    "HallRating": 31.99,
-    "BAR": 5.73,
-    "StylePlus": "118",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1194174203902863399781007665"
-  },
-  {
-    "BID": 6506268,
-    "BeerName": "Everybody’s Favorite Uncle with Pineapple",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
-    "HallRating": 31.99,
-    "BAR": 5.73,
-    "StylePlus": "113",
-    "RatingScore": 4.69,
-    "AdjustedRating": "2.1194219702310419135330263441"
-  },
-  {
-    "BID": 6607020,
-    "BeerName": "Small World",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Seeker Brewing",
-    "Origin": "Unanderra, New South Wales Australia",
-    "BeerAbv": 9.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6607020_5eae6_sm.jpeg",
-    "HallRating": 31.64,
-    "BAR": 5.88,
-    "StylePlus": "109",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1194220216741872179793257753"
+    "AdjustedRating": "2.1952029318376545298763760989"
   }
 ]
