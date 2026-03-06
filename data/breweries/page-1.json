@@ -1,5 +1,33 @@
 [
   {
+    "BreweryName": "#CampHodsdon",
+    "Location": "United States"
+  },
+  {
+    "BreweryName": "#COM2 Brewery",
+    "Location": "Russia"
+  },
+  {
+    "BreweryName": "#Craftbeerkitchen",
+    "Location": "Hamelin, Niedersachsen Germany"
+  },
+  {
+    "BreweryName": "#fractured",
+    "Location": null
+  },
+  {
+    "BreweryName": "#FREEDOM Craft Brewery",
+    "Location": "Buchanan, NY United States"
+  },
+  {
+    "BreweryName": "#GDP Brewery",
+    "Location": "United States"
+  },
+  {
+    "BreweryName": "#LISTENTODAD",
+    "Location": null
+  },
+  {
     "BreweryName": "#lolbrewing",
     "Location": "New Zealand"
   },
@@ -52,6 +80,10 @@
     "Location": "United States"
   },
   {
+    "BreweryName": "${HOME}/brew",
+    "Location": "Norway"
+  },
+  {
     "BreweryName": "$teve",
     "Location": "United States"
   },
@@ -64,39 +96,7 @@
     "Location": null
   },
   {
-    "BreweryName": "&soda",
-    "Location": null
-  },
-  {
-    "BreweryName": "&telier",
-    "Location": "Atlantic Highlands, NJ United States"
-  },
-  {
-    "BreweryName": "(1162 - 2083) homebrews",
-    "Location": "Hungary"
-  },
-  {
-    "BreweryName": "(302) bru",
-    "Location": "United States"
-  },
-  {
-    "BreweryName": "(506) Brewing Co",
-    "Location": "Costa Rica"
-  },
-  {
-    "BreweryName": "(512) Brewing Company",
-    "Location": "Austin, TX United States"
-  },
-  {
-    "BreweryName": "(B)aardige Poging",
-    "Location": "Netherlands"
-  },
-  {
-    "BreweryName": "(B)eer(K)ing (BA)d",
-    "Location": "France"
-  },
-  {
-    "BreweryName": "(BAC2) Beer Alchemists of Coastal Carolina",
-    "Location": "Jacksonville, NC United States"
+    "BreweryName": "&-bryggerier",
+    "Location": "Norway"
   }
 ]

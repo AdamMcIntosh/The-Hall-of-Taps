@@ -12,6 +12,10 @@
     "Location": "Australia"
   },
   {
+    "BreweryName": "---",
+    "Location": null
+  },
+  {
     "BreweryName": "!/bin/bash Brewery",
     "Location": "Germany"
   },
@@ -24,8 +28,16 @@
     "Location": "Netherlands"
   },
   {
+    "BreweryName": "\"G\" Spot Homebrewery",
+    "Location": "United States"
+  },
+  {
     "BreweryName": "\"IP\" Amber",
     "Location": null
+  },
+  {
+    "BreweryName": "\"La Selangeoise\"",
+    "Location": "Belgium"
   },
   {
     "BreweryName": "\"We Are The Roadbrew\"",
@@ -68,6 +80,10 @@
     "Location": "Finland"
   },
   {
+    "BreweryName": "#59 Brewing Co",
+    "Location": "England"
+  },
+  {
     "BreweryName": "#Andreev_village",
     "Location": "Magnitogorsk, Chelyabinsk Oblast Russia"
   },
@@ -82,21 +98,5 @@
   {
     "BreweryName": "#Brukbart",
     "Location": "Norway"
-  },
-  {
-    "BreweryName": "#COM2 Brewery",
-    "Location": "Russia"
-  },
-  {
-    "BreweryName": "#Craftbeerkitchen",
-    "Location": "Hamelin, Niedersachsen Germany"
-  },
-  {
-    "BreweryName": "#fractured",
-    "Location": null
-  },
-  {
-    "BreweryName": "#FREEDOM Craft Brewery",
-    "Location": "Buchanan, NY United States"
   }
 ]
