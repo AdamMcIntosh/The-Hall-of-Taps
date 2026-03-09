@@ -1,5 +1,110 @@
 [
   {
+    "BID": 3401837,
+    "BeerName": "Framboos Noyaux (2018)",
+    "BeerStyle": "Lambic - Framboise",
+    "BreweryName": "Bokke",
+    "Origin": "Hasselt, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
+    "HallRating": 27.96,
+    "BAR": 14.08,
+    "StylePlus": "114",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.0855347118172128963495869971"
+  },
+  {
+    "BID": 6303536,
+    "BeerName": "Dream 012: BBA Infinite Boysenberry Lemon Cheesecake",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Zymarium Meadery",
+    "Origin": "Orlando, FL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6303536_b914b_sm.jpeg",
+    "HallRating": 27.96,
+    "BAR": 8.78,
+    "StylePlus": "118",
+    "RatingScore": 4.78,
+    "AdjustedRating": "2.0816715345661352221231805541"
+  },
+  {
+    "BID": 6419240,
+    "BeerName": "Structures X Boundary Bay – Imperial Scotch Ale (2025)",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Structures Brewing",
+    "Origin": "Bellingham, WA United States",
+    "BeerAbv": 16.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6419240_6d0ea_sm.jpeg",
+    "HallRating": 27.96,
+    "BAR": 8.78,
+    "StylePlus": "121",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.081645674015617744234084686"
+  },
+  {
+    "BID": 6504350,
+    "BeerName": "Placed Flowers",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400435_8c104_sm.jpeg",
+    "HallRating": 27.96,
+    "BAR": 14.10,
+    "StylePlus": "110",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0855979434036668647267437058"
+  },
+  {
+    "BID": 5004220,
+    "BeerName": "Tree of Knowledge",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Forager Brewery",
+    "Origin": "Rochester, MN United States",
+    "BeerAbv": 13.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5004220_86bd5_sm.jpeg",
+    "HallRating": 27.95,
+    "BAR": 14.05,
+    "StylePlus": "117",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.0854760901407174699100164939"
+  },
+  {
+    "BID": 3208001,
+    "BeerName": "The Man With the Axe",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3208001_18f7c_sm.jpeg",
+    "HallRating": 27.95,
+    "BAR": 14.05,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0854481239807936220329769886"
+  },
+  {
+    "BID": 5014131,
+    "BeerName": "A Thousand Summers Cuvée",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Sante Adairius Rustic Ales",
+    "Origin": "Capitola, CA United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
+    "HallRating": 27.94,
+    "BAR": 14.03,
+    "StylePlus": "123",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0854947622479921979503631897"
+  },
+  {
     "BID": 5229722,
     "BeerName": "BA Monster Jam: Bananas Foster",
     "BeerStyle": "Sour - Smoothie / Pastry",
@@ -12,7 +117,37 @@
     "BAR": 14.04,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0963969419158702385914642213"
+    "AdjustedRating": "2.0854394154489352177527658758"
+  },
+  {
+    "BID": 5608860,
+    "BeerName": "XYAUYÙ KENTUCKY - RISERVA 2018",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "BIRRIFICIO AGRICOLO BALADIN - Baladin Indipendent Italian Farm Brewery",
+    "Origin": "Piozzo, Piemonte Italy",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-128_c2ca5.jpeg",
+    "HallRating": 27.94,
+    "BAR": 14.03,
+    "StylePlus": "115",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.0854370074609963094714683507"
+  },
+  {
+    "BID": 6213003,
+    "BeerName": "Double Barrel 2x4 Benthic (2025)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Half Acre Beer Company",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 16.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6213003_bd8e9_sm.jpeg",
+    "HallRating": 27.94,
+    "BAR": 14.04,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.085600343588541097660736126"
   },
   {
     "BID": 3334154,
@@ -27,7 +162,7 @@
     "BAR": 8.82,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0928746831709402136690179924"
+    "AdjustedRating": "2.0816617089935228701131295986"
   },
   {
     "BID": 6408140,
@@ -42,7 +177,7 @@
     "BAR": 13.99,
     "StylePlus": "109",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0963157999835258232720211069"
+    "AdjustedRating": "2.0853523240343004540706474237"
   },
   {
     "BID": 5705352,
@@ -57,22 +192,7 @@
     "BAR": 13.97,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0963164778769014182945519717"
-  },
-  {
-    "BID": 4605043,
-    "BeerName": "4 YR Double Barrel Eagle Rare BCS",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 18.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4308693_8c86f_sm.jpeg",
-    "HallRating": 27.91,
-    "BAR": 13.94,
-    "StylePlus": "115",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.096466723579305765649727668"
+    "AdjustedRating": "2.0853529016540223360966991502"
   },
   {
     "BID": 3339606,
@@ -87,7 +207,22 @@
     "BAR": 8.85,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0928619528619528619528619529"
+    "AdjustedRating": "2.0816481471908493103890003843"
+  },
+  {
+    "BID": 4605043,
+    "BeerName": "4 YR Double Barrel Eagle Rare BCS",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 18.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4308693_8c86f_sm.jpeg",
+    "HallRating": 27.91,
+    "BAR": 13.94,
+    "StylePlus": "115",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.0855130652296147460820393382"
   },
   {
     "BID": 6300610,
@@ -102,7 +237,7 @@
     "BAR": 13.93,
     "StylePlus": "109",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0961880976807925893198139841"
+    "AdjustedRating": "2.0852155257877289103971688661"
   },
   {
     "BID": 6503357,
@@ -117,7 +252,7 @@
     "BAR": 8.89,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.092868069789531570264460331"
+    "AdjustedRating": "2.0816547079569261152106323641"
   },
   {
     "BID": 6101018,
@@ -132,22 +267,7 @@
     "BAR": 8.89,
     "StylePlus": "113",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0928770684397340398940158976"
-  },
-  {
-    "BID": 6504374,
-    "BeerName": "On the Nature of Gods",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "TEST",
-    "Origin": "Kings County, NY United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6504374_2025f_sm.jpeg",
-    "HallRating": 27.88,
-    "BAR": 13.87,
-    "StylePlus": "109",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0960796369382390605926713647"
+    "AdjustedRating": "2.0816643155148716990699350155"
   },
   {
     "BID": 6004995,
@@ -162,22 +282,22 @@
     "BAR": 13.88,
     "StylePlus": "114",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0962676705017760991719858112"
+    "AdjustedRating": "2.0853000659441107338730739096"
   },
   {
-    "BID": 6303467,
-    "BeerName": "PHARMAKA (2022)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5952438_cb4a6_sm.jpeg",
+    "BID": 6504374,
+    "BeerName": "On the Nature of Gods",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "TEST",
+    "Origin": "Kings County, NY United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6504374_2025f_sm.jpeg",
     "HallRating": 27.88,
-    "BAR": 13.86,
-    "StylePlus": "114",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.096229870366533446832305269"
+    "BAR": 13.87,
+    "StylePlus": "109",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0850992099547487194793704262"
   },
   {
     "BID": 6407211,
@@ -192,22 +312,22 @@
     "BAR": 13.86,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0960675851429512894698083582"
+    "AdjustedRating": "2.0850862852844609792237418585"
   },
   {
-    "BID": 3029277,
-    "BeerName": "Side Streets",
-    "BeerStyle": "Mead - Cyser",
-    "BreweryName": "Standard Meadery",
-    "Origin": "Villa Park, IL United States",
-    "BeerAbv": 11.00,
+    "BID": 6303467,
+    "BeerName": "PHARMAKA (2022)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 13.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3029277_4a3fc_sm.jpeg",
-    "HallRating": 27.87,
-    "BAR": 13.85,
-    "StylePlus": "118",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0961437533232315415550601739"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5952438_cb4a6_sm.jpeg",
+    "HallRating": 27.88,
+    "BAR": 13.86,
+    "StylePlus": "114",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0852595362518521677024592523"
   },
   {
     "BID": 6610999,
@@ -222,7 +342,22 @@
     "BAR": 8.93,
     "StylePlus": "116",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0928833352913680663698785935"
+    "AdjustedRating": "2.0816710363458284628482063271"
+  },
+  {
+    "BID": 3029277,
+    "BeerName": "Side Streets",
+    "BeerStyle": "Mead - Cyser",
+    "BreweryName": "Standard Meadery",
+    "Origin": "Villa Park, IL United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3029277_4a3fc_sm.jpeg",
+    "HallRating": 27.87,
+    "BAR": 13.85,
+    "StylePlus": "118",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0851675417073079731580826897"
   },
   {
     "BID": 6407542,
@@ -237,141 +372,6 @@
     "BAR": 8.96,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0929004504301833215851543011"
-  },
-  {
-    "BID": 6428583,
-    "BeerName": "GHLORPH CRYO (2024)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6428583_b4a4f_sm.jpeg",
-    "HallRating": 27.86,
-    "BAR": 8.96,
-    "StylePlus": "117",
-    "RatingScore": 4.75,
-    "AdjustedRating": "2.0929128485084811854162604796"
-  },
-  {
-    "BID": 6428251,
-    "BeerName": "Canopy Curriculum",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Tall Trees Brew Lab",
-    "Origin": "Hillsboro, OR United States",
-    "BeerAbv": 8.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-488812_a4c95.jpeg",
-    "HallRating": 27.86,
-    "BAR": 8.96,
-    "StylePlus": "113",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0928834030725237588173833056"
-  },
-  {
-    "BID": 4802470,
-    "BeerName": "Barrique Levenswater (2018)",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Bokke",
-    "Origin": "Hasselt, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
-    "HallRating": 27.85,
-    "BAR": 13.78,
-    "StylePlus": "112",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0960060314203046166827687614"
-  },
-  {
-    "BID": 3822145,
-    "BeerName": "8",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Sante Adairius Rustic Ales",
-    "Origin": "Capitola, CA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
-    "HallRating": 27.85,
-    "BAR": 13.79,
-    "StylePlus": "123",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.0960081283358380723661545682"
-  },
-  {
-    "BID": 3338642,
-    "BeerName": "Barrel-Aged Parlor Tricks",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 13.90,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
-    "HallRating": 27.84,
-    "BAR": 9.00,
-    "StylePlus": "115",
-    "RatingScore": 4.69,
-    "AdjustedRating": "2.0929100416684372211376708168"
-  },
-  {
-    "BID": 6506422,
-    "BeerName": "2x4 Benthic (2025)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Half Acre Beer Company",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 13.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1862_0abe3.jpeg",
-    "HallRating": 27.83,
-    "BAR": 13.73,
-    "StylePlus": "112",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0960232277134782652113562149"
-  },
-  {
-    "BID": 4962053,
-    "BeerName": "Partial BA Imperial Cake Talk",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4962053_5a50e_sm.jpeg",
-    "HallRating": 27.82,
-    "BAR": 13.70,
-    "StylePlus": "113",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0960337686525244102469360802"
-  },
-  {
-    "BID": 6418537,
-    "BeerName": "Leviathan (2025)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Bluewood Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 14.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-197372_484e9.jpeg",
-    "HallRating": 27.82,
-    "BAR": 9.03,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0928941369380899056151015837"
-  },
-  {
-    "BID": 6608673,
-    "BeerName": "XLII. What Breaks Us, Builds Us",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Threat Beer Company",
-    "Origin": "West Chester, PA United States",
-    "BeerAbv": 8.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6608673_a9301_sm.jpeg",
-    "HallRating": 27.82,
-    "BAR": 9.03,
-    "StylePlus": "118",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0928973364261718125099984003"
+    "AdjustedRating": "2.0816893395239480447389560377"
   }
 ]

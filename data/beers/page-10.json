@@ -1,5 +1,110 @@
 [
   {
+    "BID": 6215870,
+    "BeerName": "Very Hazy Guava",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 28.22,
+    "BAR": 14.74,
+    "StylePlus": "117",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0870277374957726751044515395"
+  },
+  {
+    "BID": 6418171,
+    "BeerName": "Mekong Maman 30th",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Perennial Artisan Ales",
+    "Origin": "St Louis, MO United States",
+    "BeerAbv": 13.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-PerennialArtisanAles_3533.jpeg",
+    "HallRating": 28.20,
+    "BAR": 8.41,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0815772575014745404904815409"
+  },
+  {
+    "BID": 5013203,
+    "BeerName": "Milwaukee One Elijah Craig Barrel Aged Imperial Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5013203_fdc07_sm.jpeg",
+    "HallRating": 28.20,
+    "BAR": 14.71,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0870467922842580115999765657"
+  },
+  {
+    "BID": 3348901,
+    "BeerName": "Tête De Pioche 177",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Le Prospecteur",
+    "Origin": "Val-d'Or, QC Canada",
+    "BeerAbv": 6.20,
+    "BeerIbu": 59.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3348901_42f1b_sm.jpeg",
+    "HallRating": 28.20,
+    "BAR": 8.41,
+    "StylePlus": "122",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0815785385502264520554160339"
+  },
+  {
+    "BID": 4300578,
+    "BeerName": "BA IStout 2.0",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
+    "HallRating": 28.20,
+    "BAR": 8.41,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0815772575014745404904815409"
+  },
+  {
+    "BID": 5206408,
+    "BeerName": "Double Barrel Beyond Forever",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Private Press Brewing",
+    "Origin": "Santa Cruz, CA United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5206408_fb130_sm.jpeg",
+    "HallRating": 28.19,
+    "BAR": 14.68,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0869347053724554470211020804"
+  },
+  {
+    "BID": 4404637,
+    "BeerName": "All",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Lua Brewing",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 16.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4404637_e3145_sm.jpeg",
+    "HallRating": 28.18,
+    "BAR": 14.65,
+    "StylePlus": "112",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.0870508427341823391868931392"
+  },
+  {
     "BID": 3811315,
     "BeerName": "Black Agnes (Batch 11)",
     "BeerStyle": "Mead - Melomel",
@@ -12,22 +117,22 @@
     "BAR": 14.59,
     "StylePlus": "116",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.0978731828285877518842199541"
+    "AdjustedRating": "2.0870207719975284573632262154"
   },
   {
-    "BID": 6401822,
-    "BeerName": "Meadowfoam Razzamatazz",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 12.50,
+    "BID": 5601746,
+    "BeerName": "10 Candles",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Side Project Brewing",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 17.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266944_bf1b0.jpeg",
-    "HallRating": 28.14,
-    "BAR": 8.49,
-    "StylePlus": "113",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.0928143982002249718785151856"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5601746_bb7ab_sm.jpeg",
+    "HallRating": 28.16,
+    "BAR": 14.59,
+    "StylePlus": "116",
+    "RatingScore": 4.70,
+    "AdjustedRating": "2.0870428507566436024864571182"
   },
   {
     "BID": 5409496,
@@ -42,7 +147,22 @@
     "BAR": 14.56,
     "StylePlus": "114",
     "RatingScore": 4.73,
-    "AdjustedRating": "2.0978771110007809050015343661"
+    "AdjustedRating": "2.0870246185898972465921984116"
+  },
+  {
+    "BID": 6401822,
+    "BeerName": "Meadowfoam Razzamatazz",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266944_bf1b0.jpeg",
+    "HallRating": 28.14,
+    "BAR": 8.49,
+    "StylePlus": "113",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.0815971052322555678618609803"
   },
   {
     "BID": 1808896,
@@ -57,22 +177,7 @@
     "BAR": 14.53,
     "StylePlus": "119",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0975496934933771116771912666"
-  },
-  {
-    "BID": 5820451,
-    "BeerName": "Five Year Anniversary Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Phase Three Brewing",
-    "Origin": "Lake Zurich, IL United States",
-    "BeerAbv": 19.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5820451_8d583_sm.jpeg",
-    "HallRating": 28.11,
-    "BAR": 14.47,
-    "StylePlus": "113",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.0974193765703635134224755042"
+    "AdjustedRating": "2.0866748008933232477120910263"
   },
   {
     "BID": 4279144,
@@ -87,7 +192,22 @@
     "BAR": 8.54,
     "StylePlus": "111",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0928168408527912691131880685"
+    "AdjustedRating": "2.0815997431117492580652048594"
+  },
+  {
+    "BID": 5820451,
+    "BeerName": "Five Year Anniversary Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Phase Three Brewing",
+    "Origin": "Lake Zurich, IL United States",
+    "BeerAbv": 19.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5820451_8d583_sm.jpeg",
+    "HallRating": 28.11,
+    "BAR": 14.47,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.0865349876540907977028884367"
   },
   {
     "BID": 6003832,
@@ -102,7 +222,7 @@
     "BAR": 14.46,
     "StylePlus": "110",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0973032586456410000499026898"
+    "AdjustedRating": "2.0864109405207431577545448492"
   },
   {
     "BID": 3010113,
@@ -117,7 +237,22 @@
     "BAR": 14.45,
     "StylePlus": "116",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0972399544882927121384514043"
+    "AdjustedRating": "2.0863432449037214220834742862"
+  },
+  {
+    "BID": 2422488,
+    "BeerName": "Strawberry Pancake",
+    "BeerStyle": "Mead - Acerglyn / Maple Wine",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2422488_ba7d1_sm.jpeg",
+    "HallRating": 28.09,
+    "BAR": 14.43,
+    "StylePlus": "111",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.0865569049153865209782293101"
   },
   {
     "BID": 6224528,
@@ -132,7 +267,7 @@
     "BAR": 14.43,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0972802355465728472690071612"
+    "AdjustedRating": "2.0863860723332844984883395709"
   },
   {
     "BID": 6500935,
@@ -147,7 +282,7 @@
     "BAR": 8.58,
     "StylePlus": "109",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0928178336816213892194014778"
+    "AdjustedRating": "2.0816008330597789680728695453"
   },
   {
     "BID": 6008416,
@@ -162,22 +297,7 @@
     "BAR": 14.40,
     "StylePlus": "112",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0972941411318494859766443757"
-  },
-  {
-    "BID": 4200156,
-    "BeerName": "Pure Joy",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 11.20,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4200156_51643_sm.jpeg",
-    "HallRating": 28.06,
-    "BAR": 14.36,
-    "StylePlus": "110",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0970881732772710826086414054"
+    "AdjustedRating": "2.0864006269096042940291152222"
   },
   {
     "BID": 6224244,
@@ -192,7 +312,7 @@
     "BAR": 14.35,
     "StylePlus": "111",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.097119061937760299046017253"
+    "AdjustedRating": "2.0862131708294928420345990527"
   },
   {
     "BID": 2610183,
@@ -207,7 +327,22 @@
     "BAR": 14.36,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0970198579648954699485459618"
+    "AdjustedRating": "2.0861074115921798871043791673"
+  },
+  {
+    "BID": 4200156,
+    "BeerName": "Pure Joy",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 11.20,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4200156_51643_sm.jpeg",
+    "HallRating": 28.06,
+    "BAR": 14.36,
+    "StylePlus": "110",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0861803120621220597245531314"
   },
   {
     "BID": 4939829,
@@ -222,37 +357,7 @@
     "BAR": 8.62,
     "StylePlus": "118",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0928265754787490657487882856"
-  },
-  {
-    "BID": 5950080,
-    "BeerName": "Double Barrel Coconut The Black Wizard",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Little Cottage Brewery",
-    "Origin": "Avondale Estates, GA United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-littlecottagebrewery_75836.jpeg",
-    "HallRating": 28.05,
-    "BAR": 8.62,
-    "StylePlus": "112",
-    "RatingScore": 4.66,
-    "AdjustedRating": "2.0928411485478174141926194779"
-  },
-  {
-    "BID": 6616328,
-    "BeerName": "Can Time Be Stopped?",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 7.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
-    "HallRating": 28.05,
-    "BAR": 8.62,
-    "StylePlus": "112",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0928226010053667889004706876"
+    "AdjustedRating": "2.08161019633144559084916386"
   },
   {
     "BID": 6402689,
@@ -267,111 +372,6 @@
     "BAR": 8.62,
     "StylePlus": "114",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0928398237233566552431802786"
-  },
-  {
-    "BID": 6303290,
-    "BeerName": "Sixth Chapter (Bourbon Barrel Aged)",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Croma",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-315257_1f13d.jpeg",
-    "HallRating": 28.05,
-    "BAR": 8.62,
-    "StylePlus": "122",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0928212761809060299510314883"
-  },
-  {
-    "BID": 3345925,
-    "BeerName": "Tête De Pioche 176",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Le Prospecteur",
-    "Origin": "Val-d'Or, QC Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 57.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
-    "HallRating": 28.03,
-    "BAR": 8.66,
-    "StylePlus": "123",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.092838116854224679668244787"
-  },
-  {
-    "BID": 6214956,
-    "BeerName": "BHS 2025 Release #2: Ossuary [Salted Fudge + Dark Chocolate Brownie] (Ghost 1671)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Adroit Theory",
-    "Origin": "Purcellville, VA United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6214956_cb978_sm.jpeg",
-    "HallRating": 28.03,
-    "BAR": 8.66,
-    "StylePlus": "111",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0928421663075484809550710654"
-  },
-  {
-    "BID": 6600461,
-    "BeerName": "Dark Superstition",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 8.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
-    "HallRating": 28.03,
-    "BAR": 8.66,
-    "StylePlus": "113",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0928340674009008783814185085"
-  },
-  {
-    "BID": 4003827,
-    "BeerName": "Presto",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2092386_391cc_sm.jpeg",
-    "HallRating": 28.03,
-    "BAR": 14.29,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.096844679576761828708325015"
-  },
-  {
-    "BID": 3349056,
-    "BeerName": "Hydra | Boysenberry + Prickly Pear + Pineapple",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3349056_24ad4_sm.jpeg",
-    "HallRating": 28.02,
-    "BAR": 14.25,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0968430877347095640715932799"
-  },
-  {
-    "BID": 4001362,
-    "BeerName": "Rye Black Gold (2020)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4001362_71b1e_sm.jpeg",
-    "HallRating": 28.02,
-    "BAR": 14.26,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0968675757152268961248976821"
+    "AdjustedRating": "2.0816243410559970963282430117"
   }
 ]
