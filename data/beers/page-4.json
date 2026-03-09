@@ -1,5 +1,110 @@
 [
   {
+    "BID": 1400059,
+    "BeerName": "Red Agnes",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1400059_f3b19_sm.jpeg",
+    "HallRating": 30.45,
+    "BAR": 18.80,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1189191073235874774251382094"
+  },
+  {
+    "BID": 4833672,
+    "BeerName": "Two Roads, Different Paths",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4833672_95a07_sm.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "110",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0813922499966636862263622169"
+  },
+  {
+    "BID": 4222823,
+    "BeerName": "Banana PB BassLine",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0813927838068674682716560127"
+  },
+  {
+    "BID": 3803236,
+    "BeerName": "Orange Against the Machine",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "FireHop BrewWorks",
+    "Origin": "Bloomington, IL United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3803236_13aa9_sm.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "112",
+    "RatingScore": 4.66,
+    "AdjustedRating": "2.0813986557191090707698877664"
+  },
+  {
+    "BID": 4961446,
+    "BeerName": "Mega Fresh - Maria",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Juicy Brewing Co",
+    "Origin": "Herndon, VA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961446_9485b_sm.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "114",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.0813954528578863784981249917"
+  },
+  {
+    "BID": 6607863,
+    "BeerName": "Elk Reserve Six (2026)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Elkton Brewing Company",
+    "Origin": "Elkton, VA United States",
+    "BeerAbv": 15.10,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6607863_f7ae9_sm.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.0813959866680901605434187875"
+  },
+  {
+    "BID": 6609700,
+    "BeerName": "A Finite View of the Infinite (2nd Edition, 2026)",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "TEST",
+    "Origin": "Kings County, NY United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-462758_caf1b.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "117",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0813922499966636862263622169"
+  },
+  {
     "BID": 6605219,
     "BeerName": "Lunar VIII",
     "BeerStyle": "Stout - Imperial / Double",
@@ -12,7 +117,37 @@
     "BAR": 6.51,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0926253687315634218289085546"
+    "AdjustedRating": "2.0813943852374788144075374001"
+  },
+  {
+    "BID": 6601518,
+    "BeerName": "Hand Pulled Heady Topper",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "The Alchemist",
+    "Origin": "Stowe, VT United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 100.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1244_f17ed.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "122",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.0814013247701279809963567454"
+  },
+  {
+    "BID": 6415154,
+    "BeerName": "Amelia (Batch #9 - 8th Birthday)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0813927838068674682716560127"
   },
   {
     "BID": 6600111,
@@ -27,37 +162,7 @@
     "BAR": 6.51,
     "StylePlus": "112",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0926278686065696715164241788"
-  },
-  {
-    "BID": 4961446,
-    "BeerName": "Mega Fresh - Maria",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Juicy Brewing Co",
-    "Origin": "Herndon, VA United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961446_9485b_sm.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
-    "StylePlus": "113",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.0926263686815659217039148043"
-  },
-  {
-    "BID": 3803236,
-    "BeerName": "Orange Against the Machine",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "FireHop BrewWorks",
-    "Origin": "Bloomington, IL United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3803236_13aa9_sm.jpeg",
-    "HallRating": 30.41,
-    "BAR": 6.51,
-    "StylePlus": "113",
-    "RatingScore": 4.66,
-    "AdjustedRating": "2.0926293685315734213289335533"
+    "AdjustedRating": "2.081397054288497724634006379"
   },
   {
     "BID": 1809242,
@@ -72,7 +177,7 @@
     "BAR": 18.73,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1262516951451044209384323298"
+    "AdjustedRating": "2.1174270540220664623962757913"
   },
   {
     "BID": 1044367,
@@ -87,7 +192,7 @@
     "BAR": 18.67,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1249597825470313575271137904"
+    "AdjustedRating": "2.116045495637599785300447817"
   },
   {
     "BID": 1809221,
@@ -102,7 +207,7 @@
     "BAR": 18.67,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1255499644802273265451101113"
+    "AdjustedRating": "2.1166747462722304520685272844"
   },
   {
     "BID": 2503502,
@@ -117,7 +222,7 @@
     "BAR": 18.67,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1255620236303988554796378974"
+    "AdjustedRating": "2.1166876566418018444698793596"
   },
   {
     "BID": 3000429,
@@ -132,7 +237,7 @@
     "BAR": 18.60,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1238078411244472520530638029"
+    "AdjustedRating": "2.1148126113010768821747176179"
   },
   {
     "BID": 1809238,
@@ -147,7 +252,7 @@
     "BAR": 18.55,
     "StylePlus": "114",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.124434305263131912750932396"
+    "AdjustedRating": "2.115478317530491015945906094"
   },
   {
     "BID": 6506313,
@@ -162,22 +267,7 @@
     "BAR": 6.61,
     "StylePlus": "124",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0926315868416908112324102985"
-  },
-  {
-    "BID": 6600615,
-    "BeerName": "Solaris",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Brasserie du Bas-Canada",
-    "Origin": "Gatineau, QC Canada",
-    "BeerAbv": 11.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600615_a8846_sm.jpeg",
-    "HallRating": 30.23,
-    "BAR": 6.61,
-    "StylePlus": "113",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.0926331617590076520982648411"
+    "AdjustedRating": "2.0814010541255411486497306935"
   },
   {
     "BID": 6423787,
@@ -192,7 +282,22 @@
     "BAR": 6.61,
     "StylePlus": "114",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0926336867314465990535496886"
+    "AdjustedRating": "2.0814032961224130292046783001"
+  },
+  {
+    "BID": 6600615,
+    "BeerName": "Solaris",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 11.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6600615_a8846_sm.jpeg",
+    "HallRating": 30.23,
+    "BAR": 6.61,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.0814027356231950590659413985"
   },
   {
     "BID": 3904435,
@@ -207,22 +312,7 @@
     "BAR": 18.42,
     "StylePlus": "112",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1218803418803418803418803419"
-  },
-  {
-    "BID": 5204071,
-    "BeerName": "Double Barrel V.S.O.J.",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Revolution Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 16.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5193715_e8ae7_sm.jpeg",
-    "HallRating": 30.19,
-    "BAR": 18.40,
-    "StylePlus": "119",
-    "RatingScore": 4.73,
-    "AdjustedRating": "2.1237241842724164509180023321"
+    "AdjustedRating": "2.1127461751281409352641218558"
   },
   {
     "BID": 4631365,
@@ -237,7 +327,22 @@
     "BAR": 18.40,
     "StylePlus": "109",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1211079819165493218705995701"
+    "AdjustedRating": "2.1119214815317511563245351641"
+  },
+  {
+    "BID": 5204071,
+    "BeerName": "Double Barrel V.S.O.J.",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Revolution Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 16.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5193715_e8ae7_sm.jpeg",
+    "HallRating": 30.19,
+    "BAR": 18.40,
+    "StylePlus": "119",
+    "RatingScore": 4.73,
+    "AdjustedRating": "2.1147125539812933372338490975"
   },
   {
     "BID": 1012039,
@@ -252,7 +357,7 @@
     "BAR": 18.32,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1205550159532795049169712742"
+    "AdjustedRating": "2.1113274060944355383057711779"
   },
   {
     "BID": 2612175,
@@ -267,111 +372,6 @@
     "BAR": 18.27,
     "StylePlus": "115",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.1210954129120777246263952238"
-  },
-  {
-    "BID": 5805511,
-    "BeerName": "Butter Pecan Maple Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3579749_6aee8_sm.jpeg",
-    "HallRating": 30.08,
-    "BAR": 18.23,
-    "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1190198260215915216434481156"
-  },
-  {
-    "BID": 6613958,
-    "BeerName": "In All Seriousness",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "112",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0926339551324677142757148357"
-  },
-  {
-    "BID": 6407256,
-    "BeerName": "Rye Barrel-Aged Vietnamese Speedway Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "AleSmith Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2044570_1c4b8_sm.jpeg",
-    "HallRating": 30.07,
-    "BAR": 18.21,
-    "StylePlus": "113",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1189868834945694106475161731"
-  },
-  {
-    "BID": 6605126,
-    "BeerName": "Side-Poured Guinness",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Queue Beer",
-    "Origin": "Kings County, NY United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605126_24654_sm.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "132",
-    "RatingScore": 4.82,
-    "AdjustedRating": "2.0926510041947692876891770953"
-  },
-  {
-    "BID": 5805024,
-    "BeerName": "Eisbock",
-    "BeerStyle": "Bock - Eisbock",
-    "BreweryName": "Sinnister Brew",
-    "Origin": "Dalkeith, Midlothian Scotland",
-    "BeerAbv": 38.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-328626_f10b2.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "120",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0926405547694876781777002265"
-  },
-  {
-    "BID": 2412357,
-    "BeerName": "Helligen Herman",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Brouwerij Herman",
-    "Origin": "Enschede, Overijssel Netherlands",
-    "BeerAbv": 5.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2412357_5eaad_sm.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "131",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0926372549509776962267075311"
-  },
-  {
-    "BID": 6608418,
-    "BeerName": "Dead Air",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "109",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.0926350550719710415927124008"
+    "AdjustedRating": "2.1119011666754582619016220493"
   }
 ]

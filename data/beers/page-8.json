@@ -1,5 +1,95 @@
 [
   {
+    "BID": 6405419,
+    "BeerName": "Eternity",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Brasseria Della Fonte",
+    "Origin": "Pienza, Toscana Italy",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405419_c7b71_sm.jpeg",
+    "HallRating": 28.85,
+    "BAR": 7.66,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0814813943268771401653148428"
+  },
+  {
+    "BID": 4030434,
+    "BeerName": "Bramble+ (Batch 1)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4030434_60fa7_sm.jpeg",
+    "HallRating": 28.80,
+    "BAR": 15.97,
+    "StylePlus": "114",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0918017669660585794522696282"
+  },
+  {
+    "BID": 3750080,
+    "BeerName": "Nevergonnagetit³ Xtreme",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3750080_a2f87_sm.jpeg",
+    "HallRating": 28.78,
+    "BAR": 15.94,
+    "StylePlus": "120",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0914558153280558021829626834"
+  },
+  {
+    "BID": 6500531,
+    "BeerName": "Indulgence 28",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Moersleutel Craft Brewery",
+    "Origin": "Alkmaar, Noord-Holland Netherlands",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6497871_70384_sm.jpeg",
+    "HallRating": 28.77,
+    "BAR": 15.91,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.0913777018380085493715573893"
+  },
+  {
+    "BID": 5401625,
+    "BeerName": "Suffer",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Anchorage Brewing Company",
+    "Origin": "Anchorage, AK United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5401625_84037_sm.jpeg",
+    "HallRating": 28.77,
+    "BAR": 15.92,
+    "StylePlus": "118",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.0916951172598777690052183437"
+  },
+  {
+    "BID": 6405420,
+    "BeerName": "Destiny",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Brasseria Della Fonte",
+    "Origin": "Pienza, Toscana Italy",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405420_385dd_sm.jpeg",
+    "HallRating": 28.72,
+    "BAR": 7.78,
+    "StylePlus": "112",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0814972399054128712157808909"
+  },
+  {
     "BID": 6405422,
     "BeerName": "Infinity",
     "BeerStyle": "Barleywine - English",
@@ -12,7 +102,37 @@
     "BAR": 7.78,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0927185553300202981731644152"
+    "AdjustedRating": "2.0814943574534070315815320232"
+  },
+  {
+    "BID": 6214111,
+    "BeerName": "Golden Delicious",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Greenhouse Aleworks",
+    "Origin": "Bentonville, AR United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6214111_c2c74_sm.jpeg",
+    "HallRating": 28.72,
+    "BAR": 7.78,
+    "StylePlus": "115",
+    "RatingScore": 4.66,
+    "AdjustedRating": "2.0815087697134362297527763618"
+  },
+  {
+    "BID": 2813298,
+    "BeerName": "Doubleganger Guava",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 28.72,
+    "BAR": 15.83,
+    "StylePlus": "117",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0907537637892206780481190293"
   },
   {
     "BID": 4903534,
@@ -27,7 +147,7 @@
     "BAR": 15.78,
     "StylePlus": "110",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1012908850858181999352315472"
+    "AdjustedRating": "2.090686239034767001263045935"
   },
   {
     "BID": 5400881,
@@ -42,7 +162,7 @@
     "BAR": 15.74,
     "StylePlus": "122",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.1014464230550766808502157427"
+    "AdjustedRating": "2.0908515309042172695579565429"
   },
   {
     "BID": 6617390,
@@ -57,7 +177,7 @@
     "BAR": 7.84,
     "StylePlus": "110",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0927282976324689966178128523"
+    "AdjustedRating": "2.0815047889810559354332473938"
   },
   {
     "BID": 4009702,
@@ -72,7 +192,7 @@
     "BAR": 7.84,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0927282976324689966178128523"
+    "AdjustedRating": "2.0815047889810559354332473938"
   },
   {
     "BID": 2001167,
@@ -87,7 +207,7 @@
     "BAR": 15.70,
     "StylePlus": "115",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.1013907553708589637225664522"
+    "AdjustedRating": "2.090791405189562368359466417"
   },
   {
     "BID": 4803669,
@@ -102,7 +222,7 @@
     "BAR": 15.65,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1007119934620981083936295322"
+    "AdjustedRating": "2.0900661104875836775293419894"
   },
   {
     "BID": 6200404,
@@ -117,22 +237,7 @@
     "BAR": 7.90,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0927363400476954689304516071"
-  },
-  {
-    "BID": 6412084,
-    "BeerName": "Electric Roads",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Private Press Brewing",
-    "Origin": "Santa Cruz, CA United States",
-    "BeerAbv": 13.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4185257_b881e_sm.jpeg",
-    "HallRating": 28.59,
-    "BAR": 15.54,
-    "StylePlus": "114",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1002743685909017281981634001"
+    "AdjustedRating": "2.0815134055855216276158779555"
   },
   {
     "BID": 5819320,
@@ -147,7 +252,22 @@
     "BAR": 15.56,
     "StylePlus": "113",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.1009025824023842927736093079"
+    "AdjustedRating": "2.0902678828556836499635578207"
+  },
+  {
+    "BID": 6412084,
+    "BeerName": "Electric Roads",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Private Press Brewing",
+    "Origin": "Santa Cruz, CA United States",
+    "BeerAbv": 13.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4185257_b881e_sm.jpeg",
+    "HallRating": 28.59,
+    "BAR": 15.54,
+    "StylePlus": "114",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0895970721809911419679195595"
   },
   {
     "BID": 5011817,
@@ -162,7 +282,7 @@
     "BAR": 15.53,
     "StylePlus": "113",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1003093888231262849666687434"
+    "AdjustedRating": "2.0896341704218982762289848904"
   },
   {
     "BID": 6032429,
@@ -177,7 +297,7 @@
     "BAR": 15.52,
     "StylePlus": "112",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1003166438641217531294312323"
+    "AdjustedRating": "2.0896418012135689888166505283"
   },
   {
     "BID": 3346835,
@@ -192,7 +312,7 @@
     "BAR": 7.96,
     "StylePlus": "119",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.092744482412964735938246021"
+    "AdjustedRating": "2.0815221289006202560023913484"
   },
   {
     "BID": 1673436,
@@ -207,7 +327,7 @@
     "BAR": 15.43,
     "StylePlus": "123",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0999310100743236843810596733"
+    "AdjustedRating": "2.0892286480579360032777900458"
   },
   {
     "BID": 4028671,
@@ -222,7 +342,7 @@
     "BAR": 15.39,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.099910268074128540983810865"
+    "AdjustedRating": "2.0892058518119412515964240102"
   },
   {
     "BID": 3415739,
@@ -237,22 +357,7 @@
     "BAR": 15.34,
     "StylePlus": "123",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0996682204551686317521250343"
-  },
-  {
-    "BID": 6010670,
-    "BeerName": "The Statement Reserve (Batch 7)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
-    "HallRating": 28.47,
-    "BAR": 8.06,
-    "StylePlus": "115",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.0927631167805299956754432671"
+    "AdjustedRating": "2.0889467619573460346180966699"
   },
   {
     "BID": 3347932,
@@ -267,111 +372,6 @@
     "BAR": 8.06,
     "StylePlus": "127",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.0927661914653747990830939829"
-  },
-  {
-    "BID": 5811233,
-    "BeerName": "XV Barrel-Aged Stout (15th Anniversary)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 11.69,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5811233_c1931_sm.jpeg",
-    "HallRating": 28.44,
-    "BAR": 15.24,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0994341814628114420195553428"
-  },
-  {
-    "BID": 4826297,
-    "BeerName": "A Deal With Evil",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Anchorage Brewing Company",
-    "Origin": "Anchorage, AK United States",
-    "BeerAbv": 17.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4826297_1ab00_sm.jpeg",
-    "HallRating": 28.44,
-    "BAR": 15.24,
-    "StylePlus": "117",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0994620535602989643945173241"
-  },
-  {
-    "BID": 2626302,
-    "BeerName": "Pjassel (2017)",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Bokke",
-    "Origin": "Hasselt, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
-    "HallRating": 28.42,
-    "BAR": 15.19,
-    "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0990919222416969799720261588"
-  },
-  {
-    "BID": 6505927,
-    "BeerName": "Évasif #2",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Brasserie du Bas-Canada",
-    "Origin": "Gatineau, QC Canada",
-    "BeerAbv": 11.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505927_16139_sm.jpeg",
-    "HallRating": 28.42,
-    "BAR": 8.12,
-    "StylePlus": "116",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0927674094220106888776678449"
-  },
-  {
-    "BID": 6220323,
-    "BeerName": "Bubble Wrap (Blend #2)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6220323_eeed0_sm.jpeg",
-    "HallRating": 28.41,
-    "BAR": 15.16,
-    "StylePlus": "112",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0991330364667221837148883758"
-  },
-  {
-    "BID": 5224213,
-    "BeerName": "Clover (20201223)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5224213_695fd_sm.jpeg",
-    "HallRating": 28.41,
-    "BAR": 15.17,
-    "StylePlus": "127",
-    "RatingScore": 4.71,
-    "AdjustedRating": "2.0995622341566063797427957375"
-  },
-  {
-    "BID": 3702621,
-    "BeerName": "Fade",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3702621_d3155_sm.jpeg",
-    "HallRating": 28.39,
-    "BAR": 15.14,
-    "StylePlus": "117",
-    "RatingScore": 4.74,
-    "AdjustedRating": "2.0995312480520613865582885567"
+    "AdjustedRating": "2.0815453669072236486017625425"
   }
 ]

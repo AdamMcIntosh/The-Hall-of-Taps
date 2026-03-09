@@ -12,7 +12,7 @@
     "BAR": 27.30,
     "StylePlus": "117",
     "RatingScore": 4.52,
-    "AdjustedRating": "3.110427386657104989250371265"
+    "AdjustedRating": "3.1429794867642493059595542467"
   },
   {
     "BID": 6205786,
@@ -27,7 +27,7 @@
     "BAR": 24.34,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.4761836799324395650797002006"
+    "AdjustedRating": "2.4884908985043330842414035401"
   },
   {
     "BID": 6019151,
@@ -42,7 +42,7 @@
     "BAR": 24.29,
     "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.4754419633211748408169490233"
+    "AdjustedRating": "2.4877498412845864400785238941"
   },
   {
     "BID": 4980636,
@@ -57,7 +57,7 @@
     "BAR": 23.81,
     "StylePlus": "118",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.4026530558747329468252893349"
+    "AdjustedRating": "2.4111006392989207227249496437"
   },
   {
     "BID": 2402231,
@@ -72,7 +72,7 @@
     "BAR": 23.81,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.4067525773195876288659793814"
+    "AdjustedRating": "2.4154392114061759367376903245"
   },
   {
     "BID": 1410960,
@@ -87,7 +87,37 @@
     "BAR": 23.79,
     "StylePlus": "113",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.3997219730941704035874439462"
+    "AdjustedRating": "2.4080096512118018967334035827"
+  },
+  {
+    "BID": 3347942,
+    "BeerName": "Froojee Raz Passion",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Imprint Beer Co.",
+    "Origin": "Hatfield, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3347942_8650d_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "120",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.0813290289599765117241195233"
+  },
+  {
+    "BID": 5021590,
+    "BeerName": "Rum Barrel Aged ¡Viva! Agua Fresca (Hibiscus & Lime)",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Tall City Brewing Co",
+    "Origin": "Midland, TX United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5021590_7aa63_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "143",
+    "RatingScore": 4.88,
+    "AdjustedRating": "2.0813357017656243744244705129"
   },
   {
     "BID": 6001317,
@@ -102,22 +132,7 @@
     "BAR": 5.00,
     "StylePlus": "123",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0925654358641033974150646234"
-  },
-  {
-    "BID": 6424233,
-    "BeerName": "Timberline Tmave",
-    "BeerStyle": "Lager - Tmavé (Czech Dark)",
-    "BreweryName": "Big Spring Brewing",
-    "Origin": "Lewistown, MT United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-399367_96f51.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "123",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0925631859203519912002199945"
+    "AdjustedRating": "2.0813300966088801697561756816"
   },
   {
     "BID": 6401408,
@@ -132,52 +147,22 @@
     "BAR": 5.00,
     "StylePlus": "122",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0925624359391015224619384515"
+    "AdjustedRating": "2.0813268936621691956600072066"
   },
   {
-    "BID": 6606911,
-    "BeerName": "Carnelian",
-    "BeerStyle": "Rye Beer",
-    "BreweryName": "Ghost Hawk Brewing Company",
-    "Origin": "Clifton, NJ United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6606911_681ec_sm.jpeg",
+    "BID": 6424233,
+    "BeerName": "Timberline Tmave",
+    "BeerStyle": "Lager - Tmavé (Czech Dark)",
+    "BreweryName": "Big Spring Brewing",
+    "Origin": "Lewistown, MT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-399367_96f51.jpeg",
     "HallRating": 34.01,
     "BAR": 5.00,
-    "StylePlus": "126",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.0925619359516012099697507562"
-  },
-  {
-    "BID": 5021590,
-    "BeerName": "Rum Barrel Aged ¡Viva! Agua Fresca (Hibiscus & Lime)",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Tall City Brewing Co",
-    "Origin": "Midland, TX United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5021590_7aa63_sm.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "144",
-    "RatingScore": 4.88,
-    "AdjustedRating": "2.0925706857328566785830354241"
-  },
-  {
-    "BID": 6610542,
-    "BeerName": "Oscillation: Voidstalker",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Neuronova Brewing",
-    "Origin": "Lombard, IL United States",
-    "BeerAbv": 15.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6610542_475cd_sm.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "116",
-    "RatingScore": 4.83,
-    "AdjustedRating": "2.0925694357641058973525661858"
+    "StylePlus": "123",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.0813276943988469391840493254"
   },
   {
     "BID": 6600522,
@@ -192,52 +177,7 @@
     "BAR": 5.00,
     "StylePlus": "119",
     "RatingScore": 4.83,
-    "AdjustedRating": "2.0925694357641058973525661858"
-  },
-  {
-    "BID": 6606924,
-    "BeerName": "DBA Re-Spec'd: King of Cakes",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Memphis Filling Station (MFS Brewing)",
-    "Origin": "Memphis, TN United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6606924_bc6ac_sm.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "114",
-    "RatingScore": 4.71,
-    "AdjustedRating": "2.092566435839104022399440014"
-  },
-  {
-    "BID": 6616186,
-    "BeerName": "Bean Me Up",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Bellbrook Brewing Company",
-    "Origin": "Bellbrook, OH United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6616186_9ecd5_sm.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "118",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0925624359391015224619384515"
-  },
-  {
-    "BID": 6608060,
-    "BeerName": "Raven’s Call",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "Trágmar Ale Works",
-    "Origin": "Bristol, RI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-571805_0772a.jpeg",
-    "HallRating": 34.01,
-    "BAR": 5.00,
-    "StylePlus": "121",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0925644358891027724306892328"
+    "AdjustedRating": "2.081334367204494801884400315"
   },
   {
     "BID": 6600624,
@@ -252,7 +192,52 @@
     "BAR": 5.00,
     "StylePlus": "115",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0925644358891027724306892328"
+    "AdjustedRating": "2.0813290289599765117241195233"
+  },
+  {
+    "BID": 6606911,
+    "BeerName": "Carnelian",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Ghost Hawk Brewing Company",
+    "Origin": "Clifton, NJ United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6606911_681ec_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "126",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.0813263598377173666439791275"
+  },
+  {
+    "BID": 6606924,
+    "BeerName": "DBA Re-Spec'd: King of Cakes",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Memphis Filling Station (MFS Brewing)",
+    "Origin": "Memphis, TN United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6606924_bc6ac_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "114",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.08133116425778382778823184"
+  },
+  {
+    "BID": 6608060,
+    "BeerName": "Raven’s Call",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Trágmar Ale Works",
+    "Origin": "Bristol, RI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-571805_0772a.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "121",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.0813290289599765117241195233"
   },
   {
     "BID": 6608665,
@@ -267,7 +252,7 @@
     "BAR": 5.00,
     "StylePlus": "116",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.0925659358516037099072523187"
+    "AdjustedRating": "2.0813306304333319987722037608"
   },
   {
     "BID": 6608705,
@@ -282,7 +267,7 @@
     "BAR": 5.00,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0925631859203519912002199945"
+    "AdjustedRating": "2.0813276943988469391840493254"
   },
   {
     "BID": 6609932,
@@ -297,7 +282,37 @@
     "BAR": 5.00,
     "StylePlus": "117",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0925619359516012099697507562"
+    "AdjustedRating": "2.0813263598377173666439791275"
+  },
+  {
+    "BID": 6610542,
+    "BeerName": "Oscillation: Voidstalker",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Neuronova Brewing",
+    "Origin": "Lombard, IL United States",
+    "BeerAbv": 15.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6610542_475cd_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "116",
+    "RatingScore": 4.83,
+    "AdjustedRating": "2.081334367204494801884400315"
+  },
+  {
+    "BID": 6616186,
+    "BeerName": "Bean Me Up",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Bellbrook Brewing Company",
+    "Origin": "Bellbrook, OH United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6616186_9ecd5_sm.jpeg",
+    "HallRating": 34.01,
+    "BAR": 5.00,
+    "StylePlus": "118",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0813268936621691956600072066"
   },
   {
     "BID": 2637310,
@@ -312,7 +327,7 @@
     "BAR": 23.55,
     "StylePlus": "114",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.3763466950298034523255556294"
+    "AdjustedRating": "2.3833569144235622806296735417"
   },
   {
     "BID": 5013057,
@@ -327,7 +342,7 @@
     "BAR": 23.25,
     "StylePlus": "116",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.3518915412616720516054762242"
+    "AdjustedRating": "2.3575324921674566766172950186"
   },
   {
     "BID": 28331,
@@ -342,36 +357,21 @@
     "BAR": 23.14,
     "StylePlus": "117",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.3372436967953483852451792377"
+    "AdjustedRating": "2.3420247180804395456877250346"
   },
   {
-    "BID": 6021543,
-    "BeerName": "Sweet Sixteen (2021 Vintage)",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Haykin Family Cider",
-    "Origin": "Aurora, CO United States",
-    "BeerAbv": 5.80,
+    "BID": 1669755,
+    "BeerName": "Broadacres with Mexican Candy",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Phantom Carriage Brewery",
+    "Origin": "Carson, CA United States",
+    "BeerAbv": 3.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-380998_e1ceb.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-48094_db820.jpeg",
     "HallRating": 33.37,
     "BAR": 5.21,
-    "StylePlus": "127",
+    "StylePlus": "122",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0925685793640674881440760379"
-  },
-  {
-    "BID": 4980950,
-    "BeerName": "Ta-Ta And Farewell",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brood Meadery",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980950_8c32f_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "115",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.0925721542657576916634792543"
+    "AdjustedRating": "2.0813334828349205671335838743"
   }
 ]

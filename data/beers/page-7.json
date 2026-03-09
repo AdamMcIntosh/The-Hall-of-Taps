@@ -1,5 +1,110 @@
 [
   {
+    "BID": 3346915,
+    "BeerName": "Millerzzzzz",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Forager Brewery",
+    "Origin": "Rochester, MN United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3346915_664b6_sm.jpeg",
+    "HallRating": 29.18,
+    "BAR": 16.69,
+    "StylePlus": "112",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0955878684289440931153353166"
+  },
+  {
+    "BID": 2504340,
+    "BeerName": "I Let My Tape Rock",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "J. Wakefield Brewing",
+    "Origin": "Miami, FL United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2504340_bee93_sm.jpeg",
+    "HallRating": 29.17,
+    "BAR": 16.67,
+    "StylePlus": "114",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.0958781371448437657574454759"
+  },
+  {
+    "BID": 1004753,
+    "BeerName": "Brew 1000 (2014)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Fremont Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-684620_f55a3_sm.jpeg",
+    "HallRating": 29.16,
+    "BAR": 16.66,
+    "StylePlus": "114",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0951378817985663063412148444"
+  },
+  {
+    "BID": 4304995,
+    "BeerName": "TDH More Citra Than All Citra Imperial IPA",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Other Half Brewing Co.",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4303315_215d2_sm.jpeg",
+    "HallRating": 29.16,
+    "BAR": 16.66,
+    "StylePlus": "113",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0954047355856632917103464749"
+  },
+  {
+    "BID": 5302997,
+    "BeerName": "BA Walk It Off",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
+    "HallRating": 29.15,
+    "BAR": 7.39,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0814586704343764595983185427"
+  },
+  {
+    "BID": 3334736,
+    "BeerName": "Henna: Double Rainbow (2017)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "More Brewing Company",
+    "Origin": "Huntley, IL United States",
+    "BeerAbv": 11.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2255259_ac952_sm.jpeg",
+    "HallRating": 29.12,
+    "BAR": 16.59,
+    "StylePlus": "113",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.0951476880697171919877256969"
+  },
+  {
+    "BID": 5800667,
+    "BeerName": "Indulgence 18",
+    "BeerStyle": "Stout - Belgian",
+    "BreweryName": "Moersleutel Craft Brewery",
+    "Origin": "Alkmaar, Noord-Holland Netherlands",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5800667_b17e8_sm.jpeg",
+    "HallRating": 29.11,
+    "BAR": 16.56,
+    "StylePlus": "120",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0944783640478371095979505966"
+  },
+  {
     "BID": 42945,
     "BeerName": "Art",
     "BeerStyle": "Farmhouse Ale - Saison",
@@ -12,22 +117,7 @@
     "BAR": 16.51,
     "StylePlus": "124",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.1050383331426211809891493077"
-  },
-  {
-    "BID": 6407335,
-    "BeerName": "Member Pick: BA Stout 2025",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407335_9c855_sm.jpeg",
-    "HallRating": 29.07,
-    "BAR": 7.46,
-    "StylePlus": "115",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.0927015156325384782679342351"
+    "AdjustedRating": "2.0947020614660411472811412277"
   },
   {
     "BID": 5409780,
@@ -42,22 +132,22 @@
     "BAR": 7.46,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0926898915334061610225207546"
+    "AdjustedRating": "2.0814636041406441832409868793"
   },
   {
-    "BID": 1672225,
-    "BeerName": "M3",
+    "BID": 6407335,
+    "BeerName": "Member Pick: BA Stout 2025",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Abnormal Beer Co.",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 14.40,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1672225_70ac3_sm.jpeg",
-    "HallRating": 29.04,
-    "BAR": 16.43,
-    "StylePlus": "112",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1042595370847234973167036133"
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407335_9c855_sm.jpeg",
+    "HallRating": 29.07,
+    "BAR": 7.46,
+    "StylePlus": "115",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.0814760148635087382164857103"
   },
   {
     "BID": 5814184,
@@ -72,7 +162,22 @@
     "BAR": 16.43,
     "StylePlus": "113",
     "RatingScore": 4.72,
-    "AdjustedRating": "2.105150335253212584124298705"
+    "AdjustedRating": "2.0948197656407669021190716448"
+  },
+  {
+    "BID": 1672225,
+    "BeerName": "M3",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Abnormal Beer Co.",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 14.40,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1672225_70ac3_sm.jpeg",
+    "HallRating": 29.04,
+    "BAR": 16.43,
+    "StylePlus": "112",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0938688799737635961930659415"
   },
   {
     "BID": 6040640,
@@ -87,22 +192,7 @@
     "BAR": 16.39,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1039238465385581949693828549"
-  },
-  {
-    "BID": 4612631,
-    "BeerName": "Castle Hill",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Aslin Beer Company",
-    "Origin": "Alexandria, VA United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3210388_dcebb_sm.jpeg",
-    "HallRating": 29.01,
-    "BAR": 16.37,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1038220671739465813348196734"
+    "AdjustedRating": "2.0935097023057066372057448797"
   },
   {
     "BID": 5450904,
@@ -117,7 +207,22 @@
     "BAR": 16.39,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1039410391794851378721752502"
+    "AdjustedRating": "2.0935279143594687402898504537"
+  },
+  {
+    "BID": 4612631,
+    "BeerName": "Castle Hill",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Aslin Beer Company",
+    "Origin": "Alexandria, VA United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3210388_dcebb_sm.jpeg",
+    "HallRating": 29.01,
+    "BAR": 16.37,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0934005990141477238020115423"
   },
   {
     "BID": 4800168,
@@ -132,22 +237,7 @@
     "BAR": 16.35,
     "StylePlus": "109",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1036783639992236063485111656"
-  },
-  {
-    "BID": 1676537,
-    "BeerName": "Bourbon Barrel Sabbath Noir",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Four Fires Meadery",
-    "Origin": "Maumee, OH United States",
-    "BeerAbv": 18.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-288085_8694d.jpeg",
-    "HallRating": 28.99,
-    "BAR": 7.53,
-    "StylePlus": "112",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0926983841292696584273258139"
+    "AdjustedRating": "2.0932465540646422472065295628"
   },
   {
     "BID": 4213995,
@@ -162,7 +252,22 @@
     "BAR": 16.34,
     "StylePlus": "109",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1036825091887291558313902417"
+    "AdjustedRating": "2.093250784457205388636267052"
+  },
+  {
+    "BID": 1676537,
+    "BeerName": "Bourbon Barrel Sabbath Noir",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Four Fires Meadery",
+    "Origin": "Maumee, OH United States",
+    "BeerAbv": 18.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-288085_8694d.jpeg",
+    "HallRating": 28.99,
+    "BAR": 7.53,
+    "StylePlus": "112",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.081472701406811733840080923"
   },
   {
     "BID": 6608414,
@@ -177,7 +282,7 @@
     "BAR": 7.53,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0926951843852491800655947524"
+    "AdjustedRating": "2.0814692851309261043512145128"
   },
   {
     "BID": 6300931,
@@ -192,7 +297,7 @@
     "BAR": 16.26,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1035138606123657867621071914"
+    "AdjustedRating": "2.0930689750445632798573975045"
   },
   {
     "BID": 4150318,
@@ -207,7 +312,7 @@
     "BAR": 16.27,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1033577652396608237493062417"
+    "AdjustedRating": "2.092902671181749114073349945"
   },
   {
     "BID": 3345295,
@@ -222,7 +327,22 @@
     "BAR": 16.19,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1031884609927489153243572223"
+    "AdjustedRating": "2.0927201838178639559166582531"
+  },
+  {
+    "BID": 3421443,
+    "BeerName": "Steengaard (2018)",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Bokke",
+    "Origin": "Hasselt, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
+    "HallRating": 28.88,
+    "BAR": 16.13,
+    "StylePlus": "111",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0921867912688564056641626653"
   },
   {
     "BID": 2012147,
@@ -237,7 +357,7 @@
     "BAR": 16.13,
     "StylePlus": "112",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1028752595336609556813598817"
+    "AdjustedRating": "2.0923844617712787017673459518"
   },
   {
     "BID": 3217719,
@@ -252,126 +372,6 @@
     "BAR": 16.09,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1024442054315676257058349019"
-  },
-  {
-    "BID": 6405419,
-    "BeerName": "Eternity",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Brasseria Della Fonte",
-    "Origin": "Pienza, Toscana Italy",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405419_c7b71_sm.jpeg",
-    "HallRating": 28.85,
-    "BAR": 7.66,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0927064699500542453891419229"
-  },
-  {
-    "BID": 4030434,
-    "BeerName": "Bramble+ (Batch 1)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4030434_60fa7_sm.jpeg",
-    "HallRating": 28.80,
-    "BAR": 15.97,
-    "StylePlus": "114",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.1023324916202230290714758867"
-  },
-  {
-    "BID": 3750080,
-    "BeerName": "Nevergonnagetit³ Xtreme",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "The Veil Brewing Co.",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3750080_a2f87_sm.jpeg",
-    "HallRating": 28.78,
-    "BAR": 15.94,
-    "StylePlus": "120",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1020089355756946364132180774"
-  },
-  {
-    "BID": 6500531,
-    "BeerName": "Indulgence 28",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Moersleutel Craft Brewery",
-    "Origin": "Alkmaar, Noord-Holland Netherlands",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6497871_70384_sm.jpeg",
-    "HallRating": 28.77,
-    "BAR": 15.91,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.101936227812603512127574261"
-  },
-  {
-    "BID": 5401625,
-    "BeerName": "Suffer",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Anchorage Brewing Company",
-    "Origin": "Anchorage, AK United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5401625_84037_sm.jpeg",
-    "HallRating": 28.77,
-    "BAR": 15.92,
-    "StylePlus": "118",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.1022334681516606562929608894"
-  },
-  {
-    "BID": 2813298,
-    "BeerName": "Doubleganger Guava",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 28.72,
-    "BAR": 15.83,
-    "StylePlus": "117",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1013532471155570611561684236"
-  },
-  {
-    "BID": 6214111,
-    "BeerName": "Golden Delicious",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Greenhouse Aleworks",
-    "Origin": "Bentonville, AR United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6214111_c2c74_sm.jpeg",
-    "HallRating": 28.72,
-    "BAR": 7.78,
-    "StylePlus": "115",
-    "RatingScore": 4.66,
-    "AdjustedRating": "2.0927320541151296383325500705"
-  },
-  {
-    "BID": 6405420,
-    "BeerName": "Destiny",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Brasseria Della Fonte",
-    "Origin": "Pienza, Toscana Italy",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405420_385dd_sm.jpeg",
-    "HallRating": 28.72,
-    "BAR": 7.78,
-    "StylePlus": "112",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.0927212550870421662050415463"
+    "AdjustedRating": "2.0919235267488180878401900626"
   }
 ]
