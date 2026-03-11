@@ -1,35 +1,5 @@
 [
   {
-    "BID": 5805511,
-    "BeerName": "Butter Pecan Maple Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3579749_6aee8_sm.jpeg",
-    "HallRating": 30.08,
-    "BAR": 18.23,
-    "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1096846364456567905598805476"
-  },
-  {
-    "BID": 5805024,
-    "BeerName": "Eisbock",
-    "BeerStyle": "Bock - Eisbock",
-    "BreweryName": "Sinnister Brew",
-    "Origin": "Dalkeith, Midlothian Scotland",
-    "BeerAbv": 38.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-328626_f10b2.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "120",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0814106589184529195258723079"
-  },
-  {
     "BID": 6605126,
     "BeerName": "Side-Poured Guinness",
     "BeerStyle": "Stout - Irish Dry",
@@ -42,67 +12,7 @@
     "BAR": 6.71,
     "StylePlus": "132",
     "RatingScore": 4.82,
-    "AdjustedRating": "2.0814218154921570354474773599"
-  },
-  {
-    "BID": 6608418,
-    "BeerName": "Dead Air",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "109",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.0814047870375560164092380701"
-  },
-  {
-    "BID": 6613958,
-    "BeerName": "In All Seriousness",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "112",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0814036126613766357859112225"
-  },
-  {
-    "BID": 6407256,
-    "BeerName": "Rye Barrel-Aged Vietnamese Speedway Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "AleSmith Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2044570_1c4b8_sm.jpeg",
-    "HallRating": 30.07,
-    "BAR": 18.21,
-    "StylePlus": "113",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1096484557451961764651562842"
-  },
-  {
-    "BID": 2412357,
-    "BeerName": "Helligen Herman",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Brouwerij Herman",
-    "Origin": "Enschede, Overijssel Netherlands",
-    "BeerAbv": 5.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2412357_5eaad_sm.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "131",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0814071357899147776558917652"
+    "AdjustedRating": "2.0689109463891010888853233968"
   },
   {
     "BID": 6504806,
@@ -117,7 +27,7 @@
     "BAR": 18.17,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1090922790881167007958791615"
+    "AdjustedRating": "2.0938936106222799548673992813"
   },
   {
     "BID": 1670477,
@@ -132,7 +42,7 @@
     "BAR": 17.97,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1064420776738780146340174869"
+    "AdjustedRating": "2.0914994797597073212396141272"
   },
   {
     "BID": 6605436,
@@ -145,9 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605436_65645_sm.jpeg",
     "HallRating": 29.92,
     "BAR": 6.81,
-    "StylePlus": "120",
+    "StylePlus": "121",
     "RatingScore": 4.88,
-    "AdjustedRating": "2.0814328080994373685502898566"
+    "AdjustedRating": "2.0689208392227671558297252768"
   },
   {
     "BID": 6606242,
@@ -162,7 +72,7 @@
     "BAR": 6.81,
     "StylePlus": "114",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0814150056716880011103163334"
+    "AdjustedRating": "2.0689048663885589486187210238"
   },
   {
     "BID": 3904423,
@@ -175,9 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CableCar_8225.jpeg",
     "HallRating": 29.86,
     "BAR": 17.86,
-    "StylePlus": "114",
+    "StylePlus": "115",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.105663840539683378703385575"
+    "AdjustedRating": "2.0907934270922841015367232711"
   },
   {
     "BID": 4961097,
@@ -192,7 +102,7 @@
     "BAR": 17.84,
     "StylePlus": "109",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1053060760549234164585233054"
+    "AdjustedRating": "2.0904712274005901329579524333"
   },
   {
     "BID": 3237218,
@@ -207,7 +117,7 @@
     "BAR": 17.82,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1050288180150508700375610929"
+    "AdjustedRating": "2.0902212308294934157580246562"
   },
   {
     "BID": 2413345,
@@ -222,67 +132,7 @@
     "BAR": 17.82,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.1059527301551637545927942693"
-  },
-  {
-    "BID": 3338741,
-    "BeerName": "Cool Down KAPOW!",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3338741_547eb_sm.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "120",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0814197794453237390870341555"
-  },
-  {
-    "BID": 3336981,
-    "BeerName": "Craft Root Beer",
-    "BeerStyle": "Root Beer",
-    "BreweryName": "Erie Brewing Company",
-    "Origin": "Erie, PA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3336981_367c7_sm.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "118",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.081418498314512276169098591"
-  },
-  {
-    "BID": 6017900,
-    "BeerName": "Laza Tiger (Mythos 2024)",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Living Waters Brewing",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 10.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-413851_e12d1.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "112",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0814236228377581278408408489"
-  },
-  {
-    "BID": 6601435,
-    "BeerName": "Waters To Fire #10",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Sworn Brewing Company",
-    "Origin": "Mechanicsburg, PA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-547098_3a992.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "114",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.0814223417069466649229052844"
+    "AdjustedRating": "2.0910507654465773717671748657"
   },
   {
     "BID": 6610334,
@@ -297,7 +147,67 @@
     "BAR": 6.90,
     "StylePlus": "118",
     "RatingScore": 4.78,
-    "AdjustedRating": "2.0814338718842498311843253645"
+    "AdjustedRating": "2.0689218236430906282553252631"
+  },
+  {
+    "BID": 6017900,
+    "BeerName": "Laza Tiger (Mythos 2024)",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Living Waters Brewing",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 10.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-413851_e12d1.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "112",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0689126279104852904199145084"
+  },
+  {
+    "BID": 3338741,
+    "BeerName": "Cool Down KAPOW!",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3338741_547eb_sm.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "120",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0689091795107582887316354754"
+  },
+  {
+    "BID": 6601435,
+    "BeerName": "Waters To Fire #10",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Sworn Brewing Company",
+    "Origin": "Mechanicsburg, PA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-547098_3a992.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "114",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.0689114784439096231904881641"
+  },
+  {
+    "BID": 3336981,
+    "BeerName": "Craft Root Beer",
+    "BeerStyle": "Root Beer",
+    "BreweryName": "Erie Brewing Company",
+    "Origin": "Erie, PA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3336981_367c7_sm.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "116",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0689080300441826215022091311"
   },
   {
     "BID": 1005596,
@@ -312,7 +222,7 @@
     "BAR": 17.65,
     "StylePlus": "117",
     "RatingScore": 4.74,
-    "AdjustedRating": "2.1050681886225960902573869799"
+    "AdjustedRating": "2.0902464917732915860941783507"
   },
   {
     "BID": 3224634,
@@ -325,24 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3224634_5979f_sm.jpeg",
     "HallRating": 29.67,
     "BAR": 17.55,
-    "StylePlus": "130",
+    "StylePlus": "131",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.10298161667257686343211301"
-  },
-  {
-    "BID": 6615507,
-    "BeerName": "HAPAX // 01",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "VAT'33",
-    "Origin": "Amersfoort, Utrecht Netherlands",
-    "BeerAbv": 7.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-548149_6e63c.jpeg",
-    "HallRating": 29.66,
-    "BAR": 6.99,
-    "StylePlus": "115",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0814310655910534603784663838"
+    "AdjustedRating": "2.0883673715071982965536580845"
   },
   {
     "BID": 6500936,
@@ -357,7 +252,7 @@
     "BAR": 6.99,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0814263948141030773747564523"
+    "AdjustedRating": "2.0689151449665458133174962762"
   },
   {
     "BID": 6404910,
@@ -372,6 +267,111 @@
     "BAR": 6.99,
     "StylePlus": "118",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0814270620679531320895721568"
+    "AdjustedRating": "2.0689157436456203033626606256"
+  },
+  {
+    "BID": 6615507,
+    "BeerName": "HAPAX // 01",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "VAT'33",
+    "Origin": "Amersfoort, Utrecht Netherlands",
+    "BeerAbv": 7.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-548149_6e63c.jpeg",
+    "HallRating": 29.66,
+    "BAR": 6.99,
+    "StylePlus": "115",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.0689193357200672436336467219"
+  },
+  {
+    "BID": 6504815,
+    "BeerName": "Bourbon County Brand Reserve Stout (2025)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 15.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6504815_ad5e0_sm.jpeg",
+    "HallRating": 29.55,
+    "BAR": 17.35,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0858688671674906719745450135"
+  },
+  {
+    "BID": 3401449,
+    "BeerName": "Imperial German Chocolate Coffee Cupcake Stout",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2115656_8ceb4_sm.jpeg",
+    "HallRating": 29.54,
+    "BAR": 17.32,
+    "StylePlus": "109",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0857594719460801567747029557"
+  },
+  {
+    "BID": 3237217,
+    "BeerName": "Buckley Reserve #1",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Transient Artisan Ales",
+    "Origin": "Bridgman, MI United States",
+    "BeerAbv": 15.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3237217_22569_sm.jpeg",
+    "HallRating": 29.54,
+    "BAR": 17.32,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.085661317251368108621046398"
+  },
+  {
+    "BID": 4941284,
+    "BeerName": "Volume 1: Chapter 3 (Jackfruit, Papaya, Mango And Cashew)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Nostrum",
+    "Origin": "New York, NY United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941284_53ef3_sm.jpeg",
+    "HallRating": 29.54,
+    "BAR": 7.07,
+    "StylePlus": "117",
+    "RatingScore": 4.70,
+    "AdjustedRating": "2.0689298271402126981922329958"
+  },
+  {
+    "BID": 3008094,
+    "BeerName": "Armand'4 Lente (Spring)",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "Brouwerij 3 Fonteinen",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Armand4LenteSpring_66323.jpeg",
+    "HallRating": 29.54,
+    "BAR": 17.32,
+    "StylePlus": "114",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.0868501894913585414521265337"
+  },
+  {
+    "BID": 6450642,
+    "BeerName": "Singularity: Advocator Select 25-26 #1",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Moksa Brewing Co",
+    "Origin": "Rocklin, CA United States",
+    "BeerAbv": 14.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6450642_67120_sm.jpeg",
+    "HallRating": 29.54,
+    "BAR": 7.07,
+    "StylePlus": "115",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.0689279592659733181349036249"
   }
 ]

@@ -1,6 +1,10 @@
 [
   {
     "BreweryName": "",
+    "Location": null
+  },
+  {
+    "BreweryName": "",
     "Location": ""
   },
   {
@@ -25,7 +29,7 @@
   },
   {
     "BreweryName": "\"A Coast\" Brewing Project",
-    "Location": null
+    "Location": "United States"
   },
   {
     "BreweryName": "\"B\" Brewing Ltd",
@@ -33,6 +37,10 @@
   },
   {
     "BreweryName": "\"G\" Spot Homebrewery",
+    "Location": "United States"
+  },
+  {
+    "BreweryName": "\"I Do\" Brew",
     "Location": "United States"
   },
   {
@@ -44,6 +52,10 @@
     "Location": "Belgium"
   },
   {
+    "BreweryName": "\"Skipper Gets Seconds\"",
+    "Location": "United States"
+  },
+  {
     "BreweryName": "\"We Are The Roadbrew\"",
     "Location": "Netherlands"
   },
@@ -52,12 +64,24 @@
     "Location": "Sweden"
   },
   {
+    "BreweryName": "##pound",
+    "Location": "United States"
+  },
+  {
     "BreweryName": "#/g/punk Presents:",
     "Location": "Isle of Man"
   },
   {
     "BreweryName": "#1 Brother Brewing",
     "Location": "Raleigh, NC United States"
+  },
+  {
+    "BreweryName": "#1 Homebrew",
+    "Location": null
+  },
+  {
+    "BreweryName": "#14 Red Homebrew",
+    "Location": "United States"
   },
   {
     "BreweryName": "#207 Homebrew",
@@ -74,29 +98,5 @@
   {
     "BreweryName": "#2MEN craft beer",
     "Location": "Ukraine"
-  },
-  {
-    "BreweryName": "#331 Lockdown Brewing",
-    "Location": "Denmark"
-  },
-  {
-    "BreweryName": "#44200",
-    "Location": "Finland"
-  },
-  {
-    "BreweryName": "#59 Brewing Co",
-    "Location": "England"
-  },
-  {
-    "BreweryName": "#Andreev_village",
-    "Location": "Magnitogorsk, Chelyabinsk Oblast Russia"
-  },
-  {
-    "BreweryName": "#BABAVAR",
-    "Location": "Russia"
-  },
-  {
-    "BreweryName": "#bakerbrewing",
-    "Location": "United States"
   }
 ]

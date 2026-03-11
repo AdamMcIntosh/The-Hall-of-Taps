@@ -1,110 +1,5 @@
 [
   {
-    "BID": 5501905,
-    "BeerName": "Crisp Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "New Trail Brewing Co.",
-    "Origin": "Williamsport, PA United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4953180_0c4da_sm.jpeg",
-    "HallRating": 23.45,
-    "BAR": 15.02,
-    "StylePlus": "104",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.1218493674424043971465325693"
-  },
-  {
-    "BID": 904457,
-    "BeerName": "Chestnut Ale",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Whistler Brewing Company",
-    "Origin": "Whistler, BC Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-83537_8140d_sm.jpeg",
-    "HallRating": 23.44,
-    "BAR": 15.01,
-    "StylePlus": "110",
-    "RatingScore": 3.83,
-    "AdjustedRating": "2.1269638011666263754259823914"
-  },
-  {
-    "BID": 3013483,
-    "BeerName": "DBA (Double Barrel Ale)",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Firestone Walker Brewing Company",
-    "Origin": "Paso Robles, CA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1238_c12cb_sm.jpeg",
-    "HallRating": 23.44,
-    "BAR": 16.79,
-    "StylePlus": "103",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.4173791420987154264552713806"
-  },
-  {
-    "BID": 2009269,
-    "BeerName": "Kungaloosh Spiced Excursion Ale",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Concrete Beach Brewery",
-    "Origin": "Miami, FL United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1537846_5d3aa_sm.jpeg",
-    "HallRating": 23.43,
-    "BAR": 14.99,
-    "StylePlus": "108",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.1247560576818075453056342789"
-  },
-  {
-    "BID": 6304724,
-    "BeerName": "Hopadillo IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Karbach Brewing Co.",
-    "Origin": "Houston, TX United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-73130_ff86f_sm.jpeg",
-    "HallRating": 23.43,
-    "BAR": 16.78,
-    "StylePlus": "99",
-    "RatingScore": 3.68,
-    "AdjustedRating": "2.4396253097936158844944769573"
-  },
-  {
-    "BID": 6207303,
-    "BeerName": "Bayreuther Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Bayreuther Bierbrauerei",
-    "Origin": "Bayreuth, Bayern Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 17.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-116296_2dfe1_sm.jpeg",
-    "HallRating": 23.41,
-    "BAR": 16.76,
-    "StylePlus": "101",
-    "RatingScore": 3.52,
-    "AdjustedRating": "2.399958996824915272199099423"
-  },
-  {
-    "BID": 1500486,
-    "BeerName": "Hoptical Illusion",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Blue Point Brewing Company",
-    "Origin": "Patchogue, NY United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4947_74fe0_sm.jpeg",
-    "HallRating": 23.41,
-    "BAR": 16.76,
-    "StylePlus": "96",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.4157576388597473445416906435"
-  },
-  {
     "BID": 3616776,
     "BeerName": "Icelandic Arctic Pale Ale",
     "BeerStyle": "Pale Ale - English",
@@ -115,9 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-99106_8923e_sm.jpeg",
     "HallRating": 23.40,
     "BAR": 16.75,
-    "StylePlus": "102",
+    "StylePlus": "103",
     "RatingScore": 3.53,
-    "AdjustedRating": "2.4007427379602485867713055799"
+    "AdjustedRating": "2.3645891814696888376152939626"
   },
   {
     "BID": 6209719,
@@ -132,7 +27,7 @@
     "BAR": 16.75,
     "StylePlus": "99",
     "RatingScore": 3.69,
-    "AdjustedRating": "2.4358961173419172803259347423"
+    "AdjustedRating": "2.3968572858722872648294279116"
   },
   {
     "BID": 1506327,
@@ -145,9 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-490953_a6a15_sm.jpeg",
     "HallRating": 23.39,
     "BAR": 14.93,
-    "StylePlus": "109",
+    "StylePlus": "110",
     "RatingScore": 3.78,
-    "AdjustedRating": "2.1235946263729113528707511322"
+    "AdjustedRating": "2.1071263010516556787533712916"
   },
   {
     "BID": 2209305,
@@ -160,9 +55,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1507498_74416_sm.jpeg",
     "HallRating": 23.39,
     "BAR": 14.92,
-    "StylePlus": "112",
+    "StylePlus": "113",
     "RatingScore": 3.90,
-    "AdjustedRating": "2.1264604699851376781981972602"
+    "AdjustedRating": "2.1097031430524760658286292258"
+  },
+  {
+    "BID": 6419213,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "AleSmith Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 7.25,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1793_5fdd1_sm.jpeg",
+    "HallRating": 23.37,
+    "BAR": 16.71,
+    "StylePlus": "105",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.4294106558663552694251955196"
   },
   {
     "BID": 2600611,
@@ -175,9 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4482_8fb6a_sm.jpeg",
     "HallRating": 23.37,
     "BAR": 16.72,
-    "StylePlus": "95",
+    "StylePlus": "96",
     "RatingScore": 3.55,
-    "AdjustedRating": "2.3993862286294403506277340515"
+    "AdjustedRating": "2.3631772595021721443593325453"
   },
   {
     "BID": 3805890,
@@ -192,22 +102,7 @@
     "BAR": 16.71,
     "StylePlus": "97",
     "RatingScore": 3.62,
-    "AdjustedRating": "2.4127329691063414511558944439"
-  },
-  {
-    "BID": 6419213,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "AleSmith Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 7.25,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1793_5fdd1_sm.jpeg",
-    "HallRating": 23.37,
-    "BAR": 16.71,
-    "StylePlus": "104",
-    "RatingScore": 3.89,
-    "AdjustedRating": "2.4716057363819419442886207792"
+    "AdjustedRating": "2.3753733577864245568525724168"
   },
   {
     "BID": 5301663,
@@ -220,39 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11921_f7bcf_sm.jpeg",
     "HallRating": 23.36,
     "BAR": 16.71,
-    "StylePlus": "100",
-    "RatingScore": 3.74,
-    "AdjustedRating": "2.4381523603071953342508971386"
-  },
-  {
-    "BID": 6503101,
-    "BeerName": "Blizzard of Hops",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tröegs Independent Brewing",
-    "Origin": "Hershey, PA United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-533372_e6293_sm.jpeg",
-    "HallRating": 23.35,
-    "BAR": 16.69,
     "StylePlus": "101",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.439919626527493839650402784"
-  },
-  {
-    "BID": 3349533,
-    "BeerName": "Tropicália",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Creature Comforts Brewing Co.",
-    "Origin": "Athens, GA United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-504309_03936_sm.jpeg",
-    "HallRating": 23.35,
-    "BAR": 16.68,
-    "StylePlus": "108",
-    "RatingScore": 4.02,
-    "AdjustedRating": "2.4934462106060701592886131445"
+    "RatingScore": 3.74,
+    "AdjustedRating": "2.398684597958355997977961316"
   },
   {
     "BID": 2501718,
@@ -267,7 +132,37 @@
     "BAR": 16.68,
     "StylePlus": "96",
     "RatingScore": 3.57,
-    "AdjustedRating": "2.3978578112778115194909181085"
+    "AdjustedRating": "2.3616083949895229521564212641"
+  },
+  {
+    "BID": 3349533,
+    "BeerName": "Tropicália",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Creature Comforts Brewing Co.",
+    "Origin": "Athens, GA United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-504309_03936_sm.jpeg",
+    "HallRating": 23.35,
+    "BAR": 16.68,
+    "StylePlus": "108",
+    "RatingScore": 4.02,
+    "AdjustedRating": "2.4492859519817087864527807927"
+  },
+  {
+    "BID": 6503101,
+    "BeerName": "Blizzard of Hops",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Tröegs Independent Brewing",
+    "Origin": "Hershey, PA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-533372_e6293_sm.jpeg",
+    "HallRating": 23.35,
+    "BAR": 16.69,
+    "StylePlus": "101",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.4002361408029267353422547415"
   },
   {
     "BID": 2006165,
@@ -282,7 +177,7 @@
     "BAR": 16.68,
     "StylePlus": "101",
     "RatingScore": 3.75,
-    "AdjustedRating": "2.4349871531652998079596820502"
+    "AdjustedRating": "2.3956344998061106963230485186"
   },
   {
     "BID": 2021930,
@@ -297,7 +192,22 @@
     "BAR": 16.66,
     "StylePlus": "100",
     "RatingScore": 3.72,
-    "AdjustedRating": "2.4251335841991150255832690061"
+    "AdjustedRating": "2.3865011386160826528757151091"
+  },
+  {
+    "BID": 4700213,
+    "BeerName": "Floridian",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Funky Buddha Brewery",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14417_8f593_sm.jpeg",
+    "HallRating": 23.33,
+    "BAR": 16.67,
+    "StylePlus": "103",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.3648031337133937489012570585"
   },
   {
     "BID": 2826684,
@@ -312,7 +222,7 @@
     "BAR": 16.66,
     "StylePlus": "99",
     "RatingScore": 3.76,
-    "AdjustedRating": "2.433485208152736737091429861"
+    "AdjustedRating": "2.394158428524734110966484153"
   },
   {
     "BID": 3202765,
@@ -325,24 +235,84 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-929842_66b44_sm.jpeg",
     "HallRating": 23.33,
     "BAR": 16.66,
-    "StylePlus": "104",
+    "StylePlus": "105",
     "RatingScore": 3.89,
-    "AdjustedRating": "2.4610986691091969171402363807"
+    "AdjustedRating": "2.4194888914959073848837186818"
   },
   {
-    "BID": 4700213,
-    "BeerName": "Floridian",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Funky Buddha Brewery",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14417_8f593_sm.jpeg",
-    "HallRating": 23.33,
-    "BAR": 16.67,
+    "BID": 1604306,
+    "BeerName": "Inversion IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Deschutes Brewery",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-423_42d04_sm.jpeg",
+    "HallRating": 23.30,
+    "BAR": 16.62,
+    "StylePlus": "97",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.360557958491395150329669475"
+  },
+  {
+    "BID": 5705150,
+    "BeerName": "Petrus Red",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Brouwerij De Brabandere",
+    "Origin": "Harelbeke, Vlaams Gewest Belgium",
+    "BeerAbv": 8.50,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-311764_b3caa_sm.jpeg",
+    "HallRating": 23.30,
+    "BAR": 16.62,
     "StylePlus": "102",
     "RatingScore": 3.60,
-    "AdjustedRating": "2.4014265797068172674054865911"
+    "AdjustedRating": "2.3573516173423278973360309251"
+  },
+  {
+    "BID": 4428718,
+    "BeerName": "Awfully (不亦乐乎)",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Hops Farm (酒花农场)",
+    "Origin": "Chang Ji Hui Zu Zi Zhi Zhou, Xin Jiang Wei Wu Er Zi Zhi Qu China / People's Republic of China",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 23.30,
+    "BAR": 4.61,
+    "StylePlus": "104",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.0688275237823831715272356302"
+  },
+  {
+    "BID": 3334209,
+    "BeerName": "Epin’ale",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Microbrasserie Caribrew",
+    "Origin": "Brignais, Auvergne-Rhône-Alpes France",
+    "BeerAbv": 5.60,
+    "BeerIbu": 5.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-411872_dd2b5.jpeg",
+    "HallRating": 23.30,
+    "BAR": 4.61,
+    "StylePlus": "110",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.0688356659737821436953096188"
+  },
+  {
+    "BID": 6222720,
+    "BeerName": "Pearl Foam",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Sherwood Brewing Company",
+    "Origin": "Shelby Township, MI United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SherwoodBrewingCompany_5323.jpeg",
+    "HallRating": 23.30,
+    "BAR": 4.61,
+    "StylePlus": "111",
+    "RatingScore": 3.82,
+    "AdjustedRating": "2.0688372944120619381289244165"
   },
   {
     "BID": 4939337,
@@ -355,23 +325,53 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4939337_00719_sm.jpeg",
     "HallRating": 23.30,
     "BAR": 4.61,
-    "StylePlus": "114",
+    "StylePlus": "115",
     "RatingScore": 3.96,
-    "AdjustedRating": "2.0813462463366981439270595897"
+    "AdjustedRating": "2.0688429939460412186465762085"
   },
   {
-    "BID": 4631031,
-    "BeerName": "Lunch Lady Lager",
+    "BID": 6423641,
+    "BeerName": "Super Saiyan",
     "BeerStyle": "Lager - American",
-    "BreweryName": "Blue Monkey Brewing Co.",
-    "Origin": "North Royalton, OH United States",
-    "BeerAbv": 0.00,
+    "BreweryName": "West Brew Izakaya",
+    "Origin": "West Reading, PA United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-456761_23714.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-582026_02ff9.jpeg",
     "HallRating": 23.30,
     "BAR": 4.61,
-    "StylePlus": "104",
-    "RatingScore": 3.61,
-    "AdjustedRating": "2.0813303653559741847318382969"
+    "StylePlus": "108",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.0688332233163624520448874222"
+  },
+  {
+    "BID": 5101567,
+    "BeerName": "Elephant Valley",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Mike Hess Brewing",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-hessbrewing_2174.jpeg",
+    "HallRating": 23.30,
+    "BAR": 4.61,
+    "StylePlus": "109",
+    "RatingScore": 3.75,
+    "AdjustedRating": "2.0688344446450722978700985205"
+  },
+  {
+    "BID": 6350728,
+    "BeerName": "Oro Grande Mexican Corn Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Distant West Brewing Company",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-550259_9776c.jpeg",
+    "HallRating": 23.30,
+    "BAR": 4.61,
+    "StylePlus": "110",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.0688368873024919895205207171"
   }
 ]

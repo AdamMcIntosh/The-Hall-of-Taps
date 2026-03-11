@@ -1,110 +1,5 @@
 [
   {
-    "BID": 3333953,
-    "BeerName": "Quy (2019)",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "The Veil Brewing Co.",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 12.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333953_b03f3_sm.jpeg",
-    "HallRating": 27.74,
-    "BAR": 13.46,
-    "StylePlus": "118",
-    "RatingScore": 4.79,
-    "AdjustedRating": "2.0848063564813827518553271347"
-  },
-  {
-    "BID": 4817038,
-    "BeerName": "Stevnsberry Van Oak (2021)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4817038_abb4c_sm.jpeg",
-    "HallRating": 27.74,
-    "BAR": 13.46,
-    "StylePlus": "114",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.0845774939422131114766072128"
-  },
-  {
-    "BID": 4621753,
-    "BeerName": "Double Honey Ann (12/08/2016)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
-    "HallRating": 27.73,
-    "BAR": 13.43,
-    "StylePlus": "129",
-    "RatingScore": 4.79,
-    "AdjustedRating": "2.0847630883826939994135366406"
-  },
-  {
-    "BID": 4007402,
-    "BeerName": "Double Barrel Batch 1000",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Cellarmaker Brewing Company",
-    "Origin": "Oakland, CA United States",
-    "BeerAbv": 17.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-82753_b6ced.jpeg",
-    "HallRating": 27.73,
-    "BAR": 13.41,
-    "StylePlus": "118",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0844521503308221770818338372"
-  },
-  {
-    "BID": 3301531,
-    "BeerName": "Prestige - Wildflower (ASP4R)",
-    "BeerStyle": "Mead - Traditional",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3301531_1f778_sm.jpeg",
-    "HallRating": 27.73,
-    "BAR": 13.41,
-    "StylePlus": "122",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0845803739143647734361254618"
-  },
-  {
-    "BID": 5419008,
-    "BeerName": "Plum (2018, June)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2710370_bd0c1_sm.jpeg",
-    "HallRating": 27.73,
-    "BAR": 13.40,
-    "StylePlus": "114",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.0844899749016325268444567663"
-  },
-  {
-    "BID": 5629244,
-    "BeerName": "Coquito Mead",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "Zymarium Meadery",
-    "Origin": "Orlando, FL United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5629244_ebe45_sm.jpeg",
-    "HallRating": 27.72,
-    "BAR": 9.26,
-    "StylePlus": "119",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0817363479141536523660585617"
-  },
-  {
     "BID": 6606035,
     "BeerName": "Unapologetically",
     "BeerStyle": "IPA - New England / Hazy",
@@ -117,7 +12,22 @@
     "BAR": 9.26,
     "StylePlus": "117",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0817230845360219472880795055"
+    "AdjustedRating": "2.0691827248055704543713125431"
+  },
+  {
+    "BID": 5629244,
+    "BeerName": "Coquito Mead",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Zymarium Meadery",
+    "Origin": "Orlando, FL United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5629244_ebe45_sm.jpeg",
+    "HallRating": 27.72,
+    "BAR": 9.26,
+    "StylePlus": "120",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0691946252346563481725538273"
   },
   {
     "BID": 4042465,
@@ -130,9 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4042465_bf6d5_sm.jpeg",
     "HallRating": 27.72,
     "BAR": 13.39,
-    "StylePlus": "112",
+    "StylePlus": "113",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0843936419048786924752279931"
+    "AdjustedRating": "2.0715912699737104610357456397"
   },
   {
     "BID": 4817137,
@@ -145,9 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4817137_9af33_sm.jpeg",
     "HallRating": 27.71,
     "BAR": 13.35,
-    "StylePlus": "112",
+    "StylePlus": "113",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0843095857903772739875023993"
+    "AdjustedRating": "2.071515567679676959438123762"
   },
   {
     "BID": 5550435,
@@ -162,22 +72,7 @@
     "BAR": 13.34,
     "StylePlus": "119",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0843833204793260643544560262"
-  },
-  {
-    "BID": 5816271,
-    "BeerName": "S'more Than A Feeling",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Prairie Artisan Ales",
-    "Origin": "Krebs, OK United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-prairieartisanales_37713.jpeg",
-    "HallRating": 27.70,
-    "BAR": 9.29,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.081739198768670756864513753"
+    "AdjustedRating": "2.071581671297957543310703162"
   },
   {
     "BID": 1672076,
@@ -192,7 +87,22 @@
     "BAR": 9.29,
     "StylePlus": "121",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.081743041668779372166194755"
+    "AdjustedRating": "2.0692006611690168161998692632"
+  },
+  {
+    "BID": 5816271,
+    "BeerName": "S'more Than A Feeling",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Prairie Artisan Ales",
+    "Origin": "Krebs, OK United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-prairieartisanales_37713.jpeg",
+    "HallRating": 27.70,
+    "BAR": 9.29,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.069197213165626279532508207"
   },
   {
     "BID": 3809290,
@@ -205,9 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3809290_1d04f_sm.jpeg",
     "HallRating": 27.69,
     "BAR": 13.29,
-    "StylePlus": "113",
+    "StylePlus": "114",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0842986484840083070959554893"
+    "AdjustedRating": "2.0715054165883205706944932862"
   },
   {
     "BID": 6004322,
@@ -220,9 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004322_3cc84_sm.jpeg",
     "HallRating": 27.69,
     "BAR": 13.28,
-    "StylePlus": "112",
+    "StylePlus": "113",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0842303807138401164495678463"
+    "AdjustedRating": "2.0714440658111929265526991919"
   },
   {
     "BID": 6100253,
@@ -237,22 +147,7 @@
     "BAR": 13.29,
     "StylePlus": "109",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0842070843641695547853905625"
-  },
-  {
-    "BID": 6212575,
-    "BeerName": "Multiversal Escapism (2024)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212575_9452d_sm.jpeg",
-    "HallRating": 27.68,
-    "BAR": 13.24,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.0841661397131355141432722813"
+    "AdjustedRating": "2.0714232223790476919543749522"
   },
   {
     "BID": 4020606,
@@ -267,7 +162,22 @@
     "BAR": 13.26,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0842520737335174649554511669"
+    "AdjustedRating": "2.0714634093107820387072079615"
+  },
+  {
+    "BID": 6212575,
+    "BeerName": "Multiversal Escapism (2024)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212575_9452d_sm.jpeg",
+    "HallRating": 27.68,
+    "BAR": 13.24,
+    "StylePlus": "113",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.0713861756194887154729836414"
   },
   {
     "BID": 4900156,
@@ -282,7 +192,22 @@
     "BAR": 13.22,
     "StylePlus": "113",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0841452666595571670421371156"
+    "AdjustedRating": "2.0713672927241800856935748958"
+  },
+  {
+    "BID": 6407331,
+    "BeerName": "Dessert Station: BA Mixed Berry Cheesecake Overtime",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407331_35691_sm.jpeg",
+    "HallRating": 27.67,
+    "BAR": 9.38,
+    "StylePlus": "139",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0692241562652644886935034336"
   },
   {
     "BID": 4632191,
@@ -297,22 +222,7 @@
     "BAR": 9.38,
     "StylePlus": "116",
     "RatingScore": 4.71,
-    "AdjustedRating": "2.0817871406516865926558497011"
-  },
-  {
-    "BID": 6407331,
-    "BeerName": "Dessert Station: BA Mixed Berry Cheesecake Overtime",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407331_35691_sm.jpeg",
-    "HallRating": 27.67,
-    "BAR": 9.38,
-    "StylePlus": "137",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0817691272016438941076003416"
+    "AdjustedRating": "2.0692403186650576099761514812"
   },
   {
     "BID": 5450886,
@@ -327,22 +237,7 @@
     "BAR": 13.22,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0841400568003071295649531041"
-  },
-  {
-    "BID": 5304487,
-    "BeerName": "Barrel Aged As Above So Below | Marshmallow (Red Wax)",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5304487_cf977_sm.jpeg",
-    "HallRating": 27.66,
-    "BAR": 13.17,
-    "StylePlus": "110",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.0840863380888140003625931811"
+    "AdjustedRating": "2.0713626483270414974091033057"
   },
   {
     "BID": 5226433,
@@ -357,7 +252,52 @@
     "BAR": 13.19,
     "StylePlus": "109",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0840828394684853057622527521"
+    "AdjustedRating": "2.0713110915824351965932606849"
+  },
+  {
+    "BID": 5304487,
+    "BeerName": "Barrel Aged As Above So Below | Marshmallow (Red Wax)",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5304487_cf977_sm.jpeg",
+    "HallRating": 27.66,
+    "BAR": 13.17,
+    "StylePlus": "110",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0713141393280254167543876438"
+  },
+  {
+    "BID": 2422477,
+    "BeerName": "Pear Turnover",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2422477_03159_sm.jpeg",
+    "HallRating": 27.66,
+    "BAR": 13.17,
+    "StylePlus": "116",
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.0714688073599494727171811901"
+  },
+  {
+    "BID": 2700454,
+    "BeerName": "Black Widow (Blue Label Batch Three)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Garagiste Meadery",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2700454_d28ec_sm.jpeg",
+    "HallRating": 27.66,
+    "BAR": 13.19,
+    "StylePlus": "115",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.0714106109292911893893721471"
   },
   {
     "BID": 6401712,
@@ -372,6 +312,66 @@
     "BAR": 13.17,
     "StylePlus": "110",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0841027190428580950476571352"
+    "AdjustedRating": "2.0713288078594993672112557447"
+  },
+  {
+    "BID": 6609140,
+    "BeerName": "Ch'ip 10",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Bakes Brewing Company",
+    "Origin": "Belmar, NJ United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6609140_f4241_sm.jpeg",
+    "HallRating": 27.65,
+    "BAR": 9.43,
+    "StylePlus": "111",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.0692326841092046221847628808"
+  },
+  {
+    "BID": 6003704,
+    "BeerName": "THE GREAT NORTHERN BARREL-AGED SERIES 45 - RELEASED 09/30/24",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Evil Twin Brewing NYC",
+    "Origin": "Ridgewood, NY United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003704_be6c6_sm.jpeg",
+    "HallRating": 27.65,
+    "BAR": 13.14,
+    "StylePlus": "113",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0713295414822506016947936055"
+  },
+  {
+    "BID": 4233066,
+    "BeerName": "Duppy Dolphin",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Horus Aged Ales",
+    "Origin": "Oceanside, CA United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4233066_83ee7_sm.jpeg",
+    "HallRating": 27.65,
+    "BAR": 13.15,
+    "StylePlus": "109",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0712540335608523710067537986"
+  },
+  {
+    "BID": 3341616,
+    "BeerName": "Barrel Aged Omerta (Maple Syrup) (2019)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "White Rooster Farmhouse Brewery",
+    "Origin": "Sparta, IL United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-162005_12dc3.jpeg",
+    "HallRating": 27.65,
+    "BAR": 9.43,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0692160907915467462251998142"
   }
 ]
