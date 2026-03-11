@@ -1,80 +1,5 @@
 [
   {
-    "BID": 3819036,
-    "BeerName": "Blessed",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Anchorage Brewing Company",
-    "Origin": "Anchorage, AK United States",
-    "BeerAbv": 15.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3819036_bfb16_sm.jpeg",
-    "HallRating": 31.25,
-    "BAR": 20.00,
-    "StylePlus": "117",
-    "RatingScore": 4.74,
-    "AdjustedRating": "2.1504434825713498364764177677"
-  },
-  {
-    "BID": 2012665,
-    "BeerName": "Barrel-Aged Abraxas",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Perennial Artisan Ales",
-    "Origin": "St Louis, MO United States",
-    "BeerAbv": 11.20,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-264563_1b0a0_sm.jpeg",
-    "HallRating": 31.24,
-    "BAR": 19.98,
-    "StylePlus": "115",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.1483491231703733751459410827"
-  },
-  {
-    "BID": 4016650,
-    "BeerName": "PARAGON 2019",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "LERVIG",
-    "Origin": "Stavanger, Rogaland Norway",
-    "BeerAbv": 13.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4008262_b355f_sm.jpeg",
-    "HallRating": 31.22,
-    "BAR": 19.96,
-    "StylePlus": "114",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.1437445925921109102495740724"
-  },
-  {
-    "BID": 6601026,
-    "BeerName": "Marble Fox Pick Your Prize",
-    "BeerStyle": "IPA - Triple",
-    "BreweryName": "Marble Fox Brewing",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 10.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-543713_438fd.jpeg",
-    "HallRating": 31.07,
-    "BAR": 6.15,
-    "StylePlus": "115",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0813739246173884728101595571"
-  },
-  {
-    "BID": 6615939,
-    "BeerName": "NZ FIREPOWER",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Deep Fried Beers",
-    "Origin": "Athens, NY United States",
-    "BeerAbv": 8.90,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6615939_8bb7d_sm.jpeg",
-    "HallRating": 31.07,
-    "BAR": 6.15,
-    "StylePlus": "118",
-    "RatingScore": 4.77,
-    "AdjustedRating": "2.081382999463516449493143153"
-  },
-  {
     "BID": 803069,
     "BeerName": "Black Tuesday (2014)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -87,7 +12,7 @@
     "BAR": 19.74,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.1391031759372971112553875517"
+    "AdjustedRating": "2.1210471831281848048607186491"
   },
   {
     "BID": 5817691,
@@ -102,7 +27,7 @@
     "BAR": 6.15,
     "StylePlus": "119",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0813752858443076693126070965"
+    "AdjustedRating": "2.0688690489585179295844129719"
   },
   {
     "BID": 4959873,
@@ -117,22 +42,22 @@
     "BAR": 6.15,
     "StylePlus": "109",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.081372109648162877473562838"
+    "AdjustedRating": "2.0688661991915282893255870759"
   },
   {
-    "BID": 11024,
-    "BeerName": "Rare Bourbon County Brand Stout (2010)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-RareBourbonCountyStout_11024.jpeg",
-    "HallRating": 31.04,
-    "BAR": 19.70,
-    "StylePlus": "117",
-    "RatingScore": 4.76,
-    "AdjustedRating": "2.1419934139892939875200868168"
+    "BID": 6615939,
+    "BeerName": "NZ FIREPOWER",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Deep Fried Beers",
+    "Origin": "Athens, NY United States",
+    "BeerAbv": 8.90,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6615939_8bb7d_sm.jpeg",
+    "HallRating": 31.07,
+    "BAR": 6.15,
+    "StylePlus": "118",
+    "RatingScore": 4.77,
+    "AdjustedRating": "2.0688759698212070559272758622"
   },
   {
     "BID": 2610059,
@@ -147,7 +72,7 @@
     "BAR": 19.58,
     "StylePlus": "115",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.1365686330633682346580862861"
+    "AdjustedRating": "2.1187412071863881354140980026"
   },
   {
     "BID": 3904415,
@@ -160,9 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22085_22036_sm.jpeg",
     "HallRating": 30.95,
     "BAR": 19.56,
-    "StylePlus": "111",
+    "StylePlus": "110",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1335906060325056291892400203"
+    "AdjustedRating": "2.1160607356708992770269318038"
   },
   {
     "BID": 1010269,
@@ -175,9 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-489624_d0908_sm.jpeg",
     "HallRating": 30.88,
     "BAR": 19.45,
-    "StylePlus": "115",
+    "StylePlus": "116",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.1343261336762337091814321277"
+    "AdjustedRating": "2.1167054820284948511778812244"
   },
   {
     "BID": 4980052,
@@ -190,9 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980052_c7c70_sm.jpeg",
     "HallRating": 30.83,
     "BAR": 6.28,
-    "StylePlus": "119",
+    "StylePlus": "120",
     "RatingScore": 4.82,
-    "AdjustedRating": "2.0813925777165079017677219261"
+    "AdjustedRating": "2.0688845936361742328996429418"
   },
   {
     "BID": 6604181,
@@ -207,7 +132,7 @@
     "BAR": 6.28,
     "StylePlus": "118",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0813805669228079634231295858"
+    "AdjustedRating": "2.0688738172321884002787496498"
   },
   {
     "BID": 6424640,
@@ -220,69 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-141977_5f492.jpeg",
     "HallRating": 30.83,
     "BAR": 6.28,
-    "StylePlus": "117",
+    "StylePlus": "118",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0813796060593119683555621986"
-  },
-  {
-    "BID": 10068,
-    "BeerName": "Bourbon County Brand Vanilla Stout (2010)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_10068_sm_e643e78904d3a0038704f3fe8415a2.jpeg",
-    "HallRating": 30.70,
-    "BAR": 19.18,
-    "StylePlus": "116",
-    "RatingScore": 4.70,
-    "AdjustedRating": "2.1282485185588088809667356943"
-  },
-  {
-    "BID": 3343863,
-    "BeerName": "Waldo Honey Hydromel (Sichuan Cherry Bomb)",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "BKS Artisan Ales",
-    "Origin": "Kansas City, MO United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-277027_9a1fb.jpeg",
-    "HallRating": 30.61,
-    "BAR": 6.39,
-    "StylePlus": "122",
-    "RatingScore": 4.71,
-    "AdjustedRating": "2.0813943088874298037708453441"
-  },
-  {
-    "BID": 6410850,
-    "BeerName": "Elixir of Life Bourbon BA Batch #31",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Two Heads Behind",
-    "Origin": "Ringsted, Region Sjælland Denmark",
-    "BeerAbv": 14.30,
-    "BeerIbu": 52.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 30.61,
-    "BAR": 6.39,
-    "StylePlus": "116",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0813882234348643050840219503"
-  },
-  {
-    "BID": 6409187,
-    "BeerName": "Przepalanka z Kranu 2025",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "Szynkarnia",
-    "Origin": "Wrocław, Województwo dolnośląskie Poland",
-    "BeerAbv": 45.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-566018_b2847.jpeg",
-    "HallRating": 30.61,
-    "BAR": 6.39,
-    "StylePlus": "131",
-    "RatingScore": 5.00,
-    "AdjustedRating": "2.0814090153977964255973352124"
+    "AdjustedRating": "2.0688729551198695336690781864"
   },
   {
     "BID": 6607452,
@@ -297,22 +162,7 @@
     "BAR": 6.39,
     "StylePlus": "119",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0813892376769585548651591826"
-  },
-  {
-    "BID": 6618830,
-    "BeerName": "Mythbuilder",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Alma Mader Brewing",
-    "Origin": "Kansas City, MO United States",
-    "BeerAbv": 15.25,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-422018_74103.jpeg",
-    "HallRating": 30.61,
-    "BAR": 6.39,
-    "StylePlus": "109",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.0813851807085815557406102535"
+    "AdjustedRating": "2.0688816268164184108434311988"
   },
   {
     "BID": 5805042,
@@ -327,7 +177,67 @@
     "BAR": 6.39,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.081387209192770055302884718"
+    "AdjustedRating": "2.0688798068058815077350447818"
+  },
+  {
+    "BID": 6618830,
+    "BeerName": "Mythbuilder",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Alma Mader Brewing",
+    "Origin": "Kansas City, MO United States",
+    "BeerAbv": 15.25,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-422018_74103.jpeg",
+    "HallRating": 30.61,
+    "BAR": 6.39,
+    "StylePlus": "109",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.0688779867953446046266583649"
+  },
+  {
+    "BID": 3343863,
+    "BeerName": "Waldo Honey Hydromel (Sichuan Cherry Bomb)",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "BKS Artisan Ales",
+    "Origin": "Kansas City, MO United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-277027_9a1fb.jpeg",
+    "HallRating": 30.61,
+    "BAR": 6.39,
+    "StylePlus": "123",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.0688861768427606686143972412"
+  },
+  {
+    "BID": 6409187,
+    "BeerName": "Przepalanka z Kranu 2025",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Szynkarnia",
+    "Origin": "Wrocław, Województwo dolnośląskie Poland",
+    "BeerAbv": 45.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-566018_b2847.jpeg",
+    "HallRating": 30.61,
+    "BAR": 6.39,
+    "StylePlus": "131",
+    "RatingScore": 5.00,
+    "AdjustedRating": "2.0688993719191532161501987643"
+  },
+  {
+    "BID": 6410850,
+    "BeerName": "Elixir of Life Bourbon BA Batch #31",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Two Heads Behind",
+    "Origin": "Ringsted, Region Sjælland Denmark",
+    "BeerAbv": 14.30,
+    "BeerIbu": 52.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 30.61,
+    "BAR": 6.39,
+    "StylePlus": "116",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0688807168111499592892379903"
   },
   {
     "BID": 3008402,
@@ -342,7 +252,7 @@
     "BAR": 19.04,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1226909966908619504232862549"
+    "AdjustedRating": "2.1061916301305244090551013958"
   },
   {
     "BID": 4702155,
@@ -357,7 +267,7 @@
     "BAR": 19.00,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1220437819452756690920926912"
+    "AdjustedRating": "2.105605972742285552514862697"
   },
   {
     "BID": 24328,
@@ -372,6 +282,96 @@
     "BAR": 18.80,
     "StylePlus": "115",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.118206734203802233391516477"
+    "AdjustedRating": "2.1021363299175099923462879497"
+  },
+  {
+    "BID": 1400059,
+    "BeerName": "Red Agnes",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1400059_f3b19_sm.jpeg",
+    "HallRating": 30.45,
+    "BAR": 18.80,
+    "StylePlus": "114",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.1027762167028491650465254171"
+  },
+  {
+    "BID": 6607863,
+    "BeerName": "Elk Reserve Six (2026)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Elkton Brewing Company",
+    "Origin": "Elkton, VA United States",
+    "BeerAbv": 15.10,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6607863_f7ae9_sm.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.0688877121468649196203850271"
+  },
+  {
+    "BID": 6605219,
+    "BeerName": "Lunar VIII",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Track Brewing Company",
+    "Origin": "Manchester, Greater Manchester England",
+    "BeerAbv": 10.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605219_e50ee_sm.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.0688862752998819390728984317"
+  },
+  {
+    "BID": 4961446,
+    "BeerName": "Mega Fresh - Maria",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Juicy Brewing Co",
+    "Origin": "Herndon, VA United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961446_9485b_sm.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "114",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.0688872331978705927712228286"
+  },
+  {
+    "BID": 4222823,
+    "BeerName": "Banana PB BassLine",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0688848384528989585254118363"
+  },
+  {
+    "BID": 6609700,
+    "BeerName": "A Finite View of the Infinite (2nd Edition, 2026)",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "TEST",
+    "Origin": "Kings County, NY United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-462758_caf1b.jpeg",
+    "HallRating": 30.41,
+    "BAR": 6.51,
+    "StylePlus": "118",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0688843595039046316762496378"
   }
 ]
