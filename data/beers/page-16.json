@@ -1,35 +1,5 @@
 [
   {
-    "BID": 5023643,
-    "BeerName": "Grackle",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Lua Brewing",
-    "Origin": "Des Moines, IA United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64726_8e04d.jpeg",
-    "HallRating": 27.56,
-    "BAR": 12.79,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.07090928385201066227669278"
-  },
-  {
-    "BID": 6214912,
-    "BeerName": "Dancing With Her Ghosts",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Wander Beyond Brewing",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 18.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6237079_e379c_sm.jpeg",
-    "HallRating": 27.56,
-    "BAR": 9.67,
-    "StylePlus": "112",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.0692954569911911255198768338"
-  },
-  {
     "BID": 5629684,
     "BeerName": "Wilderness of History (Double Barrel)",
     "BeerStyle": "Barleywine - English",
@@ -42,52 +12,7 @@
     "BAR": 12.79,
     "StylePlus": "115",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0708833699254884882825024765"
-  },
-  {
-    "BID": 6200492,
-    "BeerName": "The Gloaming",
-    "BeerStyle": "Rye Wine",
-    "BreweryName": "Solaris Beer & Blending",
-    "Origin": "Murrieta, CA United States",
-    "BeerAbv": 15.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6200492_ee694_sm.jpeg",
-    "HallRating": 27.55,
-    "BAR": 9.70,
-    "StylePlus": "113",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0692766150586139524192621538"
-  },
-  {
-    "BID": 4802065,
-    "BeerName": "Barrique Puffeney (2018)",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Bokke",
-    "Origin": "Hasselt, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
-    "HallRating": 27.55,
-    "BAR": 12.75,
-    "StylePlus": "116",
-    "RatingScore": 4.75,
-    "AdjustedRating": "2.0710435822653356176839364848"
-  },
-  {
-    "BID": 6422739,
-    "BeerName": "Guild of Suffering",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 9.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
-    "HallRating": 27.55,
-    "BAR": 12.75,
-    "StylePlus": "110",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0708677595348336384192957898"
+    "AdjustedRating": "2.0627493528044974352410676486"
   },
   {
     "BID": 5618221,
@@ -102,22 +27,52 @@
     "BAR": 9.72,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0693140884474762300400575603"
+    "AdjustedRating": "2.0611295878601882252101585456"
   },
   {
-    "BID": 5613482,
-    "BeerName": "Proper Black - Banana",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brewlihan",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 12.00,
+    "BID": 6200492,
+    "BeerName": "The Gloaming",
+    "BeerStyle": "Rye Wine",
+    "BreweryName": "Solaris Beer & Blending",
+    "Origin": "Murrieta, CA United States",
+    "BeerAbv": 15.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
-    "HallRating": 27.54,
-    "BAR": 12.71,
-    "StylePlus": "117",
-    "RatingScore": 4.72,
-    "AdjustedRating": "2.0709800668230001675001794645"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6200492_ee694_sm.jpeg",
+    "HallRating": 27.55,
+    "BAR": 9.70,
+    "StylePlus": "113",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0610910194038453012546736223"
+  },
+  {
+    "BID": 6422739,
+    "BeerName": "Guild of Suffering",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Troon Brewing",
+    "Origin": "Hopewell, NJ United States",
+    "BeerAbv": 9.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
+    "HallRating": 27.55,
+    "BAR": 12.75,
+    "StylePlus": "110",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0627331547816840566225825746"
+  },
+  {
+    "BID": 4802065,
+    "BeerName": "Barrique Puffeney (2018)",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "Bokke",
+    "Origin": "Hasselt, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
+    "HallRating": 27.55,
+    "BAR": 12.75,
+    "StylePlus": "116",
+    "RatingScore": 4.75,
+    "AdjustedRating": "2.0629140376104561006227385729"
   },
   {
     "BID": 4502493,
@@ -132,7 +87,7 @@
     "BAR": 12.70,
     "StylePlus": "111",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0708843566670176211032093188"
+    "AdjustedRating": "2.0627500875297221989750456602"
   },
   {
     "BID": 6004323,
@@ -145,24 +100,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004323_ac9bc_sm.jpeg",
     "HallRating": 27.54,
     "BAR": 12.71,
-    "StylePlus": "115",
+    "StylePlus": "116",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0709071107011335003553405167"
+    "AdjustedRating": "2.0627735138567873520355040946"
   },
   {
-    "BID": 4303684,
-    "BeerName": "Double Barrel-Aged 120 Minute IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 17.40,
+    "BID": 5613482,
+    "BeerName": "Proper Black - Banana",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brewlihan",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 12.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-459_75746.jpeg",
-    "HallRating": 27.53,
-    "BAR": 12.66,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
+    "HallRating": 27.54,
+    "BAR": 12.71,
     "StylePlus": "118",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0708009785236216233031268171"
+    "RatingScore": 4.72,
+    "AdjustedRating": "2.0628485813658113935765905913"
   },
   {
     "BID": 6101052,
@@ -177,7 +132,7 @@
     "BAR": 9.77,
     "StylePlus": "126",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0692942186801899193345640259"
+    "AdjustedRating": "2.0611091884582702183470646913"
   },
   {
     "BID": 6401056,
@@ -192,7 +147,22 @@
     "BAR": 9.80,
     "StylePlus": "114",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0693088018876959765546435789"
+    "AdjustedRating": "2.0611242101348255937104377768"
+  },
+  {
+    "BID": 4303684,
+    "BeerName": "Double Barrel-Aged 120 Minute IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 17.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-459_75746.jpeg",
+    "HallRating": 27.53,
+    "BAR": 12.66,
+    "StylePlus": "119",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0626641790501039987200157537"
   },
   {
     "BID": 4941629,
@@ -207,22 +177,7 @@
     "BAR": 12.61,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.070838800571436775833106003"
-  },
-  {
-    "BID": 6014341,
-    "BeerName": "King Sized Candy Bar (2024)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "American Solera",
-    "Origin": "Tulsa, OK United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-262817_c0b72.jpeg",
-    "HallRating": 27.52,
-    "BAR": 12.60,
-    "StylePlus": "110",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0707313126980176696371311248"
+    "AdjustedRating": "2.0627029451468068765877001241"
   },
   {
     "BID": 6100663,
@@ -237,22 +192,22 @@
     "BAR": 12.63,
     "StylePlus": "112",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0708352071472328043340926929"
+    "AdjustedRating": "2.0626992887630769230769230769"
   },
   {
-    "BID": 6506103,
-    "BeerName": "Ripened Psychosis",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Troon Brewing",
-    "Origin": "Hopewell, NJ United States",
-    "BeerAbv": 9.00,
+    "BID": 6014341,
+    "BeerName": "King Sized Candy Bar (2024)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "American Solera",
+    "Origin": "Tulsa, OK United States",
+    "BeerAbv": 13.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
-    "HallRating": 27.51,
-    "BAR": 12.59,
-    "StylePlus": "112",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0706879555050372107492402307"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-262817_c0b72.jpeg",
+    "HallRating": 27.52,
+    "BAR": 12.60,
+    "StylePlus": "110",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0625923358260758259773634694"
   },
   {
     "BID": 6004992,
@@ -267,7 +222,7 @@
     "BAR": 12.59,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0707115741606642896456005169"
+    "AdjustedRating": "2.0625719913647955415956912594"
   },
   {
     "BID": 6403888,
@@ -282,7 +237,7 @@
     "BAR": 9.87,
     "StylePlus": "120",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0693266924279608768002298548"
+    "AdjustedRating": "2.0611426743249533877327842486"
   },
   {
     "BID": 6305131,
@@ -295,24 +250,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-178746_96491.jpeg",
     "HallRating": 27.51,
     "BAR": 12.59,
-    "StylePlus": "111",
+    "StylePlus": "112",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0707666843571274737371078513"
+    "AdjustedRating": "2.0626286814328334695404732131"
   },
   {
-    "BID": 5218697,
-    "BeerName": "THE GREAT NORTHERN BARREL-AGED SERIES 22 - RESERVA! - RELEASED 02/03/23",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Evil Twin Brewing NYC",
-    "Origin": "Ridgewood, NY United States",
-    "BeerAbv": 15.00,
+    "BID": 6506103,
+    "BeerName": "Ripened Psychosis",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Troon Brewing",
+    "Origin": "Hopewell, NJ United States",
+    "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5218697_a4fab_sm.jpeg",
-    "HallRating": 27.50,
-    "BAR": 12.53,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-303553_f0223.jpeg",
+    "HallRating": 27.51,
+    "BAR": 12.59,
     "StylePlus": "112",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0706796648958318376958088647"
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0625476956213507153336418507"
   },
   {
     "BID": 6406219,
@@ -325,24 +280,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6406219_ce44d_sm.jpeg",
     "HallRating": 27.50,
     "BAR": 12.51,
-    "StylePlus": "112",
+    "StylePlus": "113",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0706254929094137523391994793"
+    "AdjustedRating": "2.0624832018649441698339864905"
   },
   {
-    "BID": 6604931,
-    "BeerName": "Macadamia Cocoa Coconut Truth (2026)",
+    "BID": 5218697,
+    "BeerName": "THE GREAT NORTHERN BARREL-AGED SERIES 22 - RESERVA! - RELEASED 02/03/23",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 16.80,
+    "BreweryName": "Evil Twin Brewing NYC",
+    "Origin": "Ridgewood, NY United States",
+    "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 27.49,
-    "BAR": 9.93,
-    "StylePlus": "112",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5218697_a4fab_sm.jpeg",
+    "HallRating": 27.50,
+    "BAR": 12.53,
+    "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0693445827112134808862753736"
+    "AdjustedRating": "2.0625390070303961244202877145"
+  },
+  {
+    "BID": 4414604,
+    "BeerName": "Barrel Aged Vanilla Wrong Answers Only",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Casey Brewing & Blending",
+    "Origin": "Glenwood Springs, CO United States",
+    "BeerAbv": 12.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-127424_d63e0.jpeg",
+    "HallRating": 27.49,
+    "BAR": 12.49,
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.0624788569529576840706003988"
   },
   {
     "BID": 5102354,
@@ -357,7 +327,7 @@
     "BAR": 12.50,
     "StylePlus": "109",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.070627193470806002723289389"
+    "AdjustedRating": "2.0624849311352407866460215985"
   },
   {
     "BID": 6010238,
@@ -372,6 +342,36 @@
     "BAR": 9.93,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0693422602368444995666310714"
+    "AdjustedRating": "2.0611587491502714205491463307"
+  },
+  {
+    "BID": 6604931,
+    "BeerName": "Macadamia Cocoa Coconut Truth (2026)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 16.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 27.49,
+    "BAR": 9.93,
+    "StylePlus": "113",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0611611382422194417898978355"
+  },
+  {
+    "BID": 1674045,
+    "BeerName": "Term Oil 6-B",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1674045_12faf_sm.jpeg",
+    "HallRating": 27.49,
+    "BAR": 9.93,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0611635273341674630306493404"
   }
 ]

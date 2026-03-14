@@ -1,20 +1,5 @@
 [
   {
-    "BID": 4003827,
-    "BeerName": "Presto",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2092386_391cc_sm.jpeg",
-    "HallRating": 28.03,
-    "BAR": 14.29,
-    "StylePlus": "112",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0729681714588996392377373106"
-  },
-  {
     "BID": 4001362,
     "BeerName": "Rye Black Gold (2020)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -27,7 +12,7 @@
     "BAR": 14.26,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0729896496450882557564078963"
+    "AdjustedRating": "2.0649229787003814306477435094"
   },
   {
     "BID": 3349056,
@@ -42,22 +27,7 @@
     "BAR": 14.25,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0729659614410821743901651808"
-  },
-  {
-    "BID": 6422119,
-    "BeerName": "12 Year",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 17.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6422119_1ca8a_sm.jpeg",
-    "HallRating": 28.02,
-    "BAR": 14.24,
-    "StylePlus": "118",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.073093755695551863053327436"
+    "AdjustedRating": "2.0648985326949041249511218008"
   },
   {
     "BID": 5216973,
@@ -70,24 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5216973_cc60e_sm.jpeg",
     "HallRating": 28.00,
     "BAR": 14.19,
-    "StylePlus": "115",
+    "StylePlus": "116",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0729852234931261207411835027"
-  },
-  {
-    "BID": 5605304,
-    "BeerName": "Mead Didn’t Start the Fire",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Funktastic Meads",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 20.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605304_7fee3_sm.jpeg",
-    "HallRating": 28.00,
-    "BAR": 8.70,
-    "StylePlus": "115",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0691033143509827209685452665"
+    "AdjustedRating": "2.0649179694739845156466734218"
   },
   {
     "BID": 6424290,
@@ -102,7 +57,22 @@
     "BAR": 14.20,
     "StylePlus": "109",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0727991969578149058462362404"
+    "AdjustedRating": "2.0647266544517296842643738656"
+  },
+  {
+    "BID": 5605304,
+    "BeerName": "Mead Didn’t Start the Fire",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Funktastic Meads",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 20.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605304_7fee3_sm.jpeg",
+    "HallRating": 28.00,
+    "BAR": 8.70,
+    "StylePlus": "116",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.0609121020272433923688942533"
   },
   {
     "BID": 5902002,
@@ -115,9 +85,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4053347_07d24_sm.jpeg",
     "HallRating": 27.99,
     "BAR": 14.16,
-    "StylePlus": "115",
+    "StylePlus": "116",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0729078512959066564651874522"
+    "AdjustedRating": "2.064838182708057669321239369"
+  },
+  {
+    "BID": 4423027,
+    "BeerName": "Norwalien Happiness (2020)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4423027_c1b0d_sm.jpeg",
+    "HallRating": 27.99,
+    "BAR": 14.16,
+    "StylePlus": "114",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0647441214476321646847600192"
   },
   {
     "BID": 6024793,
@@ -132,22 +117,7 @@
     "BAR": 14.17,
     "StylePlus": "111",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0728874664093993429641212504"
-  },
-  {
-    "BID": 4423027,
-    "BeerName": "Norwalien Happiness (2020)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4423027_c1b0d_sm.jpeg",
-    "HallRating": 27.99,
-    "BAR": 14.16,
-    "StylePlus": "113",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0728163898948214067965598782"
+    "AdjustedRating": "2.0648172536375173390785939852"
   },
   {
     "BID": 5302224,
@@ -160,39 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5302224_67e49_sm.jpeg",
     "HallRating": 27.99,
     "BAR": 14.16,
-    "StylePlus": "113",
+    "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0728814241693186464263427067"
-  },
-  {
-    "BID": 4039823,
-    "BeerName": "Midnight Munchies",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Orchestrated Minds Brewing",
-    "Origin": "Fort Lauderdale, FL United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_1b9fb.jpeg",
-    "HallRating": 27.98,
-    "BAR": 8.74,
-    "StylePlus": "109",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.0690973780425605279478565288"
-  },
-  {
-    "BID": 1668078,
-    "BeerName": "Blåbær Lambik (Blueberry Lambic) (2009-II) (Batch 4)",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16564_sm_7d3e5e05e5fcc0d509b2d6097c61d6.jpeg",
-    "HallRating": 27.98,
-    "BAR": 8.74,
-    "StylePlus": "115",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.069114810283106291171096962"
+    "AdjustedRating": "2.0648110184827654053788167587"
   },
   {
     "BID": 4013983,
@@ -205,9 +145,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_562749_sm_c647c8c0317e639c0f4e6679fd1eeb.jpeg",
     "HallRating": 27.98,
     "BAR": 14.15,
-    "StylePlus": "116",
+    "StylePlus": "117",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0729766059659810921054519197"
+    "AdjustedRating": "2.0649088670214859121674799307"
   },
   {
     "BID": 6411148,
@@ -222,7 +162,7 @@
     "BAR": 8.74,
     "StylePlus": "109",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0690946961593996412981272314"
+    "AdjustedRating": "2.060903256784351591616149922"
   },
   {
     "BID": 6006731,
@@ -237,7 +177,37 @@
     "BAR": 14.15,
     "StylePlus": "116",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.0729604190102286258063590587"
+    "AdjustedRating": "2.0648922164233433023768298442"
+  },
+  {
+    "BID": 1668078,
+    "BeerName": "Blåbær Lambik (Blueberry Lambic) (2009-II) (Batch 4)",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_16564_sm_7d3e5e05e5fcc0d509b2d6097c61d6.jpeg",
+    "HallRating": 27.98,
+    "BAR": 8.74,
+    "StylePlus": "114",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.0609239479174620847301900875"
+  },
+  {
+    "BID": 4039823,
+    "BeerName": "Midnight Munchies",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_1b9fb.jpeg",
+    "HallRating": 27.98,
+    "BAR": 8.74,
+    "StylePlus": "109",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0609060156020996573646886108"
   },
   {
     "BID": 6030251,
@@ -252,7 +222,22 @@
     "BAR": 14.11,
     "StylePlus": "109",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0726418548054277004005021221"
+    "AdjustedRating": "2.0645642693301916724670974153"
+  },
+  {
+    "BID": 3807483,
+    "BeerName": "Valentine (Batch 1)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
+    "HallRating": 27.97,
+    "BAR": 14.13,
+    "StylePlus": "114",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.06466015893394722861696476"
   },
   {
     "BID": 4982258,
@@ -267,37 +252,7 @@
     "BAR": 14.13,
     "StylePlus": "116",
     "RatingScore": 4.76,
-    "AdjustedRating": "2.0730773178602255691232835443"
-  },
-  {
-    "BID": 3807483,
-    "BeerName": "Valentine (Batch 1)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
-    "HallRating": 27.97,
-    "BAR": 14.13,
-    "StylePlus": "113",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0727349777060469119862276738"
-  },
-  {
-    "BID": 6504350,
-    "BeerName": "Placed Flowers",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400435_8c104_sm.jpeg",
-    "HallRating": 27.96,
-    "BAR": 14.10,
-    "StylePlus": "110",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.072677685650956547105252461"
+    "AdjustedRating": "2.0650123247537415300613647823"
   },
   {
     "BID": 6303536,
@@ -312,7 +267,22 @@
     "BAR": 8.78,
     "StylePlus": "119",
     "RatingScore": 4.78,
-    "AdjustedRating": "2.0691360519086820970360472968"
+    "AdjustedRating": "2.0609458190712659986403003163"
+  },
+  {
+    "BID": 6504350,
+    "BeerName": "Placed Flowers",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400435_8c104_sm.jpeg",
+    "HallRating": 27.96,
+    "BAR": 14.10,
+    "StylePlus": "110",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0646010867806098229855599308"
   },
   {
     "BID": 6419240,
@@ -325,9 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6419240_6d0ea_sm.jpeg",
     "HallRating": 27.96,
     "BAR": 8.78,
-    "StylePlus": "121",
+    "StylePlus": "122",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0691128488858238869014266626"
+    "AdjustedRating": "2.0609219504300789216990334309"
   },
   {
     "BID": 3401837,
@@ -342,7 +312,7 @@
     "BAR": 14.08,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0726207264332306750578648354"
+    "AdjustedRating": "2.0645423569373047691664412032"
   },
   {
     "BID": 5004220,
@@ -357,7 +327,7 @@
     "BAR": 14.05,
     "StylePlus": "117",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0725678425420904002085091833"
+    "AdjustedRating": "2.06448777934922434763786984"
   },
   {
     "BID": 3208001,
@@ -370,8 +340,38 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3208001_18f7c_sm.jpeg",
     "HallRating": 27.95,
     "BAR": 14.05,
-    "StylePlus": "112",
+    "StylePlus": "113",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0725427771013466982936720484"
+    "AdjustedRating": "2.0644620157811108760779413718"
+  },
+  {
+    "BID": 5608860,
+    "BeerName": "XYAUYÙ KENTUCKY - RISERVA 2018",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "BIRRIFICIO AGRICOLO BALADIN - Baladin Indipendent Italian Farm Brewery",
+    "Origin": "Piozzo, Piemonte Italy",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-128_c2ca5.jpeg",
+    "HallRating": 27.94,
+    "BAR": 14.03,
+    "StylePlus": "115",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.0644513929480636076299639655"
+  },
+  {
+    "BID": 5229722,
+    "BeerName": "BA Monster Jam: Bananas Foster",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Arkane Aleworks",
+    "Origin": "Largo, FL United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5229722_726e7_sm.jpeg",
+    "HallRating": 27.94,
+    "BAR": 14.04,
+    "StylePlus": "112",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0644537705813192705591822077"
   }
 ]

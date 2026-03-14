@@ -1,35 +1,5 @@
 [
   {
-    "BID": 6605126,
-    "BeerName": "Side-Poured Guinness",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Queue Beer",
-    "Origin": "Kings County, NY United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605126_24654_sm.jpeg",
-    "HallRating": 30.07,
-    "BAR": 6.71,
-    "StylePlus": "132",
-    "RatingScore": 4.82,
-    "AdjustedRating": "2.0689109463891010888853233968"
-  },
-  {
-    "BID": 6504806,
-    "BeerName": "Bourbon County Brand Double Barrel Stout (2025)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 17.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6455423_920d3_sm.jpeg",
-    "HallRating": 30.05,
-    "BAR": 18.17,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.0938936106222799548673992813"
-  },
-  {
     "BID": 1670477,
     "BeerName": "Grey Monday (2015)",
     "BeerStyle": "Stout - Imperial / Double",
@@ -42,7 +12,7 @@
     "BAR": 17.97,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0914994797597073212396141272"
+    "AdjustedRating": "2.0840220233749756002342377513"
   },
   {
     "BID": 6605436,
@@ -55,9 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605436_65645_sm.jpeg",
     "HallRating": 29.92,
     "BAR": 6.81,
-    "StylePlus": "121",
+    "StylePlus": "122",
     "RatingScore": 4.88,
-    "AdjustedRating": "2.0689208392227671558297252768"
+    "AdjustedRating": "2.0607237461385728855145367026"
   },
   {
     "BID": 6606242,
@@ -72,7 +42,7 @@
     "BAR": 6.81,
     "StylePlus": "114",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0689048663885589486187210238"
+    "AdjustedRating": "2.0607073150579645167488631269"
   },
   {
     "BID": 3904423,
@@ -87,7 +57,7 @@
     "BAR": 17.86,
     "StylePlus": "115",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0907934270922841015367232711"
+    "AdjustedRating": "2.0832922469973635387169221756"
   },
   {
     "BID": 4961097,
@@ -102,7 +72,7 @@
     "BAR": 17.84,
     "StylePlus": "109",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0904712274005901329579524333"
+    "AdjustedRating": "2.082960428841717222269692272"
   },
   {
     "BID": 3237218,
@@ -117,7 +87,7 @@
     "BAR": 17.82,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0902212308294934157580246562"
+    "AdjustedRating": "2.0827028105384204088508668488"
   },
   {
     "BID": 2413345,
@@ -132,22 +102,7 @@
     "BAR": 17.82,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0910507654465773717671748657"
-  },
-  {
-    "BID": 6610334,
-    "BeerName": "Barrel No. 5",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "River North Brewery",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 25.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6610222_a8471_sm.jpeg",
-    "HallRating": 29.78,
-    "BAR": 6.90,
-    "StylePlus": "118",
-    "RatingScore": 4.78,
-    "AdjustedRating": "2.0689218236430906282553252631"
+    "AdjustedRating": "2.0835558036525220958054592509"
   },
   {
     "BID": 6017900,
@@ -162,7 +117,7 @@
     "BAR": 6.90,
     "StylePlus": "112",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0689126279104852904199145084"
+    "AdjustedRating": "2.0607153194445470871239274866"
   },
   {
     "BID": 3338741,
@@ -177,22 +132,22 @@
     "BAR": 6.90,
     "StylePlus": "120",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0689091795107582887316354754"
+    "AdjustedRating": "2.0607117721135441531855771434"
   },
   {
-    "BID": 6601435,
-    "BeerName": "Waters To Fire #10",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Sworn Brewing Company",
-    "Origin": "Mechanicsburg, PA United States",
-    "BeerAbv": 7.50,
+    "BID": 6610334,
+    "BeerName": "Barrel No. 5",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "River North Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 25.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-547098_3a992.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6610222_a8471_sm.jpeg",
     "HallRating": 29.78,
     "BAR": 6.90,
-    "StylePlus": "114",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.0689114784439096231904881641"
+    "StylePlus": "118",
+    "RatingScore": 4.78,
+    "AdjustedRating": "2.0607247789938882442928617354"
   },
   {
     "BID": 3336981,
@@ -207,7 +162,22 @@
     "BAR": 6.90,
     "StylePlus": "116",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0689080300441826215022091311"
+    "AdjustedRating": "2.0607105896698765085394603623"
+  },
+  {
+    "BID": 6601435,
+    "BeerName": "Waters To Fire #10",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Sworn Brewing Company",
+    "Origin": "Mechanicsburg, PA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-547098_3a992.jpeg",
+    "HallRating": 29.78,
+    "BAR": 6.90,
+    "StylePlus": "114",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.0607141370008794424778107055"
   },
   {
     "BID": 1005596,
@@ -222,7 +192,7 @@
     "BAR": 17.65,
     "StylePlus": "117",
     "RatingScore": 4.74,
-    "AdjustedRating": "2.0902464917732915860941783507"
+    "AdjustedRating": "2.0827235183483997068165160029"
   },
   {
     "BID": 3224634,
@@ -235,9 +205,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3224634_5979f_sm.jpeg",
     "HallRating": 29.67,
     "BAR": 17.55,
-    "StylePlus": "131",
+    "StylePlus": "132",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0883673715071982965536580845"
+    "AdjustedRating": "2.0807881159384868067300830017"
   },
   {
     "BID": 6500936,
@@ -252,7 +222,7 @@
     "BAR": 6.99,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0689151449665458133174962762"
+    "AdjustedRating": "2.060717928905749618170172932"
   },
   {
     "BID": 6404910,
@@ -267,7 +237,7 @@
     "BAR": 6.99,
     "StylePlus": "118",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0689157436456203033626606256"
+    "AdjustedRating": "2.0607185447603094053308370695"
   },
   {
     "BID": 6615507,
@@ -282,7 +252,7 @@
     "BAR": 6.99,
     "StylePlus": "115",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0689193357200672436336467219"
+    "AdjustedRating": "2.0607222398876681282948218949"
   },
   {
     "BID": 6504815,
@@ -297,7 +267,7 @@
     "BAR": 17.35,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0858688671674906719745450135"
+    "AdjustedRating": "2.0782131239223110054517305392"
   },
   {
     "BID": 3401449,
@@ -312,52 +282,7 @@
     "BAR": 17.32,
     "StylePlus": "109",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0857594719460801567747029557"
-  },
-  {
-    "BID": 3237217,
-    "BeerName": "Buckley Reserve #1",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Transient Artisan Ales",
-    "Origin": "Bridgman, MI United States",
-    "BeerAbv": 15.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3237217_22569_sm.jpeg",
-    "HallRating": 29.54,
-    "BAR": 17.32,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.085661317251368108621046398"
-  },
-  {
-    "BID": 4941284,
-    "BeerName": "Volume 1: Chapter 3 (Jackfruit, Papaya, Mango And Cashew)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Nostrum",
-    "Origin": "New York, NY United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941284_53ef3_sm.jpeg",
-    "HallRating": 29.54,
-    "BAR": 7.07,
-    "StylePlus": "117",
-    "RatingScore": 4.70,
-    "AdjustedRating": "2.0689298271402126981922329958"
-  },
-  {
-    "BID": 3008094,
-    "BeerName": "Armand'4 Lente (Spring)",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Brouwerij 3 Fonteinen",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Armand4LenteSpring_66323.jpeg",
-    "HallRating": 29.54,
-    "BAR": 17.32,
-    "StylePlus": "114",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.0868501894913585414521265337"
+    "AdjustedRating": "2.0781000319448181395690140156"
   },
   {
     "BID": 6450642,
@@ -372,6 +297,81 @@
     "BAR": 7.07,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0689279592659733181349036249"
+    "AdjustedRating": "2.0607311310264299491798069178"
+  },
+  {
+    "BID": 3237217,
+    "BeerName": "Buckley Reserve #1",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Transient Artisan Ales",
+    "Origin": "Bridgman, MI United States",
+    "BeerAbv": 15.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3237217_22569_sm.jpeg",
+    "HallRating": 29.54,
+    "BAR": 17.32,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0779989874885342139057053752"
+  },
+  {
+    "BID": 5610137,
+    "BeerName": "Trantor",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Living Waters Brewing",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 10.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-413851_e12d1.jpeg",
+    "HallRating": 29.54,
+    "BAR": 7.07,
+    "StylePlus": "116",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0607279285906079947578589007"
+  },
+  {
+    "BID": 4941284,
+    "BeerName": "Volume 1: Chapter 3 (Jackfruit, Papaya, Mango And Cashew)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Nostrum",
+    "Origin": "New York, NY United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941284_53ef3_sm.jpeg",
+    "HallRating": 29.54,
+    "BAR": 7.07,
+    "StylePlus": "117",
+    "RatingScore": 4.70,
+    "AdjustedRating": "2.060733052487923121832975728"
+  },
+  {
+    "BID": 3008094,
+    "BeerName": "Armand'4 Lente (Spring)",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "Brouwerij 3 Fonteinen",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Armand4LenteSpring_66323.jpeg",
+    "HallRating": 29.54,
+    "BAR": 17.32,
+    "StylePlus": "114",
+    "RatingScore": 4.68,
+    "AdjustedRating": "2.0792217638756735734185853674"
+  },
+  {
+    "BID": 1484633,
+    "BeerName": "Snowed In",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Funky Buddha Brewery",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3741_f2c09.jpeg",
+    "HallRating": 29.48,
+    "BAR": 17.22,
+    "StylePlus": "116",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0775290650347819491104482871"
   }
 ]

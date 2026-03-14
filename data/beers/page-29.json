@@ -1,78 +1,48 @@
 [
   {
-    "BID": 6035029,
-    "BeerName": "Unfiltered Wheat Beer",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Boulevard Brewing Co.",
-    "Origin": "Kansas City, MO United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10501_0b26b_sm.jpeg",
-    "HallRating": 23.53,
-    "BAR": 16.91,
-    "StylePlus": "102",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.4069020076917048266287492863"
-  },
-  {
-    "BID": 3823385,
-    "BeerName": "Pompeii",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-293189_fc739_sm.jpeg",
-    "HallRating": 23.53,
-    "BAR": 16.91,
-    "StylePlus": "109",
-    "RatingScore": 4.04,
-    "AdjustedRating": "2.5050420792924103438180078808"
-  },
-  {
-    "BID": 5902973,
-    "BeerName": "Grand Prestige",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Hertog Jan",
-    "Origin": "Arcen, Limburg Netherlands",
-    "BeerAbv": 10.00,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9319_daad1_sm.jpeg",
-    "HallRating": 23.52,
-    "BAR": 16.89,
-    "StylePlus": "97",
-    "RatingScore": 3.81,
-    "AdjustedRating": "2.4499609980733114351772179365"
-  },
-  {
-    "BID": 3237184,
-    "BeerName": "Kokešův MeZeK",
+    "BID": 1644830,
+    "BeerName": "Mule Beer",
     "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Pivovar Kokeš",
-    "Origin": "Drahouš, Středočeský kraj Czech Republic",
-    "BeerAbv": 3.90,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3237184_6ae38_sm.jpeg",
+    "BreweryName": "Short’s Brewing Company",
+    "Origin": "Elk Rapids, MI United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1644830_a5838_sm.jpeg",
+    "HallRating": 23.50,
+    "BAR": 15.08,
+    "StylePlus": "106",
+    "RatingScore": 3.66,
+    "AdjustedRating": "2.1009989747936692416489171387"
+  },
+  {
+    "BID": 1603129,
+    "BeerName": "Twin Eagle Presents Bier",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Twin Eagle Brewing",
+    "Origin": "Ann Arbor, MI United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-141515_e7055.jpeg",
+    "HallRating": 23.50,
+    "BAR": 4.52,
+    "StylePlus": "122",
+    "RatingScore": 4.18,
+    "AdjustedRating": "2.0606475387689040748304514807"
+  },
+  {
+    "BID": 3337848,
+    "BeerName": "Goose Island Pilze Blackberry And Hibiscus",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2898_90b47.jpeg",
     "HallRating": 23.50,
     "BAR": 4.52,
     "StylePlus": "104",
-    "RatingScore": 3.58,
-    "AdjustedRating": "2.0688239048750290365609216983"
-  },
-  {
-    "BID": 6211180,
-    "BeerName": "Patience",
-    "BeerStyle": "Other",
-    "BreweryName": "Brugga Braggotery",
-    "Origin": "England",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-569929_3d98a.jpeg",
-    "HallRating": 23.50,
-    "BAR": 4.52,
-    "StylePlus": "101",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.0688242880378948074247384315"
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.0606231011181703294402250629"
   },
   {
     "BID": 2007037,
@@ -87,7 +57,7 @@
     "BAR": 16.87,
     "StylePlus": "105",
     "RatingScore": 3.89,
-    "AdjustedRating": "2.4631215177844698995243590104"
+    "AdjustedRating": "2.4655448891369775511730821244"
   },
   {
     "BID": 4982046,
@@ -102,37 +72,7 @@
     "BAR": 4.52,
     "StylePlus": "108",
     "RatingScore": 3.73,
-    "AdjustedRating": "2.0688296523180155995181726963"
-  },
-  {
-    "BID": 1603129,
-    "BeerName": "Twin Eagle Presents Bier",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Twin Eagle Brewing",
-    "Origin": "Ann Arbor, MI United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 32.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-141515_e7055.jpeg",
-    "HallRating": 23.50,
-    "BAR": 4.52,
-    "StylePlus": "121",
-    "RatingScore": 4.18,
-    "AdjustedRating": "2.0688468946469752883899256904"
-  },
-  {
-    "BID": 6217547,
-    "BeerName": "Socialite",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Banter Brewing Company",
-    "Origin": "Springfield, MO United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 9.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-510097_6d873.jpeg",
-    "HallRating": 23.50,
-    "BAR": 4.52,
-    "StylePlus": "107",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.0688285028294182869267224967"
+    "AdjustedRating": "2.0606298017643392596278677903"
   },
   {
     "BID": 4980615,
@@ -147,67 +87,22 @@
     "BAR": 4.52,
     "StylePlus": "110",
     "RatingScore": 3.79,
-    "AdjustedRating": "2.0688319512952102247010730955"
+    "AdjustedRating": "2.0606321666982812349882122824"
   },
   {
-    "BID": 1644830,
-    "BeerName": "Mule Beer",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Short’s Brewing Company",
-    "Origin": "Elk Rapids, MI United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1644830_a5838_sm.jpeg",
-    "HallRating": 23.50,
-    "BAR": 15.08,
-    "StylePlus": "106",
-    "RatingScore": 3.66,
-    "AdjustedRating": "2.1078992446103497169981008622"
-  },
-  {
-    "BID": 6450793,
-    "BeerName": "Alcoholic Yuzu Lemonade",
+    "BID": 6211180,
+    "BeerName": "Patience",
     "BeerStyle": "Other",
-    "BreweryName": "Duncan's Brewing",
-    "Origin": "Paraparaumu, Wellington New Zealand",
-    "BeerAbv": 5.00,
+    "BreweryName": "Brugga Braggotery",
+    "Origin": "England",
+    "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-150054_49471.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-569929_3d98a.jpeg",
     "HallRating": 23.50,
     "BAR": 4.52,
-    "StylePlus": "123",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.0688549410671564765300770876"
-  },
-  {
-    "BID": 3337848,
-    "BeerName": "Goose Island Pilze Blackberry And Hibiscus",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2898_90b47.jpeg",
-    "HallRating": 23.50,
-    "BAR": 4.52,
-    "StylePlus": "103",
-    "RatingScore": 3.56,
-    "AdjustedRating": "2.0688231385492974948332882319"
-  },
-  {
-    "BID": 3339747,
-    "BeerName": "Hot Style Flor Blanca Mexican Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Broadway Brewery",
-    "Origin": "Columbia, MO United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 9.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-6923_27b96.jpeg",
-    "HallRating": 23.50,
-    "BAR": 4.52,
-    "StylePlus": "103",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.0688235217121632656971049651"
+    "StylePlus": "101",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.0606242835851413171203973089"
   },
   {
     "BID": 6427446,
@@ -222,22 +117,7 @@
     "BAR": 16.86,
     "StylePlus": "99",
     "RatingScore": 3.61,
-    "AdjustedRating": "2.400313605560098119378577269"
-  },
-  {
-    "BID": 6026213,
-    "BeerName": "Punkel",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Lakewood Brewing Co.",
-    "Origin": "Garland, TX United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 23.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-11862_b9a46.jpeg",
-    "HallRating": 23.49,
-    "BAR": 15.08,
-    "StylePlus": "104",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.105617458227528739525637222"
+    "AdjustedRating": "2.4013357625408612131240163041"
   },
   {
     "BID": 6404169,
@@ -252,7 +132,52 @@
     "BAR": 16.86,
     "StylePlus": "103",
     "RatingScore": 3.82,
-    "AdjustedRating": "2.444697394063182364458086248"
+    "AdjustedRating": "2.4467140773344255297056261573"
+  },
+  {
+    "BID": 6611120,
+    "BeerName": "Edelstoff",
+    "BeerStyle": "Lager - Dortmunder / Export",
+    "BreweryName": "Augustiner-Bräu München",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.60,
+    "BeerIbu": 17.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1697_22eb0_sm.jpeg",
+    "HallRating": 23.49,
+    "BAR": 16.86,
+    "StylePlus": "107",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.4027280343606133681016280331"
+  },
+  {
+    "BID": 6026213,
+    "BeerName": "Punkel",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Lakewood Brewing Co.",
+    "Origin": "Garland, TX United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-11862_b9a46.jpeg",
+    "HallRating": 23.49,
+    "BAR": 15.08,
+    "StylePlus": "104",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.0986530428434548523976821645"
+  },
+  {
+    "BID": 6226991,
+    "BeerName": "Dortmunder Gold Lager",
+    "BeerStyle": "Lager - Dortmunder / Export",
+    "BreweryName": "Great Lakes Brewing Company",
+    "Origin": "Cleveland, OH United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6288_7c2bb_sm.jpeg",
+    "HallRating": 23.48,
+    "BAR": 16.85,
+    "StylePlus": "105",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.3884298812922151792743560772"
   },
   {
     "BID": 3226048,
@@ -265,9 +190,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3226048_9bbf1_sm.jpeg",
     "HallRating": 23.47,
     "BAR": 15.05,
-    "StylePlus": "106",
+    "StylePlus": "107",
     "RatingScore": 3.66,
-    "AdjustedRating": "2.1071157089276490921371528468"
+    "AdjustedRating": "2.10018993496337335156056671"
   },
   {
     "BID": 5501905,
@@ -282,22 +207,7 @@
     "BAR": 15.02,
     "StylePlus": "105",
     "RatingScore": 3.62,
-    "AdjustedRating": "2.1055782987250737063110371255"
-  },
-  {
-    "BID": 3013483,
-    "BeerName": "DBA (Double Barrel Ale)",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Firestone Walker Brewing Company",
-    "Origin": "Paso Robles, CA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1238_c12cb_sm.jpeg",
-    "HallRating": 23.44,
-    "BAR": 16.79,
-    "StylePlus": "104",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.3800939798751736862486048154"
+    "AdjustedRating": "2.0986067947556271255693221011"
   },
   {
     "BID": 904457,
@@ -312,22 +222,7 @@
     "BAR": 15.01,
     "StylePlus": "111",
     "RatingScore": 3.83,
-    "AdjustedRating": "2.1101757883282859581633011003"
-  },
-  {
-    "BID": 2009269,
-    "BeerName": "Kungaloosh Spiced Excursion Ale",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Concrete Beach Brewery",
-    "Origin": "Miami, FL United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1537846_5d3aa_sm.jpeg",
-    "HallRating": 23.43,
-    "BAR": 14.99,
-    "StylePlus": "109",
-    "RatingScore": 3.76,
-    "AdjustedRating": "2.1081861681535158095647983982"
+    "AdjustedRating": "2.1033313926278160151357432886"
   },
   {
     "BID": 6304724,
@@ -342,7 +237,22 @@
     "BAR": 16.78,
     "StylePlus": "99",
     "RatingScore": 3.68,
-    "AdjustedRating": "2.4004527934964111966101308097"
+    "AdjustedRating": "2.4014904349263647608896910665"
+  },
+  {
+    "BID": 2009269,
+    "BeerName": "Kungaloosh Spiced Excursion Ale",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Concrete Beach Brewery",
+    "Origin": "Miami, FL United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1537846_5d3aa_sm.jpeg",
+    "HallRating": 23.43,
+    "BAR": 14.99,
+    "StylePlus": "109",
+    "RatingScore": 3.76,
+    "AdjustedRating": "2.1012845918534192555544868712"
   },
   {
     "BID": 6207303,
@@ -357,7 +267,7 @@
     "BAR": 16.76,
     "StylePlus": "102",
     "RatingScore": 3.52,
-    "AdjustedRating": "2.3639116834381671350324231203"
+    "AdjustedRating": "2.3641223141086051779745842577"
   },
   {
     "BID": 1500486,
@@ -372,6 +282,96 @@
     "BAR": 16.76,
     "StylePlus": "97",
     "RatingScore": 3.59,
-    "AdjustedRating": "2.3784253537230846699206344665"
+    "AdjustedRating": "2.3789656541763470057760169477"
+  },
+  {
+    "BID": 6209719,
+    "BeerName": "Big Swell IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Maui Brewing Company",
+    "Origin": "Kihei, HI United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5382_a8418_sm.jpeg",
+    "HallRating": 23.40,
+    "BAR": 16.75,
+    "StylePlus": "100",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.3978177812553115420908574074"
+  },
+  {
+    "BID": 1506327,
+    "BeerName": "Mop Water 5-Spiced Ale",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Cape May Brewing Co.",
+    "Origin": "Cape May, NJ United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-490953_a6a15_sm.jpeg",
+    "HallRating": 23.39,
+    "BAR": 14.93,
+    "StylePlus": "110",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.1001885389780740812053238345"
+  },
+  {
+    "BID": 2209305,
+    "BeerName": "First Call",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Modist Brewing Co.",
+    "Origin": "Minneapolis, MN United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 27.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1507498_74416_sm.jpeg",
+    "HallRating": 23.39,
+    "BAR": 14.92,
+    "StylePlus": "114",
+    "RatingScore": 3.90,
+    "AdjustedRating": "2.1028371625391430765194493854"
+  },
+  {
+    "BID": 6419213,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "AleSmith Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 7.25,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1793_5fdd1_sm.jpeg",
+    "HallRating": 23.37,
+    "BAR": 16.71,
+    "StylePlus": "105",
+    "RatingScore": 3.89,
+    "AdjustedRating": "2.4311213082052108176921051908"
+  },
+  {
+    "BID": 2600611,
+    "BeerName": "Hop Ottin' IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Anderson Valley Brewing Company",
+    "Origin": "Boonville, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4482_8fb6a_sm.jpeg",
+    "HallRating": 23.37,
+    "BAR": 16.72,
+    "StylePlus": "96",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.3633723509415149814130771858"
+  },
+  {
+    "BID": 3805890,
+    "BeerName": "Avery IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Avery Brewing Co.",
+    "Origin": "Boulder, CO United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 69.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-10773_e0d40_sm.jpeg",
+    "HallRating": 23.37,
+    "BAR": 16.71,
+    "StylePlus": "98",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.3758478947833931825016362704"
   }
 ]
