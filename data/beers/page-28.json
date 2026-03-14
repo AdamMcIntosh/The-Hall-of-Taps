@@ -1,80 +1,5 @@
 [
   {
-    "BID": 2004126,
-    "BeerName": "Otra Vez with Cactus and Grapefruit",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Sierra Nevada Brewing Co.",
-    "Origin": "Chico, CA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 5.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1211126_86c2e_sm.jpeg",
-    "HallRating": 23.72,
-    "BAR": 17.15,
-    "StylePlus": "92",
-    "RatingScore": 3.50,
-    "AdjustedRating": "2.4271545227188272485903394495"
-  },
-  {
-    "BID": 6417109,
-    "BeerName": "Maisel's Weisse Original",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Brauerei Gebr. Maisel",
-    "Origin": "Bayreuth, Bayern Germany",
-    "BeerAbv": 5.10,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-35642_f357d_sm.jpeg",
-    "HallRating": 23.72,
-    "BAR": 17.14,
-    "StylePlus": "103",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.450761205502252163191061806"
-  },
-  {
-    "BID": 3950942,
-    "BeerName": "Jaipur",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Thornbridge Brewery",
-    "Origin": "Bakewell, Derbyshire England",
-    "BeerAbv": 5.90,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7705_d6b40_sm.jpeg",
-    "HallRating": 23.70,
-    "BAR": 17.12,
-    "StylePlus": "95",
-    "RatingScore": 3.53,
-    "AdjustedRating": "2.4293417017393218052002871811"
-  },
-  {
-    "BID": 6222998,
-    "BeerName": "Head Hunter",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Fat Head’s Brewery",
-    "Origin": "Middleburg Heights, OH United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 75.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-11845_01796_sm.jpeg",
-    "HallRating": 23.70,
-    "BAR": 17.13,
-    "StylePlus": "106",
-    "RatingScore": 3.94,
-    "AdjustedRating": "2.5324003547596185891835120709"
-  },
-  {
-    "BID": 2008355,
-    "BeerName": "Duet",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Alpine Beer Company",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 41.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5804_f90b2_sm.jpeg",
-    "HallRating": 23.68,
-    "BAR": 17.10,
-    "StylePlus": "106",
-    "RatingScore": 3.95,
-    "AdjustedRating": "2.5282417742540352502959243882"
-  },
-  {
     "BID": 6422501,
     "BeerName": "Weissbier",
     "BeerStyle": "Wheat Beer - Hefeweizen",
@@ -87,7 +12,7 @@
     "BAR": 17.08,
     "StylePlus": "105",
     "RatingScore": 3.67,
-    "AdjustedRating": "2.4559758574829184680276209688"
+    "AdjustedRating": "2.4581649543401441304408313934"
   },
   {
     "BID": 3806454,
@@ -102,22 +27,7 @@
     "BAR": 17.07,
     "StylePlus": "103",
     "RatingScore": 3.82,
-    "AdjustedRating": "2.4903608445829598206411750694"
-  },
-  {
-    "BID": 1750434,
-    "BeerName": "Headless Heron",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 29.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-852756_37597_sm.jpeg",
-    "HallRating": 23.64,
-    "BAR": 15.29,
-    "StylePlus": "115",
-    "RatingScore": 3.95,
-    "AdjustedRating": "2.1211659384808800419067574646"
+    "AdjustedRating": "2.4932970150451503121789739427"
   },
   {
     "BID": 1901994,
@@ -132,7 +42,22 @@
     "BAR": 17.05,
     "StylePlus": "97",
     "RatingScore": 3.70,
-    "AdjustedRating": "2.4574502119307744368171710335"
+    "AdjustedRating": "2.459681764327636883472218857"
+  },
+  {
+    "BID": 1750434,
+    "BeerName": "Headless Heron",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 29.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-852756_37597_sm.jpeg",
+    "HallRating": 23.64,
+    "BAR": 15.29,
+    "StylePlus": "115",
+    "RatingScore": 3.95,
+    "AdjustedRating": "2.1146591143847860265770713532"
   },
   {
     "BID": 1202461,
@@ -147,37 +72,7 @@
     "BAR": 17.03,
     "StylePlus": "98",
     "RatingScore": 3.64,
-    "AdjustedRating": "2.4386368508747193829904892349"
-  },
-  {
-    "BID": 903830,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Odell Brewing Co.",
-    "Origin": "Fort Collins, CO United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-28_f18ab_sm.jpeg",
-    "HallRating": 23.63,
-    "BAR": 17.04,
-    "StylePlus": "103",
-    "RatingScore": 3.84,
-    "AdjustedRating": "2.488036778250815731507800861"
-  },
-  {
-    "BID": 5617567,
-    "BeerName": "Paulaner Oktoberfest Bier",
-    "BeerStyle": "Festbier",
-    "BreweryName": "Paulaner Brauerei",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-78539_2fcd5_sm.jpeg",
-    "HallRating": 23.61,
-    "BAR": 17.01,
-    "StylePlus": "97",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.4129890155356404246518681925"
+    "AdjustedRating": "2.440467070417159364756245416"
   },
   {
     "BID": 4810079,
@@ -192,7 +87,22 @@
     "BAR": 17.01,
     "StylePlus": "106",
     "RatingScore": 3.70,
-    "AdjustedRating": "2.4480913682448017850283321785"
+    "AdjustedRating": "2.4501353894090358447510024698"
+  },
+  {
+    "BID": 5617567,
+    "BeerName": "Paulaner Oktoberfest Bier",
+    "BeerStyle": "Festbier",
+    "BreweryName": "Paulaner Brauerei",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-78539_2fcd5_sm.jpeg",
+    "HallRating": 23.61,
+    "BAR": 17.01,
+    "StylePlus": "97",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.4142654938205508247718985815"
   },
   {
     "BID": 4805179,
@@ -205,24 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-51016_1ffd7_sm.jpeg",
     "HallRating": 23.61,
     "BAR": 17.01,
-    "StylePlus": "113",
+    "StylePlus": "114",
     "RatingScore": 3.79,
-    "AdjustedRating": "2.4706227713780101405803114135"
-  },
-  {
-    "BID": 4820174,
-    "BeerName": "Broken Skull American Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "El Segundo Brewing Company",
-    "Origin": "El Segundo, CA United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4691158_cd640_sm.jpeg",
-    "HallRating": 23.60,
-    "BAR": 15.24,
-    "StylePlus": "107",
-    "RatingScore": 3.68,
-    "AdjustedRating": "2.1123131692748625221362661944"
+    "AdjustedRating": "2.4731564784954304665576181401"
   },
   {
     "BID": 3215420,
@@ -237,22 +132,22 @@
     "BAR": 17.00,
     "StylePlus": "100",
     "RatingScore": 3.71,
-    "AdjustedRating": "2.4492674369712188526173459533"
+    "AdjustedRating": "2.4513391123042303722795282918"
   },
   {
-    "BID": 2033376,
-    "BeerName": "Big Eye",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Ballast Point Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 71.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_2447_sm_3f30697720fe62f2769e568febad87.jpeg",
-    "HallRating": 23.58,
-    "BAR": 16.97,
-    "StylePlus": "100",
-    "RatingScore": 3.73,
-    "AdjustedRating": "2.44738951992884931142109078"
+    "BID": 4820174,
+    "BeerName": "Broken Skull American Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "El Segundo Brewing Company",
+    "Origin": "El Segundo, CA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4691158_cd640_sm.jpeg",
+    "HallRating": 23.60,
+    "BAR": 15.24,
+    "StylePlus": "107",
+    "RatingScore": 3.68,
+    "AdjustedRating": "2.1055537204979952768050891707"
   },
   {
     "BID": 5300325,
@@ -267,7 +162,7 @@
     "BAR": 16.97,
     "StylePlus": "103",
     "RatingScore": 3.59,
-    "AdjustedRating": "2.4161821828930031950652964906"
+    "AdjustedRating": "2.4175357101497447596888391146"
   },
   {
     "BID": 3815551,
@@ -282,22 +177,22 @@
     "BAR": 16.97,
     "StylePlus": "101",
     "RatingScore": 3.76,
-    "AdjustedRating": "2.454729035853701814310428958"
+    "AdjustedRating": "2.4569308520814679647742856819"
   },
   {
-    "BID": 1667072,
-    "BeerName": "IPA",
+    "BID": 2033376,
+    "BeerName": "Big Eye",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Oskar Blues Brewery®",
-    "Origin": "Longmont, CO United States",
-    "BeerAbv": 6.43,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1181221_4c79f_sm.jpeg",
-    "HallRating": 23.57,
-    "BAR": 16.96,
-    "StylePlus": "100",
-    "RatingScore": 3.72,
-    "AdjustedRating": "2.4428787927035502399611764858"
+    "BreweryName": "Ballast Point Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 71.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_2447_sm_3f30697720fe62f2769e568febad87.jpeg",
+    "HallRating": 23.58,
+    "BAR": 16.97,
+    "StylePlus": "101",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.4494306756138766161858580667"
   },
   {
     "BID": 3602168,
@@ -312,7 +207,22 @@
     "BAR": 16.96,
     "StylePlus": "101",
     "RatingScore": 3.62,
-    "AdjustedRating": "2.4211903791788123594569834263"
+    "AdjustedRating": "2.4226563616554025297492381812"
+  },
+  {
+    "BID": 1667072,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Oskar Blues Brewery®",
+    "Origin": "Longmont, CO United States",
+    "BeerAbv": 6.43,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1181221_4c79f_sm.jpeg",
+    "HallRating": 23.57,
+    "BAR": 16.96,
+    "StylePlus": "100",
+    "RatingScore": 3.72,
+    "AdjustedRating": "2.4448241515770502789488729405"
   },
   {
     "BID": 3402817,
@@ -325,9 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-882221_7580d_sm.jpeg",
     "HallRating": 23.57,
     "BAR": 16.96,
-    "StylePlus": "110",
+    "StylePlus": "111",
     "RatingScore": 4.10,
-    "AdjustedRating": "2.5295118721595958997452153819"
+    "AdjustedRating": "2.5333658884822242997021297533"
   },
   {
     "BID": 5810987,
@@ -342,7 +252,7 @@
     "BAR": 16.95,
     "StylePlus": "101",
     "RatingScore": 3.55,
-    "AdjustedRating": "2.4026582468293026784670835521"
+    "AdjustedRating": "2.4037184694490843352021401852"
   },
   {
     "BID": 4405705,
@@ -355,9 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4170_df751_sm.jpeg",
     "HallRating": 23.56,
     "BAR": 16.95,
-    "StylePlus": "103",
+    "StylePlus": "104",
     "RatingScore": 3.55,
-    "AdjustedRating": "2.4029646466402458361228512984"
+    "AdjustedRating": "2.4040313435246173529829882007"
   },
   {
     "BID": 4940049,
@@ -372,6 +282,96 @@
     "BAR": 16.91,
     "StylePlus": "100",
     "RatingScore": 3.71,
-    "AdjustedRating": "2.4303905582617268459909703006"
+    "AdjustedRating": "2.4320743358909757214841960605"
+  },
+  {
+    "BID": 3823385,
+    "BeerName": "Pompeii",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-293189_fc739_sm.jpeg",
+    "HallRating": 23.53,
+    "BAR": 16.91,
+    "StylePlus": "109",
+    "RatingScore": 4.04,
+    "AdjustedRating": "2.5083809401502486670720572173"
+  },
+  {
+    "BID": 5902973,
+    "BeerName": "Grand Prestige",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Hertog Jan",
+    "Origin": "Arcen, Limburg Netherlands",
+    "BeerAbv": 10.00,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9319_daad1_sm.jpeg",
+    "HallRating": 23.52,
+    "BAR": 16.89,
+    "StylePlus": "97",
+    "RatingScore": 3.81,
+    "AdjustedRating": "2.4520837289607037001625394397"
+  },
+  {
+    "BID": 3339747,
+    "BeerName": "Hot Style Flor Blanca Mexican Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Broadway Brewery",
+    "Origin": "Columbia, MO United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 9.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-6923_27b96.jpeg",
+    "HallRating": 23.50,
+    "BAR": 4.52,
+    "StylePlus": "104",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.0606234952738273253336158116"
+  },
+  {
+    "BID": 6217547,
+    "BeerName": "Socialite",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Banter Brewing Company",
+    "Origin": "Springfield, MO United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 9.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-510097_6d873.jpeg",
+    "HallRating": 23.50,
+    "BAR": 4.52,
+    "StylePlus": "108",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.0606286192973682719476955443"
+  },
+  {
+    "BID": 6450793,
+    "BeerName": "Alcoholic Yuzu Lemonade",
+    "BeerStyle": "Other",
+    "BreweryName": "Duncan's Brewing",
+    "Origin": "Paraparaumu, Wellington New Zealand",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-150054_49471.jpeg",
+    "HallRating": 23.50,
+    "BAR": 4.52,
+    "StylePlus": "124",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.0606558160377009885916572028"
+  },
+  {
+    "BID": 3237184,
+    "BeerName": "Kokešův MeZeK",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Pivovar Kokeš",
+    "Origin": "Drahouš, Středočeský kraj Czech Republic",
+    "BeerAbv": 3.90,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3237184_6ae38_sm.jpeg",
+    "HallRating": 23.50,
+    "BAR": 4.52,
+    "StylePlus": "104",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.0606238894294843212270065602"
   }
 ]

@@ -1,63 +1,18 @@
 [
   {
-    "BID": 6214926,
-    "BeerName": "Goose IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 5.90,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1353_32871_sm.jpeg",
-    "HallRating": 25.59,
-    "BAR": 19.39,
-    "StylePlus": "94",
-    "RatingScore": 3.51,
-    "AdjustedRating": "2.9502945736625453165602382409"
-  },
-  {
-    "BID": 6501472,
-    "BeerName": "Bohemian Subterfuge",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Beaglepuss",
-    "Origin": "Providence, RI United States",
-    "BeerAbv": 0.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6501472_edd2c_sm.jpeg",
-    "HallRating": 25.50,
-    "BAR": 3.75,
-    "StylePlus": "147",
-    "RatingScore": 3.88,
-    "AdjustedRating": "2.0688093754738715092762667906"
-  },
-  {
-    "BID": 4201529,
-    "BeerName": "Hibiscus Beer",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "San Felipe Brewing Co",
-    "Origin": "San Felipe, Baja California Mexico",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-367913_c0622.jpeg",
-    "HallRating": 25.50,
-    "BAR": 3.75,
-    "StylePlus": "103",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.0688014726262120693247375895"
-  },
-  {
-    "BID": 6604905,
-    "BeerName": "Grateful Dead Citrus Daydream Lager",
+    "BID": 3336149,
+    "BeerName": "Grapefruit Lager",
     "BeerStyle": "Lager - American",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6604905_936a4_sm.jpeg",
+    "BreweryName": "MadTree Brewing Company",
+    "Origin": "Cincinnati, OH United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-16735_74360.jpeg",
     "HallRating": 25.50,
     "BAR": 3.75,
-    "StylePlus": "115",
-    "RatingScore": 3.98,
-    "AdjustedRating": "2.0688117702761925516858210939"
+    "StylePlus": "104",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.0606014314466958181930159512"
   },
   {
     "BID": 1672698,
@@ -72,52 +27,7 @@
     "BAR": 3.75,
     "StylePlus": "104",
     "RatingScore": 3.58,
-    "AdjustedRating": "2.0688021910669083820476038805"
-  },
-  {
-    "BID": 6402402,
-    "BeerName": "Dill Wrangler",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Gally’s Brewing Co.",
-    "Origin": "Harlowton, MT United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-365392_8694d.jpeg",
-    "HallRating": 25.50,
-    "BAR": 3.75,
-    "StylePlus": "118",
-    "RatingScore": 4.07,
-    "AdjustedRating": "2.0688139255982814898544199669"
-  },
-  {
-    "BID": 3336149,
-    "BeerName": "Grapefruit Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "MadTree Brewing Company",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-16735_74360.jpeg",
-    "HallRating": 25.50,
-    "BAR": 3.75,
-    "StylePlus": "104",
-    "RatingScore": 3.58,
-    "AdjustedRating": "2.0688021910669083820476038805"
-  },
-  {
-    "BID": 1670994,
-    "BeerName": "Ballast Point HW 5",
-    "BeerStyle": "Traditional Ale",
-    "BreweryName": "Ballast Point Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-68_a41ff.jpeg",
-    "HallRating": 25.50,
-    "BAR": 3.75,
-    "StylePlus": "113",
-    "RatingScore": 3.95,
-    "AdjustedRating": "2.0688110518354962389629548029"
+    "AdjustedRating": "2.0606014314466958181930159512"
   },
   {
     "BID": 6214213,
@@ -132,52 +42,7 @@
     "BAR": 3.75,
     "StylePlus": "116",
     "RatingScore": 4.00,
-    "AdjustedRating": "2.0688122492366567601677319546"
-  },
-  {
-    "BID": 6503821,
-    "BeerName": "Lumberjack Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Meyers Brewing Company",
-    "Origin": "Philadelphia, PA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-501351_6e510.jpeg",
-    "HallRating": 25.50,
-    "BAR": 3.75,
-    "StylePlus": "117",
-    "RatingScore": 4.04,
-    "AdjustedRating": "2.0688132071575851771315536759"
-  },
-  {
-    "BID": 2027974,
-    "BeerName": "Michelager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Green Bench Brewing Co",
-    "Origin": "St. Petersburg, FL United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-60255_e2f4c.jpeg",
-    "HallRating": 25.50,
-    "BAR": 3.75,
-    "StylePlus": "107",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.0688050648296936329390690445"
-  },
-  {
-    "BID": 6505215,
-    "BeerName": "Chowder Time",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Lone Pine Brewing Company",
-    "Origin": "Portland, ME United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-255794_d6ee7.jpeg",
-    "HallRating": 25.50,
-    "BAR": 3.75,
-    "StylePlus": "110",
-    "RatingScore": 3.78,
-    "AdjustedRating": "2.0688069806715504668667124872"
+    "AdjustedRating": "2.0606117781856254234156556014"
   },
   {
     "BID": 3606092,
@@ -192,22 +57,7 @@
     "BAR": 3.75,
     "StylePlus": "107",
     "RatingScore": 3.68,
-    "AdjustedRating": "2.0688045858692294244571581839"
-  },
-  {
-    "BID": 5602494,
-    "BeerName": "Jambulant",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Cervejaria Montserrat",
-    "Origin": "Campo Alegre, Santa Catarina Brazil",
-    "BeerAbv": 4.90,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-255110_3cf0e.jpeg",
-    "HallRating": 25.50,
-    "BAR": 3.75,
-    "StylePlus": "106",
-    "RatingScore": 3.65,
-    "AdjustedRating": "2.0688038674285331117342918929"
+    "AdjustedRating": "2.0606038949559647718174539632"
   },
   {
     "BID": 4982217,
@@ -220,9 +70,129 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-PhantomAlesAndCellar_104000_78f08.jpeg",
     "HallRating": 25.50,
     "BAR": 3.75,
-    "StylePlus": "118",
+    "StylePlus": "119",
     "RatingScore": 4.08,
-    "AdjustedRating": "2.0688141650785135940953753972"
+    "AdjustedRating": "2.060613748993040586315206011"
+  },
+  {
+    "BID": 6604905,
+    "BeerName": "Grateful Dead Citrus Daydream Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 8.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6604905_936a4_sm.jpeg",
+    "HallRating": 25.50,
+    "BAR": 3.75,
+    "StylePlus": "116",
+    "RatingScore": 3.98,
+    "AdjustedRating": "2.060611285483771632690767999"
+  },
+  {
+    "BID": 6402402,
+    "BeerName": "Dill Wrangler",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Gally’s Brewing Co.",
+    "Origin": "Harlowton, MT United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-365392_8694d.jpeg",
+    "HallRating": 25.50,
+    "BAR": 3.75,
+    "StylePlus": "119",
+    "RatingScore": 4.07,
+    "AdjustedRating": "2.0606135026421136909527622098"
+  },
+  {
+    "BID": 2027974,
+    "BeerName": "Michelager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Green Bench Brewing Co",
+    "Origin": "St. Petersburg, FL United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-60255_e2f4c.jpeg",
+    "HallRating": 25.50,
+    "BAR": 3.75,
+    "StylePlus": "108",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.0606043876578185625423415656"
+  },
+  {
+    "BID": 6501472,
+    "BeerName": "Bohemian Subterfuge",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Beaglepuss",
+    "Origin": "Providence, RI United States",
+    "BeerAbv": 0.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6501472_edd2c_sm.jpeg",
+    "HallRating": 25.50,
+    "BAR": 3.75,
+    "StylePlus": "148",
+    "RatingScore": 3.88,
+    "AdjustedRating": "2.0606088219745026790663299871"
+  },
+  {
+    "BID": 1670994,
+    "BeerName": "Ballast Point HW 5",
+    "BeerStyle": "Traditional Ale",
+    "BreweryName": "Ballast Point Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-68_a41ff.jpeg",
+    "HallRating": 25.50,
+    "BAR": 3.75,
+    "StylePlus": "113",
+    "RatingScore": 3.95,
+    "AdjustedRating": "2.0606105464309909466034365954"
+  },
+  {
+    "BID": 6503821,
+    "BeerName": "Lumberjack Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Meyers Brewing Company",
+    "Origin": "Philadelphia, PA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-501351_6e510.jpeg",
+    "HallRating": 25.50,
+    "BAR": 3.75,
+    "StylePlus": "118",
+    "RatingScore": 4.04,
+    "AdjustedRating": "2.0606127635893330048654308062"
+  },
+  {
+    "BID": 4201529,
+    "BeerName": "Hibiscus Beer",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "San Felipe Brewing Co",
+    "Origin": "San Felipe, Baja California Mexico",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-367913_c0622.jpeg",
+    "HallRating": 25.50,
+    "BAR": 3.75,
+    "StylePlus": "103",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.0606006923939151321056845476"
+  },
+  {
+    "BID": 6505215,
+    "BeerName": "Chowder Time",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Lone Pine Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-255794_d6ee7.jpeg",
+    "HallRating": 25.50,
+    "BAR": 3.75,
+    "StylePlus": "110",
+    "RatingScore": 3.78,
+    "AdjustedRating": "2.0606063584652337254418919751"
   },
   {
     "BID": 6036020,
@@ -237,7 +207,7 @@
     "BAR": 19.18,
     "StylePlus": "100",
     "RatingScore": 3.70,
-    "AdjustedRating": "3.0090305685948300523243664369"
+    "AdjustedRating": "3.0168539822898017508992658049"
   },
   {
     "BID": 6606285,
@@ -252,7 +222,7 @@
     "BAR": 19.17,
     "StylePlus": "103",
     "RatingScore": 3.69,
-    "AdjustedRating": "3.0007612569510410907858043904"
+    "AdjustedRating": "3.0085143255181367169992117831"
   },
   {
     "BID": 5016618,
@@ -267,7 +237,7 @@
     "BAR": 19.14,
     "StylePlus": "106",
     "RatingScore": 3.94,
-    "AdjustedRating": "3.1329816698075498941849764356"
+    "AdjustedRating": "3.1424579255514331145268479635"
   },
   {
     "BID": 6541051,
@@ -282,7 +252,7 @@
     "BAR": 18.97,
     "StylePlus": "105",
     "RatingScore": 3.67,
-    "AdjustedRating": "2.9341543878335783903714595128"
+    "AdjustedRating": "2.9416784721946607862330069812"
   },
   {
     "BID": 6418993,
@@ -297,22 +267,7 @@
     "BAR": 18.89,
     "StylePlus": "108",
     "RatingScore": 3.78,
-    "AdjustedRating": "2.9705415610029634865827465267"
-  },
-  {
-    "BID": 6039607,
-    "BeerName": "Franziskaner Premium Weissbier Naturtrüb",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
-    "Origin": "Munich, Bayern Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14564_16384_sm.jpeg",
-    "HallRating": 25.14,
-    "BAR": 18.86,
-    "StylePlus": "106",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.9153741855424499155532975407"
+    "AdjustedRating": "2.9787757244994248637925927967"
   },
   {
     "BID": 5701352,
@@ -327,7 +282,22 @@
     "BAR": 18.86,
     "StylePlus": "101",
     "RatingScore": 3.74,
-    "AdjustedRating": "2.9396342025337651851579990458"
+    "AdjustedRating": "2.9475537060509754050529027338"
+  },
+  {
+    "BID": 6039607,
+    "BeerName": "Franziskaner Premium Weissbier Naturtrüb",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-14564_16384_sm.jpeg",
+    "HallRating": 25.14,
+    "BAR": 18.86,
+    "StylePlus": "106",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.9229474787249587719969661756"
   },
   {
     "BID": 6418642,
@@ -340,9 +310,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5724_8923f_sm.jpeg",
     "HallRating": 25.09,
     "BAR": 18.80,
-    "StylePlus": "105",
+    "StylePlus": "106",
     "RatingScore": 3.92,
-    "AdjustedRating": "3.0161512095809923588253520962"
+    "AdjustedRating": "3.0252835398043359977429767339"
   },
   {
     "BID": 6600314,
@@ -355,23 +325,53 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5558_7d8ea_sm.jpeg",
     "HallRating": 25.07,
     "BAR": 18.77,
-    "StylePlus": "106",
+    "StylePlus": "107",
     "RatingScore": 3.95,
-    "AdjustedRating": "3.0214150359137672396367131119"
+    "AdjustedRating": "3.03072255570857859970729848"
   },
   {
-    "BID": 4816306,
-    "BeerName": "Silver Saddle Lager",
+    "BID": 4446315,
+    "BeerName": "OH MY!",
     "BeerStyle": "Lager - American",
-    "BreweryName": "Silver Saddle Brewing",
-    "Origin": "Tucson, AZ United States",
-    "BeerAbv": 5.20,
+    "BreweryName": "Alpine Beer Company",
+    "Origin": "Fort Collins, CO United States",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-29_19acf.jpeg",
     "HallRating": 25.03,
     "BAR": 3.91,
-    "StylePlus": "105",
-    "RatingScore": 3.61,
-    "AdjustedRating": "2.0688066003611353251654804441"
+    "StylePlus": "118",
+    "RatingScore": 4.05,
+    "AdjustedRating": "2.0606179108014761311174943216"
+  },
+  {
+    "BID": 6416560,
+    "BeerName": "Days That Be",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "No Boat Brewing Company",
+    "Origin": "Snoqualmie, WA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-304540_b1d0b.jpeg",
+    "HallRating": 25.03,
+    "BAR": 3.91,
+    "StylePlus": "106",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.0606070713873957322270561629"
+  },
+  {
+    "BID": 6300513,
+    "BeerName": "Peak",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Crooked Run Fermentation",
+    "Origin": "Sterling, VA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6300513_e1ac8_sm.jpeg",
+    "HallRating": 25.03,
+    "BAR": 3.91,
+    "StylePlus": "142",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.0606092392702118120051437947"
   }
 ]

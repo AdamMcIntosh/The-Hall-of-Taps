@@ -1,20 +1,5 @@
 [
   {
-    "BID": 5027657,
-    "BeerName": "House Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "The Lost Abbey",
-    "Origin": "San Marcos, CA United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2712_0b00a.jpeg",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "105",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.0688142933372288504552486505"
-  },
-  {
     "BID": 6405372,
     "BeerName": "FEEL the FLOW",
     "BeerStyle": "Lager - American",
@@ -27,7 +12,52 @@
     "BAR": 4.18,
     "StylePlus": "108",
     "RatingScore": 3.71,
-    "AdjustedRating": "2.0688170952358144903657794786"
+    "AdjustedRating": "2.0606168238209731775093119962"
+  },
+  {
+    "BID": 1668044,
+    "BeerName": "Belgian Spiced Ale",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "White Rabbit",
+    "Origin": "Kryvyi Rih, Dnepropetrovsk Oblast Ukraine",
+    "BeerAbv": 5.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-171613_e6c90.jpeg",
+    "HallRating": 24.29,
+    "BAR": 4.18,
+    "StylePlus": "108",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.0606174643286494156599199858"
+  },
+  {
+    "BID": 6550230,
+    "BeerName": "Last Run",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Shelter Distilling",
+    "Origin": "Mammoth Lakes, CA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-375453_43de9.jpeg",
+    "HallRating": 24.29,
+    "BAR": 4.18,
+    "StylePlus": "113",
+    "RatingScore": 3.88,
+    "AdjustedRating": "2.0606222681362212017894799078"
+  },
+  {
+    "BID": 3905968,
+    "BeerName": "G de Goudale Rhum Finish",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Brasserie Goudale",
+    "Origin": "Arques, Hauts-de-France France",
+    "BeerAbv": 7.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2593800_78f3f_sm.jpeg",
+    "HallRating": 24.29,
+    "BAR": 16.20,
+    "StylePlus": "104",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.1347839096356040031774224917"
   },
   {
     "BID": 3335439,
@@ -42,82 +72,7 @@
     "BAR": 4.18,
     "StylePlus": "108",
     "RatingScore": 3.73,
-    "AdjustedRating": "2.0688177178799446325681196626"
-  },
-  {
-    "BID": 4979902,
-    "BeerName": "#141 Seven Senses (セブンセンシズ)",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Namachan Brewing",
-    "Origin": "Toshima, Tokyo Japan",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-394502_066dd.jpeg",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "108",
-    "RatingScore": 3.71,
-    "AdjustedRating": "2.0688170952358144903657794786"
-  },
-  {
-    "BID": 6026491,
-    "BeerName": "Lime Cerveza",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Travois Ale Works",
-    "Origin": "Medicine Hat, AB Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-412949_1301a.jpeg",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "106",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.0688158499475542059610991106"
-  },
-  {
-    "BID": 4447308,
-    "BeerName": "Blueberry Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "White Birch Brewing",
-    "Origin": "Nashua, NH United States",
-    "BeerAbv": 4.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-WhiteBirchBrewing_2879.jpeg",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "107",
-    "RatingScore": 3.68,
-    "AdjustedRating": "2.0688161612696192770622692026"
-  },
-  {
-    "BID": 1671950,
-    "BeerName": "Sweet Potato Casserole",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Funky Buddha Brewery",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 7.90,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-237560_52d2a_sm.jpeg",
-    "HallRating": 24.29,
-    "BAR": 16.19,
-    "StylePlus": "112",
-    "RatingScore": 3.86,
-    "AdjustedRating": "2.1538058222700759398959333718"
-  },
-  {
-    "BID": 6450844,
-    "BeerName": "Saddlewood Smoked Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "The Jockey Tavern",
-    "Origin": "Malvern, PA United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 27.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-568946_9ad31.jpeg",
-    "HallRating": 24.29,
-    "BAR": 4.18,
-    "StylePlus": "112",
-    "RatingScore": 3.85,
-    "AdjustedRating": "2.0688214537447254857821607667"
+    "AdjustedRating": "2.0606174643286494156599199858"
   },
   {
     "BID": 6418147,
@@ -132,7 +87,7 @@
     "BAR": 17.83,
     "StylePlus": "102",
     "RatingScore": 3.80,
-    "AdjustedRating": "2.6730936086405492239125656483"
+    "AdjustedRating": "2.6789818955260137082215987845"
   },
   {
     "BID": 6034913,
@@ -147,7 +102,7 @@
     "BAR": 17.80,
     "StylePlus": "97",
     "RatingScore": 3.69,
-    "AdjustedRating": "2.6272520145024913892438547302"
+    "AdjustedRating": "2.6323288889706211581391481223"
   },
   {
     "BID": 5020507,
@@ -162,7 +117,7 @@
     "BAR": 17.76,
     "StylePlus": "101",
     "RatingScore": 3.75,
-    "AdjustedRating": "2.6371116676352672053417289282"
+    "AdjustedRating": "2.6424247264604844297363690543"
   },
   {
     "BID": 4031153,
@@ -175,9 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-94130_52756_sm.jpeg",
     "HallRating": 24.21,
     "BAR": 17.74,
-    "StylePlus": "106",
+    "StylePlus": "107",
     "RatingScore": 3.63,
-    "AdjustedRating": "2.5916119044392411716920724423"
+    "AdjustedRating": "2.5960908233197655169727540071"
   },
   {
     "BID": 3402506,
@@ -192,7 +147,7 @@
     "BAR": 17.75,
     "StylePlus": "101",
     "RatingScore": 3.55,
-    "AdjustedRating": "2.5657548618663730136249494753"
+    "AdjustedRating": "2.5697412057526428432453466502"
   },
   {
     "BID": 3405951,
@@ -205,9 +160,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1553_abb10_sm.jpeg",
     "HallRating": 24.20,
     "BAR": 17.73,
-    "StylePlus": "103",
+    "StylePlus": "104",
     "RatingScore": 3.84,
-    "AdjustedRating": "2.6593403866461907832983199985"
+    "AdjustedRating": "2.6651123748906116314400877059"
   },
   {
     "BID": 5407085,
@@ -222,7 +177,7 @@
     "BAR": 17.74,
     "StylePlus": "98",
     "RatingScore": 3.53,
-    "AdjustedRating": "2.5571805091916160981629522865"
+    "AdjustedRating": "2.561012427886333656076782616"
   },
   {
     "BID": 6024618,
@@ -237,7 +192,7 @@
     "BAR": 17.72,
     "StylePlus": "110",
     "RatingScore": 4.04,
-    "AdjustedRating": "2.7230780795134922387228691286"
+    "AdjustedRating": "2.7300734227721803775799667417"
   },
   {
     "BID": 2219222,
@@ -252,7 +207,7 @@
     "BAR": 17.71,
     "StylePlus": "97",
     "RatingScore": 3.59,
-    "AdjustedRating": "2.5696248975557568864814850512"
+    "AdjustedRating": "2.5737234047714928349032048952"
   },
   {
     "BID": 4605881,
@@ -267,7 +222,7 @@
     "BAR": 17.70,
     "StylePlus": "94",
     "RatingScore": 3.50,
-    "AdjustedRating": "2.5380736923426077047138014621"
+    "AdjustedRating": "2.5415778203058874475916776568"
   },
   {
     "BID": 5818524,
@@ -280,24 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-568188_36653_sm.jpeg",
     "HallRating": 24.17,
     "BAR": 17.69,
-    "StylePlus": "101",
+    "StylePlus": "102",
     "RatingScore": 3.77,
-    "AdjustedRating": "2.6257569500434908669179472311"
-  },
-  {
-    "BID": 6206401,
-    "BeerName": "Gumballhead",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "3 Floyds Brewing",
-    "Origin": "Munster, IN United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9954_5d2be_sm.jpeg",
-    "HallRating": 24.14,
-    "BAR": 17.66,
-    "StylePlus": "112",
-    "RatingScore": 3.93,
-    "AdjustedRating": "2.6684527113393025264101082376"
+    "AdjustedRating": "2.630940036935259876488490973"
   },
   {
     "BID": 1200632,
@@ -312,7 +252,7 @@
     "BAR": 17.64,
     "StylePlus": "97",
     "RatingScore": 3.60,
-    "AdjustedRating": "2.5586331909183449107062876129"
+    "AdjustedRating": "2.5625772796714142700373045743"
   },
   {
     "BID": 5821167,
@@ -325,9 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-KonigLudwigWeisse_30203.jpeg",
     "HallRating": 24.12,
     "BAR": 17.64,
-    "StylePlus": "102",
+    "StylePlus": "103",
     "RatingScore": 3.58,
-    "AdjustedRating": "2.5518530619219006870797400274"
+    "AdjustedRating": "2.5556675032676699146835052009"
   },
   {
     "BID": 4613967,
@@ -342,7 +282,7 @@
     "BAR": 17.61,
     "StylePlus": "98",
     "RatingScore": 3.65,
-    "AdjustedRating": "2.5671778236125688795591708213"
+    "AdjustedRating": "2.5713161471893317996234831487"
   },
   {
     "BID": 6203912,
@@ -357,7 +297,7 @@
     "BAR": 17.61,
     "StylePlus": "106",
     "RatingScore": 3.94,
-    "AdjustedRating": "2.6583895111848126679198118314"
+    "AdjustedRating": "2.6643047658272298585331594261"
   },
   {
     "BID": 6611300,
@@ -370,8 +310,68 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-196380_a0c74_sm.jpeg",
     "HallRating": 24.10,
     "BAR": 15.94,
-    "StylePlus": "103",
+    "StylePlus": "104",
     "RatingScore": 3.56,
-    "AdjustedRating": "2.129690016759045083577008685"
+    "AdjustedRating": "2.1235068976943646580961574318"
+  },
+  {
+    "BID": 2023022,
+    "BeerName": "Hop Nosh",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Uinta Brewing Company",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 82.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-555987_31fb4_sm.jpeg",
+    "HallRating": 24.08,
+    "BAR": 17.58,
+    "StylePlus": "101",
+    "RatingScore": 3.73,
+    "AdjustedRating": "2.5899615518271089435052295642"
+  },
+  {
+    "BID": 6017480,
+    "BeerName": "Atlanta’s OG IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "SweetWater Brewing Company",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 6.30,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7053_45c8c_sm.jpeg",
+    "HallRating": 24.06,
+    "BAR": 17.57,
+    "StylePlus": "99",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.5667308392215407063146802129"
+  },
+  {
+    "BID": 1217753,
+    "BeerName": "Neck Oil",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Beavertown",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 4.30,
+    "BeerIbu": 31.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-136656_7e75b_sm.jpeg",
+    "HallRating": 24.06,
+    "BAR": 17.57,
+    "StylePlus": "101",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.5547137939148018242766527022"
+  },
+  {
+    "BID": 6420054,
+    "BeerName": "Lagerbier Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Augustiner-Bräu München",
+    "Origin": "Munich, Bayern Germany",
+    "BeerAbv": 5.20,
+    "BeerIbu": 12.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9254_014d1_sm.jpeg",
+    "HallRating": 24.06,
+    "BAR": 17.56,
+    "StylePlus": "106",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.5597504027078133528454515191"
   }
 ]

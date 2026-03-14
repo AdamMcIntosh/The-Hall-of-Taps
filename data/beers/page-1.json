@@ -1,35 +1,5 @@
 [
   {
-    "BID": 6501261,
-    "BeerName": "‘T Tuintje Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij 'T Tuintje",
-    "Origin": "Netherlands",
-    "BeerAbv": 8.00,
-    "BeerIbu": 36.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6501261_004a2_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "129",
-    "RatingScore": 4.73,
-    "AdjustedRating": "2.0688361042550745739656873545"
-  },
-  {
-    "BID": 4980950,
-    "BeerName": "Ta-Ta And Farewell",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brood Meadery",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980950_8c32f_sm.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "116",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.0688347871169522860728209746"
-  },
-  {
     "BID": 6021543,
     "BeerName": "Sweet Sixteen (2021 Vintage)",
     "BeerStyle": "Cider - Traditional / Apfelwein",
@@ -42,22 +12,22 @@
     "BAR": 5.21,
     "StylePlus": "128",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0688313625578343375513683868"
+    "AdjustedRating": "2.06063146006907662973054202"
   },
   {
-    "BID": 6411443,
-    "BeerName": "The BIG 3-0",
-    "BeerStyle": "Wheat Beer - Wheat Wine",
-    "BreweryName": "Bremer Brewing Company",
-    "Origin": "Waverly, IA United States",
-    "BeerAbv": 14.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-492795_b0175.jpeg",
+    "BID": 6501261,
+    "BeerName": "‘T Tuintje Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij 'T Tuintje",
+    "Origin": "Netherlands",
+    "BeerAbv": 8.00,
+    "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6501261_004a2_sm.jpeg",
     "HallRating": 33.37,
     "BAR": 5.21,
-    "StylePlus": "120",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0688313625578343375513683868"
+    "StylePlus": "130",
+    "RatingScore": 4.73,
+    "AdjustedRating": "2.0606363378054128092312391914"
   },
   {
     "BID": 6603599,
@@ -70,9 +40,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-sideproject_64810.jpeg",
     "HallRating": 33.37,
     "BAR": 5.21,
-    "StylePlus": "113",
+    "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0688326796959566254442347667"
+    "AdjustedRating": "2.0606328149958366795918467898"
   },
   {
     "BID": 6502230,
@@ -87,22 +57,7 @@
     "BAR": 5.21,
     "StylePlus": "128",
     "RatingScore": 4.95,
-    "AdjustedRating": "2.0688418996628126406942994262"
-  },
-  {
-    "BID": 6605236,
-    "BeerName": "Gratitude Ponfeigh Rye Barrel-Aged With Coconut And Cinnamon  (2026)",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "East End Brewing Company",
-    "Origin": "Pittsburgh, PA United States",
-    "BeerAbv": 11.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-476_c67cd.jpeg",
-    "HallRating": 33.37,
-    "BAR": 5.21,
-    "StylePlus": "118",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0688313625578343375513683868"
+    "AdjustedRating": "2.0606422994831570286209801787"
   },
   {
     "BID": 6505619,
@@ -117,7 +72,37 @@
     "BAR": 5.21,
     "StylePlus": "115",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0688308357025854223942218348"
+    "AdjustedRating": "2.060630918098372609786020112"
+  },
+  {
+    "BID": 6428582,
+    "BeerName": "Stevnsberry CRYO (2024)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6428582_63ea3_sm.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "119",
+    "RatingScore": 4.75,
+    "AdjustedRating": "2.0606368797761168291757610993"
+  },
+  {
+    "BID": 6605236,
+    "BeerName": "Gratitude Ponfeigh Rye Barrel-Aged With Coconut And Cinnamon  (2026)",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "East End Brewing Company",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 11.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-476_c67cd.jpeg",
+    "HallRating": 33.37,
+    "BAR": 5.21,
+    "StylePlus": "118",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.06063146006907662973054202"
   },
   {
     "BID": 1246754,
@@ -130,39 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_17663_sm_48376e0fc0fe1a34b0cac9a69d9e43.jpeg",
     "HallRating": 32.97,
     "BAR": 22.39,
-    "StylePlus": "111",
+    "StylePlus": "110",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2328190538576499576671588744"
-  },
-  {
-    "BID": 6605944,
-    "BeerName": "LAB 21 LF - Hazelnut & Peanut",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 32.84,
-    "BAR": 5.40,
-    "StylePlus": "111",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0688384539373953775746995136"
-  },
-  {
-    "BID": 6103218,
-    "BeerName": "Merry Cocoa & Cherry",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 32.84,
-    "BAR": 5.40,
-    "StylePlus": "114",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.068836729687982700030892802"
+    "AdjustedRating": "2.229565010906038344300534178"
   },
   {
     "BID": 6550208,
@@ -177,7 +132,7 @@
     "BAR": 5.40,
     "StylePlus": "114",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0688393160621017163466028694"
+    "AdjustedRating": "2.0606396619589236488334109335"
   },
   {
     "BID": 5901151,
@@ -192,37 +147,7 @@
     "BAR": 5.40,
     "StylePlus": "124",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0688364423130805871069250167"
-  },
-  {
-    "BID": 6426993,
-    "BeerName": "Oktoberlab Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Los Forajidos Brewing Co.",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
-    "HallRating": 32.84,
-    "BAR": 5.40,
-    "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0688364423130805871069250167"
-  },
-  {
-    "BID": 5622479,
-    "BeerName": "2023 Single Cask - Double Avarice",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "River North Brewery",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 19.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-RiverNorthBrewery_23833.jpeg",
-    "HallRating": 32.84,
-    "BAR": 5.40,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.068836729687982700030892802"
+    "AdjustedRating": "2.0606367057623661397246302907"
   },
   {
     "BID": 6617249,
@@ -237,7 +162,67 @@
     "BAR": 5.40,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.068836729687982700030892802"
+    "AdjustedRating": "2.060637001382021890635508355"
+  },
+  {
+    "BID": 6426993,
+    "BeerName": "Oktoberlab Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Los Forajidos Brewing Co.",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "112",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0606367057623661397246302907"
+  },
+  {
+    "BID": 6103218,
+    "BeerName": "Merry Cocoa & Cherry",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Los Forajidos Brewing Co.",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "114",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.060637001382021890635508355"
+  },
+  {
+    "BID": 5622479,
+    "BeerName": "2023 Single Cask - Double Avarice",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "River North Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 19.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-RiverNorthBrewery_23833.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.060637001382021890635508355"
+  },
+  {
+    "BID": 6605944,
+    "BeerName": "LAB 21 LF - Hazelnut & Peanut",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Los Forajidos Brewing Co.",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-430140_c1743.jpeg",
+    "HallRating": 32.84,
+    "BAR": 5.40,
+    "StylePlus": "111",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0606387750999563961007767406"
   },
   {
     "BID": 6609758,
@@ -252,7 +237,7 @@
     "BAR": 5.40,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0688381665624932646507317283"
+    "AdjustedRating": "2.0606384794803006451898986764"
   },
   {
     "BID": 5800005,
@@ -267,7 +252,7 @@
     "BAR": 21.95,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2045965395702489805795600265"
+    "AdjustedRating": "2.2005376235084793399563780292"
   },
   {
     "BID": 2408879,
@@ -280,39 +265,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2343873_42044_sm.jpeg",
     "HallRating": 32.44,
     "BAR": 21.67,
-    "StylePlus": "111",
+    "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1892442808776144553621241276"
-  },
-  {
-    "BID": 5402457,
-    "BeerName": "BA Slick Talk",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Orchestrated Minds Brewing",
-    "Origin": "Fort Lauderdale, FL United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
-    "HallRating": 32.38,
-    "BAR": 5.57,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0688438689334106050664073913"
-  },
-  {
-    "BID": 6605017,
-    "BeerName": "Salvation For the Wicked",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Orchestrated Minds Brewing",
-    "Origin": "Fort Lauderdale, FL United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
-    "HallRating": 32.38,
-    "BAR": 5.57,
-    "StylePlus": "126",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.0688460481878661027745980353"
+    "AdjustedRating": "2.1847384813999564911262950323"
   },
   {
     "BID": 1421796,
@@ -327,7 +282,7 @@
     "BAR": 5.57,
     "StylePlus": "114",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0688435576113455339652372993"
+    "AdjustedRating": "2.060644045397213298910151554"
   },
   {
     "BID": 4419286,
@@ -342,7 +297,37 @@
     "BAR": 5.57,
     "StylePlus": "113",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0688469821540613160781083113"
+    "AdjustedRating": "2.0606475681894326087384954967"
+  },
+  {
+    "BID": 5402457,
+    "BeerName": "BA Slick Talk",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
+    "HallRating": 32.38,
+    "BAR": 5.57,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0606443656510514179854555488"
+  },
+  {
+    "BID": 6605017,
+    "BeerName": "Salvation For the Wicked",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338939_7289d.jpeg",
+    "HallRating": 32.38,
+    "BAR": 5.57,
+    "StylePlus": "127",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.0606466074279182515125835123"
   },
   {
     "BID": 4018394,
@@ -355,9 +340,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-127376_2b40c_sm.jpeg",
     "HallRating": 32.32,
     "BAR": 21.50,
-    "StylePlus": "114",
+    "StylePlus": "115",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1801952993746743095362167796"
+    "AdjustedRating": "2.1754249871092264127019906736"
   },
   {
     "BID": 1209346,
@@ -372,6 +357,21 @@
     "BAR": 21.30,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1708393410604384761187933416"
+    "AdjustedRating": "2.1657924487900107512684610597"
+  },
+  {
+    "BID": 6007759,
+    "BeerName": "Funktastic Frootz: Nice Tats",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Funktastic Beer",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6007759_d7d0f_sm.jpeg",
+    "HallRating": 31.99,
+    "BAR": 5.73,
+    "StylePlus": "118",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0606502025231013305282450872"
   }
 ]

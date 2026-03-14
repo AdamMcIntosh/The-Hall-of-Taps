@@ -1,35 +1,5 @@
 [
   {
-    "BID": 4404637,
-    "BeerName": "All",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Lua Brewing",
-    "Origin": "Des Moines, IA United States",
-    "BeerAbv": 16.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4404637_e3145_sm.jpeg",
-    "HallRating": 28.18,
-    "BAR": 14.65,
-    "StylePlus": "112",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0739874615237539852872991821"
-  },
-  {
-    "BID": 5601746,
-    "BeerName": "10 Candles",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 17.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5601746_bb7ab_sm.jpeg",
-    "HallRating": 28.16,
-    "BAR": 14.59,
-    "StylePlus": "116",
-    "RatingScore": 4.70,
-    "AdjustedRating": "2.0739795399651043284973350223"
-  },
-  {
     "BID": 3811315,
     "BeerName": "Black Agnes (Batch 11)",
     "BeerStyle": "Mead - Melomel",
@@ -40,9 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_562749_sm_c647c8c0317e639c0f4e6679fd1eeb.jpeg",
     "HallRating": 28.16,
     "BAR": 14.59,
-    "StylePlus": "116",
+    "StylePlus": "117",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.0739597259160113769449556634"
+    "AdjustedRating": "2.0659231508270558385618472553"
   },
   {
     "BID": 6401822,
@@ -55,9 +25,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266944_bf1b0.jpeg",
     "HallRating": 28.14,
     "BAR": 8.49,
-    "StylePlus": "114",
+    "StylePlus": "115",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0690690612220463541429703719"
+    "AdjustedRating": "2.0608767653861786114566526671"
   },
   {
     "BID": 5409496,
@@ -72,7 +42,7 @@
     "BAR": 14.56,
     "StylePlus": "114",
     "RatingScore": 4.73,
-    "AdjustedRating": "2.0739628033166179866054142426"
+    "AdjustedRating": "2.0659260792364505374546384351"
   },
   {
     "BID": 1808896,
@@ -85,9 +55,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
     "HallRating": 28.13,
     "BAR": 14.53,
-    "StylePlus": "119",
+    "StylePlus": "120",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0736485575522028453418999541"
+    "AdjustedRating": "2.0656026378214111850354787791"
   },
   {
     "BID": 5820451,
@@ -102,7 +72,7 @@
     "BAR": 14.47,
     "StylePlus": "114",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0735223398112558086168320808"
+    "AdjustedRating": "2.0654723309679418143192245843"
   },
   {
     "BID": 4279144,
@@ -117,7 +87,7 @@
     "BAR": 8.54,
     "StylePlus": "110",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0690714580184477457544323439"
+    "AdjustedRating": "2.0608792511195518836552814768"
   },
   {
     "BID": 3010113,
@@ -132,7 +102,7 @@
     "BAR": 14.45,
     "StylePlus": "115",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0733500496633097239785149294"
+    "AdjustedRating": "2.0652949685633564549006493874"
   },
   {
     "BID": 6003832,
@@ -147,22 +117,7 @@
     "BAR": 14.46,
     "StylePlus": "110",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0734109248818547548530983098"
-  },
-  {
-    "BID": 2422488,
-    "BeerName": "Strawberry Pancake",
-    "BeerStyle": "Mead - Acerglyn / Maple Wine",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2422488_ba7d1_sm.jpeg",
-    "HallRating": 28.09,
-    "BAR": 14.43,
-    "StylePlus": "113",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0735415420064112217895484176"
+    "AdjustedRating": "2.0653576662117803267805111939"
   },
   {
     "BID": 6224528,
@@ -177,22 +132,22 @@
     "BAR": 14.43,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.073388297128350516696109062"
+    "AdjustedRating": "2.0653341924585367053124654216"
   },
   {
-    "BID": 6008416,
-    "BeerName": "He Who Says Farewell",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 12.00,
+    "BID": 2422488,
+    "BeerName": "Strawberry Pancake",
+    "BeerStyle": "Mead - Acerglyn / Maple Wine",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
-    "HallRating": 28.08,
-    "BAR": 14.40,
-    "StylePlus": "112",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0734010478221270268525844985"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2422488_ba7d1_sm.jpeg",
+    "HallRating": 28.09,
+    "BAR": 14.43,
+    "StylePlus": "113",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.0654917861331798968729944453"
   },
   {
     "BID": 6500935,
@@ -207,37 +162,22 @@
     "BAR": 8.58,
     "StylePlus": "109",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0690724659577168335276919061"
+    "AdjustedRating": "2.0608803081531257466739907431"
   },
   {
-    "BID": 6224244,
-    "BeerName": "Quadruple Jasper",
+    "BID": 6008416,
+    "BeerName": "He Who Says Farewell",
     "BeerStyle": "IPA - Quadruple",
     "BreweryName": "Fidens Brewing Co.",
     "Origin": "Albany, NY United States",
     "BeerAbv": 12.00,
     "BeerIbu": 0.00,
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
-    "HallRating": 28.06,
-    "BAR": 14.35,
-    "StylePlus": "111",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0732322334724672604960052785"
-  },
-  {
-    "BID": 2610183,
-    "BeerName": "Levitation",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2610183_3a3a6_sm.jpeg",
-    "HallRating": 28.06,
-    "BAR": 14.36,
+    "HallRating": 28.08,
+    "BAR": 14.40,
     "StylePlus": "112",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0731374797122687404227038993"
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0653471102477408249830946087"
   },
   {
     "BID": 4200156,
@@ -252,52 +192,37 @@
     "BAR": 14.36,
     "StylePlus": "110",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0732028699707869358794757905"
+    "AdjustedRating": "2.065142959868194560566566665"
   },
   {
-    "BID": 6402689,
-    "BeerName": "6 Summers",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Orchestrated Minds Brewing",
-    "Origin": "Fort Lauderdale, FL United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6402689_43760_sm.jpeg",
-    "HallRating": 28.05,
-    "BAR": 8.62,
-    "StylePlus": "115",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.0690935881603586086673339495"
-  },
-  {
-    "BID": 6303290,
-    "BeerName": "Sixth Chapter (Bourbon Barrel Aged)",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Croma",
-    "Origin": "São Paulo, Brazil",
+    "BID": 6224244,
+    "BeerName": "Quadruple Jasper",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
     "BeerAbv": 12.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-315257_1f13d.jpeg",
-    "HallRating": 28.05,
-    "BAR": 8.62,
-    "StylePlus": "123",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0690758205567821002169467499"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
+    "HallRating": 28.06,
+    "BAR": 14.35,
+    "StylePlus": "111",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0651730850153446647780925401"
   },
   {
-    "BID": 4939829,
-    "BeerName": "Liquid Heat",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Noble Savage Brewing Company",
-    "Origin": "Glen Cove, NY United States",
-    "BeerAbv": 7.00,
+    "BID": 2610183,
+    "BeerName": "Levitation",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-441029_4d0aa.jpeg",
-    "HallRating": 28.05,
-    "BAR": 8.62,
-    "StylePlus": "118",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0690808970149468169170573783"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2610183_3a3a6_sm.jpeg",
+    "HallRating": 28.06,
+    "BAR": 14.36,
+    "StylePlus": "113",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0650757167763813102313720765"
   },
   {
     "BID": 5950080,
@@ -312,7 +237,52 @@
     "BAR": 8.62,
     "StylePlus": "112",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.0690948572748997878423616067"
+    "AdjustedRating": "2.0609033619891222953533283412"
+  },
+  {
+    "BID": 6402689,
+    "BeerName": "6 Summers",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Orchestrated Minds Brewing",
+    "Origin": "Fort Lauderdale, FL United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6402689_43760_sm.jpeg",
+    "HallRating": 28.05,
+    "BAR": 8.62,
+    "StylePlus": "115",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.0609020564675048279667362945"
+  },
+  {
+    "BID": 6303290,
+    "BeerName": "Sixth Chapter (Bourbon Barrel Aged)",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Croma",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-315257_1f13d.jpeg",
+    "HallRating": 28.05,
+    "BAR": 8.62,
+    "StylePlus": "123",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0608837791648602845544476412"
+  },
+  {
+    "BID": 4939829,
+    "BeerName": "Liquid Heat",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Noble Savage Brewing Company",
+    "Origin": "Glen Cove, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-441029_4d0aa.jpeg",
+    "HallRating": 28.05,
+    "BAR": 8.62,
+    "StylePlus": "118",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0608890012513301541008158278"
   },
   {
     "BID": 6616328,
@@ -327,37 +297,7 @@
     "BAR": 8.62,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.069077089671323279391974407"
-  },
-  {
-    "BID": 3345925,
-    "BeerName": "Tête De Pioche 176",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Le Prospecteur",
-    "Origin": "Val-d'Or, QC Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 57.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
-    "HallRating": 28.03,
-    "BAR": 8.66,
-    "StylePlus": "124",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0690920099278043173736575554"
-  },
-  {
-    "BID": 6214956,
-    "BeerName": "BHS 2025 Release #2: Ossuary [Salted Fudge + Dark Chocolate Brownie] (Ghost 1671)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Adroit Theory",
-    "Origin": "Purcellville, VA United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6214956_cb978_sm.jpeg",
-    "HallRating": 28.03,
-    "BAR": 8.66,
-    "StylePlus": "111",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0690958890988111059229194354"
+    "AdjustedRating": "2.0608850846864777519410396879"
   },
   {
     "BID": 6600461,
@@ -372,6 +312,66 @@
     "BAR": 8.66,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0690881307567975288243956754"
+    "AdjustedRating": "2.0608964626855745143102059517"
+  },
+  {
+    "BID": 3345925,
+    "BeerName": "Tête De Pioche 176",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Le Prospecteur",
+    "Origin": "Val-d'Or, QC Canada",
+    "BeerAbv": 6.50,
+    "BeerIbu": 57.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
+    "HallRating": 28.03,
+    "BAR": 8.66,
+    "StylePlus": "124",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0609004531380474863844283677"
+  },
+  {
+    "BID": 4003827,
+    "BeerName": "Presto",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2092386_391cc_sm.jpeg",
+    "HallRating": 28.03,
+    "BAR": 14.29,
+    "StylePlus": "113",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0649010440813014128149323103"
+  },
+  {
+    "BID": 6214956,
+    "BeerName": "BHS 2025 Release #2: Ossuary [Salted Fudge + Dark Chocolate Brownie] (Ghost 1671)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Adroit Theory",
+    "Origin": "Purcellville, VA United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6214956_cb978_sm.jpeg",
+    "HallRating": 28.03,
+    "BAR": 8.66,
+    "StylePlus": "111",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0609044435905204584586507837"
+  },
+  {
+    "BID": 6422119,
+    "BeerName": "12 Year",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Side Project Brewing",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 17.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6422119_1ca8a_sm.jpeg",
+    "HallRating": 28.02,
+    "BAR": 14.24,
+    "StylePlus": "118",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.0650299077514823458815254575"
   }
 ]
