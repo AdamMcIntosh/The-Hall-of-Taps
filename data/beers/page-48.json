@@ -1,18 +1,18 @@
 [
   {
-    "BID": 6046680,
-    "BeerName": "Self Care Fresh Hopped Super Freak Flag DIPA",
-    "BeerStyle": "Non-Alcoholic - IPA",
-    "BreweryName": "Three Magnets Brewing Company",
-    "Origin": "Olympia, WA United States",
-    "BeerAbv": 0.50,
+    "BID": 6407309,
+    "BeerName": "Daggers (Double Dry Hopped) (September 2025 / Batch 2)",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Root + Branch Brewing",
+    "Origin": "Copiague, NY United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-143890_d6b2f.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407309_78193_sm.jpeg",
     "HallRating": 14.17,
-    "BAR": 3.65,
-    "StylePlus": "135",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.0561512848382450979893232096"
+    "BAR": 5.71,
+    "StylePlus": "125",
+    "RatingScore": 4.22,
+    "AdjustedRating": "2.0605468978130593820530780605"
   },
   {
     "BID": 1750434,
@@ -27,67 +27,7 @@
     "BAR": 8.16,
     "StylePlus": "115",
     "RatingScore": 3.95,
-    "AdjustedRating": "2.1120378986405896951513131089"
-  },
-  {
-    "BID": 5816271,
-    "BeerName": "S'more Than A Feeling",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Prairie Artisan Ales",
-    "Origin": "Krebs, OK United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-prairieartisanales_37713.jpeg",
-    "HallRating": 14.15,
-    "BAR": 5.41,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.056544490944199784767327375"
-  },
-  {
-    "BID": 2501947,
-    "BeerName": "3 Fonteinen Intens Rood (Intense Red)",
-    "BeerStyle": "Lambic - Kriek",
-    "BreweryName": "Brouwerij 3 Fonteinen",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-347907_0442c_sm.jpeg",
-    "HallRating": 14.15,
-    "BAR": 8.17,
-    "StylePlus": "106",
-    "RatingScore": 4.20,
-    "AdjustedRating": "2.1227017836654388378526309561"
-  },
-  {
-    "BID": 4211655,
-    "BeerName": "Refreshing",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Tired Hands Brewing Company",
-    "Origin": "Ardmore, PA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2073737_bf3fd_sm.jpeg",
-    "HallRating": 14.15,
-    "BAR": 8.25,
-    "StylePlus": "111",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.1406444480866026706078973061"
-  },
-  {
-    "BID": 6450005,
-    "BeerName": "Tiki Sour: Rum BA Escape To Fantasy Island",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6450005_cf0bd_sm.jpeg",
-    "HallRating": 14.15,
-    "BAR": 6.40,
-    "StylePlus": "125",
-    "RatingScore": 4.13,
-    "AdjustedRating": "2.0576712398014706630188257071"
+    "AdjustedRating": "2.4143034173332911752616435324"
   },
   {
     "BID": 1300845,
@@ -102,7 +42,67 @@
     "BAR": 7.45,
     "StylePlus": "115",
     "RatingScore": 4.22,
-    "AdjustedRating": "2.0678689670423112645295500616"
+    "AdjustedRating": "2.1432204700422888364956401332"
+  },
+  {
+    "BID": 4211655,
+    "BeerName": "Refreshing",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Tired Hands Brewing Company",
+    "Origin": "Ardmore, PA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2073737_bf3fd_sm.jpeg",
+    "HallRating": 14.15,
+    "BAR": 8.25,
+    "StylePlus": "111",
+    "RatingScore": 4.26,
+    "AdjustedRating": "2.5720971832163655368075257578"
+  },
+  {
+    "BID": 6450005,
+    "BeerName": "Tiki Sour: Rum BA Escape To Fantasy Island",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6450005_cf0bd_sm.jpeg",
+    "HallRating": 14.15,
+    "BAR": 6.40,
+    "StylePlus": "125",
+    "RatingScore": 4.13,
+    "AdjustedRating": "2.068183953790389796669961815"
+  },
+  {
+    "BID": 5816271,
+    "BeerName": "S'more Than A Feeling",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Prairie Artisan Ales",
+    "Origin": "Krebs, OK United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-prairieartisanales_37713.jpeg",
+    "HallRating": 14.15,
+    "BAR": 5.41,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0596080440792804018535103773"
+  },
+  {
+    "BID": 2501947,
+    "BeerName": "3 Fonteinen Intens Rood (Intense Red)",
+    "BeerStyle": "Lambic - Kriek",
+    "BreweryName": "Brouwerij 3 Fonteinen",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-347907_0442c_sm.jpeg",
+    "HallRating": 14.15,
+    "BAR": 8.17,
+    "StylePlus": "106",
+    "RatingScore": 4.20,
+    "AdjustedRating": "2.4789749794187156652528445996"
   },
   {
     "BID": 3812839,
@@ -117,22 +117,7 @@
     "BAR": 6.89,
     "StylePlus": "113",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.060227579767129968300414533"
-  },
-  {
-    "BID": 4036893,
-    "BeerName": "A Brilliantly Deformed Corpse Nevertheless",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Burial Beer Co.",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 32.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4036893_c665d_sm.jpeg",
-    "HallRating": 14.14,
-    "BAR": 7.58,
-    "StylePlus": "108",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.0738138299870425423895774555"
+    "AdjustedRating": "2.0874583779209539378786421771"
   },
   {
     "BID": 3425850,
@@ -147,7 +132,22 @@
     "BAR": 7.44,
     "StylePlus": "109",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0689349764482575354946473313"
+    "AdjustedRating": "2.15112239345673697804563065"
+  },
+  {
+    "BID": 4036893,
+    "BeerName": "A Brilliantly Deformed Corpse Nevertheless",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Burial Beer Co.",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4036893_c665d_sm.jpeg",
+    "HallRating": 14.14,
+    "BAR": 7.58,
+    "StylePlus": "108",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.1855699752813134108098136875"
   },
   {
     "BID": 5625555,
@@ -162,67 +162,7 @@
     "BAR": 6.35,
     "StylePlus": "128",
     "RatingScore": 3.99,
-    "AdjustedRating": "2.0574658181716471042942289306"
-  },
-  {
-    "BID": 4214160,
-    "BeerName": "Lorelei",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Omnipollo",
-    "Origin": "Sundbyberg, Stockholms län Sweden",
-    "BeerAbv": 10.50,
-    "BeerIbu": 37.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1800289_22fb4_sm.jpeg",
-    "HallRating": 14.13,
-    "BAR": 8.34,
-    "StylePlus": "109",
-    "RatingScore": 4.30,
-    "AdjustedRating": "2.1695892465712718847918362811"
-  },
-  {
-    "BID": 5630068,
-    "BeerName": "MD (Blend #1)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "WeldWerks Brewing Co.",
-    "Origin": "Greeley, CO United States",
-    "BeerAbv": 12.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4902369_e8cf9_sm.jpeg",
-    "HallRating": 14.13,
-    "BAR": 7.26,
-    "StylePlus": "108",
-    "RatingScore": 4.48,
-    "AdjustedRating": "2.0651230973934117861796573561"
-  },
-  {
-    "BID": 3338876,
-    "BeerName": "Complaint Department",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Hopkinsville Brewing Company",
-    "Origin": "Hopkinsville, KY United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 29.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238381_dc1ab.jpeg",
-    "HallRating": 14.13,
-    "BAR": 4.05,
-    "StylePlus": "120",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0561867530196663163760441926"
-  },
-  {
-    "BID": 6608060,
-    "BeerName": "Raven’s Call",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "Trágmar Ale Works",
-    "Origin": "Bristol, RI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-571805_0772a.jpeg",
-    "HallRating": 14.13,
-    "BAR": 3.53,
-    "StylePlus": "121",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0561494938791504347317182399"
+    "AdjustedRating": "2.0666215190707956021795194974"
   },
   {
     "BID": 6300693,
@@ -237,22 +177,67 @@
     "BAR": 6.85,
     "StylePlus": "111",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.0601618094071981628630072957"
+    "AdjustedRating": "2.0869810097199499566932922722"
   },
   {
-    "BID": 6200004,
-    "BeerName": "Double Barrel Life of Pie",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 16.66,
+    "BID": 5630068,
+    "BeerName": "MD (Blend #1)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "WeldWerks Brewing Co.",
+    "Origin": "Greeley, CO United States",
+    "BeerAbv": 12.70,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6200004_615b3_sm.jpeg",
-    "HallRating": 14.12,
-    "BAR": 6.24,
-    "StylePlus": "113",
-    "RatingScore": 4.44,
-    "AdjustedRating": "2.0575268539298983543940045114"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4902369_e8cf9_sm.jpeg",
+    "HallRating": 14.13,
+    "BAR": 7.26,
+    "StylePlus": "108",
+    "RatingScore": 4.48,
+    "AdjustedRating": "2.1236638494342412008870188207"
+  },
+  {
+    "BID": 3338876,
+    "BeerName": "Complaint Department",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Hopkinsville Brewing Company",
+    "Origin": "Hopkinsville, KY United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 29.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238381_dc1ab.jpeg",
+    "HallRating": 14.13,
+    "BAR": 4.05,
+    "StylePlus": "120",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.0568710942189997271274314895"
+  },
+  {
+    "BID": 4214160,
+    "BeerName": "Lorelei",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Omnipollo",
+    "Origin": "Sundbyberg, Stockholms län Sweden",
+    "BeerAbv": 10.50,
+    "BeerIbu": 37.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1800289_22fb4_sm.jpeg",
+    "HallRating": 14.13,
+    "BAR": 8.34,
+    "StylePlus": "109",
+    "RatingScore": 4.30,
+    "AdjustedRating": "2.7065673749792324306363183253"
+  },
+  {
+    "BID": 6608060,
+    "BeerName": "Raven’s Call",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Trágmar Ale Works",
+    "Origin": "Bristol, RI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-571805_0772a.jpeg",
+    "HallRating": 14.13,
+    "BAR": 3.53,
+    "StylePlus": "121",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.056585738011695906432748538"
   },
   {
     "BID": 6504812,
@@ -267,7 +252,22 @@
     "BAR": 7.05,
     "StylePlus": "113",
     "RatingScore": 4.35,
-    "AdjustedRating": "2.0617900993829495064357528854"
+    "AdjustedRating": "2.0990921821312416299980868567"
+  },
+  {
+    "BID": 6200004,
+    "BeerName": "Double Barrel Life of Pie",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 16.66,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6200004_615b3_sm.jpeg",
+    "HallRating": 14.12,
+    "BAR": 6.24,
+    "StylePlus": "113",
+    "RatingScore": 4.44,
+    "AdjustedRating": "2.0670949456606117062567924235"
   },
   {
     "BID": 4807797,
@@ -282,22 +282,7 @@
     "BAR": 6.89,
     "StylePlus": "111",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0604614157986574112878031683"
-  },
-  {
-    "BID": 5020918,
-    "BeerName": "Wet-Hopped Hanse",
-    "BeerStyle": "Kellerbier / Zwickelbier - Kellerpils",
-    "BreweryName": "Schilling Beer Co.",
-    "Origin": "Littleton, NH United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5020918_5f4eb_sm.jpeg",
-    "HallRating": 14.11,
-    "BAR": 6.79,
-    "StylePlus": "118",
-    "RatingScore": 4.15,
-    "AdjustedRating": "2.0593025773737537983109584447"
+    "AdjustedRating": "2.089217324669332513072900646"
   },
   {
     "BID": 6103242,
@@ -312,7 +297,7 @@
     "BAR": 6.16,
     "StylePlus": "113",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0573686228554279988402907411"
+    "AdjustedRating": "2.0658918925846100075726684919"
   },
   {
     "BID": 3341474,
@@ -327,22 +312,22 @@
     "BAR": 6.50,
     "StylePlus": "115",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.0581868863579741609424493718"
+    "AdjustedRating": "2.0720970702905704938343302941"
   },
   {
-    "BID": 6607668,
-    "BeerName": "Moravský Klas Světlé Special Činov Terroir",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Velka Morava",
-    "Origin": "Moskva, Russia",
-    "BeerAbv": 4.40,
+    "BID": 5020918,
+    "BeerName": "Wet-Hopped Hanse",
+    "BeerStyle": "Kellerbier / Zwickelbier - Kellerpils",
+    "BreweryName": "Schilling Beer Co.",
+    "Origin": "Littleton, NH United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6607668_f7216_sm.jpeg",
-    "HallRating": 14.10,
-    "BAR": 5.10,
-    "StylePlus": "126",
-    "RatingScore": 4.32,
-    "AdjustedRating": "2.0563719999796458893601430894"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5020918_5f4eb_sm.jpeg",
+    "HallRating": 14.11,
+    "BAR": 6.79,
+    "StylePlus": "118",
+    "RatingScore": 4.15,
+    "AdjustedRating": "2.0804951991521341169669525002"
   },
   {
     "BID": 5220691,
@@ -357,7 +342,22 @@
     "BAR": 7.34,
     "StylePlus": "112",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.066508968427131643536870474"
+    "AdjustedRating": "2.1335941310734463276836158192"
+  },
+  {
+    "BID": 1015358,
+    "BeerName": "Rosé de Gambrinus",
+    "BeerStyle": "Lambic - Framboise",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-RosedeGambrinus_13142.jpeg",
+    "HallRating": 14.10,
+    "BAR": 8.67,
+    "StylePlus": "105",
+    "RatingScore": 4.26,
+    "AdjustedRating": "3.2590449775526649015770691838"
   },
   {
     "BID": 5813970,
@@ -372,6 +372,6 @@
     "BAR": 5.16,
     "StylePlus": "120",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0564101495859252757317864367"
+    "AdjustedRating": "2.058580717513244001246494235"
   }
 ]

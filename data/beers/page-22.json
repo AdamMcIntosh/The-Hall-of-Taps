@@ -1,48 +1,18 @@
 [
   {
-    "BID": 3903459,
-    "BeerName": "Settle Down",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Suarez Family Brewery",
-    "Origin": "Livingston, NY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2274056_60ac9_sm.jpeg",
-    "HallRating": 16.17,
-    "BAR": 7.90,
-    "StylePlus": "123",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.0601702912570068652675371646"
-  },
-  {
-    "BID": 4940902,
-    "BeerName": "25 Jahre Red Kaos",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Kevin Brewery",
-    "Origin": "Zwickau, Sachsen Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940902_954f6_sm.jpeg",
-    "HallRating": 16.16,
-    "BAR": 5.26,
-    "StylePlus": "133",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0562623874265620746070800648"
-  },
-  {
-    "BID": 3401449,
-    "BeerName": "Imperial German Chocolate Coffee Cupcake Stout",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
+    "BID": 5213648,
+    "BeerName": "Prof.Skruchebluck",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Mad Frog Brewery",
+    "Origin": "Minsk, Minskaja voblasć Belarus",
     "BeerAbv": 11.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2115656_8ceb4_sm.jpeg",
-    "HallRating": 16.16,
-    "BAR": 8.66,
-    "StylePlus": "109",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0742254657519714275610877329"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5213648_2bd86_sm.jpeg",
+    "HallRating": 16.17,
+    "BAR": 7.33,
+    "StylePlus": "121",
+    "RatingScore": 4.40,
+    "AdjustedRating": "2.0700753587348346835148649172"
   },
   {
     "BID": 2230233,
@@ -57,22 +27,37 @@
     "BAR": 9.06,
     "StylePlus": "113",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.0940880423184591637876471927"
+    "AdjustedRating": "2.317869177322074788902291918"
   },
   {
-    "BID": 5010443,
-    "BeerName": "LUXURIOUS LUXURY VOLUME TWELVE",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Evil Twin Brewing NYC",
-    "Origin": "Ridgewood, NY United States",
-    "BeerAbv": 9.00,
+    "BID": 4940902,
+    "BeerName": "25 Jahre Red Kaos",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Kevin Brewery",
+    "Origin": "Zwickau, Sachsen Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940902_954f6_sm.jpeg",
+    "HallRating": 16.16,
+    "BAR": 5.26,
+    "StylePlus": "133",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0574501804435091001208153085"
+  },
+  {
+    "BID": 3401449,
+    "BeerName": "Imperial German Chocolate Coffee Cupcake Stout",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5010443_586d2_sm.jpeg",
-    "HallRating": 16.15,
-    "BAR": 8.14,
-    "StylePlus": "115",
-    "RatingScore": 4.38,
-    "AdjustedRating": "2.0626999546931971287422642745"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2115656_8ceb4_sm.jpeg",
+    "HallRating": 16.16,
+    "BAR": 8.66,
+    "StylePlus": "109",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1885868159763859422562494235"
   },
   {
     "BID": 3207428,
@@ -87,7 +72,22 @@
     "BAR": 7.94,
     "StylePlus": "116",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0608705949794938862577294717"
+    "AdjustedRating": "2.0922734114123339221257967898"
+  },
+  {
+    "BID": 5010443,
+    "BeerName": "LUXURIOUS LUXURY VOLUME TWELVE",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Evil Twin Brewing NYC",
+    "Origin": "Ridgewood, NY United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5010443_586d2_sm.jpeg",
+    "HallRating": 16.15,
+    "BAR": 8.14,
+    "StylePlus": "115",
+    "RatingScore": 4.38,
+    "AdjustedRating": "2.1058327932534534076165763566"
   },
   {
     "BID": 5704355,
@@ -102,37 +102,7 @@
     "BAR": 7.69,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0595061310138210204532806818"
-  },
-  {
-    "BID": 4206566,
-    "BeerName": "Rum Barrel Aged Escape To Fantasy Island",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4206566_2575a_sm.jpeg",
-    "HallRating": 16.14,
-    "BAR": 7.59,
-    "StylePlus": "115",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.0588828271983042361056395841"
-  },
-  {
-    "BID": 3832016,
-    "BeerName": "War Beast (cinnamon)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Little Cottage Brewery",
-    "Origin": "Avondale Estates, GA United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-littlecottagebrewery_75836.jpeg",
-    "HallRating": 16.14,
-    "BAR": 6.67,
-    "StylePlus": "114",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0569318536633759071634433164"
+    "AdjustedRating": "2.0820673038780628979355585568"
   },
   {
     "BID": 5000999,
@@ -147,7 +117,37 @@
     "BAR": 7.24,
     "StylePlus": "115",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0578132089496448977412292412"
+    "AdjustedRating": "2.0692717752007136485280999108"
+  },
+  {
+    "BID": 3832016,
+    "BeerName": "War Beast (cinnamon)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Little Cottage Brewery",
+    "Origin": "Avondale Estates, GA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-littlecottagebrewery_75836.jpeg",
+    "HallRating": 16.14,
+    "BAR": 6.67,
+    "StylePlus": "114",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0625660902372617658498638662"
+  },
+  {
+    "BID": 4206566,
+    "BeerName": "Rum Barrel Aged Escape To Fantasy Island",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4206566_2575a_sm.jpeg",
+    "HallRating": 16.14,
+    "BAR": 7.59,
+    "StylePlus": "115",
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.0773632533333333333333333333"
   },
   {
     "BID": 5004402,
@@ -162,7 +162,7 @@
     "BAR": 9.44,
     "StylePlus": "114",
     "RatingScore": 4.24,
-    "AdjustedRating": "2.1488318269386800383021336628"
+    "AdjustedRating": "2.6100079796274738067520372526"
   },
   {
     "BID": 5029731,
@@ -177,7 +177,7 @@
     "BAR": 6.55,
     "StylePlus": "122",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0567836431173429932028165575"
+    "AdjustedRating": "2.0614345147170398614866836566"
   },
   {
     "BID": 5205724,
@@ -192,7 +192,7 @@
     "BAR": 7.71,
     "StylePlus": "119",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.0594202788014920367114209922"
+    "AdjustedRating": "2.0814048473628386847941374988"
   },
   {
     "BID": 2426886,
@@ -207,7 +207,7 @@
     "BAR": 7.21,
     "StylePlus": "114",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0577893745985490552076102131"
+    "AdjustedRating": "2.0690913180760279286268425136"
   },
   {
     "BID": 6405767,
@@ -222,7 +222,7 @@
     "BAR": 6.26,
     "StylePlus": "113",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0566226473623153010135547686"
+    "AdjustedRating": "2.0602055315255689007416635845"
   },
   {
     "BID": 3904430,
@@ -237,7 +237,7 @@
     "BAR": 8.67,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.0755161011492628108853084684"
+    "AdjustedRating": "2.1974264377776961774317923108"
   },
   {
     "BID": 4027915,
@@ -252,37 +252,7 @@
     "BAR": 6.53,
     "StylePlus": "115",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0568059446099368358928830357"
-  },
-  {
-    "BID": 2013305,
-    "BeerName": "World Wide Stout (2013)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 18.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-997870_f287f_sm.jpeg",
-    "HallRating": 16.08,
-    "BAR": 8.94,
-    "StylePlus": "110",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.0907791106217993409338275494"
-  },
-  {
-    "BID": 3900039,
-    "BeerName": "DDH Alien Church (Citra & Galaxy)",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Tired Hands Brewing Company",
-    "Origin": "Ardmore, PA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3898880_a8caa_sm.jpeg",
-    "HallRating": 16.08,
-    "BAR": 9.25,
-    "StylePlus": "112",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.1209353054522801882687972155"
+    "AdjustedRating": "2.0616051585541418621843508035"
   },
   {
     "BID": 5408759,
@@ -297,7 +267,7 @@
     "BAR": 9.09,
     "StylePlus": "110",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.1036626028631284916201117318"
+    "AdjustedRating": "2.378011751126411178048903964"
   },
   {
     "BID": 27293,
@@ -312,22 +282,37 @@
     "BAR": 8.49,
     "StylePlus": "118",
     "RatingScore": 4.22,
-    "AdjustedRating": "2.0683917003230956459256298088"
+    "AdjustedRating": "2.1469443826814598976427957712"
   },
   {
-    "BID": 1672504,
-    "BeerName": "Bourbon-soaked Oak Blueberry Pancake Marshal Zhukov's",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.50,
+    "BID": 2013305,
+    "BeerName": "World Wide Stout (2013)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 18.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-997870_f287f_sm.jpeg",
+    "HallRating": 16.08,
+    "BAR": 8.94,
+    "StylePlus": "110",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.2986037051450609168200543431"
+  },
+  {
+    "BID": 3900039,
+    "BeerName": "DDH Alien Church (Citra & Galaxy)",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Tired Hands Brewing Company",
+    "Origin": "Ardmore, PA United States",
+    "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
-    "HallRating": 16.07,
-    "BAR": 6.25,
-    "StylePlus": "116",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0566123439064598852118695811"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3898880_a8caa_sm.jpeg",
+    "HallRating": 16.08,
+    "BAR": 9.25,
+    "StylePlus": "112",
+    "RatingScore": 4.33,
+    "AdjustedRating": "2.4736460177948970983812691995"
   },
   {
     "BID": 6031526,
@@ -342,7 +327,22 @@
     "BAR": 8.09,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0628776278676752323701886113"
+    "AdjustedRating": "2.1071874090475281542279060889"
+  },
+  {
+    "BID": 1672504,
+    "BeerName": "Bourbon-soaked Oak Blueberry Pancake Marshal Zhukov's",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
+    "HallRating": 16.07,
+    "BAR": 6.25,
+    "StylePlus": "116",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0601266932705222791068891009"
   },
   {
     "BID": 1668078,
@@ -357,7 +357,7 @@
     "BAR": 5.91,
     "StylePlus": "114",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0564564218630341918396527642"
+    "AdjustedRating": "2.0589348412729326529817317805"
   },
   {
     "BID": 6212090,
@@ -372,6 +372,6 @@
     "BAR": 8.18,
     "StylePlus": "122",
     "RatingScore": 4.23,
-    "AdjustedRating": "2.0633504364445143275958702439"
+    "AdjustedRating": "2.1105476041666666666666666667"
   }
 ]

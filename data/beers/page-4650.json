@@ -1,20 +1,5 @@
 [
   {
-    "BID": 1675910,
-    "BeerName": "Pearl Light",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Pabst Brewing Company",
-    "Origin": "San Antonio, TX United States",
-    "BeerAbv": 2.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PearlLight_6111.jpeg",
-    "HallRating": -18.55,
-    "BAR": -9.10,
-    "StylePlus": "69",
-    "RatingScore": 2.31,
-    "AdjustedRating": "2.0565811765584286955064226614"
-  },
-  {
     "BID": 4204269,
     "BeerName": "Tutti Frukti",
     "BeerStyle": "Sour - Smoothie / Pastry",
@@ -27,7 +12,22 @@
     "BAR": -9.74,
     "StylePlus": "81",
     "RatingScore": 3.27,
-    "AdjustedRating": "2.0624903999331774139659204811"
+    "AdjustedRating": "2.1035034821545667447306791569"
+  },
+  {
+    "BID": 1675910,
+    "BeerName": "Pearl Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Pabst Brewing Company",
+    "Origin": "San Antonio, TX United States",
+    "BeerAbv": 2.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-PearlLight_6111.jpeg",
+    "HallRating": -18.55,
+    "BAR": -9.10,
+    "StylePlus": "69",
+    "RatingScore": 2.31,
+    "AdjustedRating": "2.05984438178290851116958952"
   },
   {
     "BID": 1830687,
@@ -42,7 +42,7 @@
     "BAR": -9.92,
     "StylePlus": "71",
     "RatingScore": 2.43,
-    "AdjustedRating": "2.0586954738259781935793609683"
+    "AdjustedRating": "2.0752038398638398638398638399"
   },
   {
     "BID": 1828754,
@@ -57,7 +57,7 @@
     "BAR": -10.47,
     "StylePlus": "75",
     "RatingScore": 2.75,
-    "AdjustedRating": "2.068900404219927769702237341"
+    "AdjustedRating": "2.1435255748487688506432648888"
   },
   {
     "BID": 3903526,
@@ -72,7 +72,7 @@
     "BAR": -10.13,
     "StylePlus": "65",
     "RatingScore": 2.20,
-    "AdjustedRating": "2.0574938639837330773359134648"
+    "AdjustedRating": "2.0662247337707057160462503172"
   },
   {
     "BID": 5035411,
@@ -87,7 +87,7 @@
     "BAR": -9.29,
     "StylePlus": "73",
     "RatingScore": 2.65,
-    "AdjustedRating": "2.057570384169634267990263391"
+    "AdjustedRating": "2.0672861037569821715509985462"
   },
   {
     "BID": 3335665,
@@ -102,22 +102,7 @@
     "BAR": -7.33,
     "StylePlus": "70",
     "RatingScore": 2.67,
-    "AdjustedRating": "2.0562230010277806044571079678"
-  },
-  {
-    "BID": 6611297,
-    "BeerName": "9th Dynasty Alcoholvrij",
-    "BeerStyle": "Non-Alcoholic - Blonde / Golden Ale",
-    "BreweryName": "Craywinckelhof",
-    "Origin": "Lubbeek, Vlaams Gewest Belgium",
-    "BeerAbv": 0.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-28732_ea32d.jpeg",
-    "HallRating": -18.63,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0571474407831993616068821892"
   },
   {
     "BID": 6619061,
@@ -132,22 +117,22 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
-    "BID": 6615251,
-    "BeerName": "Session IPA Sem álcool",
-    "BeerStyle": "Non-Alcoholic - Farmhouse Ale",
-    "BreweryName": "BackBone",
-    "Origin": "Resende, Rio de Janeiro Brazil",
+    "BID": 6611297,
+    "BeerName": "9th Dynasty Alcoholvrij",
+    "BeerStyle": "Non-Alcoholic - Blonde / Golden Ale",
+    "BreweryName": "Craywinckelhof",
+    "Origin": "Lubbeek, Vlaams Gewest Belgium",
     "BeerAbv": 0.30,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-407724_7aa4f.jpeg",
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-28732_ea32d.jpeg",
     "HallRating": -18.63,
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6605844,
@@ -162,7 +147,22 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6615251,
+    "BeerName": "Session IPA Sem álcool",
+    "BeerStyle": "Non-Alcoholic - Farmhouse Ale",
+    "BreweryName": "BackBone",
+    "Origin": "Resende, Rio de Janeiro Brazil",
+    "BeerAbv": 0.30,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-407724_7aa4f.jpeg",
+    "HallRating": -18.63,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6603801,
@@ -177,7 +177,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6414124,
@@ -192,7 +192,7 @@
     "BAR": -5.25,
     "StylePlus": "75",
     "RatingScore": 3.05,
-    "AdjustedRating": "2.0561219351460283049113753988"
+    "AdjustedRating": "2.0563745903908001169476659195"
   },
   {
     "BID": 2008564,
@@ -207,7 +207,7 @@
     "BAR": -10.82,
     "StylePlus": "75",
     "RatingScore": 2.70,
-    "AdjustedRating": "2.0776681657956672183679642714"
+    "AdjustedRating": "2.1912746204559457794208256315"
   },
   {
     "BID": 3823557,
@@ -222,7 +222,7 @@
     "BAR": -9.08,
     "StylePlus": "75",
     "RatingScore": 2.90,
-    "AdjustedRating": "2.057546001996580918681240522"
+    "AdjustedRating": "2.0671582459786038636188717001"
   },
   {
     "BID": 4216668,
@@ -237,7 +237,7 @@
     "BAR": -9.70,
     "StylePlus": "64",
     "RatingScore": 2.12,
-    "AdjustedRating": "2.0563620378710337768679631525"
+    "AdjustedRating": "2.0581543637632765483804025883"
   },
   {
     "BID": 4815617,
@@ -252,7 +252,7 @@
     "BAR": -9.52,
     "StylePlus": "73",
     "RatingScore": 2.66,
-    "AdjustedRating": "2.0580217098636418976502577006"
+    "AdjustedRating": "2.0706202713347921225382932166"
   },
   {
     "BID": 3334325,
@@ -267,37 +267,7 @@
     "BAR": -8.32,
     "StylePlus": "63",
     "RatingScore": 2.22,
-    "AdjustedRating": "2.0561873752196501364310254069"
-  },
-  {
-    "BID": 6617585,
-    "BeerName": "Pappy's Ultra",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Maquoketa Brewing",
-    "Origin": "Maquoketa, IA United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-482373_2dd64.jpeg",
-    "HallRating": -18.76,
-    "BAR": -1.71,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
-  },
-  {
-    "BID": 6601893,
-    "BeerName": "Smooth Creaminal",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Unauthorized Brewing",
-    "Origin": "North Beach, MD United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-580023_19b49.jpeg",
-    "HallRating": -18.76,
-    "BAR": -1.71,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0568727610695021149443129341"
   },
   {
     "BID": 3343243,
@@ -312,7 +282,22 @@
     "BAR": -1.71,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0560038282773142010449972705"
+  },
+  {
+    "BID": 6601893,
+    "BeerName": "Smooth Creaminal",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Unauthorized Brewing",
+    "Origin": "North Beach, MD United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-580023_19b49.jpeg",
+    "HallRating": -18.76,
+    "BAR": -1.71,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
     "BID": 6613903,
@@ -327,7 +312,22 @@
     "BAR": -1.71,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0560038282773142010449972705"
+  },
+  {
+    "BID": 6617585,
+    "BeerName": "Pappy's Ultra",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Maquoketa Brewing",
+    "Origin": "Maquoketa, IA United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 8.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-482373_2dd64.jpeg",
+    "HallRating": -18.76,
+    "BAR": -1.71,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
     "BID": 5403815,
@@ -342,7 +342,7 @@
     "BAR": -7.02,
     "StylePlus": "57",
     "RatingScore": 2.04,
-    "AdjustedRating": "2.0560814629172147267671280972"
+    "AdjustedRating": "2.0560645809316092849353481851"
   },
   {
     "BID": 2103081,
@@ -357,7 +357,7 @@
     "BAR": -9.53,
     "StylePlus": "81",
     "RatingScore": 3.22,
-    "AdjustedRating": "2.0596478095880750282852779568"
+    "AdjustedRating": "2.0828445122578433053317332419"
   },
   {
     "BID": 6400567,
@@ -372,6 +372,6 @@
     "BAR": -8.77,
     "StylePlus": "78",
     "RatingScore": 3.18,
-    "AdjustedRating": "2.057272461455947657260801155"
+    "AdjustedRating": "2.0651264526360577109039569876"
   }
 ]

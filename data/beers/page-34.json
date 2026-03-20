@@ -12,7 +12,7 @@
     "BAR": 7.21,
     "StylePlus": "121",
     "RatingScore": 4.21,
-    "AdjustedRating": "2.0592691247722785861835034415"
+    "AdjustedRating": "2.0802507780690931523750771129"
   },
   {
     "BID": 5605557,
@@ -27,7 +27,7 @@
     "BAR": 6.08,
     "StylePlus": "121",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0567145185550750445179343678"
+    "AdjustedRating": "2.060906211404891145742135061"
   },
   {
     "BID": 1020445,
@@ -42,82 +42,7 @@
     "BAR": 8.22,
     "StylePlus": "115",
     "RatingScore": 4.23,
-    "AdjustedRating": "2.078995730477847408082542544"
-  },
-  {
-    "BID": 3850380,
-    "BeerName": "Funky Blender: Raspberry + Cherry (Heritage/4 Cherry Blend 5/5/20)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Casey Brewing & Blending",
-    "Origin": "Glenwood Springs, CO United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-127424_d63e0.jpeg",
-    "HallRating": 15.02,
-    "BAR": 7.47,
-    "StylePlus": "117",
-    "RatingScore": 4.30,
-    "AdjustedRating": "2.0613759322806661251015434606"
-  },
-  {
-    "BID": 5650121,
-    "BeerName": "Secret Machine - Pomegranate, Cranberry, Strawberry, Muffins",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Dewey Beer Company",
-    "Origin": "Dewey Beach, DE United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4729713_05b37_sm.jpeg",
-    "HallRating": 15.02,
-    "BAR": 7.79,
-    "StylePlus": "118",
-    "RatingScore": 4.13,
-    "AdjustedRating": "2.0650480932056742260518828367"
-  },
-  {
-    "BID": 3051038,
-    "BeerName": "Curmudgeon’s Better Half \"Deep Cut\"",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 13.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-549_53a84.jpeg",
-    "HallRating": 15.02,
-    "BAR": 7.31,
-    "StylePlus": "115",
-    "RatingScore": 4.32,
-    "AdjustedRating": "2.0601036024384668139907033453"
-  },
-  {
-    "BID": 6008586,
-    "BeerName": "TreeSide",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 16.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6008586_b9119_sm.jpeg",
-    "HallRating": 15.02,
-    "BAR": 7.16,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0594574704064726629600642387"
-  },
-  {
-    "BID": 5410270,
-    "BeerName": "Death Come Quickly",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Floodland Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 7.39,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5410270_196be_sm.jpeg",
-    "HallRating": 15.02,
-    "BAR": 6.40,
-    "StylePlus": "119",
-    "RatingScore": 4.40,
-    "AdjustedRating": "2.0570915333299420083426594771"
+    "AdjustedRating": "2.2201191210613598673300165837"
   },
   {
     "BID": 6014280,
@@ -132,22 +57,82 @@
     "BAR": 6.72,
     "StylePlus": "121",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0576336390114402976155663316"
+    "AdjustedRating": "2.0679038822297218666356336553"
   },
   {
-    "BID": 5904280,
-    "BeerName": "Farmer Wave",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 6.00,
+    "BID": 3051038,
+    "BeerName": "Curmudgeon’s Better Half \"Deep Cut\"",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 13.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1527160_11f23_sm.jpeg",
-    "HallRating": 15.01,
-    "BAR": 8.41,
-    "StylePlus": "114",
-    "RatingScore": 4.21,
-    "AdjustedRating": "2.0920204155142258775606204289"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-549_53a84.jpeg",
+    "HallRating": 15.02,
+    "BAR": 7.31,
+    "StylePlus": "115",
+    "RatingScore": 4.32,
+    "AdjustedRating": "2.0865226944161264882956009925"
+  },
+  {
+    "BID": 5650121,
+    "BeerName": "Secret Machine - Pomegranate, Cranberry, Strawberry, Muffins",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Dewey Beer Company",
+    "Origin": "Dewey Beach, DE United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4729713_05b37_sm.jpeg",
+    "HallRating": 15.02,
+    "BAR": 7.79,
+    "StylePlus": "118",
+    "RatingScore": 4.13,
+    "AdjustedRating": "2.1228456555211714091629556948"
+  },
+  {
+    "BID": 6008586,
+    "BeerName": "TreeSide",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 16.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6008586_b9119_sm.jpeg",
+    "HallRating": 15.02,
+    "BAR": 7.16,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0816974081148347514036001621"
+  },
+  {
+    "BID": 3850380,
+    "BeerName": "Funky Blender: Raspberry + Cherry (Heritage/4 Cherry Blend 5/5/20)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Casey Brewing & Blending",
+    "Origin": "Glenwood Springs, CO United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-127424_d63e0.jpeg",
+    "HallRating": 15.02,
+    "BAR": 7.47,
+    "StylePlus": "117",
+    "RatingScore": 4.30,
+    "AdjustedRating": "2.0960042965204236006051437216"
+  },
+  {
+    "BID": 5410270,
+    "BeerName": "Death Come Quickly",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Floodland Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 7.39,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5410270_196be_sm.jpeg",
+    "HallRating": 15.02,
+    "BAR": 6.40,
+    "StylePlus": "119",
+    "RatingScore": 4.40,
+    "AdjustedRating": "2.0637818138712372957111486815"
   },
   {
     "BID": 4631365,
@@ -162,7 +147,22 @@
     "BAR": 8.27,
     "StylePlus": "109",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0856335703414693009470035019"
+    "AdjustedRating": "2.2656820320970042796005706134"
+  },
+  {
+    "BID": 5904280,
+    "BeerName": "Farmer Wave",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1527160_11f23_sm.jpeg",
+    "HallRating": 15.01,
+    "BAR": 8.41,
+    "StylePlus": "114",
+    "RatingScore": 4.21,
+    "AdjustedRating": "2.3038895124055350426170675317"
   },
   {
     "BID": 6408488,
@@ -177,22 +177,7 @@
     "BAR": 8.93,
     "StylePlus": "108",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.2062441499741086577307729938"
-  },
-  {
-    "BID": 6450642,
-    "BeerName": "Singularity: Advocator Select 25-26 #1",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Moksa Brewing Co",
-    "Origin": "Rocklin, CA United States",
-    "BeerAbv": 14.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6450642_67120_sm.jpeg",
-    "HallRating": 15.00,
-    "BAR": 4.81,
-    "StylePlus": "115",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0562569233493716556790164293"
+    "AdjustedRating": "2.8695223294294061376974585692"
   },
   {
     "BID": 1804610,
@@ -207,37 +192,22 @@
     "BAR": 8.05,
     "StylePlus": "110",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0737755096864132617112032063"
+    "AdjustedRating": "2.1851750333542181107876018133"
   },
   {
-    "BID": 4018811,
-    "BeerName": "Grade 10",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 5.20,
+    "BID": 6450642,
+    "BeerName": "Singularity: Advocator Select 25-26 #1",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Moksa Brewing Co",
+    "Origin": "Rocklin, CA United States",
+    "BeerAbv": 14.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4018811_64fd1_sm.jpeg",
-    "HallRating": 14.99,
-    "BAR": 8.23,
-    "StylePlus": "113",
-    "RatingScore": 4.28,
-    "AdjustedRating": "2.0813992574990692198553014218"
-  },
-  {
-    "BID": 4630275,
-    "BeerName": "Barrel Aged Colossus",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "DuClaw Brewing Company",
-    "Origin": "Ewing Township, NJ United States",
-    "BeerAbv": 20.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4633179_20b23_sm.jpeg",
-    "HallRating": 14.99,
-    "BAR": 6.75,
-    "StylePlus": "116",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.0577958213778074995486641731"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6450642_67120_sm.jpeg",
+    "HallRating": 15.00,
+    "BAR": 4.81,
+    "StylePlus": "115",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.0574083786733182633096889859"
   },
   {
     "BID": 3333753,
@@ -252,52 +222,7 @@
     "BAR": 7.26,
     "StylePlus": "114",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.059950837158258943314551653"
-  },
-  {
-    "BID": 6016568,
-    "BeerName": "The Wolf - Double Barrel (2024)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "3 Sheeps Brewing Company",
-    "Origin": "Sheboygan, WI United States",
-    "BeerAbv": 13.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6016568_1bbd4_sm.jpeg",
-    "HallRating": 14.99,
-    "BAR": 6.69,
-    "StylePlus": "112",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.0577388786455538800721164238"
-  },
-  {
-    "BID": 4411416,
-    "BeerName": "Wild Garden",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hudson Valley Brewery",
-    "Origin": "Beacon, NY United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4411416_1a357_sm.jpeg",
-    "HallRating": 14.99,
-    "BAR": 7.12,
-    "StylePlus": "118",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.0590599819164129644783052863"
-  },
-  {
-    "BID": 6428684,
-    "BeerName": "Double Barrel Intent",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "New Image Brewing",
-    "Origin": "Arvada, CO United States",
-    "BeerAbv": 16.62,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6428684_31ef0_sm.jpeg",
-    "HallRating": 14.99,
-    "BAR": 6.60,
-    "StylePlus": "114",
-    "RatingScore": 4.48,
-    "AdjustedRating": "2.0574956188494990081888001628"
+    "AdjustedRating": "2.0853873974395995764751179132"
   },
   {
     "BID": 6423983,
@@ -312,7 +237,22 @@
     "BAR": 6.90,
     "StylePlus": "114",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0582502923430099681456605136"
+    "AdjustedRating": "2.0725812816541469836598776427"
+  },
+  {
+    "BID": 4018811,
+    "BeerName": "Grade 10",
+    "BeerStyle": "Pale Ale - New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4018811_64fd1_sm.jpeg",
+    "HallRating": 14.99,
+    "BAR": 8.23,
+    "StylePlus": "113",
+    "RatingScore": 4.28,
+    "AdjustedRating": "2.2363799759921168144763952343"
   },
   {
     "BID": 5422466,
@@ -327,7 +267,67 @@
     "BAR": 6.32,
     "StylePlus": "116",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0570195329039741163543129235"
+    "AdjustedRating": "2.0632336442275917034387574597"
+  },
+  {
+    "BID": 6016568,
+    "BeerName": "The Wolf - Double Barrel (2024)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "3 Sheeps Brewing Company",
+    "Origin": "Sheboygan, WI United States",
+    "BeerAbv": 13.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6016568_1bbd4_sm.jpeg",
+    "HallRating": 14.99,
+    "BAR": 6.69,
+    "StylePlus": "112",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0687078747672253258845437616"
+  },
+  {
+    "BID": 4630275,
+    "BeerName": "Barrel Aged Colossus",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "DuClaw Brewing Company",
+    "Origin": "Ewing Township, NJ United States",
+    "BeerAbv": 20.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4633179_20b23_sm.jpeg",
+    "HallRating": 14.99,
+    "BAR": 6.75,
+    "StylePlus": "116",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.0691369699084845664650224911"
+  },
+  {
+    "BID": 4411416,
+    "BeerName": "Wild Garden",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hudson Valley Brewery",
+    "Origin": "Beacon, NY United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4411416_1a357_sm.jpeg",
+    "HallRating": 14.99,
+    "BAR": 7.12,
+    "StylePlus": "118",
+    "RatingScore": 4.33,
+    "AdjustedRating": "2.0786892840459415114371199691"
+  },
+  {
+    "BID": 6428684,
+    "BeerName": "Double Barrel Intent",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "New Image Brewing",
+    "Origin": "Arvada, CO United States",
+    "BeerAbv": 16.62,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6428684_31ef0_sm.jpeg",
+    "HallRating": 14.99,
+    "BAR": 6.60,
+    "StylePlus": "114",
+    "RatingScore": 4.48,
+    "AdjustedRating": "2.0668582146392593023932917953"
   },
   {
     "BID": 4939829,
@@ -342,7 +342,7 @@
     "BAR": 5.47,
     "StylePlus": "118",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0564202919876655030988896917"
+    "AdjustedRating": "2.0586584025086185069045439495"
   },
   {
     "BID": 3103644,
@@ -357,7 +357,7 @@
     "BAR": 8.43,
     "StylePlus": "110",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0989099775735679913652240395"
+    "AdjustedRating": "2.3488831478792641054987103056"
   },
   {
     "BID": 3818795,
@@ -372,6 +372,6 @@
     "BAR": 8.17,
     "StylePlus": "112",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.0788163290471596647968706314"
+    "AdjustedRating": "2.2192498618744576222157940411"
   }
 ]

@@ -1,48 +1,108 @@
 [
   {
-    "BID": 6606818,
-    "BeerName": "Doldrums",
+    "BID": 6604867,
+    "BeerName": "Easy Rider",
     "BeerStyle": "Lager - Other",
-    "BreweryName": "Foam Brewers",
-    "Origin": "Burlington, VT United States",
-    "BeerAbv": 5.00,
+    "BreweryName": "Engkanto Brewery",
+    "Origin": "Carmona, Cavite Philippines",
+    "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6606818_a5ba6_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-337686_e9a98.jpeg",
     "HallRating": -28.35,
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
-    "BID": 4981295,
-    "BeerName": "Postmeisterei Urfrisch Pils",
+    "BID": 6608991,
+    "BeerName": "Emotional Support",
     "BeerStyle": "Pilsner - German",
-    "BreweryName": "Pott's Brauerei",
-    "Origin": "Oelde, Nordrhein-Westfalen Germany",
+    "BreweryName": "3 Sheeps Brewing Company",
+    "Origin": "Sheboygan, WI United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-27118_10938.jpeg",
+    "HallRating": -28.35,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6604569,
+    "BeerName": "Wild Thing",
+    "BeerStyle": "Lager - Other",
+    "BreweryName": "Twin Span Brewing",
+    "Origin": "Bettendorf, IA United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-Potts_9919.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-461960_031fc.jpeg",
     "HallRating": -28.35,
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
-    "BID": 6607573,
-    "BeerName": "星夜-跨年版",
+    "BID": 6608897,
+    "BeerName": "Loffelder Pils Alkoholfrei",
     "BeerStyle": "Pilsner - German",
-    "BreweryName": "Crazy Bear Industry (疯熊工業)",
-    "Origin": "Guang Zhou Shi, Guang Dong Sheng China / People's Republic of China",
-    "BeerAbv": 5.20,
+    "BreweryName": "Staffelberg-Bräu",
+    "Origin": "Bad Staffelstein, Bayern Germany",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-503584_33d96.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-StaffelbergBrau_15018.jpeg",
     "HallRating": -28.35,
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 3342393,
+    "BeerName": "Starlinger Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Starlinger",
+    "Origin": "Austria",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -28.35,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6608492,
+    "BeerName": "Kaiserdom Unfiltered",
+    "BeerStyle": "Lager - Other",
+    "BreweryName": "Privatbrauerei Kaiserdom",
+    "Origin": "Bamberg, Bayern Germany",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-PrivatbrauereiKaiserdom_729.jpeg",
+    "HallRating": -28.35,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6608532,
+    "BeerName": "Cosmos",
+    "BeerStyle": "Lager - Other",
+    "BreweryName": "Hand Brew Co",
+    "Origin": "Worthing, West Sussex England",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-294002_e5736.jpeg",
+    "HallRating": -28.35,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6607556,
@@ -57,7 +117,22 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6607573,
+    "BeerName": "星夜-跨年版",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Crazy Bear Industry (疯熊工業)",
+    "Origin": "Guang Zhou Shi, Guang Dong Sheng China / People's Republic of China",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-503584_33d96.jpeg",
+    "HallRating": -28.35,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6607804,
@@ -72,7 +147,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6608097,
@@ -87,7 +162,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6608248,
@@ -102,7 +177,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6607995,
@@ -117,7 +192,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6608074,
@@ -132,82 +207,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6610198,
-    "BeerName": "Hutnik Lager",
-    "BeerStyle": "Lager - Other",
-    "BreweryName": "Legnicki Browar Książęcy",
-    "Origin": "Legnica, Dolnośląskie Poland",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-541577_e89c4.jpeg",
-    "HallRating": -28.35,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6609901,
-    "BeerName": "120 Lager",
-    "BeerStyle": "Lager - Other",
-    "BreweryName": "Bocce Brewing Company",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -28.35,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6609924,
-    "BeerName": "Osmistovka",
-    "BeerStyle": "Lager - Other",
-    "BreweryName": "Pivovar U Přeška",
-    "Origin": "Přeštice, Plzeňský kraj Czech Republic",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-367272_33e38.jpeg",
-    "HallRating": -28.35,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6610027,
-    "BeerName": "Nightmare Before Winter",
-    "BeerStyle": "Lager - Other",
-    "BreweryName": "TUPPS Brewery",
-    "Origin": "McKinney, TX United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-196598_e1d85.jpeg",
-    "HallRating": -28.35,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6610046,
-    "BeerName": "1896",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Premise Brewing Company",
-    "Origin": "DuBois, PA United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220012_62117.jpeg",
-    "HallRating": -28.35,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6503485,
@@ -222,7 +222,7 @@
     "BAR": -3.89,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 5613672,
@@ -237,37 +237,7 @@
     "BAR": -3.89,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
-  },
-  {
-    "BID": 1669550,
-    "BeerName": "Christmas In July Winter Break",
-    "BeerStyle": "Lager - Winter",
-    "BreweryName": "Raccoon Pubhaus",
-    "Origin": "Burlington, NJ United States",
-    "BeerAbv": 5.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-203359_2fc47.jpeg",
-    "HallRating": -28.36,
-    "BAR": -3.89,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
-  },
-  {
-    "BID": 3338241,
-    "BeerName": "The Welder's Draught",
-    "BeerStyle": "Lager - Winter",
-    "BreweryName": "The Welder's Dog",
-    "Origin": "Armidale, New South Wales Australia",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3372104_cff32_sm.jpeg",
-    "HallRating": -28.36,
-    "BAR": -3.89,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 6504227,
@@ -282,7 +252,7 @@
     "BAR": -3.89,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 6604604,
@@ -297,7 +267,7 @@
     "BAR": -3.89,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 6504585,
@@ -312,7 +282,37 @@
     "BAR": -3.89,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
+  },
+  {
+    "BID": 3338241,
+    "BeerName": "The Welder's Draught",
+    "BeerStyle": "Lager - Winter",
+    "BreweryName": "The Welder's Dog",
+    "Origin": "Armidale, New South Wales Australia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3372104_cff32_sm.jpeg",
+    "HallRating": -28.36,
+    "BAR": -3.89,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0559637447604936346090109762"
+  },
+  {
+    "BID": 1669550,
+    "BeerName": "Christmas In July Winter Break",
+    "BeerStyle": "Lager - Winter",
+    "BreweryName": "Raccoon Pubhaus",
+    "Origin": "Burlington, NJ United States",
+    "BeerAbv": 5.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-203359_2fc47.jpeg",
+    "HallRating": -28.36,
+    "BAR": -3.89,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 6200883,
@@ -327,7 +327,7 @@
     "BAR": -11.55,
     "StylePlus": "71",
     "RatingScore": 2.96,
-    "AdjustedRating": "2.0563438358398795229761081037"
+    "AdjustedRating": "2.0580710923486956014240413984"
   },
   {
     "BID": 6302487,
@@ -342,7 +342,7 @@
     "BAR": -11.34,
     "StylePlus": "66",
     "RatingScore": 2.66,
-    "AdjustedRating": "2.0562299528449245203339727184"
+    "AdjustedRating": "2.0572005129901722292497810645"
   },
   {
     "BID": 6505436,
@@ -357,21 +357,21 @@
     "BAR": -5.89,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
-    "BID": 6600163,
-    "BeerName": "Vero Honig",
-    "BeerStyle": "Honey Beer",
-    "BreweryName": "Cherubier",
-    "Origin": "Switzerland",
-    "BeerAbv": 6.00,
+    "BID": 5411271,
+    "BeerName": "Алтайский домашний",
+    "BeerStyle": "Kvass",
+    "BreweryName": "ИП Сухотерина Н.С.",
+    "Origin": "Russia",
+    "BeerAbv": 1.20,
     "BeerIbu": 0.00,
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": -28.60,
-    "BAR": 0.00,
+    "BAR": -6.29,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0558034263212273622239117297"
   }
 ]

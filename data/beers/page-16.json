@@ -12,7 +12,7 @@
     "BAR": 6.24,
     "StylePlus": "117",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0564697206811364486361751334"
+    "AdjustedRating": "2.0590365420269533380073225832"
   },
   {
     "BID": 1672076,
@@ -27,7 +27,7 @@
     "BAR": 6.45,
     "StylePlus": "121",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0565481544790529762404500042"
+    "AdjustedRating": "2.0596360803707020754643510767"
   },
   {
     "BID": 2020892,
@@ -42,7 +42,7 @@
     "BAR": 10.20,
     "StylePlus": "108",
     "RatingScore": 4.26,
-    "AdjustedRating": "2.2577919729531048448617834307"
+    "AdjustedRating": "3.0161882941428901530572947041"
   },
   {
     "BID": 436037,
@@ -57,22 +57,7 @@
     "BAR": 9.42,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.0949795374161241862794191287"
-  },
-  {
-    "BID": 4612028,
-    "BeerName": "Black Gold Barrel Aged Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-475632_f4194_sm.jpeg",
-    "HallRating": 16.81,
-    "BAR": 9.67,
-    "StylePlus": "110",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.1251565486472392410600642089"
+    "AdjustedRating": "2.3253239806582436437373264701"
   },
   {
     "BID": 6150873,
@@ -87,7 +72,22 @@
     "BAR": 6.99,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0569675123916698674982893569"
+    "AdjustedRating": "2.0628380266791117333644460001"
+  },
+  {
+    "BID": 4612028,
+    "BeerName": "Black Gold Barrel Aged Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-475632_f4194_sm.jpeg",
+    "HallRating": 16.81,
+    "BAR": 9.67,
+    "StylePlus": "110",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.5002941757263653124801322398"
   },
   {
     "BID": 5413531,
@@ -102,22 +102,7 @@
     "BAR": 8.79,
     "StylePlus": "124",
     "RatingScore": 4.12,
-    "AdjustedRating": "2.0662952746433047639544746737"
-  },
-  {
-    "BID": 2015550,
-    "BeerName": "3 Fonteinen Schaerbeekse Kriek (2005)",
-    "BeerStyle": "Lambic - Kriek",
-    "BreweryName": "Brouwerij 3 Fonteinen",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-179601_a90a1_sm.jpeg",
-    "HallRating": 16.80,
-    "BAR": 7.44,
-    "StylePlus": "114",
-    "RatingScore": 4.50,
-    "AdjustedRating": "2.0575880133254330129973832308"
+    "AdjustedRating": "2.1318275929682217714672075727"
   },
   {
     "BID": 5618221,
@@ -132,7 +117,7 @@
     "BAR": 6.61,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0566691867131034728387932197"
+    "AdjustedRating": "2.0605611031959204328701000428"
   },
   {
     "BID": 5409167,
@@ -147,37 +132,22 @@
     "BAR": 7.48,
     "StylePlus": "114",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0577465746566407372465651359"
+    "AdjustedRating": "2.0687678648197726302719900671"
   },
   {
-    "BID": 6101052,
-    "BeerName": "Bruce Banner #3: OG Kush",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Lost Cabin Beer Co.",
-    "Origin": "Rapid City, SD United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 42.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6101052_bc696_sm.jpeg",
-    "HallRating": 16.79,
-    "BAR": 6.62,
-    "StylePlus": "126",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.056648139299533683897212025"
-  },
-  {
-    "BID": 6027612,
-    "BeerName": "TDH Hop-Fu! - Gold Edition",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "North Park Beer Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 44.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4988143_ced3d_sm.jpeg",
-    "HallRating": 16.79,
-    "BAR": 8.80,
-    "StylePlus": "119",
-    "RatingScore": 4.29,
-    "AdjustedRating": "2.0674402397069359669264985481"
+    "BID": 2015550,
+    "BeerName": "3 Fonteinen Schaerbeekse Kriek (2005)",
+    "BeerStyle": "Lambic - Kriek",
+    "BreweryName": "Brouwerij 3 Fonteinen",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-179601_a90a1_sm.jpeg",
+    "HallRating": 16.80,
+    "BAR": 7.44,
+    "StylePlus": "114",
+    "RatingScore": 4.50,
+    "AdjustedRating": "2.0675609011876115811534580455"
   },
   {
     "BID": 4413944,
@@ -192,37 +162,37 @@
     "BAR": 7.50,
     "StylePlus": "119",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0577241218036088451288727953"
+    "AdjustedRating": "2.0685946728736301037726699641"
   },
   {
-    "BID": 5618048,
-    "BeerName": "Double Bourbon Barrel German Chocolate Cake",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "608 Brewing Company",
-    "Origin": "La Crosse, WI United States",
-    "BeerAbv": 14.10,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5618048_6422c_sm.jpeg",
-    "HallRating": 16.78,
-    "BAR": 7.56,
-    "StylePlus": "112",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0579688903907912703195441404"
+    "BID": 6101052,
+    "BeerName": "Bruce Banner #3: OG Kush",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Lost Cabin Beer Co.",
+    "Origin": "Rapid City, SD United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 42.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6101052_bc696_sm.jpeg",
+    "HallRating": 16.79,
+    "BAR": 6.62,
+    "StylePlus": "126",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0603999291553133514986376022"
   },
   {
-    "BID": 3338642,
-    "BeerName": "Barrel-Aged Parlor Tricks",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 13.90,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
-    "HallRating": 16.78,
-    "BAR": 6.29,
-    "StylePlus": "116",
-    "RatingScore": 4.69,
-    "AdjustedRating": "2.0565061728006838754980231724"
+    "BID": 6027612,
+    "BeerName": "TDH Hop-Fu! - Gold Edition",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "North Park Beer Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 44.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4988143_ced3d_sm.jpeg",
+    "HallRating": 16.79,
+    "BAR": 8.80,
+    "StylePlus": "119",
+    "RatingScore": 4.29,
+    "AdjustedRating": "2.140246695185560433787384142"
   },
   {
     "BID": 4631292,
@@ -237,52 +207,37 @@
     "BAR": 8.33,
     "StylePlus": "115",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.061596294583877044310963752"
+    "AdjustedRating": "2.0976818276912466233691591471"
   },
   {
-    "BID": 4702656,
-    "BeerName": "Aaron: Bourbon/Cognac",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4702656_7f8cb_sm.jpeg",
-    "HallRating": 16.77,
-    "BAR": 8.63,
-    "StylePlus": "114",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.065382397321281465690958818"
+    "BID": 3338642,
+    "BeerName": "Barrel-Aged Parlor Tricks",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 13.90,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
+    "HallRating": 16.78,
+    "BAR": 6.29,
+    "StylePlus": "116",
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.0593152953089400813973867155"
   },
   {
-    "BID": 3222179,
-    "BeerName": "Never Never Calm Calm",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "The Veil Brewing Co.",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2862232_dba85_sm.jpeg",
-    "HallRating": 16.77,
-    "BAR": 9.33,
-    "StylePlus": "114",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.0887848197228666374067339645"
-  },
-  {
-    "BID": 3828331,
-    "BeerName": "ET STAY HOME 5 - PASSION FRUIT, MANGO, PEACH",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Evil Twin Brewing NYC",
-    "Origin": "Ridgewood, NY United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3820946_04bba_sm.jpeg",
-    "HallRating": 16.77,
-    "BAR": 8.68,
-    "StylePlus": "114",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.0659673360665707161825221463"
+    "BID": 5618048,
+    "BeerName": "Double Bourbon Barrel German Chocolate Cake",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "608 Brewing Company",
+    "Origin": "La Crosse, WI United States",
+    "BeerAbv": 14.10,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5618048_6422c_sm.jpeg",
+    "HallRating": 16.78,
+    "BAR": 7.56,
+    "StylePlus": "112",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.0704561704602737601302881073"
   },
   {
     "BID": 5209315,
@@ -297,37 +252,52 @@
     "BAR": 9.20,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0831418695701405856435058089"
+    "AdjustedRating": "2.2491090751777123572915918719"
   },
   {
-    "BID": 5450904,
-    "BeerName": "25th Anniversary Series: Pappy Van Winkle Gold Label Barrel Aged Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 14.85,
+    "BID": 3222179,
+    "BeerName": "Never Never Calm Calm",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 5.10,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5450904_1fd51_sm.jpeg",
-    "HallRating": 16.76,
-    "BAR": 8.75,
-    "StylePlus": "112",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.06790176189017055598465376"
-  },
-  {
-    "BID": 6004322,
-    "BeerName": "Boreal Fluency (2023)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004322_3cc84_sm.jpeg",
-    "HallRating": 16.76,
-    "BAR": 7.87,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2862232_dba85_sm.jpeg",
+    "HallRating": 16.77,
+    "BAR": 9.33,
     "StylePlus": "114",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.0589439087748192881324915363"
+    "RatingScore": 4.33,
+    "AdjustedRating": "2.2847356965488215488215488215"
+  },
+  {
+    "BID": 3828331,
+    "BeerName": "ET STAY HOME 5 - PASSION FRUIT, MANGO, PEACH",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Evil Twin Brewing NYC",
+    "Origin": "Ridgewood, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3820946_04bba_sm.jpeg",
+    "HallRating": 16.77,
+    "BAR": 8.68,
+    "StylePlus": "114",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.1297508519840595312293425501"
+  },
+  {
+    "BID": 4702656,
+    "BeerName": "Aaron: Bourbon/Cognac",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4702656_7f8cb_sm.jpeg",
+    "HallRating": 16.77,
+    "BAR": 8.63,
+    "StylePlus": "114",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.1255397674946985761890336262"
   },
   {
     "BID": 6403888,
@@ -342,7 +312,37 @@
     "BAR": 6.65,
     "StylePlus": "120",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0566827715226986529630995841"
+    "AdjustedRating": "2.0606645718511598941304686284"
+  },
+  {
+    "BID": 6004322,
+    "BeerName": "Boreal Fluency (2023)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6004322_3cc84_sm.jpeg",
+    "HallRating": 16.76,
+    "BAR": 7.87,
+    "StylePlus": "114",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0778302062114682179231973407"
+  },
+  {
+    "BID": 5450904,
+    "BeerName": "25th Anniversary Series: Pappy Van Winkle Gold Label Barrel Aged Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 14.85,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5450904_1fd51_sm.jpeg",
+    "HallRating": 16.76,
+    "BAR": 8.75,
+    "StylePlus": "112",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1438295043622141997593261131"
   },
   {
     "BID": 4101176,
@@ -357,7 +357,7 @@
     "BAR": 9.47,
     "StylePlus": "110",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.1043020023491213238869728504"
+    "AdjustedRating": "2.3821458408094435075885328836"
   },
   {
     "BID": 4501215,
@@ -372,6 +372,6 @@
     "BAR": 7.57,
     "StylePlus": "115",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.0579144729663757856837737231"
+    "AdjustedRating": "2.0700391253610405722371915405"
   }
 ]

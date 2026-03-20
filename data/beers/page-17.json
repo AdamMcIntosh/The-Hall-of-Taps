@@ -12,22 +12,7 @@
     "BAR": 7.58,
     "StylePlus": "114",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0580257801859159513445343965"
-  },
-  {
-    "BID": 4020606,
-    "BeerName": "Hedonistic",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Lua Brewing",
-    "Origin": "Des Moines, IA United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64726_8e04d.jpeg",
-    "HallRating": 16.73,
-    "BAR": 7.85,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0589643331740544936966246442"
+    "AdjustedRating": "2.070885712956681849016377556"
   },
   {
     "BID": 4502493,
@@ -42,7 +27,22 @@
     "BAR": 7.67,
     "StylePlus": "111",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0583458685507121101953027676"
+    "AdjustedRating": "2.0733134837422778240409009044"
+  },
+  {
+    "BID": 4020606,
+    "BeerName": "Hedonistic",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Lua Brewing",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64726_8e04d.jpeg",
+    "HallRating": 16.73,
+    "BAR": 7.85,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.0779869800344034480759195191"
   },
   {
     "BID": 3210632,
@@ -57,7 +57,7 @@
     "BAR": 10.18,
     "StylePlus": "113",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.2906493263310840201595547225"
+    "AdjustedRating": "3.1135907877120210275575999014"
   },
   {
     "BID": 4426009,
@@ -72,7 +72,7 @@
     "BAR": 8.00,
     "StylePlus": "120",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0594514024606534300248504652"
+    "AdjustedRating": "2.0816419177289645729273137523"
   },
   {
     "BID": 5206408,
@@ -87,7 +87,7 @@
     "BAR": 8.27,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0615485871515840895357162807"
+    "AdjustedRating": "2.0973519904895212164209153836"
   },
   {
     "BID": 6036492,
@@ -102,37 +102,7 @@
     "BAR": 7.55,
     "StylePlus": "114",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0579685248787780933516744769"
-  },
-  {
-    "BID": 4150318,
-    "BeerName": "Brownie",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 12.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4150318_c5791_sm.jpeg",
-    "HallRating": 16.70,
-    "BAR": 8.69,
-    "StylePlus": "112",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0672992776984102860269309098"
-  },
-  {
-    "BID": 5802181,
-    "BeerName": "Coniferous (Templeton Rye Reserve)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Counterpart Brewing",
-    "Origin": "Niagara Falls, ON Canada",
-    "BeerAbv": 15.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5802181_1f081_sm.jpeg",
-    "HallRating": 16.70,
-    "BAR": 7.04,
-    "StylePlus": "117",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.057066233349612355778035529"
+    "AdjustedRating": "2.0704514472919009033458690342"
   },
   {
     "BID": 6500782,
@@ -147,7 +117,37 @@
     "BAR": 6.94,
     "StylePlus": "115",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0569778907172491332317546238"
+    "AdjustedRating": "2.0629173639793100766149418582"
+  },
+  {
+    "BID": 5802181,
+    "BeerName": "Coniferous (Templeton Rye Reserve)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Counterpart Brewing",
+    "Origin": "Niagara Falls, ON Canada",
+    "BeerAbv": 15.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5802181_1f081_sm.jpeg",
+    "HallRating": 16.70,
+    "BAR": 7.04,
+    "StylePlus": "117",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.0635905440973504655638279261"
+  },
+  {
+    "BID": 4150318,
+    "BeerName": "Brownie",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 12.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4150318_c5791_sm.jpeg",
+    "HallRating": 16.70,
+    "BAR": 8.69,
+    "StylePlus": "112",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1394877909846101682144404468"
   },
   {
     "BID": 5227141,
@@ -162,7 +162,7 @@
     "BAR": 9.85,
     "StylePlus": "110",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.1759489489870637051501098365"
+    "AdjustedRating": "2.744052213160230803373280071"
   },
   {
     "BID": 6210025,
@@ -177,7 +177,7 @@
     "BAR": 8.23,
     "StylePlus": "122",
     "RatingScore": 4.35,
-    "AdjustedRating": "2.0609359948708052327943446819"
+    "AdjustedRating": "2.0927440546399861865203461044"
   },
   {
     "BID": 6350845,
@@ -192,7 +192,7 @@
     "BAR": 8.56,
     "StylePlus": "118",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.064439493664339281096457202"
+    "AdjustedRating": "2.1185816919196707943792312214"
   },
   {
     "BID": 4803669,
@@ -207,7 +207,7 @@
     "BAR": 8.51,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0645657897921352730998141212"
+    "AdjustedRating": "2.1196213738079860187682838798"
   },
   {
     "BID": 4903534,
@@ -222,7 +222,7 @@
     "BAR": 8.55,
     "StylePlus": "110",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0651621167331354060762484756"
+    "AdjustedRating": "2.1240012966616084977238239757"
   },
   {
     "BID": 1500126,
@@ -237,7 +237,7 @@
     "BAR": 9.60,
     "StylePlus": "118",
     "RatingScore": 4.21,
-    "AdjustedRating": "2.1207563438379290939786156443"
+    "AdjustedRating": "2.4690126603104562288235757624"
   },
   {
     "BID": 4446791,
@@ -252,7 +252,7 @@
     "BAR": 7.02,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0570987807175960075900556028"
+    "AdjustedRating": "2.0638390195354261833025561279"
   },
   {
     "BID": 4902417,
@@ -267,7 +267,7 @@
     "BAR": 7.07,
     "StylePlus": "119",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.057120100224592211254028289"
+    "AdjustedRating": "2.0640004734141791044776119403"
   },
   {
     "BID": 6403654,
@@ -282,22 +282,7 @@
     "BAR": 10.08,
     "StylePlus": "110",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.2794867991622254940588515853"
-  },
-  {
-    "BID": 6501261,
-    "BeerName": "‘T Tuintje Tripel",
-    "BeerStyle": "Belgian Tripel",
-    "BreweryName": "Brouwerij 'T Tuintje",
-    "Origin": "Netherlands",
-    "BeerAbv": 8.00,
-    "BeerIbu": 36.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6501261_004a2_sm.jpeg",
-    "HallRating": 16.62,
-    "BAR": 4.28,
-    "StylePlus": "129",
-    "RatingScore": 4.73,
-    "AdjustedRating": "2.0561588420516943934127561692"
+    "AdjustedRating": "3.1064856928043680800814681602"
   },
   {
     "BID": 5504237,
@@ -312,22 +297,22 @@
     "BAR": 8.10,
     "StylePlus": "115",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0604856636703301727444291763"
+    "AdjustedRating": "2.0894086450521133802546055921"
   },
   {
-    "BID": 6406985,
-    "BeerName": "Moravský Klas Světlé Special Kněžice Terroir",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Velka Morava",
-    "Origin": "Moskva, Russia",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6406985_c905a_sm.jpeg",
-    "HallRating": 16.60,
-    "BAR": 7.86,
-    "StylePlus": "125",
-    "RatingScore": 4.29,
-    "AdjustedRating": "2.0589282558323930346741483944"
+    "BID": 6501261,
+    "BeerName": "‘T Tuintje Tripel",
+    "BeerStyle": "Belgian Tripel",
+    "BreweryName": "Brouwerij 'T Tuintje",
+    "Origin": "Netherlands",
+    "BeerAbv": 8.00,
+    "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6501261_004a2_sm.jpeg",
+    "HallRating": 16.62,
+    "BAR": 4.28,
+    "StylePlus": "129",
+    "RatingScore": 4.73,
+    "AdjustedRating": "2.056657343131712832108535896"
   },
   {
     "BID": 5900436,
@@ -342,22 +327,7 @@
     "BAR": 10.66,
     "StylePlus": "115",
     "RatingScore": 4.10,
-    "AdjustedRating": "2.835615690738915945989340167"
-  },
-  {
-    "BID": 4904215,
-    "BeerName": "Crimson",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
-    "HallRating": 16.60,
-    "BAR": 7.04,
-    "StylePlus": "115",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.057128108507374991415555776"
+    "AdjustedRating": "3.7429181328491966441970018496"
   },
   {
     "BID": 6419240,
@@ -372,6 +342,36 @@
     "BAR": 6.13,
     "StylePlus": "122",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0564543700616718568724430604"
+    "AdjustedRating": "2.058919086996319161781603599"
+  },
+  {
+    "BID": 6406985,
+    "BeerName": "Moravský Klas Světlé Special Kněžice Terroir",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Velka Morava",
+    "Origin": "Moskva, Russia",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6406985_c905a_sm.jpeg",
+    "HallRating": 16.60,
+    "BAR": 7.86,
+    "StylePlus": "125",
+    "RatingScore": 4.29,
+    "AdjustedRating": "2.0776937761387113591164488038"
+  },
+  {
+    "BID": 4904215,
+    "BeerName": "Crimson",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
+    "HallRating": 16.60,
+    "BAR": 7.04,
+    "StylePlus": "115",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0640622008862629246676514032"
   }
 ]

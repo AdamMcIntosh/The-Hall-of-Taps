@@ -1,18 +1,18 @@
 [
   {
-    "BID": 6428540,
-    "BeerName": "Zeisig Lager Beer Zero",
+    "BID": 6550117,
+    "BeerName": "Fresh Start",
     "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "KLN Brew Solutions",
-    "Origin": null,
-    "BeerAbv": 0.00,
+    "BreweryName": "Tap Social Movement",
+    "Origin": "Oxford, Oxfordshire England",
+    "BeerAbv": 0.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6550117_5f4ea_sm.jpeg",
     "HallRating": -19.69,
     "BAR": -4.33,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560473774523025562471055832"
+    "AdjustedRating": "2.0558034263212273622239117297"
   },
   {
     "BID": 102078,
@@ -27,22 +27,7 @@
     "BAR": -11.30,
     "StylePlus": "70",
     "RatingScore": 2.44,
-    "AdjustedRating": "2.0662209673354820648632846855"
-  },
-  {
-    "BID": 22746,
-    "BeerName": "Wild Thing",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "HaandBryggeriet",
-    "Origin": "Drammen, Buskerud Norway",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_22746_sm_38a0304b3d9f8c17c5d2f03f45216f.jpeg",
-    "HallRating": -19.73,
-    "BAR": -10.30,
-    "StylePlus": "83",
-    "RatingScore": 3.29,
-    "AdjustedRating": "2.0620147110808353739911722028"
+    "AdjustedRating": "2.1221357971201652999289726868"
   },
   {
     "BID": 650945,
@@ -57,7 +42,7 @@
     "BAR": -9.67,
     "StylePlus": "59",
     "RatingScore": 2.01,
-    "AdjustedRating": "2.0559942331178033208214182315"
+    "AdjustedRating": "2.0554050052826709184163513072"
   },
   {
     "BID": 1007826,
@@ -72,7 +57,22 @@
     "BAR": -10.17,
     "StylePlus": "77",
     "RatingScore": 2.97,
-    "AdjustedRating": "2.0596859611908370633588985822"
+    "AdjustedRating": "2.0829765987321411675655218091"
+  },
+  {
+    "BID": 22746,
+    "BeerName": "Wild Thing",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "HaandBryggeriet",
+    "Origin": "Drammen, Buskerud Norway",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_22746_sm_38a0304b3d9f8c17c5d2f03f45216f.jpeg",
+    "HallRating": -19.73,
+    "BAR": -10.30,
+    "StylePlus": "83",
+    "RatingScore": 3.29,
+    "AdjustedRating": "2.100115972775814093404527337"
   },
   {
     "BID": 6617781,
@@ -87,7 +87,7 @@
     "BAR": -2.71,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 6503973,
@@ -102,7 +102,7 @@
     "BAR": -2.71,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 5412114,
@@ -117,7 +117,7 @@
     "BAR": -11.42,
     "StylePlus": "80",
     "RatingScore": 3.10,
-    "AdjustedRating": "2.0884442299815318458537884373"
+    "AdjustedRating": "2.2615913745263223826375622436"
   },
   {
     "BID": 6305501,
@@ -132,52 +132,7 @@
     "BAR": -3.31,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560630726701357523632616191"
-  },
-  {
-    "BID": 3346579,
-    "BeerName": "Sterling Pur Malt",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Auchan",
-    "Origin": "Croix, Hauts-de-France France",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-40246_d3511.jpeg",
-    "HallRating": -19.82,
-    "BAR": -3.31,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560630726701357523632616191"
-  },
-  {
-    "BID": 6601655,
-    "BeerName": "Kjørepils Med Grapefrukt",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Sagene Bryggeri",
-    "Origin": "Sagene, Oslo Norway",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-129304_67657.jpeg",
-    "HallRating": -19.82,
-    "BAR": -3.31,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560630726701357523632616191"
-  },
-  {
-    "BID": 3337630,
-    "BeerName": "Premium Cider With Blueberry & Lime Alcohol Free",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Kopparbergs Bryggeri",
-    "Origin": "Kopparberg, Örebro län Sweden",
-    "BeerAbv": 0.05,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-KopparbergsBryggeri_6350.jpeg",
-    "HallRating": -19.82,
-    "BAR": -3.31,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560630726701357523632616191"
+    "AdjustedRating": "2.05592366280656607010566538"
   },
   {
     "BID": 6401625,
@@ -192,7 +147,52 @@
     "BAR": -3.31,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560630726701357523632616191"
+    "AdjustedRating": "2.05592366280656607010566538"
+  },
+  {
+    "BID": 3346579,
+    "BeerName": "Sterling Pur Malt",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Auchan",
+    "Origin": "Croix, Hauts-de-France France",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-40246_d3511.jpeg",
+    "HallRating": -19.82,
+    "BAR": -3.31,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.05592366280656607010566538"
+  },
+  {
+    "BID": 6601655,
+    "BeerName": "Kjørepils Med Grapefrukt",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Sagene Bryggeri",
+    "Origin": "Sagene, Oslo Norway",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-129304_67657.jpeg",
+    "HallRating": -19.82,
+    "BAR": -3.31,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.05592366280656607010566538"
+  },
+  {
+    "BID": 3337630,
+    "BeerName": "Premium Cider With Blueberry & Lime Alcohol Free",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Kopparbergs Bryggeri",
+    "Origin": "Kopparberg, Örebro län Sweden",
+    "BeerAbv": 0.05,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-KopparbergsBryggeri_6350.jpeg",
+    "HallRating": -19.82,
+    "BAR": -3.31,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.05592366280656607010566538"
   },
   {
     "BID": 4941599,
@@ -207,37 +207,7 @@
     "BAR": -9.20,
     "StylePlus": "73",
     "RatingScore": 2.81,
-    "AdjustedRating": "2.056827607076127602134328472"
-  },
-  {
-    "BID": 6607650,
-    "BeerName": "OO Cans Lemon",
-    "BeerStyle": "Non-Alcoholic - Fassbrause",
-    "BreweryName": "Cans.com",
-    "Origin": "Czech Republic",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -19.88,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6617450,
-    "BeerName": "Hachenburger Brauer Brause Wildbeere",
-    "BeerStyle": "Non-Alcoholic - Fassbrause",
-    "BreweryName": "Hachenburger / Westerwald-Brauerei",
-    "Origin": "Hachenburg, Rheinland-Pfalz Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-WesterwaldBrauerei_28902.jpeg",
-    "HallRating": -19.88,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0617444243198266186771933898"
   },
   {
     "BID": 6604696,
@@ -252,22 +222,37 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
-    "BID": 4008163,
-    "BeerName": "Tecate",
-    "BeerStyle": "Lager - Mexican",
-    "BreweryName": "Cervecería Cuauhtémoc Moctezuma S.A. de C.V.",
-    "Origin": "Monterrey, Nuevo León Mexico",
-    "BeerAbv": 4.50,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5880_33319_sm.jpeg",
-    "HallRating": -19.93,
-    "BAR": -12.69,
-    "StylePlus": "78",
-    "RatingScore": 2.85,
-    "AdjustedRating": "2.3064219486530842645536936956"
+    "BID": 6617450,
+    "BeerName": "Hachenburger Brauer Brause Wildbeere",
+    "BeerStyle": "Non-Alcoholic - Fassbrause",
+    "BreweryName": "Hachenburger / Westerwald-Brauerei",
+    "Origin": "Hachenburg, Rheinland-Pfalz Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-WesterwaldBrauerei_28902.jpeg",
+    "HallRating": -19.88,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6607650,
+    "BeerName": "OO Cans Lemon",
+    "BeerStyle": "Non-Alcoholic - Fassbrause",
+    "BreweryName": "Cans.com",
+    "Origin": "Czech Republic",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -19.88,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6301338,
@@ -282,7 +267,22 @@
     "BAR": -9.73,
     "StylePlus": "74",
     "RatingScore": 2.85,
-    "AdjustedRating": "2.0575519780452556264747192795"
+    "AdjustedRating": "2.0671949778922680610557883809"
+  },
+  {
+    "BID": 4008163,
+    "BeerName": "Tecate",
+    "BeerStyle": "Lager - Mexican",
+    "BreweryName": "Cervecería Cuauhtémoc Moctezuma S.A. de C.V.",
+    "Origin": "Monterrey, Nuevo León Mexico",
+    "BeerAbv": 4.50,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5880_33319_sm.jpeg",
+    "HallRating": -19.93,
+    "BAR": -12.69,
+    "StylePlus": "78",
+    "RatingScore": 2.85,
+    "AdjustedRating": "2.6746922784434102386374888603"
   },
   {
     "BID": 3217542,
@@ -297,22 +297,7 @@
     "BAR": -9.71,
     "StylePlus": "66",
     "RatingScore": 2.22,
-    "AdjustedRating": "2.0563687997561440274337969137"
-  },
-  {
-    "BID": 6606784,
-    "BeerName": "UTEN Lite",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Aass Bryggeri",
-    "Origin": "Drammen, Buskerud Norway",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4_e15e5.jpeg",
-    "HallRating": -19.99,
-    "BAR": -4.63,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560421457662742144382046774"
+    "AdjustedRating": "2.0582412044483780351714318698"
   },
   {
     "BID": 5015184,
@@ -327,7 +312,22 @@
     "BAR": -7.66,
     "StylePlus": "59",
     "RatingScore": 2.03,
-    "AdjustedRating": "2.0560791556693057619115462113"
+    "AdjustedRating": "2.0560469279442400171329556295"
+  },
+  {
+    "BID": 6606784,
+    "BeerName": "UTEN Lite",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Aass Bryggeri",
+    "Origin": "Drammen, Buskerud Norway",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4_e15e5.jpeg",
+    "HallRating": -19.99,
+    "BAR": -4.63,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0557633506179578151194978362"
   },
   {
     "BID": 6211658,
@@ -342,7 +342,7 @@
     "BAR": -4.63,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560421457662742144382046774"
+    "AdjustedRating": "2.0557633506179578151194978362"
   },
   {
     "BID": 5226506,
@@ -357,7 +357,7 @@
     "BAR": -7.44,
     "StylePlus": "75",
     "RatingScore": 2.98,
-    "AdjustedRating": "2.0562250375752764908370669455"
+    "AdjustedRating": "2.0571635513145082765335929893"
   },
   {
     "BID": 4501094,
@@ -372,6 +372,6 @@
     "BAR": -11.59,
     "StylePlus": "80",
     "RatingScore": 3.08,
-    "AdjustedRating": "2.0902208297826808840349776777"
+    "AdjustedRating": "2.2701077718832891246684350133"
   }
 ]

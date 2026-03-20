@@ -1,20 +1,5 @@
 [
   {
-    "BID": 5031300,
-    "BeerName": "Pumpkin Patch",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Connecticut Valley Brewing Company",
-    "Origin": "South Windsor, CT United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5031300_111a9_sm.jpeg",
-    "HallRating": -12.70,
-    "BAR": -7.13,
-    "StylePlus": "84",
-    "RatingScore": 3.08,
-    "AdjustedRating": "2.0737840762883091942066095863"
-  },
-  {
     "BID": 6210727,
     "BeerName": "Hungry For Apples Pumped Up",
     "BeerStyle": "Mead - Cyser",
@@ -27,52 +12,7 @@
     "BAR": -5.82,
     "StylePlus": "85",
     "RatingScore": 3.25,
-    "AdjustedRating": "2.057140296904197142922517218"
-  },
-  {
-    "BID": 6141349,
-    "BeerName": "Daybreak (10 Years Edition)",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "Frontaal Brewing Co.",
-    "Origin": "Breda, Noord-Brabant Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6141349_0f46a_sm.jpeg",
-    "HallRating": -12.70,
-    "BAR": -6.87,
-    "StylePlus": "85",
-    "RatingScore": 3.25,
-    "AdjustedRating": "2.0663425990711332325925776431"
-  },
-  {
-    "BID": 2819393,
-    "BeerName": "Красный Элемент",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Тугер",
-    "Origin": "Tarusa, Калужская область Russia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2819393_d86fe_sm.jpeg",
-    "HallRating": -12.70,
-    "BAR": -4.04,
-    "StylePlus": "68",
-    "RatingScore": 2.35,
-    "AdjustedRating": "2.0561026961853970321818959025"
-  },
-  {
-    "BID": 6020924,
-    "BeerName": "DARK & WILD 2024 // NEON RAPTOR // PõHJALA // RESIDENT CULTURE // DESSERT STOUT",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Northern Monk",
-    "Origin": "Leeds, West Yorkshire England",
-    "BeerAbv": 8.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6020924_a8b05_sm.jpeg",
-    "HallRating": -12.70,
-    "BAR": -6.61,
-    "StylePlus": "88",
-    "RatingScore": 3.65,
-    "AdjustedRating": "2.0633231266819323984761287185"
+    "AdjustedRating": "2.064130066230295518803981564"
   },
   {
     "BID": 5017220,
@@ -87,22 +27,67 @@
     "BAR": -6.60,
     "StylePlus": "81",
     "RatingScore": 2.96,
-    "AdjustedRating": "2.0601095563104656376583601225"
+    "AdjustedRating": "2.0860395935756296184587543357"
   },
   {
-    "BID": 5103789,
-    "BeerName": "Highway to the Danger Zone (高风险区)",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Mingri Brewing (明日酿造)",
-    "Origin": "Shang Hai Shi, China / People's Republic of China",
-    "BeerAbv": 12.80,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-403843_ba656.jpeg",
-    "HallRating": -12.71,
-    "BAR": -5.54,
+    "BID": 6141349,
+    "BeerName": "Daybreak (10 Years Edition)",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Frontaal Brewing Co.",
+    "Origin": "Breda, Noord-Brabant Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6141349_0f46a_sm.jpeg",
+    "HallRating": -12.70,
+    "BAR": -6.87,
+    "StylePlus": "85",
+    "RatingScore": 3.25,
+    "AdjustedRating": "2.1304308973233874506362439667"
+  },
+  {
+    "BID": 6020924,
+    "BeerName": "DARK & WILD 2024 // NEON RAPTOR // PõHJALA // RESIDENT CULTURE // DESSERT STOUT",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Northern Monk",
+    "Origin": "Leeds, West Yorkshire England",
+    "BeerAbv": 8.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6020924_a8b05_sm.jpeg",
+    "HallRating": -12.70,
+    "BAR": -6.61,
     "StylePlus": "88",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.0569178562556269360474875254"
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.1099221664186274325113501498"
+  },
+  {
+    "BID": 5031300,
+    "BeerName": "Pumpkin Patch",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Connecticut Valley Brewing Company",
+    "Origin": "South Windsor, CT United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5031300_111a9_sm.jpeg",
+    "HallRating": -12.70,
+    "BAR": -7.13,
+    "StylePlus": "84",
+    "RatingScore": 3.08,
+    "AdjustedRating": "2.1776985440613026819923371648"
+  },
+  {
+    "BID": 6408112,
+    "BeerName": "Oktoberfest",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Skovlyst",
+    "Origin": "Denmark",
+    "BeerAbv": 5.00,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-263769_3c483_sm.jpeg",
+    "HallRating": -12.70,
+    "BAR": -6.99,
+    "StylePlus": "82",
+    "RatingScore": 2.97,
+    "AdjustedRating": "2.1325620530960803230071104441"
   },
   {
     "BID": 1010754,
@@ -117,7 +102,7 @@
     "BAR": -7.62,
     "StylePlus": "89",
     "RatingScore": 3.46,
-    "AdjustedRating": "2.1590592911166758626543864861"
+    "AdjustedRating": "2.5860986244644829302037695547"
   },
   {
     "BID": 3333455,
@@ -132,7 +117,7 @@
     "BAR": -3.97,
     "StylePlus": "75",
     "RatingScore": 2.80,
-    "AdjustedRating": "2.056127535517818703659411624"
+    "AdjustedRating": "2.0564174450918870461676378306"
   },
   {
     "BID": 4228185,
@@ -147,22 +132,22 @@
     "BAR": -5.43,
     "StylePlus": "81",
     "RatingScore": 2.98,
-    "AdjustedRating": "2.0564905414636131487114791792"
+    "AdjustedRating": "2.0591898715582068670695451101"
   },
   {
-    "BID": 2212095,
-    "BeerName": "Super Crisp Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Great Northern Brewing Co.",
-    "Origin": "Yatala, Queensland Australia",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-230949_1090e_sm.jpeg",
-    "HallRating": -12.72,
-    "BAR": -7.47,
-    "StylePlus": "82",
-    "RatingScore": 2.80,
-    "AdjustedRating": "2.0897830308280576623149466279"
+    "BID": 5103789,
+    "BeerName": "Highway to the Danger Zone (高风险区)",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Mingri Brewing (明日酿造)",
+    "Origin": "Shang Hai Shi, China / People's Republic of China",
+    "BeerAbv": 12.80,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-403843_ba656.jpeg",
+    "HallRating": -12.71,
+    "BAR": -5.54,
+    "StylePlus": "88",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.0624507905314872711031710585"
   },
   {
     "BID": 3822735,
@@ -177,7 +162,22 @@
     "BAR": -6.31,
     "StylePlus": "88",
     "RatingScore": 3.53,
-    "AdjustedRating": "2.0594517448837368713679672803"
+    "AdjustedRating": "2.0815012140256754167465031615"
+  },
+  {
+    "BID": 2212095,
+    "BeerName": "Super Crisp Lager",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Great Northern Brewing Co.",
+    "Origin": "Yatala, Queensland Australia",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-230949_1090e_sm.jpeg",
+    "HallRating": -12.72,
+    "BAR": -7.47,
+    "StylePlus": "82",
+    "RatingScore": 2.80,
+    "AdjustedRating": "2.2544311074252541573130102807"
   },
   {
     "BID": 2035,
@@ -192,7 +192,7 @@
     "BAR": -4.14,
     "StylePlus": "79",
     "RatingScore": 2.94,
-    "AdjustedRating": "2.0561469731590584679112205771"
+    "AdjustedRating": "2.0565662800576795666237967185"
   },
   {
     "BID": 3349469,
@@ -207,7 +207,7 @@
     "BAR": -4.23,
     "StylePlus": "80",
     "RatingScore": 3.15,
-    "AdjustedRating": "2.0561702837093088936497193541"
+    "AdjustedRating": "2.0567447703669063346388417997"
   },
   {
     "BID": 3337481,
@@ -222,7 +222,7 @@
     "BAR": -5.58,
     "StylePlus": "74",
     "RatingScore": 2.53,
-    "AdjustedRating": "2.0563419265879121577802927226"
+    "AdjustedRating": "2.058053129077353215284249767"
   },
   {
     "BID": 1812538,
@@ -237,37 +237,7 @@
     "BAR": -5.94,
     "StylePlus": "74",
     "RatingScore": 2.54,
-    "AdjustedRating": "2.0565834188974496500990093976"
-  },
-  {
-    "BID": 6428507,
-    "BeerName": "Forever Brewing Oat Cream",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Волинський бровар",
-    "Origin": "Berezne, Rivnens'ka oblast Ukraine",
-    "BeerAbv": 6.50,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6428507_c684b_sm.jpeg",
-    "HallRating": -12.79,
-    "BAR": -5.47,
-    "StylePlus": "82",
-    "RatingScore": 3.17,
-    "AdjustedRating": "2.0565798091493160649700126664"
-  },
-  {
-    "BID": 3349555,
-    "BeerName": "Cassis",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brouwerij Lindemans",
-    "Origin": "Sint-Pieters-Leeuw, Vlaams Gewest Belgium",
-    "BeerAbv": 3.50,
-    "BeerIbu": 5.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7895_543a6_sm.jpeg",
-    "HallRating": -12.79,
-    "BAR": -7.79,
-    "StylePlus": "89",
-    "RatingScore": 3.64,
-    "AdjustedRating": "2.2265634566646457352670694905"
+    "AdjustedRating": "2.0598844854534199938099659548"
   },
   {
     "BID": 209653,
@@ -282,22 +252,37 @@
     "BAR": -5.86,
     "StylePlus": "76",
     "RatingScore": 2.69,
-    "AdjustedRating": "2.0566384055423493968245897263"
+    "AdjustedRating": "2.0603073238563737072471627222"
   },
   {
-    "BID": 16364,
-    "BeerName": "Jibber Jabber Java Stout",
-    "BeerStyle": "Stout - American",
-    "BreweryName": "Mishawaka Brewing",
-    "Origin": "Elkhart, IN United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-jibberjabberjavastout_16364.jpeg",
-    "HallRating": -12.80,
-    "BAR": -3.30,
-    "StylePlus": "76",
-    "RatingScore": 2.86,
-    "AdjustedRating": "2.0561065013511381621467575229"
+    "BID": 6428507,
+    "BeerName": "Forever Brewing Oat Cream",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Волинський бровар",
+    "Origin": "Berezne, Rivnens'ka oblast Ukraine",
+    "BeerAbv": 6.50,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6428507_c684b_sm.jpeg",
+    "HallRating": -12.79,
+    "BAR": -5.47,
+    "StylePlus": "82",
+    "RatingScore": 3.17,
+    "AdjustedRating": "2.0598717256387836393665597979"
+  },
+  {
+    "BID": 3349555,
+    "BeerName": "Cassis",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Brouwerij Lindemans",
+    "Origin": "Sint-Pieters-Leeuw, Vlaams Gewest Belgium",
+    "BeerAbv": 3.50,
+    "BeerIbu": 5.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-7895_543a6_sm.jpeg",
+    "HallRating": -12.79,
+    "BAR": -7.79,
+    "StylePlus": "89",
+    "RatingScore": 3.64,
+    "AdjustedRating": "2.8168259029283615361232141048"
   },
   {
     "BID": 3858,
@@ -312,7 +297,22 @@
     "BAR": -5.99,
     "StylePlus": "77",
     "RatingScore": 2.63,
-    "AdjustedRating": "2.0567171055321852957997076952"
+    "AdjustedRating": "2.0608995506921351790271440724"
+  },
+  {
+    "BID": 16364,
+    "BeerName": "Jibber Jabber Java Stout",
+    "BeerStyle": "Stout - American",
+    "BreweryName": "Mishawaka Brewing",
+    "Origin": "Elkhart, IN United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-jibberjabberjavastout_16364.jpeg",
+    "HallRating": -12.80,
+    "BAR": -3.30,
+    "StylePlus": "76",
+    "RatingScore": 2.86,
+    "AdjustedRating": "2.0562563762889612288259488119"
   },
   {
     "BID": 4981484,
@@ -327,7 +327,7 @@
     "BAR": -3.30,
     "StylePlus": "74",
     "RatingScore": 2.81,
-    "AdjustedRating": "2.0561051018671660704016773452"
+    "AdjustedRating": "2.0562456552503849827488742909"
   },
   {
     "BID": 3423195,
@@ -342,22 +342,7 @@
     "BAR": -4.72,
     "StylePlus": "73",
     "RatingScore": 2.49,
-    "AdjustedRating": "2.056145822876144583217783115"
-  },
-  {
-    "BID": 1672996,
-    "BeerName": "Folkmjöd (Kråkbär)",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Jämtlands Vingård",
-    "Origin": "Kälarne, Jämtlands län Sweden",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-71988_d9934.jpeg",
-    "HallRating": -12.83,
-    "BAR": -5.43,
-    "StylePlus": "77",
-    "RatingScore": 2.82,
-    "AdjustedRating": "2.0563929473330789774895078214"
+    "AdjustedRating": "2.0565572461340708136953219335"
   },
   {
     "BID": 2810709,
@@ -372,6 +357,21 @@
     "BAR": -6.75,
     "StylePlus": "80",
     "RatingScore": 2.85,
-    "AdjustedRating": "2.0604137641378123529024714915"
+    "AdjustedRating": "2.0880961429506969782018897932"
+  },
+  {
+    "BID": 1672996,
+    "BeerName": "Folkmjöd (Kråkbär)",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Jämtlands Vingård",
+    "Origin": "Kälarne, Jämtlands län Sweden",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-71988_d9934.jpeg",
+    "HallRating": -12.83,
+    "BAR": -5.43,
+    "StylePlus": "77",
+    "RatingScore": 2.82,
+    "AdjustedRating": "2.0584448358568679663355944722"
   }
 ]

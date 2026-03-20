@@ -1,35 +1,5 @@
 [
   {
-    "BID": 3341563,
-    "BeerName": "Sticky Toffee Pudding",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Beatnik Brewing Collective",
-    "Origin": "Ellon, Aberdeenshire Scotland",
-    "BeerAbv": 9.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -9.32,
-    "BAR": -4.95,
-    "StylePlus": "91",
-    "RatingScore": 3.67,
-    "AdjustedRating": "2.0662859767832896323810149915"
-  },
-  {
-    "BID": 1406997,
-    "BeerName": "Fjällfolk",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Sälens Fjällbryggeri",
-    "Origin": "Sälen, Dalarnas län Sweden",
-    "BeerAbv": 3.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1406997_c5d2e_sm.jpeg",
-    "HallRating": -9.32,
-    "BAR": -5.05,
-    "StylePlus": "85",
-    "RatingScore": 3.06,
-    "AdjustedRating": "2.065011253600728342038298484"
-  },
-  {
     "BID": 6500608,
     "BeerName": "Kegs Not Eggs",
     "BeerStyle": "Stout - Imperial / Double Coffee",
@@ -42,7 +12,7 @@
     "BAR": -3.38,
     "StylePlus": "88",
     "RatingScore": 3.66,
-    "AdjustedRating": "2.0562921195292106187125040072"
+    "AdjustedRating": "2.0576772630061744025242983191"
   },
   {
     "BID": 4622088,
@@ -57,7 +27,7 @@
     "BAR": -5.29,
     "StylePlus": "87",
     "RatingScore": 3.16,
-    "AdjustedRating": "2.0796326978336823912918962937"
+    "AdjustedRating": "2.2140655633520449077786688051"
   },
   {
     "BID": 3343899,
@@ -72,7 +42,37 @@
     "BAR": -4.49,
     "StylePlus": "85",
     "RatingScore": 3.03,
-    "AdjustedRating": "2.0576081910230255051358334582"
+    "AdjustedRating": "2.0676420521712326128000616499"
+  },
+  {
+    "BID": 1406997,
+    "BeerName": "Fjällfolk",
+    "BeerStyle": "IPA - Session",
+    "BreweryName": "Sälens Fjällbryggeri",
+    "Origin": "Sälen, Dalarnas län Sweden",
+    "BeerAbv": 3.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1406997_c5d2e_sm.jpeg",
+    "HallRating": -9.32,
+    "BAR": -5.05,
+    "StylePlus": "85",
+    "RatingScore": 3.06,
+    "AdjustedRating": "2.1206601787799182720373613543"
+  },
+  {
+    "BID": 3341563,
+    "BeerName": "Sticky Toffee Pudding",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Beatnik Brewing Collective",
+    "Origin": "Ellon, Aberdeenshire Scotland",
+    "BeerAbv": 9.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -9.32,
+    "BAR": -4.95,
+    "StylePlus": "91",
+    "RatingScore": 3.67,
+    "AdjustedRating": "2.1310940390407138873396542108"
   },
   {
     "BID": 5850066,
@@ -87,37 +87,7 @@
     "BAR": -4.87,
     "StylePlus": "86",
     "RatingScore": 3.12,
-    "AdjustedRating": "2.0612619671775808849037636138"
-  },
-  {
-    "BID": 5218655,
-    "BeerName": "Gutbier Preta",
-    "BeerStyle": "Bock - Single / Traditional",
-    "BreweryName": "Modelo Continente",
-    "Origin": "Portugal",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-217210_0d4ca.jpeg",
-    "HallRating": -9.33,
-    "BAR": -4.24,
-    "StylePlus": "80",
-    "RatingScore": 2.79,
-    "AdjustedRating": "2.0566736601280933215020327632"
-  },
-  {
-    "BID": 5904413,
-    "BeerName": "Atelier 50",
-    "BeerStyle": "Wild Ale - Other",
-    "BreweryName": "Kakola Brewing Company",
-    "Origin": "Turku, Varsinais-Suomi Finland",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5904413_e0e58_sm.jpeg",
-    "HallRating": -9.33,
-    "BAR": -3.79,
-    "StylePlus": "88",
-    "RatingScore": 3.48,
-    "AdjustedRating": "2.0564933128230697220074077089"
+    "AdjustedRating": "2.0945122972261895812974517026"
   },
   {
     "BID": 4631255,
@@ -132,52 +102,7 @@
     "BAR": -3.35,
     "StylePlus": "83",
     "RatingScore": 3.21,
-    "AdjustedRating": "2.0562249223206857334768305435"
-  },
-  {
-    "BID": 686184,
-    "BeerName": "Balboa",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Cervecería Nacional (Panamá)",
-    "Origin": "Panamá, Provincia de Panamá Panama",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3111_60ed0_sm.jpeg",
-    "HallRating": -9.33,
-    "BAR": -5.37,
-    "StylePlus": "86",
-    "RatingScore": 2.94,
-    "AdjustedRating": "2.0819293310838183129625421167"
-  },
-  {
-    "BID": 1415589,
-    "BeerName": "Leprikon",
-    "BeerStyle": "Red Ale - Irish",
-    "BreweryName": "Browar Lwówek",
-    "Origin": "Lwówek Śląski County, Lower Silesian Voivodeship Poland",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-17819_a89bf.jpeg",
-    "HallRating": -9.33,
-    "BAR": -3.69,
-    "StylePlus": "83",
-    "RatingScore": 2.95,
-    "AdjustedRating": "2.0562932185925109964053393304"
-  },
-  {
-    "BID": 21030,
-    "BeerName": "Rákóczi",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Borsodi Sörgyár",
-    "Origin": "Hungary",
-    "BeerAbv": 4.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21030_a0ba2_sm.jpeg",
-    "HallRating": -9.33,
-    "BAR": -4.83,
-    "StylePlus": "73",
-    "RatingScore": 2.27,
-    "AdjustedRating": "2.0569783860369297665473176887"
+    "AdjustedRating": "2.0571628883088550391522848572"
   },
   {
     "BID": 2425983,
@@ -192,7 +117,82 @@
     "BAR": -5.28,
     "StylePlus": "88",
     "RatingScore": 3.26,
-    "AdjustedRating": "2.0806351570996978851963746224"
+    "AdjustedRating": "2.2216981110120899261825091221"
+  },
+  {
+    "BID": 5904413,
+    "BeerName": "Atelier 50",
+    "BeerStyle": "Wild Ale - Other",
+    "BreweryName": "Kakola Brewing Company",
+    "Origin": "Turku, Varsinais-Suomi Finland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5904413_e0e58_sm.jpeg",
+    "HallRating": -9.33,
+    "BAR": -3.79,
+    "StylePlus": "88",
+    "RatingScore": 3.48,
+    "AdjustedRating": "2.0592142162908779643211485711"
+  },
+  {
+    "BID": 1415589,
+    "BeerName": "Leprikon",
+    "BeerStyle": "Red Ale - Irish",
+    "BreweryName": "Browar Lwówek",
+    "Origin": "Lwówek Śląski County, Lower Silesian Voivodeship Poland",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-17819_a89bf.jpeg",
+    "HallRating": -9.33,
+    "BAR": -3.69,
+    "StylePlus": "83",
+    "RatingScore": 2.95,
+    "AdjustedRating": "2.0576845658012533572068039391"
+  },
+  {
+    "BID": 686184,
+    "BeerName": "Balboa",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Cervecería Nacional (Panamá)",
+    "Origin": "Panamá, Provincia de Panamá Panama",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3111_60ed0_sm.jpeg",
+    "HallRating": -9.33,
+    "BAR": -5.37,
+    "StylePlus": "86",
+    "RatingScore": 2.94,
+    "AdjustedRating": "2.2218278765029226796774755651"
+  },
+  {
+    "BID": 21030,
+    "BeerName": "Rákóczi",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Borsodi Sörgyár",
+    "Origin": "Hungary",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21030_a0ba2_sm.jpeg",
+    "HallRating": -9.33,
+    "BAR": -4.83,
+    "StylePlus": "73",
+    "RatingScore": 2.27,
+    "AdjustedRating": "2.0627511968265961465810351341"
+  },
+  {
+    "BID": 5218655,
+    "BeerName": "Gutbier Preta",
+    "BeerStyle": "Bock - Single / Traditional",
+    "BreweryName": "Modelo Continente",
+    "Origin": "Portugal",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-217210_0d4ca.jpeg",
+    "HallRating": -9.33,
+    "BAR": -4.24,
+    "StylePlus": "80",
+    "RatingScore": 2.79,
+    "AdjustedRating": "2.060578001782738441266519397"
   },
   {
     "BID": 2301394,
@@ -207,22 +207,7 @@
     "BAR": -4.43,
     "StylePlus": "81",
     "RatingScore": 2.85,
-    "AdjustedRating": "2.0571129609429200942310184726"
-  },
-  {
-    "BID": 4941002,
-    "BeerName": "Dragon Fruit Found A Scythe",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Tired Hands Brewing Company",
-    "Origin": "Ardmore, PA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941002_a8330_sm.jpeg",
-    "HallRating": -9.34,
-    "BAR": -4.39,
-    "StylePlus": "90",
-    "RatingScore": 3.63,
-    "AdjustedRating": "2.0579121440291982676236758098"
+    "AdjustedRating": "2.0639005474903474903474903475"
   },
   {
     "BID": 3621296,
@@ -237,22 +222,7 @@
     "BAR": -4.86,
     "StylePlus": "80",
     "RatingScore": 2.65,
-    "AdjustedRating": "2.0588233317224400474149721893"
-  },
-  {
-    "BID": 21216,
-    "BeerName": "Perinnekalja",
-    "BeerStyle": "Kvass",
-    "BreweryName": "Sinebrychoff",
-    "Origin": "Kerava, Uusimaa Finland",
-    "BeerAbv": 2.20,
-    "BeerIbu": 6.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21216_16d03_sm.jpeg",
-    "HallRating": -9.34,
-    "BAR": -4.56,
-    "StylePlus": "72",
-    "RatingScore": 2.35,
-    "AdjustedRating": "2.0566267156797504813089571724"
+    "AdjustedRating": "2.0764474093878857487149554706"
   },
   {
     "BID": 603234,
@@ -267,7 +237,37 @@
     "BAR": -5.51,
     "StylePlus": "88",
     "RatingScore": 3.28,
-    "AdjustedRating": "2.1171287416354585478010062352"
+    "AdjustedRating": "2.407160016129032258064516129"
+  },
+  {
+    "BID": 4941002,
+    "BeerName": "Dragon Fruit Found A Scythe",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Tired Hands Brewing Company",
+    "Origin": "Ardmore, PA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941002_a8330_sm.jpeg",
+    "HallRating": -9.34,
+    "BAR": -4.39,
+    "StylePlus": "90",
+    "RatingScore": 3.63,
+    "AdjustedRating": "2.0699839287301679324405279533"
+  },
+  {
+    "BID": 21216,
+    "BeerName": "Perinnekalja",
+    "BeerStyle": "Kvass",
+    "BreweryName": "Sinebrychoff",
+    "Origin": "Kerava, Uusimaa Finland",
+    "BeerAbv": 2.20,
+    "BeerIbu": 6.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21216_16d03_sm.jpeg",
+    "HallRating": -9.34,
+    "BAR": -4.56,
+    "StylePlus": "72",
+    "RatingScore": 2.35,
+    "AdjustedRating": "2.0601918288251917642309245055"
   },
   {
     "BID": 1668387,
@@ -282,67 +282,7 @@
     "BAR": -3.43,
     "StylePlus": "80",
     "RatingScore": 2.70,
-    "AdjustedRating": "2.0561741049241055754288302133"
-  },
-  {
-    "BID": 2300213,
-    "BeerName": "Bière Blonde",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Brasserie de Saint-Omer",
-    "Origin": "Saint-Omer, Hauts-de-France France",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BrasseriedeSaintOmer_1431.jpeg",
-    "HallRating": -9.35,
-    "BAR": -4.74,
-    "StylePlus": "79",
-    "RatingScore": 2.66,
-    "AdjustedRating": "2.0579499383423513922817591684"
-  },
-  {
-    "BID": 3234249,
-    "BeerName": "Daß der priester: Weissbier",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "German Jiaoshi Beer",
-    "Origin": null,
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -9.35,
-    "BAR": -2.89,
-    "StylePlus": "79",
-    "RatingScore": 2.74,
-    "AdjustedRating": "2.0561222841076503830662090058"
-  },
-  {
-    "BID": 4901294,
-    "BeerName": "Shipyard Portland Maine",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Bad Shepherd Beer Company",
-    "Origin": "Charleston, WV United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-312510_4d08a.jpeg",
-    "HallRating": -9.35,
-    "BAR": -3.88,
-    "StylePlus": "84",
-    "RatingScore": 3.13,
-    "AdjustedRating": "2.0564473225852402804204271426"
-  },
-  {
-    "BID": 5812547,
-    "BeerName": "Liverpool Arts Bar Smooth",
-    "BeerStyle": "IPA - Fruited",
-    "BreweryName": "Liverpool Arts Bar",
-    "Origin": "England",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -9.35,
-    "BAR": -3.31,
-    "StylePlus": "82",
-    "RatingScore": 3.05,
-    "AdjustedRating": "2.0561952682178431946264327604"
+    "AdjustedRating": "2.0567737532379004771642808453"
   },
   {
     "BID": 5425873,
@@ -357,7 +297,67 @@
     "BAR": -4.20,
     "StylePlus": "79",
     "RatingScore": 2.73,
-    "AdjustedRating": "2.0565638128516976842940364278"
+    "AdjustedRating": "2.059743035873569904983517549"
+  },
+  {
+    "BID": 4901294,
+    "BeerName": "Shipyard Portland Maine",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bad Shepherd Beer Company",
+    "Origin": "Charleston, WV United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-312510_4d08a.jpeg",
+    "HallRating": -9.35,
+    "BAR": -3.88,
+    "StylePlus": "84",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.0588615670030920016335102969"
+  },
+  {
+    "BID": 5812547,
+    "BeerName": "Liverpool Arts Bar Smooth",
+    "BeerStyle": "IPA - Fruited",
+    "BreweryName": "Liverpool Arts Bar",
+    "Origin": "England",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -9.35,
+    "BAR": -3.31,
+    "StylePlus": "82",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.0569359169361436864456305762"
+  },
+  {
+    "BID": 2300213,
+    "BeerName": "Bière Blonde",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Brasserie de Saint-Omer",
+    "Origin": "Saint-Omer, Hauts-de-France France",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BrasseriedeSaintOmer_1431.jpeg",
+    "HallRating": -9.35,
+    "BAR": -4.74,
+    "StylePlus": "79",
+    "RatingScore": 2.66,
+    "AdjustedRating": "2.0700927165384322388969299916"
+  },
+  {
+    "BID": 3234249,
+    "BeerName": "Daß der priester: Weissbier",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "German Jiaoshi Beer",
+    "Origin": null,
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -9.35,
+    "BAR": -2.89,
+    "StylePlus": "79",
+    "RatingScore": 2.74,
+    "AdjustedRating": "2.0563772287184284377923292797"
   },
   {
     "BID": 6411619,
@@ -372,6 +372,6 @@
     "BAR": -2.34,
     "StylePlus": "82",
     "RatingScore": 3.15,
-    "AdjustedRating": "2.0561118349418958221480352467"
+    "AdjustedRating": "2.056297238986354775828460039"
   }
 ]

@@ -12,7 +12,7 @@
     "BAR": 5.26,
     "StylePlus": "116",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0563590518964056453274915847"
+    "AdjustedRating": "2.0581899859736616535494428427"
   },
   {
     "BID": 4445329,
@@ -27,7 +27,7 @@
     "BAR": 5.91,
     "StylePlus": "119",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0566497759856722007113019675"
+    "AdjustedRating": "2.0604123773379264708744477531"
   },
   {
     "BID": 3347157,
@@ -42,7 +42,7 @@
     "BAR": 5.92,
     "StylePlus": "121",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.0566419490133127100383379592"
+    "AdjustedRating": "2.060352426141450313339301701"
   },
   {
     "BID": 6203983,
@@ -57,52 +57,7 @@
     "BAR": 7.35,
     "StylePlus": "114",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.0606717606289774545306794115"
-  },
-  {
-    "BID": 5210489,
-    "BeerName": "Paraboloid (2022)",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Firestone Walker Brewing Company",
-    "Origin": "Paso Robles, CA United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4699378_b59d0_sm.jpeg",
-    "HallRating": 14.95,
-    "BAR": 8.00,
-    "StylePlus": "110",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.0728547393680317121050198201"
-  },
-  {
-    "BID": 2024085,
-    "BeerName": "Permanent Funeral",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "3 Floyds Brewing",
-    "Origin": "Munster, IN United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 100.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-305362_33272_sm.jpeg",
-    "HallRating": 14.95,
-    "BAR": 9.17,
-    "StylePlus": "110",
-    "RatingScore": 4.25,
-    "AdjustedRating": "2.3362566056134509738638255369"
-  },
-  {
-    "BID": 5205940,
-    "BeerName": "Sī Fáng",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Off Color Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5205940_5c4d2_sm.jpeg",
-    "HallRating": 14.95,
-    "BAR": 7.38,
-    "StylePlus": "127",
-    "RatingScore": 3.96,
-    "AdjustedRating": "2.0601303798714159480788567598"
+    "AdjustedRating": "2.0907718430905704575564985311"
   },
   {
     "BID": 4414604,
@@ -117,7 +72,52 @@
     "BAR": 6.79,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0580653670272001952678067459"
+    "AdjustedRating": "2.0711849309175467493459936053"
+  },
+  {
+    "BID": 5205940,
+    "BeerName": "Sī Fáng",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Off Color Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5205940_5c4d2_sm.jpeg",
+    "HallRating": 14.95,
+    "BAR": 7.38,
+    "StylePlus": "127",
+    "RatingScore": 3.96,
+    "AdjustedRating": "2.0866550609089339497765073762"
+  },
+  {
+    "BID": 2024085,
+    "BeerName": "Permanent Funeral",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "3 Floyds Brewing",
+    "Origin": "Munster, IN United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 100.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-305362_33272_sm.jpeg",
+    "HallRating": 14.95,
+    "BAR": 9.17,
+    "StylePlus": "110",
+    "RatingScore": 4.25,
+    "AdjustedRating": "3.2159822131147540983606557377"
+  },
+  {
+    "BID": 5210489,
+    "BeerName": "Paraboloid (2022)",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Firestone Walker Brewing Company",
+    "Origin": "Paso Robles, CA United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4699378_b59d0_sm.jpeg",
+    "HallRating": 14.95,
+    "BAR": 8.00,
+    "StylePlus": "110",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.1787608272038440214378118647"
   },
   {
     "BID": 6040198,
@@ -132,7 +132,7 @@
     "BAR": 6.67,
     "StylePlus": "116",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.0576336925881943084696542412"
+    "AdjustedRating": "2.0679058847720659553831231814"
   },
   {
     "BID": 2016191,
@@ -147,22 +147,7 @@
     "BAR": 8.03,
     "StylePlus": "112",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.0733854350896773232398473857"
-  },
-  {
-    "BID": 4961495,
-    "BeerName": "Rotating Slushee Seltzer (Gluten Free)",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Slate Farm Brewery",
-    "Origin": "Whiteford, MD United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-384542_07c25.jpeg",
-    "HallRating": 14.93,
-    "BAR": 6.16,
-    "StylePlus": "121",
-    "RatingScore": 4.31,
-    "AdjustedRating": "2.0568178776502789231759340047"
+    "AdjustedRating": "2.1822004115589913491625253083"
   },
   {
     "BID": 5624521,
@@ -177,52 +162,22 @@
     "BAR": 7.24,
     "StylePlus": "113",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0600882174594505340971154945"
+    "AdjustedRating": "2.0864239203911152173076182777"
   },
   {
-    "BID": 3904201,
-    "BeerName": "Funky Lumen",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "ZalaZ",
-    "Origin": "Paraisópolis, Minas Gerais Brazil",
-    "BeerAbv": 6.00,
+    "BID": 4961495,
+    "BeerName": "Rotating Slushee Seltzer (Gluten Free)",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Slate Farm Brewery",
+    "Origin": "Whiteford, MD United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4045567_66407_sm.jpeg",
-    "HallRating": 14.92,
-    "BAR": 5.78,
-    "StylePlus": "134",
-    "RatingScore": 4.18,
-    "AdjustedRating": "2.0565108689139339049024346808"
-  },
-  {
-    "BID": 1016969,
-    "BeerName": "La Bière de Fantaisie (Blend #1)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-937731_36280_sm.jpeg",
-    "HallRating": 14.92,
-    "BAR": 7.79,
-    "StylePlus": "116",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.0667380279665738161559888579"
-  },
-  {
-    "BID": 4806649,
-    "BeerName": "Weka",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4806649_34eb1_sm.jpeg",
-    "HallRating": 14.92,
-    "BAR": 8.09,
-    "StylePlus": "112",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.0766285667845093223458925699"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-384542_07c25.jpeg",
+    "HallRating": 14.93,
+    "BAR": 6.16,
+    "StylePlus": "121",
+    "RatingScore": 4.31,
+    "AdjustedRating": "2.061694899840522774125792524"
   },
   {
     "BID": 5018598,
@@ -237,22 +192,52 @@
     "BAR": 7.42,
     "StylePlus": "111",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0617236214653266280631297297"
+    "AdjustedRating": "2.0986278363782603699873606802"
   },
   {
-    "BID": 4632012,
-    "BeerName": "JJJuiceee Project Peach",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.70,
+    "BID": 1016969,
+    "BeerName": "La Bière de Fantaisie (Blend #1)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Side Project Brewing",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 14.91,
-    "BAR": 6.55,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-937731_36280_sm.jpeg",
+    "HallRating": 14.92,
+    "BAR": 7.79,
     "StylePlus": "116",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.05745342177689050519435932"
+    "RatingScore": 4.26,
+    "AdjustedRating": "2.1351696152183311716385646347"
+  },
+  {
+    "BID": 3904201,
+    "BeerName": "Funky Lumen",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "ZalaZ",
+    "Origin": "Paraisópolis, Minas Gerais Brazil",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4045567_66407_sm.jpeg",
+    "HallRating": 14.92,
+    "BAR": 5.78,
+    "StylePlus": "134",
+    "RatingScore": 4.18,
+    "AdjustedRating": "2.0593503544939554984523739999"
+  },
+  {
+    "BID": 4806649,
+    "BeerName": "Weka",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4806649_34eb1_sm.jpeg",
+    "HallRating": 14.92,
+    "BAR": 8.09,
+    "StylePlus": "112",
+    "RatingScore": 4.33,
+    "AdjustedRating": "2.2045621409436334809469137827"
   },
   {
     "BID": 5802354,
@@ -267,7 +252,22 @@
     "BAR": 7.05,
     "StylePlus": "128",
     "RatingScore": 4.00,
-    "AdjustedRating": "2.058509683401019614620236758"
+    "AdjustedRating": "2.0745166829532067746856955254"
+  },
+  {
+    "BID": 4632012,
+    "BeerName": "JJJuiceee Project Peach",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 14.91,
+    "BAR": 6.55,
+    "StylePlus": "116",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.0665370260511705555771246651"
   },
   {
     "BID": 6202266,
@@ -282,7 +282,7 @@
     "BAR": 6.79,
     "StylePlus": "119",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0579571774379314290072842378"
+    "AdjustedRating": "2.0703582043631572829077382106"
   },
   {
     "BID": 5217683,
@@ -297,37 +297,7 @@
     "BAR": 8.35,
     "StylePlus": "110",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0953728727207212617576626555"
-  },
-  {
-    "BID": 4219360,
-    "BeerName": "Barrel Aged Thrilla In Bluenilla",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Garagiste Meadery",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 15.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4219360_38d6d_sm.jpeg",
-    "HallRating": 14.90,
-    "BAR": 6.67,
-    "StylePlus": "112",
-    "RatingScore": 4.49,
-    "AdjustedRating": "2.0577550462517259529930504169"
-  },
-  {
-    "BID": 5101119,
-    "BeerName": "B-Boy Apostle",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3736972_39dc2_sm.jpeg",
-    "HallRating": 14.90,
-    "BAR": 8.07,
-    "StylePlus": "112",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.0761568541127036931481420764"
+    "AdjustedRating": "2.3271108948422288199958572119"
   },
   {
     "BID": 4004918,
@@ -342,22 +312,22 @@
     "BAR": 7.94,
     "StylePlus": "113",
     "RatingScore": 4.25,
-    "AdjustedRating": "2.070740273191889473604391938"
+    "AdjustedRating": "2.1635973960284056143733892051"
   },
   {
-    "BID": 46235,
-    "BeerName": "Poiré Granit",
-    "BeerStyle": "Cider - Perry / Poiré",
-    "BreweryName": "Eric Bordelet",
-    "Origin": "Charchigné, Pays de la Loire France",
-    "BeerAbv": 4.00,
+    "BID": 4219360,
+    "BeerName": "Barrel Aged Thrilla In Bluenilla",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Garagiste Meadery",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 15.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-46235_2f49e_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4219360_38d6d_sm.jpeg",
     "HallRating": 14.90,
-    "BAR": 7.31,
-    "StylePlus": "119",
-    "RatingScore": 4.20,
-    "AdjustedRating": "2.060292731798742393921232007"
+    "BAR": 6.67,
+    "StylePlus": "112",
+    "RatingScore": 4.49,
+    "AdjustedRating": "2.0688294871993793638479441427"
   },
   {
     "BID": 1804591,
@@ -372,6 +342,36 @@
     "BAR": 8.51,
     "StylePlus": "109",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.1143027227745871327380036435"
+    "AdjustedRating": "2.4392891764821198111512260468"
+  },
+  {
+    "BID": 46235,
+    "BeerName": "Poiré Granit",
+    "BeerStyle": "Cider - Perry / Poiré",
+    "BreweryName": "Eric Bordelet",
+    "Origin": "Charchigné, Pays de la Loire France",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-46235_2f49e_sm.jpeg",
+    "HallRating": 14.90,
+    "BAR": 7.31,
+    "StylePlus": "119",
+    "RatingScore": 4.20,
+    "AdjustedRating": "2.087915570750821120565468759"
+  },
+  {
+    "BID": 5101119,
+    "BeerName": "B-Boy Apostle",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Monkish Brewing Co.",
+    "Origin": "Torrance, CA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3736972_39dc2_sm.jpeg",
+    "HallRating": 14.90,
+    "BAR": 8.07,
+    "StylePlus": "112",
+    "RatingScore": 4.33,
+    "AdjustedRating": "2.2013423683153860193465960942"
   }
 ]

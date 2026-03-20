@@ -1,50 +1,5 @@
 [
   {
-    "BID": 6215594,
-    "BeerName": "Long Boil Barley Wine 2022 - Bourbon Barrel Aged",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "O/O Brewing",
-    "Origin": "Gothenburg, Västra Götalands län Sweden",
-    "BeerAbv": 12.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6215594_74e0b_sm.jpeg",
-    "HallRating": 13.95,
-    "BAR": 6.45,
-    "StylePlus": "112",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.0583519262882273686351272339"
-  },
-  {
-    "BID": 3600411,
-    "BeerName": "Mott the Lesser (Fall 2017)",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Tributary Brewing Company",
-    "Origin": "Kittery, ME United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1031864_77989_sm.jpeg",
-    "HallRating": 13.95,
-    "BAR": 6.45,
-    "StylePlus": "111",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.0583965448495186477905081971"
-  },
-  {
-    "BID": 4420155,
-    "BeerName": "Timbo Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Cellarmaker Brewing Company",
-    "Origin": "Oakland, CA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4420155_b54d4_sm.jpeg",
-    "HallRating": 13.95,
-    "BAR": 6.74,
-    "StylePlus": "120",
-    "RatingScore": 4.07,
-    "AdjustedRating": "2.059368618088422464579951376"
-  },
-  {
     "BID": 6034900,
     "BeerName": "Pawpaw",
     "BeerStyle": "Sour - Fruited",
@@ -57,22 +12,7 @@
     "BAR": 7.86,
     "StylePlus": "110",
     "RatingScore": 4.24,
-    "AdjustedRating": "2.0963131415854493138778018113"
-  },
-  {
-    "BID": 4025782,
-    "BeerName": "Headzo",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Drake’s Brewing Company",
-    "Origin": "San Leandro, CA United States",
-    "BeerAbv": 18.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-774379_1381e_sm.jpeg",
-    "HallRating": 13.95,
-    "BAR": 7.31,
-    "StylePlus": "112",
-    "RatingScore": 4.27,
-    "AdjustedRating": "2.0672772267613193312201889678"
+    "AdjustedRating": "2.3306323763743288161595499872"
   },
   {
     "BID": 6611716,
@@ -87,7 +27,67 @@
     "BAR": 6.27,
     "StylePlus": "117",
     "RatingScore": 4.19,
-    "AdjustedRating": "2.0576141439763217917324606571"
+    "AdjustedRating": "2.0677524307763902893042736369"
+  },
+  {
+    "BID": 4500201,
+    "BeerName": "Grand Prestige Vatgerijpt Madeira (2021)",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Hertog Jan",
+    "Origin": "Arcen, Limburg Netherlands",
+    "BeerAbv": 11.80,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4500201_97247_sm.jpeg",
+    "HallRating": 13.95,
+    "BAR": 7.67,
+    "StylePlus": "110",
+    "RatingScore": 4.32,
+    "AdjustedRating": "2.2430091288949307766608235252"
+  },
+  {
+    "BID": 4025782,
+    "BeerName": "Headzo",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Drake’s Brewing Company",
+    "Origin": "San Leandro, CA United States",
+    "BeerAbv": 18.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-774379_1381e_sm.jpeg",
+    "HallRating": 13.95,
+    "BAR": 7.31,
+    "StylePlus": "112",
+    "RatingScore": 4.27,
+    "AdjustedRating": "2.1390533968885469251412164318"
+  },
+  {
+    "BID": 4420155,
+    "BeerName": "Timbo Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Cellarmaker Brewing Company",
+    "Origin": "Oakland, CA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4420155_b54d4_sm.jpeg",
+    "HallRating": 13.95,
+    "BAR": 6.74,
+    "StylePlus": "120",
+    "RatingScore": 4.07,
+    "AdjustedRating": "2.080980673958253100207964261"
+  },
+  {
+    "BID": 3337455,
+    "BeerName": "Honey Jacket (2019)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Revolution Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3311433_b0891_sm.jpeg",
+    "HallRating": 13.95,
+    "BAR": 7.21,
+    "StylePlus": "111",
+    "RatingScore": 4.35,
+    "AdjustedRating": "2.1264452660026836505206659989"
   },
   {
     "BID": 4500202,
@@ -102,22 +102,7 @@
     "BAR": 7.66,
     "StylePlus": "110",
     "RatingScore": 4.32,
-    "AdjustedRating": "2.0820966629959326791746633833"
-  },
-  {
-    "BID": 5416510,
-    "BeerName": "Undeniable Dilemma",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "Deviate Brewing",
-    "Origin": "Indianapolis, IN United States",
-    "BeerAbv": 10.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5416510_eab99_sm.jpeg",
-    "HallRating": 13.93,
-    "BAR": 5.55,
-    "StylePlus": "122",
-    "RatingScore": 4.36,
-    "AdjustedRating": "2.0566525237198795180722891566"
+    "AdjustedRating": "2.2412243252533209209065845537"
   },
   {
     "BID": 4024364,
@@ -132,7 +117,22 @@
     "BAR": 7.95,
     "StylePlus": "114",
     "RatingScore": 3.99,
-    "AdjustedRating": "2.1024524512759378608948329173"
+    "AdjustedRating": "2.362431221449199264898923602"
+  },
+  {
+    "BID": 5416510,
+    "BeerName": "Undeniable Dilemma",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Deviate Brewing",
+    "Origin": "Indianapolis, IN United States",
+    "BeerAbv": 10.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5416510_eab99_sm.jpeg",
+    "HallRating": 13.93,
+    "BAR": 5.55,
+    "StylePlus": "122",
+    "RatingScore": 4.36,
+    "AdjustedRating": "2.0604329569735536225115301535"
   },
   {
     "BID": 4981542,
@@ -147,22 +147,7 @@
     "BAR": 6.49,
     "StylePlus": "112",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0585730992178583502581296215"
-  },
-  {
-    "BID": 303193,
-    "BeerName": "Barrel Aged Wee Heavy",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "AleSmith Brewing Company",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27585_877fb_sm.jpeg",
-    "HallRating": 13.93,
-    "BAR": 7.53,
-    "StylePlus": "112",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.0749878459500846386522398339"
+    "AdjustedRating": "2.0750224028159207828878660117"
   },
   {
     "BID": 6002218,
@@ -177,22 +162,22 @@
     "BAR": 6.36,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0581384440879379034533958096"
+    "AdjustedRating": "2.0717374057572352872806167913"
   },
   {
-    "BID": 604301,
-    "BeerName": "Massacre",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Wolverine State Brewing Co.",
-    "Origin": "Ann Arbor, MI United States",
-    "BeerAbv": 14.50,
+    "BID": 303193,
+    "BeerName": "Barrel Aged Wee Heavy",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "AleSmith Brewing Company",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 10.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-243865_ecd72_sm.jpeg",
-    "HallRating": 13.92,
-    "BAR": 7.88,
-    "StylePlus": "115",
-    "RatingScore": 4.02,
-    "AdjustedRating": "2.0965268065713986651846461344"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27585_877fb_sm.jpeg",
+    "HallRating": 13.93,
+    "BAR": 7.53,
+    "StylePlus": "112",
+    "RatingScore": 4.26,
+    "AdjustedRating": "2.1930983426586213201682208813"
   },
   {
     "BID": 1631158,
@@ -207,7 +192,22 @@
     "BAR": 8.23,
     "StylePlus": "112",
     "RatingScore": 4.15,
-    "AdjustedRating": "2.165496764186389747695691389"
+    "AdjustedRating": "2.6779417788560384884246885152"
+  },
+  {
+    "BID": 604301,
+    "BeerName": "Massacre",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Wolverine State Brewing Co.",
+    "Origin": "Ann Arbor, MI United States",
+    "BeerAbv": 14.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-243865_ecd72_sm.jpeg",
+    "HallRating": 13.92,
+    "BAR": 7.88,
+    "StylePlus": "115",
+    "RatingScore": 4.02,
+    "AdjustedRating": "2.3285780457743522576528470438"
   },
   {
     "BID": 4032834,
@@ -222,7 +222,7 @@
     "BAR": 8.13,
     "StylePlus": "111",
     "RatingScore": 4.22,
-    "AdjustedRating": "2.1424598422886179854884811766"
+    "AdjustedRating": "2.5788807813216223809312573009"
   },
   {
     "BID": 5704403,
@@ -237,22 +237,7 @@
     "BAR": 6.48,
     "StylePlus": "111",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0585761640552714258116338421"
-  },
-  {
-    "BID": 2408514,
-    "BeerName": "Can It Be All So Simple",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Equilibrium Brewery",
-    "Origin": "Middletown, NY United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2397057_b429c_sm.jpeg",
-    "HallRating": 13.91,
-    "BAR": 7.89,
-    "StylePlus": "111",
-    "RatingScore": 4.27,
-    "AdjustedRating": "2.1031438991348007351952301968"
+    "AdjustedRating": "2.0750466773688180569792855347"
   },
   {
     "BID": 5022553,
@@ -267,7 +252,7 @@
     "BAR": 5.62,
     "StylePlus": "114",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0567636835606297650210252379"
+    "AdjustedRating": "2.0612823137087046188567648547"
   },
   {
     "BID": 6209366,
@@ -282,22 +267,7 @@
     "BAR": 7.21,
     "StylePlus": "109",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0662489637048654482987526635"
-  },
-  {
-    "BID": 6503011,
-    "BeerName": "Bad Moon Rising (2025)",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Badlands Brewing Company",
-    "Origin": "Caledon, ON Canada",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6503011_29ed1_sm.jpeg",
-    "HallRating": 13.91,
-    "BAR": 6.04,
-    "StylePlus": "115",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.0572864263017210465142894929"
+    "AdjustedRating": "2.1318091423178557946394865987"
   },
   {
     "BID": 4004711,
@@ -312,37 +282,52 @@
     "BAR": 6.64,
     "StylePlus": "118",
     "RatingScore": 4.17,
-    "AdjustedRating": "2.0590329756670224119530416222"
+    "AdjustedRating": "2.0784713894943961110360925172"
   },
   {
-    "BID": 5006862,
-    "BeerName": "Zeltzer: Tropical Limeade",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Claim 52 Brewing",
-    "Origin": "Eugene, OR United States",
-    "BeerAbv": 5.00,
+    "BID": 6503011,
+    "BeerName": "Bad Moon Rising (2025)",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Badlands Brewing Company",
+    "Origin": "Caledon, ON Canada",
+    "BeerAbv": 8.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-49469_6ece1.jpeg",
-    "HallRating": 13.90,
-    "BAR": 5.95,
-    "StylePlus": "118",
-    "RatingScore": 4.22,
-    "AdjustedRating": "2.057052670351275666574254706"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6503011_29ed1_sm.jpeg",
+    "HallRating": 13.91,
+    "BAR": 6.04,
+    "StylePlus": "115",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.0652660392309186249757234414"
   },
   {
-    "BID": 6014800,
-    "BeerName": "Paragon 2023 By Rackhouse",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "LERVIG",
-    "Origin": "Stavanger, Rogaland Norway",
-    "BeerAbv": 13.00,
+    "BID": 2408514,
+    "BeerName": "Can It Be All So Simple",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Equilibrium Brewery",
+    "Origin": "Middletown, NY United States",
+    "BeerAbv": 8.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6014800_f9e02_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2397057_b429c_sm.jpeg",
+    "HallRating": 13.91,
+    "BAR": 7.89,
+    "StylePlus": "111",
+    "RatingScore": 4.27,
+    "AdjustedRating": "2.3719347824488090263267864605"
+  },
+  {
+    "BID": 5825877,
+    "BeerName": "Mango Tango Boom Boom",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "American Solera",
+    "Origin": "Tulsa, OK United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-262817_c0b72.jpeg",
     "HallRating": 13.90,
-    "BAR": 7.54,
-    "StylePlus": "110",
-    "RatingScore": 4.32,
-    "AdjustedRating": "2.0767022620706348666046399044"
+    "BAR": 6.34,
+    "StylePlus": "114",
+    "RatingScore": 4.34,
+    "AdjustedRating": "2.0706847803177063153816350252"
   },
   {
     "BID": 4103641,
@@ -357,7 +342,7 @@
     "BAR": 5.94,
     "StylePlus": "112",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.0571461711753873701559654495"
+    "AdjustedRating": "2.0641987128616676058527485766"
   },
   {
     "BID": 6030302,
@@ -372,6 +357,21 @@
     "BAR": 5.06,
     "StylePlus": "114",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.056400717590696183369249675"
+    "AdjustedRating": "2.0585085964707257216314128783"
+  },
+  {
+    "BID": 6014800,
+    "BeerName": "Paragon 2023 By Rackhouse",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "LERVIG",
+    "Origin": "Stavanger, Rogaland Norway",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6014800_f9e02_sm.jpeg",
+    "HallRating": 13.90,
+    "BAR": 7.54,
+    "StylePlus": "110",
+    "RatingScore": 4.32,
+    "AdjustedRating": "2.2050269272521948198608429565"
   }
 ]

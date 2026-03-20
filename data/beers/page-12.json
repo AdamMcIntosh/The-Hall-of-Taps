@@ -1,20 +1,5 @@
 [
   {
-    "BID": 4008934,
-    "BeerName": "Bourbon County Brand Stout (2019) 14.7%",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.70,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3200860_3e2be_sm.jpeg",
-    "HallRating": 17.62,
-    "BAR": 10.78,
-    "StylePlus": "110",
-    "RatingScore": 4.44,
-    "AdjustedRating": "2.3407028611340169224150293991"
-  },
-  {
     "BID": 70157,
     "BeerName": "Vera Mae",
     "BeerStyle": "Farmhouse Ale - Saison",
@@ -27,7 +12,22 @@
     "BAR": 9.75,
     "StylePlus": "118",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.085841199300857353805355071"
+    "AdjustedRating": "2.2658037620573087201996424842"
+  },
+  {
+    "BID": 4008934,
+    "BeerName": "Bourbon County Brand Stout (2019) 14.7%",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.70,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3200860_3e2be_sm.jpeg",
+    "HallRating": 17.62,
+    "BAR": 10.78,
+    "StylePlus": "110",
+    "RatingScore": 4.44,
+    "AdjustedRating": "3.270736517390098593300245766"
   },
   {
     "BID": 3000429,
@@ -42,22 +42,7 @@
     "BAR": 9.75,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0884217448416654320646646863"
-  },
-  {
-    "BID": 6408654,
-    "BeerName": "Barrel Aged Everywhere And Nowhere",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
-    "HallRating": 17.60,
-    "BAR": 7.29,
-    "StylePlus": "113",
-    "RatingScore": 4.70,
-    "AdjustedRating": "2.0569717550079746033684114132"
+    "AdjustedRating": "2.2838626827974105911068661785"
   },
   {
     "BID": 2420332,
@@ -72,7 +57,22 @@
     "BAR": 9.99,
     "StylePlus": "114",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.1051995559174161164062266575"
+    "AdjustedRating": "2.3852541986083067732407762778"
+  },
+  {
+    "BID": 6408654,
+    "BeerName": "Barrel Aged Everywhere And Nowhere",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
+    "HallRating": 17.60,
+    "BAR": 7.29,
+    "StylePlus": "113",
+    "RatingScore": 4.70,
+    "AdjustedRating": "2.0628709182840029559332581385"
   },
   {
     "BID": 5218371,
@@ -87,7 +87,7 @@
     "BAR": 8.37,
     "StylePlus": "112",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0595440568306566375279528359"
+    "AdjustedRating": "2.0823601065246338215712383489"
   },
   {
     "BID": 6216152,
@@ -102,7 +102,7 @@
     "BAR": 8.11,
     "StylePlus": "114",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0585086732712532698804920646"
+    "AdjustedRating": "2.0745458627230846657117417057"
   },
   {
     "BID": 4804655,
@@ -117,37 +117,7 @@
     "BAR": 8.91,
     "StylePlus": "128",
     "RatingScore": 4.24,
-    "AdjustedRating": "2.0628317142530992443094906509"
-  },
-  {
-    "BID": 6100663,
-    "BeerName": "Barrel Aged Thanatos (Copper Wax)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6100663_ac6cd_sm.jpeg",
-    "HallRating": 17.55,
-    "BAR": 8.02,
-    "StylePlus": "112",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.0582932662575064958838215628"
-  },
-  {
-    "BID": 5605067,
-    "BeerName": "Bourbon Barrel Aged Black Agnes (Batch 2)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605067_8d352_sm.jpeg",
-    "HallRating": 17.55,
-    "BAR": 7.46,
-    "StylePlus": "116",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0571642229649299514696456368"
+    "AdjustedRating": "2.1067431317132627409156699931"
   },
   {
     "BID": 6015737,
@@ -162,7 +132,37 @@
     "BAR": 8.33,
     "StylePlus": "127",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.0590280866672596282131103798"
+    "AdjustedRating": "2.0784473855300748976912979693"
+  },
+  {
+    "BID": 6100663,
+    "BeerName": "Barrel Aged Thanatos (Copper Wax)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6100663_ac6cd_sm.jpeg",
+    "HallRating": 17.55,
+    "BAR": 8.02,
+    "StylePlus": "112",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.0729161909927360774818401937"
+  },
+  {
+    "BID": 5605067,
+    "BeerName": "Bourbon Barrel Aged Black Agnes (Batch 2)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605067_8d352_sm.jpeg",
+    "HallRating": 17.55,
+    "BAR": 7.46,
+    "StylePlus": "116",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.0643377389952385579632688757"
   },
   {
     "BID": 6302105,
@@ -177,7 +177,7 @@
     "BAR": 7.32,
     "StylePlus": "116",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0570107425597509233539879735"
+    "AdjustedRating": "2.063167901849079349030740215"
   },
   {
     "BID": 3807483,
@@ -192,37 +192,7 @@
     "BAR": 8.50,
     "StylePlus": "114",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0603222507849413199207437891"
-  },
-  {
-    "BID": 2800986,
-    "BeerName": "The Statement",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_445477_sm_b6777ed681a4d5c189f18775d1dff5.jpeg",
-    "HallRating": 17.52,
-    "BAR": 10.09,
-    "StylePlus": "111",
-    "RatingScore": 4.43,
-    "AdjustedRating": "2.125171781683964513267995978"
-  },
-  {
-    "BID": 6206080,
-    "BeerName": "Jay Bird",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Sante Adairius Rustic Ales",
-    "Origin": "Capitola, CA United States",
-    "BeerAbv": 7.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
-    "HallRating": 17.52,
-    "BAR": 8.58,
-    "StylePlus": "120",
-    "RatingScore": 4.43,
-    "AdjustedRating": "2.0606479708950902607759277507"
+    "AdjustedRating": "2.0881945064377682403433476395"
   },
   {
     "BID": 4632191,
@@ -237,7 +207,37 @@
     "BAR": 6.74,
     "StylePlus": "116",
     "RatingScore": 4.71,
-    "AdjustedRating": "2.0565903874769122742745493123"
+    "AdjustedRating": "2.0599590842013043901489340991"
+  },
+  {
+    "BID": 6206080,
+    "BeerName": "Jay Bird",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Sante Adairius Rustic Ales",
+    "Origin": "Capitola, CA United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
+    "HallRating": 17.52,
+    "BAR": 8.58,
+    "StylePlus": "120",
+    "RatingScore": 4.43,
+    "AdjustedRating": "2.0906115311161065959613426326"
+  },
+  {
+    "BID": 2800986,
+    "BeerName": "The Statement",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_445477_sm_b6777ed681a4d5c189f18775d1dff5.jpeg",
+    "HallRating": 17.52,
+    "BAR": 10.09,
+    "StylePlus": "111",
+    "RatingScore": 4.43,
+    "AdjustedRating": "2.4994759530680196606944664658"
   },
   {
     "BID": 6406138,
@@ -252,7 +252,7 @@
     "BAR": 8.77,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.06264283510186057017554991"
+    "AdjustedRating": "2.1054801093313964601093313965"
   },
   {
     "BID": 6603508,
@@ -267,7 +267,7 @@
     "BAR": 10.25,
     "StylePlus": "113",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.1540719870263104669212343038"
+    "AdjustedRating": "2.6416730989689520591833168288"
   },
   {
     "BID": 4222796,
@@ -282,22 +282,7 @@
     "BAR": 8.56,
     "StylePlus": "120",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0606058481184331832346644114"
-  },
-  {
-    "BID": 5807409,
-    "BeerName": "Ice Cider",
-    "BeerStyle": "Cider - Ice",
-    "BreweryName": "Andreev Ciderworks",
-    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4349342_ef085_sm.jpeg",
-    "HallRating": 17.49,
-    "BAR": 8.53,
-    "StylePlus": "114",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.0604984512717353205626419177"
+    "AdjustedRating": "2.0902968554957724827056110684"
   },
   {
     "BID": 2808965,
@@ -312,22 +297,22 @@
     "BAR": 10.25,
     "StylePlus": "112",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.157670403013274379376503472"
+    "AdjustedRating": "2.660636069839889879011809027"
   },
   {
-    "BID": 6032429,
-    "BeerName": "Nascent Truth Double Coconut",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 13.50,
+    "BID": 5807409,
+    "BeerName": "Ice Cider",
+    "BeerStyle": "Cider - Ice",
+    "BreweryName": "Andreev Ciderworks",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6032429_6747b_sm.jpeg",
-    "HallRating": 17.48,
-    "BAR": 8.89,
-    "StylePlus": "113",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0641559857252284014183461759"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4349342_ef085_sm.jpeg",
+    "HallRating": 17.49,
+    "BAR": 8.53,
+    "StylePlus": "114",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.0894993243996693134408705516"
   },
   {
     "BID": 4940498,
@@ -342,7 +327,22 @@
     "BAR": 7.75,
     "StylePlus": "126",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0575505733045804555025480882"
+    "AdjustedRating": "2.0672746358785291549432424566"
+  },
+  {
+    "BID": 6032429,
+    "BeerName": "Nascent Truth Double Coconut",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6032429_6747b_sm.jpeg",
+    "HallRating": 17.48,
+    "BAR": 8.89,
+    "StylePlus": "113",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1166322627042864481269382242"
   },
   {
     "BID": 6212579,
@@ -357,21 +357,21 @@
     "BAR": 8.06,
     "StylePlus": "115",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0584387942891716960122839754"
+    "AdjustedRating": "2.074015300152931838860173839"
   },
   {
-    "BID": 4820988,
-    "BeerName": "Ullr Schwarz Barrel Aged Batch 1",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "FrohenFeld Craft Brewery",
-    "Origin": "Curitiba, Paraná Brazil",
-    "BeerAbv": 8.70,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4820988_dcf52_sm.jpeg",
+    "BID": 6038874,
+    "BeerName": "whoopie pie",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "nebuleus",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-440700_67b21.jpeg",
     "HallRating": 17.45,
-    "BAR": 7.35,
-    "StylePlus": "126",
-    "RatingScore": 4.50,
-    "AdjustedRating": "2.0570350997191868628288871253"
+    "BAR": 7.02,
+    "StylePlus": "124",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.061219931121704445957777994"
   }
 ]

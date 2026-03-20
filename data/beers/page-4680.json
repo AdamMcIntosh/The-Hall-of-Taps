@@ -1,95 +1,5 @@
 [
   {
-    "BID": 6413926,
-    "BeerName": "English Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Barbarian Brewing Co.",
-    "Origin": "Kingsville, Victoria Australia",
-    "BeerAbv": 4.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-551096_7dda8.jpeg",
-    "HallRating": -26.08,
-    "BAR": -5.37,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
-  },
-  {
-    "BID": 6026304,
-    "BeerName": "Petone Boardriders",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Seashore Cabaret",
-    "Origin": "Lower Hutt, Wellington New Zealand",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-567600_72dcc.jpeg",
-    "HallRating": -26.08,
-    "BAR": -5.37,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
-  },
-  {
-    "BID": 1668183,
-    "BeerName": "Adventure 329",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Fourpure Brewing Co",
-    "Origin": "London, Greater London England",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-86957_78024.jpeg",
-    "HallRating": -26.08,
-    "BAR": -5.37,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
-  },
-  {
-    "BID": 6501584,
-    "BeerName": "Grapeful Dead",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Rising Silo Farm Brewery",
-    "Origin": "Blacksburg, VA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 19.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-198720_96d9d.jpeg",
-    "HallRating": -26.08,
-    "BAR": -5.37,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
-  },
-  {
-    "BID": 4941069,
-    "BeerName": "Pavis Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Jacobstads",
-    "Origin": "Uusikaarlepyy, Pohjanmaa Finland",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-76905_e2b48.jpeg",
-    "HallRating": -26.08,
-    "BAR": -5.37,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
-  },
-  {
-    "BID": 6501796,
-    "BeerName": "混沌之泉",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "混沌酿造 (Chaosbrewing)",
-    "Origin": "China / People's Republic of China",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-552752_99949.jpeg",
-    "HallRating": -26.08,
-    "BAR": -5.37,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
-  },
-  {
     "BID": 5503040,
     "BeerName": "Трое в лодке",
     "BeerStyle": "Lager - Pale",
@@ -102,52 +12,127 @@
     "BAR": -5.37,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
-    "BID": 6503461,
-    "BeerName": "Thirst Aid",
+    "BID": 3348479,
+    "BeerName": "Beavertown Says It Only Takes A Minute (Dry Hopped)",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Ogdens Brewery",
-    "Origin": "South Perth, Western Australia Australia",
+    "BreweryName": "Beavertown",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 4.90,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3348479_beb6e_sm.jpeg",
+    "HallRating": -26.08,
+    "BAR": -5.37,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.055843503587024329382407985"
+  },
+  {
+    "BID": 1673789,
+    "BeerName": "Anaheim Chili Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Copper Kettle Brewing Company",
+    "Origin": "Denver, CO United States",
     "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6503461_7ff0a_sm.jpeg",
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-copperkettlebrewingcompanycolorado_10220.jpeg",
     "HallRating": -26.08,
     "BAR": -5.37,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
-    "BID": 5411003,
-    "BeerName": "Corona Crab",
+    "BID": 3342152,
+    "BeerName": "Snake",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Yack Creek Distillery / Brewery",
-    "Origin": "Yackandandah, Victoria Australia",
-    "BeerAbv": 4.50,
+    "BreweryName": "Chandeleur Island Brewing Company",
+    "Origin": "Gulfport, MS United States",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-494268_40aaa.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-101594_fa07e.jpeg",
     "HallRating": -26.08,
     "BAR": -5.37,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
-    "BID": 6612082,
-    "BeerName": "Pytloun Imperial Premium Czech Lager",
-    "BeerStyle": "Lager - Světlé (Czech Pale)",
-    "BreweryName": "Pivovar Cvikov",
-    "Origin": "Česká Lípa, Liberecký kraj Czech Republic",
-    "BeerAbv": 4.70,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-170765_94dd0.jpeg",
-    "HallRating": -26.21,
-    "BAR": 0.00,
+    "BID": 3337340,
+    "BeerName": "Vual",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Carson’s Brewery",
+    "Origin": "Evansville, IN United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 33.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-61139_560e8.jpeg",
+    "HallRating": -26.08,
+    "BAR": -5.37,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.055843503587024329382407985"
+  },
+  {
+    "BID": 6019679,
+    "BeerName": "Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Bungalally Brewery and Distillery",
+    "Origin": null,
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-556570_ad94c.jpeg",
+    "HallRating": -26.08,
+    "BAR": -5.37,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.055843503587024329382407985"
+  },
+  {
+    "BID": 6304896,
+    "BeerName": "1644",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Doctor’s Island Brewing Company",
+    "Origin": "Hull, MA United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-547910_a2769.jpeg",
+    "HallRating": -26.08,
+    "BAR": -5.37,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.055843503587024329382407985"
+  },
+  {
+    "BID": 6428469,
+    "BeerName": "Goldy's Tavern Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Goldy's Tavern",
+    "Origin": "Collingwood, Victoria Australia",
+    "BeerAbv": 4.20,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-582652_c9005.jpeg",
+    "HallRating": -26.08,
+    "BAR": -5.37,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.055843503587024329382407985"
+  },
+  {
+    "BID": 6607400,
+    "BeerName": "Pathological Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Yellowhammer Brewing",
+    "Origin": "Huntsville, AL United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-8036_3c3d0.jpeg",
+    "HallRating": -26.08,
+    "BAR": -5.37,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
     "BID": 6618136,
@@ -162,7 +147,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6615196,
@@ -177,7 +162,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6604914,
@@ -192,7 +177,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6611265,
@@ -207,7 +192,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6612687,
@@ -222,7 +207,22 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6612082,
+    "BeerName": "Pytloun Imperial Premium Czech Lager",
+    "BeerStyle": "Lager - Světlé (Czech Pale)",
+    "BreweryName": "Pivovar Cvikov",
+    "Origin": "Česká Lípa, Liberecký kraj Czech Republic",
+    "BeerAbv": 4.70,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-170765_94dd0.jpeg",
+    "HallRating": -26.21,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6505756,
@@ -237,7 +237,7 @@
     "BAR": -2.39,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
     "BID": 6301336,
@@ -252,7 +252,7 @@
     "BAR": -17.18,
     "StylePlus": "70",
     "RatingScore": 2.35,
-    "AdjustedRating": "2.2157085690016590766139955378"
+    "AdjustedRating": "2.320921129671923706058454986"
   },
   {
     "BID": 3338763,
@@ -267,7 +267,7 @@
     "BAR": -9.99,
     "StylePlus": "47",
     "RatingScore": 1.62,
-    "AdjustedRating": "2.0560074473210196916501297512"
+    "AdjustedRating": "2.0554981280788177339901477833"
   },
   {
     "BID": 6505513,
@@ -282,7 +282,7 @@
     "BAR": -3.61,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 6216782,
@@ -297,7 +297,52 @@
     "BAR": -11.26,
     "StylePlus": "61",
     "RatingScore": 2.25,
-    "AdjustedRating": "2.0561688339034954967786897546"
+    "AdjustedRating": "2.056732120010881815708678248"
+  },
+  {
+    "BID": 6604803,
+    "BeerName": "Pompelmo Sanpellegrino",
+    "BeerStyle": "Non-Alcoholic - Soda - Craft",
+    "BreweryName": "Sanpellegrino",
+    "Origin": "Italy",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-586509_58b5b.jpeg",
+    "HallRating": -26.44,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6600032,
+    "BeerName": "Karma Tropikool",
+    "BeerStyle": "Non-Alcoholic - Soda - Craft",
+    "BreweryName": "Karma Drinks",
+    "Origin": "New Zealand",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-585736_aa761.jpeg",
+    "HallRating": -26.44,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6612426,
+    "BeerName": "Ginger Beer",
+    "BeerStyle": "Non-Alcoholic - Soda - Craft",
+    "BreweryName": "BJ’s Restaurant & Brewhouse",
+    "Origin": "Huntington Beach, CA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-7132_1222b.jpeg",
+    "HallRating": -26.44,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6618312,
@@ -312,37 +357,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6615330,
-    "BeerName": "Lolo Hops: Cascadia Field Blend",
-    "BeerStyle": "Non-Alcoholic - Soda - Craft",
-    "BreweryName": "Aurora Elixirs",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-585332_089d2.jpeg",
-    "HallRating": -26.44,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6602947,
-    "BeerName": "Mister Ginger",
-    "BeerStyle": "Non-Alcoholic - Soda - Craft",
-    "BreweryName": "Mister Ginger",
-    "Origin": "Austria",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -26.44,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6607144,
@@ -357,21 +372,6 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6618494,
-    "BeerName": "Party On — Hazy IPA",
-    "BeerStyle": "Non-Alcoholic - IPA",
-    "BreweryName": "Reuben's Brews",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 0.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-36289_53dd2.jpeg",
-    "HallRating": -26.44,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   }
 ]

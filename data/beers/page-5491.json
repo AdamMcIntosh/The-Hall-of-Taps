@@ -1,20 +1,5 @@
 [
   {
-    "BID": 6607179,
-    "BeerName": "Dobro Joe",
-    "BeerStyle": "Brown Ale - Imperial / Double",
-    "BreweryName": "New Terrain Brewing Co.",
-    "Origin": "Golden, CO United States",
-    "BeerAbv": 7.60,
-    "BeerIbu": 19.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-299073_dcc67.jpeg",
-    "HallRating": -61.80,
-    "BAR": -14.30,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560421457662742144382046774"
-  },
-  {
     "BID": 3346950,
     "BeerName": "Bourbon Barrel Aged Bunghole",
     "BeerStyle": "Brown Ale - Imperial / Double",
@@ -27,37 +12,22 @@
     "BAR": -14.30,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560421457662742144382046774"
+    "AdjustedRating": "2.0557633506179578151194978362"
   },
   {
-    "BID": 6429406,
-    "BeerName": "Infinite Barrel Works Whiskey Barrel Aged Dark Barelywine",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Bright",
-    "Origin": "Bright, Victoria Australia",
-    "BeerAbv": 15.70,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6429406_eba8e_sm.jpeg",
-    "HallRating": -61.84,
-    "BAR": -12.74,
+    "BID": 6607179,
+    "BeerName": "Dobro Joe",
+    "BeerStyle": "Brown Ale - Imperial / Double",
+    "BreweryName": "New Terrain Brewing Co.",
+    "Origin": "Golden, CO United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 19.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-299073_dcc67.jpeg",
+    "HallRating": -61.80,
+    "BAR": -14.30,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
-  },
-  {
-    "BID": 6501496,
-    "BeerName": "Sr. Barleywine (2025)",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Sr. Müller Cervejaria",
-    "Origin": "Juiz de Fora, Minas Gerais Brazil",
-    "BeerAbv": 9.50,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-455805_66730.jpeg",
-    "HallRating": -61.84,
-    "BAR": -12.74,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.0557633506179578151194978362"
   },
   {
     "BID": 2418573,
@@ -72,22 +42,7 @@
     "BAR": -12.74,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
-  },
-  {
-    "BID": 4939139,
-    "BeerName": "Lord Barley - Barleywine Craft Beer (2021)",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Cervezas Postiguet",
-    "Origin": "Spain",
-    "BeerAbv": 8.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338735_e2fa0.jpeg",
-    "HallRating": -61.84,
-    "BAR": -12.74,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
     "BID": 6616035,
@@ -102,22 +57,22 @@
     "BAR": -12.74,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
-    "BID": 4815737,
-    "BeerName": "Core Backbone Network",
+    "BID": 4939139,
+    "BeerName": "Lord Barley - Barleywine Craft Beer (2021)",
     "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Private Landbrauerei Scheuerer",
-    "Origin": "Moosbach, Bayern Germany",
-    "BeerAbv": 5.40,
+    "BreweryName": "Cervezas Postiguet",
+    "Origin": "Spain",
+    "BeerAbv": 8.60,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-PrivateLandbrauereiScheuerer_2524.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338735_e2fa0.jpeg",
     "HallRating": -61.84,
     "BAR": -12.74,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
     "BID": 4103792,
@@ -132,7 +87,52 @@
     "BAR": -12.74,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
+  },
+  {
+    "BID": 6429406,
+    "BeerName": "Infinite Barrel Works Whiskey Barrel Aged Dark Barelywine",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Bright",
+    "Origin": "Bright, Victoria Australia",
+    "BeerAbv": 15.70,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6429406_eba8e_sm.jpeg",
+    "HallRating": -61.84,
+    "BAR": -12.74,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.055843503587024329382407985"
+  },
+  {
+    "BID": 4815737,
+    "BeerName": "Core Backbone Network",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Private Landbrauerei Scheuerer",
+    "Origin": "Moosbach, Bayern Germany",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-PrivateLandbrauereiScheuerer_2524.jpeg",
+    "HallRating": -61.84,
+    "BAR": -12.74,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.055843503587024329382407985"
+  },
+  {
+    "BID": 6501496,
+    "BeerName": "Sr. Barleywine (2025)",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Sr. Müller Cervejaria",
+    "Origin": "Juiz de Fora, Minas Gerais Brazil",
+    "BeerAbv": 9.50,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-455805_66730.jpeg",
+    "HallRating": -61.84,
+    "BAR": -12.74,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
     "BID": 6304858,
@@ -147,37 +147,7 @@
     "BAR": -11.70,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
-  },
-  {
-    "BID": 4425869,
-    "BeerName": "BA Sour #7 (Idaho 7)",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Mox Nix Brewery",
-    "Origin": "Grapevine, TX United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-moxnixbrewery_62103.jpeg",
-    "HallRating": -62.09,
-    "BAR": -5.66,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
-  },
-  {
-    "BID": 6616432,
-    "BeerName": "Violet Première (Batch 3)",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "de Garde Brewing",
-    "Origin": "Tillamook, OR United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64039_65d26.jpeg",
-    "HallRating": -62.09,
-    "BAR": -5.66,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0558835824154401013744029633"
   },
   {
     "BID": 4446498,
@@ -192,7 +162,22 @@
     "BAR": -5.66,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0560038282773142010449972705"
+  },
+  {
+    "BID": 6616432,
+    "BeerName": "Violet Première (Batch 3)",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "de Garde Brewing",
+    "Origin": "Tillamook, OR United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64039_65d26.jpeg",
+    "HallRating": -62.09,
+    "BAR": -5.66,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
     "BID": 1674033,
@@ -207,82 +192,22 @@
     "BAR": -5.66,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
-    "BID": 6412930,
-    "BeerName": "Apsu",
-    "BeerStyle": "Mead - Pyment",
-    "BreweryName": "Dragonfire Meadery",
-    "Origin": "Coventry, CT United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266037_11867.jpeg",
-    "HallRating": -62.09,
-    "BAR": -5.66,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
-  },
-  {
-    "BID": 5614381,
-    "BeerName": "Gingerbread Oatmeal Stout",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Gizmo Brew Works",
-    "Origin": "Raleigh, NC United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-gizmobrewworks_61064.jpeg",
-    "HallRating": -62.09,
-    "BAR": -5.66,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
-  },
-  {
-    "BID": 3337659,
-    "BeerName": "Mint Chocolate Chip Breakfast Stout",
-    "BeerStyle": "Stout - Imperial / Double Oatmeal",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-549_53a84.jpeg",
-    "HallRating": -62.09,
-    "BAR": -5.66,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
-  },
-  {
-    "BID": 6427462,
-    "BeerName": "Black Pinto",
-    "BeerStyle": "Mead - Pyment",
-    "BreweryName": "The Colony Meadery",
-    "Origin": "Easton, PA United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-thecolonymeadery_88281.jpeg",
-    "HallRating": -62.09,
-    "BAR": -5.66,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
-  },
-  {
-    "BID": 3338719,
-    "BeerName": "233",
+    "BID": 4425869,
+    "BeerName": "BA Sour #7 (Idaho 7)",
     "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Keg & Lantern Brewing Company",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 0.00,
+    "BreweryName": "Mox Nix Brewery",
+    "Origin": "Grapevine, TX United States",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-153284_f03f1.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-moxnixbrewery_62103.jpeg",
     "HallRating": -62.09,
     "BAR": -5.66,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
     "BID": 1673241,
@@ -297,22 +222,52 @@
     "BAR": -5.66,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
-    "BID": 3339522,
-    "BeerName": "Tartsicle Series:  Mango Tart",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "Billy Beer",
-    "Origin": "Walstonburg, NC United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-420006_bb0c4.jpeg",
+    "BID": 6412930,
+    "BeerName": "Apsu",
+    "BeerStyle": "Mead - Pyment",
+    "BreweryName": "Dragonfire Meadery",
+    "Origin": "Coventry, CT United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266037_11867.jpeg",
     "HallRating": -62.09,
     "BAR": -5.66,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0560038282773142010449972705"
+  },
+  {
+    "BID": 3337659,
+    "BeerName": "Mint Chocolate Chip Breakfast Stout",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-549_53a84.jpeg",
+    "HallRating": -62.09,
+    "BAR": -5.66,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560038282773142010449972705"
+  },
+  {
+    "BID": 5614381,
+    "BeerName": "Gingerbread Oatmeal Stout",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Gizmo Brew Works",
+    "Origin": "Raleigh, NC United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-gizmobrewworks_61064.jpeg",
+    "HallRating": -62.09,
+    "BAR": -5.66,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
     "BID": 6606095,
@@ -327,7 +282,52 @@
     "BAR": -5.66,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0560038282773142010449972705"
+  },
+  {
+    "BID": 3339522,
+    "BeerName": "Tartsicle Series:  Mango Tart",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Billy Beer",
+    "Origin": "Walstonburg, NC United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-420006_bb0c4.jpeg",
+    "HallRating": -62.09,
+    "BAR": -5.66,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560038282773142010449972705"
+  },
+  {
+    "BID": 3338719,
+    "BeerName": "233",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "Keg & Lantern Brewing Company",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-153284_f03f1.jpeg",
+    "HallRating": -62.09,
+    "BAR": -5.66,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560038282773142010449972705"
+  },
+  {
+    "BID": 6427462,
+    "BeerName": "Black Pinto",
+    "BeerStyle": "Mead - Pyment",
+    "BreweryName": "The Colony Meadery",
+    "Origin": "Easton, PA United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-thecolonymeadery_88281.jpeg",
+    "HallRating": -62.09,
+    "BAR": -5.66,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
     "BID": 6600632,
@@ -342,7 +342,7 @@
     "BAR": -13.68,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560473774523025562471055832"
+    "AdjustedRating": "2.0558034263212273622239117297"
   },
   {
     "BID": 6605863,
@@ -357,21 +357,21 @@
     "BAR": -13.68,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560473774523025562471055832"
+    "AdjustedRating": "2.0558034263212273622239117297"
   },
   {
-    "BID": 4982371,
-    "BeerName": "Nautnaseggur",
+    "BID": 6602221,
+    "BeerName": "Electro Banana Cream Pie",
     "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "BÖL Brewing",
-    "Origin": "Reykjavík, Reykjavíkurborg Iceland",
-    "BeerAbv": 4.00,
+    "BreweryName": "Cushwa Brewing Co.",
+    "Origin": "Williamsport, MD United States",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4982371_2c83c_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-269767_7f66e.jpeg",
     "HallRating": -62.37,
     "BAR": -8.56,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
   }
 ]

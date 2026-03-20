@@ -1,33 +1,18 @@
 [
   {
-    "BID": 5206901,
-    "BeerName": "Interception of Entropy 1000 Days (2023)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Incendiary Brewing Company",
-    "Origin": "Winston-Salem, NC United States",
-    "BeerAbv": 15.00,
+    "BID": 6425109,
+    "BeerName": "FH Sitra Achra (2025)",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Brujos Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 9.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-393444_b28e5.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6425109_157d3_sm.jpeg",
     "HallRating": 15.66,
-    "BAR": 6.34,
-    "StylePlus": "114",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.0567986528754696630128135009"
-  },
-  {
-    "BID": 1001485,
-    "BeerName": "Rodenbach Caractère Rouge (2013)",
-    "BeerStyle": "Sour - Flanders Red Ale",
-    "BreweryName": "Brouwerij Rodenbach",
-    "Origin": "Roeselare, Vlaams Gewest Belgium",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-94668_2be61_sm.jpeg",
-    "HallRating": 15.65,
-    "BAR": 8.75,
-    "StylePlus": "113",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.0924493017742589727025524691"
+    "BAR": 7.94,
+    "StylePlus": "112",
+    "RatingScore": 4.50,
+    "AdjustedRating": "2.1130469657615112160566706021"
   },
   {
     "BID": 5023643,
@@ -42,7 +27,22 @@
     "BAR": 7.20,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0583727990298765482316093474"
+    "AdjustedRating": "2.073514517821532980968422683"
+  },
+  {
+    "BID": 1001485,
+    "BeerName": "Rodenbach Caractère Rouge (2013)",
+    "BeerStyle": "Sour - Flanders Red Ale",
+    "BreweryName": "Brouwerij Rodenbach",
+    "Origin": "Roeselare, Vlaams Gewest Belgium",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-94668_2be61_sm.jpeg",
+    "HallRating": 15.65,
+    "BAR": 8.75,
+    "StylePlus": "113",
+    "RatingScore": 4.33,
+    "AdjustedRating": "2.3078915054527801376631933006"
   },
   {
     "BID": 5408103,
@@ -57,7 +57,7 @@
     "BAR": 7.53,
     "StylePlus": "117",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.0596935690451086749406130512"
+    "AdjustedRating": "2.0834565420776818742293464858"
   },
   {
     "BID": 4980786,
@@ -72,22 +72,7 @@
     "BAR": 7.06,
     "StylePlus": "122",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.0577521377419994609520806741"
-  },
-  {
-    "BID": 4600017,
-    "BeerName": "Time Reaper: German Chocolate Cake",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Arvon Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 12.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4600017_2e047_sm.jpeg",
-    "HallRating": 15.62,
-    "BAR": 6.66,
-    "StylePlus": "121",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.0571061403445407860901767978"
+    "AdjustedRating": "2.068801945526800426480566056"
   },
   {
     "BID": 5302922,
@@ -102,7 +87,22 @@
     "BAR": 7.87,
     "StylePlus": "125",
     "RatingScore": 4.13,
-    "AdjustedRating": "2.0619567458685077910313696534"
+    "AdjustedRating": "2.1002486043582795863069114224"
+  },
+  {
+    "BID": 4600017,
+    "BeerName": "Time Reaper: German Chocolate Cake",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Arvon Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4600017_2e047_sm.jpeg",
+    "HallRating": 15.62,
+    "BAR": 6.66,
+    "StylePlus": "121",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.0638932833268558103381267003"
   },
   {
     "BID": 2450084,
@@ -117,7 +117,7 @@
     "BAR": 8.61,
     "StylePlus": "115",
     "RatingScore": 4.27,
-    "AdjustedRating": "2.0831778445784949479716483185"
+    "AdjustedRating": "2.248031096707562456596449367"
   },
   {
     "BID": 6012567,
@@ -132,22 +132,7 @@
     "BAR": 6.58,
     "StylePlus": "113",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0570765677905098627732770352"
-  },
-  {
-    "BID": 6212155,
-    "BeerName": "Master Blend #04",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "Funky Fluid",
-    "Origin": "Warszawa, Mazowieckie Poland",
-    "BeerAbv": 16.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212155_7f9eb_sm.jpeg",
-    "HallRating": 15.60,
-    "BAR": 7.82,
-    "StylePlus": "115",
-    "RatingScore": 4.35,
-    "AdjustedRating": "2.0621094984696441351585935953"
+    "AdjustedRating": "2.0636693950703677785553222922"
   },
   {
     "BID": 5410718,
@@ -162,7 +147,22 @@
     "BAR": 9.48,
     "StylePlus": "112",
     "RatingScore": 4.10,
-    "AdjustedRating": "2.264889771568652089182946583"
+    "AdjustedRating": "3.0080635414453263337708059913"
+  },
+  {
+    "BID": 6212155,
+    "BeerName": "Master Blend #04",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Funky Fluid",
+    "Origin": "Warszawa, Mazowieckie Poland",
+    "BeerAbv": 16.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212155_7f9eb_sm.jpeg",
+    "HallRating": 15.60,
+    "BAR": 7.82,
+    "StylePlus": "115",
+    "RatingScore": 4.35,
+    "AdjustedRating": "2.1014581626373626373626373626"
   },
   {
     "BID": 4979998,
@@ -177,22 +177,7 @@
     "BAR": 8.27,
     "StylePlus": "113",
     "RatingScore": 4.32,
-    "AdjustedRating": "2.0699794830887819977846228548"
-  },
-  {
-    "BID": 6302951,
-    "BeerName": "Blueberry Muffin Fruit In the Can",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Great Notion Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4476202_6c919_sm.jpeg",
-    "HallRating": 15.59,
-    "BAR": 8.30,
-    "StylePlus": "110",
-    "RatingScore": 4.44,
-    "AdjustedRating": "2.0716922886690715681491274859"
+    "AdjustedRating": "2.1583705039373010406389038852"
   },
   {
     "BID": 6402689,
@@ -207,7 +192,22 @@
     "BAR": 5.69,
     "StylePlus": "115",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0564337764830400667609733261"
+    "AdjustedRating": "2.0587616298229554174863175116"
+  },
+  {
+    "BID": 6302951,
+    "BeerName": "Blueberry Muffin Fruit In the Can",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Great Notion Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4476202_6c919_sm.jpeg",
+    "HallRating": 15.59,
+    "BAR": 8.30,
+    "StylePlus": "110",
+    "RatingScore": 4.44,
+    "AdjustedRating": "2.1706783288789903489235337788"
   },
   {
     "BID": 6303290,
@@ -222,7 +222,7 @@
     "BAR": 5.69,
     "StylePlus": "123",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.056414898189515677634056238"
+    "AdjustedRating": "2.0586171115828837426718345247"
   },
   {
     "BID": 3601340,
@@ -237,7 +237,7 @@
     "BAR": 8.71,
     "StylePlus": "108",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.094298591095104762000170304"
+    "AdjustedRating": "2.3210584068767908309455587393"
   },
   {
     "BID": 6204507,
@@ -252,7 +252,7 @@
     "BAR": 4.39,
     "StylePlus": "140",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0561776594861147158058655593"
+    "AdjustedRating": "2.0568014493714062956826819998"
   },
   {
     "BID": 6025563,
@@ -267,7 +267,7 @@
     "BAR": 8.07,
     "StylePlus": "115",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0658092962736806366692932738"
+    "AdjustedRating": "2.1285361538751934765374306316"
   },
   {
     "BID": 5205687,
@@ -282,7 +282,7 @@
     "BAR": 7.46,
     "StylePlus": "114",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0595676694776800119927535311"
+    "AdjustedRating": "2.0825168374783111625216888375"
   },
   {
     "BID": 6608673,
@@ -297,7 +297,7 @@
     "BAR": 5.85,
     "StylePlus": "119",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0564933336148885016091895536"
+    "AdjustedRating": "2.059216971608832807570977918"
   },
   {
     "BID": 1674268,
@@ -312,7 +312,7 @@
     "BAR": 8.40,
     "StylePlus": "114",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.074679723030723613652135512"
+    "AdjustedRating": "2.1911120379667973760398724667"
   },
   {
     "BID": 4212953,
@@ -327,7 +327,7 @@
     "BAR": 7.80,
     "StylePlus": "113",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0623556900048727006943598489"
+    "AdjustedRating": "2.1033073772715980967304274713"
   },
   {
     "BID": 4502685,
@@ -342,36 +342,36 @@
     "BAR": 8.30,
     "StylePlus": "110",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0725712793869057996831436996"
+    "AdjustedRating": "2.1767797780326292035070844586"
   },
   {
-    "BID": 4015512,
-    "BeerName": "Hollow Place: Enhanced Truffle Vanilla Coconut",
+    "BID": 300233,
+    "BeerName": "Fifteen",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "The Veil Brewing Co.",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 10.50,
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 11.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-245461_75a95.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-300233_de568_sm.jpeg",
     "HallRating": 15.53,
-    "BAR": 6.65,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0572138232455928396839002256"
+    "BAR": 7.96,
+    "StylePlus": "111",
+    "RatingScore": 4.49,
+    "AdjustedRating": "2.1216084228499876681401658161"
   },
   {
-    "BID": 3334136,
-    "BeerName": "Black Forest Raspberry Torte Mead",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 14.00,
+    "BID": 5423439,
+    "BeerName": "Raspberry: 2021 Harvest",
+    "BeerStyle": "Farmhouse Ale - Other",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334136_68d07_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
     "HallRating": 15.53,
-    "BAR": 6.64,
-    "StylePlus": "114",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.0571832875357674258898935561"
+    "BAR": 7.36,
+    "StylePlus": "116",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.0787950025099432366683399622"
   }
 ]

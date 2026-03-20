@@ -1,20 +1,5 @@
 [
   {
-    "BID": 5004420,
-    "BeerName": "XYAUYÙ Etichetta Oro/golden Label - RISERVA 2017",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "BIRRIFICIO AGRICOLO BALADIN - Baladin Indipendent Italian Farm Brewery",
-    "Origin": "Piozzo, Piemonte Italy",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-128_c2ca5.jpeg",
-    "HallRating": 15.76,
-    "BAR": 7.68,
-    "StylePlus": "114",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.060431409575238187161388153"
-  },
-  {
     "BID": 5805024,
     "BeerName": "Eisbock",
     "BeerStyle": "Bock - Eisbock",
@@ -27,7 +12,22 @@
     "BAR": 4.87,
     "StylePlus": "120",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0562280821346876566424011419"
+    "AdjustedRating": "2.0571875654817586529466791394"
+  },
+  {
+    "BID": 5004420,
+    "BeerName": "XYAUYÙ Etichetta Oro/golden Label - RISERVA 2017",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "BIRRIFICIO AGRICOLO BALADIN - Baladin Indipendent Italian Farm Brewery",
+    "Origin": "Piozzo, Piemonte Italy",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-128_c2ca5.jpeg",
+    "HallRating": 15.76,
+    "BAR": 7.68,
+    "StylePlus": "114",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.0889978916195530941117649321"
   },
   {
     "BID": 6302305,
@@ -42,7 +42,7 @@
     "BAR": 6.85,
     "StylePlus": "122",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.0572948975546484568725441575"
+    "AdjustedRating": "2.0653301037014021050996232571"
   },
   {
     "BID": 3624912,
@@ -57,22 +57,7 @@
     "BAR": 9.48,
     "StylePlus": "111",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.2355757834627427303744682046"
-  },
-  {
-    "BID": 834931,
-    "BeerName": "Fruit Stand - Apricot",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Casey Brewing & Blending",
-    "Origin": "Glenwood Springs, CO United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-834931_d52a7_sm.jpeg",
-    "HallRating": 15.74,
-    "BAR": 8.40,
-    "StylePlus": "116",
-    "RatingScore": 4.28,
-    "AdjustedRating": "2.0712979778619047859731411329"
+    "AdjustedRating": "2.9518680100437956204379562044"
   },
   {
     "BID": 3345681,
@@ -87,7 +72,7 @@
     "BAR": 6.63,
     "StylePlus": "119",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0570156412001709297356693731"
+    "AdjustedRating": "2.0632039025717784732616682542"
   },
   {
     "BID": 3024431,
@@ -102,22 +87,22 @@
     "BAR": 9.48,
     "StylePlus": "109",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.2473811557061565965203369828"
+    "AdjustedRating": "3.0055692620688055304242930383"
   },
   {
-    "BID": 6428582,
-    "BeerName": "Stevnsberry CRYO (2024)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 11.00,
+    "BID": 834931,
+    "BeerName": "Fruit Stand - Apricot",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Casey Brewing & Blending",
+    "Origin": "Glenwood Springs, CO United States",
+    "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6428582_63ea3_sm.jpeg",
-    "HallRating": 15.73,
-    "BAR": 4.05,
-    "StylePlus": "119",
-    "RatingScore": 4.75,
-    "AdjustedRating": "2.0561594018452832301107882403"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-834931_d52a7_sm.jpeg",
+    "HallRating": 15.74,
+    "BAR": 8.40,
+    "StylePlus": "116",
+    "RatingScore": 4.28,
+    "AdjustedRating": "2.1675742793118136192751449155"
   },
   {
     "BID": 1669829,
@@ -132,7 +117,22 @@
     "BAR": 9.09,
     "StylePlus": "112",
     "RatingScore": 4.32,
-    "AdjustedRating": "2.1275764952809963381517276728"
+    "AdjustedRating": "2.5086553055143904531627798144"
+  },
+  {
+    "BID": 6428582,
+    "BeerName": "Stevnsberry CRYO (2024)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6428582_63ea3_sm.jpeg",
+    "HallRating": 15.73,
+    "BAR": 4.05,
+    "StylePlus": "119",
+    "RatingScore": 4.75,
+    "AdjustedRating": "2.0566616315471433305393657044"
   },
   {
     "BID": 2615973,
@@ -147,7 +147,7 @@
     "BAR": 9.25,
     "StylePlus": "110",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.1650234863851699279093717817"
+    "AdjustedRating": "2.6895075430439315805788035055"
   },
   {
     "BID": 5505525,
@@ -162,37 +162,7 @@
     "BAR": 6.99,
     "StylePlus": "120",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.057604412628259736296710702"
-  },
-  {
-    "BID": 5813722,
-    "BeerName": "Milaana (Blend No. 3)",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "More Brewing Company",
-    "Origin": "Huntley, IL United States",
-    "BeerAbv": 16.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5813722_8eeb1_sm.jpeg",
-    "HallRating": 15.71,
-    "BAR": 7.27,
-    "StylePlus": "116",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.0583758388810648390590125428"
-  },
-  {
-    "BID": 2039108,
-    "BeerName": "Three Magic Letters",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2039108_79b8c_sm.jpeg",
-    "HallRating": 15.71,
-    "BAR": 9.03,
-    "StylePlus": "114",
-    "RatingScore": 4.24,
-    "AdjustedRating": "2.1172665754282520194500368522"
+    "AdjustedRating": "2.0676836947074344249573180196"
   },
   {
     "BID": 2238264,
@@ -207,7 +177,37 @@
     "BAR": 8.86,
     "StylePlus": "119",
     "RatingScore": 4.12,
-    "AdjustedRating": "2.0951900046282774270372284257"
+    "AdjustedRating": "2.322135671875"
+  },
+  {
+    "BID": 2039108,
+    "BeerName": "Three Magic Letters",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2039108_79b8c_sm.jpeg",
+    "HallRating": 15.71,
+    "BAR": 9.03,
+    "StylePlus": "114",
+    "RatingScore": 4.24,
+    "AdjustedRating": "2.4511399198300780938083906926"
+  },
+  {
+    "BID": 5813722,
+    "BeerName": "Milaana (Blend No. 3)",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "More Brewing Company",
+    "Origin": "Huntley, IL United States",
+    "BeerAbv": 16.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5813722_8eeb1_sm.jpeg",
+    "HallRating": 15.71,
+    "BAR": 7.27,
+    "StylePlus": "116",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.0735312128190737909546571711"
   },
   {
     "BID": 3812350,
@@ -222,7 +222,7 @@
     "BAR": 8.74,
     "StylePlus": "117",
     "RatingScore": 4.10,
-    "AdjustedRating": "2.0860126400505477257284413699"
+    "AdjustedRating": "2.2650192256257657973043934885"
   },
   {
     "BID": 5005537,
@@ -237,7 +237,7 @@
     "BAR": 7.04,
     "StylePlus": "119",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0577490343582493363304413275"
+    "AdjustedRating": "2.0687821350863924602943743092"
   },
   {
     "BID": 3833292,
@@ -252,37 +252,7 @@
     "BAR": 8.66,
     "StylePlus": "112",
     "RatingScore": 4.32,
-    "AdjustedRating": "2.0841887343383651939657880386"
-  },
-  {
-    "BID": 6211448,
-    "BeerName": "В Собственном Соку: Клюква",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "DIETA / ДИЕТА",
-    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6211448_f389d_sm.jpeg",
-    "HallRating": 15.68,
-    "BAR": 7.20,
-    "StylePlus": "122",
-    "RatingScore": 4.27,
-    "AdjustedRating": "2.0580595950699391369342709398"
-  },
-  {
-    "BID": 6604318,
-    "BeerName": "Doozie Mallow",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Drafting Table Brewing Company",
-    "Origin": "Wixom, MI United States",
-    "BeerAbv": 13.20,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6604318_f4359_sm.jpeg",
-    "HallRating": 15.68,
-    "BAR": 5.92,
-    "StylePlus": "115",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.0565178771628542425144444699"
+    "AdjustedRating": "2.2549768515027565356571225325"
   },
   {
     "BID": 4500116,
@@ -297,7 +267,37 @@
     "BAR": 8.96,
     "StylePlus": "112",
     "RatingScore": 4.26,
-    "AdjustedRating": "2.111210195780913134841579565"
+    "AdjustedRating": "2.4181364198657368180929414065"
+  },
+  {
+    "BID": 6604318,
+    "BeerName": "Doozie Mallow",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Drafting Table Brewing Company",
+    "Origin": "Wixom, MI United States",
+    "BeerAbv": 13.20,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6604318_f4359_sm.jpeg",
+    "HallRating": 15.68,
+    "BAR": 5.92,
+    "StylePlus": "115",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.0594047114261235298699275645"
+  },
+  {
+    "BID": 6211448,
+    "BeerName": "В Собственном Соку: Клюква",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "DIETA / ДИЕТА",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6211448_f389d_sm.jpeg",
+    "HallRating": 15.68,
+    "BAR": 7.20,
+    "StylePlus": "122",
+    "RatingScore": 4.27,
+    "AdjustedRating": "2.0711318208400302085552177533"
   },
   {
     "BID": 4010086,
@@ -312,37 +312,22 @@
     "BAR": 8.53,
     "StylePlus": "112",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0791834011491356282445441258"
+    "AdjustedRating": "2.2223842660425624557774995918"
   },
   {
-    "BID": 4422811,
-    "BeerName": "The Morning After Den Haag",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Hoppin' Frog Brewery",
-    "Origin": "Akron, OH United States",
-    "BeerAbv": 16.65,
+    "BID": 5206901,
+    "BeerName": "Interception of Entropy 1000 Days (2023)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Incendiary Brewing Company",
+    "Origin": "Winston-Salem, NC United States",
+    "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4422811_fd17f_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-393444_b28e5.jpeg",
     "HallRating": 15.66,
-    "BAR": 8.05,
-    "StylePlus": "115",
-    "RatingScore": 4.31,
-    "AdjustedRating": "2.0646599100716871318049542196"
-  },
-  {
-    "BID": 6425109,
-    "BeerName": "FH Sitra Achra (2025)",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Brujos Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 9.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6425109_157d3_sm.jpeg",
-    "HallRating": 15.66,
-    "BAR": 7.94,
-    "StylePlus": "112",
-    "RatingScore": 4.50,
-    "AdjustedRating": "2.0636721262356835736844107911"
+    "BAR": 6.34,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.0615495789883268482490272374"
   },
   {
     "BID": 4700765,
@@ -357,7 +342,22 @@
     "BAR": 7.57,
     "StylePlus": "118",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.059749430293114924015710025"
+    "AdjustedRating": "2.0838666813009069377852232684"
+  },
+  {
+    "BID": 4422811,
+    "BeerName": "The Morning After Den Haag",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Hoppin' Frog Brewery",
+    "Origin": "Akron, OH United States",
+    "BeerAbv": 16.65,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4422811_fd17f_sm.jpeg",
+    "HallRating": 15.66,
+    "BAR": 8.05,
+    "StylePlus": "115",
+    "RatingScore": 4.31,
+    "AdjustedRating": "2.1201693159818908526074520278"
   },
   {
     "BID": 4982467,
@@ -372,6 +372,6 @@
     "BAR": 7.09,
     "StylePlus": "122",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.0578029907423181072731664527"
+    "AdjustedRating": "2.0691876644571074155909601892"
   }
 ]

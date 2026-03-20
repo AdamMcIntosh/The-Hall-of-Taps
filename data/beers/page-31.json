@@ -1,48 +1,18 @@
 [
   {
-    "BID": 1676315,
-    "BeerName": "Trash Panda",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "Jackie O’s Brewery",
-    "Origin": "Athens, OH United States",
-    "BeerAbv": 8.70,
+    "BID": 4940924,
+    "BeerName": "Hedera Helix",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Greenhouse Brewery",
+    "Origin": "Belo Horizonte, Minas Gerais Brazil",
+    "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-5083_11517.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940924_fe1cb_sm.jpeg",
     "HallRating": 15.30,
-    "BAR": 6.97,
-    "StylePlus": "119",
-    "RatingScore": 4.28,
-    "AdjustedRating": "2.0579159890774570001144121124"
-  },
-  {
-    "BID": 6500489,
-    "BeerName": "House Saturated Ale",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "RaR Brewing",
-    "Origin": "Cambridge, MD United States",
-    "BeerAbv": 7.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6500489_0c71e_sm.jpeg",
-    "HallRating": 15.29,
-    "BAR": 7.00,
-    "StylePlus": "115",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.0581533294960224340313883218"
-  },
-  {
-    "BID": 6027582,
-    "BeerName": "Vales",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Wheatland Spring Farm + Brewery",
-    "Origin": "Waterford, VA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6027582_86658_sm.jpeg",
-    "HallRating": 15.29,
-    "BAR": 6.93,
-    "StylePlus": "131",
-    "RatingScore": 4.07,
-    "AdjustedRating": "2.0576560197204155627539423033"
+    "BAR": 7.09,
+    "StylePlus": "124",
+    "RatingScore": 4.19,
+    "AdjustedRating": "2.072105506405046634931692403"
   },
   {
     "BID": 3338674,
@@ -57,22 +27,7 @@
     "BAR": 7.31,
     "StylePlus": "116",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0594514024606534300248504652"
-  },
-  {
-    "BID": 6041336,
-    "BeerName": "Tequila Barrel Aged Rage Virus",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6041336_0ea97_sm.jpeg",
-    "HallRating": 15.29,
-    "BAR": 6.54,
-    "StylePlus": "128",
-    "RatingScore": 4.25,
-    "AdjustedRating": "2.0570605221306013236139442373"
+    "AdjustedRating": "2.0816419177289645729273137523"
   },
   {
     "BID": 1403426,
@@ -87,7 +42,52 @@
     "BAR": 8.30,
     "StylePlus": "116",
     "RatingScore": 4.22,
-    "AdjustedRating": "2.0760834354215354827974799386"
+    "AdjustedRating": "2.200434317635926923356867312"
+  },
+  {
+    "BID": 6041336,
+    "BeerName": "Tequila Barrel Aged Rage Virus",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6041336_0ea97_sm.jpeg",
+    "HallRating": 15.29,
+    "BAR": 6.54,
+    "StylePlus": "128",
+    "RatingScore": 4.25,
+    "AdjustedRating": "2.063544124356358690372097542"
+  },
+  {
+    "BID": 6500489,
+    "BeerName": "House Saturated Ale",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "RaR Brewing",
+    "Origin": "Cambridge, MD United States",
+    "BeerAbv": 7.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6500489_0c71e_sm.jpeg",
+    "HallRating": 15.29,
+    "BAR": 7.00,
+    "StylePlus": "115",
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.0718486995932597327135386403"
+  },
+  {
+    "BID": 6027582,
+    "BeerName": "Vales",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Wheatland Spring Farm + Brewery",
+    "Origin": "Waterford, VA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6027582_86658_sm.jpeg",
+    "HallRating": 15.29,
+    "BAR": 6.93,
+    "StylePlus": "131",
+    "RatingScore": 4.07,
+    "AdjustedRating": "2.0680667162819543771924724306"
   },
   {
     "BID": 5818516,
@@ -102,7 +102,7 @@
     "BAR": 6.53,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0572029556065376965454795176"
+    "AdjustedRating": "2.0646322424948994462255902069"
   },
   {
     "BID": 6303482,
@@ -117,7 +117,7 @@
     "BAR": 7.27,
     "StylePlus": "113",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0593951983472334456523396405"
+    "AdjustedRating": "2.0812288138013546631674417707"
   },
   {
     "BID": 6004992,
@@ -132,37 +132,7 @@
     "BAR": 6.97,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0581617188141970914268280281"
-  },
-  {
-    "BID": 3602624,
-    "BeerName": "Sometimes Why",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Sante Adairius Rustic Ales",
-    "Origin": "Capitola, CA United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
-    "HallRating": 15.26,
-    "BAR": 7.17,
-    "StylePlus": "118",
-    "RatingScore": 4.35,
-    "AdjustedRating": "2.058760089576820434616850934"
-  },
-  {
-    "BID": 6214111,
-    "BeerName": "Golden Delicious",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Greenhouse Aleworks",
-    "Origin": "Bentonville, AR United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6214111_c2c74_sm.jpeg",
-    "HallRating": 15.26,
-    "BAR": 5.21,
-    "StylePlus": "115",
-    "RatingScore": 4.66,
-    "AdjustedRating": "2.0563225102702867741910861086"
+    "AdjustedRating": "2.0719155419516069664270907999"
   },
   {
     "BID": 6016833,
@@ -177,7 +147,22 @@
     "BAR": 8.71,
     "StylePlus": "110",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.1131175451233775424812580859"
+    "AdjustedRating": "2.4325684090089499393502278464"
+  },
+  {
+    "BID": 3602624,
+    "BeerName": "Sometimes Why",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Sante Adairius Rustic Ales",
+    "Origin": "Capitola, CA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
+    "HallRating": 15.26,
+    "BAR": 7.17,
+    "StylePlus": "118",
+    "RatingScore": 4.35,
+    "AdjustedRating": "2.0764304307329610234014183849"
   },
   {
     "BID": 6410194,
@@ -192,7 +177,7 @@
     "BAR": 7.05,
     "StylePlus": "118",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.058299413889354951876878022"
+    "AdjustedRating": "2.0729516763766573115261782638"
   },
   {
     "BID": 5950080,
@@ -207,7 +192,22 @@
     "BAR": 5.57,
     "StylePlus": "112",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.0564351249325775231271816896"
+    "AdjustedRating": "2.0587719525543891085444948678"
+  },
+  {
+    "BID": 6214111,
+    "BeerName": "Golden Delicious",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Greenhouse Aleworks",
+    "Origin": "Bentonville, AR United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6214111_c2c74_sm.jpeg",
+    "HallRating": 15.26,
+    "BAR": 5.21,
+    "StylePlus": "115",
+    "RatingScore": 4.66,
+    "AdjustedRating": "2.0579103838210653469976230371"
   },
   {
     "BID": 2503835,
@@ -222,22 +222,7 @@
     "BAR": 7.91,
     "StylePlus": "116",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.0658734504412066488815924482"
-  },
-  {
-    "BID": 6503149,
-    "BeerName": "Path To Horizon",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Private Press Brewing",
-    "Origin": "Santa Cruz, CA United States",
-    "BeerAbv": 15.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6503149_b52c2_sm.jpeg",
-    "HallRating": 15.24,
-    "BAR": 6.34,
-    "StylePlus": "115",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0569426427117885268920046397"
+    "AdjustedRating": "2.1289735976759978872708066098"
   },
   {
     "BID": 5218840,
@@ -252,67 +237,22 @@
     "BAR": 7.31,
     "StylePlus": "129",
     "RatingScore": 4.01,
-    "AdjustedRating": "2.0589882443136776632721507409"
+    "AdjustedRating": "2.0781185226024096385542168675"
   },
   {
-    "BID": 2801955,
-    "BeerName": "Orange Crush",
-    "BeerStyle": "IPA - Fruited",
-    "BreweryName": "Finback Brewery",
-    "Origin": "Queens, NY United States",
-    "BeerAbv": 8.30,
+    "BID": 6503149,
+    "BeerName": "Path To Horizon",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Private Press Brewing",
+    "Origin": "Santa Cruz, CA United States",
+    "BeerAbv": 15.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2801955_f9be6_sm.jpeg",
-    "HallRating": 15.23,
-    "BAR": 8.76,
-    "StylePlus": "114",
-    "RatingScore": 4.21,
-    "AdjustedRating": "2.1167471122310697858449972798"
-  },
-  {
-    "BID": 4943808,
-    "BeerName": "JJJuiceee Project",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4301086_b2308_sm.jpeg",
-    "HallRating": 15.23,
-    "BAR": 8.82,
-    "StylePlus": "109",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.1338288967506040638363835891"
-  },
-  {
-    "BID": 2207745,
-    "BeerName": "Difference & Repetition: Amarillo®, Galaxy & Simcoe®",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2189043_e365d_sm.jpeg",
-    "HallRating": 15.23,
-    "BAR": 8.33,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6503149_b52c2_sm.jpeg",
+    "HallRating": 15.24,
+    "BAR": 6.34,
     "StylePlus": "115",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.0794656342291763698845684218"
-  },
-  {
-    "BID": 6020086,
-    "BeerName": "Smooth Ops Pina Colada",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "3 Sons Brewing Co.",
-    "Origin": "Dania Beach, FL United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4407976_8f991_sm.jpeg",
-    "HallRating": 15.23,
-    "BAR": 8.15,
-    "StylePlus": "122",
-    "RatingScore": 4.05,
-    "AdjustedRating": "2.0702748737872908076643220956"
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0626477990160810469208781379"
   },
   {
     "BID": 6425902,
@@ -327,7 +267,67 @@
     "BAR": 5.97,
     "StylePlus": "121",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0566099447283865502178962392"
+    "AdjustedRating": "2.0601079951728433509810028029"
+  },
+  {
+    "BID": 4943808,
+    "BeerName": "JJJuiceee Project",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4301086_b2308_sm.jpeg",
+    "HallRating": 15.23,
+    "BAR": 8.82,
+    "StylePlus": "109",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.5443416061687759800967348137"
+  },
+  {
+    "BID": 2207745,
+    "BeerName": "Difference & Repetition: Amarillo®, Galaxy & Simcoe®",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2189043_e365d_sm.jpeg",
+    "HallRating": 15.23,
+    "BAR": 8.33,
+    "StylePlus": "115",
+    "RatingScore": 4.26,
+    "AdjustedRating": "2.223410715624099164024214471"
+  },
+  {
+    "BID": 6020086,
+    "BeerName": "Smooth Ops Pina Colada",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "3 Sons Brewing Co.",
+    "Origin": "Dania Beach, FL United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4407976_8f991_sm.jpeg",
+    "HallRating": 15.23,
+    "BAR": 8.15,
+    "StylePlus": "122",
+    "RatingScore": 4.05,
+    "AdjustedRating": "2.1598942532389524460790655553"
+  },
+  {
+    "BID": 2801955,
+    "BeerName": "Orange Crush",
+    "BeerStyle": "IPA - Fruited",
+    "BreweryName": "Finback Brewery",
+    "Origin": "Queens, NY United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2801955_f9be6_sm.jpeg",
+    "HallRating": 15.23,
+    "BAR": 8.76,
+    "StylePlus": "114",
+    "RatingScore": 4.21,
+    "AdjustedRating": "2.4474582932082515675106494998"
   },
   {
     "BID": 2628021,
@@ -342,22 +342,7 @@
     "BAR": 9.69,
     "StylePlus": "110",
     "RatingScore": 4.23,
-    "AdjustedRating": "2.7398558871903997767389939301"
-  },
-  {
-    "BID": 6008204,
-    "BeerName": "Nobody's Robot",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Dancing Gnome",
-    "Origin": "Pittsburgh, PA United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2316751_d7b8a_sm.jpeg",
-    "HallRating": 15.21,
-    "BAR": 8.32,
-    "StylePlus": "113",
-    "RatingScore": 4.34,
-    "AdjustedRating": "2.0803598755428447709415351461"
+    "AdjustedRating": "3.7486053318596488198291159188"
   },
   {
     "BID": 6407206,
@@ -372,6 +357,21 @@
     "BAR": 7.20,
     "StylePlus": "121",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.0589479994307366623378933699"
+    "AdjustedRating": "2.0778441467464761536976250241"
+  },
+  {
+    "BID": 1602257,
+    "BeerName": "Darkstar November",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Bottle Logic Brewing",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 13.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1602257_86dda_sm.jpeg",
+    "HallRating": 15.21,
+    "BAR": 8.66,
+    "StylePlus": "109",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.4151509418612342086116806667"
   }
 ]

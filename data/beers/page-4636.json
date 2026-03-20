@@ -1,18 +1,18 @@
 [
   {
-    "BID": 2450390,
-    "BeerName": "Botnabakken",
-    "BeerStyle": "Porter - Baltic",
-    "BreweryName": "Turken Brygg As",
-    "Origin": "Leikanger, Vestland Norway",
-    "BeerAbv": 4.70,
+    "BID": 2703991,
+    "BeerName": "Hong Ri Pi Jiu",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Hongri",
+    "Origin": "China / People's Republic of China",
+    "BeerAbv": 3.30,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-316380_1cfe9.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": -14.75,
-    "BAR": -5.82,
-    "StylePlus": "75",
-    "RatingScore": 2.83,
-    "AdjustedRating": "2.0562611961504117471971425737"
+    "BAR": -4.35,
+    "StylePlus": "65",
+    "RatingScore": 2.24,
+    "AdjustedRating": "2.0561485218679348249785608482"
   },
   {
     "BID": 6502534,
@@ -27,7 +27,7 @@
     "BAR": -9.04,
     "StylePlus": "80",
     "RatingScore": 2.75,
-    "AdjustedRating": "2.1437985734158784497226884218"
+    "AdjustedRating": "2.4209233903507960870610425874"
   },
   {
     "BID": 3227670,
@@ -42,7 +42,7 @@
     "BAR": -6.02,
     "StylePlus": "82",
     "RatingScore": 3.37,
-    "AdjustedRating": "2.0564750583656399768002686285"
+    "AdjustedRating": "2.0590744132122084541015814967"
   },
   {
     "BID": 2210731,
@@ -57,52 +57,7 @@
     "BAR": -6.68,
     "StylePlus": "73",
     "RatingScore": 2.49,
-    "AdjustedRating": "2.0564127835866245941279822217"
-  },
-  {
-    "BID": 3550978,
-    "BeerName": "New Garash Cake",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Beer Bastards Brewing",
-    "Origin": "Burgas, Bulgaria",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3550978_b610d_sm.jpeg",
-    "HallRating": -14.79,
-    "BAR": -7.60,
-    "StylePlus": "86",
-    "RatingScore": 3.58,
-    "AdjustedRating": "2.0618477025473848049218851002"
-  },
-  {
-    "BID": 1817905,
-    "BeerName": "Julefrokost",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Fur Bryghus",
-    "Origin": "Fur, Region Midtjylland Denmark",
-    "BeerAbv": 2.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-10812_414d6.jpeg",
-    "HallRating": -14.79,
-    "BAR": -7.10,
-    "StylePlus": "76",
-    "RatingScore": 2.67,
-    "AdjustedRating": "2.0569996220418824222898637627"
-  },
-  {
-    "BID": 2927,
-    "BeerName": "Barbary Coast Gold Rush",
-    "BeerStyle": "California Common",
-    "BreweryName": "Minhas Craft Brewery",
-    "Origin": "Monroe, WI United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2927_bc827_sm.jpeg",
-    "HallRating": -14.79,
-    "BAR": -6.04,
-    "StylePlus": "72",
-    "RatingScore": 2.53,
-    "AdjustedRating": "2.0562262559341047902744531415"
+    "AdjustedRating": "2.0585905319066449561913623323"
   },
   {
     "BID": 5040447,
@@ -117,7 +72,52 @@
     "BAR": -6.59,
     "StylePlus": "78",
     "RatingScore": 3.02,
-    "AdjustedRating": "2.0567139495788916917568557246"
+    "AdjustedRating": "2.0608898356839389295206316565"
+  },
+  {
+    "BID": 3550978,
+    "BeerName": "New Garash Cake",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Beer Bastards Brewing",
+    "Origin": "Burgas, Bulgaria",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3550978_b610d_sm.jpeg",
+    "HallRating": -14.79,
+    "BAR": -7.60,
+    "StylePlus": "86",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.0991608571103785381380015915"
+  },
+  {
+    "BID": 1817905,
+    "BeerName": "Julefrokost",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Fur Bryghus",
+    "Origin": "Fur, Region Midtjylland Denmark",
+    "BeerAbv": 2.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-10812_414d6.jpeg",
+    "HallRating": -14.79,
+    "BAR": -7.10,
+    "StylePlus": "76",
+    "RatingScore": 2.67,
+    "AdjustedRating": "2.0630305985311409680590627831"
+  },
+  {
+    "BID": 2927,
+    "BeerName": "Barbary Coast Gold Rush",
+    "BeerStyle": "California Common",
+    "BreweryName": "Minhas Craft Brewery",
+    "Origin": "Monroe, WI United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2927_bc827_sm.jpeg",
+    "HallRating": -14.79,
+    "BAR": -6.04,
+    "StylePlus": "72",
+    "RatingScore": 2.53,
+    "AdjustedRating": "2.0571718090569561157796451914"
   },
   {
     "BID": 2618191,
@@ -132,7 +132,7 @@
     "BAR": -7.53,
     "StylePlus": "76",
     "RatingScore": 2.61,
-    "AdjustedRating": "2.0578850878553692492257902519"
+    "AdjustedRating": "2.0695915765046032108346648406"
   },
   {
     "BID": 5807543,
@@ -147,7 +147,7 @@
     "BAR": -5.08,
     "StylePlus": "75",
     "RatingScore": 2.89,
-    "AdjustedRating": "2.0561625055822994799352717873"
+    "AdjustedRating": "2.0566851434917294990940440704"
   },
   {
     "BID": 2600632,
@@ -162,22 +162,7 @@
     "BAR": -7.39,
     "StylePlus": "81",
     "RatingScore": 3.04,
-    "AdjustedRating": "2.0584716909736588932013697274"
-  },
-  {
-    "BID": 5035446,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Grape-Vine Kft. (Kézműves Sör)",
-    "Origin": "Hungary",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -14.84,
-    "BAR": -5.31,
-    "StylePlus": "74",
-    "RatingScore": 2.76,
-    "AdjustedRating": "2.056168175199344592634808848"
+    "AdjustedRating": "2.0740877456647398843930635838"
   },
   {
     "BID": 5476506,
@@ -192,7 +177,7 @@
     "BAR": -4.49,
     "StylePlus": "65",
     "RatingScore": 2.33,
-    "AdjustedRating": "2.0560979393553869993460742829"
+    "AdjustedRating": "2.0561907690508672773338530501"
   },
   {
     "BID": 6021293,
@@ -207,7 +192,22 @@
     "BAR": -6.58,
     "StylePlus": "82",
     "RatingScore": 3.31,
-    "AdjustedRating": "2.0568652342206715560121657224"
+    "AdjustedRating": "2.0620451801688173086252061706"
+  },
+  {
+    "BID": 5035446,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Grape-Vine Kft. (Kézműves Sör)",
+    "Origin": "Hungary",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -14.84,
+    "BAR": -5.31,
+    "StylePlus": "74",
+    "RatingScore": 2.76,
+    "AdjustedRating": "2.0567284484874457019303815961"
   },
   {
     "BID": 2900859,
@@ -222,7 +222,7 @@
     "BAR": -7.58,
     "StylePlus": "75",
     "RatingScore": 2.58,
-    "AdjustedRating": "2.0578709710602126105656090238"
+    "AdjustedRating": "2.0694718031727937684050536715"
   },
   {
     "BID": 1232892,
@@ -237,7 +237,7 @@
     "BAR": -5.86,
     "StylePlus": "73",
     "RatingScore": 2.76,
-    "AdjustedRating": "2.0562451689193830279255420638"
+    "AdjustedRating": "2.0573170175165434021019852083"
   },
   {
     "BID": 1672333,
@@ -252,7 +252,7 @@
     "BAR": -4.38,
     "StylePlus": "75",
     "RatingScore": 2.86,
-    "AdjustedRating": "2.0561208197369525888720105646"
+    "AdjustedRating": "2.0563660318079051999688157792"
   },
   {
     "BID": 4982060,
@@ -267,7 +267,7 @@
     "BAR": -6.21,
     "StylePlus": "79",
     "RatingScore": 3.06,
-    "AdjustedRating": "2.0564466153795280477599183991"
+    "AdjustedRating": "2.0588557388396329133613314668"
   },
   {
     "BID": 1903101,
@@ -282,22 +282,7 @@
     "BAR": -8.24,
     "StylePlus": "77",
     "RatingScore": 2.65,
-    "AdjustedRating": "2.0640724772598901967872393303"
-  },
-  {
-    "BID": 3335923,
-    "BeerName": "Booty Chainz",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Cellarmen’s",
-    "Origin": "Hazel Park, MI United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-231334_95970.jpeg",
-    "HallRating": -14.88,
-    "BAR": -4.39,
-    "StylePlus": "77",
-    "RatingScore": 3.08,
-    "AdjustedRating": "2.0561308958420799523675030343"
+    "AdjustedRating": "2.1122590093207174127948029939"
   },
   {
     "BID": 5504571,
@@ -312,7 +297,22 @@
     "BAR": -7.45,
     "StylePlus": "86",
     "RatingScore": 3.46,
-    "AdjustedRating": "2.0597184018821809543388382558"
+    "AdjustedRating": "2.0834591542726056203402791053"
+  },
+  {
+    "BID": 3335923,
+    "BeerName": "Booty Chainz",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Cellarmen’s",
+    "Origin": "Hazel Park, MI United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-231334_95970.jpeg",
+    "HallRating": -14.88,
+    "BAR": -4.39,
+    "StylePlus": "77",
+    "RatingScore": 3.08,
+    "AdjustedRating": "2.0564432127543463007718094644"
   },
   {
     "BID": 5620514,
@@ -327,7 +327,7 @@
     "BAR": -7.17,
     "StylePlus": "85",
     "RatingScore": 3.44,
-    "AdjustedRating": "2.0582358042088093840748165029"
+    "AdjustedRating": "2.0724023806404377480636584332"
   },
   {
     "BID": 9059,
@@ -342,7 +342,7 @@
     "BAR": -6.63,
     "StylePlus": "75",
     "RatingScore": 2.72,
-    "AdjustedRating": "2.0565128285013159735025238719"
+    "AdjustedRating": "2.0593556642868229085829582493"
   },
   {
     "BID": 5702895,
@@ -357,21 +357,21 @@
     "BAR": -8.22,
     "StylePlus": "81",
     "RatingScore": 2.99,
-    "AdjustedRating": "2.0674343990689396871999316284"
+    "AdjustedRating": "2.1365380554120267260579064588"
   },
   {
-    "BID": 5214931,
-    "BeerName": "Mørk Malstrøm",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "Kingspot Brewhouse",
-    "Origin": "Varde, Region Syddanmark Denmark",
-    "BeerAbv": 4.50,
-    "BeerIbu": 21.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-482414_02e2b.jpeg",
+    "BID": 4222712,
+    "BeerName": "Lime",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Viper Hard Seltzer",
+    "Origin": "Plzeň-město, Plzeňský kraj Czech Republic",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4226445_0b7ee_sm.jpeg",
     "HallRating": -14.92,
-    "BAR": -5.04,
-    "StylePlus": "76",
-    "RatingScore": 2.91,
-    "AdjustedRating": "2.0561578709853062782265759176"
+    "BAR": -7.96,
+    "StylePlus": "72",
+    "RatingScore": 2.57,
+    "AdjustedRating": "2.0818478500657443932070300202"
   }
 ]

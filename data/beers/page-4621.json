@@ -1,18 +1,18 @@
 [
   {
-    "BID": 2406040,
-    "BeerName": "Imperial Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Brasserie des Cimes",
-    "Origin": "Aix-les-Bains, Auvergne-Rhône-Alpes France",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2406040_66312_sm.jpeg",
+    "BID": 3402681,
+    "BeerName": "Zwönitzer Rauchbier",
+    "BeerStyle": "Rauchbier",
+    "BreweryName": "Brauerei Zwönitz",
+    "Origin": "Zwönitz, Sachsen Germany",
+    "BeerAbv": 5.00,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-770108_da858_sm.jpeg",
     "HallRating": -12.58,
-    "BAR": -6.03,
-    "StylePlus": "87",
-    "RatingScore": 3.52,
-    "AdjustedRating": "2.058226495727538132008018965"
+    "BAR": -7.41,
+    "StylePlus": "85",
+    "RatingScore": 3.01,
+    "AdjustedRating": "2.323670772511117033961311319"
   },
   {
     "BID": 5606693,
@@ -27,22 +27,7 @@
     "BAR": -5.67,
     "StylePlus": "74",
     "RatingScore": 2.59,
-    "AdjustedRating": "2.0564763457180634662327095199"
-  },
-  {
-    "BID": 203331,
-    "BeerName": "Kaltenberg Pils 3.5%",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Krönleins Bryggeri",
-    "Origin": "Halmstad, Hallands län Sweden",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-203331_a9a79_sm.jpeg",
-    "HallRating": -12.59,
-    "BAR": -6.39,
-    "StylePlus": "73",
-    "RatingScore": 2.47,
-    "AdjustedRating": "2.0573869631181639237809208791"
+    "AdjustedRating": "2.0590755609841214447740359449"
   },
   {
     "BID": 3018138,
@@ -57,7 +42,22 @@
     "BAR": -5.93,
     "StylePlus": "74",
     "RatingScore": 2.56,
-    "AdjustedRating": "2.0566846623392466832714888426"
+    "AdjustedRating": "2.0606500967947603315365443691"
+  },
+  {
+    "BID": 203331,
+    "BeerName": "Kaltenberg Pils 3.5%",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Krönleins Bryggeri",
+    "Origin": "Halmstad, Hallands län Sweden",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-203331_a9a79_sm.jpeg",
+    "HallRating": -12.59,
+    "BAR": -6.39,
+    "StylePlus": "73",
+    "RatingScore": 2.47,
+    "AdjustedRating": "2.0658624119091584017056595153"
   },
   {
     "BID": 3335130,
@@ -72,22 +72,7 @@
     "BAR": -7.06,
     "StylePlus": "84",
     "RatingScore": 3.22,
-    "AdjustedRating": "2.0754829883098295517099876893"
-  },
-  {
-    "BID": 1676497,
-    "BeerName": "Raspberry Flashback",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Mondo Brewing Company",
-    "Origin": "London, Greater London England",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1676497_18b3c_sm.jpeg",
-    "HallRating": -12.61,
-    "BAR": -4.76,
-    "StylePlus": "79",
-    "RatingScore": 3.02,
-    "AdjustedRating": "2.0562458555476686587441516116"
+    "AdjustedRating": "2.1898667557074079826059947197"
   },
   {
     "BID": 5827405,
@@ -102,22 +87,7 @@
     "BAR": -6.05,
     "StylePlus": "87",
     "RatingScore": 3.62,
-    "AdjustedRating": "2.0583926886160600855751933573"
-  },
-  {
-    "BID": 5030130,
-    "BeerName": "Best Bräu Lager Beer",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Eurospin",
-    "Origin": "Italy",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4550199_2a9c4_sm.jpeg",
-    "HallRating": -12.61,
-    "BAR": -5.33,
-    "StylePlus": "72",
-    "RatingScore": 2.49,
-    "AdjustedRating": "2.0562583835746752503503760661"
+    "AdjustedRating": "2.0736012099246206936438472364"
   },
   {
     "BID": 3102504,
@@ -132,7 +102,37 @@
     "BAR": -5.60,
     "StylePlus": "77",
     "RatingScore": 2.77,
-    "AdjustedRating": "2.056537866712779186300512917"
+    "AdjustedRating": "2.0595469220023282887077997672"
+  },
+  {
+    "BID": 1676497,
+    "BeerName": "Raspberry Flashback",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Mondo Brewing Company",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1676497_18b3c_sm.jpeg",
+    "HallRating": -12.61,
+    "BAR": -4.76,
+    "StylePlus": "79",
+    "RatingScore": 3.02,
+    "AdjustedRating": "2.0573227735804969234364047044"
+  },
+  {
+    "BID": 5030130,
+    "BeerName": "Best Bräu Lager Beer",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Eurospin",
+    "Origin": "Italy",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4550199_2a9c4_sm.jpeg",
+    "HallRating": -12.61,
+    "BAR": -5.33,
+    "StylePlus": "72",
+    "RatingScore": 2.49,
+    "AdjustedRating": "2.0574165829575493702379101228"
   },
   {
     "BID": 2813269,
@@ -147,7 +147,7 @@
     "BAR": -6.35,
     "StylePlus": "79",
     "RatingScore": 2.76,
-    "AdjustedRating": "2.0580505751042903687463840931"
+    "AdjustedRating": "2.0708768368612929701666316734"
   },
   {
     "BID": 4828033,
@@ -162,7 +162,7 @@
     "BAR": -3.86,
     "StylePlus": "76",
     "RatingScore": 2.83,
-    "AdjustedRating": "2.0561253530273884766877347257"
+    "AdjustedRating": "2.0564007398023815556118571067"
   },
   {
     "BID": 401727,
@@ -177,22 +177,7 @@
     "BAR": -6.00,
     "StylePlus": "74",
     "RatingScore": 2.55,
-    "AdjustedRating": "2.0567404393337975268986618011"
-  },
-  {
-    "BID": 6223089,
-    "BeerName": "SMOOTHIE : Strawberry, Lychee, Banana & Coconut",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Hopalaa",
-    "Origin": "Vītoliņi, Jelgava Municipality Latvia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6223089_61ed1_sm.jpeg",
-    "HallRating": -12.63,
-    "BAR": -5.75,
-    "StylePlus": "84",
-    "RatingScore": 3.41,
-    "AdjustedRating": "2.0571855535288868096747866192"
+    "AdjustedRating": "2.0610695840812151390577654257"
   },
   {
     "BID": 4422514,
@@ -207,7 +192,22 @@
     "BAR": -5.75,
     "StylePlus": "81",
     "RatingScore": 2.87,
-    "AdjustedRating": "2.0567441388319646080699702525"
+    "AdjustedRating": "2.0611148900385591660369315429"
+  },
+  {
+    "BID": 6223089,
+    "BeerName": "SMOOTHIE : Strawberry, Lychee, Banana & Coconut",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Hopalaa",
+    "Origin": "Vītoliņi, Jelgava Municipality Latvia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 8.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6223089_61ed1_sm.jpeg",
+    "HallRating": -12.63,
+    "BAR": -5.75,
+    "StylePlus": "84",
+    "RatingScore": 3.41,
+    "AdjustedRating": "2.0644787514047665181166440612"
   },
   {
     "BID": 4014507,
@@ -222,7 +222,7 @@
     "BAR": -6.77,
     "StylePlus": "75",
     "RatingScore": 2.69,
-    "AdjustedRating": "2.0606703647648760278384762097"
+    "AdjustedRating": "2.0896094168482475902057096429"
   },
   {
     "BID": 1674943,
@@ -237,7 +237,7 @@
     "BAR": -7.71,
     "StylePlus": "84",
     "RatingScore": 3.18,
-    "AdjustedRating": "2.1810655130360050660394427357"
+    "AdjustedRating": "2.606177329656874944007007834"
   },
   {
     "BID": 6450679,
@@ -252,7 +252,7 @@
     "BAR": -3.56,
     "StylePlus": "75",
     "RatingScore": 2.80,
-    "AdjustedRating": "2.0561123933069724126349216043"
+    "AdjustedRating": "2.0563014980996004288081083715"
   },
   {
     "BID": 3343857,
@@ -267,22 +267,7 @@
     "BAR": -5.77,
     "StylePlus": "80",
     "RatingScore": 3.06,
-    "AdjustedRating": "2.0569211943587774808743030466"
-  },
-  {
-    "BID": 6305291,
-    "BeerName": "1866 Ambrėe",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Brasserie de Saint-Omer",
-    "Origin": "Saint-Omer, Hauts-de-France France",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BrasseriedeSaintOmer_1431.jpeg",
-    "HallRating": -12.66,
-    "BAR": -6.77,
-    "StylePlus": "77",
-    "RatingScore": 2.66,
-    "AdjustedRating": "2.0603548529371636473887667703"
+    "AdjustedRating": "2.0624632562284474408152194971"
   },
   {
     "BID": 1206329,
@@ -297,37 +282,22 @@
     "BAR": -7.17,
     "StylePlus": "84",
     "RatingScore": 3.17,
-    "AdjustedRating": "2.0791886354708894509300674034"
+    "AdjustedRating": "2.2116219069346126748750293555"
   },
   {
-    "BID": 408288,
-    "BeerName": "Asperge Bier",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "BierBrouwerij De Pauw",
-    "Origin": "Ommen, Overijssel Netherlands",
+    "BID": 6305291,
+    "BeerName": "1866 Ambrėe",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Brasserie de Saint-Omer",
+    "Origin": "Saint-Omer, Hauts-de-France France",
     "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_408288_sm_3294957eb6956762c0ccbecb18045d.jpeg",
-    "HallRating": -12.68,
-    "BAR": -6.48,
-    "StylePlus": "78",
-    "RatingScore": 2.71,
-    "AdjustedRating": "2.0583375104450361354127044504"
-  },
-  {
-    "BID": 3504226,
-    "BeerName": "Marras",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Panimoyhtiö X",
-    "Origin": "Jyväskylä, Keski-Suomi Finland",
-    "BeerAbv": 9.00,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3504226_ca446_sm.jpeg",
-    "HallRating": -12.68,
-    "BAR": -6.27,
-    "StylePlus": "87",
-    "RatingScore": 3.53,
-    "AdjustedRating": "2.0593135965205380674056884023"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-BrasseriedeSaintOmer_1431.jpeg",
+    "HallRating": -12.66,
+    "BAR": -6.77,
+    "StylePlus": "77",
+    "RatingScore": 2.66,
+    "AdjustedRating": "2.0873354722771728077797703785"
   },
   {
     "BID": 1403053,
@@ -342,7 +312,37 @@
     "BAR": -6.00,
     "StylePlus": "85",
     "RatingScore": 3.41,
-    "AdjustedRating": "2.0577837712848011995374664854"
+    "AdjustedRating": "2.0689998524640815695967866522"
+  },
+  {
+    "BID": 3504226,
+    "BeerName": "Marras",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Panimoyhtiö X",
+    "Origin": "Jyväskylä, Keski-Suomi Finland",
+    "BeerAbv": 9.00,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3504226_ca446_sm.jpeg",
+    "HallRating": -12.68,
+    "BAR": -6.27,
+    "StylePlus": "87",
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.0804735750580024159684006673"
+  },
+  {
+    "BID": 408288,
+    "BeerName": "Asperge Bier",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "BierBrouwerij De Pauw",
+    "Origin": "Ommen, Overijssel Netherlands",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_408288_sm_3294957eb6956762c0ccbecb18045d.jpeg",
+    "HallRating": -12.68,
+    "BAR": -6.48,
+    "StylePlus": "78",
+    "RatingScore": 2.71,
+    "AdjustedRating": "2.0729631780280727079336739539"
   },
   {
     "BID": 29132,
@@ -357,21 +357,21 @@
     "BAR": -6.69,
     "StylePlus": "81",
     "RatingScore": 2.69,
-    "AdjustedRating": "2.0596528410894295777498886685"
+    "AdjustedRating": "2.0824404066149677660469027376"
   },
   {
-    "BID": 6408112,
-    "BeerName": "Oktoberfest",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Skovlyst",
-    "Origin": "Denmark",
-    "BeerAbv": 5.00,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-263769_3c483_sm.jpeg",
+    "BID": 2819393,
+    "BeerName": "Красный Элемент",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Тугер",
+    "Origin": "Tarusa, Калужская область Russia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2819393_d86fe_sm.jpeg",
     "HallRating": -12.70,
-    "BAR": -6.99,
-    "StylePlus": "82",
-    "RatingScore": 2.97,
-    "AdjustedRating": "2.0668485251625070723580813478"
+    "BAR": -4.04,
+    "StylePlus": "68",
+    "RatingScore": 2.35,
+    "AdjustedRating": "2.0562271920491084478222741888"
   }
 ]

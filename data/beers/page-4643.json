@@ -12,7 +12,7 @@
     "BAR": -7.75,
     "StylePlus": "78",
     "RatingScore": 2.99,
-    "AdjustedRating": "2.0573228514534462647993840102"
+    "AdjustedRating": "2.0654930973519647958002007257"
   },
   {
     "BID": 1676500,
@@ -27,7 +27,7 @@
     "BAR": -7.54,
     "StylePlus": "75",
     "RatingScore": 2.75,
-    "AdjustedRating": "2.0567543292311837934163931759"
+    "AdjustedRating": "2.0611873110121927617573059803"
   },
   {
     "BID": 4621429,
@@ -42,7 +42,7 @@
     "BAR": -6.47,
     "StylePlus": "74",
     "RatingScore": 2.73,
-    "AdjustedRating": "2.0562434422260890801965992002"
+    "AdjustedRating": "2.0573037455967927135433898371"
   },
   {
     "BID": 6433255,
@@ -57,22 +57,7 @@
     "BAR": -7.78,
     "StylePlus": "78",
     "RatingScore": 2.99,
-    "AdjustedRating": "2.0573584020552540098798560712"
-  },
-  {
-    "BID": 5620992,
-    "BeerName": "It's Complicated",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Rigters",
-    "Origin": "Haaksbergen, Overijssel Netherlands",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5612732_a3a7b_sm.jpeg",
-    "HallRating": -16.38,
-    "BAR": -7.59,
-    "StylePlus": "77",
-    "RatingScore": 2.97,
-    "AdjustedRating": "2.0569900611468271217979516042"
+    "AdjustedRating": "2.0657606722364790553186562988"
   },
   {
     "BID": 4000326,
@@ -87,7 +72,22 @@
     "BAR": -8.10,
     "StylePlus": "77",
     "RatingScore": 2.92,
-    "AdjustedRating": "2.057961663397207545061914906"
+    "AdjustedRating": "2.0702655689794039811299044989"
+  },
+  {
+    "BID": 5620992,
+    "BeerName": "It's Complicated",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Rigters",
+    "Origin": "Haaksbergen, Overijssel Netherlands",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5612732_a3a7b_sm.jpeg",
+    "HallRating": -16.38,
+    "BAR": -7.59,
+    "StylePlus": "77",
+    "RatingScore": 2.97,
+    "AdjustedRating": "2.0629808119195046439628482972"
   },
   {
     "BID": 6032098,
@@ -102,7 +102,7 @@
     "BAR": -8.52,
     "StylePlus": "85",
     "RatingScore": 3.43,
-    "AdjustedRating": "2.0622685152899931098771936935"
+    "AdjustedRating": "2.1020909107354853298660184295"
   },
   {
     "BID": 2704608,
@@ -117,7 +117,7 @@
     "BAR": -8.99,
     "StylePlus": "79",
     "RatingScore": 2.79,
-    "AdjustedRating": "2.0642228628327268884091012033"
+    "AdjustedRating": "2.1141547724293947609386501966"
   },
   {
     "BID": 5422201,
@@ -132,7 +132,7 @@
     "BAR": -8.32,
     "StylePlus": "79",
     "RatingScore": 3.03,
-    "AdjustedRating": "2.059112842023555554428144905"
+    "AdjustedRating": "2.0788203282809048670881255236"
   },
   {
     "BID": 4604593,
@@ -147,7 +147,7 @@
     "BAR": -9.25,
     "StylePlus": "82",
     "RatingScore": 3.18,
-    "AdjustedRating": "2.0762000216017373354691830375"
+    "AdjustedRating": "2.1937950516663245055772257579"
   },
   {
     "BID": 3236414,
@@ -162,7 +162,7 @@
     "BAR": -9.86,
     "StylePlus": "80",
     "RatingScore": 2.91,
-    "AdjustedRating": "2.1155084750736886963315458646"
+    "AdjustedRating": "2.3671742645381984036488027366"
   },
   {
     "BID": 5900826,
@@ -177,7 +177,7 @@
     "BAR": -8.16,
     "StylePlus": "74",
     "RatingScore": 2.62,
-    "AdjustedRating": "2.05732820607322398821916417"
+    "AdjustedRating": "2.0654791763645775417473494507"
   },
   {
     "BID": 3345745,
@@ -192,97 +192,7 @@
     "BAR": -7.94,
     "StylePlus": "72",
     "RatingScore": 2.41,
-    "AdjustedRating": "2.0566333942510454723299170228"
-  },
-  {
-    "BID": 6612627,
-    "BeerName": "Yukimuro",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "日本ビール株式会社",
-    "Origin": "Japan",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -16.51,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 3336652,
-    "BeerName": "Emelie’s Eikelagrede Enebærsbayer",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Malaysia Zwrz Brewing Company",
-    "Origin": "Malaysia",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -16.51,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6601339,
-    "BeerName": "Staszek Free",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Browar Popiel",
-    "Origin": "Kurozwęki, Świętokrzyskie Poland",
-    "BeerAbv": 0.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6601339_0f272_sm.jpeg",
-    "HallRating": -16.51,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6500353,
-    "BeerName": "AL TEA Kiwi Wassermelone",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "ALDI Nord Deutschland",
-    "Origin": "Essen, Nordrhein-Westfalen Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-286218_4956b.jpeg",
-    "HallRating": -16.51,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6614330,
-    "BeerName": "Oberbräu Hell 0,0",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Holzkirchner Oberbräu",
-    "Origin": "Holzkirchen, Bayern Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-42778_3f347.jpeg",
-    "HallRating": -16.51,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 3343759,
-    "BeerName": "Calle’s Caviar-infused Coffee Kölsch",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Malaysia Zwrz Brewing Company",
-    "Origin": "Malaysia",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -16.51,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0602504452708040307508525847"
   },
   {
     "BID": 6600021,
@@ -297,7 +207,22 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 3336652,
+    "BeerName": "Emelie’s Eikelagrede Enebærsbayer",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Malaysia Zwrz Brewing Company",
+    "Origin": "Malaysia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -16.51,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 4446475,
@@ -312,7 +237,52 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6612627,
+    "BeerName": "Yukimuro",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "日本ビール株式会社",
+    "Origin": "Japan",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -16.51,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6601339,
+    "BeerName": "Staszek Free",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Browar Popiel",
+    "Origin": "Kurozwęki, Świętokrzyskie Poland",
+    "BeerAbv": 0.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6601339_0f272_sm.jpeg",
+    "HallRating": -16.51,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 3343759,
+    "BeerName": "Calle’s Caviar-infused Coffee Kölsch",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Malaysia Zwrz Brewing Company",
+    "Origin": "Malaysia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -16.51,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 4704044,
@@ -327,7 +297,37 @@
     "BAR": -8.79,
     "StylePlus": "85",
     "RatingScore": 3.44,
-    "AdjustedRating": "2.065245740107681807841055585"
+    "AdjustedRating": "2.1233172264371440761282902669"
+  },
+  {
+    "BID": 6614330,
+    "BeerName": "Oberbräu Hell 0,0",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Holzkirchner Oberbräu",
+    "Origin": "Holzkirchen, Bayern Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-42778_3f347.jpeg",
+    "HallRating": -16.51,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6500353,
+    "BeerName": "AL TEA Kiwi Wassermelone",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "ALDI Nord Deutschland",
+    "Origin": "Essen, Nordrhein-Westfalen Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-286218_4956b.jpeg",
+    "HallRating": -16.51,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 5204070,
@@ -342,7 +342,7 @@
     "BAR": -7.20,
     "StylePlus": "78",
     "RatingScore": 3.02,
-    "AdjustedRating": "2.0565865554176542996368223481"
+    "AdjustedRating": "2.0599213197397805612195358773"
   },
   {
     "BID": 3500363,
@@ -357,7 +357,7 @@
     "BAR": -7.79,
     "StylePlus": "72",
     "RatingScore": 2.64,
-    "AdjustedRating": "2.0567770568751937945091979322"
+    "AdjustedRating": "2.0613526355855246633305639817"
   },
   {
     "BID": 3334235,
@@ -372,6 +372,6 @@
     "BAR": -5.26,
     "StylePlus": "63",
     "RatingScore": 2.16,
-    "AdjustedRating": "2.0560906101634539051845217498"
+    "AdjustedRating": "2.0561346265224593198869726201"
   }
 ]

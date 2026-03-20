@@ -12,7 +12,7 @@
     "BAR": 9.88,
     "StylePlus": "115",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0694531925645665405494324724"
+    "AdjustedRating": "2.1549468196279522401467230602"
   },
   {
     "BID": 4420173,
@@ -27,7 +27,7 @@
     "BAR": 10.29,
     "StylePlus": "120",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.0802814581011492169921019647"
+    "AdjustedRating": "2.2289570488914462445831010735"
   },
   {
     "BID": 6501637,
@@ -42,37 +42,7 @@
     "BAR": 8.02,
     "StylePlus": "117",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.0572385753629528644535104943"
-  },
-  {
-    "BID": 5706347,
-    "BeerName": "absolutely.",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 13.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
-    "HallRating": 18.77,
-    "BAR": 9.29,
-    "StylePlus": "122",
-    "RatingScore": 4.47,
-    "AdjustedRating": "2.0614344475351898117116568156"
-  },
-  {
-    "BID": 5618302,
-    "BeerName": "Vera Grace",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Bearded Brewer Artisan Ales",
-    "Origin": "Omaha, NE United States",
-    "BeerAbv": 13.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-473491_6df35.jpeg",
-    "HallRating": 18.77,
-    "BAR": 8.15,
-    "StylePlus": "114",
-    "RatingScore": 4.72,
-    "AdjustedRating": "2.0574390238942396952117418761"
+    "AdjustedRating": "2.0649046569379942871577638303"
   },
   {
     "BID": 1012039,
@@ -87,22 +57,37 @@
     "BAR": 10.32,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0850556003219234928698976384"
+    "AdjustedRating": "2.2621223481013790266325636302"
   },
   {
-    "BID": 6603847,
-    "BeerName": "Moksa Eight",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Moksa Brewing Co",
-    "Origin": "Rocklin, CA United States",
-    "BeerAbv": 16.50,
+    "BID": 5706347,
+    "BeerName": "absolutely.",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 13.10,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6583767_15eac_sm.jpeg",
-    "HallRating": 18.76,
-    "BAR": 7.26,
-    "StylePlus": "118",
-    "RatingScore": 4.76,
-    "AdjustedRating": "2.0566205608786243636613419018"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
+    "HallRating": 18.77,
+    "BAR": 9.29,
+    "StylePlus": "122",
+    "RatingScore": 4.47,
+    "AdjustedRating": "2.0964832996568448900561700822"
+  },
+  {
+    "BID": 5618302,
+    "BeerName": "Vera Grace",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Bearded Brewer Artisan Ales",
+    "Origin": "Omaha, NE United States",
+    "BeerAbv": 13.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-473491_6df35.jpeg",
+    "HallRating": 18.77,
+    "BAR": 8.15,
+    "StylePlus": "114",
+    "RatingScore": 4.72,
+    "AdjustedRating": "2.06643131404156146824626141"
   },
   {
     "BID": 4941629,
@@ -117,7 +102,22 @@
     "BAR": 8.57,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0582970203801446136010007017"
+    "AdjustedRating": "2.0729453607887956918427832555"
+  },
+  {
+    "BID": 6603847,
+    "BeerName": "Moksa Eight",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Moksa Brewing Co",
+    "Origin": "Rocklin, CA United States",
+    "BeerAbv": 16.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6583767_15eac_sm.jpeg",
+    "HallRating": 18.76,
+    "BAR": 7.26,
+    "StylePlus": "118",
+    "RatingScore": 4.76,
+    "AdjustedRating": "2.0601897749571717800965581685"
   },
   {
     "BID": 2402885,
@@ -132,7 +132,7 @@
     "BAR": 11.02,
     "StylePlus": "111",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.1695606141893154294671302778"
+    "AdjustedRating": "2.720139555845852384062704115"
   },
   {
     "BID": 5021590,
@@ -147,7 +147,7 @@
     "BAR": 4.68,
     "StylePlus": "147",
     "RatingScore": 4.88,
-    "AdjustedRating": "2.0561558551861191192897727996"
+    "AdjustedRating": "2.056634470955165692007797271"
   },
   {
     "BID": 4016530,
@@ -162,7 +162,7 @@
     "BAR": 9.80,
     "StylePlus": "129",
     "RatingScore": 4.27,
-    "AdjustedRating": "2.067160110196548066040960384"
+    "AdjustedRating": "2.1382132760109638418503360493"
   },
   {
     "BID": 4008026,
@@ -177,7 +177,7 @@
     "BAR": 10.64,
     "StylePlus": "115",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.1084753996357991521881903397"
+    "AdjustedRating": "2.4054840043135628369970966404"
   },
   {
     "BID": 6608556,
@@ -192,7 +192,7 @@
     "BAR": 6.13,
     "StylePlus": "123",
     "RatingScore": 4.81,
-    "AdjustedRating": "2.0562872048343595745763574373"
+    "AdjustedRating": "2.0576402182427560942341043278"
   },
   {
     "BID": 4007402,
@@ -207,7 +207,7 @@
     "BAR": 8.83,
     "StylePlus": "118",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0591571375955595315549772284"
+    "AdjustedRating": "2.0794405817928956365532827259"
   },
   {
     "BID": 2813298,
@@ -222,22 +222,7 @@
     "BAR": 9.60,
     "StylePlus": "117",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0652287009772977906225044682"
-  },
-  {
-    "BID": 4028671,
-    "BeerName": "Schmoojee Hydra",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Imprint Beer Co.",
-    "Origin": "Hatfield, PA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4028671_e539e_sm.jpeg",
-    "HallRating": 18.68,
-    "BAR": 9.46,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0637354123281902452141882259"
+    "AdjustedRating": "2.1244612419911286347954657467"
   },
   {
     "BID": 1412114,
@@ -252,7 +237,22 @@
     "BAR": 11.12,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.2001546087201501267769060705"
+    "AdjustedRating": "2.8382915076803422127163134357"
+  },
+  {
+    "BID": 4028671,
+    "BeerName": "Schmoojee Hydra",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Imprint Beer Co.",
+    "Origin": "Hatfield, PA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4028671_e539e_sm.jpeg",
+    "HallRating": 18.68,
+    "BAR": 9.46,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1135495543488615794989044489"
   },
   {
     "BID": 2283322,
@@ -267,7 +267,7 @@
     "BAR": 11.24,
     "StylePlus": "113",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.2415961432505080967678489477"
+    "AdjustedRating": "2.9840119035405174332127004205"
   },
   {
     "BID": 1669667,
@@ -282,7 +282,7 @@
     "BAR": 9.10,
     "StylePlus": "122",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0604671507340614681229362459"
+    "AdjustedRating": "2.089270146733591030596742245"
   },
   {
     "BID": 6428583,
@@ -297,7 +297,7 @@
     "BAR": 6.98,
     "StylePlus": "119",
     "RatingScore": 4.75,
-    "AdjustedRating": "2.0565089370746438775432320832"
+    "AdjustedRating": "2.0593365080230565508646206574"
   },
   {
     "BID": 3810967,
@@ -312,7 +312,7 @@
     "BAR": 9.69,
     "StylePlus": "117",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0668321880959377438214998632"
+    "AdjustedRating": "2.1360559487324474601828291396"
   },
   {
     "BID": 3704188,
@@ -327,22 +327,7 @@
     "BAR": 9.27,
     "StylePlus": "125",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.0615058546890945739425356804"
-  },
-  {
-    "BID": 5302409,
-    "BeerName": "V.S.O. Gravedigger",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "Revolution Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5302409_7b62c_sm.jpeg",
-    "HallRating": 18.63,
-    "BAR": 10.03,
-    "StylePlus": "117",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.0751077456246418555103132991"
+    "AdjustedRating": "2.0969884580468465707773926034"
   },
   {
     "BID": 4817038,
@@ -357,7 +342,22 @@
     "BAR": 8.81,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0592773442410472625246834044"
+    "AdjustedRating": "2.0803497037580626472519408289"
+  },
+  {
+    "BID": 5302409,
+    "BeerName": "V.S.O. Gravedigger",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Revolution Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5302409_7b62c_sm.jpeg",
+    "HallRating": 18.63,
+    "BAR": 10.03,
+    "StylePlus": "117",
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.1945175862449024578419486388"
   },
   {
     "BID": 5419008,
@@ -372,6 +372,6 @@
     "BAR": 8.78,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0591930699773807405901339365"
+    "AdjustedRating": "2.0797144692769804323050474222"
   }
 ]

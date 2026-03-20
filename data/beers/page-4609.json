@@ -12,52 +12,22 @@
     "BAR": -3.31,
     "StylePlus": "81",
     "RatingScore": 3.11,
-    "AdjustedRating": "2.0561269067573860007582562143"
+    "AdjustedRating": "2.05641266830390207772970023"
   },
   {
-    "BID": 2800093,
-    "BeerName": "Kassis",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Kakola Brewing Company",
-    "Origin": "Turku, Varsinais-Suomi Finland",
-    "BeerAbv": 4.50,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2800093_f87bf_sm.jpeg",
-    "HallRating": -11.55,
-    "BAR": -5.46,
-    "StylePlus": "83",
-    "RatingScore": 3.20,
-    "AdjustedRating": "2.0575056095455931686489783471"
-  },
-  {
-    "BID": 3435922,
-    "BeerName": "Imperial Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Nagahama Roman Beer",
-    "Origin": "Nagahama, Shiga Japan",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-NagahamaRomanBeer_19737_c6190.jpeg",
-    "HallRating": -11.56,
-    "BAR": -3.84,
-    "StylePlus": "85",
-    "RatingScore": 3.44,
-    "AdjustedRating": "2.0561931577468945758761596043"
-  },
-  {
-    "BID": 3349398,
-    "BeerName": "SP-5 Ray",
+    "BID": 3416764,
+    "BeerName": "Stora Tuvan",
     "BeerStyle": "Sour - Other",
-    "BreweryName": "BadWolf Brewing Company",
-    "Origin": "Manassas, VA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-69041_27a1f.jpeg",
-    "HallRating": -11.56,
-    "BAR": -3.84,
-    "StylePlus": "79",
-    "RatingScore": 2.97,
-    "AdjustedRating": "2.0561560860308074357160667851"
+    "BreweryName": "Bottenvikens",
+    "Origin": "Luleå, Norrbottens län Sweden",
+    "BeerAbv": 3.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-117118_9edab.jpeg",
+    "HallRating": -11.55,
+    "BAR": -5.17,
+    "StylePlus": "82",
+    "RatingScore": 3.09,
+    "AdjustedRating": "2.0615181699346405228758169935"
   },
   {
     "BID": 6017343,
@@ -72,22 +42,7 @@
     "BAR": -6.09,
     "StylePlus": "89",
     "RatingScore": 3.69,
-    "AdjustedRating": "2.0651840048482762808963744205"
-  },
-  {
-    "BID": 3345356,
-    "BeerName": "Lade Gaards American Pale Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Grans Bryggeri",
-    "Origin": "Sandefjord, Vestfold Norway",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-877451_2283e_sm.jpeg",
-    "HallRating": -11.56,
-    "BAR": -6.73,
-    "StylePlus": "85",
-    "RatingScore": 3.03,
-    "AdjustedRating": "2.0920468541166841069551216858"
+    "AdjustedRating": "2.1233149195191714494027032585"
   },
   {
     "BID": 6105826,
@@ -102,37 +57,52 @@
     "BAR": -5.01,
     "StylePlus": "87",
     "RatingScore": 3.52,
-    "AdjustedRating": "2.0568174696175875153870413136"
+    "AdjustedRating": "2.0616852479266610989181735195"
   },
   {
-    "BID": 1013233,
-    "BeerName": "Felix Speciaal Oudenaards",
-    "BeerStyle": "Sour - Flanders Oud Bruin",
-    "BreweryName": "Brouwerij Clarysse",
-    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
-    "BeerAbv": 4.80,
+    "BID": 3345356,
+    "BeerName": "Lade Gaards American Pale Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Grans Bryggeri",
+    "Origin": "Sandefjord, Vestfold Norway",
+    "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-229520_87840_sm.jpeg",
-    "HallRating": -11.57,
-    "BAR": -5.82,
-    "StylePlus": "83",
-    "RatingScore": 3.16,
-    "AdjustedRating": "2.0591094174501549213212847431"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-877451_2283e_sm.jpeg",
+    "HallRating": -11.56,
+    "BAR": -6.73,
+    "StylePlus": "85",
+    "RatingScore": 3.03,
+    "AdjustedRating": "2.2772324114650833358449621749"
   },
   {
-    "BID": 2705014,
-    "BeerName": "Frisco Brusinka",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Plzeňský Prazdroj",
-    "Origin": "Plzeň-město, Plzeňský kraj Czech Republic",
-    "BeerAbv": 4.50,
+    "BID": 3435922,
+    "BeerName": "Imperial Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Nagahama Roman Beer",
+    "Origin": "Nagahama, Shiga Japan",
+    "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-502556_b5ab0_sm.jpeg",
-    "HallRating": -11.57,
-    "BAR": -5.87,
-    "StylePlus": "83",
-    "RatingScore": 3.04,
-    "AdjustedRating": "2.0591339890972646767103063572"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-NagahamaRomanBeer_19737_c6190.jpeg",
+    "HallRating": -11.56,
+    "BAR": -3.84,
+    "StylePlus": "85",
+    "RatingScore": 3.44,
+    "AdjustedRating": "2.0569199423238050700492975585"
+  },
+  {
+    "BID": 3349398,
+    "BeerName": "SP-5 Ray",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "BadWolf Brewing Company",
+    "Origin": "Manassas, VA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-69041_27a1f.jpeg",
+    "HallRating": -11.56,
+    "BAR": -3.84,
+    "StylePlus": "79",
+    "RatingScore": 2.97,
+    "AdjustedRating": "2.0566360429453829816254554666"
   },
   {
     "BID": 3005920,
@@ -147,7 +117,37 @@
     "BAR": -6.39,
     "StylePlus": "78",
     "RatingScore": 2.74,
-    "AdjustedRating": "2.0647677203431772789508723888"
+    "AdjustedRating": "2.117430575748970609115433764"
+  },
+  {
+    "BID": 1013233,
+    "BeerName": "Felix Speciaal Oudenaards",
+    "BeerStyle": "Sour - Flanders Oud Bruin",
+    "BreweryName": "Brouwerij Clarysse",
+    "Origin": "Oudenaarde, Vlaams Gewest Belgium",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-229520_87840_sm.jpeg",
+    "HallRating": -11.57,
+    "BAR": -5.82,
+    "StylePlus": "83",
+    "RatingScore": 3.16,
+    "AdjustedRating": "2.0788495008592705747565400038"
+  },
+  {
+    "BID": 2705014,
+    "BeerName": "Frisco Brusinka",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Plzeňský Prazdroj",
+    "Origin": "Plzeň-město, Plzeňský kraj Czech Republic",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-502556_b5ab0_sm.jpeg",
+    "HallRating": -11.57,
+    "BAR": -5.87,
+    "StylePlus": "83",
+    "RatingScore": 3.04,
+    "AdjustedRating": "2.0789805827239488117001828154"
   },
   {
     "BID": 4446579,
@@ -162,7 +162,7 @@
     "BAR": -5.75,
     "StylePlus": "82",
     "RatingScore": 3.00,
-    "AdjustedRating": "2.0582431408711017233150203609"
+    "AdjustedRating": "2.0723793060106148569676764193"
   },
   {
     "BID": 4960690,
@@ -177,7 +177,7 @@
     "BAR": -5.28,
     "StylePlus": "76",
     "RatingScore": 2.70,
-    "AdjustedRating": "2.056619344255793022439857825"
+    "AdjustedRating": "2.0601632865141329406978321096"
   },
   {
     "BID": 1675048,
@@ -192,7 +192,7 @@
     "BAR": -3.20,
     "StylePlus": "73",
     "RatingScore": 2.63,
-    "AdjustedRating": "2.0561044445846744952354295747"
+    "AdjustedRating": "2.0562406120380477155777327304"
   },
   {
     "BID": 3343558,
@@ -207,7 +207,7 @@
     "BAR": -3.14,
     "StylePlus": "80",
     "RatingScore": 3.03,
-    "AdjustedRating": "2.0561162157229951857996356271"
+    "AdjustedRating": "2.0563307868935539831978636727"
   },
   {
     "BID": 4825028,
@@ -222,7 +222,7 @@
     "BAR": -5.61,
     "StylePlus": "85",
     "RatingScore": 3.28,
-    "AdjustedRating": "2.0581236164482391584338252292"
+    "AdjustedRating": "2.0715402217687598660147075809"
   },
   {
     "BID": 1667841,
@@ -237,22 +237,7 @@
     "BAR": -5.75,
     "StylePlus": "83",
     "RatingScore": 2.93,
-    "AdjustedRating": "2.0580785936276625453806900404"
-  },
-  {
-    "BID": 4100963,
-    "BeerName": "Juleporter",
-    "BeerStyle": "Porter - Other",
-    "BreweryName": "Ørbæk Bryggeri",
-    "Origin": "Ørbæk, Region Syddanmark Denmark",
-    "BeerAbv": 8.00,
-    "BeerIbu": 32.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1282100_eeedf_sm.jpeg",
-    "HallRating": -11.60,
-    "BAR": -6.00,
-    "StylePlus": "83",
-    "RatingScore": 3.05,
-    "AdjustedRating": "2.0602320537910692837486506621"
+    "AdjustedRating": "2.0711379478434152790817988465"
   },
   {
     "BID": 4415938,
@@ -267,22 +252,7 @@
     "BAR": -6.50,
     "StylePlus": "90",
     "RatingScore": 3.62,
-    "AdjustedRating": "2.0822767610593342257027409085"
-  },
-  {
-    "BID": 6422323,
-    "BeerName": "Рулетики из ветчины с сыром и чесноком",
-    "BeerStyle": "Sour - Other Gose",
-    "BreweryName": "Burning Brewery | Пивоварня Бёрнинг",
-    "Origin": "Saint Petersburg, Russia",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6422323_d9eda_sm.jpeg",
-    "HallRating": -11.60,
-    "BAR": -4.70,
-    "StylePlus": "80",
-    "RatingScore": 3.00,
-    "AdjustedRating": "2.0563505330524901933849229971"
+    "AdjustedRating": "2.2366312838024282560706401766"
   },
   {
     "BID": 4219120,
@@ -297,7 +267,7 @@
     "BAR": -6.51,
     "StylePlus": "87",
     "RatingScore": 3.54,
-    "AdjustedRating": "2.0814368575115926587331362456"
+    "AdjustedRating": "2.2304896398891966759002770083"
   },
   {
     "BID": 3001825,
@@ -312,22 +282,37 @@
     "BAR": -5.43,
     "StylePlus": "79",
     "RatingScore": 2.70,
-    "AdjustedRating": "2.0568008643084266792737698543"
+    "AdjustedRating": "2.0615362735849056603773584906"
   },
   {
-    "BID": 5608643,
-    "BeerName": "White Label Imperial Baltic Porter Single Malt Islay Whisky BA 2023",
-    "BeerStyle": "Porter - Imperial / Double Baltic",
-    "BreweryName": "Brouwerij Emelisse",
-    "Origin": "Goes, Zeeland Netherlands",
-    "BeerAbv": 15.20,
-    "BeerIbu": 44.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5608643_c4990_sm.jpeg",
-    "HallRating": -11.61,
-    "BAR": -5.82,
-    "StylePlus": "86",
-    "RatingScore": 3.42,
-    "AdjustedRating": "2.0596804488084663604294089283"
+    "BID": 4100963,
+    "BeerName": "Juleporter",
+    "BeerStyle": "Porter - Other",
+    "BreweryName": "Ørbæk Bryggeri",
+    "Origin": "Ørbæk, Region Syddanmark Denmark",
+    "BeerAbv": 8.00,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1282100_eeedf_sm.jpeg",
+    "HallRating": -11.60,
+    "BAR": -6.00,
+    "StylePlus": "83",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.0870071662542267223303171695"
+  },
+  {
+    "BID": 6422323,
+    "BeerName": "Рулетики из ветчины с сыром и чесноком",
+    "BeerStyle": "Sour - Other Gose",
+    "BreweryName": "Burning Brewery | Пивоварня Бёрнинг",
+    "Origin": "Saint Petersburg, Russia",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6422323_d9eda_sm.jpeg",
+    "HallRating": -11.60,
+    "BAR": -4.70,
+    "StylePlus": "80",
+    "RatingScore": 3.00,
+    "AdjustedRating": "2.0581223781638489523550125484"
   },
   {
     "BID": 4939851,
@@ -342,7 +327,7 @@
     "BAR": -4.58,
     "StylePlus": "81",
     "RatingScore": 3.12,
-    "AdjustedRating": "2.0563275946789592984652018286"
+    "AdjustedRating": "2.0579476130790190735694822888"
   },
   {
     "BID": 4413261,
@@ -357,7 +342,7 @@
     "BAR": -5.79,
     "StylePlus": "83",
     "RatingScore": 3.14,
-    "AdjustedRating": "2.0587445546073439300636108418"
+    "AdjustedRating": "2.0761415381671355033775379375"
   },
   {
     "BID": 4941600,
@@ -372,6 +357,21 @@
     "BAR": -3.72,
     "StylePlus": "73",
     "RatingScore": 2.68,
-    "AdjustedRating": "2.0561252751000592849673169354"
+    "AdjustedRating": "2.0564001161431132590225270871"
+  },
+  {
+    "BID": 5608643,
+    "BeerName": "White Label Imperial Baltic Porter Single Malt Islay Whisky BA 2023",
+    "BeerStyle": "Porter - Imperial / Double Baltic",
+    "BreweryName": "Brouwerij Emelisse",
+    "Origin": "Goes, Zeeland Netherlands",
+    "BeerAbv": 15.20,
+    "BeerIbu": 44.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5608643_c4990_sm.jpeg",
+    "HallRating": -11.61,
+    "BAR": -5.82,
+    "StylePlus": "86",
+    "RatingScore": 3.42,
+    "AdjustedRating": "2.0831647530050258938638231191"
   }
 ]

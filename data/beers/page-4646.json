@@ -1,183 +1,33 @@
 [
   {
-    "BID": 6613108,
-    "BeerName": "Island Pomelo",
+    "BID": 6603347,
+    "BeerName": "Lager",
     "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Rusty Bull Brewing Co",
-    "Origin": "North Charleston, SC United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-116012_f8ccf.jpeg",
-    "HallRating": -17.05,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6004844,
-    "BeerName": "Hairoun Vibe",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "St. Vincent Brewery (Hairoun Brewery)",
-    "Origin": "Campden Park, St. Andrew St. Vincent & the Grenadines",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-17137_42ff9.jpeg",
-    "HallRating": -17.05,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6608990,
-    "BeerName": "Smoke And Mirrors",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Destin Brewery",
-    "Origin": "Destin, FL United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-205164_a34d7.jpeg",
-    "HallRating": -17.05,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6604802,
-    "BeerName": "Афанасий Немецкое",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Afanasy | Афанасий",
-    "Origin": "Tver, Tver Oblast Russia",
-    "BeerAbv": 4.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-10498_11188.jpeg",
-    "HallRating": -17.05,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6613816,
-    "BeerName": "Lucky Duck Larger",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Florida Avenue Brewing Co.",
-    "Origin": "Wesley Chapel, FL United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-7567_d5811.jpeg",
-    "HallRating": -17.05,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6605289,
-    "BeerName": "Cang Tin",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Gante Brewing Co.",
-    "Origin": "Buenos Aires, Ciudad Autónoma de Buenos Aires Argentina",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-163357_33194.jpeg",
-    "HallRating": -17.05,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6609744,
-    "BeerName": "Buzzard Billy’s Light Lager",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Zipline Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-ziplinebrewingco_46743.jpeg",
-    "HallRating": -17.05,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6605737,
-    "BeerName": "Torr Scottish Mountain Lager",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Brew Toon",
-    "Origin": "Peterhead, Aberdeenshire Scotland",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338108_24f73.jpeg",
-    "HallRating": -17.05,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6612229,
-    "BeerName": "Rataskankan",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Macks Ølbryggeri",
-    "Origin": "Tromsø, Troms Norway",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2822_d22d9.jpeg",
-    "HallRating": -17.05,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6605905,
-    "BeerName": "Currock Lager",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Belhaven Brewery",
-    "Origin": "Dunbar, East Lothian Scotland",
+    "BreweryName": "Return Brewing",
+    "Origin": "Hudson, NY United States",
     "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-98_b155a.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6603347_c77e5_sm.jpeg",
     "HallRating": -17.05,
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
-    "BID": 6609404,
-    "BeerName": "Świstak Lager",
+    "BID": 6616202,
+    "BeerName": "Балтика #1 Легкий Лагер",
     "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Browar Nieczajna",
-    "Origin": "Nieczajna, Greater Poland Voivodeship Poland",
-    "BeerAbv": 4.80,
+    "BreweryName": "Baltika Breweries (Балтика)",
+    "Origin": "Sankt-Peterburg, Russia",
+    "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-477022_a621a.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-999_fe7e3.jpeg",
     "HallRating": -17.05,
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6610868,
-    "BeerName": "Bally Session Lager",
-    "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Australian Beer Co. House Beer",
-    "Origin": "Yenda, New South Wales Australia",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-185071_6888d.jpeg",
-    "HallRating": -17.05,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6609161,
@@ -192,22 +42,37 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
-    "BID": 6611200,
-    "BeerName": "Berliner",
+    "BID": 6613108,
+    "BeerName": "Island Pomelo",
     "BeerStyle": "Lager - Other Light",
-    "BreweryName": "Cerveza Candelaria",
-    "Origin": "Chorrillos, Provincia de Lima Peru",
-    "BeerAbv": 4.40,
+    "BreweryName": "Rusty Bull Brewing Co",
+    "Origin": "North Charleston, SC United States",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-227748_0bac1.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-116012_f8ccf.jpeg",
     "HallRating": -17.05,
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6603774,
+    "BeerName": "Minor Threat",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Freebridge Brewing",
+    "Origin": "The Dalles, OR United States",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-246204_be803.jpeg",
+    "HallRating": -17.05,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6609163,
@@ -222,22 +87,142 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
-    "BID": 1012411,
-    "BeerName": "Tesco Apple Cider",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Tesco Stores Ltd",
-    "Origin": "Welwyn Garden City, Hertfordshire England",
-    "BeerAbv": 5.00,
+    "BID": 6605737,
+    "BeerName": "Torr Scottish Mountain Lager",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Brew Toon",
+    "Origin": "Peterhead, Aberdeenshire Scotland",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1012411_4304e_sm.jpeg",
-    "HallRating": -17.07,
-    "BAR": -8.33,
-    "StylePlus": "74",
-    "RatingScore": 2.61,
-    "AdjustedRating": "2.057098379637907912382655342"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-338108_24f73.jpeg",
+    "HallRating": -17.05,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6607690,
+    "BeerName": "Tyburn Session",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Bexley Brewery",
+    "Origin": "Erith, Greater London England",
+    "BeerAbv": 3.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-161690_1d502.jpeg",
+    "HallRating": -17.05,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6605289,
+    "BeerName": "Cang Tin",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Gante Brewing Co.",
+    "Origin": "Buenos Aires, Ciudad Autónoma de Buenos Aires Argentina",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-163357_33194.jpeg",
+    "HallRating": -17.05,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6608105,
+    "BeerName": "Orfeusz",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Orfeusz",
+    "Origin": "Hungary",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -17.05,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6604606,
+    "BeerName": "614 Dava Lager",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "St Andrews Beach Brewery",
+    "Origin": "Fingal, Victoria Australia",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-375911_c86f0.jpeg",
+    "HallRating": -17.05,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6608903,
+    "BeerName": "Go the Distance",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Batch Brewing",
+    "Origin": "Marrickville, New South Wales Australia",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-97260_ed6c1.jpeg",
+    "HallRating": -17.05,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6604802,
+    "BeerName": "Афанасий Немецкое",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Afanasy | Афанасий",
+    "Origin": "Tver, Tver Oblast Russia",
+    "BeerAbv": 4.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-10498_11188.jpeg",
+    "HallRating": -17.05,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6608990,
+    "BeerName": "Smoke And Mirrors",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Destin Brewery",
+    "Origin": "Destin, FL United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-205164_a34d7.jpeg",
+    "HallRating": -17.05,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6605905,
+    "BeerName": "Currock Lager",
+    "BeerStyle": "Lager - Other Light",
+    "BreweryName": "Belhaven Brewery",
+    "Origin": "Dunbar, East Lothian Scotland",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-98_b155a.jpeg",
+    "HallRating": -17.05,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 1676482,
@@ -252,7 +237,22 @@
     "BAR": -7.55,
     "StylePlus": "58",
     "RatingScore": 1.91,
-    "AdjustedRating": "2.0559952120743585179157236223"
+    "AdjustedRating": "2.0554064383162879155427041084"
+  },
+  {
+    "BID": 1012411,
+    "BeerName": "Tesco Apple Cider",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Tesco Stores Ltd",
+    "Origin": "Welwyn Garden City, Hertfordshire England",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1012411_4304e_sm.jpeg",
+    "HallRating": -17.07,
+    "BAR": -8.33,
+    "StylePlus": "74",
+    "RatingScore": 2.61,
+    "AdjustedRating": "2.0637626340581800003845340409"
   },
   {
     "BID": 5013722,
@@ -267,7 +267,7 @@
     "BAR": -9.06,
     "StylePlus": "83",
     "RatingScore": 3.28,
-    "AdjustedRating": "2.063574628030075035848775072"
+    "AdjustedRating": "2.1112297218395084714205920685"
   },
   {
     "BID": 2301659,
@@ -282,7 +282,7 @@
     "BAR": -9.65,
     "StylePlus": "75",
     "RatingScore": 2.56,
-    "AdjustedRating": "2.0656763623211196729045447397"
+    "AdjustedRating": "2.1213101425758707312105370358"
   },
   {
     "BID": 1631547,
@@ -297,7 +297,7 @@
     "BAR": -8.85,
     "StylePlus": "73",
     "RatingScore": 2.44,
-    "AdjustedRating": "2.0576600937226787899982514426"
+    "AdjustedRating": "2.0678387518427518427518427518"
   },
   {
     "BID": 5615789,
@@ -312,7 +312,7 @@
     "BAR": -7.28,
     "StylePlus": "76",
     "RatingScore": 2.88,
-    "AdjustedRating": "2.0564318764361311130159198488"
+    "AdjustedRating": "2.058742000155472636815920398"
   },
   {
     "BID": 5802461,
@@ -327,7 +327,7 @@
     "BAR": -7.62,
     "StylePlus": "73",
     "RatingScore": 2.68,
-    "AdjustedRating": "2.0564869921906190797085786215"
+    "AdjustedRating": "2.0591585511407729318640384914"
   },
   {
     "BID": 11388,
@@ -342,7 +342,7 @@
     "BAR": -9.64,
     "StylePlus": "73",
     "RatingScore": 2.57,
-    "AdjustedRating": "2.0653023278764721904995139554"
+    "AdjustedRating": "2.1191764445508654306629267292"
   },
   {
     "BID": 1006274,
@@ -357,7 +357,7 @@
     "BAR": -10.78,
     "StylePlus": "79",
     "RatingScore": 2.65,
-    "AdjustedRating": "2.1954934789730727588543654534"
+    "AdjustedRating": "2.4727214435113570892330254727"
   },
   {
     "BID": 2505889,
@@ -372,6 +372,6 @@
     "BAR": -8.67,
     "StylePlus": "76",
     "RatingScore": 2.79,
-    "AdjustedRating": "2.0582068074929401645645737077"
+    "AdjustedRating": "2.072041738699218004958992943"
   }
 ]

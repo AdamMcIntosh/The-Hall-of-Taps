@@ -1,25 +1,55 @@
 [
   {
-    "BID": 6613335,
-    "BeerName": "Mt Lyell Mongrel",
+    "BID": 6603131,
+    "BeerName": "Fantomas Classic Ale",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "T-Bone Brewing Co.",
-    "Origin": "North Hobart, Tasmania Australia",
-    "BeerAbv": 4.40,
+    "BreweryName": "Brasserie Fantôme",
+    "Origin": "Érezée, Région Wallonne Belgium",
+    "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-175491_25043.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3241_93f20.jpeg",
     "HallRating": -20.71,
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
-    "BID": 1676647,
-    "BeerName": "Медове",
+    "BID": 6616219,
+    "BeerName": "Жигулёвское",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Пивовар.ua",
-    "Origin": "Ukraine",
+    "BreweryName": "Ipatovsky Pivzavod (Ипатовский Пивзавод)",
+    "Origin": "Ipatovo, Ставропольский край Russia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-169745_2b5e2.jpeg",
+    "HallRating": -20.71,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6609112,
+    "BeerName": "Chinese New Year Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Bright",
+    "Origin": "Bright, Victoria Australia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3678_e0863.jpeg",
+    "HallRating": -20.71,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6611036,
+    "BeerName": "Brewing Brothers",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Brewing Brothers",
+    "Origin": "England",
     "BeerAbv": 4.20,
     "BeerIbu": 0.00,
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
@@ -27,7 +57,22 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6602831,
+    "BeerName": "Hono Premium Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Hono Grill",
+    "Origin": "Milton, Queensland Australia",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-595587_a598e.jpeg",
+    "HallRating": -20.71,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6615978,
@@ -42,7 +87,67 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6609393,
+    "BeerName": "Jakuzzi",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Villages",
+    "Origin": "London, Greater London England",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-479896_eaff0.jpeg",
+    "HallRating": -20.71,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6613335,
+    "BeerName": "Mt Lyell Mongrel",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "T-Bone Brewing Co.",
+    "Origin": "North Hobart, Tasmania Australia",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-175491_25043.jpeg",
+    "HallRating": -20.71,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6609981,
+    "BeerName": "CASINO Sara Pieressa",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Birrificio BioNoc'",
+    "Origin": "Mezzano, Trentino-Alto Adige Italy",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-50359_f8b55.jpeg",
+    "HallRating": -20.71,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6613404,
+    "BeerName": "Brut Jowar Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Fort City Brewing",
+    "Origin": "New Delhi, Delhi India",
+    "BeerAbv": 5.30,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-545192_08fd7.jpeg",
+    "HallRating": -20.71,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6613229,
@@ -57,112 +162,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6430960,
-    "BeerName": "Put A Bow On It",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Gamma Brewing Company",
-    "Origin": "Herlev Municipality, Region Hovedstaden Denmark",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6430960_50aaa_sm.jpeg",
-    "HallRating": -20.71,
-    "BAR": -9.84,
-    "StylePlus": "77",
-    "RatingScore": 3.12,
-    "AdjustedRating": "2.0574844977980173261602657118"
-  },
-  {
-    "BID": 4980303,
-    "BeerName": "Hopla #3",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Stöhr's BierArt",
-    "Origin": "Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 12.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -20.71,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 4982160,
-    "BeerName": "Lezzet Piwo",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Gokdepe Piwo Zavody",
-    "Origin": "Turkmenistan",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -20.71,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 4982162,
-    "BeerName": "Awaza Piwo",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Gokdepe Piwo Zavody",
-    "Origin": "Turkmenistan",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -20.71,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 4982166,
-    "BeerName": "Cynar 1",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Cynar Piwo Zawody",
-    "Origin": "Turkmenistan",
-    "BeerAbv": 3.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -20.71,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 4981050,
-    "BeerName": "Merlot Majaõlu",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Kalnapilis Brewery",
-    "Origin": "Panevėžys, Panevėžio apskritis Lithuania",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-13967_15c9b.jpeg",
-    "HallRating": -20.71,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 4981204,
-    "BeerName": "Tru:Vai Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Camerons Brewery",
-    "Origin": "Hartlepool, England",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-335_f40f7.jpeg",
-    "HallRating": -20.71,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 4150948,
@@ -177,7 +177,7 @@
     "BAR": -9.15,
     "StylePlus": "76",
     "RatingScore": 2.96,
-    "AdjustedRating": "2.0566150094450463097181744663"
+    "AdjustedRating": "2.0601368055744259622289940024"
   },
   {
     "BID": 6223222,
@@ -192,7 +192,7 @@
     "BAR": -4.28,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
     "BID": 6305032,
@@ -207,7 +207,7 @@
     "BAR": -4.28,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
     "BID": 3341678,
@@ -222,7 +222,7 @@
     "BAR": -8.88,
     "StylePlus": "66",
     "RatingScore": 2.61,
-    "AdjustedRating": "2.0563221010377454471462000203"
+    "AdjustedRating": "2.0579031531899181872947395014"
   },
   {
     "BID": 5628809,
@@ -237,7 +237,7 @@
     "BAR": -11.93,
     "StylePlus": "83",
     "RatingScore": 3.39,
-    "AdjustedRating": "2.0903840640911536258903270751"
+    "AdjustedRating": "2.2804584405306347507378936784"
   },
   {
     "BID": 6609506,
@@ -252,7 +252,7 @@
     "BAR": -1.90,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
     "BID": 3345827,
@@ -267,7 +267,7 @@
     "BAR": -11.56,
     "StylePlus": "69",
     "RatingScore": 2.31,
-    "AdjustedRating": "2.0594766609274615691679658962"
+    "AdjustedRating": "2.0799542210132127464141878047"
   },
   {
     "BID": 1672621,
@@ -282,7 +282,7 @@
     "BAR": -9.12,
     "StylePlus": "65",
     "RatingScore": 2.30,
-    "AdjustedRating": "2.0562117901306469784866110372"
+    "AdjustedRating": "2.0570597397856144166537206773"
   },
   {
     "BID": 3225656,
@@ -297,7 +297,7 @@
     "BAR": -13.30,
     "StylePlus": "77",
     "RatingScore": 2.81,
-    "AdjustedRating": "2.2766713418872652258907645617"
+    "AdjustedRating": "2.6291656496424780085393741845"
   },
   {
     "BID": 1616096,
@@ -312,7 +312,7 @@
     "BAR": -11.94,
     "StylePlus": "82",
     "RatingScore": 3.35,
-    "AdjustedRating": "2.0859867986218828302111919819"
+    "AdjustedRating": "2.2546338052717579678808985426"
   },
   {
     "BID": 6012936,
@@ -327,7 +327,7 @@
     "BAR": -10.99,
     "StylePlus": "82",
     "RatingScore": 3.40,
-    "AdjustedRating": "2.0628380135603175889167949445"
+    "AdjustedRating": "2.1061576416705771938057250117"
   },
   {
     "BID": 4012855,
@@ -342,7 +342,7 @@
     "BAR": -11.13,
     "StylePlus": "71",
     "RatingScore": 2.61,
-    "AdjustedRating": "2.0594002833988435797429165465"
+    "AdjustedRating": "2.0805191933950835864845220568"
   },
   {
     "BID": 4446900,
@@ -357,7 +357,7 @@
     "BAR": -9.39,
     "StylePlus": "63",
     "RatingScore": 2.24,
-    "AdjustedRating": "2.0562027927729532479751808669"
+    "AdjustedRating": "2.0569903065342231879559211547"
   },
   {
     "BID": 3777,
@@ -372,6 +372,6 @@
     "BAR": -11.86,
     "StylePlus": "70",
     "RatingScore": 2.33,
-    "AdjustedRating": "2.0607887961606466279363475625"
+    "AdjustedRating": "2.0884313140066714811375907012"
   }
 ]

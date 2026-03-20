@@ -12,7 +12,7 @@
     "BAR": 7.47,
     "StylePlus": "117",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0569417410561660561660561661"
+    "AdjustedRating": "2.0626417931114957505980279663"
   },
   {
     "BID": 2427593,
@@ -27,7 +27,7 @@
     "BAR": 8.94,
     "StylePlus": "121",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0612566898502445142976117326"
+    "AdjustedRating": "2.0951554124393471548301720335"
   },
   {
     "BID": 1800104,
@@ -42,7 +42,7 @@
     "BAR": 10.51,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.1431810441341001432861601272"
+    "AdjustedRating": "2.5949631629601518026565464896"
   },
   {
     "BID": 6213003,
@@ -57,7 +57,7 @@
     "BAR": 8.73,
     "StylePlus": "114",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0602622918287245798772974964"
+    "AdjustedRating": "2.0877534632418069087688219663"
   },
   {
     "BID": 5421120,
@@ -72,67 +72,7 @@
     "BAR": 8.80,
     "StylePlus": "130",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.0601887115425645402176232131"
-  },
-  {
-    "BID": 6215870,
-    "BeerName": "Very Hazy Guava",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 18.04,
-    "BAR": 8.94,
-    "StylePlus": "117",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0616388973364916636835170192"
-  },
-  {
-    "BID": 5011817,
-    "BeerName": "Dark Lord - Marshmallow Handjee (2022)",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "3 Floyds Brewing",
-    "Origin": "Munster, IN United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2470_fbcd9.jpeg",
-    "HallRating": 18.04,
-    "BAR": 9.18,
-    "StylePlus": "114",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0641489685745156823058544232"
-  },
-  {
-    "BID": 6201034,
-    "BeerName": "Very Hazy Peach",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 18.04,
-    "BAR": 9.19,
-    "StylePlus": "117",
-    "RatingScore": 4.50,
-    "AdjustedRating": "2.0641231973684210526315789474"
-  },
-  {
-    "BID": 1901503,
-    "BeerName": "Crusher",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "The Alchemist",
-    "Origin": "Stowe, VT United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 110.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-25785_e0d99_sm.jpeg",
-    "HallRating": 18.04,
-    "BAR": 11.15,
-    "StylePlus": "113",
-    "RatingScore": 4.34,
-    "AdjustedRating": "2.4102316157054644902733105145"
+    "AdjustedRating": "2.0871578510585113542407752803"
   },
   {
     "BID": 6504806,
@@ -147,7 +87,67 @@
     "BAR": 9.88,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0829030532345997211161395225"
+    "AdjustedRating": "2.2477338410345881972048851557"
+  },
+  {
+    "BID": 6201034,
+    "BeerName": "Very Hazy Peach",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 18.04,
+    "BAR": 9.19,
+    "StylePlus": "117",
+    "RatingScore": 4.50,
+    "AdjustedRating": "2.1163604761633103238442961188"
+  },
+  {
+    "BID": 1901503,
+    "BeerName": "Crusher",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "The Alchemist",
+    "Origin": "Stowe, VT United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 110.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-25785_e0d99_sm.jpeg",
+    "HallRating": 18.04,
+    "BAR": 11.15,
+    "StylePlus": "113",
+    "RatingScore": 4.34,
+    "AdjustedRating": "3.3907973224428940694103442967"
+  },
+  {
+    "BID": 6215870,
+    "BeerName": "Very Hazy Guava",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 18.04,
+    "BAR": 8.94,
+    "StylePlus": "117",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.098016565602361148376710491"
+  },
+  {
+    "BID": 5011817,
+    "BeerName": "Dark Lord - Marshmallow Handjee (2022)",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "3 Floyds Brewing",
+    "Origin": "Munster, IN United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2470_fbcd9.jpeg",
+    "HallRating": 18.04,
+    "BAR": 9.18,
+    "StylePlus": "114",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.1165756370208313516598497099"
   },
   {
     "BID": 2012278,
@@ -162,7 +162,7 @@
     "BAR": 8.56,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0592955564692787403495753559"
+    "AdjustedRating": "2.0804786866132612682173535373"
   },
   {
     "BID": 2008232,
@@ -177,7 +177,7 @@
     "BAR": 11.04,
     "StylePlus": "114",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.3312758576097730865057465106"
+    "AdjustedRating": "3.21652041798857121339069693"
   },
   {
     "BID": 4202521,
@@ -192,7 +192,7 @@
     "BAR": 8.96,
     "StylePlus": "116",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0618971163359801791190268272"
+    "AdjustedRating": "2.0999300813755337277653321079"
   },
   {
     "BID": 1101178,
@@ -207,7 +207,7 @@
     "BAR": 10.97,
     "StylePlus": "115",
     "RatingScore": 4.25,
-    "AdjustedRating": "2.2980030546891980004346881113"
+    "AdjustedRating": "3.1246842178108905445272263613"
   },
   {
     "BID": 1044367,
@@ -222,7 +222,7 @@
     "BAR": 9.97,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0896093170988825637781994518"
+    "AdjustedRating": "2.2916095353635097247447585125"
   },
   {
     "BID": 6305334,
@@ -237,7 +237,7 @@
     "BAR": 7.61,
     "StylePlus": "116",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0571396416237018346640349382"
+    "AdjustedRating": "2.0641505998056365403304178814"
   },
   {
     "BID": 4016447,
@@ -252,22 +252,7 @@
     "BAR": 9.14,
     "StylePlus": "116",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.0640512805240852475481058214"
-  },
-  {
-    "BID": 3904835,
-    "BeerName": "ET STAY(ED) HOME 12 - RASPBERRY, BLUEBERRY, BLACKBERRY, SWEET CHERRY, SOUR CHERRY",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Evil Twin Brewing NYC",
-    "Origin": "Ridgewood, NY United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3904835_fb3f5_sm.jpeg",
-    "HallRating": 17.94,
-    "BAR": 9.50,
-    "StylePlus": "115",
-    "RatingScore": 4.44,
-    "AdjustedRating": "2.0705122798191125589300528094"
+    "AdjustedRating": "2.1158222409006199368653253718"
   },
   {
     "BID": 3347932,
@@ -282,7 +267,22 @@
     "BAR": 6.27,
     "StylePlus": "128",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.0563577195851737263123613344"
+    "AdjustedRating": "2.058179820381445909879020475"
+  },
+  {
+    "BID": 3904835,
+    "BeerName": "ET STAY(ED) HOME 12 - RASPBERRY, BLUEBERRY, BLACKBERRY, SWEET CHERRY, SOUR CHERRY",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Evil Twin Brewing NYC",
+    "Origin": "Ridgewood, NY United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3904835_fb3f5_sm.jpeg",
+    "HallRating": 17.94,
+    "BAR": 9.50,
+    "StylePlus": "115",
+    "RatingScore": 4.44,
+    "AdjustedRating": "2.1623506204943836968872827525"
   },
   {
     "BID": 6304961,
@@ -297,7 +297,7 @@
     "BAR": 9.10,
     "StylePlus": "120",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0634835113044581140211807978"
+    "AdjustedRating": "2.1116218939913182545122229838"
   },
   {
     "BID": 5010052,
@@ -312,37 +312,7 @@
     "BAR": 8.89,
     "StylePlus": "113",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0618480611038191156346871057"
-  },
-  {
-    "BID": 4303684,
-    "BeerName": "Double Barrel-Aged 120 Minute IPA",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 17.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-459_75746.jpeg",
-    "HallRating": 17.91,
-    "BAR": 8.20,
-    "StylePlus": "119",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0582570589249258258311701849"
-  },
-  {
-    "BID": 5811233,
-    "BeerName": "XV Barrel-Aged Stout (15th Anniversary)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 11.69,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5811233_c1931_sm.jpeg",
-    "HallRating": 17.91,
-    "BAR": 9.03,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0632437910425795909253531383"
+    "AdjustedRating": "2.0995897052849423216954738819"
   },
   {
     "BID": 6417143,
@@ -357,7 +327,7 @@
     "BAR": 7.91,
     "StylePlus": "123",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0575687509860716583550976917"
+    "AdjustedRating": "2.0674150595815704692776462369"
   },
   {
     "BID": 4617857,
@@ -372,6 +342,36 @@
     "BAR": 7.68,
     "StylePlus": "121",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0572330728285474476689472747"
+    "AdjustedRating": "2.064861729584798616643027842"
+  },
+  {
+    "BID": 5811233,
+    "BeerName": "XV Barrel-Aged Stout (15th Anniversary)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 11.69,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5811233_c1931_sm.jpeg",
+    "HallRating": 17.91,
+    "BAR": 9.03,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1099257433979545107617157686"
+  },
+  {
+    "BID": 4303684,
+    "BeerName": "Double Barrel-Aged 120 Minute IPA",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 17.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-459_75746.jpeg",
+    "HallRating": 17.91,
+    "BAR": 8.20,
+    "StylePlus": "119",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0726389378268448576409064497"
   }
 ]

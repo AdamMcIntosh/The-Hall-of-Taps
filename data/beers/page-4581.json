@@ -1,5 +1,20 @@
 [
   {
+    "BID": 3019519,
+    "BeerName": "Töwinger",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Oettinger Brauerei",
+    "Origin": "Oettingen, Bayern Germany",
+    "BeerAbv": 4.30,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3019519_01cdd_sm.jpeg",
+    "HallRating": -9.84,
+    "BAR": -5.23,
+    "StylePlus": "79",
+    "RatingScore": 2.66,
+    "AdjustedRating": "2.0846976906075295778310209691"
+  },
+  {
     "BID": 6415970,
     "BeerName": "Raw Coconut Latte Beer",
     "BeerStyle": "Stout - White / Golden",
@@ -12,22 +27,7 @@
     "BAR": -3.20,
     "StylePlus": "85",
     "RatingScore": 3.24,
-    "AdjustedRating": "2.056168346171559135817861223"
-  },
-  {
-    "BID": 2016306,
-    "BeerName": "McEwan's Export",
-    "BeerStyle": "Scottish Export Ale",
-    "BreweryName": "Eagle Brewery",
-    "Origin": "Bedford, England",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-62852_bcbcd_sm.jpeg",
-    "HallRating": -9.84,
-    "BAR": -5.63,
-    "StylePlus": "87",
-    "RatingScore": 3.13,
-    "AdjustedRating": "2.0833611516021754171905573205"
+    "AdjustedRating": "2.0567299653143146654195409018"
   },
   {
     "BID": 8439,
@@ -42,82 +42,7 @@
     "BAR": -5.42,
     "StylePlus": "84",
     "RatingScore": 2.89,
-    "AdjustedRating": "2.0660823542940466613032984714"
-  },
-  {
-    "BID": 4445327,
-    "BeerName": "Perlenbacher Lagerbier Hell",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Lidl Deutschland / Germany",
-    "Origin": "Neckarsulm, Baden-Württemberg Germany",
-    "BeerAbv": 4.70,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2187697_0e1e2_sm.jpeg",
-    "HallRating": -9.84,
-    "BAR": -5.58,
-    "StylePlus": "82",
-    "RatingScore": 2.83,
-    "AdjustedRating": "2.0724233554538729210620050963"
-  },
-  {
-    "BID": 3346237,
-    "BeerName": "Ice Cream Colored Lambo",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Other Half Brewing Co.",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3346237_a2822_sm.jpeg",
-    "HallRating": -9.84,
-    "BAR": -5.16,
-    "StylePlus": "88",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.0638944665935918628758901245"
-  },
-  {
-    "BID": 6407800,
-    "BeerName": "Haunted Mash Imperial Pumpkin Ale Halloween Series #3",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Wittorfer Brauerei Neumünster",
-    "Origin": "Neumünster, Schleswig-Holstein Germany",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407800_8da02_sm.jpeg",
-    "HallRating": -9.84,
-    "BAR": -4.59,
-    "StylePlus": "85",
-    "RatingScore": 3.11,
-    "AdjustedRating": "2.0572118218152979573576810062"
-  },
-  {
-    "BID": 2403981,
-    "BeerName": "Imperial",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Sociedade Central de Cervejas",
-    "Origin": "Vialonga, Lisboa Portugal",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_456731_sm_ec6d5a9566fc6cdb8fc55d6be3cfe6.jpeg",
-    "HallRating": -9.84,
-    "BAR": -5.31,
-    "StylePlus": "79",
-    "RatingScore": 2.67,
-    "AdjustedRating": "2.0612238612900539730361914567"
-  },
-  {
-    "BID": 3335006,
-    "BeerName": "What’cha Talkin AStout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Brewing Reserve of California",
-    "Origin": "Costa Mesa, CA United States",
-    "BeerAbv": 13.90,
-    "BeerIbu": 84.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3335006_d50a6_sm.jpeg",
-    "HallRating": -9.84,
-    "BAR": -3.29,
-    "StylePlus": "87",
-    "RatingScore": 3.52,
-    "AdjustedRating": "2.0562031922915452785205954868"
+    "AdjustedRating": "2.1270261396029183538771651296"
   },
   {
     "BID": 6617278,
@@ -132,22 +57,37 @@
     "BAR": -3.13,
     "StylePlus": "83",
     "RatingScore": 3.22,
-    "AdjustedRating": "2.0561580374437681926435564964"
+    "AdjustedRating": "2.0566510447237649809997076878"
   },
   {
-    "BID": 3019519,
-    "BeerName": "Töwinger",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Oettinger Brauerei",
-    "Origin": "Oettingen, Bayern Germany",
-    "BeerAbv": 4.30,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3019519_01cdd_sm.jpeg",
+    "BID": 2016306,
+    "BeerName": "McEwan's Export",
+    "BeerStyle": "Scottish Export Ale",
+    "BreweryName": "Eagle Brewery",
+    "Origin": "Bedford, England",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-62852_bcbcd_sm.jpeg",
     "HallRating": -9.84,
-    "BAR": -5.23,
-    "StylePlus": "79",
-    "RatingScore": 2.66,
-    "AdjustedRating": "2.0599788827583417184521492029"
+    "BAR": -5.63,
+    "StylePlus": "87",
+    "RatingScore": 3.13,
+    "AdjustedRating": "2.2348372937658454137684456868"
+  },
+  {
+    "BID": 3335006,
+    "BeerName": "What’cha Talkin AStout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Brewing Reserve of California",
+    "Origin": "Costa Mesa, CA United States",
+    "BeerAbv": 13.90,
+    "BeerIbu": 84.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3335006_d50a6_sm.jpeg",
+    "HallRating": -9.84,
+    "BAR": -3.29,
+    "StylePlus": "87",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.0569967725341958614239507424"
   },
   {
     "BID": 4415183,
@@ -162,37 +102,67 @@
     "BAR": -4.91,
     "StylePlus": "86",
     "RatingScore": 3.18,
-    "AdjustedRating": "2.0588626584696610104958562309"
+    "AdjustedRating": "2.0770294726771774070105617634"
   },
   {
-    "BID": 4301950,
-    "BeerName": "Canbic Vol 3",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Beachwood Blendery",
-    "Origin": "Long Beach, CA United States",
-    "BeerAbv": 6.50,
+    "BID": 6407800,
+    "BeerName": "Haunted Mash Imperial Pumpkin Ale Halloween Series #3",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Wittorfer Brauerei Neumünster",
+    "Origin": "Neumünster, Schleswig-Holstein Germany",
+    "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-221415_cf606.jpeg",
-    "HallRating": -9.85,
-    "BAR": -4.56,
-    "StylePlus": "89",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.0576146161535019930041487025"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407800_8da02_sm.jpeg",
+    "HallRating": -9.84,
+    "BAR": -4.59,
+    "StylePlus": "85",
+    "RatingScore": 3.11,
+    "AdjustedRating": "2.0646643530390052406644621067"
   },
   {
-    "BID": 3350361,
-    "BeerName": "Bolsjeviken",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Sälens Fjällbryggeri",
-    "Origin": "Sälen, Dalarnas län Sweden",
+    "BID": 3346237,
+    "BeerName": "Ice Cream Colored Lambo",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Other Half Brewing Co.",
+    "Origin": "Brooklyn, NY United States",
     "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-512544_2055e_sm.jpeg",
-    "HallRating": -9.85,
-    "BAR": -5.08,
-    "StylePlus": "89",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.0620322211566243074599175795"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3346237_a2822_sm.jpeg",
+    "HallRating": -9.84,
+    "BAR": -5.16,
+    "StylePlus": "88",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.113940300780078007800780078"
+  },
+  {
+    "BID": 4445327,
+    "BeerName": "Perlenbacher Lagerbier Hell",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Lidl Deutschland / Germany",
+    "Origin": "Neckarsulm, Baden-Württemberg Germany",
+    "BeerAbv": 4.70,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2187697_0e1e2_sm.jpeg",
+    "HallRating": -9.84,
+    "BAR": -5.58,
+    "StylePlus": "82",
+    "RatingScore": 2.83,
+    "AdjustedRating": "2.1658405842786868788274269652"
+  },
+  {
+    "BID": 2403981,
+    "BeerName": "Imperial",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Sociedade Central de Cervejas",
+    "Origin": "Vialonga, Lisboa Portugal",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_456731_sm_ec6d5a9566fc6cdb8fc55d6be3cfe6.jpeg",
+    "HallRating": -9.84,
+    "BAR": -5.31,
+    "StylePlus": "79",
+    "RatingScore": 2.67,
+    "AdjustedRating": "2.0933857376208614122472897744"
   },
   {
     "BID": 634919,
@@ -207,7 +177,22 @@
     "BAR": -4.64,
     "StylePlus": "79",
     "RatingScore": 2.71,
-    "AdjustedRating": "2.056870100553036618343736657"
+    "AdjustedRating": "2.0620593543650870312771670885"
+  },
+  {
+    "BID": 4301950,
+    "BeerName": "Canbic Vol 3",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Beachwood Blendery",
+    "Origin": "Long Beach, CA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-221415_cf606.jpeg",
+    "HallRating": -9.85,
+    "BAR": -4.56,
+    "StylePlus": "89",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.0677358173197871311078858249"
   },
   {
     "BID": 4632177,
@@ -222,22 +207,22 @@
     "BAR": -5.10,
     "StylePlus": "86",
     "RatingScore": 3.13,
-    "AdjustedRating": "2.0605984473432155074116305587"
+    "AdjustedRating": "2.0897319752969838901584543617"
   },
   {
-    "BID": 4215368,
-    "BeerName": "Pistonhead X-Edition",
-    "BeerStyle": "Lager - IPL (India Pale Lager)",
-    "BreweryName": "Brutal Brewing",
-    "Origin": "Vårby, Stockholms län Sweden",
-    "BeerAbv": 5.00,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4215368_96339_sm.jpeg",
-    "HallRating": -9.86,
-    "BAR": -5.74,
-    "StylePlus": "84",
-    "RatingScore": 3.05,
-    "AdjustedRating": "2.0930527184404651949051015133"
+    "BID": 3350361,
+    "BeerName": "Bolsjeviken",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Sälens Fjällbryggeri",
+    "Origin": "Sälen, Dalarnas län Sweden",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-512544_2055e_sm.jpeg",
+    "HallRating": -9.85,
+    "BAR": -5.08,
+    "StylePlus": "89",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.1004823662057093131041788842"
   },
   {
     "BID": 5220499,
@@ -252,7 +237,7 @@
     "BAR": -4.13,
     "StylePlus": "82",
     "RatingScore": 3.01,
-    "AdjustedRating": "2.0564358319868951202637255301"
+    "AdjustedRating": "2.0587731770195392242636337125"
   },
   {
     "BID": 2021936,
@@ -267,7 +252,22 @@
     "BAR": -4.52,
     "StylePlus": "81",
     "RatingScore": 2.79,
-    "AdjustedRating": "2.0567351839223064015864137896"
+    "AdjustedRating": "2.061044140281570131102461318"
+  },
+  {
+    "BID": 4215368,
+    "BeerName": "Pistonhead X-Edition",
+    "BeerStyle": "Lager - IPL (India Pale Lager)",
+    "BreweryName": "Brutal Brewing",
+    "Origin": "Vårby, Stockholms län Sweden",
+    "BeerAbv": 5.00,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4215368_96339_sm.jpeg",
+    "HallRating": -9.86,
+    "BAR": -5.74,
+    "StylePlus": "84",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.2830913521482729570345408593"
   },
   {
     "BID": 5223688,
@@ -282,7 +282,7 @@
     "BAR": -5.40,
     "StylePlus": "81",
     "RatingScore": 2.82,
-    "AdjustedRating": "2.0642836144139154950850209563"
+    "AdjustedRating": "2.1147177225762321344997659934"
   },
   {
     "BID": 1818033,
@@ -297,52 +297,7 @@
     "BAR": -4.93,
     "StylePlus": "77",
     "RatingScore": 2.62,
-    "AdjustedRating": "2.0574781699998730851725407079"
-  },
-  {
-    "BID": 3346195,
-    "BeerName": "The Nebulous Wein",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Snake River Brewing",
-    "Origin": "Jackson, WY United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3346195_737bd_sm.jpeg",
-    "HallRating": -9.87,
-    "BAR": -3.89,
-    "StylePlus": "85",
-    "RatingScore": 3.28,
-    "AdjustedRating": "2.0563642283498820853717172796"
-  },
-  {
-    "BID": 6035654,
-    "BeerName": "Guava Cider",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Wildcraft Beverage",
-    "Origin": "Panvel, Maharashtra India",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5281236_e6058_sm.jpeg",
-    "HallRating": -9.87,
-    "BAR": -3.11,
-    "StylePlus": "80",
-    "RatingScore": 2.94,
-    "AdjustedRating": "2.0561379775428418762642647227"
-  },
-  {
-    "BID": 4015476,
-    "BeerName": "Spontanpeach",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Mikkeller",
-    "Origin": "Copenhagen, Region Hovedstaden Denmark",
-    "BeerAbv": 7.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_355351_sm_8f9ac21721a0bc56c53593d1fb460b.jpeg",
-    "HallRating": -9.87,
-    "BAR": -5.61,
-    "StylePlus": "90",
-    "RatingScore": 3.69,
-    "AdjustedRating": "2.0921999861747711969423252064"
+    "AdjustedRating": "2.0665932259298943823664472677"
   },
   {
     "BID": 1001143,
@@ -357,7 +312,7 @@
     "BAR": -5.78,
     "StylePlus": "86",
     "RatingScore": 2.90,
-    "AdjustedRating": "2.0918510644761979024523373231"
+    "AdjustedRating": "2.2697938115690927886085348631"
   },
   {
     "BID": 4941557,
@@ -372,6 +327,51 @@
     "BAR": -5.30,
     "StylePlus": "86",
     "RatingScore": 3.33,
-    "AdjustedRating": "2.0657702164231493780334442755"
+    "AdjustedRating": "2.126722866245557172059446419"
+  },
+  {
+    "BID": 3346195,
+    "BeerName": "The Nebulous Wein",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Snake River Brewing",
+    "Origin": "Jackson, WY United States",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3346195_737bd_sm.jpeg",
+    "HallRating": -9.87,
+    "BAR": -3.89,
+    "StylePlus": "85",
+    "RatingScore": 3.28,
+    "AdjustedRating": "2.0582278777734527053328143246"
+  },
+  {
+    "BID": 6035654,
+    "BeerName": "Guava Cider",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Wildcraft Beverage",
+    "Origin": "Panvel, Maharashtra India",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5281236_e6058_sm.jpeg",
+    "HallRating": -9.87,
+    "BAR": -3.11,
+    "StylePlus": "80",
+    "RatingScore": 2.94,
+    "AdjustedRating": "2.0564974151303737771368437463"
+  },
+  {
+    "BID": 4015476,
+    "BeerName": "Spontanpeach",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Mikkeller",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 7.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_355351_sm_8f9ac21721a0bc56c53593d1fb460b.jpeg",
+    "HallRating": -9.87,
+    "BAR": -5.61,
+    "StylePlus": "90",
+    "RatingScore": 3.69,
+    "AdjustedRating": "2.2972897871138218137702956475"
   }
 ]

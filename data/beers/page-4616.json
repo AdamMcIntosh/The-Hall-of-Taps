@@ -1,20 +1,5 @@
 [
   {
-    "BID": 3232862,
-    "BeerName": "Strohl‘s G'spritzter",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Landkelterei Höhl",
-    "Origin": "Maintal, Hessen Germany",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-5649_4784d.jpeg",
-    "HallRating": -12.10,
-    "BAR": -4.25,
-    "StylePlus": "76",
-    "RatingScore": 2.70,
-    "AdjustedRating": "2.0561528096724702505896451443"
-  },
-  {
     "BID": 418108,
     "BeerName": "Bedstefars Øl",
     "BeerStyle": "Stout - Other",
@@ -27,37 +12,22 @@
     "BAR": -5.85,
     "StylePlus": "81",
     "RatingScore": 2.96,
-    "AdjustedRating": "2.0575536663626594450132230439"
+    "AdjustedRating": "2.0672241163104178702098979395"
   },
   {
-    "BID": 237397,
-    "BeerName": "Tusker Lite",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Kenya Breweries Limited",
-    "Origin": "Nairobi, Nairobi County Kenya",
-    "BeerAbv": 4.00,
+    "BID": 5013422,
+    "BeerName": "Pickle David",
+    "BeerStyle": "Freeze-Distilled Beer",
+    "BreweryName": "Braumanufaktur Hertl",
+    "Origin": "Schlüsselfeld, Bayern Germany",
+    "BeerAbv": 10.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-237397_4ebc8_sm.jpeg",
-    "HallRating": -12.11,
-    "BAR": -6.38,
-    "StylePlus": "82",
-    "RatingScore": 2.72,
-    "AdjustedRating": "2.0597866553068738217841824922"
-  },
-  {
-    "BID": 3857,
-    "BeerName": "Labatt Crystal",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Labatt Brewing Company",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LabattCrystal_3857.jpeg",
-    "HallRating": -12.11,
-    "BAR": -6.04,
-    "StylePlus": "79",
-    "RatingScore": 2.71,
-    "AdjustedRating": "2.0576824635465054295679190972"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5013422_50654_sm.jpeg",
+    "HallRating": -12.10,
+    "BAR": -5.64,
+    "StylePlus": "77",
+    "RatingScore": 3.04,
+    "AdjustedRating": "2.0639623309608540925266903915"
   },
   {
     "BID": 3335965,
@@ -72,7 +42,22 @@
     "BAR": -3.62,
     "StylePlus": "75",
     "RatingScore": 2.62,
-    "AdjustedRating": "2.0561112624208035418946082797"
+    "AdjustedRating": "2.0562928211424896217037946559"
+  },
+  {
+    "BID": 237397,
+    "BeerName": "Tusker Lite",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Kenya Breweries Limited",
+    "Origin": "Nairobi, Nairobi County Kenya",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-237397_4ebc8_sm.jpeg",
+    "HallRating": -12.11,
+    "BAR": -6.38,
+    "StylePlus": "82",
+    "RatingScore": 2.72,
+    "AdjustedRating": "2.0834379250009346842636557371"
   },
   {
     "BID": 6603813,
@@ -87,7 +72,22 @@
     "BAR": -5.94,
     "StylePlus": "79",
     "RatingScore": 2.70,
-    "AdjustedRating": "2.0573513387240137543617275235"
+    "AdjustedRating": "2.0656688439450686641697877653"
+  },
+  {
+    "BID": 3857,
+    "BeerName": "Labatt Crystal",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Labatt Brewing Company",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LabattCrystal_3857.jpeg",
+    "HallRating": -12.11,
+    "BAR": -6.04,
+    "StylePlus": "79",
+    "RatingScore": 2.71,
+    "AdjustedRating": "2.0681353866763630796317914761"
   },
   {
     "BID": 2213790,
@@ -102,7 +102,7 @@
     "BAR": -6.31,
     "StylePlus": "82",
     "RatingScore": 3.03,
-    "AdjustedRating": "2.0605686477359938603223330775"
+    "AdjustedRating": "2.0894232198538826542140543798"
   },
   {
     "BID": 6026488,
@@ -117,7 +117,7 @@
     "BAR": -6.69,
     "StylePlus": "81",
     "RatingScore": 2.78,
-    "AdjustedRating": "2.0651786277679646022146229437"
+    "AdjustedRating": "2.1203863627642565286907088293"
   },
   {
     "BID": 607411,
@@ -132,7 +132,7 @@
     "BAR": -6.89,
     "StylePlus": "79",
     "RatingScore": 2.72,
-    "AdjustedRating": "2.070650902657245891684316102"
+    "AdjustedRating": "2.1534633540744684390909393405"
   },
   {
     "BID": 3336680,
@@ -147,7 +147,7 @@
     "BAR": -6.23,
     "StylePlus": "86",
     "RatingScore": 3.30,
-    "AdjustedRating": "2.0606944483728099418688665063"
+    "AdjustedRating": "2.0905586207158022444646648468"
   },
   {
     "BID": 4607730,
@@ -162,52 +162,7 @@
     "BAR": -6.22,
     "StylePlus": "83",
     "RatingScore": 3.09,
-    "AdjustedRating": "2.0598246967531907772971821773"
-  },
-  {
-    "BID": 46618,
-    "BeerName": "Laker Ice",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Waterloo Brewing",
-    "Origin": "Kitchener, ON Canada",
-    "BeerAbv": 5.50,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-46618_16830_sm.jpeg",
-    "HallRating": -12.14,
-    "BAR": -6.53,
-    "StylePlus": "80",
-    "RatingScore": 2.76,
-    "AdjustedRating": "2.0615755546062547812189930847"
-  },
-  {
-    "BID": 2439196,
-    "BeerName": "Zubatá žába",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Pivovar Hasič",
-    "Origin": "Bruntál 1, Moravskoslezský kraj Czech Republic",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2439196_39f7a_sm.jpeg",
-    "HallRating": -12.14,
-    "BAR": -4.91,
-    "StylePlus": "80",
-    "RatingScore": 2.97,
-    "AdjustedRating": "2.0563374134927499364029509031"
-  },
-  {
-    "BID": 4632226,
-    "BeerName": "Passion For Punk",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Alliaria Bryggeri",
-    "Origin": "Västerås, Västmanlands län Sweden",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-483012_b70e3.jpeg",
-    "HallRating": -12.14,
-    "BAR": -3.21,
-    "StylePlus": "86",
-    "RatingScore": 3.58,
-    "AdjustedRating": "2.0561305314310577781848993519"
+    "AdjustedRating": "2.0840711413775442456892463532"
   },
   {
     "BID": 3335072,
@@ -222,37 +177,52 @@
     "BAR": -4.83,
     "StylePlus": "83",
     "RatingScore": 3.26,
-    "AdjustedRating": "2.0563780212624686138183150295"
+    "AdjustedRating": "2.0583331716810026077141633908"
   },
   {
-    "BID": 4215466,
-    "BeerName": "10 4 Brewing - New England IPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "ALDI Stores UK",
-    "Origin": "Atherstone, Warwickshire England",
-    "BeerAbv": 4.50,
+    "BID": 2439196,
+    "BeerName": "Zubatá žába",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Pivovar Hasič",
+    "Origin": "Bruntál 1, Moravskoslezský kraj Czech Republic",
+    "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4215466_02bbb_sm.jpeg",
-    "HallRating": -12.15,
-    "BAR": -6.54,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2439196_39f7a_sm.jpeg",
+    "HallRating": -12.14,
+    "BAR": -4.91,
+    "StylePlus": "80",
+    "RatingScore": 2.97,
+    "AdjustedRating": "2.0580221086013346563162707446"
+  },
+  {
+    "BID": 4632226,
+    "BeerName": "Passion For Punk",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Alliaria Bryggeri",
+    "Origin": "Västerås, Västmanlands län Sweden",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-483012_b70e3.jpeg",
+    "HallRating": -12.14,
+    "BAR": -3.21,
     "StylePlus": "86",
-    "RatingScore": 3.31,
-    "AdjustedRating": "2.0660956023263680285949403515"
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.0564404576819617168921289618"
   },
   {
-    "BID": 633536,
-    "BeerName": "Amigo Pura Vida Extra",
-    "BeerStyle": "Lager - Mexican",
-    "BreweryName": "Brouwerij Martens",
-    "Origin": "Bocholt, Vlaams Gewest Belgium",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-26017_80fa7.jpeg",
-    "HallRating": -12.15,
-    "BAR": -6.98,
-    "StylePlus": "84",
-    "RatingScore": 3.05,
-    "AdjustedRating": "2.0834600869143476474925888717"
+    "BID": 46618,
+    "BeerName": "Laker Ice",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Waterloo Brewing",
+    "Origin": "Kitchener, ON Canada",
+    "BeerAbv": 5.50,
+    "BeerIbu": 13.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-46618_16830_sm.jpeg",
+    "HallRating": -12.14,
+    "BAR": -6.53,
+    "StylePlus": "80",
+    "RatingScore": 2.76,
+    "AdjustedRating": "2.0960821691798455314453843325"
   },
   {
     "BID": 3345102,
@@ -267,7 +237,37 @@
     "BAR": -4.71,
     "StylePlus": "82",
     "RatingScore": 3.16,
-    "AdjustedRating": "2.0563058672602844277100770855"
+    "AdjustedRating": "2.0577817041406295625766512877"
+  },
+  {
+    "BID": 4215466,
+    "BeerName": "10 4 Brewing - New England IPA",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "ALDI Stores UK",
+    "Origin": "Atherstone, Warwickshire England",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4215466_02bbb_sm.jpeg",
+    "HallRating": -12.15,
+    "BAR": -6.54,
+    "StylePlus": "86",
+    "RatingScore": 3.31,
+    "AdjustedRating": "2.1289199559252933722659908545"
+  },
+  {
+    "BID": 633536,
+    "BeerName": "Amigo Pura Vida Extra",
+    "BeerStyle": "Lager - Mexican",
+    "BreweryName": "Brouwerij Martens",
+    "Origin": "Bocholt, Vlaams Gewest Belgium",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-26017_80fa7.jpeg",
+    "HallRating": -12.15,
+    "BAR": -6.98,
+    "StylePlus": "84",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.2333204908604476057736979542"
   },
   {
     "BID": 6431032,
@@ -282,22 +282,7 @@
     "BAR": -5.75,
     "StylePlus": "88",
     "RatingScore": 3.63,
-    "AdjustedRating": "2.0580519799940531102995555081"
-  },
-  {
-    "BID": 6402149,
-    "BeerName": "Apatinsko",
-    "BeerStyle": "Pilsner - Czech / Bohemian",
-    "BreweryName": "Apatinska Pivara",
-    "Origin": "Apatin, Vojvodina Serbia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_186604_sm_ba439cf0428137edb657ec951ebadc.jpeg",
-    "HallRating": -12.17,
-    "BAR": -6.70,
-    "StylePlus": "78",
-    "RatingScore": 2.68,
-    "AdjustedRating": "2.0634916818006954763862383176"
+    "AdjustedRating": "2.0710383600478930902630257618"
   },
   {
     "BID": 4618497,
@@ -312,37 +297,22 @@
     "BAR": -5.53,
     "StylePlus": "84",
     "RatingScore": 3.37,
-    "AdjustedRating": "2.0571429954234340516846847763"
+    "AdjustedRating": "2.0641548309337880520084484663"
   },
   {
-    "BID": 6204136,
-    "BeerName": "Mr Grapefruzu",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Cavalier Brewing",
-    "Origin": "Derrimut, Victoria Australia",
-    "BeerAbv": 8.00,
+    "BID": 6402149,
+    "BeerName": "Apatinsko",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Apatinska Pivara",
+    "Origin": "Apatin, Vojvodina Serbia",
+    "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-9386_a72c2.jpeg",
-    "HallRating": -12.18,
-    "BAR": -5.05,
-    "StylePlus": "83",
-    "RatingScore": 3.20,
-    "AdjustedRating": "2.0564710046804570568065038003"
-  },
-  {
-    "BID": 4505376,
-    "BeerName": "SPAR Bier N°1",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Frankenthaler Brauhaus",
-    "Origin": "Frankenthal, Rheinland-Pfalz Germany",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-FrankenthalerBrauhaus_32111.jpeg",
-    "HallRating": -12.18,
-    "BAR": -5.43,
-    "StylePlus": "74",
-    "RatingScore": 2.55,
-    "AdjustedRating": "2.0564105552026568273189387948"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_186604_sm_ba439cf0428137edb657ec951ebadc.jpeg",
+    "HallRating": -12.17,
+    "BAR": -6.70,
+    "StylePlus": "78",
+    "RatingScore": 2.68,
+    "AdjustedRating": "2.1086822173819895736627865457"
   },
   {
     "BID": 3338102,
@@ -357,7 +327,22 @@
     "BAR": -3.68,
     "StylePlus": "67",
     "RatingScore": 2.29,
-    "AdjustedRating": "2.0560959037889524720682118312"
+    "AdjustedRating": "2.0561751775482362112648606509"
+  },
+  {
+    "BID": 4505376,
+    "BeerName": "SPAR Bier N°1",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Frankenthaler Brauhaus",
+    "Origin": "Frankenthal, Rheinland-Pfalz Germany",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-FrankenthalerBrauhaus_32111.jpeg",
+    "HallRating": -12.18,
+    "BAR": -5.43,
+    "StylePlus": "74",
+    "RatingScore": 2.55,
+    "AdjustedRating": "2.0585751379243452958292919496"
   },
   {
     "BID": 5205766,
@@ -372,6 +357,21 @@
     "BAR": -4.18,
     "StylePlus": "74",
     "RatingScore": 2.47,
-    "AdjustedRating": "2.0561229664146065929144997303"
+    "AdjustedRating": "2.0563823788649248933309953825"
+  },
+  {
+    "BID": 6204136,
+    "BeerName": "Mr Grapefruzu",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Cavalier Brewing",
+    "Origin": "Derrimut, Victoria Australia",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-9386_a72c2.jpeg",
+    "HallRating": -12.18,
+    "BAR": -5.05,
+    "StylePlus": "83",
+    "RatingScore": 3.20,
+    "AdjustedRating": "2.0590426143943371643039107014"
   }
 ]

@@ -1,20 +1,5 @@
 [
   {
-    "BID": 4605202,
-    "BeerName": "Bière De Garde",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Fox Farm Brewery",
-    "Origin": "Salem, CT United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3206667_e82ec_sm.jpeg",
-    "HallRating": 15.98,
-    "BAR": 7.76,
-    "StylePlus": "118",
-    "RatingScore": 4.29,
-    "AdjustedRating": "2.0599597058581465882938675147"
-  },
-  {
     "BID": 2626302,
     "BeerName": "Pjassel (2017)",
     "BeerStyle": "Lambic - Fruit",
@@ -27,7 +12,22 @@
     "BAR": 8.04,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0628927812728380024360535932"
+    "AdjustedRating": "2.107310722999675442448309437"
+  },
+  {
+    "BID": 4605202,
+    "BeerName": "Bière De Garde",
+    "BeerStyle": "Farmhouse Ale - Bière de Garde",
+    "BreweryName": "Fox Farm Brewery",
+    "Origin": "Salem, CT United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3206667_e82ec_sm.jpeg",
+    "HallRating": 15.98,
+    "BAR": 7.76,
+    "StylePlus": "118",
+    "RatingScore": 4.29,
+    "AdjustedRating": "2.0854408704519654435957131588"
   },
   {
     "BID": 2704692,
@@ -42,7 +42,7 @@
     "BAR": 6.92,
     "StylePlus": "121",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0572673746690506044197799012"
+    "AdjustedRating": "2.0651211661422522627510391174"
   },
   {
     "BID": 2405287,
@@ -57,22 +57,7 @@
     "BAR": 9.42,
     "StylePlus": "110",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.1730281097688580645940818965"
-  },
-  {
-    "BID": 4631290,
-    "BeerName": "A Deeper Understanding",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Forager Brewery",
-    "Origin": "Rochester, MN United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4631290_affb9_sm.jpeg",
-    "HallRating": 15.96,
-    "BAR": 7.95,
-    "StylePlus": "112",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0620320434074051510120779201"
+    "AdjustedRating": "2.7271496291982139390409629198"
   },
   {
     "BID": 5041309,
@@ -87,7 +72,22 @@
     "BAR": 7.84,
     "StylePlus": "123",
     "RatingScore": 4.22,
-    "AdjustedRating": "2.0604142609026890717889983976"
+    "AdjustedRating": "2.0888265363493221705902684435"
+  },
+  {
+    "BID": 4631290,
+    "BeerName": "A Deeper Understanding",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Forager Brewery",
+    "Origin": "Rochester, MN United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4631290_affb9_sm.jpeg",
+    "HallRating": 15.96,
+    "BAR": 7.95,
+    "StylePlus": "112",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1009373549510920541337263835"
   },
   {
     "BID": 4012329,
@@ -102,7 +102,7 @@
     "BAR": 8.20,
     "StylePlus": "110",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.0650582221580020077267058072"
+    "AdjustedRating": "2.1231633985788725722406442444"
   },
   {
     "BID": 4005767,
@@ -117,37 +117,7 @@
     "BAR": 8.39,
     "StylePlus": "116",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.0686350578778867447010439734"
-  },
-  {
-    "BID": 6302879,
-    "BeerName": "Super Treat",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3263475_b039f_sm.jpeg",
-    "HallRating": 15.95,
-    "BAR": 9.69,
-    "StylePlus": "109",
-    "RatingScore": 4.40,
-    "AdjustedRating": "2.2922390800554663151969466068"
-  },
-  {
-    "BID": 1007466,
-    "BeerName": "Red Angel",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Wicked Weed Brewing",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1007466_06e5c_sm.jpeg",
-    "HallRating": 15.95,
-    "BAR": 9.15,
-    "StylePlus": "112",
-    "RatingScore": 4.30,
-    "AdjustedRating": "2.1167929888022103441531594206"
+    "AdjustedRating": "2.1489118815513626834381551363"
   },
   {
     "BID": 2818499,
@@ -162,22 +132,37 @@
     "BAR": 8.72,
     "StylePlus": "116",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.0795891362489614019185739104"
+    "AdjustedRating": "2.2243858436243667634174043159"
   },
   {
-    "BID": 5605304,
-    "BeerName": "Mead Didn’t Start the Fire",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Funktastic Meads",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 20.00,
+    "BID": 6302879,
+    "BeerName": "Super Treat",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.30,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605304_7fee3_sm.jpeg",
-    "HallRating": 15.94,
-    "BAR": 5.85,
-    "StylePlus": "116",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0564441750940093525948616701"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3263475_b039f_sm.jpeg",
+    "HallRating": 15.95,
+    "BAR": 9.69,
+    "StylePlus": "109",
+    "RatingScore": 4.40,
+    "AdjustedRating": "3.1387936379181922136779933068"
+  },
+  {
+    "BID": 1007466,
+    "BeerName": "Red Angel",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Wicked Weed Brewing",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1007466_06e5c_sm.jpeg",
+    "HallRating": 15.95,
+    "BAR": 9.15,
+    "StylePlus": "112",
+    "RatingScore": 4.30,
+    "AdjustedRating": "2.450206505512874087884535022"
   },
   {
     "BID": 5009208,
@@ -192,7 +177,22 @@
     "BAR": 7.93,
     "StylePlus": "111",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.062091939440248778320746335"
+    "AdjustedRating": "2.1014018144914215686274509804"
+  },
+  {
+    "BID": 5605304,
+    "BeerName": "Mead Didn’t Start the Fire",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Funktastic Meads",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 20.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605304_7fee3_sm.jpeg",
+    "HallRating": 15.94,
+    "BAR": 5.85,
+    "StylePlus": "116",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.058841140520011685655857435"
   },
   {
     "BID": 3032575,
@@ -207,22 +207,7 @@
     "BAR": 8.80,
     "StylePlus": "111",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0863502375465449922362199185"
-  },
-  {
-    "BID": 4017100,
-    "BeerName": "Blueberry Spaceship Box",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Superstition Meadery",
-    "Origin": "Prescott, AZ United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-915835_34d7c_sm.jpeg",
-    "HallRating": 15.92,
-    "BAR": 9.27,
-    "StylePlus": "115",
-    "RatingScore": 4.21,
-    "AdjustedRating": "2.1353806193053145495720714097"
+    "AdjustedRating": "2.2700415331876876076801477771"
   },
   {
     "BID": 6006400,
@@ -237,22 +222,7 @@
     "BAR": 7.32,
     "StylePlus": "116",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0582234699743483489133004701"
-  },
-  {
-    "BID": 4808945,
-    "BeerName": "Past, Remembered",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Sante Adairius Rustic Ales",
-    "Origin": "Capitola, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
-    "HallRating": 15.92,
-    "BAR": 7.83,
-    "StylePlus": "118",
-    "RatingScore": 4.35,
-    "AdjustedRating": "2.0607616094810992549404003108"
+    "AdjustedRating": "2.0723786616582116717654803857"
   },
   {
     "BID": 3216838,
@@ -267,22 +237,37 @@
     "BAR": 8.30,
     "StylePlus": "114",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.0669891790609329889074608722"
+    "AdjustedRating": "2.1370866336838540980831091631"
   },
   {
-    "BID": 4304908,
-    "BeerName": "TDH All Citra Everything",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Other Half Brewing Co.",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 8.50,
+    "BID": 4017100,
+    "BeerName": "Blueberry Spaceship Box",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Superstition Meadery",
+    "Origin": "Prescott, AZ United States",
+    "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4298422_aed81_sm.jpeg",
-    "HallRating": 15.91,
-    "BAR": 8.77,
-    "StylePlus": "111",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.08541353352184896127889002"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-915835_34d7c_sm.jpeg",
+    "HallRating": 15.92,
+    "BAR": 9.27,
+    "StylePlus": "115",
+    "RatingScore": 4.21,
+    "AdjustedRating": "2.543996597246309058828851925"
+  },
+  {
+    "BID": 4808945,
+    "BeerName": "Past, Remembered",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Sante Adairius Rustic Ales",
+    "Origin": "Capitola, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
+    "HallRating": 15.92,
+    "BAR": 7.83,
+    "StylePlus": "118",
+    "RatingScore": 4.35,
+    "AdjustedRating": "2.0914441164839805732056130382"
   },
   {
     "BID": 2003988,
@@ -297,7 +282,22 @@
     "BAR": 8.57,
     "StylePlus": "116",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.0740185348396965061864881646"
+    "AdjustedRating": "2.1864944179131871157199229146"
+  },
+  {
+    "BID": 4304908,
+    "BeerName": "TDH All Citra Everything",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Other Half Brewing Co.",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4298422_aed81_sm.jpeg",
+    "HallRating": 15.91,
+    "BAR": 8.77,
+    "StylePlus": "111",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.263917575520091194072385295"
   },
   {
     "BID": 6228539,
@@ -312,7 +312,7 @@
     "BAR": 7.00,
     "StylePlus": "150",
     "RatingScore": 4.02,
-    "AdjustedRating": "2.057227728101317328721835105"
+    "AdjustedRating": "2.0648135320949552592247520332"
   },
   {
     "BID": 6502156,
@@ -327,7 +327,7 @@
     "BAR": 7.02,
     "StylePlus": "114",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0575859297959183673469387755"
+    "AdjustedRating": "2.0675465484046269699557487773"
   },
   {
     "BID": 4200156,
@@ -342,7 +342,7 @@
     "BAR": 7.78,
     "StylePlus": "110",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0608217365036471138021415365"
+    "AdjustedRating": "2.0919332825982511770923416931"
   },
   {
     "BID": 6305131,
@@ -357,21 +357,21 @@
     "BAR": 7.25,
     "StylePlus": "112",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0582202716464964914064883555"
+    "AdjustedRating": "2.0723616954997190956818225847"
   },
   {
-    "BID": 4100225,
-    "BeerName": "Triple Coconut Mexican Cake (Bourbon Barrel Aged) 2020",
-    "BeerStyle": "Stout - Pastry",
-    "BreweryName": "Westbrook Brewing Co.",
-    "Origin": "Mount Pleasant, SC United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4100225_02de2_sm.jpeg",
+    "BID": 5627195,
+    "BeerName": "Bantha Blue",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Standard Meadery",
+    "Origin": "Villa Park, IL United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-380173_f0672.jpeg",
     "HallRating": 15.89,
-    "BAR": 7.53,
-    "StylePlus": "114",
+    "BAR": 7.32,
+    "StylePlus": "117",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0591569051726328736905772388"
+    "AdjustedRating": "2.0730241290122739768459364231"
   }
 ]

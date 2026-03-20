@@ -1,50 +1,5 @@
 [
   {
-    "BID": 6616983,
-    "BeerName": "Квас Хлебный",
-    "BeerStyle": "Kvass",
-    "BreweryName": "Родник-Аква",
-    "Origin": "Russia",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -22.31,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6614246,
-    "BeerName": "Квас Белорусский Тёмный Белая Хатка",
-    "BeerStyle": "Kvass",
-    "BreweryName": "БелАкваБай",
-    "Origin": "Belarus",
-    "BeerAbv": 1.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -22.31,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 3344117,
-    "BeerName": "Cvas De Soroca",
-    "BeerStyle": "Kvass",
-    "BreweryName": "Bere De Soroca",
-    "Origin": "Soroca, Raionul Soroca Moldova",
-    "BeerAbv": 1.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -22.31,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
     "BID": 6612771,
     "BeerName": "Gator Bait Tangerine",
     "BeerStyle": "Lager - German Light / Leichtbier",
@@ -57,52 +12,7 @@
     "BAR": -3.06,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
-  },
-  {
-    "BID": 6616919,
-    "BeerName": "Квас Домашний",
-    "BeerStyle": "Kvass",
-    "BreweryName": "ИП Антипова К.В.",
-    "Origin": "Russia",
-    "BeerAbv": 1.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -22.31,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6604038,
-    "BeerName": "Birell Vitality Marakuja & Maté",
-    "BeerStyle": "Non-Alcoholic - Shandy / Radler",
-    "BreweryName": "Plzeňský Prazdroj",
-    "Origin": "Plzeň-město, Plzeňský kraj Czech Republic",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1459_c1a81.jpeg",
-    "HallRating": -22.31,
-    "BAR": -3.06,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
-  },
-  {
-    "BID": 3343455,
-    "BeerName": "Dzirnavu Kvasa Dzēriens",
-    "BeerStyle": "Kvass",
-    "BreweryName": "Baltā Bura",
-    "Origin": "Rumbula, Ropažu novads Latvia",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-438619_714da.jpeg",
-    "HallRating": -22.31,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 3343549,
@@ -117,7 +27,97 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6615735,
+    "BeerName": "Квас житній функціональний з шипшиною та вишневими листками",
+    "BeerStyle": "Kvass",
+    "BreweryName": "Berryland",
+    "Origin": "Makariv, Kyiv Oblast Ukraine",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-422696_0f61d.jpeg",
+    "HallRating": -22.31,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 3343455,
+    "BeerName": "Dzirnavu Kvasa Dzēriens",
+    "BeerStyle": "Kvass",
+    "BreweryName": "Baltā Bura",
+    "Origin": "Rumbula, Ropažu novads Latvia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-438619_714da.jpeg",
+    "HallRating": -22.31,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 4979740,
+    "BeerName": "Кваснов. Квас натуральный",
+    "BeerStyle": "Kvass",
+    "BreweryName": "ИП Васяева О.В.",
+    "Origin": "Omsk, Omsk Oblast Russia",
+    "BeerAbv": 1.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -22.31,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6615608,
+    "BeerName": "Квас житній функціональний з березовим листям та мʼятою",
+    "BeerStyle": "Kvass",
+    "BreweryName": "Berryland",
+    "Origin": "Makariv, Kyiv Oblast Ukraine",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-422696_0f61d.jpeg",
+    "HallRating": -22.31,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 3348592,
+    "BeerName": "Albeer Cvas",
+    "BeerStyle": "Kvass",
+    "BreweryName": "0,5 Pub",
+    "Origin": "Moldova",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-350373_1cafc.jpeg",
+    "HallRating": -22.31,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 3345959,
+    "BeerName": "Loaf",
+    "BeerStyle": "Kvass",
+    "BreweryName": "Brewmented",
+    "Origin": "Longmont, CO United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 8.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-392545_09774.jpeg",
+    "HallRating": -22.31,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 4817569,
@@ -132,7 +132,7 @@
     "BAR": -8.22,
     "StylePlus": "69",
     "RatingScore": 2.72,
-    "AdjustedRating": "2.0561752146548105178796321032"
+    "AdjustedRating": "2.0567822600498597693985665316"
   },
   {
     "BID": 825441,
@@ -147,7 +147,7 @@
     "BAR": -7.95,
     "StylePlus": "57",
     "RatingScore": 2.03,
-    "AdjustedRating": "2.0560810799140025697456969481"
+    "AdjustedRating": "2.0560616425760704406436280048"
   },
   {
     "BID": 1701560,
@@ -162,7 +162,7 @@
     "BAR": -11.60,
     "StylePlus": "78",
     "RatingScore": 3.10,
-    "AdjustedRating": "2.0601798738375673887752541574"
+    "AdjustedRating": "2.0866677080888754305613384307"
   },
   {
     "BID": 1201703,
@@ -177,7 +177,7 @@
     "BAR": -13.14,
     "StylePlus": "74",
     "RatingScore": 2.74,
-    "AdjustedRating": "2.0825048674822583130903193137"
+    "AdjustedRating": "2.2170869735547538833069974062"
   },
   {
     "BID": 19801,
@@ -192,7 +192,7 @@
     "BAR": -10.06,
     "StylePlus": "59",
     "RatingScore": 1.97,
-    "AdjustedRating": "2.056028178910910727636136159"
+    "AdjustedRating": "2.0556581309535357454651275584"
   },
   {
     "BID": 6502767,
@@ -207,7 +207,7 @@
     "BAR": -5.47,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560369141068702290076335878"
+    "AdjustedRating": "2.0557232764771243104154077078"
   },
   {
     "BID": 6010984,
@@ -222,22 +222,67 @@
     "BAR": -6.86,
     "StylePlus": "46",
     "RatingScore": 1.61,
-    "AdjustedRating": "2.0560612991595655083445501525"
+    "AdjustedRating": "2.0559101220035080880919898655"
   },
   {
-    "BID": 6601963,
-    "BeerName": "Kalter Kaffee",
+    "BID": 6601252,
+    "BeerName": "Cola Ramune (コーララムネ)",
     "BeerStyle": "Non-Alcoholic - Soda - Mass Market",
-    "BreweryName": "Brauerei G.A. Bruch",
-    "Origin": "Saarbrücken, Saarland Germany",
+    "BreweryName": "Hata Kosen",
+    "Origin": "Osaka, Japan",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-Bruch_19142.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6601252_0d8e3_sm.jpeg",
     "HallRating": -22.69,
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6606819,
+    "BeerName": "Rich Bitter Grapefruit",
+    "BeerStyle": "Non-Alcoholic - Soda - Mass Market",
+    "BreweryName": "Мултон",
+    "Origin": "Russia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -22.69,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6617084,
+    "BeerName": "Kuldne Apelsin",
+    "BeerStyle": "Non-Alcoholic - Soda - Mass Market",
+    "BreweryName": "A. Le Coq",
+    "Origin": "Tartu, Tartu maakond Estonia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-11970_28f43.jpeg",
+    "HallRating": -22.69,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6615525,
+    "BeerName": "Stewart's Shops: Root Beer",
+    "BeerStyle": "Non-Alcoholic - Soda - Mass Market",
+    "BreweryName": "Dr Pepper",
+    "Origin": "Plano, TX United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-585812_7c37e.jpeg",
+    "HallRating": -22.69,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6622632,
@@ -252,52 +297,22 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
-    "BID": 6612597,
-    "BeerName": "Fritz-limo Zitrone",
+    "BID": 6602951,
+    "BeerName": "Schorle Ramseier",
     "BeerStyle": "Non-Alcoholic - Soda - Mass Market",
-    "BreweryName": "fritz-kola",
-    "Origin": "Germany",
+    "BreweryName": "Ramseier Suisse",
+    "Origin": "Sursee, Luzern Switzerland",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-585739_c5724.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-9618_c3710.jpeg",
     "HallRating": -22.69,
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6604122,
-    "BeerName": "Апельсин",
-    "BeerStyle": "Non-Alcoholic - Soda - Mass Market",
-    "BreweryName": "Мастер",
-    "Origin": "Russia",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -22.69,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6606572,
-    "BeerName": "Gazeuse Bubble Gum Zero Sugar",
-    "BeerStyle": "Non-Alcoholic - Soda - Mass Market",
-    "BreweryName": "Raak",
-    "Origin": "Netherlands",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -22.69,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6617130,
@@ -312,28 +327,43 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
-    "BID": 6614344,
-    "BeerName": "Bitter Lemon",
+    "BID": 6612838,
+    "BeerName": "Schweppes Raspberry Ginger Ale",
     "BeerStyle": "Non-Alcoholic - Soda - Mass Market",
-    "BreweryName": "Royal Club",
-    "Origin": "Netherlands",
+    "BreweryName": "Dr Pepper",
+    "Origin": "Plano, TX United States",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-585812_7c37e.jpeg",
     "HallRating": -22.69,
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
-    "BID": 6604117,
-    "BeerName": "Лимонад",
+    "BID": 6601209,
+    "BeerName": "Los Angeles Cola",
     "BeerStyle": "Non-Alcoholic - Soda - Mass Market",
-    "BreweryName": "Мастер",
+    "BreweryName": "Japan Sangaria Beverage Co.,Ltd.",
+    "Origin": "Osaka, Japan",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-15875_e3282.jpeg",
+    "HallRating": -22.69,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6607051,
+    "BeerName": "Chillout Asian Tonic (Лотос,Помело)",
+    "BeerStyle": "Non-Alcoholic - Soda - Mass Market",
+    "BreweryName": "Черноголовка",
     "Origin": "Russia",
     "BeerAbv": 0.00,
     "BeerIbu": 0.00,
@@ -342,36 +372,6 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6601971,
-    "BeerName": "Eisvogel Sport Fit",
-    "BeerStyle": "Non-Alcoholic - Soda - Mass Market",
-    "BreweryName": "Romina Mineralbrunnen GmbH",
-    "Origin": "Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -22.69,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6617110,
-    "BeerName": "Salaam Cola",
-    "BeerStyle": "Non-Alcoholic - Soda - Mass Market",
-    "BreweryName": "Salaam Beverages Co. Limited",
-    "Origin": "Turkey",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -22.69,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   }
 ]

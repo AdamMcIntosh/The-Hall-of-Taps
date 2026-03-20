@@ -1,20 +1,5 @@
 [
   {
-    "BID": 5815421,
-    "BeerName": "Daffodil",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Greenhouse Aleworks",
-    "Origin": "Bentonville, AR United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5772768_ab855_sm.jpeg",
-    "HallRating": 12.94,
-    "BAR": 5.55,
-    "StylePlus": "114",
-    "RatingScore": 4.32,
-    "AdjustedRating": "2.0571204571140801330718694919"
-  },
-  {
     "BID": 37926,
     "BeerName": "Bourbon Barrel-aged Marshal Zhukov’s",
     "BeerStyle": "Stout - Russian Imperial",
@@ -27,7 +12,22 @@
     "BAR": 6.94,
     "StylePlus": "109",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.0731578080216996547552601206"
+    "AdjustedRating": "2.1806995089400921658986175115"
+  },
+  {
+    "BID": 2439012,
+    "BeerName": "Raspberry Muse",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "B-52 Brewing",
+    "Origin": "Conroe, TX United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2439012_7984b_sm.jpeg",
+    "HallRating": 12.94,
+    "BAR": 6.22,
+    "StylePlus": "113",
+    "RatingScore": 4.26,
+    "AdjustedRating": "2.0815677078435151281557140104"
   },
   {
     "BID": 4814452,
@@ -42,97 +42,7 @@
     "BAR": 6.23,
     "StylePlus": "109",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0598172740631589644572038312"
-  },
-  {
-    "BID": 2301402,
-    "BeerName": "Thrilla In Bluenilla",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Garagiste Meadery",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 12.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2301402_44d16_sm.jpeg",
-    "HallRating": 12.93,
-    "BAR": 6.69,
-    "StylePlus": "109",
-    "RatingScore": 4.34,
-    "AdjustedRating": "2.0656273242550172308939793229"
-  },
-  {
-    "BID": 6411443,
-    "BeerName": "The BIG 3-0",
-    "BeerStyle": "Wheat Beer - Wheat Wine",
-    "BreweryName": "Bremer Brewing Company",
-    "Origin": "Waverly, IA United States",
-    "BeerAbv": 14.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-492795_b0175.jpeg",
-    "HallRating": 12.93,
-    "BAR": 3.33,
-    "StylePlus": "120",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0561538039093948631304675294"
-  },
-  {
-    "BID": 4830862,
-    "BeerName": "Lonesome Hunter",
-    "BeerStyle": "Wild Ale - Other",
-    "BreweryName": "Freak Folk Bier",
-    "Origin": "Waterbury Village Historic District, VT United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-440710_28bc7.jpeg",
-    "HallRating": 12.93,
-    "BAR": 6.17,
-    "StylePlus": "111",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.0593458044879694872961140008"
-  },
-  {
-    "BID": 5001952,
-    "BeerName": "Playing With Fire 2021",
-    "BeerStyle": "Other",
-    "BreweryName": "Wildflower Brewing & Blending",
-    "Origin": "Marrickville, New South Wales Australia",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5001952_d80a5_sm.jpeg",
-    "HallRating": 12.93,
-    "BAR": 4.50,
-    "StylePlus": "121",
-    "RatingScore": 4.29,
-    "AdjustedRating": "2.0563113526515720134035228773"
-  },
-  {
-    "BID": 18506,
-    "BeerName": "Framboise",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Selin's Grove Brewing",
-    "Origin": "Selinsgrove, PA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SellnGrove.jpg",
-    "HallRating": 12.93,
-    "BAR": 6.32,
-    "StylePlus": "116",
-    "RatingScore": 4.06,
-    "AdjustedRating": "2.0598553514674956569443174545"
-  },
-  {
-    "BID": 4632247,
-    "BeerName": "Prune Royale",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Robin - Bière Naturelle",
-    "Origin": "Waterloo, QC Canada",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-423623_ac6db.jpeg",
-    "HallRating": 12.93,
-    "BAR": 6.12,
-    "StylePlus": "115",
-    "RatingScore": 4.23,
-    "AdjustedRating": "2.0588353098663495040522098458"
+    "AdjustedRating": "2.0843922703192124679727985513"
   },
   {
     "BID": 6200362,
@@ -147,7 +57,37 @@
     "BAR": 6.25,
     "StylePlus": "111",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.0597330953220504326353922679"
+    "AdjustedRating": "2.083742867925981553155026669"
+  },
+  {
+    "BID": 4632247,
+    "BeerName": "Prune Royale",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Robin - Bière Naturelle",
+    "Origin": "Waterloo, QC Canada",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-423623_ac6db.jpeg",
+    "HallRating": 12.93,
+    "BAR": 6.12,
+    "StylePlus": "115",
+    "RatingScore": 4.23,
+    "AdjustedRating": "2.0769886529697999536572178883"
+  },
+  {
+    "BID": 5001952,
+    "BeerName": "Playing With Fire 2021",
+    "BeerStyle": "Other",
+    "BreweryName": "Wildflower Brewing & Blending",
+    "Origin": "Marrickville, New South Wales Australia",
+    "BeerAbv": 6.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5001952_d80a5_sm.jpeg",
+    "HallRating": 12.93,
+    "BAR": 4.50,
+    "StylePlus": "121",
+    "RatingScore": 4.29,
+    "AdjustedRating": "2.0578248268069355152932008572"
   },
   {
     "BID": 2503657,
@@ -162,7 +102,7 @@
     "BAR": 7.44,
     "StylePlus": "108",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.1200734520836422957140738544"
+    "AdjustedRating": "2.4678089403457434119499355906"
   },
   {
     "BID": 6101486,
@@ -177,22 +117,67 @@
     "BAR": 5.92,
     "StylePlus": "115",
     "RatingScore": 4.27,
-    "AdjustedRating": "2.0580146065277855461261930065"
+    "AdjustedRating": "2.070791128929173203184010226"
   },
   {
-    "BID": 3341504,
-    "BeerName": "Picture In Reverse (Rye Whisky & Syrah Wine Barrel Aged) (2019)",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Kane Brewing Company",
-    "Origin": "Ocean, NJ United States",
-    "BeerAbv": 13.20,
+    "BID": 2301402,
+    "BeerName": "Thrilla In Bluenilla",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Garagiste Meadery",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 12.70,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-kanebrewingcompany_14653.jpeg",
-    "HallRating": 12.92,
-    "BAR": 5.85,
-    "StylePlus": "113",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.0577819322033898305084745763"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2301402_44d16_sm.jpeg",
+    "HallRating": 12.93,
+    "BAR": 6.69,
+    "StylePlus": "109",
+    "RatingScore": 4.34,
+    "AdjustedRating": "2.1272258327509019815259071762"
+  },
+  {
+    "BID": 6411443,
+    "BeerName": "The BIG 3-0",
+    "BeerStyle": "Wheat Beer - Wheat Wine",
+    "BreweryName": "Bremer Brewing Company",
+    "Origin": "Waverly, IA United States",
+    "BeerAbv": 14.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-492795_b0175.jpeg",
+    "HallRating": 12.93,
+    "BAR": 3.33,
+    "StylePlus": "120",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0566187473928383462310676205"
+  },
+  {
+    "BID": 18506,
+    "BeerName": "Framboise",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Selin's Grove Brewing",
+    "Origin": "Selinsgrove, PA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SellnGrove.jpg",
+    "HallRating": 12.93,
+    "BAR": 6.32,
+    "StylePlus": "116",
+    "RatingScore": 4.06,
+    "AdjustedRating": "2.08462278949088043666275874"
+  },
+  {
+    "BID": 4830862,
+    "BeerName": "Lonesome Hunter",
+    "BeerStyle": "Wild Ale - Other",
+    "BreweryName": "Freak Folk Bier",
+    "Origin": "Waterbury Village Historic District, VT United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-440710_28bc7.jpeg",
+    "HallRating": 12.93,
+    "BAR": 6.17,
+    "StylePlus": "111",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.0808458402777777777777777778"
   },
   {
     "BID": 4904362,
@@ -207,7 +192,7 @@
     "BAR": 6.10,
     "StylePlus": "118",
     "RatingScore": 4.10,
-    "AdjustedRating": "2.058592962289757391848000122"
+    "AdjustedRating": "2.0751520746334962239004886717"
   },
   {
     "BID": 4003049,
@@ -222,7 +207,7 @@
     "BAR": 7.14,
     "StylePlus": "106",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0860477047163981128378276533"
+    "AdjustedRating": "2.2677221704491012651489610874"
   },
   {
     "BID": 5415862,
@@ -237,7 +222,22 @@
     "BAR": 4.61,
     "StylePlus": "117",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.0563559849174505199256049685"
+    "AdjustedRating": "2.0581663620071684587813620072"
+  },
+  {
+    "BID": 3341504,
+    "BeerName": "Picture In Reverse (Rye Whisky & Syrah Wine Barrel Aged) (2019)",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Kane Brewing Company",
+    "Origin": "Ocean, NJ United States",
+    "BeerAbv": 13.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-kanebrewingcompany_14653.jpeg",
+    "HallRating": 12.92,
+    "BAR": 5.85,
+    "StylePlus": "113",
+    "RatingScore": 4.26,
+    "AdjustedRating": "2.0690273556490221541682011126"
   },
   {
     "BID": 4412752,
@@ -252,7 +252,7 @@
     "BAR": 6.30,
     "StylePlus": "115",
     "RatingScore": 4.19,
-    "AdjustedRating": "2.0599593535379191579503487374"
+    "AdjustedRating": "2.085422523988078069416402269"
   },
   {
     "BID": 5037824,
@@ -267,7 +267,7 @@
     "BAR": 5.21,
     "StylePlus": "123",
     "RatingScore": 4.08,
-    "AdjustedRating": "2.0566349033676080773751074796"
+    "AdjustedRating": "2.0602974562717668346401540946"
   },
   {
     "BID": 5600362,
@@ -282,22 +282,7 @@
     "BAR": 6.63,
     "StylePlus": "117",
     "RatingScore": 3.96,
-    "AdjustedRating": "2.0631647152396452854296274889"
-  },
-  {
-    "BID": 6418891,
-    "BeerName": "German Pils (Yard)",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Fenda Cervejaria",
-    "Origin": "Cruz Alta, Rio Grande do Sul Brazil",
-    "BeerAbv": 4.90,
-    "BeerIbu": 32.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-541978_fd56e.jpeg",
-    "HallRating": 12.91,
-    "BAR": 3.81,
-    "StylePlus": "126",
-    "RatingScore": 4.32,
-    "AdjustedRating": "2.0561876884346160011602787722"
+    "AdjustedRating": "2.1090256906192543169626779385"
   },
   {
     "BID": 6207345,
@@ -312,7 +297,7 @@
     "BAR": 6.03,
     "StylePlus": "113",
     "RatingScore": 4.35,
-    "AdjustedRating": "2.0585853724874180265365258502"
+    "AdjustedRating": "2.0751116293818519306251087608"
   },
   {
     "BID": 5608170,
@@ -327,37 +312,37 @@
     "BAR": 6.69,
     "StylePlus": "111",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.0656010622377622377622377622"
+    "AdjustedRating": "2.1269836795711508333490628362"
   },
   {
-    "BID": 3619230,
-    "BeerName": "Quiet Fire",
-    "BeerStyle": "Lager - Polotmavé (Czech Amber)",
-    "BreweryName": "Fox Farm Brewery",
-    "Origin": "Salem, CT United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3619230_356a5_sm.jpeg",
-    "HallRating": 12.90,
-    "BAR": 6.47,
-    "StylePlus": "114",
-    "RatingScore": 4.04,
-    "AdjustedRating": "2.0613604928547681828448453072"
+    "BID": 6418891,
+    "BeerName": "German Pils (Yard)",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Fenda Cervejaria",
+    "Origin": "Cruz Alta, Rio Grande do Sul Brazil",
+    "BeerAbv": 4.90,
+    "BeerIbu": 32.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-541978_fd56e.jpeg",
+    "HallRating": 12.91,
+    "BAR": 3.81,
+    "StylePlus": "126",
+    "RatingScore": 4.32,
+    "AdjustedRating": "2.0568782326342870507523193264"
   },
   {
-    "BID": 6404510,
-    "BeerName": "Nada de Tonterias",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Evil Mega Corporation",
-    "Origin": "Bibra Lake, Western Australia Australia",
-    "BeerAbv": 8.80,
+    "BID": 3100069,
+    "BeerName": "Grand Cru",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Evil Twin Brewing",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 12.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6404510_3cd9e_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3021742_b9c19_sm.jpeg",
     "HallRating": 12.90,
-    "BAR": 4.94,
-    "StylePlus": "121",
-    "RatingScore": 4.23,
-    "AdjustedRating": "2.0564877405308041438544359188"
+    "BAR": 7.12,
+    "StylePlus": "110",
+    "RatingScore": 4.17,
+    "AdjustedRating": "2.2420388420434944965058591319"
   },
   {
     "BID": 6429616,
@@ -372,6 +357,21 @@
     "BAR": 6.38,
     "StylePlus": "108",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.0613767827020878454034647621"
+    "AdjustedRating": "2.0960565361457334611697027804"
+  },
+  {
+    "BID": 3619230,
+    "BeerName": "Quiet Fire",
+    "BeerStyle": "Lager - Polotmavé (Czech Amber)",
+    "BreweryName": "Fox Farm Brewery",
+    "Origin": "Salem, CT United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3619230_356a5_sm.jpeg",
+    "HallRating": 12.90,
+    "BAR": 6.47,
+    "StylePlus": "114",
+    "RatingScore": 4.04,
+    "AdjustedRating": "2.0958093232450609499789827659"
   }
 ]

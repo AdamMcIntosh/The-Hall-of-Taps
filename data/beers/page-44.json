@@ -1,33 +1,18 @@
 [
   {
-    "BID": 4102441,
-    "BeerName": "Lunch Break: Peanut Butter & Strawberry Jelly",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 6.50,
+    "BID": 3013939,
+    "BeerName": "Empyrean",
+    "BeerStyle": "IPA - Sour",
+    "BreweryName": "Hudson Valley Brewery",
+    "Origin": "Beacon, NY United States",
+    "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5729568_45ff8_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2667857_84d16_sm.jpeg",
     "HallRating": 14.42,
-    "BAR": 6.67,
-    "StylePlus": "125",
-    "RatingScore": 4.13,
-    "AdjustedRating": "2.0580979559959631189735950358"
-  },
-  {
-    "BID": 3342368,
-    "BeerName": "Florence (03/06/2019)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
-    "HallRating": 14.41,
-    "BAR": 6.22,
-    "StylePlus": "118",
-    "RatingScore": 4.36,
-    "AdjustedRating": "2.0571914828933312986418434305"
+    "BAR": 7.82,
+    "StylePlus": "111",
+    "RatingScore": 4.25,
+    "AdjustedRating": "2.1990020479731700204141149023"
   },
   {
     "BID": 4028443,
@@ -42,22 +27,22 @@
     "BAR": 8.29,
     "StylePlus": "109",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.1232572583426626828490721313"
+    "AdjustedRating": "2.4879637784415914579890682598"
   },
   {
-    "BID": 5609794,
-    "BeerName": "KBS",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9681_dbf2b_sm.jpeg",
-    "HallRating": 14.40,
-    "BAR": 9.24,
-    "StylePlus": "105",
-    "RatingScore": 4.37,
-    "AdjustedRating": "2.9262648045178437044540197949"
+    "BID": 3342368,
+    "BeerName": "Florence (03/06/2019)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 14.41,
+    "BAR": 6.22,
+    "StylePlus": "118",
+    "RatingScore": 4.36,
+    "AdjustedRating": "2.0645425971755473105538180617"
   },
   {
     "BID": 6419569,
@@ -72,37 +57,7 @@
     "BAR": 5.81,
     "StylePlus": "111",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0567737237126619825081786221"
-  },
-  {
-    "BID": 5742601,
-    "BeerName": "EWALU",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5742601_87aac_sm.jpeg",
-    "HallRating": 14.40,
-    "BAR": 6.35,
-    "StylePlus": "112",
-    "RatingScore": 4.49,
-    "AdjustedRating": "2.0575261867129168107745203752"
-  },
-  {
-    "BID": 2205025,
-    "BeerName": "Burst",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Fox Farm Brewery",
-    "Origin": "Salem, CT United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2053528_57432_sm.jpeg",
-    "HallRating": 14.40,
-    "BAR": 8.38,
-    "StylePlus": "113",
-    "RatingScore": 4.18,
-    "AdjustedRating": "2.1335338427613125943942098347"
+    "AdjustedRating": "2.0613591913924937253147070841"
   },
   {
     "BID": 5820004,
@@ -117,7 +72,22 @@
     "BAR": 6.90,
     "StylePlus": "111",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0595462687078373330961848742"
+    "AdjustedRating": "2.0823570947092395495912386241"
+  },
+  {
+    "BID": 2205025,
+    "BeerName": "Burst",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Fox Farm Brewery",
+    "Origin": "Salem, CT United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2053528_57432_sm.jpeg",
+    "HallRating": 14.40,
+    "BAR": 8.38,
+    "StylePlus": "113",
+    "RatingScore": 4.18,
+    "AdjustedRating": "2.5335261152003385578042108127"
   },
   {
     "BID": 1643563,
@@ -132,22 +102,37 @@
     "BAR": 7.81,
     "StylePlus": "110",
     "RatingScore": 4.35,
-    "AdjustedRating": "2.0766430222143766785610712529"
+    "AdjustedRating": "2.2047343074903362263875720225"
   },
   {
-    "BID": 5025812,
-    "BeerName": "Dragonsaddle Nectaron",
-    "BeerStyle": "IPA - Triple",
-    "BreweryName": "Hoof Hearted Brewing",
-    "Origin": "Marengo, OH United States",
-    "BeerAbv": 11.50,
+    "BID": 5742601,
+    "BeerName": "EWALU",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 13.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5025812_06004_sm.jpeg",
-    "HallRating": 14.39,
-    "BAR": 6.76,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5742601_87aac_sm.jpeg",
+    "HallRating": 14.40,
+    "BAR": 6.35,
     "StylePlus": "112",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.0588463628817242562492851606"
+    "RatingScore": 4.49,
+    "AdjustedRating": "2.067090781980862915591095239"
+  },
+  {
+    "BID": 5609794,
+    "BeerName": "KBS",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-9681_dbf2b_sm.jpeg",
+    "HallRating": 14.40,
+    "BAR": 9.24,
+    "StylePlus": "105",
+    "RatingScore": 4.37,
+    "AdjustedRating": "3.9581385784832573909361910347"
   },
   {
     "BID": 4626784,
@@ -162,7 +147,22 @@
     "BAR": 6.67,
     "StylePlus": "111",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0585255303825269965224818498"
+    "AdjustedRating": "2.0746676539674554495675560629"
+  },
+  {
+    "BID": 5025812,
+    "BeerName": "Dragonsaddle Nectaron",
+    "BeerStyle": "IPA - Triple",
+    "BreweryName": "Hoof Hearted Brewing",
+    "Origin": "Marengo, OH United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5025812_06004_sm.jpeg",
+    "HallRating": 14.39,
+    "BAR": 6.76,
+    "StylePlus": "112",
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.0770881331168831168831168831"
   },
   {
     "BID": 6211405,
@@ -177,22 +177,7 @@
     "BAR": 7.65,
     "StylePlus": "109",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.0711242595207936712605143997"
-  },
-  {
-    "BID": 5404191,
-    "BeerName": "Barrel-Aged One Man Wrecking Machine",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Mikerphone Brewing",
-    "Origin": "Elk Grove Village, IL United States",
-    "BeerAbv": 12.35,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5404191_b0749_sm.jpeg",
-    "HallRating": 14.38,
-    "BAR": 6.66,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0584918977062715918825960847"
+    "AdjustedRating": "2.1666000661365831909043620421"
   },
   {
     "BID": 3015237,
@@ -207,22 +192,22 @@
     "BAR": 8.41,
     "StylePlus": "108",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.1515522092102277302373928511"
+    "AdjustedRating": "2.6303940985820391627278865631"
   },
   {
-    "BID": 6015010,
-    "BeerName": "Good Dudes (Cookie'n Cream Barleywine)",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Dude Brewing",
-    "Origin": "Caxias do Sul, Rio Grande do Sul Brazil",
-    "BeerAbv": 11.50,
-    "BeerIbu": 80.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5193598_e25eb_sm.jpeg",
+    "BID": 5404191,
+    "BeerName": "Barrel-Aged One Man Wrecking Machine",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Mikerphone Brewing",
+    "Origin": "Elk Grove Village, IL United States",
+    "BeerAbv": 12.35,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5404191_b0749_sm.jpeg",
     "HallRating": 14.38,
-    "BAR": 6.56,
-    "StylePlus": "113",
-    "RatingScore": 4.44,
-    "AdjustedRating": "2.0580780719109122343130275603"
+    "BAR": 6.66,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0744138160848362876383621023"
   },
   {
     "BID": 6404951,
@@ -237,7 +222,22 @@
     "BAR": 5.75,
     "StylePlus": "113",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0567108054979635758641128899"
+    "AdjustedRating": "2.0608785436855419342284491146"
+  },
+  {
+    "BID": 6015010,
+    "BeerName": "Good Dudes (Cookie'n Cream Barleywine)",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Dude Brewing",
+    "Origin": "Caxias do Sul, Rio Grande do Sul Brazil",
+    "BeerAbv": 11.50,
+    "BeerIbu": 80.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5193598_e25eb_sm.jpeg",
+    "HallRating": 14.38,
+    "BAR": 6.56,
+    "StylePlus": "113",
+    "RatingScore": 4.44,
+    "AdjustedRating": "2.0712781797400182103489025359"
   },
   {
     "BID": 4625392,
@@ -252,7 +252,7 @@
     "BAR": 5.31,
     "StylePlus": "120",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0564311667887891555229895585"
+    "AdjustedRating": "2.0587414719457806687829863478"
   },
   {
     "BID": 4800150,
@@ -267,7 +267,7 @@
     "BAR": 6.52,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.0579176639816933638443935927"
+    "AdjustedRating": "2.0700606283067501308164886916"
   },
   {
     "BID": 5103448,
@@ -282,7 +282,7 @@
     "BAR": 6.52,
     "StylePlus": "112",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.0579216155625956644003844374"
+    "AdjustedRating": "2.0700902765450281971279626364"
   },
   {
     "BID": 6013346,
@@ -297,7 +297,7 @@
     "BAR": 6.87,
     "StylePlus": "124",
     "RatingScore": 4.10,
-    "AdjustedRating": "2.058992372637853797855932268"
+    "AdjustedRating": "2.0781590811957569913211186114"
   },
   {
     "BID": 4820669,
@@ -312,7 +312,7 @@
     "BAR": 7.62,
     "StylePlus": "109",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.0706236717310162753765387767"
+    "AdjustedRating": "2.1630677178423236514522821577"
   },
   {
     "BID": 1815610,
@@ -327,7 +327,7 @@
     "BAR": 7.67,
     "StylePlus": "114",
     "RatingScore": 4.24,
-    "AdjustedRating": "2.0715065900360295715361331629"
+    "AdjustedRating": "2.1689442240917074974577054636"
   },
   {
     "BID": 3219204,
@@ -342,22 +342,22 @@
     "BAR": 6.92,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.0599204988745319018124355333"
+    "AdjustedRating": "2.0851730464430874732725906806"
   },
   {
-    "BID": 3633300,
-    "BeerName": "Four Horsemen",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Ellison Brewery + Spirits",
-    "Origin": "East Lansing, MI United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3633300_b85a2_sm.jpeg",
+    "BID": 6414963,
+    "BeerName": "Patient Rover",
+    "BeerStyle": "Lager - Munich Dunkel",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
     "HallRating": 14.34,
-    "BAR": 7.25,
-    "StylePlus": "111",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.0630829445146362626154993683"
+    "BAR": 6.93,
+    "StylePlus": "119",
+    "RatingScore": 4.16,
+    "AdjustedRating": "2.0818932031505767712365436093"
   },
   {
     "BID": 3500785,
@@ -372,6 +372,6 @@
     "BAR": 7.51,
     "StylePlus": "109",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0681450683551867051832872974"
+    "AdjustedRating": "2.1454964031531531531531531532"
   }
 ]

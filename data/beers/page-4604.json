@@ -1,18 +1,18 @@
 [
   {
-    "BID": 4010374,
-    "BeerName": "AMA Mora",
-    "BeerStyle": "Porter - Imperial / Double Coffee",
-    "BreweryName": "Birra Amarcord",
-    "Origin": "Rimini, Emilia-Romagna Italy",
-    "BeerAbv": 9.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-161822_db9e2_sm.jpeg",
+    "BID": 4020361,
+    "BeerName": "Imperial Stout",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Brouwerij Broers",
+    "Origin": "Wachtebeke, Vlaams Gewest Belgium",
+    "BeerAbv": 10.00,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3558417_d627c_sm.jpeg",
     "HallRating": -11.17,
-    "BAR": -6.08,
+    "BAR": -6.12,
     "StylePlus": "88",
-    "RatingScore": 3.58,
-    "AdjustedRating": "2.0707201255134802747970020312"
+    "RatingScore": 3.53,
+    "AdjustedRating": "2.1720730426972750624202906361"
   },
   {
     "BID": 5021041,
@@ -27,7 +27,22 @@
     "BAR": -5.80,
     "StylePlus": "78",
     "RatingScore": 2.80,
-    "AdjustedRating": "2.0593463431073008345113776278"
+    "AdjustedRating": "2.0803709541502423568020218404"
+  },
+  {
+    "BID": 4010374,
+    "BeerName": "AMA Mora",
+    "BeerStyle": "Porter - Imperial / Double Coffee",
+    "BreweryName": "Birra Amarcord",
+    "Origin": "Rimini, Emilia-Romagna Italy",
+    "BeerAbv": 9.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-161822_db9e2_sm.jpeg",
+    "HallRating": -11.17,
+    "BAR": -6.08,
+    "StylePlus": "88",
+    "RatingScore": 3.58,
+    "AdjustedRating": "2.1614839723416997876626558502"
   },
   {
     "BID": 3746277,
@@ -42,52 +57,7 @@
     "BAR": -4.22,
     "StylePlus": "83",
     "RatingScore": 3.20,
-    "AdjustedRating": "2.0562760801715781680519619292"
-  },
-  {
-    "BID": 4020361,
-    "BeerName": "Imperial Stout",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Brouwerij Broers",
-    "Origin": "Wachtebeke, Vlaams Gewest Belgium",
-    "BeerAbv": 10.00,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3558417_d627c_sm.jpeg",
-    "HallRating": -11.17,
-    "BAR": -6.12,
-    "StylePlus": "88",
-    "RatingScore": 3.53,
-    "AdjustedRating": "2.0723338263491136768569501626"
-  },
-  {
-    "BID": 6016662,
-    "BeerName": "Liit Peach Hard Tea",
-    "BeerStyle": "RTD - Hard Iced Tea",
-    "BreweryName": "Shock Top Brewing Co.",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-148017_d4ea6.jpeg",
-    "HallRating": -11.18,
-    "BAR": -3.64,
-    "StylePlus": "75",
-    "RatingScore": 2.46,
-    "AdjustedRating": "2.0561127763390573992605955437"
-  },
-  {
-    "BID": 5600532,
-    "BeerName": "Tuborg Juleøl",
-    "BeerStyle": "Winter Warmer",
-    "BreweryName": "Ringnes Bryggeri",
-    "Origin": "Oslo, Norway",
-    "BeerAbv": 4.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5600532_ae7e8_sm.jpeg",
-    "HallRating": -11.18,
-    "BAR": -5.49,
-    "StylePlus": "82",
-    "RatingScore": 3.00,
-    "AdjustedRating": "2.0579609299852199484983772418"
+    "AdjustedRating": "2.0575541000077887685956850222"
   },
   {
     "BID": 4626754,
@@ -102,7 +72,37 @@
     "BAR": -5.54,
     "StylePlus": "86",
     "RatingScore": 3.50,
-    "AdjustedRating": "2.0593137040561400658081813381"
+    "AdjustedRating": "2.0804670863123191044833336528"
+  },
+  {
+    "BID": 5600532,
+    "BeerName": "Tuborg Juleøl",
+    "BeerStyle": "Winter Warmer",
+    "BreweryName": "Ringnes Bryggeri",
+    "Origin": "Oslo, Norway",
+    "BeerAbv": 4.50,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5600532_ae7e8_sm.jpeg",
+    "HallRating": -11.18,
+    "BAR": -5.49,
+    "StylePlus": "82",
+    "RatingScore": 3.00,
+    "AdjustedRating": "2.0702772715226700977473930828"
+  },
+  {
+    "BID": 6016662,
+    "BeerName": "Liit Peach Hard Tea",
+    "BeerStyle": "RTD - Hard Iced Tea",
+    "BreweryName": "Shock Top Brewing Co.",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-148017_d4ea6.jpeg",
+    "HallRating": -11.18,
+    "BAR": -3.64,
+    "StylePlus": "75",
+    "RatingScore": 2.46,
+    "AdjustedRating": "2.0563043836470634085506060252"
   },
   {
     "BID": 3337695,
@@ -117,7 +117,7 @@
     "BAR": -4.13,
     "StylePlus": "78",
     "RatingScore": 2.78,
-    "AdjustedRating": "2.0561889826280759601880686328"
+    "AdjustedRating": "2.0568876148557851481099187879"
   },
   {
     "BID": 4618913,
@@ -132,22 +132,7 @@
     "BAR": -6.19,
     "StylePlus": "87",
     "RatingScore": 3.32,
-    "AdjustedRating": "2.0724673673471438043762181278"
-  },
-  {
-    "BID": 13324,
-    "BeerName": "Royal Red Lager",
-    "BeerStyle": "Lager - Amber / Red",
-    "BreweryName": "Royal Unibrew",
-    "Origin": "Fakse, Region Sjælland Denmark",
-    "BeerAbv": 4.60,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2480_d7bc0.jpeg",
-    "HallRating": -11.19,
-    "BAR": -5.83,
-    "StylePlus": "78",
-    "RatingScore": 2.72,
-    "AdjustedRating": "2.059161258504486843404986057"
+    "AdjustedRating": "2.1716367887194203822784361659"
   },
   {
     "BID": 800990,
@@ -162,7 +147,22 @@
     "BAR": -6.42,
     "StylePlus": "79",
     "RatingScore": 2.72,
-    "AdjustedRating": "2.0741693166367983841424172517"
+    "AdjustedRating": "2.1733710307408299221446344008"
+  },
+  {
+    "BID": 13324,
+    "BeerName": "Royal Red Lager",
+    "BeerStyle": "Lager - Amber / Red",
+    "BreweryName": "Royal Unibrew",
+    "Origin": "Fakse, Region Sjælland Denmark",
+    "BeerAbv": 4.60,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2480_d7bc0.jpeg",
+    "HallRating": -11.19,
+    "BAR": -5.83,
+    "StylePlus": "78",
+    "RatingScore": 2.72,
+    "AdjustedRating": "2.0789561061746987951807228916"
   },
   {
     "BID": 1416181,
@@ -177,7 +177,7 @@
     "BAR": -3.64,
     "StylePlus": "76",
     "RatingScore": 2.73,
-    "AdjustedRating": "2.056132012050308000376572125"
+    "AdjustedRating": "2.0564517003780349974667757902"
   },
   {
     "BID": 1609903,
@@ -192,7 +192,7 @@
     "BAR": -5.67,
     "StylePlus": "75",
     "RatingScore": 2.55,
-    "AdjustedRating": "2.057583836250723005266522573"
+    "AdjustedRating": "2.0673480739992760112027740202"
   },
   {
     "BID": 5200285,
@@ -207,52 +207,7 @@
     "BAR": -5.75,
     "StylePlus": "76",
     "RatingScore": 2.56,
-    "AdjustedRating": "2.0579491679422792691614421056"
-  },
-  {
-    "BID": 2025266,
-    "BeerName": "Budweiser Supreme",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Anheuser-Busch",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-392663_b977b_sm.jpeg",
-    "HallRating": -11.21,
-    "BAR": -5.87,
-    "StylePlus": "81",
-    "RatingScore": 2.79,
-    "AdjustedRating": "2.0597686866578559601391483996"
-  },
-  {
-    "BID": 39599,
-    "BeerName": "Laurentide",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Molson Coors Canada",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-MolsonCoorsCanada_878.jpeg",
-    "HallRating": -11.21,
-    "BAR": -5.84,
-    "StylePlus": "81",
-    "RatingScore": 2.80,
-    "AdjustedRating": "2.0595414365923216809429976749"
-  },
-  {
-    "BID": 3346402,
-    "BeerName": "Hombre En Llamas",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Cerveza Colombo",
-    "Origin": "Zapotiltic, Jalisco Mexico",
-    "BeerAbv": 6.50,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3346402_55ce5_sm.jpeg",
-    "HallRating": -11.21,
-    "BAR": -4.14,
-    "StylePlus": "83",
-    "RatingScore": 3.19,
-    "AdjustedRating": "2.0562484410148378823960432314"
+    "AdjustedRating": "2.0700312485308056872037914692"
   },
   {
     "BID": 5604531,
@@ -267,7 +222,52 @@
     "BAR": -6.38,
     "StylePlus": "88",
     "RatingScore": 3.44,
-    "AdjustedRating": "2.0877406685977557926457827251"
+    "AdjustedRating": "2.2665655209125475285171102662"
+  },
+  {
+    "BID": 39599,
+    "BeerName": "Laurentide",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Molson Coors Canada",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-MolsonCoorsCanada_878.jpeg",
+    "HallRating": -11.21,
+    "BAR": -5.84,
+    "StylePlus": "81",
+    "RatingScore": 2.80,
+    "AdjustedRating": "2.0817797338352941176470588235"
+  },
+  {
+    "BID": 2025266,
+    "BeerName": "Budweiser Supreme",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Anheuser-Busch",
+    "Origin": "St. Louis, MO United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-392663_b977b_sm.jpeg",
+    "HallRating": -11.21,
+    "BAR": -5.87,
+    "StylePlus": "81",
+    "RatingScore": 2.79,
+    "AdjustedRating": "2.0834028186886415257259775121"
+  },
+  {
+    "BID": 3346402,
+    "BeerName": "Hombre En Llamas",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Cerveza Colombo",
+    "Origin": "Zapotiltic, Jalisco Mexico",
+    "BeerAbv": 6.50,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3346402_55ce5_sm.jpeg",
+    "HallRating": -11.21,
+    "BAR": -4.14,
+    "StylePlus": "83",
+    "RatingScore": 3.19,
+    "AdjustedRating": "2.0573427534227900364188754942"
   },
   {
     "BID": 6413395,
@@ -282,7 +282,7 @@
     "BAR": -3.10,
     "StylePlus": "81",
     "RatingScore": 3.12,
-    "AdjustedRating": "2.0561218998333354537474077938"
+    "AdjustedRating": "2.056374324808981755808513956"
   },
   {
     "BID": 1491,
@@ -297,7 +297,7 @@
     "BAR": -5.54,
     "StylePlus": "88",
     "RatingScore": 3.58,
-    "AdjustedRating": "2.0593459357089535184874845747"
+    "AdjustedRating": "2.0807259962020217520572382176"
   },
   {
     "BID": 3336472,
@@ -312,7 +312,7 @@
     "BAR": -4.74,
     "StylePlus": "77",
     "RatingScore": 2.68,
-    "AdjustedRating": "2.0563315687109401826797610054"
+    "AdjustedRating": "2.0579759040547370057924814368"
   },
   {
     "BID": 5103568,
@@ -327,22 +327,7 @@
     "BAR": -5.14,
     "StylePlus": "88",
     "RatingScore": 3.58,
-    "AdjustedRating": "2.0574090331703670935314351961"
-  },
-  {
-    "BID": 6601718,
-    "BeerName": "Ancient Gruit",
-    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
-    "BreweryName": "Guinness Open Gate Brewery Dublin",
-    "Origin": "Dublin 8, County Dublin Ireland",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-258808_bb67e.jpeg",
-    "HallRating": -11.24,
-    "BAR": -3.36,
-    "StylePlus": "73",
-    "RatingScore": 2.59,
-    "AdjustedRating": "2.0561098120760285997811760515"
+    "AdjustedRating": "2.0661781135729779981406879455"
   },
   {
     "BID": 6414549,
@@ -357,7 +342,22 @@
     "BAR": -3.40,
     "StylePlus": "84",
     "RatingScore": 3.31,
-    "AdjustedRating": "2.0561478107330329176537043492"
+    "AdjustedRating": "2.0565727608653283960241668291"
+  },
+  {
+    "BID": 6601718,
+    "BeerName": "Ancient Gruit",
+    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
+    "BreweryName": "Guinness Open Gate Brewery Dublin",
+    "Origin": "Dublin 8, County Dublin Ireland",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-258808_bb67e.jpeg",
+    "HallRating": -11.24,
+    "BAR": -3.36,
+    "StylePlus": "73",
+    "RatingScore": 2.59,
+    "AdjustedRating": "2.0562817119803543238028416067"
   },
   {
     "BID": 6415674,
@@ -372,6 +372,6 @@
     "BAR": -5.02,
     "StylePlus": "61",
     "RatingScore": 1.69,
-    "AdjustedRating": "2.0558373101592855544479931648"
+    "AdjustedRating": "2.0542022764038405586267093395"
   }
 ]

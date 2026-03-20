@@ -1,5 +1,20 @@
 [
   {
+    "BID": 813297,
+    "BeerName": "Midnight",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Miller Brewing Company",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-863_480fe.jpeg",
+    "HallRating": -11.71,
+    "BAR": -2.93,
+    "StylePlus": "69",
+    "RatingScore": 2.40,
+    "AdjustedRating": "2.0561510401559454191033138402"
+  },
+  {
     "BID": 2424904,
     "BeerName": "N’IPA",
     "BeerStyle": "IPA - American",
@@ -12,37 +27,7 @@
     "BAR": -6.24,
     "StylePlus": "84",
     "RatingScore": 3.13,
-    "AdjustedRating": "2.0632447248406967133349678613"
-  },
-  {
-    "BID": 6208561,
-    "BeerName": "Anarkist Påske IPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Theodor Schiøtz Brewing Company",
-    "Origin": "Odense, Region Syddanmark Denmark",
-    "BeerAbv": 5.80,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-386907_88afc.jpeg",
-    "HallRating": -11.71,
-    "BAR": -5.86,
-    "StylePlus": "85",
-    "RatingScore": 3.29,
-    "AdjustedRating": "2.0592533235635261660444209816"
-  },
-  {
-    "BID": 3900373,
-    "BeerName": "Ice",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Mammut",
-    "Origin": "Nikšić, Opština Nikšić Montenegro",
-    "BeerAbv": 4.20,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3786663_ee1b0_sm.jpeg",
-    "HallRating": -11.73,
-    "BAR": -5.46,
-    "StylePlus": "82",
-    "RatingScore": 2.93,
-    "AdjustedRating": "2.0569970087696554669269602086"
+    "AdjustedRating": "2.1086168291054739652870493992"
   },
   {
     "BID": 6035895,
@@ -57,7 +42,22 @@
     "BAR": -4.62,
     "StylePlus": "76",
     "RatingScore": 2.76,
-    "AdjustedRating": "2.0562433785590719446423119976"
+    "AdjustedRating": "2.0573033410537379084840109772"
+  },
+  {
+    "BID": 3900373,
+    "BeerName": "Ice",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Mammut",
+    "Origin": "Nikšić, Opština Nikšić Montenegro",
+    "BeerAbv": 4.20,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3786663_ee1b0_sm.jpeg",
+    "HallRating": -11.73,
+    "BAR": -5.46,
+    "StylePlus": "82",
+    "RatingScore": 2.93,
+    "AdjustedRating": "2.0630312442699367517069302335"
   },
   {
     "BID": 5208822,
@@ -72,7 +72,7 @@
     "BAR": -4.91,
     "StylePlus": "78",
     "RatingScore": 2.60,
-    "AdjustedRating": "2.0562846120528265027878393228"
+    "AdjustedRating": "2.0576173492757849713230290658"
   },
   {
     "BID": 633483,
@@ -87,7 +87,7 @@
     "BAR": -5.19,
     "StylePlus": "81",
     "RatingScore": 2.96,
-    "AdjustedRating": "2.0566310909012305806540209395"
+    "AdjustedRating": "2.0602590506132588107436733426"
   },
   {
     "BID": 4705660,
@@ -102,37 +102,7 @@
     "BAR": -5.96,
     "StylePlus": "86",
     "RatingScore": 3.49,
-    "AdjustedRating": "2.0606195679868505826429720118"
-  },
-  {
-    "BID": 2008858,
-    "BeerName": "Van Pur Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Van Pur",
-    "Origin": "Rakszawa, Województwo podkarpackie Poland",
-    "BeerAbv": 3.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3346_1678d.jpeg",
-    "HallRating": -11.75,
-    "BAR": -4.96,
-    "StylePlus": "71",
-    "RatingScore": 2.40,
-    "AdjustedRating": "2.0562195907983293738204127729"
-  },
-  {
-    "BID": 2804034,
-    "BeerName": "Белый Кремль Классическое (Bely Kreml Klassicheskoe)",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Белый Кремль (Bely Kreml)",
-    "Origin": "Chistopol', Татарстан Russia",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2804034_ae0ee_sm.jpeg",
-    "HallRating": -11.75,
-    "BAR": -6.16,
-    "StylePlus": "78",
-    "RatingScore": 2.68,
-    "AdjustedRating": "2.0592887125816414358766644727"
+    "AdjustedRating": "2.0901189325618135790014656337"
   },
   {
     "BID": 5800622,
@@ -147,7 +117,22 @@
     "BAR": -4.72,
     "StylePlus": "79",
     "RatingScore": 2.87,
-    "AdjustedRating": "2.0562972653970805964985474212"
+    "AdjustedRating": "2.0577152211390656315062362579"
+  },
+  {
+    "BID": 2008858,
+    "BeerName": "Van Pur Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Van Pur",
+    "Origin": "Rakszawa, Województwo podkarpackie Poland",
+    "BeerAbv": 3.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3346_1678d.jpeg",
+    "HallRating": -11.75,
+    "BAR": -4.96,
+    "StylePlus": "71",
+    "RatingScore": 2.40,
+    "AdjustedRating": "2.05712019360482068228204879"
   },
   {
     "BID": 2825598,
@@ -162,22 +147,22 @@
     "BAR": -7.06,
     "StylePlus": "83",
     "RatingScore": 2.86,
-    "AdjustedRating": "2.1174453593095570503871049626"
+    "AdjustedRating": "2.3677556062794723333134363995"
   },
   {
-    "BID": 4203982,
-    "BeerName": "Pšenično",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "Inat Brewery",
-    "Origin": "Belgrade, Централна Србија Serbia",
-    "BeerAbv": 5.60,
-    "BeerIbu": 27.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4203982_4a37d_sm.jpeg",
-    "HallRating": -11.76,
-    "BAR": -5.30,
-    "StylePlus": "79",
-    "RatingScore": 2.74,
-    "AdjustedRating": "2.0565883102514487097012060079"
+    "BID": 2804034,
+    "BeerName": "Белый Кремль Классическое (Bely Kreml Klassicheskoe)",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Белый Кремль (Bely Kreml)",
+    "Origin": "Chistopol', Татарстан Russia",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2804034_ae0ee_sm.jpeg",
+    "HallRating": -11.75,
+    "BAR": -6.16,
+    "StylePlus": "78",
+    "RatingScore": 2.68,
+    "AdjustedRating": "2.0798264851178754290215495414"
   },
   {
     "BID": 2203301,
@@ -192,7 +177,7 @@
     "BAR": -6.90,
     "StylePlus": "79",
     "RatingScore": 2.71,
-    "AdjustedRating": "2.0850851648205744244690914308"
+    "AdjustedRating": "2.2276137435277873662409389023"
   },
   {
     "BID": 4625561,
@@ -207,7 +192,22 @@
     "BAR": -4.45,
     "StylePlus": "74",
     "RatingScore": 2.65,
-    "AdjustedRating": "2.0561852379139974253163655237"
+    "AdjustedRating": "2.0568588188562416028973655003"
+  },
+  {
+    "BID": 4203982,
+    "BeerName": "Pšenično",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Inat Brewery",
+    "Origin": "Belgrade, Централна Србија Serbia",
+    "BeerAbv": 5.60,
+    "BeerIbu": 27.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4203982_4a37d_sm.jpeg",
+    "HallRating": -11.76,
+    "BAR": -5.30,
+    "StylePlus": "79",
+    "RatingScore": 2.74,
+    "AdjustedRating": "2.0599292043427685149282667701"
   },
   {
     "BID": 5810510,
@@ -222,22 +222,7 @@
     "BAR": -6.13,
     "StylePlus": "84",
     "RatingScore": 3.24,
-    "AdjustedRating": "2.061687857073393101352378058"
-  },
-  {
-    "BID": 1412933,
-    "BeerName": "Ratskrone Premium Gold",
-    "BeerStyle": "Lager - Dortmunder / Export",
-    "BreweryName": "EDEKA-Verbund (EUCO GmbH & Netto Discounter)",
-    "Origin": "Hamburg, Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-253684_cb838.jpeg",
-    "HallRating": -11.77,
-    "BAR": -5.17,
-    "StylePlus": "70",
-    "RatingScore": 2.35,
-    "AdjustedRating": "2.056251433042991747517261549"
+    "AdjustedRating": "2.0977089177749769559246787938"
   },
   {
     "BID": 4805227,
@@ -252,7 +237,22 @@
     "BAR": -5.42,
     "StylePlus": "82",
     "RatingScore": 3.05,
-    "AdjustedRating": "2.0570037427870498658972175262"
+    "AdjustedRating": "2.0630880156425446238432648004"
+  },
+  {
+    "BID": 1412933,
+    "BeerName": "Ratskrone Premium Gold",
+    "BeerStyle": "Lager - Dortmunder / Export",
+    "BreweryName": "EDEKA-Verbund (EUCO GmbH & Netto Discounter)",
+    "Origin": "Hamburg, Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-253684_cb838.jpeg",
+    "HallRating": -11.77,
+    "BAR": -5.17,
+    "StylePlus": "70",
+    "RatingScore": 2.35,
+    "AdjustedRating": "2.0573620444927592499126451062"
   },
   {
     "BID": 5613553,
@@ -267,7 +267,7 @@
     "BAR": -4.80,
     "StylePlus": "80",
     "RatingScore": 2.92,
-    "AdjustedRating": "2.0563389286988021073142935638"
+    "AdjustedRating": "2.0580334661323580904952729253"
   },
   {
     "BID": 6407430,
@@ -282,7 +282,7 @@
     "BAR": -5.86,
     "StylePlus": "83",
     "RatingScore": 3.09,
-    "AdjustedRating": "2.0585642267881077129279883027"
+    "AdjustedRating": "2.0747889032258064516129032258"
   },
   {
     "BID": 1621399,
@@ -297,7 +297,7 @@
     "BAR": -5.12,
     "StylePlus": "77",
     "RatingScore": 2.69,
-    "AdjustedRating": "2.0564128924426811124251325678"
+    "AdjustedRating": "2.0585953384860372082184332155"
   },
   {
     "BID": 1014130,
@@ -312,37 +312,7 @@
     "BAR": -6.56,
     "StylePlus": "75",
     "RatingScore": 2.52,
-    "AdjustedRating": "2.062992758775931737739765173"
-  },
-  {
-    "BID": 847645,
-    "BeerName": "Oeps!",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Stadsbrouwerij De Kemphaan",
-    "Origin": "Almere, Flevoland Netherlands",
-    "BeerAbv": 8.00,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-435417_d8d3c_sm.jpeg",
-    "HallRating": -11.79,
-    "BAR": -6.07,
-    "StylePlus": "86",
-    "RatingScore": 3.37,
-    "AdjustedRating": "2.0611496665348582552621973476"
-  },
-  {
-    "BID": 6608000,
-    "BeerName": "Garpa Suren",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Garasjebryggeriet",
-    "Origin": "Haugesund, Rogaland Norway",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-83900_cb58f.jpeg",
-    "HallRating": -11.79,
-    "BAR": -3.04,
-    "StylePlus": "74",
-    "RatingScore": 2.72,
-    "AdjustedRating": "2.0561025827960163052605330253"
+    "AdjustedRating": "2.1042419031643689608778459227"
   },
   {
     "BID": 3890878,
@@ -357,7 +327,37 @@
     "BAR": -3.19,
     "StylePlus": "69",
     "RatingScore": 2.42,
-    "AdjustedRating": "2.056096037811319986565022239"
+    "AdjustedRating": "2.0561762150361577295674716878"
+  },
+  {
+    "BID": 6608000,
+    "BeerName": "Garpa Suren",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Garasjebryggeriet",
+    "Origin": "Haugesund, Rogaland Norway",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-83900_cb58f.jpeg",
+    "HallRating": -11.79,
+    "BAR": -3.04,
+    "StylePlus": "74",
+    "RatingScore": 2.72,
+    "AdjustedRating": "2.0562263573809477398101401532"
+  },
+  {
+    "BID": 847645,
+    "BeerName": "Oeps!",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Stadsbrouwerij De Kemphaan",
+    "Origin": "Almere, Flevoland Netherlands",
+    "BeerAbv": 8.00,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-435417_d8d3c_sm.jpeg",
+    "HallRating": -11.79,
+    "BAR": -6.07,
+    "StylePlus": "86",
+    "RatingScore": 3.37,
+    "AdjustedRating": "2.0939258555982655128666376323"
   },
   {
     "BID": 6006323,
@@ -372,6 +372,6 @@
     "BAR": -4.07,
     "StylePlus": "80",
     "RatingScore": 3.06,
-    "AdjustedRating": "2.0561810635958160848181686339"
+    "AdjustedRating": "2.0568272358167082294264339152"
   }
 ]

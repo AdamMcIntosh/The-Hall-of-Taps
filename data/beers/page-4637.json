@@ -1,20 +1,5 @@
 [
   {
-    "BID": 4703398,
-    "BeerName": "The PastryArchy Almond Brittle",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "DuClaw Brewing Company",
-    "Origin": "Ewing Township, NJ United States",
-    "BeerAbv": 8.30,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4546651_229dc_sm.jpeg",
-    "HallRating": -14.92,
-    "BAR": -8.05,
-    "StylePlus": "87",
-    "RatingScore": 3.60,
-    "AdjustedRating": "2.0687318631122282876157451222"
-  },
-  {
     "BID": 30660,
     "BeerName": "Blatz Light",
     "BeerStyle": "Lager - American Light",
@@ -27,22 +12,37 @@
     "BAR": -6.92,
     "StylePlus": "74",
     "RatingScore": 2.47,
-    "AdjustedRating": "2.056497511957781709474711732"
+    "AdjustedRating": "2.0592314370295841959638565873"
   },
   {
-    "BID": 4222712,
-    "BeerName": "Lime",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Viper Hard Seltzer",
-    "Origin": "Plzeň-město, Plzeňský kraj Czech Republic",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4226445_0b7ee_sm.jpeg",
+    "BID": 4703398,
+    "BeerName": "The PastryArchy Almond Brittle",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "DuClaw Brewing Company",
+    "Origin": "Ewing Township, NJ United States",
+    "BeerAbv": 8.30,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4546651_229dc_sm.jpeg",
     "HallRating": -14.92,
-    "BAR": -7.96,
-    "StylePlus": "72",
-    "RatingScore": 2.57,
-    "AdjustedRating": "2.0595997382953666685199318672"
+    "BAR": -8.05,
+    "StylePlus": "87",
+    "RatingScore": 3.60,
+    "AdjustedRating": "2.1479783695173830130555963034"
+  },
+  {
+    "BID": 5214931,
+    "BeerName": "Mørk Malstrøm",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Kingspot Brewhouse",
+    "Origin": "Varde, Region Syddanmark Denmark",
+    "BeerAbv": 4.50,
+    "BeerIbu": 21.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-482414_02e2b.jpeg",
+    "HallRating": -14.92,
+    "BAR": -5.04,
+    "StylePlus": "76",
+    "RatingScore": 2.91,
+    "AdjustedRating": "2.0566496835788325150027277687"
   },
   {
     "BID": 4940252,
@@ -57,22 +57,7 @@
     "BAR": -5.64,
     "StylePlus": "79",
     "RatingScore": 3.17,
-    "AdjustedRating": "2.0562710427342599165006602096"
-  },
-  {
-    "BID": 4959992,
-    "BeerName": "Bud Light Seltzer Frozen Icicles Blue Raspberry",
-    "BeerStyle": "Freeze-Distilled Beer",
-    "BreweryName": "Anheuser-Busch",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-44_b0ef2.jpeg",
-    "HallRating": -14.94,
-    "BAR": -4.21,
-    "StylePlus": "67",
-    "RatingScore": 2.65,
-    "AdjustedRating": "2.0561066682035388772690493275"
+    "AdjustedRating": "2.0575155456032401277358049692"
   },
   {
     "BID": 8448,
@@ -87,7 +72,22 @@
     "BAR": -7.76,
     "StylePlus": "75",
     "RatingScore": 2.59,
-    "AdjustedRating": "2.0584510026675719015759700664"
+    "AdjustedRating": "2.073700006787330316742081448"
+  },
+  {
+    "BID": 4959992,
+    "BeerName": "Bud Light Seltzer Frozen Icicles Blue Raspberry",
+    "BeerStyle": "Freeze-Distilled Beer",
+    "BreweryName": "Anheuser-Busch",
+    "Origin": "St. Louis, MO United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-44_b0ef2.jpeg",
+    "HallRating": -14.94,
+    "BAR": -4.21,
+    "StylePlus": "67",
+    "RatingScore": 2.65,
+    "AdjustedRating": "2.0562576427248806159243738427"
   },
   {
     "BID": 5216963,
@@ -102,7 +102,7 @@
     "BAR": -7.22,
     "StylePlus": "81",
     "RatingScore": 3.09,
-    "AdjustedRating": "2.0577309402618782677621450239"
+    "AdjustedRating": "2.0685705714891076140763141168"
   },
   {
     "BID": 3105109,
@@ -117,22 +117,7 @@
     "BAR": -7.79,
     "StylePlus": "77",
     "RatingScore": 2.56,
-    "AdjustedRating": "2.0583764593160362423281415042"
-  },
-  {
-    "BID": 2301500,
-    "BeerName": "Áfonyás Sör",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Ludas Sörfőzde",
-    "Origin": "Hungary",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2301500_9632e_sm.jpeg",
-    "HallRating": -14.97,
-    "BAR": -5.60,
-    "StylePlus": "65",
-    "RatingScore": 2.27,
-    "AdjustedRating": "2.0561177430117566842130705019"
+    "AdjustedRating": "2.0731324334099385902121086539"
   },
   {
     "BID": 3303532,
@@ -147,22 +132,22 @@
     "BAR": -5.43,
     "StylePlus": "70",
     "RatingScore": 2.53,
-    "AdjustedRating": "2.0561454939777428366434121544"
+    "AdjustedRating": "2.0565547683138232601624432715"
   },
   {
-    "BID": 1004374,
-    "BeerName": "Roundhouse Kick",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "CREW Republic",
-    "Origin": "Unterschleissheim, Bayern Germany",
-    "BeerAbv": 9.20,
-    "BeerIbu": 71.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-324896_e4cf5_sm.jpeg",
-    "HallRating": -14.98,
-    "BAR": -8.86,
-    "StylePlus": "88",
-    "RatingScore": 3.55,
-    "AdjustedRating": "2.1361364150158220989206294161"
+    "BID": 2301500,
+    "BeerName": "Áfonyás Sör",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Ludas Sörfőzde",
+    "Origin": "Hungary",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2301500_9632e_sm.jpeg",
+    "HallRating": -14.97,
+    "BAR": -5.60,
+    "StylePlus": "65",
+    "RatingScore": 2.27,
+    "AdjustedRating": "2.0563422721607727060289764761"
   },
   {
     "BID": 401690,
@@ -177,7 +162,22 @@
     "BAR": -7.25,
     "StylePlus": "74",
     "RatingScore": 2.53,
-    "AdjustedRating": "2.056871361871737225164805853"
+    "AdjustedRating": "2.0620508308948097951640227938"
+  },
+  {
+    "BID": 1004374,
+    "BeerName": "Roundhouse Kick",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "CREW Republic",
+    "Origin": "Unterschleissheim, Bayern Germany",
+    "BeerAbv": 9.20,
+    "BeerIbu": 71.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-324896_e4cf5_sm.jpeg",
+    "HallRating": -14.98,
+    "BAR": -8.86,
+    "StylePlus": "88",
+    "RatingScore": 3.55,
+    "AdjustedRating": "2.5080920623869678138725336887"
   },
   {
     "BID": 5703559,
@@ -192,7 +192,7 @@
     "BAR": -3.87,
     "StylePlus": "68",
     "RatingScore": 2.49,
-    "AdjustedRating": "2.0560961451697446832331642078"
+    "AdjustedRating": "2.0561770406034970078555973568"
   },
   {
     "BID": 5205708,
@@ -207,7 +207,7 @@
     "BAR": -5.40,
     "StylePlus": "77",
     "RatingScore": 2.98,
-    "AdjustedRating": "2.0561968335050720157541618007"
+    "AdjustedRating": "2.0569478429233706026724843196"
   },
   {
     "BID": 6213458,
@@ -222,37 +222,7 @@
     "BAR": -5.52,
     "StylePlus": "74",
     "RatingScore": 2.81,
-    "AdjustedRating": "2.0561894975244627855263760476"
-  },
-  {
-    "BID": 1903749,
-    "BeerName": "Black Label",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Carling",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CarlingBlackLabel_23200.jpeg",
-    "HallRating": -15.03,
-    "BAR": -8.50,
-    "StylePlus": "78",
-    "RatingScore": 2.66,
-    "AdjustedRating": "2.0680645655738318223197695445"
-  },
-  {
-    "BID": 6412450,
-    "BeerName": "Waxberry Strawberry Sour Ale",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Olé Everyday",
-    "Origin": "Nanning, Guangxi China / People's Republic of China",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -15.03,
-    "BAR": -4.37,
-    "StylePlus": "73",
-    "RatingScore": 2.81,
-    "AdjustedRating": "2.0561166114786467451044253552"
+    "AdjustedRating": "2.0568915836011296133995520499"
   },
   {
     "BID": 2013349,
@@ -267,7 +237,37 @@
     "BAR": -7.64,
     "StylePlus": "80",
     "RatingScore": 2.97,
-    "AdjustedRating": "2.0590163681567306521650907025"
+    "AdjustedRating": "2.078081978118161925601750547"
+  },
+  {
+    "BID": 1903749,
+    "BeerName": "Black Label",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Carling",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CarlingBlackLabel_23200.jpeg",
+    "HallRating": -15.03,
+    "BAR": -8.50,
+    "StylePlus": "78",
+    "RatingScore": 2.66,
+    "AdjustedRating": "2.137164748497738167578151374"
+  },
+  {
+    "BID": 6412450,
+    "BeerName": "Waxberry Strawberry Sour Ale",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Olé Everyday",
+    "Origin": "Nanning, Guangxi China / People's Republic of China",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -15.03,
+    "BAR": -4.37,
+    "StylePlus": "73",
+    "RatingScore": 2.81,
+    "AdjustedRating": "2.0563338016255091897791724326"
   },
   {
     "BID": 4630175,
@@ -282,22 +282,7 @@
     "BAR": -9.50,
     "StylePlus": "81",
     "RatingScore": 2.96,
-    "AdjustedRating": "2.2934555736512654237593443214"
-  },
-  {
-    "BID": 2602943,
-    "BeerName": "Polar Monkeys Coordinator",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Hartwall",
-    "Origin": "Lahti, Päijät-Häme Finland",
-    "BeerAbv": 4.50,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3264_f7ef1.jpeg",
-    "HallRating": -15.05,
-    "BAR": -8.10,
-    "StylePlus": "79",
-    "RatingScore": 2.82,
-    "AdjustedRating": "2.0621507893582270780058414135"
+    "AdjustedRating": "2.7175762164366800353476990007"
   },
   {
     "BID": 3343482,
@@ -312,22 +297,22 @@
     "BAR": -6.25,
     "StylePlus": "69",
     "RatingScore": 2.43,
-    "AdjustedRating": "2.0562124032600235039147754155"
+    "AdjustedRating": "2.0570655976665046183762761303"
   },
   {
-    "BID": 5823621,
-    "BeerName": "Tank Dog Tropical Punch IPA",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "New Realm Brewing Co.",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 9.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-373093_d8844.jpeg",
-    "HallRating": -15.06,
-    "BAR": -6.18,
-    "StylePlus": "83",
-    "RatingScore": 3.36,
-    "AdjustedRating": "2.056488661641818001439789577"
+    "BID": 2602943,
+    "BeerName": "Polar Monkeys Coordinator",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Hartwall",
+    "Origin": "Lahti, Päijät-Häme Finland",
+    "BeerAbv": 4.50,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3264_f7ef1.jpeg",
+    "HallRating": -15.05,
+    "BAR": -8.10,
+    "StylePlus": "79",
+    "RatingScore": 2.82,
+    "AdjustedRating": "2.1002327202586523624072305092"
   },
   {
     "BID": 4804446,
@@ -342,7 +327,22 @@
     "BAR": -5.59,
     "StylePlus": "73",
     "RatingScore": 2.70,
-    "AdjustedRating": "2.056180657025823686553873553"
+    "AdjustedRating": "2.0568238594714600089583049329"
+  },
+  {
+    "BID": 5823621,
+    "BeerName": "Tank Dog Tropical Punch IPA",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "New Realm Brewing Co.",
+    "Origin": "Atlanta, GA United States",
+    "BeerAbv": 9.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-373093_d8844.jpeg",
+    "HallRating": -15.06,
+    "BAR": -6.18,
+    "StylePlus": "83",
+    "RatingScore": 3.36,
+    "AdjustedRating": "2.0591781755232241500038901424"
   },
   {
     "BID": 3801563,
@@ -357,7 +357,7 @@
     "BAR": -7.41,
     "StylePlus": "86",
     "RatingScore": 3.55,
-    "AdjustedRating": "2.0591113699062188126128459657"
+    "AdjustedRating": "2.0789711326985102134848717555"
   },
   {
     "BID": 2032057,
@@ -372,6 +372,6 @@
     "BAR": -8.10,
     "StylePlus": "86",
     "RatingScore": 3.49,
-    "AdjustedRating": "2.0668789642803026476619558959"
+    "AdjustedRating": "2.1348462044185660850177811354"
   }
 ]

@@ -1,65 +1,5 @@
 [
   {
-    "BID": 6602927,
-    "BeerName": "Juno Zero",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Twice Brewed Brewing Co.",
-    "Origin": "Hexham, Northumberland England",
-    "BeerAbv": 0.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-332710_9f0be.jpeg",
-    "HallRating": -15.36,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6612826,
-    "BeerName": "Edel 0,0%",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Brauerei Max Leibinger",
-    "Origin": "Ravensburg, Baden-Württemberg Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-216_504b8.jpeg",
-    "HallRating": -15.36,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6606755,
-    "BeerName": "Studibiar Alkoholfrei",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "BierVision Monstein",
-    "Origin": "Davos, Graubünden Switzerland",
-    "BeerAbv": 0.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-12201_51c3b.jpeg",
-    "HallRating": -15.36,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6612588,
-    "BeerName": "Tokaido Free",
-    "BeerStyle": "Non-Alcoholic - Lager",
-    "BreweryName": "Nippon Beer Co., Ltd.",
-    "Origin": "Meguro, Tokyo Japan",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-NipponBeerCoLtd_12384_c050b.jpeg",
-    "HallRating": -15.36,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
     "BID": 6612280,
     "BeerName": "Hop Lager Sem Álcool",
     "BeerStyle": "Non-Alcoholic - Lager",
@@ -72,7 +12,22 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6606449,
+    "BeerName": "5,0 Original NULL KOMMA NULL",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "5,0 International",
+    "Origin": "Braunschweig, Niedersachsen Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-477748_3e840.jpeg",
+    "HallRating": -15.36,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6612033,
@@ -87,7 +42,52 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6603882,
+    "BeerName": "Free Time - Lager",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Bridge Road Brewers",
+    "Origin": "Beechworth, Victoria Australia",
+    "BeerAbv": 0.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6603882_3de8b_sm.jpeg",
+    "HallRating": -15.36,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 4981005,
+    "BeerName": "Bajo Alcohol",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "Borda Cervezas",
+    "Origin": "Spain",
+    "BeerAbv": 0.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-276452_c6f05.jpeg",
+    "HallRating": -15.36,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6606755,
+    "BeerName": "Studibiar Alkoholfrei",
+    "BeerStyle": "Non-Alcoholic - Lager",
+    "BreweryName": "BierVision Monstein",
+    "Origin": "Davos, Graubünden Switzerland",
+    "BeerAbv": 0.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-12201_51c3b.jpeg",
+    "HallRating": -15.36,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 3344366,
@@ -102,7 +102,7 @@
     "BAR": -6.00,
     "StylePlus": "79",
     "RatingScore": 3.05,
-    "AdjustedRating": "2.0562938714949347959926120781"
+    "AdjustedRating": "2.0576898051505654721351682791"
   },
   {
     "BID": 1676906,
@@ -117,7 +117,7 @@
     "BAR": -5.51,
     "StylePlus": "74",
     "RatingScore": 2.76,
-    "AdjustedRating": "2.056168175199344592634808848"
+    "AdjustedRating": "2.0567284484874457019303815961"
   },
   {
     "BID": 6303722,
@@ -132,7 +132,7 @@
     "BAR": -6.13,
     "StylePlus": "70",
     "RatingScore": 2.33,
-    "AdjustedRating": "2.0561508959695945172442741683"
+    "AdjustedRating": "2.0565957334682598373097730899"
   },
   {
     "BID": 234838,
@@ -147,7 +147,7 @@
     "BAR": -6.40,
     "StylePlus": "70",
     "RatingScore": 2.39,
-    "AdjustedRating": "2.0561986672059339753666763328"
+    "AdjustedRating": "2.0569605903743315508021390374"
   },
   {
     "BID": 6405692,
@@ -162,7 +162,7 @@
     "BAR": -6.57,
     "StylePlus": "83",
     "RatingScore": 3.36,
-    "AdjustedRating": "2.0566345435640214977731542361"
+    "AdjustedRating": "2.0602905076181592039800995025"
   },
   {
     "BID": 5624392,
@@ -177,7 +177,7 @@
     "BAR": -6.73,
     "StylePlus": "83",
     "RatingScore": 3.37,
-    "AdjustedRating": "2.0567656944874680502040972037"
+    "AdjustedRating": "2.0612892445721831669709092321"
   },
   {
     "BID": 903004,
@@ -192,7 +192,7 @@
     "BAR": -8.20,
     "StylePlus": "69",
     "RatingScore": 2.34,
-    "AdjustedRating": "2.0577780883875047426331099026"
+    "AdjustedRating": "2.068568069488713675930585845"
   },
   {
     "BID": 5217038,
@@ -207,7 +207,7 @@
     "BAR": -8.47,
     "StylePlus": "86",
     "RatingScore": 3.37,
-    "AdjustedRating": "2.069699418402139479131516522"
+    "AdjustedRating": "2.1536702167674397617543543002"
   },
   {
     "BID": 3221481,
@@ -222,7 +222,7 @@
     "BAR": -7.39,
     "StylePlus": "75",
     "RatingScore": 2.75,
-    "AdjustedRating": "2.0570344249332960638324905344"
+    "AdjustedRating": "2.0633004372069690713693106176"
   },
   {
     "BID": 5875522,
@@ -237,7 +237,7 @@
     "BAR": -8.49,
     "StylePlus": "75",
     "RatingScore": 2.62,
-    "AdjustedRating": "2.0620090623621476266731123667"
+    "AdjustedRating": "2.0985126725925391702576492436"
   },
   {
     "BID": 6027393,
@@ -252,7 +252,7 @@
     "BAR": -6.87,
     "StylePlus": "67",
     "RatingScore": 2.38,
-    "AdjustedRating": "2.0562800486332391558099733234"
+    "AdjustedRating": "2.0575801187703772706101537028"
   },
   {
     "BID": 8867,
@@ -267,7 +267,7 @@
     "BAR": -7.26,
     "StylePlus": "72",
     "RatingScore": 2.47,
-    "AdjustedRating": "2.0565311457693637269455233137"
+    "AdjustedRating": "2.0594856107512327177801411583"
   },
   {
     "BID": 2041142,
@@ -282,7 +282,7 @@
     "BAR": -7.91,
     "StylePlus": "75",
     "RatingScore": 2.51,
-    "AdjustedRating": "2.057562227490964428381206011"
+    "AdjustedRating": "2.0671698626697607182257389584"
   },
   {
     "BID": 5813256,
@@ -297,52 +297,7 @@
     "BAR": -8.56,
     "StylePlus": "80",
     "RatingScore": 3.05,
-    "AdjustedRating": "2.0678253792385507268242269713"
-  },
-  {
-    "BID": 6141532,
-    "BeerName": "Minty Madness Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Brouwerij Emelisse",
-    "Origin": "Goes, Zeeland Netherlands",
-    "BeerAbv": 9.70,
-    "BeerIbu": 24.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6141532_14cc7_sm.jpeg",
-    "HallRating": -15.56,
-    "BAR": -7.84,
-    "StylePlus": "85",
-    "RatingScore": 3.44,
-    "AdjustedRating": "2.0600098633728232544803594945"
-  },
-  {
-    "BID": 6017525,
-    "BeerName": "Wierquer Bier",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Font Salem",
-    "Origin": "Salem, Comunidad Valenciana Spain",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-54535_41d82_sm.jpeg",
-    "HallRating": -15.56,
-    "BAR": -8.47,
-    "StylePlus": "76",
-    "RatingScore": 2.60,
-    "AdjustedRating": "2.0613676520463857516517742399"
-  },
-  {
-    "BID": 5903884,
-    "BeerName": "Amigos Tequila Beer",
-    "BeerStyle": "Lager - Mexican",
-    "BreweryName": "Global Brands Ltd.",
-    "Origin": "Chesterfield, Derbyshire England",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-AmigosTequilaBeer_38362.jpeg",
-    "HallRating": -15.56,
-    "BAR": -8.73,
-    "StylePlus": "80",
-    "RatingScore": 2.89,
-    "AdjustedRating": "2.0703725402634040445976160583"
+    "AdjustedRating": "2.1394843244981067371579624205"
   },
   {
     "BID": 1407549,
@@ -357,7 +312,52 @@
     "BAR": -8.66,
     "StylePlus": "83",
     "RatingScore": 3.16,
-    "AdjustedRating": "2.072188409098089561669872044"
+    "AdjustedRating": "2.1685478104643832737970161799"
+  },
+  {
+    "BID": 5903884,
+    "BeerName": "Amigos Tequila Beer",
+    "BeerStyle": "Lager - Mexican",
+    "BreweryName": "Global Brands Ltd.",
+    "Origin": "Chesterfield, Derbyshire England",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-AmigosTequilaBeer_38362.jpeg",
+    "HallRating": -15.56,
+    "BAR": -8.73,
+    "StylePlus": "80",
+    "RatingScore": 2.89,
+    "AdjustedRating": "2.1543478502261743004076297277"
+  },
+  {
+    "BID": 6141532,
+    "BeerName": "Minty Madness Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Brouwerij Emelisse",
+    "Origin": "Goes, Zeeland Netherlands",
+    "BeerAbv": 9.70,
+    "BeerIbu": 24.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6141532_14cc7_sm.jpeg",
+    "HallRating": -15.56,
+    "BAR": -7.84,
+    "StylePlus": "85",
+    "RatingScore": 3.44,
+    "AdjustedRating": "2.0856065554877117997252327889"
+  },
+  {
+    "BID": 6017525,
+    "BeerName": "Wierquer Bier",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Font Salem",
+    "Origin": "Salem, Comunidad Valenciana Spain",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-54535_41d82_sm.jpeg",
+    "HallRating": -15.56,
+    "BAR": -8.47,
+    "StylePlus": "76",
+    "RatingScore": 2.60,
+    "AdjustedRating": "2.0941073236014144528062380996"
   },
   {
     "BID": 6221565,
@@ -372,6 +372,6 @@
     "BAR": -9.99,
     "StylePlus": "80",
     "RatingScore": 2.76,
-    "AdjustedRating": "2.3078913028280424663982009309"
+    "AdjustedRating": "2.6263666654082044334884202968"
   }
 ]

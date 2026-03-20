@@ -1,20 +1,5 @@
 [
   {
-    "BID": 3335276,
-    "BeerName": "Black Hole",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Imperiebryggeriet",
-    "Origin": "Getinge, Hallands län Sweden",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-215935_c0078.jpeg",
-    "HallRating": -11.34,
-    "BAR": -3.91,
-    "StylePlus": "86",
-    "RatingScore": 3.49,
-    "AdjustedRating": "2.0562226381361171821926626279"
-  },
-  {
     "BID": 6274799,
     "BeerName": "International Haze Summer 2x Mango Passion",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -27,22 +12,22 @@
     "BAR": -5.51,
     "StylePlus": "89",
     "RatingScore": 3.57,
-    "AdjustedRating": "2.0587412613327507988681219868"
+    "AdjustedRating": "2.0762089678921144264250399184"
   },
   {
-    "BID": 4039584,
-    "BeerName": "Tureberg Ale",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Sollentuna Bryggeri",
-    "Origin": "Rotebro, Stockholms län Sweden",
-    "BeerAbv": 4.80,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -11.35,
-    "BAR": -5.61,
-    "StylePlus": "82",
-    "RatingScore": 2.94,
-    "AdjustedRating": "2.0580006531605073061737485559"
+    "BID": 5816807,
+    "BeerName": "Wroclove Berliner Weisse",
+    "BeerStyle": "Sour - Berliner Weisse",
+    "BreweryName": "Browar Witnica",
+    "Origin": "Witnica, Lubusz Voivodeship Poland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-156_724ef.jpeg",
+    "HallRating": -11.34,
+    "BAR": -2.92,
+    "StylePlus": "76",
+    "RatingScore": 2.83,
+    "AdjustedRating": "2.0562499436658154811797040993"
   },
   {
     "BID": 6012783,
@@ -57,7 +42,22 @@
     "BAR": -5.82,
     "StylePlus": "89",
     "RatingScore": 3.59,
-    "AdjustedRating": "2.0616298162705968556122073846"
+    "AdjustedRating": "2.0975773647469458987783595113"
+  },
+  {
+    "BID": 4039584,
+    "BeerName": "Tureberg Ale",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Sollentuna Bryggeri",
+    "Origin": "Rotebro, Stockholms län Sweden",
+    "BeerAbv": 4.80,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -11.35,
+    "BAR": -5.61,
+    "StylePlus": "82",
+    "RatingScore": 2.94,
+    "AdjustedRating": "2.070560531604786744400122737"
   },
   {
     "BID": 6034349,
@@ -72,97 +72,7 @@
     "BAR": -5.58,
     "StylePlus": "82",
     "RatingScore": 3.20,
-    "AdjustedRating": "2.0583905106695277880061454855"
-  },
-  {
-    "BID": 3805851,
-    "BeerName": "Książęce IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Tyskie Browary Książęce",
-    "Origin": "Tychy, Województwo Śląskie Poland",
-    "BeerAbv": 5.40,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2497365_c6673_sm.jpeg",
-    "HallRating": -11.36,
-    "BAR": -6.76,
-    "StylePlus": "87",
-    "RatingScore": 3.21,
-    "AdjustedRating": "2.1265537310632848487165274566"
-  },
-  {
-    "BID": 22439,
-    "BeerName": "Karpackie Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Van Pur",
-    "Origin": "Rakszawa, Województwo podkarpackie Poland",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22439_68c05_sm.jpeg",
-    "HallRating": -11.36,
-    "BAR": -6.16,
-    "StylePlus": "76",
-    "RatingScore": 2.59,
-    "AdjustedRating": "2.0609465567431411260126625366"
-  },
-  {
-    "BID": 5014134,
-    "BeerName": "Jäger Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Barrica Cervecería",
-    "Origin": "Medellín, Antioquia Colombia",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3867267_cc8eb_sm.jpeg",
-    "HallRating": -11.36,
-    "BAR": -4.66,
-    "StylePlus": "87",
-    "RatingScore": 3.51,
-    "AdjustedRating": "2.0565352131422771569497828869"
-  },
-  {
-    "BID": 5615304,
-    "BeerName": "Hazy Double IPA",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Guilty Monkey Brewery",
-    "Origin": "Nijmegen, Gelderland Netherlands",
-    "BeerAbv": 7.00,
-    "BeerIbu": 43.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5615304_b5b85_sm.jpeg",
-    "HallRating": -11.36,
-    "BAR": -5.83,
-    "StylePlus": "89",
-    "RatingScore": 3.59,
-    "AdjustedRating": "2.0617383088744945429654324431"
-  },
-  {
-    "BID": 4446641,
-    "BeerName": "Farmhouse Republic Black IPA",
-    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
-    "BreweryName": "Malt Coast Brewery",
-    "Origin": "Wells-next-the-Sea, Norfolk England",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4369292_cb19f_sm.jpeg",
-    "HallRating": -11.36,
-    "BAR": -4.30,
-    "StylePlus": "82",
-    "RatingScore": 3.00,
-    "AdjustedRating": "2.0562448983203496684967612922"
-  },
-  {
-    "BID": 4421665,
-    "BeerName": "Maneki",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Nilkko Brewing",
-    "Origin": "Mäntyharju, Etelä-Savo Finland",
-    "BeerAbv": 5.30,
-    "BeerIbu": 37.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2280447_3f78e_sm.jpeg",
-    "HallRating": -11.36,
-    "BAR": -6.00,
-    "StylePlus": "85",
-    "RatingScore": 3.14,
-    "AdjustedRating": "2.0622980674447258366075743124"
+    "AdjustedRating": "2.0735225474233929805698487059"
   },
   {
     "BID": 4025515,
@@ -177,22 +87,97 @@
     "BAR": -6.41,
     "StylePlus": "90",
     "RatingScore": 3.63,
-    "AdjustedRating": "2.086106155119523354291833174"
+    "AdjustedRating": "2.2601813676780017647458087287"
   },
   {
-    "BID": 6004335,
-    "BeerName": "Perlenbacher Märzen",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Lidl Österreich / Austria",
-    "Origin": "Austria",
-    "BeerAbv": 5.00,
+    "BID": 22439,
+    "BeerName": "Karpackie Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Van Pur",
+    "Origin": "Rakszawa, Województwo podkarpackie Poland",
+    "BeerAbv": 4.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-577901_51a16.jpeg",
-    "HallRating": -11.37,
-    "BAR": -5.04,
-    "StylePlus": "81",
-    "RatingScore": 2.91,
-    "AdjustedRating": "2.0566181901601324392160452857"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22439_68c05_sm.jpeg",
+    "HallRating": -11.36,
+    "BAR": -6.16,
+    "StylePlus": "76",
+    "RatingScore": 2.59,
+    "AdjustedRating": "2.0912103085497796073002804998"
+  },
+  {
+    "BID": 5615304,
+    "BeerName": "Hazy Double IPA",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Guilty Monkey Brewery",
+    "Origin": "Nijmegen, Gelderland Netherlands",
+    "BeerAbv": 7.00,
+    "BeerIbu": 43.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5615304_b5b85_sm.jpeg",
+    "HallRating": -11.36,
+    "BAR": -5.83,
+    "StylePlus": "89",
+    "RatingScore": 3.59,
+    "AdjustedRating": "2.098369641286212649780069771"
+  },
+  {
+    "BID": 5014134,
+    "BeerName": "Jäger Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Barrica Cervecería",
+    "Origin": "Medellín, Antioquia Colombia",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3867267_cc8eb_sm.jpeg",
+    "HallRating": -11.36,
+    "BAR": -4.66,
+    "StylePlus": "87",
+    "RatingScore": 3.51,
+    "AdjustedRating": "2.0595341235509219637438730258"
+  },
+  {
+    "BID": 4421665,
+    "BeerName": "Maneki",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Nilkko Brewing",
+    "Origin": "Mäntyharju, Etelä-Savo Finland",
+    "BeerAbv": 5.30,
+    "BeerIbu": 37.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2280447_3f78e_sm.jpeg",
+    "HallRating": -11.36,
+    "BAR": -6.00,
+    "StylePlus": "85",
+    "RatingScore": 3.14,
+    "AdjustedRating": "2.1019454096646500858914033908"
+  },
+  {
+    "BID": 3805851,
+    "BeerName": "Książęce IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Tyskie Browary Książęce",
+    "Origin": "Tychy, Województwo Śląskie Poland",
+    "BeerAbv": 5.40,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2497365_c6673_sm.jpeg",
+    "HallRating": -11.36,
+    "BAR": -6.76,
+    "StylePlus": "87",
+    "RatingScore": 3.21,
+    "AdjustedRating": "2.439881827952791765884633902"
+  },
+  {
+    "BID": 4446641,
+    "BeerName": "Farmhouse Republic Black IPA",
+    "BeerStyle": "IPA - Black / Cascadian Dark Ale",
+    "BreweryName": "Malt Coast Brewery",
+    "Origin": "Wells-next-the-Sea, Norfolk England",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4369292_cb19f_sm.jpeg",
+    "HallRating": -11.36,
+    "BAR": -4.30,
+    "StylePlus": "82",
+    "RatingScore": 3.00,
+    "AdjustedRating": "2.0573154265241349767315069027"
   },
   {
     "BID": 803488,
@@ -207,7 +192,22 @@
     "BAR": -4.89,
     "StylePlus": "76",
     "RatingScore": 2.68,
-    "AdjustedRating": "2.0563743971981870622167284714"
+    "AdjustedRating": "2.0583021848347677423115031181"
+  },
+  {
+    "BID": 6004335,
+    "BeerName": "Perlenbacher Märzen",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Lidl Österreich / Austria",
+    "Origin": "Austria",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-577901_51a16.jpeg",
+    "HallRating": -11.37,
+    "BAR": -5.04,
+    "StylePlus": "81",
+    "RatingScore": 2.91,
+    "AdjustedRating": "2.0601600504501707544240918969"
   },
   {
     "BID": 6041687,
@@ -222,7 +222,7 @@
     "BAR": -5.25,
     "StylePlus": "88",
     "RatingScore": 3.55,
-    "AdjustedRating": "2.0575119601898481570645224434"
+    "AdjustedRating": "2.0669559934966902798745790268"
   },
   {
     "BID": 3234440,
@@ -237,7 +237,7 @@
     "BAR": -5.89,
     "StylePlus": "84",
     "RatingScore": 3.17,
-    "AdjustedRating": "2.0607975129136144691266682039"
+    "AdjustedRating": "2.0912093723564954682779456193"
   },
   {
     "BID": 6752,
@@ -252,7 +252,7 @@
     "BAR": -6.83,
     "StylePlus": "85",
     "RatingScore": 2.85,
-    "AdjustedRating": "2.1160627965288739070398746668"
+    "AdjustedRating": "2.3617863026640769249214684795"
   },
   {
     "BID": 3831367,
@@ -267,22 +267,7 @@
     "BAR": -5.59,
     "StylePlus": "84",
     "RatingScore": 3.10,
-    "AdjustedRating": "2.0581386083206777629353473891"
-  },
-  {
-    "BID": 4421870,
-    "BeerName": "Pelašķu velns (The Yarrow Devil)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Labietis. Pagan Brews",
-    "Origin": "Latvia",
-    "BeerAbv": 9.90,
-    "BeerIbu": 47.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-625390_430c5_sm.jpeg",
-    "HallRating": -11.39,
-    "BAR": -6.29,
-    "StylePlus": "89",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.0757781907272055738273329598"
+    "AdjustedRating": "2.071622939786804955344281187"
   },
   {
     "BID": 3434577,
@@ -297,22 +282,22 @@
     "BAR": -5.37,
     "StylePlus": "76",
     "RatingScore": 2.66,
-    "AdjustedRating": "2.0568115264229346955891883649"
+    "AdjustedRating": "2.061614024418514797929062669"
   },
   {
-    "BID": 2505983,
-    "BeerName": "Svartvinbärlin",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Emmaboda Bryggeri",
-    "Origin": "Emmaboda kommun, Kalmar län Sweden",
-    "BeerAbv": 4.00,
-    "BeerIbu": 4.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2505983_b1bd1_sm.jpeg",
-    "HallRating": -11.40,
-    "BAR": -6.09,
-    "StylePlus": "85",
-    "RatingScore": 3.24,
-    "AdjustedRating": "2.0644060793535688387029938879"
+    "BID": 4421870,
+    "BeerName": "Pelašķu velns (The Yarrow Devil)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Labietis. Pagan Brews",
+    "Origin": "Latvia",
+    "BeerAbv": 9.90,
+    "BeerIbu": 47.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-625390_430c5_sm.jpeg",
+    "HallRating": -11.39,
+    "BAR": -6.29,
+    "StylePlus": "89",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.1953036900998188341444353664"
   },
   {
     "BID": 5017391,
@@ -327,7 +312,22 @@
     "BAR": -3.68,
     "StylePlus": "77",
     "RatingScore": 2.94,
-    "AdjustedRating": "2.0561447242721707402714379494"
+    "AdjustedRating": "2.0565490648323167761170762126"
+  },
+  {
+    "BID": 2505983,
+    "BeerName": "Svartvinbärlin",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Emmaboda Bryggeri",
+    "Origin": "Emmaboda kommun, Kalmar län Sweden",
+    "BeerAbv": 4.00,
+    "BeerIbu": 4.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2505983_b1bd1_sm.jpeg",
+    "HallRating": -11.40,
+    "BAR": -6.09,
+    "StylePlus": "85",
+    "RatingScore": 3.24,
+    "AdjustedRating": "2.1169963818612220742713419145"
   },
   {
     "BID": 4940788,
@@ -342,7 +342,7 @@
     "BAR": -3.09,
     "StylePlus": "67",
     "RatingScore": 2.31,
-    "AdjustedRating": "2.0560923991715097047358296608"
+    "AdjustedRating": "2.0561483414225288969455977233"
   },
   {
     "BID": 6305799,
@@ -357,21 +357,21 @@
     "BAR": -3.56,
     "StylePlus": "79",
     "RatingScore": 3.05,
-    "AdjustedRating": "2.0561421660398866198150702011"
+    "AdjustedRating": "2.0565295024652622142536978933"
   },
   {
-    "BID": 6202047,
-    "BeerName": "Biere Corsaire",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Les Brasseurs De Guadeloupe",
-    "Origin": "Baie-Mahault, Basse-Terre France",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2535804_4631d_sm.jpeg",
+    "BID": 4446629,
+    "BeerName": "Kramas Imperial Stout | Имперский стаут",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Заречная пивоварня",
+    "Origin": "Tyumen, Тюменская область Russia",
+    "BeerAbv": 8.00,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3924339_70f40_sm.jpeg",
     "HallRating": -11.42,
-    "BAR": -5.99,
-    "StylePlus": "81",
-    "RatingScore": 2.78,
-    "AdjustedRating": "2.0598096501579650856656810725"
+    "BAR": -3.41,
+    "StylePlus": "84",
+    "RatingScore": 3.42,
+    "AdjustedRating": "2.0565890654660975657292093005"
   }
 ]

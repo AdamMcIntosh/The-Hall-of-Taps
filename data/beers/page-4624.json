@@ -1,20 +1,5 @@
 [
   {
-    "BID": 5820791,
-    "BeerName": "Flagskibet",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Løkken Bryghus",
-    "Origin": "Løkken, Region Nordjylland Denmark",
-    "BeerAbv": 6.50,
-    "BeerIbu": 64.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5820791_3fa5d_sm.jpeg",
-    "HallRating": -12.93,
-    "BAR": -6.03,
-    "StylePlus": "81",
-    "RatingScore": 3.00,
-    "AdjustedRating": "2.0570941080699114414405254542"
-  },
-  {
     "BID": 806101,
     "BeerName": "Patriarca Imperial",
     "BeerStyle": "Stout - Russian Imperial",
@@ -27,7 +12,22 @@
     "BAR": -5.16,
     "StylePlus": "83",
     "RatingScore": 3.33,
-    "AdjustedRating": "2.0564015966969312293144809445"
+    "AdjustedRating": "2.0585134342648089048026776679"
+  },
+  {
+    "BID": 5820791,
+    "BeerName": "Flagskibet",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Løkken Bryghus",
+    "Origin": "Løkken, Region Nordjylland Denmark",
+    "BeerAbv": 6.50,
+    "BeerIbu": 64.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5820791_3fa5d_sm.jpeg",
+    "HallRating": -12.93,
+    "BAR": -6.03,
+    "StylePlus": "81",
+    "RatingScore": 3.00,
+    "AdjustedRating": "2.0637687989015876699348301135"
   },
   {
     "BID": 2206390,
@@ -42,7 +42,7 @@
     "BAR": -7.49,
     "StylePlus": "76",
     "RatingScore": 2.56,
-    "AdjustedRating": "2.072597764354944303062224038"
+    "AdjustedRating": "2.1599403817042024611098212213"
   },
   {
     "BID": 5624226,
@@ -57,7 +57,7 @@
     "BAR": -6.98,
     "StylePlus": "85",
     "RatingScore": 3.28,
-    "AdjustedRating": "2.0659909117259552042160737813"
+    "AdjustedRating": "2.1281081226489531533845899774"
   },
   {
     "BID": 1304351,
@@ -72,7 +72,7 @@
     "BAR": -5.69,
     "StylePlus": "86",
     "RatingScore": 3.47,
-    "AdjustedRating": "2.056875080412297723105406512"
+    "AdjustedRating": "2.0621228569209862162686856921"
   },
   {
     "BID": 5205700,
@@ -87,37 +87,7 @@
     "BAR": -5.23,
     "StylePlus": "77",
     "RatingScore": 2.74,
-    "AdjustedRating": "2.0562684203746149169289005004"
-  },
-  {
-    "BID": 1206316,
-    "BeerName": "Cidre Artisanal Ponpon",
-    "BeerStyle": "Cider - Traditional / Apfelwein",
-    "BreweryName": "Cidrerie de la Brique",
-    "Origin": "Saint-Joseph, Normandie France",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-596534_920fd_sm.jpeg",
-    "HallRating": -12.99,
-    "BAR": -6.83,
-    "StylePlus": "81",
-    "RatingScore": 2.87,
-    "AdjustedRating": "2.0604798158658652325213540019"
-  },
-  {
-    "BID": 4818719,
-    "BeerName": "Lite Litchi IPA",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Hansa Borg Bryggerier",
-    "Origin": "Bergen, Vestland Norway",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4818719_54d56_sm.jpeg",
-    "HallRating": -12.99,
-    "BAR": -7.16,
-    "StylePlus": "75",
-    "RatingScore": 2.50,
-    "AdjustedRating": "2.0614593151570606925954229176"
+    "AdjustedRating": "2.0574945201961242120009339248"
   },
   {
     "BID": 3611383,
@@ -132,7 +102,37 @@
     "BAR": -6.61,
     "StylePlus": "73",
     "RatingScore": 2.32,
-    "AdjustedRating": "2.0569361322464135706024389749"
+    "AdjustedRating": "2.0624756646310142115176074425"
+  },
+  {
+    "BID": 4818719,
+    "BeerName": "Lite Litchi IPA",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Hansa Borg Bryggerier",
+    "Origin": "Bergen, Vestland Norway",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4818719_54d56_sm.jpeg",
+    "HallRating": -12.99,
+    "BAR": -7.16,
+    "StylePlus": "75",
+    "RatingScore": 2.50,
+    "AdjustedRating": "2.0941958821537419573315272604"
+  },
+  {
+    "BID": 1206316,
+    "BeerName": "Cidre Artisanal Ponpon",
+    "BeerStyle": "Cider - Traditional / Apfelwein",
+    "BreweryName": "Cidrerie de la Brique",
+    "Origin": "Saint-Joseph, Normandie France",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-596534_920fd_sm.jpeg",
+    "HallRating": -12.99,
+    "BAR": -6.83,
+    "StylePlus": "81",
+    "RatingScore": 2.87,
+    "AdjustedRating": "2.0885955443246480982330038934"
   },
   {
     "BID": 4104153,
@@ -147,7 +147,7 @@
     "BAR": -7.28,
     "StylePlus": "86",
     "RatingScore": 3.37,
-    "AdjustedRating": "2.0775982140248740404422162875"
+    "AdjustedRating": "2.2047151812145524968875363121"
   },
   {
     "BID": 504177,
@@ -162,7 +162,7 @@
     "BAR": -6.06,
     "StylePlus": "79",
     "RatingScore": 3.01,
-    "AdjustedRating": "2.0570902763150536595781457324"
+    "AdjustedRating": "2.0637404189149985494633014215"
   },
   {
     "BID": 6601158,
@@ -177,7 +177,7 @@
     "BAR": -3.35,
     "StylePlus": "68",
     "RatingScore": 2.32,
-    "AdjustedRating": "2.0560913869242395712998916036"
+    "AdjustedRating": "2.0561405890723377711935439855"
   },
   {
     "BID": 810234,
@@ -192,7 +192,7 @@
     "BAR": -6.83,
     "StylePlus": "82",
     "RatingScore": 2.91,
-    "AdjustedRating": "2.0605647116517830022477370755"
+    "AdjustedRating": "2.0892561954912579877443172235"
   },
   {
     "BID": 5825071,
@@ -207,7 +207,7 @@
     "BAR": -5.24,
     "StylePlus": "75",
     "RatingScore": 2.98,
-    "AdjustedRating": "2.0563307875022895170645338543"
+    "AdjustedRating": "2.0579715606576515225216460745"
   },
   {
     "BID": 6217294,
@@ -222,22 +222,7 @@
     "BAR": -6.09,
     "StylePlus": "80",
     "RatingScore": 3.04,
-    "AdjustedRating": "2.0571544008906534763191406617"
-  },
-  {
-    "BID": 2011409,
-    "BeerName": "Cheers Shogun Orange Lager",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Thai Asia Pacific Brewery",
-    "Origin": "Tambon Sai Yai, Chang Wat Nonthaburi Thailand",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2011409_f604b_sm.jpeg",
-    "HallRating": -13.04,
-    "BAR": -6.04,
-    "StylePlus": "77",
-    "RatingScore": 2.58,
-    "AdjustedRating": "2.0565980910017616688316805507"
+    "AdjustedRating": "2.0642265431764569395568274102"
   },
   {
     "BID": 2015240,
@@ -252,7 +237,22 @@
     "BAR": -7.51,
     "StylePlus": "75",
     "RatingScore": 2.55,
-    "AdjustedRating": "2.0704939148964552953179463489"
+    "AdjustedRating": "2.1485269153724247226624405705"
+  },
+  {
+    "BID": 2011409,
+    "BeerName": "Cheers Shogun Orange Lager",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Thai Asia Pacific Brewery",
+    "Origin": "Tambon Sai Yai, Chang Wat Nonthaburi Thailand",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2011409_f604b_sm.jpeg",
+    "HallRating": -13.04,
+    "BAR": -6.04,
+    "StylePlus": "77",
+    "RatingScore": 2.58,
+    "AdjustedRating": "2.0599974525892096911525659881"
   },
   {
     "BID": 6223634,
@@ -267,7 +267,7 @@
     "BAR": -6.26,
     "StylePlus": "81",
     "RatingScore": 3.14,
-    "AdjustedRating": "2.0576758516143293806168676903"
+    "AdjustedRating": "2.0681628048122156242770108738"
   },
   {
     "BID": 5632834,
@@ -282,22 +282,7 @@
     "BAR": -6.51,
     "StylePlus": "87",
     "RatingScore": 3.62,
-    "AdjustedRating": "2.0598277052602720252631151411"
-  },
-  {
-    "BID": 6416597,
-    "BeerName": "Duquesne LT",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Duquesne Brewing Company",
-    "Origin": "Pittsburgh, PA United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-199143_0b0e4_sm.jpeg",
-    "HallRating": -13.08,
-    "BAR": -6.08,
-    "StylePlus": "77",
-    "RatingScore": 2.58,
-    "AdjustedRating": "2.0566220395378690629011553273"
+    "AdjustedRating": "2.0843185028621752531924262439"
   },
   {
     "BID": 2208298,
@@ -312,7 +297,22 @@
     "BAR": -7.81,
     "StylePlus": "86",
     "RatingScore": 3.23,
-    "AdjustedRating": "2.1342285162926912689986390098"
+    "AdjustedRating": "2.4708826511674819708507741187"
+  },
+  {
+    "BID": 6416597,
+    "BeerName": "Duquesne LT",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Duquesne Brewing Company",
+    "Origin": "Pittsburgh, PA United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-199143_0b0e4_sm.jpeg",
+    "HallRating": -13.08,
+    "BAR": -6.08,
+    "StylePlus": "77",
+    "RatingScore": 2.58,
+    "AdjustedRating": "2.0601785189770572987193871629"
   },
   {
     "BID": 642937,
@@ -327,22 +327,22 @@
     "BAR": -6.70,
     "StylePlus": "81",
     "RatingScore": 2.99,
-    "AdjustedRating": "2.0594227885933352095963245529"
+    "AdjustedRating": "2.0810711263757115749525616698"
   },
   {
-    "BID": 5016888,
-    "BeerName": "Hans Dry Beer (汉斯干啤) 10°P",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Hans Beer (汉斯啤酒)",
-    "Origin": "Xi An Shi, Shan Xi Sheng China / People's Republic of China",
-    "BeerAbv": 4.00,
+    "BID": 1672103,
+    "BeerName": "Bigger Than Jesus",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Wingman Brewers",
+    "Origin": "Tacoma, WA United States",
+    "BeerAbv": 9.99,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-269204_a2712_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-WingmanBrewers_12840.jpeg",
     "HallRating": -13.09,
-    "BAR": -6.28,
-    "StylePlus": "77",
-    "RatingScore": 2.63,
-    "AdjustedRating": "2.0569341400702282162947755695"
+    "BAR": -3.62,
+    "StylePlus": "82",
+    "RatingScore": 3.32,
+    "AdjustedRating": "2.0564289014501793232496491502"
   },
   {
     "BID": 6216323,
@@ -357,21 +357,21 @@
     "BAR": -8.06,
     "StylePlus": "79",
     "RatingScore": 2.69,
-    "AdjustedRating": "2.1455217896469199750844179261"
+    "AdjustedRating": "2.4093333134214978764545423155"
   },
   {
-    "BID": 59545,
-    "BeerName": "Green Barley (青稞) 10°P",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Tibet Tiandi Green Beverage Co., Ltd (西藏天地绿色饮品发展有限公司)",
-    "Origin": "China / People's Republic of China",
-    "BeerAbv": 3.30,
+    "BID": 51132,
+    "BeerName": "Ice",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Molson Coors Canada",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CarlingIce_51132.jpeg",
     "HallRating": -13.09,
-    "BAR": -5.73,
-    "StylePlus": "76",
-    "RatingScore": 2.54,
-    "AdjustedRating": "2.0563498290823917173397218259"
+    "BAR": -6.74,
+    "StylePlus": "78",
+    "RatingScore": 2.68,
+    "AdjustedRating": "2.0740991831865947174098267538"
   }
 ]

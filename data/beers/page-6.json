@@ -12,7 +12,7 @@
     "BAR": 10.55,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0864222136743327861723280653"
+    "AdjustedRating": "2.2711771227945107823917305293"
   },
   {
     "BID": 4630889,
@@ -27,7 +27,7 @@
     "BAR": 9.18,
     "StylePlus": "133",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.0596418801344542939244037592"
+    "AdjustedRating": "2.0830708876469454615532857969"
   },
   {
     "BID": 5902002,
@@ -42,22 +42,7 @@
     "BAR": 9.27,
     "StylePlus": "116",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0605062291868824142047908146"
-  },
-  {
-    "BID": 3904423,
-    "BeerName": "Cable Car Ale",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "The Lost Abbey",
-    "Origin": "San Marcos, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CableCar_8225.jpeg",
-    "HallRating": 19.08,
-    "BAR": 10.37,
-    "StylePlus": "115",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0795947409330604260982667702"
+    "AdjustedRating": "2.0895827966672439338836614135"
   },
   {
     "BID": 4980515,
@@ -72,7 +57,22 @@
     "BAR": 9.40,
     "StylePlus": "122",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0611789565681086406711832042"
+    "AdjustedRating": "2.0945874836406900654372397383"
+  },
+  {
+    "BID": 3904423,
+    "BeerName": "Cable Car Ale",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "The Lost Abbey",
+    "Origin": "San Marcos, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CableCar_8225.jpeg",
+    "HallRating": 19.08,
+    "BAR": 10.37,
+    "StylePlus": "115",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.2256211644097064436971734981"
   },
   {
     "BID": 1675563,
@@ -87,7 +87,7 @@
     "BAR": 8.59,
     "StylePlus": "117",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.0579842433189753812824515991"
+    "AdjustedRating": "2.0705734796517827713903484111"
   },
   {
     "BID": 1209346,
@@ -102,7 +102,7 @@
     "BAR": 11.17,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1648181892649047206793576063"
+    "AdjustedRating": "2.6993318807095279883759404986"
   },
   {
     "BID": 5804783,
@@ -117,7 +117,7 @@
     "BAR": 8.34,
     "StylePlus": "132",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0574762082931729460981905573"
+    "AdjustedRating": "2.0667109593508560779593896805"
   },
   {
     "BID": 3604562,
@@ -132,7 +132,7 @@
     "BAR": 11.73,
     "StylePlus": "118",
     "RatingScore": 4.23,
-    "AdjustedRating": "2.3902477695554426192793708492"
+    "AdjustedRating": "3.3210634816704844665813435938"
   },
   {
     "BID": 1643001,
@@ -147,22 +147,7 @@
     "BAR": 10.98,
     "StylePlus": "115",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.133494939528059905769524269"
-  },
-  {
-    "BID": 6605126,
-    "BeerName": "Side-Poured Guinness",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Queue Beer",
-    "Origin": "Kings County, NY United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605126_24654_sm.jpeg",
-    "HallRating": 18.96,
-    "BAR": 5.86,
-    "StylePlus": "133",
-    "RatingScore": 4.82,
-    "AdjustedRating": "2.0562387179151834672135527324"
+    "AdjustedRating": "2.5433589779506329702341292592"
   },
   {
     "BID": 3018980,
@@ -177,7 +162,22 @@
     "BAR": 8.74,
     "StylePlus": "116",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0584947738294378149166916651"
+    "AdjustedRating": "2.0744415734556788044214724045"
+  },
+  {
+    "BID": 6605126,
+    "BeerName": "Side-Poured Guinness",
+    "BeerStyle": "Stout - Irish Dry",
+    "BreweryName": "Queue Beer",
+    "Origin": "Kings County, NY United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6605126_24654_sm.jpeg",
+    "HallRating": 18.96,
+    "BAR": 5.86,
+    "StylePlus": "133",
+    "RatingScore": 4.82,
+    "AdjustedRating": "2.0572690279077019020891799189"
   },
   {
     "BID": 4702648,
@@ -192,7 +192,7 @@
     "BAR": 9.79,
     "StylePlus": "121",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0659419720538447503395706206"
+    "AdjustedRating": "2.1296002713786260984597940093"
   },
   {
     "BID": 5550435,
@@ -207,7 +207,7 @@
     "BAR": 8.89,
     "StylePlus": "120",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0590904885018909357081859217"
+    "AdjustedRating": "2.0789401673268283257656265095"
   },
   {
     "BID": 6004323,
@@ -222,7 +222,7 @@
     "BAR": 8.66,
     "StylePlus": "116",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0583700757972130909978415565"
+    "AdjustedRating": "2.0734975862736744258104496688"
   },
   {
     "BID": 5031933,
@@ -237,7 +237,7 @@
     "BAR": 9.73,
     "StylePlus": "118",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0657777533328602276989831608"
+    "AdjustedRating": "2.1284466627565982404692082111"
   },
   {
     "BID": 3602553,
@@ -252,7 +252,7 @@
     "BAR": 11.10,
     "StylePlus": "113",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.1690377480143143929475429868"
+    "AdjustedRating": "2.7145623151616231572698619101"
   },
   {
     "BID": 2401066,
@@ -267,7 +267,7 @@
     "BAR": 10.84,
     "StylePlus": "115",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.1220858527203853343487592353"
+    "AdjustedRating": "2.4816263867234205366110287436"
   },
   {
     "BID": 6215122,
@@ -282,7 +282,7 @@
     "BAR": 11.57,
     "StylePlus": "111",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.3686845553345412821682829258"
+    "AdjustedRating": "3.3419237593505416708427104498"
   },
   {
     "BID": 3008402,
@@ -297,37 +297,7 @@
     "BAR": 10.54,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0960157612790802479645078265"
-  },
-  {
-    "BID": 4962053,
-    "BeerName": "Partial BA Imperial Cake Talk",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4962053_5a50e_sm.jpeg",
-    "HallRating": 18.83,
-    "BAR": 8.99,
-    "StylePlus": "113",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0597304905320933069065406312"
-  },
-  {
-    "BID": 5633018,
-    "BeerName": "Anna: Puncheon",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5633018_a2782_sm.jpeg",
-    "HallRating": 18.83,
-    "BAR": 8.72,
-    "StylePlus": "123",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.0585339513395478660528396279"
+    "AdjustedRating": "2.3324476851899984405052762905"
   },
   {
     "BID": 2205232,
@@ -342,7 +312,37 @@
     "BAR": 11.27,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.2194531491681851527557564427"
+    "AdjustedRating": "2.9097473489223311775834992395"
+  },
+  {
+    "BID": 4962053,
+    "BeerName": "Partial BA Imperial Cake Talk",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4962053_5a50e_sm.jpeg",
+    "HallRating": 18.83,
+    "BAR": 8.99,
+    "StylePlus": "113",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.0837666305291382935627616273"
+  },
+  {
+    "BID": 5633018,
+    "BeerName": "Anna: Puncheon",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5633018_a2782_sm.jpeg",
+    "HallRating": 18.83,
+    "BAR": 8.72,
+    "StylePlus": "123",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0747333170788343202136305585"
   },
   {
     "BID": 3904415,
@@ -357,7 +357,7 @@
     "BAR": 10.64,
     "StylePlus": "111",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1065339486404833836858006042"
+    "AdjustedRating": "2.3964029251231692757814733231"
   },
   {
     "BID": 435801,
@@ -372,6 +372,6 @@
     "BAR": 11.66,
     "StylePlus": "115",
     "RatingScore": 4.15,
-    "AdjustedRating": "2.4115462204053694337757158611"
+    "AdjustedRating": "3.3341927027991948042082874397"
   }
 ]

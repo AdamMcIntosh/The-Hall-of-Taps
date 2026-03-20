@@ -12,7 +12,7 @@
     "BAR": 10.89,
     "StylePlus": "115",
     "RatingScore": 4.25,
-    "AdjustedRating": "2.2818100114686962119517328597"
+    "AdjustedRating": "3.0822459123504322288062597939"
   },
   {
     "BID": 4980052,
@@ -27,7 +27,7 @@
     "BAR": 5.28,
     "StylePlus": "121",
     "RatingScore": 4.82,
-    "AdjustedRating": "2.0562105886735418272863980214"
+    "AdjustedRating": "2.0570536438761986434863958837"
   },
   {
     "BID": 3008916,
@@ -42,7 +42,7 @@
     "BAR": 9.44,
     "StylePlus": "114",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0699205080863658786475923045"
+    "AdjustedRating": "2.1581383804157181774079187969"
   },
   {
     "BID": 3237218,
@@ -57,7 +57,7 @@
     "BAR": 9.69,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.078985605524084676412975246"
+    "AdjustedRating": "2.2213658229322077071431170627"
   },
   {
     "BID": 5302224,
@@ -72,7 +72,7 @@
     "BAR": 8.66,
     "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0604781841791749963802261279"
+    "AdjustedRating": "2.0893697971906869347700596498"
   },
   {
     "BID": 2002082,
@@ -87,37 +87,7 @@
     "BAR": 9.46,
     "StylePlus": "113",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0713913824734238927043401742"
-  },
-  {
-    "BID": 4024608,
-    "BeerName": "Galaxy Dry Hop Pseudo Sue",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1562806_aea96_sm.jpeg",
-    "HallRating": 17.81,
-    "BAR": 10.66,
-    "StylePlus": "118",
-    "RatingScore": 4.22,
-    "AdjustedRating": "2.2087148657423831755807518199"
-  },
-  {
-    "BID": 1705546,
-    "BeerName": "Qualify Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Suarez Family Brewery",
-    "Origin": "Livingston, NY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1705546_4acf7_sm.jpeg",
-    "HallRating": 17.81,
-    "BAR": 10.09,
-    "StylePlus": "121",
-    "RatingScore": 4.16,
-    "AdjustedRating": "2.099882164626033397617018732"
+    "AdjustedRating": "2.1686731333345732512507671992"
   },
   {
     "BID": 4423027,
@@ -132,7 +102,37 @@
     "BAR": 8.65,
     "StylePlus": "114",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0604090909515813966484704233"
+    "AdjustedRating": "2.0888464183182605349239946123"
+  },
+  {
+    "BID": 1705546,
+    "BeerName": "Qualify Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Suarez Family Brewery",
+    "Origin": "Livingston, NY United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1705546_4acf7_sm.jpeg",
+    "HallRating": 17.81,
+    "BAR": 10.09,
+    "StylePlus": "121",
+    "RatingScore": 4.16,
+    "AdjustedRating": "2.3507980276636767541285941822"
+  },
+  {
+    "BID": 4024608,
+    "BeerName": "Galaxy Dry Hop Pseudo Sue",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1562806_aea96_sm.jpeg",
+    "HallRating": 17.81,
+    "BAR": 10.66,
+    "StylePlus": "118",
+    "RatingScore": 4.22,
+    "AdjustedRating": "2.8516958854930775584678165029"
   },
   {
     "BID": 6423294,
@@ -147,22 +147,7 @@
     "BAR": 9.68,
     "StylePlus": "122",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0777871183482955204169586015"
-  },
-  {
-    "BID": 5500225,
-    "BeerName": "25th Anniversary Series: B&E'S Double Barrel Maple Bourbon Stout Green Label",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 16.74,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5500225_510b1_sm.jpeg",
-    "HallRating": 17.79,
-    "BAR": 8.47,
-    "StylePlus": "114",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.0595366147442462067020224993"
+    "AdjustedRating": "2.2124345617953047551609564791"
   },
   {
     "BID": 4817770,
@@ -177,7 +162,22 @@
     "BAR": 8.40,
     "StylePlus": "125",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0589857709632656795620549261"
+    "AdjustedRating": "2.0781374144824522434473567303"
+  },
+  {
+    "BID": 5500225,
+    "BeerName": "25th Anniversary Series: B&E'S Double Barrel Maple Bourbon Stout Green Label",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 16.74,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5500225_510b1_sm.jpeg",
+    "HallRating": 17.79,
+    "BAR": 8.47,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.0823022723939639535332484273"
   },
   {
     "BID": 6103962,
@@ -192,7 +192,7 @@
     "BAR": 8.41,
     "StylePlus": "112",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0593148553914654508581056869"
+    "AdjustedRating": "2.0806347448920474296087443513"
   },
   {
     "BID": 3809290,
@@ -207,22 +207,7 @@
     "BAR": 8.35,
     "StylePlus": "115",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.05900918610130462298606928"
-  },
-  {
-    "BID": 6218368,
-    "BeerName": "50°N-4°E",
-    "BeerStyle": "Lambic - Traditional",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2537532_3da75_sm.jpeg",
-    "HallRating": 17.75,
-    "BAR": 9.89,
-    "StylePlus": "115",
-    "RatingScore": 4.40,
-    "AdjustedRating": "2.0912564282842663003975156525"
+    "AdjustedRating": "2.0783254427395354230278668883"
   },
   {
     "BID": 3613955,
@@ -237,7 +222,22 @@
     "BAR": 11.36,
     "StylePlus": "112",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.8448516900528536516543374482"
+    "AdjustedRating": "3.8645659234540997003541269409"
+  },
+  {
+    "BID": 6218368,
+    "BeerName": "50°N-4°E",
+    "BeerStyle": "Lambic - Traditional",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2537532_3da75_sm.jpeg",
+    "HallRating": 17.75,
+    "BAR": 9.89,
+    "StylePlus": "115",
+    "RatingScore": 4.40,
+    "AdjustedRating": "2.3010867950486233566702166664"
   },
   {
     "BID": 5805511,
@@ -252,7 +252,7 @@
     "BAR": 9.73,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0834753798831933851523241799"
+    "AdjustedRating": "2.2514882666762403963524089897"
   },
   {
     "BID": 4035313,
@@ -267,7 +267,7 @@
     "BAR": 10.22,
     "StylePlus": "109",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.1275652685264469641821614085"
+    "AdjustedRating": "2.5119480731461664358554702254"
   },
   {
     "BID": 235202,
@@ -282,7 +282,7 @@
     "BAR": 10.61,
     "StylePlus": "109",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.2166094706322899513550420416"
+    "AdjustedRating": "2.8890590702464141228392791467"
   },
   {
     "BID": 3025834,
@@ -297,7 +297,7 @@
     "BAR": 9.95,
     "StylePlus": "120",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.0956259662938478649354544432"
+    "AdjustedRating": "2.3269719258954866105061297171"
   },
   {
     "BID": 6609944,
@@ -312,22 +312,7 @@
     "BAR": 6.33,
     "StylePlus": "127",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0563941838804390415176140729"
-  },
-  {
-    "BID": 6506422,
-    "BeerName": "2x4 Benthic (2025)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Half Acre Beer Company",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 13.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1862_0abe3.jpeg",
-    "HallRating": 17.66,
-    "BAR": 8.44,
-    "StylePlus": "112",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0597204075853709976190899689"
+    "AdjustedRating": "2.0584587794378323626234489744"
   },
   {
     "BID": 3505685,
@@ -342,7 +327,22 @@
     "BAR": 8.87,
     "StylePlus": "117",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.0625957793703401056707963883"
+    "AdjustedRating": "2.1050972887895631577942047256"
+  },
+  {
+    "BID": 6506422,
+    "BeerName": "2x4 Benthic (2025)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Half Acre Beer Company",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 13.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1862_0abe3.jpeg",
+    "HallRating": 17.66,
+    "BAR": 8.44,
+    "StylePlus": "112",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.0836868487443582918643675501"
   },
   {
     "BID": 6043863,
@@ -357,7 +357,7 @@
     "BAR": 7.70,
     "StylePlus": "116",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0574468139471007121057985758"
+    "AdjustedRating": "2.0664892203732111303132099652"
   },
   {
     "BID": 2015540,
@@ -372,6 +372,6 @@
     "BAR": 9.75,
     "StylePlus": "110",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.0855213155066510909296454008"
+    "AdjustedRating": "2.2640137055044894772332043866"
   }
 ]

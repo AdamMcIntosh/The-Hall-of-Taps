@@ -12,7 +12,7 @@
     "BAR": -7.39,
     "StylePlus": "84",
     "RatingScore": 3.38,
-    "AdjustedRating": "2.066853385402837860348195672"
+    "AdjustedRating": "2.134358563278484031331975859"
   },
   {
     "BID": 3341731,
@@ -27,67 +27,7 @@
     "BAR": -6.28,
     "StylePlus": "85",
     "RatingScore": 3.46,
-    "AdjustedRating": "2.0573118264176846708276659845"
-  },
-  {
-    "BID": 19777,
-    "BeerName": "Lakeport Honey Lager",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Labatt Brewing Company",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LakeportHoneyLager_19777.jpeg",
-    "HallRating": -13.72,
-    "BAR": -6.63,
-    "StylePlus": "76",
-    "RatingScore": 2.60,
-    "AdjustedRating": "2.0569711056847367979818765195"
-  },
-  {
-    "BID": 4030783,
-    "BeerName": "Alexander Hefe (alkoholfrei)",
-    "BeerStyle": "Wheat Beer - Hefeweizen",
-    "BreweryName": "König Ludwig Schlossbrauerei Kaltenberg",
-    "Origin": "Fürstenfeldbruck, Bayern Germany",
-    "BeerAbv": 0.02,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-11412_1e164.jpeg",
-    "HallRating": -13.72,
-    "BAR": -4.80,
-    "StylePlus": "71",
-    "RatingScore": 2.48,
-    "AdjustedRating": "2.0561282217325815709662317572"
-  },
-  {
-    "BID": 4404448,
-    "BeerName": "Judocus",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Axes Castellum Kloosterbier",
-    "Origin": "Zwolle, Overijssel Netherlands",
-    "BeerAbv": 7.20,
-    "BeerIbu": 75.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3454781_94048_sm.jpeg",
-    "HallRating": -13.72,
-    "BAR": -7.04,
-    "StylePlus": "85",
-    "RatingScore": 3.41,
-    "AdjustedRating": "2.0610303353784682784358267078"
-  },
-  {
-    "BID": 2408132,
-    "BeerName": "Žatecký Gus Černý",
-    "BeerStyle": "Lager - Tmavé (Czech Dark)",
-    "BreweryName": "Baltika Breweries (Балтика)",
-    "Origin": "Sankt-Peterburg, Russia",
-    "BeerAbv": 3.50,
-    "BeerIbu": 14.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-172294_eaf2c_sm.jpeg",
-    "HallRating": -13.72,
-    "BAR": -7.50,
-    "StylePlus": "79",
-    "RatingScore": 2.92,
-    "AdjustedRating": "2.0650427646918100571883286453"
+    "AdjustedRating": "2.0654372769880311422705968935"
   },
   {
     "BID": 3014301,
@@ -102,37 +42,67 @@
     "BAR": -5.41,
     "StylePlus": "76",
     "RatingScore": 2.84,
-    "AdjustedRating": "2.0562634857548444213787997894"
+    "AdjustedRating": "2.0574571498637602179836512262"
   },
   {
-    "BID": 2602141,
-    "BeerName": "Bear's Feast Brew",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Grimfrost",
-    "Origin": "Falköping, Västra Götalands län Sweden",
-    "BeerAbv": 14.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2589692_b5084_sm.jpeg",
-    "HallRating": -13.73,
-    "BAR": -6.30,
-    "StylePlus": "83",
-    "RatingScore": 3.31,
-    "AdjustedRating": "2.0571933808851906370840420096"
+    "BID": 2408132,
+    "BeerName": "Žatecký Gus Černý",
+    "BeerStyle": "Lager - Tmavé (Czech Dark)",
+    "BreweryName": "Baltika Breweries (Балтика)",
+    "Origin": "Sankt-Peterburg, Russia",
+    "BeerAbv": 3.50,
+    "BeerIbu": 14.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-172294_eaf2c_sm.jpeg",
+    "HallRating": -13.72,
+    "BAR": -7.50,
+    "StylePlus": "79",
+    "RatingScore": 2.92,
+    "AdjustedRating": "2.1202914445567427086341322553"
   },
   {
-    "BID": 8880,
-    "BeerName": "Zhujiang Draft Beer 10° (Cold Draft)",
+    "BID": 4404448,
+    "BeerName": "Judocus",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Axes Castellum Kloosterbier",
+    "Origin": "Zwolle, Overijssel Netherlands",
+    "BeerAbv": 7.20,
+    "BeerIbu": 75.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3454781_94048_sm.jpeg",
+    "HallRating": -13.72,
+    "BAR": -7.04,
+    "StylePlus": "85",
+    "RatingScore": 3.41,
+    "AdjustedRating": "2.0930829751000360319356735127"
+  },
+  {
+    "BID": 19777,
+    "BeerName": "Lakeport Honey Lager",
     "BeerStyle": "Lager - American",
-    "BreweryName": "Pearl River Beer Group (珠江啤酒集团)",
-    "Origin": "Guang Zhou Shi, Guang Dong Sheng China / People's Republic of China",
-    "BeerAbv": 3.60,
+    "BreweryName": "Labatt Brewing Company",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2288_a0a91.jpeg",
-    "HallRating": -13.73,
-    "BAR": -5.08,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LakeportHoneyLager_19777.jpeg",
+    "HallRating": -13.72,
+    "BAR": -6.63,
+    "StylePlus": "76",
+    "RatingScore": 2.60,
+    "AdjustedRating": "2.0628080636216590926596318262"
+  },
+  {
+    "BID": 4030783,
+    "BeerName": "Alexander Hefe (alkoholfrei)",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "König Ludwig Schlossbrauerei Kaltenberg",
+    "Origin": "Fürstenfeldbruck, Bayern Germany",
+    "BeerAbv": 0.02,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-11412_1e164.jpeg",
+    "HallRating": -13.72,
+    "BAR": -4.80,
     "StylePlus": "71",
-    "RatingScore": 2.43,
-    "AdjustedRating": "2.0561391766522749071998656656"
+    "RatingScore": 2.48,
+    "AdjustedRating": "2.0564225976505425571292201594"
   },
   {
     "BID": 5812746,
@@ -147,22 +117,37 @@
     "BAR": -6.01,
     "StylePlus": "85",
     "RatingScore": 3.44,
-    "AdjustedRating": "2.0568477427824459319240707208"
+    "AdjustedRating": "2.0619144652183198400217446172"
   },
   {
-    "BID": 6411746,
-    "BeerName": "Funky Lemonade",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Knäppingen Bryggeri & Spiseri",
-    "Origin": "Norrköping, Östergötlands län Sweden",
-    "BeerAbv": 5.00,
+    "BID": 2602141,
+    "BeerName": "Bear's Feast Brew",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Grimfrost",
+    "Origin": "Falköping, Västra Götalands län Sweden",
+    "BeerAbv": 14.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-219048_d38d1.jpeg",
-    "HallRating": -13.74,
-    "BAR": -4.25,
-    "StylePlus": "76",
-    "RatingScore": 2.91,
-    "AdjustedRating": "2.0561318003323045293667130604"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2589692_b5084_sm.jpeg",
+    "HallRating": -13.73,
+    "BAR": -6.30,
+    "StylePlus": "83",
+    "RatingScore": 3.31,
+    "AdjustedRating": "2.0645344196134629536387931368"
+  },
+  {
+    "BID": 8880,
+    "BeerName": "Zhujiang Draft Beer 10° (Cold Draft)",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Pearl River Beer Group (珠江啤酒集团)",
+    "Origin": "Guang Zhou Shi, Guang Dong Sheng China / People's Republic of China",
+    "BeerAbv": 3.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2288_a0a91.jpeg",
+    "HallRating": -13.73,
+    "BAR": -5.08,
+    "StylePlus": "71",
+    "RatingScore": 2.43,
+    "AdjustedRating": "2.0565063558463815533224273584"
   },
   {
     "BID": 4813391,
@@ -177,22 +162,22 @@
     "BAR": -3.80,
     "StylePlus": "85",
     "RatingScore": 3.52,
-    "AdjustedRating": "2.0561361490159158280429002176"
+    "AdjustedRating": "2.0564834780913768906907843443"
   },
   {
-    "BID": 4961149,
-    "BeerName": "VVV-Blond #3",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Brouwerij Puuro",
-    "Origin": "Blerick, Limburg Netherlands",
-    "BeerAbv": 0.00,
+    "BID": 6411746,
+    "BeerName": "Funky Lemonade",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Knäppingen Bryggeri & Spiseri",
+    "Origin": "Norrköping, Östergötlands län Sweden",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -13.75,
-    "BAR": -5.49,
-    "StylePlus": "87",
-    "RatingScore": 3.62,
-    "AdjustedRating": "2.0564778733725101121880485385"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-219048_d38d1.jpeg",
+    "HallRating": -13.74,
+    "BAR": -4.25,
+    "StylePlus": "76",
+    "RatingScore": 2.91,
+    "AdjustedRating": "2.0564501161521671343935141877"
   },
   {
     "BID": 6215153,
@@ -207,7 +192,22 @@
     "BAR": -8.96,
     "StylePlus": "83",
     "RatingScore": 2.85,
-    "AdjustedRating": "2.4627087354071499503475670308"
+    "AdjustedRating": "2.7622223767673566875548341342"
+  },
+  {
+    "BID": 4961149,
+    "BeerName": "VVV-Blond #3",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Brouwerij Puuro",
+    "Origin": "Blerick, Limburg Netherlands",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -13.75,
+    "BAR": -5.49,
+    "StylePlus": "87",
+    "RatingScore": 3.62,
+    "AdjustedRating": "2.0590968565257156200743349744"
   },
   {
     "BID": 28691,
@@ -222,7 +222,7 @@
     "BAR": -4.65,
     "StylePlus": "69",
     "RatingScore": 2.38,
-    "AdjustedRating": "2.0561120214846383817823293684"
+    "AdjustedRating": "2.0562985807809212064531213467"
   },
   {
     "BID": 2429093,
@@ -237,7 +237,7 @@
     "BAR": -5.48,
     "StylePlus": "77",
     "RatingScore": 2.75,
-    "AdjustedRating": "2.0562552335456691631390426571"
+    "AdjustedRating": "2.0573938614824761126354914667"
   },
   {
     "BID": 2034185,
@@ -252,22 +252,7 @@
     "BAR": -6.23,
     "StylePlus": "71",
     "RatingScore": 2.46,
-    "AdjustedRating": "2.0563910784510157898751557375"
-  },
-  {
-    "BID": 3002393,
-    "BeerName": "Kompaan 45 Vrijbuiter",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "KOMPAAN Dutch Craft Beer Company",
-    "Origin": "Den Haag, Zuid-Holland Netherlands",
-    "BeerAbv": 7.10,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-275535_d0a63_sm.jpeg",
-    "HallRating": -13.77,
-    "BAR": -8.11,
-    "StylePlus": "87",
-    "RatingScore": 3.43,
-    "AdjustedRating": "2.1224352794375843054442246079"
+    "AdjustedRating": "2.0584250200624164065983058404"
   },
   {
     "BID": 3343603,
@@ -282,7 +267,22 @@
     "BAR": -5.90,
     "StylePlus": "70",
     "RatingScore": 2.53,
-    "AdjustedRating": "2.0562985567122535093051588503"
+    "AdjustedRating": "2.0577230193518302634646770809"
+  },
+  {
+    "BID": 3002393,
+    "BeerName": "Kompaan 45 Vrijbuiter",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "KOMPAAN Dutch Craft Beer Company",
+    "Origin": "Den Haag, Zuid-Holland Netherlands",
+    "BeerAbv": 7.10,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-275535_d0a63_sm.jpeg",
+    "HallRating": -13.77,
+    "BAR": -8.11,
+    "StylePlus": "87",
+    "RatingScore": 3.43,
+    "AdjustedRating": "2.4407233878032345013477088949"
   },
   {
     "BID": 2506075,
@@ -297,7 +297,7 @@
     "BAR": -7.38,
     "StylePlus": "83",
     "RatingScore": 3.06,
-    "AdjustedRating": "2.0634077262092710146282071037"
+    "AdjustedRating": "2.1095985152644985049281996382"
   },
   {
     "BID": 2407142,
@@ -312,52 +312,7 @@
     "BAR": -6.91,
     "StylePlus": "80",
     "RatingScore": 2.87,
-    "AdjustedRating": "2.05820957627531597380843612"
-  },
-  {
-    "BID": 1304252,
-    "BeerName": "Okome",
-    "BeerStyle": "Lager - Japanese Rice",
-    "BreweryName": "Объединённые Пивоварни - Холдинг",
-    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
-    "BeerAbv": 4.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1304252_acb3a_sm.jpeg",
-    "HallRating": -13.80,
-    "BAR": -7.12,
-    "StylePlus": "78",
-    "RatingScore": 2.76,
-    "AdjustedRating": "2.0588902871118500420717551525"
-  },
-  {
-    "BID": 5900141,
-    "BeerName": "Schultenbräu NEIPA",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "ALDI Nederland",
-    "Origin": "Best, Noord-Brabant Netherlands",
-    "BeerAbv": 4.90,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5900141_a3e3a_sm.jpeg",
-    "HallRating": -13.80,
-    "BAR": -7.95,
-    "StylePlus": "85",
-    "RatingScore": 3.29,
-    "AdjustedRating": "2.0923525217687679677543641267"
-  },
-  {
-    "BID": 5301906,
-    "BeerName": "Lumberjack Breezy IPA",
-    "BeerStyle": "IPA - Session",
-    "BreweryName": "Skovlyst",
-    "Origin": "Denmark",
-    "BeerAbv": 4.70,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5301906_2a7fa_sm.jpeg",
-    "HallRating": -13.80,
-    "BAR": -7.54,
-    "StylePlus": "80",
-    "RatingScore": 2.86,
-    "AdjustedRating": "2.0644345915148218656513462061"
+    "AdjustedRating": "2.072091942888816682276037386"
   },
   {
     "BID": 3200511,
@@ -372,6 +327,51 @@
     "BAR": -7.25,
     "StylePlus": "76",
     "RatingScore": 2.63,
-    "AdjustedRating": "2.0591417206046125498612995323"
+    "AdjustedRating": "2.0787095862908512032961887817"
+  },
+  {
+    "BID": 5900141,
+    "BeerName": "Schultenbräu NEIPA",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "ALDI Nederland",
+    "Origin": "Best, Noord-Brabant Netherlands",
+    "BeerAbv": 4.90,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5900141_a3e3a_sm.jpeg",
+    "HallRating": -13.80,
+    "BAR": -7.95,
+    "StylePlus": "85",
+    "RatingScore": 3.29,
+    "AdjustedRating": "2.2884720665917614850216011774"
+  },
+  {
+    "BID": 1304252,
+    "BeerName": "Okome",
+    "BeerStyle": "Lager - Japanese Rice",
+    "BreweryName": "Объединённые Пивоварни - Холдинг",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 4.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1304252_acb3a_sm.jpeg",
+    "HallRating": -13.80,
+    "BAR": -7.12,
+    "StylePlus": "78",
+    "RatingScore": 2.76,
+    "AdjustedRating": "2.0770298386395021092257344456"
+  },
+  {
+    "BID": 6009979,
+    "BeerName": "Daruvarsko Pšenično Pivo",
+    "BeerStyle": "Wheat Beer - Hefeweizen",
+    "BreweryName": "Pivovara Daruvar",
+    "Origin": "Daruvar, Bjelovarsko-bilogorska županija Croatia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-6248_701fa.jpeg",
+    "HallRating": -13.80,
+    "BAR": -5.16,
+    "StylePlus": "72",
+    "RatingScore": 2.51,
+    "AdjustedRating": "2.0566320369216388845614581711"
   }
 ]

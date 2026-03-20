@@ -1,20 +1,5 @@
 [
   {
-    "BID": 6016473,
-    "BeerName": "Edelweiss Peach",
-    "BeerStyle": "Wheat Beer - Fruited",
-    "BreweryName": "Heineken Malaysia Berhad",
-    "Origin": "Petaling Jaya, Selangor Malaysia",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6016473_ef54d_sm.jpeg",
-    "HallRating": -10.03,
-    "BAR": -4.37,
-    "StylePlus": "82",
-    "RatingScore": 2.92,
-    "AdjustedRating": "2.0565366145825120741002601749"
-  },
-  {
     "BID": 4941324,
     "BeerName": "Utepils",
     "BeerStyle": "Pilsner - Other",
@@ -27,22 +12,22 @@
     "BAR": -5.67,
     "StylePlus": "79",
     "RatingScore": 2.69,
-    "AdjustedRating": "2.068811542014197978770356296"
+    "AdjustedRating": "2.1420988230932560412524013346"
   },
   {
-    "BID": 1404945,
-    "BeerName": "Blreor Dunkles Hefeweizen",
-    "BeerStyle": "Wheat Beer - Dunkelweizen",
-    "BreweryName": "Frankenthaler Brauhaus",
-    "Origin": "Frankenthal, Rheinland-Pfalz Germany",
-    "BeerAbv": 5.10,
+    "BID": 4979731,
+    "BeerName": "Trident Smash",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Unruly Brewing Company",
+    "Origin": "Muskegon, MI United States",
+    "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1404945_28da1_sm.jpeg",
-    "HallRating": -10.04,
-    "BAR": -3.93,
-    "StylePlus": "79",
-    "RatingScore": 2.79,
-    "AdjustedRating": "2.0562427043218105404552809126"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-92659_bb31f.jpeg",
+    "HallRating": -10.03,
+    "BAR": -3.13,
+    "StylePlus": "81",
+    "RatingScore": 3.00,
+    "AdjustedRating": "2.0565070909905871806364858808"
   },
   {
     "BID": 254068,
@@ -57,7 +42,22 @@
     "BAR": -5.66,
     "StylePlus": "87",
     "RatingScore": 3.23,
-    "AdjustedRating": "2.0780046576489066569447323014"
+    "AdjustedRating": "2.205460256602232507487067792"
+  },
+  {
+    "BID": 1404945,
+    "BeerName": "Blreor Dunkles Hefeweizen",
+    "BeerStyle": "Wheat Beer - Dunkelweizen",
+    "BreweryName": "Frankenthaler Brauhaus",
+    "Origin": "Frankenthal, Rheinland-Pfalz Germany",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1404945_28da1_sm.jpeg",
+    "HallRating": -10.04,
+    "BAR": -3.93,
+    "StylePlus": "79",
+    "RatingScore": 2.79,
+    "AdjustedRating": "2.0572982649148418491484184915"
   },
   {
     "BID": 3606178,
@@ -72,22 +72,7 @@
     "BAR": -5.19,
     "StylePlus": "85",
     "RatingScore": 3.08,
-    "AdjustedRating": "2.0602280536762395207152777074"
-  },
-  {
-    "BID": 5611224,
-    "BeerName": "Karlsquell IPA Artesana",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "ALDI Spain",
-    "Origin": "Spain",
-    "BeerAbv": 7.20,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-579884_18ec0.jpeg",
-    "HallRating": -10.05,
-    "BAR": -5.34,
-    "StylePlus": "86",
-    "RatingScore": 3.20,
-    "AdjustedRating": "2.0633897082653842944803889593"
+    "AdjustedRating": "2.0870026350520921965700455689"
   },
   {
     "BID": 6016227,
@@ -102,52 +87,22 @@
     "BAR": -4.32,
     "StylePlus": "91",
     "RatingScore": 3.77,
-    "AdjustedRating": "2.0568773726680112825651812307"
+    "AdjustedRating": "2.062144240752253652471246503"
   },
   {
-    "BID": 5826375,
-    "BeerName": "Ovejas",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Cervecería Artesanal Montemaría",
-    "Origin": null,
-    "BeerAbv": 5.30,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-423527_1120f.jpeg",
-    "HallRating": -10.06,
-    "BAR": -2.66,
-    "StylePlus": "76",
-    "RatingScore": 2.73,
-    "AdjustedRating": "2.0561045774307066358272074259"
-  },
-  {
-    "BID": 3702912,
-    "BeerName": "GSB Gnarp Special Bitter",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "Sideburn Brewery",
-    "Origin": "Gnarp, Gävleborgs län Sweden",
-    "BeerAbv": 5.80,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3702823_15e6e_sm.jpeg",
-    "HallRating": -10.06,
-    "BAR": -4.61,
-    "StylePlus": "84",
-    "RatingScore": 3.01,
-    "AdjustedRating": "2.0569231148963865591083472951"
-  },
-  {
-    "BID": 6219145,
-    "BeerName": "Vanlig förortsipa",
+    "BID": 5611224,
+    "BeerName": "Karlsquell IPA Artesana",
     "BeerStyle": "IPA - American",
-    "BreweryName": "Vanliga bryggeriet",
-    "Origin": "Angered, Västra Götalands län Sweden",
-    "BeerAbv": 5.20,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6219145_d0cb9_sm.jpeg",
-    "HallRating": -10.06,
-    "BAR": -4.26,
-    "StylePlus": "84",
-    "RatingScore": 3.10,
-    "AdjustedRating": "2.0565088407354934872351844457"
+    "BreweryName": "ALDI Spain",
+    "Origin": "Spain",
+    "BeerAbv": 7.20,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-579884_18ec0.jpeg",
+    "HallRating": -10.05,
+    "BAR": -5.34,
+    "StylePlus": "86",
+    "RatingScore": 3.20,
+    "AdjustedRating": "2.1097768016946632971606957039"
   },
   {
     "BID": 6039085,
@@ -162,7 +117,7 @@
     "BAR": -2.78,
     "StylePlus": "69",
     "RatingScore": 2.43,
-    "AdjustedRating": "2.0560973199933843080876833628"
+    "AdjustedRating": "2.0561860353968501481365975363"
   },
   {
     "BID": 6423386,
@@ -177,7 +132,37 @@
     "BAR": -3.50,
     "StylePlus": "80",
     "RatingScore": 2.93,
-    "AdjustedRating": "2.0561729411776679193244298796"
+    "AdjustedRating": "2.0567650177284239236314046367"
+  },
+  {
+    "BID": 6219145,
+    "BeerName": "Vanlig förortsipa",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Vanliga bryggeriet",
+    "Origin": "Angered, Västra Götalands län Sweden",
+    "BeerAbv": 5.20,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6219145_d0cb9_sm.jpeg",
+    "HallRating": -10.06,
+    "BAR": -4.26,
+    "StylePlus": "84",
+    "RatingScore": 3.10,
+    "AdjustedRating": "2.0593303860058309037900874636"
+  },
+  {
+    "BID": 3702912,
+    "BeerName": "GSB Gnarp Special Bitter",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Sideburn Brewery",
+    "Origin": "Gnarp, Gävleborgs län Sweden",
+    "BeerAbv": 5.80,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3702823_15e6e_sm.jpeg",
+    "HallRating": -10.06,
+    "BAR": -4.61,
+    "StylePlus": "84",
+    "RatingScore": 3.01,
+    "AdjustedRating": "2.0624759539855914478270973739"
   },
   {
     "BID": 5213587,
@@ -192,7 +177,22 @@
     "BAR": -3.65,
     "StylePlus": "88",
     "RatingScore": 3.53,
-    "AdjustedRating": "2.0562752511029355641381837056"
+    "AdjustedRating": "2.057548126448647279951695526"
+  },
+  {
+    "BID": 5826375,
+    "BeerName": "Ovejas",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Cervecería Artesanal Montemaría",
+    "Origin": null,
+    "BeerAbv": 5.30,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-423527_1120f.jpeg",
+    "HallRating": -10.06,
+    "BAR": -2.66,
+    "StylePlus": "76",
+    "RatingScore": 2.73,
+    "AdjustedRating": "2.0562416350239756734630228841"
   },
   {
     "BID": 3026884,
@@ -207,7 +207,7 @@
     "BAR": -5.89,
     "StylePlus": "86",
     "RatingScore": 3.07,
-    "AdjustedRating": "2.0986702466329125032604376665"
+    "AdjustedRating": "2.3110427373029772329246935201"
   },
   {
     "BID": 3336778,
@@ -222,7 +222,7 @@
     "BAR": -3.95,
     "StylePlus": "86",
     "RatingScore": 3.24,
-    "AdjustedRating": "2.056343025015454987190804855"
+    "AdjustedRating": "2.0580657964808470881345375273"
   },
   {
     "BID": 6038502,
@@ -237,37 +237,7 @@
     "BAR": -5.99,
     "StylePlus": "79",
     "RatingScore": 2.66,
-    "AdjustedRating": "2.0931019895808700761728687003"
-  },
-  {
-    "BID": 4425681,
-    "BeerName": "Big Bad Baptist Chocolate Mint",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Epic Brewing Company",
-    "Origin": "Salt Lake City, UT United States",
-    "BeerAbv": 12.90,
-    "BeerIbu": 65.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4425681_efc17_sm.jpeg",
-    "HallRating": -10.07,
-    "BAR": -5.41,
-    "StylePlus": "90",
-    "RatingScore": 3.65,
-    "AdjustedRating": "2.0682352901290371455266281155"
-  },
-  {
-    "BID": 5219944,
-    "BeerName": "Saranac IPA (India Pale Ale)",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Saranac Brewery",
-    "Origin": "Utica, NY United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-SaranacIndiaPaleAle_4597.jpeg",
-    "HallRating": -10.07,
-    "BAR": -5.58,
-    "StylePlus": "87",
-    "RatingScore": 3.22,
-    "AdjustedRating": "2.0716643207748485525565935183"
+    "AdjustedRating": "2.2574782768479051876494438091"
   },
   {
     "BID": 6301729,
@@ -282,22 +252,37 @@
     "BAR": -3.79,
     "StylePlus": "84",
     "RatingScore": 3.17,
-    "AdjustedRating": "2.0562682092220955792558821135"
+    "AdjustedRating": "2.0574938829714730795443481647"
   },
   {
-    "BID": 4203124,
-    "BeerName": "Tres Cruces Light",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Heineken Perú",
-    "Origin": "Peru",
-    "BeerAbv": 3.90,
+    "BID": 5219944,
+    "BeerName": "Saranac IPA (India Pale Ale)",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Saranac Brewery",
+    "Origin": "Utica, NY United States",
+    "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4203124_506ce_sm.jpeg",
-    "HallRating": -10.08,
-    "BAR": -4.35,
-    "StylePlus": "82",
-    "RatingScore": 2.72,
-    "AdjustedRating": "2.0564031416755684419349916069"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-SaranacIndiaPaleAle_4597.jpeg",
+    "HallRating": -10.07,
+    "BAR": -5.58,
+    "StylePlus": "87",
+    "RatingScore": 3.22,
+    "AdjustedRating": "2.1656880428102151107343435414"
+  },
+  {
+    "BID": 4425681,
+    "BeerName": "Big Bad Baptist Chocolate Mint",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Epic Brewing Company",
+    "Origin": "Salt Lake City, UT United States",
+    "BeerAbv": 12.90,
+    "BeerIbu": 65.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4425681_efc17_sm.jpeg",
+    "HallRating": -10.07,
+    "BAR": -5.41,
+    "StylePlus": "90",
+    "RatingScore": 3.65,
+    "AdjustedRating": "2.1446886954280137730394593898"
   },
   {
     "BID": 4940313,
@@ -312,22 +297,22 @@
     "BAR": -2.52,
     "StylePlus": "81",
     "RatingScore": 3.03,
-    "AdjustedRating": "2.0561087815145508535601690581"
+    "AdjustedRating": "2.0562738471734892787524366472"
   },
   {
-    "BID": 1811580,
-    "BeerName": "Golden Brau",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Heineken Romania",
-    "Origin": "București, Romania",
-    "BeerAbv": 5.00,
+    "BID": 4203124,
+    "BeerName": "Tres Cruces Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Heineken Perú",
+    "Origin": "Peru",
+    "BeerAbv": 3.90,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-31476_abc28_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4203124_506ce_sm.jpeg",
     "HallRating": -10.08,
-    "BAR": -5.47,
-    "StylePlus": "79",
-    "RatingScore": 2.66,
-    "AdjustedRating": "2.0615901061857203730645197891"
+    "BAR": -4.35,
+    "StylePlus": "82",
+    "RatingScore": 2.72,
+    "AdjustedRating": "2.0585215011946619009693272985"
   },
   {
     "BID": 4959550,
@@ -342,7 +327,7 @@
     "BAR": -4.01,
     "StylePlus": "75",
     "RatingScore": 2.64,
-    "AdjustedRating": "2.056226604400552549435621122"
+    "AdjustedRating": "2.0571748795391740941112365236"
   },
   {
     "BID": 3349254,
@@ -357,7 +342,22 @@
     "BAR": -3.52,
     "StylePlus": "81",
     "RatingScore": 3.06,
-    "AdjustedRating": "2.0561887257119013210120295548"
+    "AdjustedRating": "2.0568858654614170773996220607"
+  },
+  {
+    "BID": 1811580,
+    "BeerName": "Golden Brau",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Heineken Romania",
+    "Origin": "București, Romania",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-31476_abc28_sm.jpeg",
+    "HallRating": -10.08,
+    "BAR": -5.47,
+    "StylePlus": "79",
+    "RatingScore": 2.66,
+    "AdjustedRating": "2.0958567070994062579681637708"
   },
   {
     "BID": 5302688,
@@ -372,6 +372,6 @@
     "BAR": -4.93,
     "StylePlus": "89",
     "RatingScore": 3.71,
-    "AdjustedRating": "2.0592050400625803207241437112"
+    "AdjustedRating": "2.0797009274883247170065150962"
   }
 ]

@@ -1,48 +1,18 @@
 [
   {
-    "BID": 4446471,
-    "BeerName": "Roese Di Bantse",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Tsampourtsì Brewing Company",
-    "Origin": "Champorcher, Valle d'Aosta Italy",
-    "BeerAbv": 4.60,
+    "BID": 1013028,
+    "BeerName": "Crazy Brewski",
+    "BeerStyle": "Pilsner - Imperial / Double",
+    "BreweryName": "Rinkuškiai",
+    "Origin": "Biržai, Panevėžio apskritis Lithuania",
+    "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-428857_ba618_sm.jpeg",
     "HallRating": -14.22,
-    "BAR": -4.30,
-    "StylePlus": "73",
-    "RatingScore": 2.79,
-    "AdjustedRating": "2.0561213483693840630414924773"
-  },
-  {
-    "BID": 2005768,
-    "BeerName": "Perlembourg Pur Malt",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Brasserie Champigneulles",
-    "Origin": "Champigneulles, Grand Est France",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-521715_f1823.jpeg",
-    "HallRating": -14.25,
-    "BAR": -5.73,
-    "StylePlus": "71",
-    "RatingScore": 2.46,
-    "AdjustedRating": "2.0561908628804741856294280009"
-  },
-  {
-    "BID": 5015419,
-    "BeerName": "Breiz’île",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "Brasserie Coreff",
-    "Origin": "Carhaix-Plouguer, Bretagne France",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2850612_ba1e7_sm.jpeg",
-    "HallRating": -14.25,
-    "BAR": -6.92,
-    "StylePlus": "79",
-    "RatingScore": 2.99,
-    "AdjustedRating": "2.0576877087589256910028018605"
+    "BAR": -7.96,
+    "StylePlus": "74",
+    "RatingScore": 2.59,
+    "AdjustedRating": "2.1157922068296737549352358523"
   },
   {
     "BID": 2009833,
@@ -57,7 +27,37 @@
     "BAR": -7.71,
     "StylePlus": "81",
     "RatingScore": 3.09,
-    "AdjustedRating": "2.0650608986739247237238070494"
+    "AdjustedRating": "2.1211051735730468464518015055"
+  },
+  {
+    "BID": 2005768,
+    "BeerName": "Perlembourg Pur Malt",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Brasserie Champigneulles",
+    "Origin": "Champigneulles, Grand Est France",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-521715_f1823.jpeg",
+    "HallRating": -14.25,
+    "BAR": -5.73,
+    "StylePlus": "71",
+    "RatingScore": 2.46,
+    "AdjustedRating": "2.0569013573568899093279371133"
+  },
+  {
+    "BID": 5015419,
+    "BeerName": "Breiz’île",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Brasserie Coreff",
+    "Origin": "Carhaix-Plouguer, Bretagne France",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2850612_ba1e7_sm.jpeg",
+    "HallRating": -14.25,
+    "BAR": -6.92,
+    "StylePlus": "79",
+    "RatingScore": 2.99,
+    "AdjustedRating": "2.0682328514798137243582342301"
   },
   {
     "BID": 6224022,
@@ -72,7 +72,7 @@
     "BAR": -5.59,
     "StylePlus": "67",
     "RatingScore": 2.38,
-    "AdjustedRating": "2.0561548684965032296471174859"
+    "AdjustedRating": "2.0566262137963251323575210215"
   },
   {
     "BID": 5407385,
@@ -87,7 +87,7 @@
     "BAR": -3.77,
     "StylePlus": "77",
     "RatingScore": 3.08,
-    "AdjustedRating": "2.0561152643720276944450805719"
+    "AdjustedRating": "2.0563235031772640442867724455"
   },
   {
     "BID": 3890924,
@@ -102,7 +102,7 @@
     "BAR": -5.36,
     "StylePlus": "77",
     "RatingScore": 2.96,
-    "AdjustedRating": "2.0562311820076070778898627419"
+    "AdjustedRating": "2.0572105066791291817579935351"
   },
   {
     "BID": 5604534,
@@ -117,7 +117,7 @@
     "BAR": -6.71,
     "StylePlus": "85",
     "RatingScore": 3.45,
-    "AdjustedRating": "2.0577030693865517171265326041"
+    "AdjustedRating": "2.0683942713587261097261677005"
   },
   {
     "BID": 5901604,
@@ -132,7 +132,7 @@
     "BAR": -5.07,
     "StylePlus": "74",
     "RatingScore": 2.66,
-    "AdjustedRating": "2.0561531443531890208530516289"
+    "AdjustedRating": "2.0566133896951397681893445018"
   },
   {
     "BID": 5217818,
@@ -147,7 +147,7 @@
     "BAR": -7.58,
     "StylePlus": "80",
     "RatingScore": 2.96,
-    "AdjustedRating": "2.0617115744323598506017149952"
+    "AdjustedRating": "2.0974860165203155231433248995"
   },
   {
     "BID": 3833926,
@@ -162,7 +162,7 @@
     "BAR": -7.73,
     "StylePlus": "82",
     "RatingScore": 3.16,
-    "AdjustedRating": "2.0655554785263072917717814688"
+    "AdjustedRating": "2.1247318271744894041067085992"
   },
   {
     "BID": 4818249,
@@ -177,22 +177,7 @@
     "BAR": -7.63,
     "StylePlus": "71",
     "RatingScore": 2.50,
-    "AdjustedRating": "2.0590885493783945671760992142"
-  },
-  {
-    "BID": 5902340,
-    "BeerName": "Teeny Weeny Appletini",
-    "BeerStyle": "Cider - Graff",
-    "BreweryName": "Uiltje Brewing Company",
-    "Origin": "Haarlem, Noord-Holland Netherlands",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5902340_d9768_sm.jpeg",
-    "HallRating": -14.32,
-    "BAR": -7.73,
-    "StylePlus": "79",
-    "RatingScore": 2.87,
-    "AdjustedRating": "2.0628697996290642072193694092"
+    "AdjustedRating": "2.0781119989623480581085087459"
   },
   {
     "BID": 19308,
@@ -207,22 +192,22 @@
     "BAR": -4.59,
     "StylePlus": "64",
     "RatingScore": 2.23,
-    "AdjustedRating": "2.0560955053954409096807517232"
+    "AdjustedRating": "2.056172117078494036947540728"
   },
   {
-    "BID": 5607551,
-    "BeerName": "Stout",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "Beer Bomb",
-    "Origin": "Cama, Graubünden Switzerland",
-    "BeerAbv": 6.30,
-    "BeerIbu": 62.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5607551_eeaaa_sm.jpeg",
-    "HallRating": -14.35,
-    "BAR": -5.30,
-    "StylePlus": "78",
-    "RatingScore": 2.98,
-    "AdjustedRating": "2.0562179867191793368748855102"
+    "BID": 5902340,
+    "BeerName": "Teeny Weeny Appletini",
+    "BeerStyle": "Cider - Graff",
+    "BreweryName": "Uiltje Brewing Company",
+    "Origin": "Haarlem, Noord-Holland Netherlands",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5902340_d9768_sm.jpeg",
+    "HallRating": -14.32,
+    "BAR": -7.73,
+    "StylePlus": "79",
+    "RatingScore": 2.87,
+    "AdjustedRating": "2.1053417657618053265926658607"
   },
   {
     "BID": 5424639,
@@ -237,22 +222,7 @@
     "BAR": -8.00,
     "StylePlus": "82",
     "RatingScore": 3.15,
-    "AdjustedRating": "2.0726773419572778941670592717"
-  },
-  {
-    "BID": 3023331,
-    "BeerName": "Ratskrone Premium Pilsener",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "EDEKA-Verbund (EUCO GmbH & Netto Discounter)",
-    "Origin": "Hamburg, Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-49432_61c59_sm.jpeg",
-    "HallRating": -14.35,
-    "BAR": -8.19,
-    "StylePlus": "75",
-    "RatingScore": 2.56,
-    "AdjustedRating": "2.0684005372992053858012049539"
+    "AdjustedRating": "2.1715553486912090403362223811"
   },
   {
     "BID": 5018431,
@@ -267,7 +237,37 @@
     "BAR": -5.06,
     "StylePlus": "85",
     "RatingScore": 3.51,
-    "AdjustedRating": "2.0562430661062401726059323112"
+    "AdjustedRating": "2.0573018985837570373833596322"
+  },
+  {
+    "BID": 3023331,
+    "BeerName": "Ratskrone Premium Pilsener",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "EDEKA-Verbund (EUCO GmbH & Netto Discounter)",
+    "Origin": "Hamburg, Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-49432_61c59_sm.jpeg",
+    "HallRating": -14.35,
+    "BAR": -8.19,
+    "StylePlus": "75",
+    "RatingScore": 2.56,
+    "AdjustedRating": "2.1372400608479455639884846899"
+  },
+  {
+    "BID": 5607551,
+    "BeerName": "Stout",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Beer Bomb",
+    "Origin": "Cama, Graubünden Switzerland",
+    "BeerAbv": 6.30,
+    "BeerIbu": 62.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5607551_eeaaa_sm.jpeg",
+    "HallRating": -14.35,
+    "BAR": -5.30,
+    "StylePlus": "78",
+    "RatingScore": 2.98,
+    "AdjustedRating": "2.0571096336689582643581903519"
   },
   {
     "BID": 3424113,
@@ -282,7 +282,7 @@
     "BAR": -7.16,
     "StylePlus": "86",
     "RatingScore": 3.58,
-    "AdjustedRating": "2.0598592959410305939329943879"
+    "AdjustedRating": "2.0845411617495121111238663758"
   },
   {
     "BID": 4003516,
@@ -297,7 +297,7 @@
     "BAR": -8.01,
     "StylePlus": "78",
     "RatingScore": 2.68,
-    "AdjustedRating": "2.0655834414872690550709529979"
+    "AdjustedRating": "2.1221669344210856604957640414"
   },
   {
     "BID": 451010,
@@ -312,22 +312,7 @@
     "BAR": -5.82,
     "StylePlus": "71",
     "RatingScore": 2.44,
-    "AdjustedRating": "2.0561914297953960941335687266"
-  },
-  {
-    "BID": 4906011,
-    "BeerName": "Double Scoop - Baklava",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "8 Wired",
-    "Origin": "Warkworth, Auckland New Zealand",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4906011_ef9e7_sm.jpeg",
-    "HallRating": -14.38,
-    "BAR": -6.88,
-    "StylePlus": "86",
-    "RatingScore": 3.56,
-    "AdjustedRating": "2.058235432098263516569517779"
+    "AdjustedRating": "2.0569056101167315175097276265"
   },
   {
     "BID": 5100049,
@@ -342,7 +327,22 @@
     "BAR": -5.83,
     "StylePlus": "79",
     "RatingScore": 2.99,
-    "AdjustedRating": "2.0563477093578765816505639758"
+    "AdjustedRating": "2.0581007832532441003093325033"
+  },
+  {
+    "BID": 4906011,
+    "BeerName": "Double Scoop - Baklava",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "8 Wired",
+    "Origin": "Warkworth, Auckland New Zealand",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4906011_ef9e7_sm.jpeg",
+    "HallRating": -14.38,
+    "BAR": -6.88,
+    "StylePlus": "86",
+    "RatingScore": 3.56,
+    "AdjustedRating": "2.0724129435133936319981486124"
   },
   {
     "BID": 5650452,
@@ -357,7 +357,7 @@
     "BAR": -5.80,
     "StylePlus": "84",
     "RatingScore": 3.49,
-    "AdjustedRating": "2.0564706605341684113590284332"
+    "AdjustedRating": "2.0590413331776791968246556152"
   },
   {
     "BID": 4961867,
@@ -372,6 +372,6 @@
     "BAR": -7.25,
     "StylePlus": "81",
     "RatingScore": 3.11,
-    "AdjustedRating": "2.059033726075504828797190518"
+    "AdjustedRating": "2.0782714935201267344874315271"
   }
 ]

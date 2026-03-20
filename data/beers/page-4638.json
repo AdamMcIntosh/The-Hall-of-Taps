@@ -12,7 +12,7 @@
     "BAR": -8.74,
     "StylePlus": "82",
     "RatingScore": 3.15,
-    "AdjustedRating": "2.092429728248916966176872154"
+    "AdjustedRating": "2.2840985301561824804000246929"
   },
   {
     "BID": 1666962,
@@ -27,7 +27,7 @@
     "BAR": -6.78,
     "StylePlus": "67",
     "RatingScore": 2.31,
-    "AdjustedRating": "2.0562634920220002085086798095"
+    "AdjustedRating": "2.0574528459509773502947564381"
   },
   {
     "BID": 5017912,
@@ -42,22 +42,7 @@
     "BAR": -6.72,
     "StylePlus": "83",
     "RatingScore": 3.27,
-    "AdjustedRating": "2.0568680777733982631692710651"
-  },
-  {
-    "BID": 2002827,
-    "BeerName": "Blonde Lambic",
-    "BeerStyle": "Lambic - Traditional",
-    "BreweryName": "Brouwerij Mort Subite",
-    "Origin": "Asse, Vlaams Gewest Belgium",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2002827_a0d2b_sm.jpeg",
-    "HallRating": -15.12,
-    "BAR": -8.81,
-    "StylePlus": "84",
-    "RatingScore": 3.21,
-    "AdjustedRating": "2.0997519322998276402381698527"
+    "AdjustedRating": "2.0620659700450100884681049201"
   },
   {
     "BID": 3337797,
@@ -72,7 +57,22 @@
     "BAR": -5.05,
     "StylePlus": "70",
     "RatingScore": 2.46,
-    "AdjustedRating": "2.0561168869099263910763492213"
+    "AdjustedRating": "2.0563358473948793889560032734"
+  },
+  {
+    "BID": 2002827,
+    "BeerName": "Blonde Lambic",
+    "BeerStyle": "Lambic - Traditional",
+    "BreweryName": "Brouwerij Mort Subite",
+    "Origin": "Asse, Vlaams Gewest Belgium",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2002827_a0d2b_sm.jpeg",
+    "HallRating": -15.12,
+    "BAR": -8.81,
+    "StylePlus": "84",
+    "RatingScore": 3.21,
+    "AdjustedRating": "2.3233031950499647924251277211"
   },
   {
     "BID": 1676270,
@@ -87,7 +87,7 @@
     "BAR": -4.40,
     "StylePlus": "71",
     "RatingScore": 2.65,
-    "AdjustedRating": "2.0561096904999389325408134186"
+    "AdjustedRating": "2.0562807874169216676087083634"
   },
   {
     "BID": 4940146,
@@ -102,52 +102,7 @@
     "BAR": -4.40,
     "StylePlus": "64",
     "RatingScore": 2.29,
-    "AdjustedRating": "2.0560941182978463542726865611"
-  },
-  {
-    "BID": 11945,
-    "BeerName": "Mexicali Light Beer",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Cervecería Mexicana",
-    "Origin": "Tecate, Baja California Mexico",
-    "BeerAbv": 3.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CervezaMexicaliLightBeer_11945.jpeg",
-    "HallRating": -15.14,
-    "BAR": -7.05,
-    "StylePlus": "74",
-    "RatingScore": 2.46,
-    "AdjustedRating": "2.0565070099719625930661433695"
-  },
-  {
-    "BID": 1671840,
-    "BeerName": "Canadian Light",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Molson Coors Canada",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22268_c2df3_sm.jpeg",
-    "HallRating": -15.14,
-    "BAR": -8.14,
-    "StylePlus": "77",
-    "RatingScore": 2.58,
-    "AdjustedRating": "2.0601607967319155812186137404"
-  },
-  {
-    "BID": 57273,
-    "BeerName": "Egils Pilsner",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Ölgerðin Egill Skallagrímsson",
-    "Origin": "Reykjavík, Reykjavíkurborg Iceland",
-    "BeerAbv": 2.25,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_57273_sm_f7159719d58345833c81631f50a838.jpeg",
-    "HallRating": -15.14,
-    "BAR": -8.35,
-    "StylePlus": "71",
-    "RatingScore": 2.40,
-    "AdjustedRating": "2.0603363748275368109954235997"
+    "AdjustedRating": "2.0561615054475997427251642076"
   },
   {
     "BID": 2407456,
@@ -162,7 +117,52 @@
     "BAR": -7.93,
     "StylePlus": "77",
     "RatingScore": 2.72,
-    "AdjustedRating": "2.059430625304444253155840013"
+    "AdjustedRating": "2.0808931581614459188078301834"
+  },
+  {
+    "BID": 57273,
+    "BeerName": "Egils Pilsner",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Ölgerðin Egill Skallagrímsson",
+    "Origin": "Reykjavík, Reykjavíkurborg Iceland",
+    "BeerAbv": 2.25,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_57273_sm_f7159719d58345833c81631f50a838.jpeg",
+    "HallRating": -15.14,
+    "BAR": -8.35,
+    "StylePlus": "71",
+    "RatingScore": 2.40,
+    "AdjustedRating": "2.0861865924212773527842020993"
+  },
+  {
+    "BID": 1671840,
+    "BeerName": "Canadian Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Molson Coors Canada",
+    "Origin": "Toronto, ON Canada",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22268_c2df3_sm.jpeg",
+    "HallRating": -15.14,
+    "BAR": -8.14,
+    "StylePlus": "77",
+    "RatingScore": 2.58,
+    "AdjustedRating": "2.0857814382402707275803722504"
+  },
+  {
+    "BID": 11945,
+    "BeerName": "Mexicali Light Beer",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Cervecería Mexicana",
+    "Origin": "Tecate, Baja California Mexico",
+    "BeerAbv": 3.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CervezaMexicaliLightBeer_11945.jpeg",
+    "HallRating": -15.14,
+    "BAR": -7.05,
+    "StylePlus": "74",
+    "RatingScore": 2.46,
+    "AdjustedRating": "2.059302703183629259989942362"
   },
   {
     "BID": 4631738,
@@ -177,22 +177,7 @@
     "BAR": -5.64,
     "StylePlus": "77",
     "RatingScore": 2.99,
-    "AdjustedRating": "2.0562265640947357976445804743"
-  },
-  {
-    "BID": 5225712,
-    "BeerName": "Eazi African Spirit Mix",
-    "BeerStyle": "Cider - Sweet",
-    "BreweryName": "Monrovia Breweries",
-    "Origin": "Monrovia, Montserrado County Liberia",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56523_6975a.jpeg",
-    "HallRating": -15.16,
-    "BAR": -4.01,
-    "StylePlus": "67",
-    "RatingScore": 2.42,
-    "AdjustedRating": "2.0560951118541079839085197823"
+    "AdjustedRating": "2.0571752358325219084712755599"
   },
   {
     "BID": 6209637,
@@ -207,7 +192,22 @@
     "BAR": -3.79,
     "StylePlus": "72",
     "RatingScore": 2.75,
-    "AdjustedRating": "2.0561016568507459268551479513"
+    "AdjustedRating": "2.0562192662768031189083820663"
+  },
+  {
+    "BID": 5225712,
+    "BeerName": "Eazi African Spirit Mix",
+    "BeerStyle": "Cider - Sweet",
+    "BreweryName": "Monrovia Breweries",
+    "Origin": "Monrovia, Montserrado County Liberia",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56523_6975a.jpeg",
+    "HallRating": -15.16,
+    "BAR": -4.01,
+    "StylePlus": "67",
+    "RatingScore": 2.42,
+    "AdjustedRating": "2.056169123231063116447701844"
   },
   {
     "BID": 3703635,
@@ -222,7 +222,7 @@
     "BAR": -8.06,
     "StylePlus": "72",
     "RatingScore": 2.45,
-    "AdjustedRating": "2.0585829513122629582806573957"
+    "AdjustedRating": "2.0744548850350378259818955743"
   },
   {
     "BID": 200690,
@@ -237,22 +237,7 @@
     "BAR": -8.04,
     "StylePlus": "82",
     "RatingScore": 3.14,
-    "AdjustedRating": "2.0625870080002428148309275274"
-  },
-  {
-    "BID": 4827743,
-    "BeerName": "Oude Geuze Boon (2019-2020)",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Brouwerij Boon",
-    "Origin": "Halle, Vlaams Gewest Belgium",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4827743_a1d9e_sm.jpeg",
-    "HallRating": -15.19,
-    "BAR": -8.35,
-    "StylePlus": "85",
-    "RatingScore": 3.50,
-    "AdjustedRating": "2.072602957807913185876102722"
+    "AdjustedRating": "2.1039959069732771793820580672"
   },
   {
     "BID": 4205209,
@@ -267,7 +252,22 @@
     "BAR": -6.96,
     "StylePlus": "77",
     "RatingScore": 2.94,
-    "AdjustedRating": "2.0568548034088077816817259632"
+    "AdjustedRating": "2.0619558879011484903065868727"
+  },
+  {
+    "BID": 4827743,
+    "BeerName": "Oude Geuze Boon (2019-2020)",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "Brouwerij Boon",
+    "Origin": "Halle, Vlaams Gewest Belgium",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4827743_a1d9e_sm.jpeg",
+    "HallRating": -15.19,
+    "BAR": -8.35,
+    "StylePlus": "85",
+    "RatingScore": 3.50,
+    "AdjustedRating": "2.1736908263189942333178122426"
   },
   {
     "BID": 2808506,
@@ -282,7 +282,7 @@
     "BAR": -7.84,
     "StylePlus": "75",
     "RatingScore": 2.57,
-    "AdjustedRating": "2.0581328181080889285388428747"
+    "AdjustedRating": "2.0713761678300512645895995309"
   },
   {
     "BID": 3346406,
@@ -297,7 +297,7 @@
     "BAR": -4.29,
     "StylePlus": "71",
     "RatingScore": 2.63,
-    "AdjustedRating": "2.0561059048564144058869330239"
+    "AdjustedRating": "2.0562517953415846408732092389"
   },
   {
     "BID": 42213,
@@ -312,7 +312,7 @@
     "BAR": -7.70,
     "StylePlus": "76",
     "RatingScore": 2.52,
-    "AdjustedRating": "2.0574411059003815864252658927"
+    "AdjustedRating": "2.0662835528097172167877505101"
   },
   {
     "BID": 4002537,
@@ -327,7 +327,7 @@
     "BAR": -8.62,
     "StylePlus": "80",
     "RatingScore": 2.85,
-    "AdjustedRating": "2.0715969573702107912969066146"
+    "AdjustedRating": "2.161255511653868272385913873"
   },
   {
     "BID": 6615622,
@@ -342,7 +342,7 @@
     "BAR": -3.94,
     "StylePlus": "74",
     "RatingScore": 2.84,
-    "AdjustedRating": "2.0561059415575493254487254518"
+    "AdjustedRating": "2.0562520878735307303951190035"
   },
   {
     "BID": 4631452,
@@ -357,21 +357,21 @@
     "BAR": -6.37,
     "StylePlus": "84",
     "RatingScore": 3.47,
-    "AdjustedRating": "2.0565875172499751991066591035"
+    "AdjustedRating": "2.0599328866420377211744118219"
   },
   {
-    "BID": 5224,
-    "BeerName": "Michelob Hop Hound Amber Wheat",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Anheuser-Busch",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": 5.30,
+    "BID": 4940105,
+    "BeerName": "Hjortronmölska",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Aifur",
+    "Origin": "Stockholm, Stockholms län Sweden",
+    "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5224_f8e0e_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-300467_8cc8d.jpeg",
     "HallRating": -15.29,
-    "BAR": -6.61,
-    "StylePlus": "74",
-    "RatingScore": 2.60,
-    "AdjustedRating": "2.0563496062749406764788915085"
+    "BAR": -7.06,
+    "StylePlus": "81",
+    "RatingScore": 3.25,
+    "AdjustedRating": "2.0647727395192196028335849495"
   }
 ]

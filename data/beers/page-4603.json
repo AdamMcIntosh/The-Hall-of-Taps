@@ -12,7 +12,7 @@
     "BAR": -4.98,
     "StylePlus": "83",
     "RatingScore": 3.20,
-    "AdjustedRating": "2.0569071620396975136927434816"
+    "AdjustedRating": "2.0623610873906889263762046032"
   },
   {
     "BID": 3338482,
@@ -27,7 +27,7 @@
     "BAR": -4.96,
     "StylePlus": "60",
     "RatingScore": 1.65,
-    "AdjustedRating": "2.0558031323668893336011778377"
+    "AdjustedRating": "2.0539418245995112679880532175"
   },
   {
     "BID": 6502483,
@@ -42,7 +42,7 @@
     "BAR": -4.36,
     "StylePlus": "77",
     "RatingScore": 2.80,
-    "AdjustedRating": "2.0562524352396458736135137885"
+    "AdjustedRating": "2.0573726300628661515405126608"
   },
   {
     "BID": 5822540,
@@ -57,7 +57,7 @@
     "BAR": -3.35,
     "StylePlus": "67",
     "RatingScore": 2.38,
-    "AdjustedRating": "2.0561004838134301584434023475"
+    "AdjustedRating": "2.056210258429156109920093549"
   },
   {
     "BID": 5820786,
@@ -72,7 +72,7 @@
     "BAR": -4.98,
     "StylePlus": "83",
     "RatingScore": 3.20,
-    "AdjustedRating": "2.0569100686389930710062933062"
+    "AdjustedRating": "2.0623831457711249854577888083"
   },
   {
     "BID": 6301764,
@@ -87,7 +87,7 @@
     "BAR": -3.00,
     "StylePlus": "79",
     "RatingScore": 3.03,
-    "AdjustedRating": "2.0561162157229951857996356271"
+    "AdjustedRating": "2.0563307868935539831978636727"
   },
   {
     "BID": 6617295,
@@ -102,7 +102,7 @@
     "BAR": -4.54,
     "StylePlus": "82",
     "RatingScore": 3.16,
-    "AdjustedRating": "2.0564181711073236498689934115"
+    "AdjustedRating": "2.0586393114046178684666109047"
   },
   {
     "BID": 6105163,
@@ -117,7 +117,7 @@
     "BAR": -6.43,
     "StylePlus": "84",
     "RatingScore": 3.02,
-    "AdjustedRating": "2.0882319204132333046365760669"
+    "AdjustedRating": "2.2576250730157751083285786982"
   },
   {
     "BID": 6220833,
@@ -132,52 +132,7 @@
     "BAR": -4.74,
     "StylePlus": "85",
     "RatingScore": 3.39,
-    "AdjustedRating": "2.0566641670456453065148717323"
-  },
-  {
-    "BID": 3014147,
-    "BeerName": "Zwönitzer Stout",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Brauerei Zwönitz",
-    "Origin": "Zwönitz, Sachsen Germany",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1192311_c1130_sm.jpeg",
-    "HallRating": -11.11,
-    "BAR": -5.80,
-    "StylePlus": "83",
-    "RatingScore": 3.05,
-    "AdjustedRating": "2.0608060618993230632086246762"
-  },
-  {
-    "BID": 1603511,
-    "BeerName": "Seeschuymer - Cranberry Bier",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Cranberry Terschelling",
-    "Origin": "Netherlands",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -11.11,
-    "BAR": -5.57,
-    "StylePlus": "77",
-    "RatingScore": 2.70,
-    "AdjustedRating": "2.0577949518675863749181551018"
-  },
-  {
-    "BID": 4959655,
-    "BeerName": "New Mörkö",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Lövnäs Bryggeri",
-    "Origin": "Mörkö, Stockholms län Sweden",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3894491_20012_sm.jpeg",
-    "HallRating": -11.11,
-    "BAR": -5.13,
-    "StylePlus": "85",
-    "RatingScore": 3.28,
-    "AdjustedRating": "2.057260097374221151132905745"
+    "AdjustedRating": "2.0605164757777734595130292843"
   },
   {
     "BID": 1673960,
@@ -192,7 +147,52 @@
     "BAR": -3.50,
     "StylePlus": "79",
     "RatingScore": 2.98,
-    "AdjustedRating": "2.0561404201977023777718407694"
+    "AdjustedRating": "2.0565161234750750282573956425"
+  },
+  {
+    "BID": 1603511,
+    "BeerName": "Seeschuymer - Cranberry Bier",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Cranberry Terschelling",
+    "Origin": "Netherlands",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -11.11,
+    "BAR": -5.57,
+    "StylePlus": "77",
+    "RatingScore": 2.70,
+    "AdjustedRating": "2.0689655188489978409156046392"
+  },
+  {
+    "BID": 3014147,
+    "BeerName": "Zwönitzer Stout",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Brauerei Zwönitz",
+    "Origin": "Zwönitz, Sachsen Germany",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1192311_c1130_sm.jpeg",
+    "HallRating": -11.11,
+    "BAR": -5.80,
+    "StylePlus": "83",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.0911550306586916450363013956"
+  },
+  {
+    "BID": 4959655,
+    "BeerName": "New Mörkö",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Lövnäs Bryggeri",
+    "Origin": "Mörkö, Stockholms län Sweden",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3894491_20012_sm.jpeg",
+    "HallRating": -11.11,
+    "BAR": -5.13,
+    "StylePlus": "85",
+    "RatingScore": 3.28,
+    "AdjustedRating": "2.0650380963071920724626461253"
   },
   {
     "BID": 2211281,
@@ -207,7 +207,7 @@
     "BAR": -6.06,
     "StylePlus": "77",
     "RatingScore": 2.66,
-    "AdjustedRating": "2.0620695276034515336650500724"
+    "AdjustedRating": "2.0991052506156743444879038099"
   },
   {
     "BID": 5607284,
@@ -222,22 +222,7 @@
     "BAR": -5.55,
     "StylePlus": "76",
     "RatingScore": 2.53,
-    "AdjustedRating": "2.0572316623995735445303278376"
-  },
-  {
-    "BID": 2210407,
-    "BeerName": "Grevens Pære",
-    "BeerStyle": "Cider - Perry / Poiré",
-    "BreweryName": "Hansa Borg Bryggerier",
-    "Origin": "Bergen, Vestland Norway",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-348517_2949a_sm.jpeg",
-    "HallRating": -11.13,
-    "BAR": -6.04,
-    "StylePlus": "80",
-    "RatingScore": 2.83,
-    "AdjustedRating": "2.0630955793577148851189155387"
+    "AdjustedRating": "2.0647379289487788071357476457"
   },
   {
     "BID": 5224831,
@@ -252,7 +237,22 @@
     "BAR": -2.87,
     "StylePlus": "73",
     "RatingScore": 2.55,
-    "AdjustedRating": "2.0560978245505111933272604211"
+    "AdjustedRating": "2.0561899058497885031480867819"
+  },
+  {
+    "BID": 2210407,
+    "BeerName": "Grevens Pære",
+    "BeerStyle": "Cider - Perry / Poiré",
+    "BreweryName": "Hansa Borg Bryggerier",
+    "Origin": "Bergen, Vestland Norway",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-348517_2949a_sm.jpeg",
+    "HallRating": -11.13,
+    "BAR": -6.04,
+    "StylePlus": "80",
+    "RatingScore": 2.83,
+    "AdjustedRating": "2.1067496011515405498970537325"
   },
   {
     "BID": 2400324,
@@ -267,7 +267,7 @@
     "BAR": -5.81,
     "StylePlus": "79",
     "RatingScore": 2.71,
-    "AdjustedRating": "2.0591775475397546972463588268"
+    "AdjustedRating": "2.079062951202076827570638474"
   },
   {
     "BID": 5822300,
@@ -282,7 +282,7 @@
     "BAR": -4.19,
     "StylePlus": "78",
     "RatingScore": 2.79,
-    "AdjustedRating": "2.0562035014031115238325425195"
+    "AdjustedRating": "2.05699864392257662499513183"
   },
   {
     "BID": 3343894,
@@ -297,22 +297,7 @@
     "BAR": -4.81,
     "StylePlus": "74",
     "RatingScore": 2.44,
-    "AdjustedRating": "2.0562695227999318380084490349"
-  },
-  {
-    "BID": 4412958,
-    "BeerName": "1795 Original Czech Lager Dark",
-    "BeerStyle": "Lager - Tmavé (Czech Dark)",
-    "BreweryName": "Samson (Budějovický měšťanský pivovar)",
-    "Origin": "České Budějovice, Jihočeský kraj Czech Republic",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-93041_e5978_sm.jpeg",
-    "HallRating": -11.15,
-    "BAR": -6.25,
-    "StylePlus": "83",
-    "RatingScore": 3.05,
-    "AdjustedRating": "2.0728769771829541332599532202"
+    "AdjustedRating": "2.0575009393939393939393939394"
   },
   {
     "BID": 1804328,
@@ -327,7 +312,22 @@
     "BAR": -5.26,
     "StylePlus": "81",
     "RatingScore": 3.05,
-    "AdjustedRating": "2.0572889211930830461435237427"
+    "AdjustedRating": "2.0652423041706106206656750439"
+  },
+  {
+    "BID": 4412958,
+    "BeerName": "1795 Original Czech Lager Dark",
+    "BeerStyle": "Lager - Tmavé (Czech Dark)",
+    "BreweryName": "Samson (Budějovický měšťanský pivovar)",
+    "Origin": "České Budějovice, Jihočeský kraj Czech Republic",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-93041_e5978_sm.jpeg",
+    "HallRating": -11.15,
+    "BAR": -6.25,
+    "StylePlus": "83",
+    "RatingScore": 3.05,
+    "AdjustedRating": "2.171736068499758803666184274"
   },
   {
     "BID": 5200,
@@ -342,22 +342,7 @@
     "BAR": -6.68,
     "StylePlus": "85",
     "RatingScore": 2.91,
-    "AdjustedRating": "2.1169954114803025684288134752"
-  },
-  {
-    "BID": 801923,
-    "BeerName": "IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Bowman Ales Ltd",
-    "Origin": "Droxford, Hampshire England",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3918661_30c60_sm.jpeg",
-    "HallRating": -11.16,
-    "BAR": -5.36,
-    "StylePlus": "84",
-    "RatingScore": 3.10,
-    "AdjustedRating": "2.0576435918684685920742722554"
+    "AdjustedRating": "2.3724508856595807354312926506"
   },
   {
     "BID": 6411737,
@@ -372,6 +357,21 @@
     "BAR": -4.96,
     "StylePlus": "80",
     "RatingScore": 2.88,
-    "AdjustedRating": "2.0566119860849398463545441368"
+    "AdjustedRating": "2.0601123037522796942299483916"
+  },
+  {
+    "BID": 801923,
+    "BeerName": "IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Bowman Ales Ltd",
+    "Origin": "Droxford, Hampshire England",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3918661_30c60_sm.jpeg",
+    "HallRating": -11.16,
+    "BAR": -5.36,
+    "StylePlus": "84",
+    "RatingScore": 3.10,
+    "AdjustedRating": "2.0679160407108986468252438413"
   }
 ]

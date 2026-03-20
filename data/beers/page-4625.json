@@ -1,5 +1,20 @@
 [
   {
+    "BID": 5016888,
+    "BeerName": "Hans Dry Beer (汉斯干啤) 10°P",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Hans Beer (汉斯啤酒)",
+    "Origin": "Xi An Shi, Shan Xi Sheng China / People's Republic of China",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-269204_a2712_sm.jpeg",
+    "HallRating": -13.09,
+    "BAR": -6.28,
+    "StylePlus": "77",
+    "RatingScore": 2.63,
+    "AdjustedRating": "2.0625342347656777128756771345"
+  },
+  {
     "BID": 5902827,
     "BeerName": "Alecto",
     "BeerStyle": "Stout - Imperial / Double",
@@ -12,7 +27,22 @@
     "BAR": -6.39,
     "StylePlus": "87",
     "RatingScore": 3.51,
-    "AdjustedRating": "2.0587575968505136964555579544"
+    "AdjustedRating": "2.0763215357403775906486715115"
+  },
+  {
+    "BID": 59545,
+    "BeerName": "Green Barley (青稞) 10°P",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Tibet Tiandi Green Beverage Co., Ltd (西藏天地绿色饮品发展有限公司)",
+    "Origin": "China / People's Republic of China",
+    "BeerAbv": 3.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -13.09,
+    "BAR": -5.73,
+    "StylePlus": "76",
+    "RatingScore": 2.54,
+    "AdjustedRating": "2.0581133918378441346639226498"
   },
   {
     "BID": 4446949,
@@ -27,52 +57,7 @@
     "BAR": -5.80,
     "StylePlus": "83",
     "RatingScore": 3.38,
-    "AdjustedRating": "2.0569021174262652771632157952"
-  },
-  {
-    "BID": 1672103,
-    "BeerName": "Bigger Than Jesus",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Wingman Brewers",
-    "Origin": "Tacoma, WA United States",
-    "BeerAbv": 9.99,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-WingmanBrewers_12840.jpeg",
-    "HallRating": -13.09,
-    "BAR": -3.62,
-    "StylePlus": "82",
-    "RatingScore": 3.32,
-    "AdjustedRating": "2.0561290244246256408951540057"
-  },
-  {
-    "BID": 51132,
-    "BeerName": "Ice",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Molson Coors Canada",
-    "Origin": "Toronto, ON Canada",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CarlingIce_51132.jpeg",
-    "HallRating": -13.09,
-    "BAR": -6.74,
-    "StylePlus": "78",
-    "RatingScore": 2.68,
-    "AdjustedRating": "2.0584957447708077745896237415"
-  },
-  {
-    "BID": 3903142,
-    "BeerName": "Paranoia",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Delirium - Huyghe Brewery",
-    "Origin": "Melle, Vlaams Gewest Belgium",
-    "BeerAbv": 5.60,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3267458_91d7e_sm.jpeg",
-    "HallRating": -13.10,
-    "BAR": -7.98,
-    "StylePlus": "87",
-    "RatingScore": 3.35,
-    "AdjustedRating": "2.1948440411905551592692379338"
+    "AdjustedRating": "2.0623268266935749907826053209"
   },
   {
     "BID": 2202628,
@@ -87,7 +72,22 @@
     "BAR": -6.92,
     "StylePlus": "80",
     "RatingScore": 2.91,
-    "AdjustedRating": "2.0610159971159246497366383825"
+    "AdjustedRating": "2.0924734168331062288839527374"
+  },
+  {
+    "BID": 3903142,
+    "BeerName": "Paranoia",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Delirium - Huyghe Brewery",
+    "Origin": "Melle, Vlaams Gewest Belgium",
+    "BeerAbv": 5.60,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3267458_91d7e_sm.jpeg",
+    "HallRating": -13.10,
+    "BAR": -7.98,
+    "StylePlus": "87",
+    "RatingScore": 3.35,
+    "AdjustedRating": "2.6762236246789242311948587267"
   },
   {
     "BID": 5501592,
@@ -102,22 +102,7 @@
     "BAR": -6.98,
     "StylePlus": "76",
     "RatingScore": 2.62,
-    "AdjustedRating": "2.0598129639869870856683526833"
-  },
-  {
-    "BID": 1618378,
-    "BeerName": "East Coast IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Greene King",
-    "Origin": "Bury St Edmunds, Suffolk England",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-779052_bd0de_sm.jpeg",
-    "HallRating": -13.11,
-    "BAR": -7.85,
-    "StylePlus": "85",
-    "RatingScore": 3.15,
-    "AdjustedRating": "2.1341630664773143476915006486"
+    "AdjustedRating": "2.0834502348532630875969279858"
   },
   {
     "BID": 4020445,
@@ -132,22 +117,7 @@
     "BAR": -7.07,
     "StylePlus": "82",
     "RatingScore": 3.12,
-    "AdjustedRating": "2.0647144464204136747390870888"
-  },
-  {
-    "BID": 3216145,
-    "BeerName": "Яблочный Сидровар",
-    "BeerStyle": "Cider - Sweet",
-    "BreweryName": "Baltika Breweries (Балтика)",
-    "Origin": "Sankt-Peterburg, Russia",
-    "BeerAbv": 4.50,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2839454_6b124_sm.jpeg",
-    "HallRating": -13.11,
-    "BAR": -5.81,
-    "StylePlus": "77",
-    "RatingScore": 2.80,
-    "AdjustedRating": "2.0565474860999501571575338982"
+    "AdjustedRating": "2.1188211573462498165272273595"
   },
   {
     "BID": 3348435,
@@ -162,7 +132,37 @@
     "BAR": -6.56,
     "StylePlus": "86",
     "RatingScore": 3.42,
-    "AdjustedRating": "2.0596148514736898208425653091"
+    "AdjustedRating": "2.0826791886828522271076276047"
+  },
+  {
+    "BID": 1618378,
+    "BeerName": "East Coast IPA",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Greene King",
+    "Origin": "Bury St Edmunds, Suffolk England",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-779052_bd0de_sm.jpeg",
+    "HallRating": -13.11,
+    "BAR": -7.85,
+    "StylePlus": "85",
+    "RatingScore": 3.15,
+    "AdjustedRating": "2.4615373559438500049082163542"
+  },
+  {
+    "BID": 3216145,
+    "BeerName": "Яблочный Сидровар",
+    "BeerStyle": "Cider - Sweet",
+    "BreweryName": "Baltika Breweries (Балтика)",
+    "Origin": "Sankt-Peterburg, Russia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2839454_6b124_sm.jpeg",
+    "HallRating": -13.11,
+    "BAR": -5.81,
+    "StylePlus": "77",
+    "RatingScore": 2.80,
+    "AdjustedRating": "2.0596206143397690889686620743"
   },
   {
     "BID": 4017850,
@@ -177,7 +177,7 @@
     "BAR": -6.74,
     "StylePlus": "78",
     "RatingScore": 2.72,
-    "AdjustedRating": "2.0585799501209205169415474784"
+    "AdjustedRating": "2.0747410296932143330869952438"
   },
   {
     "BID": 4815352,
@@ -192,7 +192,7 @@
     "BAR": -6.75,
     "StylePlus": "85",
     "RatingScore": 3.39,
-    "AdjustedRating": "2.0611661450972638367123454349"
+    "AdjustedRating": "2.0940601663099274525031727691"
   },
   {
     "BID": 9040,
@@ -207,7 +207,7 @@
     "BAR": -7.17,
     "StylePlus": "82",
     "RatingScore": 3.03,
-    "AdjustedRating": "2.0661009311691745891834036391"
+    "AdjustedRating": "2.1279132509842164192581355871"
   },
   {
     "BID": 2618072,
@@ -222,7 +222,7 @@
     "BAR": -8.15,
     "StylePlus": "82",
     "RatingScore": 2.84,
-    "AdjustedRating": "2.1858777995286323969679597427"
+    "AdjustedRating": "2.5289660193859316618833595061"
   },
   {
     "BID": 6041330,
@@ -237,7 +237,7 @@
     "BAR": -4.86,
     "StylePlus": "76",
     "RatingScore": 2.84,
-    "AdjustedRating": "2.056197683855406973194113696"
+    "AdjustedRating": "2.0569542204997370829844002571"
   },
   {
     "BID": 6426932,
@@ -252,7 +252,7 @@
     "BAR": -4.78,
     "StylePlus": "81",
     "RatingScore": 3.30,
-    "AdjustedRating": "2.0562454069641412368143862488"
+    "AdjustedRating": "2.0573196540776377554001675075"
   },
   {
     "BID": 6305290,
@@ -267,7 +267,7 @@
     "BAR": -7.18,
     "StylePlus": "80",
     "RatingScore": 2.83,
-    "AdjustedRating": "2.063696512286624925987981708"
+    "AdjustedRating": "2.1108248787911729535819110773"
   },
   {
     "BID": 3343870,
@@ -282,37 +282,7 @@
     "BAR": -5.57,
     "StylePlus": "82",
     "RatingScore": 3.16,
-    "AdjustedRating": "2.0565220318201588718723530893"
-  },
-  {
-    "BID": 6431817,
-    "BeerName": "Gatekeeper Raspberry Porter",
-    "BeerStyle": "Porter - Baltic",
-    "BreweryName": "RPS Brewing",
-    "Origin": "Kuopio, Pohjois-Savo Finland",
-    "BeerAbv": 7.10,
-    "BeerIbu": 27.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6431817_79c2d_sm.jpeg",
-    "HallRating": -13.21,
-    "BAR": -5.49,
-    "StylePlus": "77",
-    "RatingScore": 2.94,
-    "AdjustedRating": "2.05638978560109074166872283"
-  },
-  {
-    "BID": 6417345,
-    "BeerName": "Suröl",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Bäckalund Gårdsbryggeri",
-    "Origin": "Mullsjö, Jonkoping County Sweden",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-572674_dfb09.jpeg",
-    "HallRating": -13.21,
-    "BAR": -5.04,
-    "StylePlus": "78",
-    "RatingScore": 2.93,
-    "AdjustedRating": "2.0562418581394283853437880029"
+    "AdjustedRating": "2.0594314107996734439995334914"
   },
   {
     "BID": 6218191,
@@ -327,7 +297,37 @@
     "BAR": -3.78,
     "StylePlus": "71",
     "RatingScore": 2.59,
-    "AdjustedRating": "2.0561057366510011272063856369"
+    "AdjustedRating": "2.0562505040346158344053327096"
+  },
+  {
+    "BID": 6417345,
+    "BeerName": "Suröl",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Bäckalund Gårdsbryggeri",
+    "Origin": "Mullsjö, Jonkoping County Sweden",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-572674_dfb09.jpeg",
+    "HallRating": -13.21,
+    "BAR": -5.04,
+    "StylePlus": "78",
+    "RatingScore": 2.93,
+    "AdjustedRating": "2.0572920768676622339907712077"
+  },
+  {
+    "BID": 6431817,
+    "BeerName": "Gatekeeper Raspberry Porter",
+    "BeerStyle": "Porter - Baltic",
+    "BreweryName": "RPS Brewing",
+    "Origin": "Kuopio, Pohjois-Savo Finland",
+    "BeerAbv": 7.10,
+    "BeerIbu": 27.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6431817_79c2d_sm.jpeg",
+    "HallRating": -13.21,
+    "BAR": -5.49,
+    "StylePlus": "77",
+    "RatingScore": 2.94,
+    "AdjustedRating": "2.0584215836347372924201765644"
   },
   {
     "BID": 4446432,
@@ -342,7 +342,7 @@
     "BAR": -5.26,
     "StylePlus": "75",
     "RatingScore": 2.69,
-    "AdjustedRating": "2.0562404277006675350048844025"
+    "AdjustedRating": "2.0572806032654173234475645591"
   },
   {
     "BID": 6421577,
@@ -357,7 +357,7 @@
     "BAR": -3.41,
     "StylePlus": "66",
     "RatingScore": 2.32,
-    "AdjustedRating": "2.0560913869242395712998916036"
+    "AdjustedRating": "2.0561405890723377711935439855"
   },
   {
     "BID": 5050085,
@@ -372,6 +372,6 @@
     "BAR": -7.33,
     "StylePlus": "80",
     "RatingScore": 2.73,
-    "AdjustedRating": "2.0652052603750662051342552268"
+    "AdjustedRating": "2.1201917427049151406090116792"
   }
 ]

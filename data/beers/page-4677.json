@@ -1,18 +1,18 @@
 [
   {
-    "BID": 6501249,
-    "BeerName": "Mad King Lager",
-    "BeerStyle": "Lager - German Light / Leichtbier",
-    "BreweryName": "Alchemy Brewing Company",
-    "Origin": "Kamloops, BC Canada",
-    "BeerAbv": 4.50,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6501249_3cce4_sm.jpeg",
+    "BID": 6609550,
+    "BeerName": "Astra Kiezmische 0,0%",
+    "BeerStyle": "Non-Alcoholic - Shandy / Radler",
+    "BreweryName": "Holsten-Brauerei AG",
+    "Origin": "Altona-Nord, Hamburg Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6609550_5755e_sm.jpeg",
     "HallRating": -25.04,
     "BAR": -5.79,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560421457662742144382046774"
+    "AdjustedRating": "2.0557633506179578151194978362"
   },
   {
     "BID": 5218332,
@@ -27,7 +27,7 @@
     "BAR": -11.91,
     "StylePlus": "61",
     "RatingScore": 2.43,
-    "AdjustedRating": "2.0565809532672281037015201492"
+    "AdjustedRating": "2.0598583050585760330419006813"
   },
   {
     "BID": 2208786,
@@ -42,7 +42,7 @@
     "BAR": -14.87,
     "StylePlus": "72",
     "RatingScore": 2.66,
-    "AdjustedRating": "2.0887739926591107655945759253"
+    "AdjustedRating": "2.2401727888316616969368392518"
   },
   {
     "BID": 3217002,
@@ -57,7 +57,7 @@
     "BAR": -13.77,
     "StylePlus": "73",
     "RatingScore": 2.85,
-    "AdjustedRating": "2.0642792748344204084716311164"
+    "AdjustedRating": "2.1148368513603784144866309195"
   },
   {
     "BID": 6010982,
@@ -72,7 +72,7 @@
     "BAR": -7.44,
     "StylePlus": "51",
     "RatingScore": 1.81,
-    "AdjustedRating": "2.0560727292352083540071601414"
+    "AdjustedRating": "2.055997668199890855227255009"
   },
   {
     "BID": 3346821,
@@ -87,7 +87,7 @@
     "BAR": -11.53,
     "StylePlus": "75",
     "RatingScore": 3.03,
-    "AdjustedRating": "2.0569184427348167432778749542"
+    "AdjustedRating": "2.062441326437716698626687586"
   },
   {
     "BID": 19590,
@@ -102,7 +102,7 @@
     "BAR": -13.32,
     "StylePlus": "64",
     "RatingScore": 2.54,
-    "AdjustedRating": "2.0588083661693858548236913485"
+    "AdjustedRating": "2.0762038374287582920676445856"
   },
   {
     "BID": 6006291,
@@ -117,7 +117,7 @@
     "BAR": -12.58,
     "StylePlus": "77",
     "RatingScore": 3.10,
-    "AdjustedRating": "2.0586014333212333826639014472"
+    "AdjustedRating": "2.0750679241960183767228177642"
   },
   {
     "BID": 5103139,
@@ -132,7 +132,7 @@
     "BAR": -13.73,
     "StylePlus": "68",
     "RatingScore": 2.59,
-    "AdjustedRating": "2.0603255361616406403828968693"
+    "AdjustedRating": "2.0869496548303543545750133181"
   },
   {
     "BID": 2212540,
@@ -147,127 +147,7 @@
     "BAR": -15.48,
     "StylePlus": "80",
     "RatingScore": 3.28,
-    "AdjustedRating": "2.1735174309730848861283643892"
-  },
-  {
-    "BID": 6601493,
-    "BeerName": "Beauty",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Nonsuch Brewing Co.",
-    "Origin": "Winnipeg, MB Canada",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-278859_0b4e3.jpeg",
-    "HallRating": -25.54,
-    "BAR": -4.83,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
-  },
-  {
-    "BID": 4940097,
-    "BeerName": "The Collection Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "The Collection Craft Brewery",
-    "Origin": "Russia",
-    "BeerAbv": 5.00,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -25.54,
-    "BAR": -4.83,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
-  },
-  {
-    "BID": 4979975,
-    "BeerName": "Lemon Marmalade",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Bronx Brewing Co.",
-    "Origin": "Mapo-gu, 서울특별시 South Korea",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -25.54,
-    "BAR": -4.83,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
-  },
-  {
-    "BID": 1671601,
-    "BeerName": "Irma 13er",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Carlsberg Group",
-    "Origin": "Copenhagen, Region Hovedstaden Denmark",
-    "BeerAbv": 5.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CarlsbergBrewery_344.jpeg",
-    "HallRating": -25.54,
-    "BAR": -4.83,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
-  },
-  {
-    "BID": 6610000,
-    "BeerName": "8.6 Fresh Lager Beer",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Royal Swinkels",
-    "Origin": "Lieshout, Noord-Brabant Netherlands",
-    "BeerAbv": 5.50,
-    "BeerIbu": 6.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-109_35b39.jpeg",
-    "HallRating": -25.54,
-    "BAR": -4.83,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
-  },
-  {
-    "BID": 6409675,
-    "BeerName": "Leopardo House Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Cold Town Beer",
-    "Origin": "Edinburgh, Scotland",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-381592_39dad.jpeg",
-    "HallRating": -25.54,
-    "BAR": -4.83,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
-  },
-  {
-    "BID": 3800590,
-    "BeerName": "Алтайское нефильтрованное",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Varnitsa (Варница)",
-    "Origin": "Кардымово, Смоленская область Russia",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-109110_5b77a.jpeg",
-    "HallRating": -25.54,
-    "BAR": -4.83,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
-  },
-  {
-    "BID": 1670176,
-    "BeerName": "Ichiban Shibori Tottori Zukuri",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Kirin Brewery Company",
-    "Origin": "Nakano-ku, Tokyo Japan",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1670176_837c3_sm.jpeg",
-    "HallRating": -25.54,
-    "BAR": -4.83,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
+    "AdjustedRating": "2.6049964877041688620307745245"
   },
   {
     "BID": 5626112,
@@ -282,82 +162,52 @@
     "BAR": -4.83,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
+    "AdjustedRating": "2.0558835824154401013744029633"
   },
   {
-    "BID": 4446440,
-    "BeerName": "Blue Cattle Lager",
+    "BID": 3339923,
+    "BeerName": "Big Pig Premium Lager",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Iron Spokes Brewing",
-    "Origin": "Narellan, New South Wales Australia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-482725_94895.jpeg",
-    "HallRating": -25.54,
-    "BAR": -4.83,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
-  },
-  {
-    "BID": 4979967,
-    "BeerName": "Гонорове",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Гонір - Honir Brewery",
-    "Origin": "Ivano-Frankivsk, Ivano-Frankivsk Oblast Ukraine",
-    "BeerAbv": 5.00,
-    "BeerIbu": 24.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-292691_5e315.jpeg",
-    "HallRating": -25.54,
-    "BAR": -4.83,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
-  },
-  {
-    "BID": 3345076,
-    "BeerName": "Oats Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Pivovar General",
-    "Origin": "Bratislava, Bratislavský kraj Slovakia",
-    "BeerAbv": 4.00,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345076_29265_sm.jpeg",
-    "HallRating": -25.54,
-    "BAR": -4.83,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
-  },
-  {
-    "BID": 4826185,
-    "BeerName": "Командор",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Komandor Family Brewery",
-    "Origin": null,
-    "BeerAbv": 4.40,
+    "BreweryName": "Big Pig Brewery",
+    "Origin": "Russia",
+    "BeerAbv": 4.50,
     "BeerIbu": 0.00,
     "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": -25.54,
     "BAR": -4.83,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
+    "AdjustedRating": "2.0558835824154401013744029633"
   },
   {
-    "BID": 6410653,
-    "BeerName": "Lobster Lager",
+    "BID": 3800590,
+    "BeerName": "Алтайское нефильтрованное",
     "BeerStyle": "Lager - Pale",
-    "BreweryName": "Lobster Shack",
-    "Origin": "Cervantes, Western Australia Australia",
-    "BeerAbv": 4.50,
+    "BreweryName": "Varnitsa (Варница)",
+    "Origin": "Кардымово, Смоленская область Russia",
+    "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-582039_3a70f.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-109110_5b77a.jpeg",
     "HallRating": -25.54,
     "BAR": -4.83,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
+    "AdjustedRating": "2.0558835824154401013744029633"
+  },
+  {
+    "BID": 6500437,
+    "BeerName": "雨歇",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "E.T. Brewery",
+    "Origin": "Shen Zhen Shi, Guang Dong Sheng China / People's Republic of China",
+    "BeerAbv": 4.60,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-316168_16193.jpeg",
+    "HallRating": -25.54,
+    "BAR": -4.83,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558835824154401013744029633"
   },
   {
     "BID": 6419210,
@@ -372,6 +222,156 @@
     "BAR": -4.83,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
+    "AdjustedRating": "2.0558835824154401013744029633"
+  },
+  {
+    "BID": 3339417,
+    "BeerName": "Mexican Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Skagit River Brewery",
+    "Origin": "Mount Vernon, WA United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3145_587a6.jpeg",
+    "HallRating": -25.54,
+    "BAR": -4.83,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558835824154401013744029633"
+  },
+  {
+    "BID": 6618989,
+    "BeerName": "Kaleva",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Mad Finn Brewing Co.",
+    "Origin": "Ylöjärvi, Pirkanmaa Finland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-462086_2d6f9.jpeg",
+    "HallRating": -25.54,
+    "BAR": -4.83,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558835824154401013744029633"
+  },
+  {
+    "BID": 3345076,
+    "BeerName": "Oats Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Pivovar General",
+    "Origin": "Bratislava, Bratislavský kraj Slovakia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345076_29265_sm.jpeg",
+    "HallRating": -25.54,
+    "BAR": -4.83,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558835824154401013744029633"
+  },
+  {
+    "BID": 6205903,
+    "BeerName": "Izerskie Jasne Forest Park Resort & Spa",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Browar Wielka Sowa",
+    "Origin": "Bielawa, Lower Silesian Voivodeship Poland",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-376864_00c29.jpeg",
+    "HallRating": -25.54,
+    "BAR": -4.83,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558835824154401013744029633"
+  },
+  {
+    "BID": 3338772,
+    "BeerName": "Breda 750",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "d'Oranjeboom",
+    "Origin": "Rotterdam, Zuid-Holland Netherlands",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-259917_86d68.jpeg",
+    "HallRating": -25.54,
+    "BAR": -4.83,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558835824154401013744029633"
+  },
+  {
+    "BID": 6601493,
+    "BeerName": "Beauty",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Nonsuch Brewing Co.",
+    "Origin": "Winnipeg, MB Canada",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-278859_0b4e3.jpeg",
+    "HallRating": -25.54,
+    "BAR": -4.83,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558835824154401013744029633"
+  },
+  {
+    "BID": 6410653,
+    "BeerName": "Lobster Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Lobster Shack",
+    "Origin": "Cervantes, Western Australia Australia",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-582039_3a70f.jpeg",
+    "HallRating": -25.54,
+    "BAR": -4.83,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558835824154401013744029633"
+  },
+  {
+    "BID": 4446440,
+    "BeerName": "Blue Cattle Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Iron Spokes Brewing",
+    "Origin": "Narellan, New South Wales Australia",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-482725_94895.jpeg",
+    "HallRating": -25.54,
+    "BAR": -4.83,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558835824154401013744029633"
+  },
+  {
+    "BID": 1671601,
+    "BeerName": "Irma 13er",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Carlsberg Group",
+    "Origin": "Copenhagen, Region Hovedstaden Denmark",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-CarlsbergBrewery_344.jpeg",
+    "HallRating": -25.54,
+    "BAR": -4.83,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558835824154401013744029633"
+  },
+  {
+    "BID": 4940097,
+    "BeerName": "The Collection Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "The Collection Craft Brewery",
+    "Origin": "Russia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -25.54,
+    "BAR": -4.83,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558835824154401013744029633"
   }
 ]

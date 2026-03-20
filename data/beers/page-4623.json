@@ -1,20 +1,5 @@
 [
   {
-    "BID": 5104015,
-    "BeerName": "Det Gyldne Snit",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Mad Molly",
-    "Origin": "Denmark",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-488416_4e67f.jpeg",
-    "HallRating": -12.84,
-    "BAR": -4.49,
-    "StylePlus": "77",
-    "RatingScore": 2.93,
-    "AdjustedRating": "2.0561751644751572391052128071"
-  },
-  {
     "BID": 3216016,
     "BeerName": "Cumbres Café",
     "BeerStyle": "Stout - Imperial / Double Coffee",
@@ -27,7 +12,7 @@
     "BAR": -6.12,
     "StylePlus": "87",
     "RatingScore": 3.61,
-    "AdjustedRating": "2.0582123275074327243158081976"
+    "AdjustedRating": "2.072244078797584363966119354"
   },
   {
     "BID": 20064,
@@ -42,37 +27,22 @@
     "BAR": -6.74,
     "StylePlus": "85",
     "RatingScore": 3.34,
-    "AdjustedRating": "2.0627725351639923148773949561"
+    "AdjustedRating": "2.1056134880407887830846517208"
   },
   {
-    "BID": 27893,
-    "BeerName": "Stoute Bie",
-    "BeerStyle": "Stout - Belgian",
-    "BreweryName": "Brouwerij De Bie",
-    "Origin": "Dentergem, Vlaams Gewest Belgium",
-    "BeerAbv": 5.50,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27893_fdd8e_sm.jpeg",
-    "HallRating": -12.85,
-    "BAR": -7.16,
-    "StylePlus": "81",
-    "RatingScore": 3.00,
-    "AdjustedRating": "2.0701457064176029117598399735"
-  },
-  {
-    "BID": 5212121,
-    "BeerName": "Pompoenbier",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Vranckaertshoeve",
-    "Origin": "Wortegem-Petegem, Vlaams Gewest Belgium",
-    "BeerAbv": 6.60,
+    "BID": 5104015,
+    "BeerName": "Det Gyldne Snit",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Mad Molly",
+    "Origin": "Denmark",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-165948_248c8.jpeg",
-    "HallRating": -12.85,
-    "BAR": -6.64,
-    "StylePlus": "83",
-    "RatingScore": 3.02,
-    "AdjustedRating": "2.0599973827310672008880035885"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-488416_4e67f.jpeg",
+    "HallRating": -12.84,
+    "BAR": -4.49,
+    "StylePlus": "77",
+    "RatingScore": 2.93,
+    "AdjustedRating": "2.0567820295727727883734974966"
   },
   {
     "BID": 1442395,
@@ -87,22 +57,22 @@
     "BAR": -4.15,
     "StylePlus": "70",
     "RatingScore": 2.44,
-    "AdjustedRating": "2.056110374700395401737325008"
+    "AdjustedRating": "2.0562859941150106202622912485"
   },
   {
-    "BID": 5217048,
-    "BeerName": "Kokum Gose",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Seven Rivers Brewing Co.",
-    "Origin": "Bengaluru, Karnataka India",
-    "BeerAbv": 3.50,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-511899_e3e4f.jpeg",
+    "BID": 5212121,
+    "BeerName": "Pompoenbier",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Vranckaertshoeve",
+    "Origin": "Wortegem-Petegem, Vlaams Gewest Belgium",
+    "BeerAbv": 6.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-165948_248c8.jpeg",
     "HallRating": -12.85,
-    "BAR": -4.84,
-    "StylePlus": "78",
-    "RatingScore": 2.96,
-    "AdjustedRating": "2.0562334813461695025645200684"
+    "BAR": -6.64,
+    "StylePlus": "83",
+    "RatingScore": 3.02,
+    "AdjustedRating": "2.0852792172729335249187022612"
   },
   {
     "BID": 5229728,
@@ -117,22 +87,37 @@
     "BAR": -6.68,
     "StylePlus": "83",
     "RatingScore": 3.01,
-    "AdjustedRating": "2.0603827475340071433999544038"
+    "AdjustedRating": "2.0880615493037366447455199834"
   },
   {
-    "BID": 5629158,
-    "BeerName": "Grossen Bauer IPA Mango",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "Alter Bauer / Альтер Байер",
-    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
-    "BeerAbv": 5.10,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5629158_fc1c4_sm.jpeg",
-    "HallRating": -12.86,
-    "BAR": -3.48,
-    "StylePlus": "76",
-    "RatingScore": 2.92,
-    "AdjustedRating": "2.0561125770831849039704430489"
+    "BID": 27893,
+    "BeerName": "Stoute Bie",
+    "BeerStyle": "Stout - Belgian",
+    "BreweryName": "Brouwerij De Bie",
+    "Origin": "Dentergem, Vlaams Gewest Belgium",
+    "BeerAbv": 5.50,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-27893_fdd8e_sm.jpeg",
+    "HallRating": -12.85,
+    "BAR": -7.16,
+    "StylePlus": "81",
+    "RatingScore": 3.00,
+    "AdjustedRating": "2.1540990051194241084688903255"
+  },
+  {
+    "BID": 5217048,
+    "BeerName": "Kokum Gose",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Seven Rivers Brewing Co.",
+    "Origin": "Bengaluru, Karnataka India",
+    "BeerAbv": 3.50,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-511899_e3e4f.jpeg",
+    "HallRating": -12.85,
+    "BAR": -4.84,
+    "StylePlus": "78",
+    "RatingScore": 2.96,
+    "AdjustedRating": "2.0572280860675688832635575893"
   },
   {
     "BID": 2402176,
@@ -147,22 +132,7 @@
     "BAR": -7.79,
     "StylePlus": "85",
     "RatingScore": 3.10,
-    "AdjustedRating": "2.1545109431254061977128476015"
-  },
-  {
-    "BID": 5416975,
-    "BeerName": "Schultenbräu Pilsener",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "ALDI Nord Deutschland",
-    "Origin": "Essen, Nordrhein-Westfalen Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-49293_469d7_sm.jpeg",
-    "HallRating": -12.86,
-    "BAR": -7.83,
-    "StylePlus": "79",
-    "RatingScore": 2.69,
-    "AdjustedRating": "2.1239020686298347312138268598"
+    "AdjustedRating": "2.5192855647986464355050379063"
   },
   {
     "BID": 1019384,
@@ -177,7 +147,37 @@
     "BAR": -7.22,
     "StylePlus": "82",
     "RatingScore": 2.73,
-    "AdjustedRating": "2.0678032965550349297155115941"
+    "AdjustedRating": "2.136555899390505622800240364"
+  },
+  {
+    "BID": 5629158,
+    "BeerName": "Grossen Bauer IPA Mango",
+    "BeerStyle": "IPA - Milkshake",
+    "BreweryName": "Alter Bauer / Альтер Байер",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 5.10,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5629158_fc1c4_sm.jpeg",
+    "HallRating": -12.86,
+    "BAR": -3.48,
+    "StylePlus": "76",
+    "RatingScore": 2.92,
+    "AdjustedRating": "2.0563029132799251505759897082"
+  },
+  {
+    "BID": 5416975,
+    "BeerName": "Schultenbräu Pilsener",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "ALDI Nord Deutschland",
+    "Origin": "Essen, Nordrhein-Westfalen Germany",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-49293_469d7_sm.jpeg",
+    "HallRating": -12.86,
+    "BAR": -7.83,
+    "StylePlus": "79",
+    "RatingScore": 2.69,
+    "AdjustedRating": "2.3594769580156551794246213276"
   },
   {
     "BID": 4446510,
@@ -192,7 +192,7 @@
     "BAR": -5.64,
     "StylePlus": "79",
     "RatingScore": 2.91,
-    "AdjustedRating": "2.0565574217375492422604772526"
+    "AdjustedRating": "2.0596980733090005436048769123"
   },
   {
     "BID": 6502331,
@@ -207,7 +207,7 @@
     "BAR": -3.32,
     "StylePlus": "64",
     "RatingScore": 2.25,
-    "AdjustedRating": "2.0560894276466786428567793548"
+    "AdjustedRating": "2.0561255796183310266856396561"
   },
   {
     "BID": 4941478,
@@ -222,7 +222,7 @@
     "BAR": -5.43,
     "StylePlus": "82",
     "RatingScore": 3.16,
-    "AdjustedRating": "2.0565192250309045494549098808"
+    "AdjustedRating": "2.0594100176887938575177373894"
   },
   {
     "BID": 1803319,
@@ -237,7 +237,7 @@
     "BAR": -6.19,
     "StylePlus": "72",
     "RatingScore": 2.47,
-    "AdjustedRating": "2.0567149839401815590295509806"
+    "AdjustedRating": "2.0608700782424359221429947967"
   },
   {
     "BID": 3021434,
@@ -252,52 +252,7 @@
     "BAR": -6.82,
     "StylePlus": "75",
     "RatingScore": 2.64,
-    "AdjustedRating": "2.0595637433545720594819234748"
-  },
-  {
-    "BID": 3335140,
-    "BeerName": "\"Oppskåke\" (kveik)",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Breared Brewery",
-    "Origin": "Simlångsdalen, Hallands län Sweden",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-282232_bc091.jpeg",
-    "HallRating": -12.90,
-    "BAR": -3.49,
-    "StylePlus": "70",
-    "RatingScore": 2.38,
-    "AdjustedRating": "2.0560947146695707931725885742"
-  },
-  {
-    "BID": 5022947,
-    "BeerName": "Kuningatar Sour",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Malmgårdin Panimo",
-    "Origin": "Loviisa, Uusimaa Finland",
-    "BeerAbv": 5.00,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3242300_0a141_sm.jpeg",
-    "HallRating": -12.90,
-    "BAR": -7.16,
-    "StylePlus": "84",
-    "RatingScore": 3.23,
-    "AdjustedRating": "2.0723620002258372917591972237"
-  },
-  {
-    "BID": 6603923,
-    "BeerName": "F/A-18% Rhino IIIIIPA",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Hope Brewery",
-    "Origin": "Pokolbin, New South Wales Australia",
-    "BeerAbv": 18.00,
-    "BeerIbu": 150.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3196086_7183a_sm.jpeg",
-    "HallRating": -12.90,
-    "BAR": -6.70,
-    "StylePlus": "90",
-    "RatingScore": 3.70,
-    "AdjustedRating": "2.0634092647093096896770107663"
+    "AdjustedRating": "2.0817281504678820415315214555"
   },
   {
     "BID": 4981064,
@@ -312,7 +267,52 @@
     "BAR": -5.33,
     "StylePlus": "86",
     "RatingScore": 3.45,
-    "AdjustedRating": "2.0565414052808302808302808303"
+    "AdjustedRating": "2.0595810568077947840292498882"
+  },
+  {
+    "BID": 3335140,
+    "BeerName": "\"Oppskåke\" (kveik)",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Breared Brewery",
+    "Origin": "Simlångsdalen, Hallands län Sweden",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-282232_bc091.jpeg",
+    "HallRating": -12.90,
+    "BAR": -3.49,
+    "StylePlus": "70",
+    "RatingScore": 2.38,
+    "AdjustedRating": "2.0561660791766563358867902462"
+  },
+  {
+    "BID": 5022947,
+    "BeerName": "Kuningatar Sour",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Malmgårdin Panimo",
+    "Origin": "Loviisa, Uusimaa Finland",
+    "BeerAbv": 5.00,
+    "BeerIbu": 8.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3242300_0a141_sm.jpeg",
+    "HallRating": -12.90,
+    "BAR": -7.16,
+    "StylePlus": "84",
+    "RatingScore": 3.23,
+    "AdjustedRating": "2.1702606371444663475077442974"
+  },
+  {
+    "BID": 6603923,
+    "BeerName": "F/A-18% Rhino IIIIIPA",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Hope Brewery",
+    "Origin": "Pokolbin, New South Wales Australia",
+    "BeerAbv": 18.00,
+    "BeerIbu": 150.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3196086_7183a_sm.jpeg",
+    "HallRating": -12.90,
+    "BAR": -6.70,
+    "StylePlus": "90",
+    "RatingScore": 3.70,
+    "AdjustedRating": "2.1105930057117005033082621727"
   },
   {
     "BID": 4820365,
@@ -327,7 +327,7 @@
     "BAR": -5.55,
     "StylePlus": "76",
     "RatingScore": 2.54,
-    "AdjustedRating": "2.0563080049850829024373494619"
+    "AdjustedRating": "2.0577950800435188063413117812"
   },
   {
     "BID": 6427491,
@@ -342,7 +342,7 @@
     "BAR": -8.36,
     "StylePlus": "86",
     "RatingScore": 3.11,
-    "AdjustedRating": "2.5303980409044029258612944711"
+    "AdjustedRating": "2.965037513167351404696265943"
   },
   {
     "BID": 3350481,
@@ -357,7 +357,7 @@
     "BAR": -4.23,
     "StylePlus": "71",
     "RatingScore": 2.60,
-    "AdjustedRating": "2.056124134252709785761538853"
+    "AdjustedRating": "2.0563913630429275706853212261"
   },
   {
     "BID": 2337,
@@ -372,6 +372,6 @@
     "BAR": -5.21,
     "StylePlus": "77",
     "RatingScore": 2.88,
-    "AdjustedRating": "2.0563061718710649025558577145"
+    "AdjustedRating": "2.0577832586193478091680286404"
   }
 ]

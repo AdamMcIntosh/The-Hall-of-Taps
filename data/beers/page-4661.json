@@ -1,20 +1,5 @@
 [
   {
-    "BID": 3348601,
-    "BeerName": "Peach",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Fjellbryggeriet",
-    "Origin": "Tuddal, Telemark Norway",
-    "BeerAbv": 5.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-80734_4f255.jpeg",
-    "HallRating": -21.15,
-    "BAR": -9.00,
-    "StylePlus": "68",
-    "RatingScore": 2.52,
-    "AdjustedRating": "2.0562810555654469704291913175"
-  },
-  {
     "BID": 3023092,
     "BeerName": "Skol Puro Malte",
     "BeerStyle": "Lager - American",
@@ -27,22 +12,22 @@
     "BAR": -11.58,
     "StylePlus": "68",
     "RatingScore": 2.33,
-    "AdjustedRating": "2.0590200283550115922255310901"
+    "AdjustedRating": "2.077080873478793115863757471"
   },
   {
-    "BID": 6606836,
-    "BeerName": "SessionStein",
-    "BeerStyle": "Lager - German Light / Leichtbier",
-    "BreweryName": "Bucks Mill Brewing",
-    "Origin": "Detroit Lakes, MN United States",
-    "BeerAbv": 4.20,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-527739_11166.jpeg",
-    "HallRating": -21.18,
-    "BAR": -1.93,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "BID": 3348601,
+    "BeerName": "Peach",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Fjellbryggeriet",
+    "Origin": "Tuddal, Telemark Norway",
+    "BeerAbv": 5.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-80734_4f255.jpeg",
+    "HallRating": -21.15,
+    "BAR": -9.00,
+    "StylePlus": "68",
+    "RatingScore": 2.52,
+    "AdjustedRating": "2.0575896060788619624152204753"
   },
   {
     "BID": 6602985,
@@ -57,7 +42,7 @@
     "BAR": -1.93,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
     "BID": 6611892,
@@ -72,7 +57,22 @@
     "BAR": -1.93,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
+    "AdjustedRating": "2.0560038282773142010449972705"
+  },
+  {
+    "BID": 6606836,
+    "BeerName": "SessionStein",
+    "BeerStyle": "Lager - German Light / Leichtbier",
+    "BreweryName": "Bucks Mill Brewing",
+    "Origin": "Detroit Lakes, MN United States",
+    "BeerAbv": 4.20,
+    "BeerIbu": 22.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-527739_11166.jpeg",
+    "HallRating": -21.18,
+    "BAR": -1.93,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
     "BID": 5903317,
@@ -87,7 +87,7 @@
     "BAR": -5.46,
     "StylePlus": "57",
     "RatingScore": 2.09,
-    "AdjustedRating": "2.0560849492979679492725227861"
+    "AdjustedRating": "2.0560912722948870392390011891"
   },
   {
     "BID": 3905013,
@@ -102,7 +102,7 @@
     "BAR": -11.73,
     "StylePlus": "74",
     "RatingScore": 2.81,
-    "AdjustedRating": "2.0655573912138937466079720195"
+    "AdjustedRating": "2.1230633380114050203407294239"
   },
   {
     "BID": 6404708,
@@ -117,7 +117,7 @@
     "BAR": -13.06,
     "StylePlus": "72",
     "RatingScore": 2.48,
-    "AdjustedRating": "2.1127906454651857370519684623"
+    "AdjustedRating": "2.2858310414545714336744717712"
   },
   {
     "BID": 5020701,
@@ -132,7 +132,7 @@
     "BAR": -9.78,
     "StylePlus": "71",
     "RatingScore": 2.74,
-    "AdjustedRating": "2.0567064546852794846306969129"
+    "AdjustedRating": "2.0608245887546468401486988848"
   },
   {
     "BID": 2101974,
@@ -147,7 +147,7 @@
     "BAR": -8.78,
     "StylePlus": "59",
     "RatingScore": 1.97,
-    "AdjustedRating": "2.056056408763803142575874358"
+    "AdjustedRating": "2.0558730426326435350863544422"
   },
   {
     "BID": 1204637,
@@ -162,7 +162,7 @@
     "BAR": -11.62,
     "StylePlus": "67",
     "RatingScore": 2.31,
-    "AdjustedRating": "2.0584859184864799467666807816"
+    "AdjustedRating": "2.0733967690714532274767000345"
   },
   {
     "BID": 4150527,
@@ -177,7 +177,7 @@
     "BAR": -10.89,
     "StylePlus": "61",
     "RatingScore": 2.14,
-    "AdjustedRating": "2.0563521899602030178743998113"
+    "AdjustedRating": "2.0580960677450047573739295909"
   },
   {
     "BID": 6010987,
@@ -192,22 +192,7 @@
     "BAR": -5.81,
     "StylePlus": "47",
     "RatingScore": 1.69,
-    "AdjustedRating": "2.0560718904743972071531078564"
-  },
-  {
-    "BID": 4980825,
-    "BeerName": "Smashed Crisp",
-    "BeerStyle": "Non-Alcoholic - Other",
-    "BreweryName": "Drynks Unlimited",
-    "Origin": "Sale, Greater Manchester England",
-    "BeerAbv": 0.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-450118_52603.jpeg",
-    "HallRating": -21.48,
-    "BAR": -4.97,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560421457662742144382046774"
+    "AdjustedRating": "2.055991235600257294895035378"
   },
   {
     "BID": 1670454,
@@ -222,7 +207,22 @@
     "BAR": -4.97,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560421457662742144382046774"
+    "AdjustedRating": "2.0557633506179578151194978362"
+  },
+  {
+    "BID": 4980825,
+    "BeerName": "Smashed Crisp",
+    "BeerStyle": "Non-Alcoholic - Other",
+    "BreweryName": "Drynks Unlimited",
+    "Origin": "Sale, Greater Manchester England",
+    "BeerAbv": 0.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-450118_52603.jpeg",
+    "HallRating": -21.48,
+    "BAR": -4.97,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0557633506179578151194978362"
   },
   {
     "BID": 3334472,
@@ -237,7 +237,7 @@
     "BAR": -6.94,
     "StylePlus": "74",
     "RatingScore": 3.01,
-    "AdjustedRating": "2.0561495332122192876662137612"
+    "AdjustedRating": "2.0565858947327396379367461075"
   },
   {
     "BID": 5903924,
@@ -252,7 +252,7 @@
     "BAR": -7.10,
     "StylePlus": "74",
     "RatingScore": 2.98,
-    "AdjustedRating": "2.0561545241704641736701092308"
+    "AdjustedRating": "2.0566240911925175370226032736"
   },
   {
     "BID": 6606547,
@@ -267,7 +267,7 @@
     "BAR": -2.96,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 5823853,
@@ -282,7 +282,7 @@
     "BAR": -4.46,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
     "BID": 3340834,
@@ -297,7 +297,7 @@
     "BAR": -13.11,
     "StylePlus": "83",
     "RatingScore": 3.38,
-    "AdjustedRating": "2.172178861430246189917936694"
+    "AdjustedRating": "2.6175858748764933081828797269"
   },
   {
     "BID": 4803474,
@@ -312,7 +312,7 @@
     "BAR": -13.48,
     "StylePlus": "81",
     "RatingScore": 3.11,
-    "AdjustedRating": "2.236059767733930900021522529"
+    "AdjustedRating": "2.7011742337450178110890100665"
   },
   {
     "BID": 1670995,
@@ -327,7 +327,7 @@
     "BAR": -7.02,
     "StylePlus": "52",
     "RatingScore": 1.79,
-    "AdjustedRating": "2.0560657202570874616429781842"
+    "AdjustedRating": "2.0559440021825126176510707953"
   },
   {
     "BID": 5229946,
@@ -342,7 +342,7 @@
     "BAR": -8.65,
     "StylePlus": "64",
     "RatingScore": 2.34,
-    "AdjustedRating": "2.0561533381770447763472208442"
+    "AdjustedRating": "2.0566144155995796520453041685"
   },
   {
     "BID": 5202461,
@@ -357,7 +357,7 @@
     "BAR": -12.16,
     "StylePlus": "77",
     "RatingScore": 2.98,
-    "AdjustedRating": "2.0701989717656256264282564246"
+    "AdjustedRating": "2.1542441382194573683935386063"
   },
   {
     "BID": 5419709,
@@ -372,6 +372,6 @@
     "BAR": -9.14,
     "StylePlus": "74",
     "RatingScore": 2.97,
-    "AdjustedRating": "2.0564210788225957429490049245"
+    "AdjustedRating": "2.0586604133372217361718674055"
   }
 ]

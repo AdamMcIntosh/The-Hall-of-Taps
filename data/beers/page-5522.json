@@ -12,7 +12,7 @@
     "BAR": -14.71,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
+    "AdjustedRating": "2.0558835824154401013744029633"
   },
   {
     "BID": 6222600,
@@ -27,7 +27,7 @@
     "BAR": -14.71,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
+    "AdjustedRating": "2.0558835824154401013744029633"
   },
   {
     "BID": 6610089,
@@ -42,67 +42,7 @@
     "BAR": -14.71,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560578409042331219656179707"
-  },
-  {
-    "BID": 3335659,
-    "BeerName": "Blackout Maple Syrup",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Manchester Bier",
-    "Origin": "Juiz de Fora, Minas Gerais Brazil",
-    "BeerAbv": 11.00,
-    "BeerIbu": 58.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3335659_10e62_sm.jpeg",
-    "HallRating": -79.49,
-    "BAR": -16.37,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
-  },
-  {
-    "BID": 6615591,
-    "BeerName": "Jungle Muffin",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Breakbeat Brewing",
-    "Origin": "Southampton, England",
-    "BeerAbv": 10.60,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6615591_d421c_sm.jpeg",
-    "HallRating": -79.49,
-    "BAR": -16.37,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
-  },
-  {
-    "BID": 6603058,
-    "BeerName": "Spumoni Truth (2026)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 17.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6603058_70cfc_sm.jpeg",
-    "HallRating": -79.49,
-    "BAR": -16.37,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
-  },
-  {
-    "BID": 6602456,
-    "BeerName": "Stealth Chocolate Cherry",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Callsign Brewing",
-    "Origin": "North Kansas City, MO United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 36.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-211418_21de6.jpeg",
-    "HallRating": -79.49,
-    "BAR": -16.37,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.0558835824154401013744029633"
   },
   {
     "BID": 6550505,
@@ -117,22 +57,52 @@
     "BAR": -16.37,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
-    "BID": 6426685,
-    "BeerName": "BBA Blueberry Pancakes (2025)",
+    "BID": 6615591,
+    "BeerName": "Jungle Muffin",
     "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Great Notion Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-232077_dbb50.jpeg",
+    "BreweryName": "Breakbeat Brewing",
+    "Origin": "Southampton, England",
+    "BeerAbv": 10.60,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6615591_d421c_sm.jpeg",
     "HallRating": -79.49,
     "BAR": -16.37,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
+  },
+  {
+    "BID": 6602456,
+    "BeerName": "Stealth Chocolate Cherry",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Callsign Brewing",
+    "Origin": "North Kansas City, MO United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 36.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-211418_21de6.jpeg",
+    "HallRating": -79.49,
+    "BAR": -16.37,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.055843503587024329382407985"
+  },
+  {
+    "BID": 6603058,
+    "BeerName": "Spumoni Truth (2026)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 17.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6603058_70cfc_sm.jpeg",
+    "HallRating": -79.49,
+    "BAR": -16.37,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
     "BID": 6601780,
@@ -147,22 +117,37 @@
     "BAR": -16.37,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560526091649554576752494294"
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
-    "BID": 6604500,
-    "BeerName": "Wonderwort",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Cervecería Nómada",
-    "Origin": "Ciudad de México, Mexico",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-309803_b1085.jpeg",
-    "HallRating": -80.29,
-    "BAR": -11.02,
+    "BID": 3335659,
+    "BeerName": "Blackout Maple Syrup",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Manchester Bier",
+    "Origin": "Juiz de Fora, Minas Gerais Brazil",
+    "BeerAbv": 11.00,
+    "BeerIbu": 58.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3335659_10e62_sm.jpeg",
+    "HallRating": -79.49,
+    "BAR": -16.37,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.055843503587024329382407985"
+  },
+  {
+    "BID": 6426685,
+    "BeerName": "BBA Blueberry Pancakes (2025)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Great Notion Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-232077_dbb50.jpeg",
+    "HallRating": -79.49,
+    "BAR": -16.37,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.055843503587024329382407985"
   },
   {
     "BID": 6612096,
@@ -177,7 +162,22 @@
     "BAR": -11.02,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
+  },
+  {
+    "BID": 6604500,
+    "BeerName": "Wonderwort",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Cervecería Nómada",
+    "Origin": "Ciudad de México, Mexico",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-309803_b1085.jpeg",
+    "HallRating": -80.29,
+    "BAR": -11.02,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 6608578,
@@ -192,37 +192,7 @@
     "BAR": -11.02,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
-  },
-  {
-    "BID": 6603927,
-    "BeerName": "Light Devourer -Dark Ages Series",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Seven Island Brewery",
-    "Origin": "Corfu, Πελοπόννησος, Δυτική Ελλάδα και Ιόνιο Greece",
-    "BeerAbv": 11.00,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6603927_54819_sm.jpeg",
-    "HallRating": -80.90,
-    "BAR": -17.78,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560473774523025562471055832"
-  },
-  {
-    "BID": 4980643,
-    "BeerName": "Banana Knight",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Die Bierkanzlei",
-    "Origin": "Halle, Sachsen-Anhalt Germany",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -80.90,
-    "BAR": -17.78,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560473774523025562471055832"
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 4446742,
@@ -237,7 +207,37 @@
     "BAR": -17.78,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560473774523025562471055832"
+    "AdjustedRating": "2.0558034263212273622239117297"
+  },
+  {
+    "BID": 4980643,
+    "BeerName": "Banana Knight",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Die Bierkanzlei",
+    "Origin": "Halle, Sachsen-Anhalt Germany",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -80.90,
+    "BAR": -17.78,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558034263212273622239117297"
+  },
+  {
+    "BID": 6603927,
+    "BeerName": "Light Devourer -Dark Ages Series",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Seven Island Brewery",
+    "Origin": "Corfu, Πελοπόννησος, Δυτική Ελλάδα και Ιόνιο Greece",
+    "BeerAbv": 11.00,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6603927_54819_sm.jpeg",
+    "HallRating": -80.90,
+    "BAR": -17.78,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0558034263212273622239117297"
   },
   {
     "BID": 6607136,
@@ -252,22 +252,7 @@
     "BAR": -17.78,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560473774523025562471055832"
-  },
-  {
-    "BID": 3342715,
-    "BeerName": "Coffee Almond Boi",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Alpha Acid Brewing Co.",
-    "Origin": "Belmont, CA United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-148969_c3abe.jpeg",
-    "HallRating": -82.12,
-    "BAR": -19.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560421457662742144382046774"
+    "AdjustedRating": "2.0558034263212273622239117297"
   },
   {
     "BID": 6601659,
@@ -282,7 +267,7 @@
     "BAR": -19.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560421457662742144382046774"
+    "AdjustedRating": "2.0557633506179578151194978362"
   },
   {
     "BID": 6604704,
@@ -297,7 +282,7 @@
     "BAR": -19.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560421457662742144382046774"
+    "AdjustedRating": "2.0557633506179578151194978362"
   },
   {
     "BID": 6606651,
@@ -312,37 +297,22 @@
     "BAR": -19.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560421457662742144382046774"
+    "AdjustedRating": "2.0557633506179578151194978362"
   },
   {
-    "BID": 4631271,
-    "BeerName": "Triple Rhyme Javelin",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Lyric Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 10.50,
+    "BID": 3342715,
+    "BeerName": "Coffee Almond Boi",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Alpha Acid Brewing Co.",
+    "Origin": "Belmont, CA United States",
+    "BeerAbv": 12.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4631271_71bf8_sm.jpeg",
-    "HallRating": -83.17,
-    "BAR": -13.90,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-148969_c3abe.jpeg",
+    "HallRating": -82.12,
+    "BAR": -19.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560630726701357523632616191"
-  },
-  {
-    "BID": 6600542,
-    "BeerName": "Fermented Herring with Peach",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
-    "HallRating": -83.17,
-    "BAR": -13.90,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560630726701357523632616191"
+    "AdjustedRating": "2.0557633506179578151194978362"
   },
   {
     "BID": 6402604,
@@ -357,21 +327,51 @@
     "BAR": -13.90,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560630726701357523632616191"
+    "AdjustedRating": "2.05592366280656607010566538"
   },
   {
-    "BID": 6602444,
-    "BeerName": "Stealth Vanilla And Coconut",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Callsign Brewing",
-    "Origin": "North Kansas City, MO United States",
+    "BID": 4631271,
+    "BeerName": "Triple Rhyme Javelin",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Lyric Brewing Company",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4631271_71bf8_sm.jpeg",
+    "HallRating": -83.17,
+    "BAR": -13.90,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.05592366280656607010566538"
+  },
+  {
+    "BID": 6600542,
+    "BeerName": "Fermented Herring with Peach",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
     "BeerAbv": 10.00,
-    "BeerIbu": 36.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-211418_21de6.jpeg",
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
+    "HallRating": -83.17,
+    "BAR": -13.90,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.05592366280656607010566538"
+  },
+  {
+    "BID": 6505728,
+    "BeerName": "Imperial Stout Hedekaffe",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Vemb Bryghus",
+    "Origin": "Denmark",
+    "BeerAbv": 11.00,
+    "BeerIbu": 89.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
     "HallRating": -83.20,
     "BAR": -20.08,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560369141068702290076335878"
+    "AdjustedRating": "2.0557232764771243104154077078"
   }
 ]

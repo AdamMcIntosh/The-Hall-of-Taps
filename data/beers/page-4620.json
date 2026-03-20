@@ -1,20 +1,5 @@
 [
   {
-    "BID": 6414801,
-    "BeerName": "CHOCOLATE PASTE",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "BAD Brew",
-    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6414801_ab4f4_sm.jpeg",
-    "HallRating": -12.48,
-    "BAR": -4.76,
-    "StylePlus": "85",
-    "RatingScore": 3.44,
-    "AdjustedRating": "2.0563339810106293663595056251"
-  },
-  {
     "BID": 3334123,
     "BeerName": "Wild Panther Blackberry",
     "BeerStyle": "Cider - Other Fruit",
@@ -27,22 +12,7 @@
     "BAR": -5.93,
     "StylePlus": "81",
     "RatingScore": 2.96,
-    "AdjustedRating": "2.0572807620707881843501595885"
-  },
-  {
-    "BID": 3223015,
-    "BeerName": "Sidon",
-    "BeerStyle": "Wild Ale - Other",
-    "BreweryName": "Brouwerij De Hemel",
-    "Origin": "Nijmegen, Gelderland Netherlands",
-    "BeerAbv": 6.50,
-    "BeerIbu": 250.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3223015_3eb64_sm.jpeg",
-    "HallRating": -12.48,
-    "BAR": -5.99,
-    "StylePlus": "87",
-    "RatingScore": 3.41,
-    "AdjustedRating": "2.0581101611972153056557751918"
+    "AdjustedRating": "2.0651735801277720947289185694"
   },
   {
     "BID": 815210,
@@ -57,7 +27,37 @@
     "BAR": -6.28,
     "StylePlus": "82",
     "RatingScore": 3.12,
-    "AdjustedRating": "2.0590347926939434232295652703"
+    "AdjustedRating": "2.0782831903480136685565927877"
+  },
+  {
+    "BID": 6414801,
+    "BeerName": "CHOCOLATE PASTE",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "BAD Brew",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6414801_ab4f4_sm.jpeg",
+    "HallRating": -12.48,
+    "BAR": -4.76,
+    "StylePlus": "85",
+    "RatingScore": 3.44,
+    "AdjustedRating": "2.0579970865053250520823192695"
+  },
+  {
+    "BID": 3223015,
+    "BeerName": "Sidon",
+    "BeerStyle": "Wild Ale - Other",
+    "BreweryName": "Brouwerij De Hemel",
+    "Origin": "Nijmegen, Gelderland Netherlands",
+    "BeerAbv": 6.50,
+    "BeerIbu": 250.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3223015_3eb64_sm.jpeg",
+    "HallRating": -12.48,
+    "BAR": -5.99,
+    "StylePlus": "87",
+    "RatingScore": 3.41,
+    "AdjustedRating": "2.0714554706143140769868347501"
   },
   {
     "BID": 1601369,
@@ -72,22 +72,7 @@
     "BAR": -6.14,
     "StylePlus": "82",
     "RatingScore": 3.05,
-    "AdjustedRating": "2.0581006557911577236598186851"
-  },
-  {
-    "BID": 6300155,
-    "BeerName": "Madfish Pink",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Berentsens Brygghus",
-    "Origin": "Egersund, Rogaland Norway",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-5952_ca0bf.jpeg",
-    "HallRating": -12.50,
-    "BAR": -4.47,
-    "StylePlus": "77",
-    "RatingScore": 2.82,
-    "AdjustedRating": "2.0561753500781094957739455218"
+    "AdjustedRating": "2.071329807828908214786231258"
   },
   {
     "BID": 5430166,
@@ -102,7 +87,7 @@
     "BAR": -6.62,
     "StylePlus": "75",
     "RatingScore": 2.48,
-    "AdjustedRating": "2.058615581163115400959145268"
+    "AdjustedRating": "2.0747391168850534006821867253"
   },
   {
     "BID": 4100884,
@@ -117,7 +102,22 @@
     "BAR": -6.41,
     "StylePlus": "88",
     "RatingScore": 3.65,
-    "AdjustedRating": "2.0618990879091347007073498466"
+    "AdjustedRating": "2.0995827411860645944356995202"
+  },
+  {
+    "BID": 6300155,
+    "BeerName": "Madfish Pink",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Berentsens Brygghus",
+    "Origin": "Egersund, Rogaland Norway",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-5952_ca0bf.jpeg",
+    "HallRating": -12.50,
+    "BAR": -4.47,
+    "StylePlus": "77",
+    "RatingScore": 2.82,
+    "AdjustedRating": "2.0567833796287278181428599256"
   },
   {
     "BID": 1676329,
@@ -132,7 +132,7 @@
     "BAR": -7.13,
     "StylePlus": "77",
     "RatingScore": 2.65,
-    "AdjustedRating": "2.0701843189979828492502757435"
+    "AdjustedRating": "2.1493680602166088714316235805"
   },
   {
     "BID": 6301335,
@@ -147,7 +147,7 @@
     "BAR": -6.07,
     "StylePlus": "82",
     "RatingScore": 3.17,
-    "AdjustedRating": "2.0579798538437894533621567796"
+    "AdjustedRating": "2.0704474280215550423402617398"
   },
   {
     "BID": 1675508,
@@ -162,7 +162,7 @@
     "BAR": -3.98,
     "StylePlus": "77",
     "RatingScore": 2.85,
-    "AdjustedRating": "2.0561345015062999979644594622"
+    "AdjustedRating": "2.0564707855402903634414888434"
   },
   {
     "BID": 800133,
@@ -177,7 +177,7 @@
     "BAR": -6.30,
     "StylePlus": "82",
     "RatingScore": 2.99,
-    "AdjustedRating": "2.0586435115600995759647373189"
+    "AdjustedRating": "2.0753436769142638915409585641"
   },
   {
     "BID": 1673445,
@@ -192,7 +192,7 @@
     "BAR": -6.41,
     "StylePlus": "76",
     "RatingScore": 2.62,
-    "AdjustedRating": "2.058057279171135808667473014"
+    "AdjustedRating": "2.0708590917030567685589519651"
   },
   {
     "BID": 4002305,
@@ -207,7 +207,7 @@
     "BAR": -4.81,
     "StylePlus": "85",
     "RatingScore": 3.44,
-    "AdjustedRating": "2.0563445415999898235660768575"
+    "AdjustedRating": "2.0580778046881084027723697531"
   },
   {
     "BID": 2201021,
@@ -222,37 +222,7 @@
     "BAR": -7.24,
     "StylePlus": "84",
     "RatingScore": 3.12,
-    "AdjustedRating": "2.0897602417817990966816726913"
-  },
-  {
-    "BID": 4815275,
-    "BeerName": "Schutters Premium Pilsener",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Brouwerij Martens",
-    "Origin": "Bocholt, Vlaams Gewest Belgium",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-114889_54592_sm.jpeg",
-    "HallRating": -12.54,
-    "BAR": -7.34,
-    "StylePlus": "76",
-    "RatingScore": 2.59,
-    "AdjustedRating": "2.0787412184587494852670641583"
-  },
-  {
-    "BID": 3805037,
-    "BeerName": "Nacka Kultur Hallon",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Nacka Bryggeri",
-    "Origin": "Saltsjöbaden, Stockholms län Sweden",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3805037_06e99_sm.jpeg",
-    "HallRating": -12.54,
-    "BAR": -5.98,
-    "StylePlus": "82",
-    "RatingScore": 3.16,
-    "AdjustedRating": "2.0576043870374276108992130266"
+    "AdjustedRating": "2.2691790626169390046151927155"
   },
   {
     "BID": 6043277,
@@ -267,7 +237,22 @@
     "BAR": -6.42,
     "StylePlus": "88",
     "RatingScore": 3.55,
-    "AdjustedRating": "2.0613908427250045639870991298"
+    "AdjustedRating": "2.0958057041999582471389800915"
+  },
+  {
+    "BID": 4815275,
+    "BeerName": "Schutters Premium Pilsener",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Brouwerij Martens",
+    "Origin": "Bocholt, Vlaams Gewest Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-114889_54592_sm.jpeg",
+    "HallRating": -12.54,
+    "BAR": -7.34,
+    "StylePlus": "76",
+    "RatingScore": 2.59,
+    "AdjustedRating": "2.1914241603353418915378569557"
   },
   {
     "BID": 1413026,
@@ -282,22 +267,22 @@
     "BAR": -6.38,
     "StylePlus": "86",
     "RatingScore": 3.42,
-    "AdjustedRating": "2.0605188466975927846948687838"
+    "AdjustedRating": "2.0893439161530852925511679221"
   },
   {
-    "BID": 1830141,
-    "BeerName": "Tkackie",
-    "BeerStyle": "Märzen",
-    "BreweryName": "Browary Łódzkie",
-    "Origin": "Łódź, Łódź Voivodeship Poland",
-    "BeerAbv": 5.60,
+    "BID": 3805037,
+    "BeerName": "Nacka Kultur Hallon",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Nacka Bryggeri",
+    "Origin": "Saltsjöbaden, Stockholms län Sweden",
+    "BeerAbv": 4.70,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-32178_2671a.jpeg",
-    "HallRating": -12.56,
-    "BAR": -5.11,
-    "StylePlus": "78",
-    "RatingScore": 2.80,
-    "AdjustedRating": "2.0562997347884153088869386042"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3805037_06e99_sm.jpeg",
+    "HallRating": -12.54,
+    "BAR": -5.98,
+    "StylePlus": "82",
+    "RatingScore": 3.16,
+    "AdjustedRating": "2.0676274957555178268251273345"
   },
   {
     "BID": 2105616,
@@ -312,22 +297,22 @@
     "BAR": -7.22,
     "StylePlus": "81",
     "RatingScore": 2.79,
-    "AdjustedRating": "2.0768969251522396473331174081"
+    "AdjustedRating": "2.1902142823454429572976418101"
   },
   {
-    "BID": 1022777,
-    "BeerName": "Кроп-Стаут",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Krop-Pivo (Кроп-Пиво)",
-    "Origin": "Kropotkin, Краснодарский край Russia",
-    "BeerAbv": 4.90,
+    "BID": 1830141,
+    "BeerName": "Tkackie",
+    "BeerStyle": "Märzen",
+    "BreweryName": "Browary Łódzkie",
+    "Origin": "Łódź, Łódź Voivodeship Poland",
+    "BeerAbv": 5.60,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1022777_287cd_sm.jpeg",
-    "HallRating": -12.57,
-    "BAR": -6.01,
-    "StylePlus": "80",
-    "RatingScore": 2.93,
-    "AdjustedRating": "2.0573230963463253622801734981"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-32178_2671a.jpeg",
+    "HallRating": -12.56,
+    "BAR": -5.11,
+    "StylePlus": "78",
+    "RatingScore": 2.80,
+    "AdjustedRating": "2.0577338020387518481052058206"
   },
   {
     "BID": 1028930,
@@ -342,22 +327,37 @@
     "BAR": -6.98,
     "StylePlus": "87",
     "RatingScore": 3.49,
-    "AdjustedRating": "2.076098539329676781565358772"
+    "AdjustedRating": "2.1963910147221782491689092924"
   },
   {
-    "BID": 3402681,
-    "BeerName": "Zwönitzer Rauchbier",
-    "BeerStyle": "Rauchbier",
-    "BreweryName": "Brauerei Zwönitz",
-    "Origin": "Zwönitz, Sachsen Germany",
-    "BeerAbv": 5.00,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-770108_da858_sm.jpeg",
+    "BID": 1022777,
+    "BeerName": "Кроп-Стаут",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Krop-Pivo (Кроп-Пиво)",
+    "Origin": "Kropotkin, Краснодарский край Russia",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1022777_287cd_sm.jpeg",
+    "HallRating": -12.57,
+    "BAR": -6.01,
+    "StylePlus": "80",
+    "RatingScore": 2.93,
+    "AdjustedRating": "2.0654892832896158000308594353"
+  },
+  {
+    "BID": 2406040,
+    "BeerName": "Imperial Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Brasserie des Cimes",
+    "Origin": "Aix-les-Bains, Auvergne-Rhône-Alpes France",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2406040_66312_sm.jpeg",
     "HallRating": -12.58,
-    "BAR": -7.41,
-    "StylePlus": "85",
-    "RatingScore": 3.01,
-    "AdjustedRating": "2.1022728922971127490387129892"
+    "BAR": -6.03,
+    "StylePlus": "87",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.0723415794547487756912042571"
   },
   {
     "BID": 4447243,
@@ -372,6 +372,6 @@
     "BAR": -5.98,
     "StylePlus": "81",
     "RatingScore": 2.97,
-    "AdjustedRating": "2.0572986405667905080886575827"
+    "AdjustedRating": "2.065309060660452010113292031"
   }
 ]

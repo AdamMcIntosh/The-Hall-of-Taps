@@ -12,7 +12,7 @@
     "BAR": -5.52,
     "StylePlus": "89",
     "RatingScore": 3.44,
-    "AdjustedRating": "2.0875893512405942120523392002"
+    "AdjustedRating": "2.2656919242286376044337827777"
   },
   {
     "BID": 2212294,
@@ -27,37 +27,7 @@
     "BAR": -4.60,
     "StylePlus": "83",
     "RatingScore": 2.99,
-    "AdjustedRating": "2.05729203873951715374841169"
-  },
-  {
-    "BID": 411334,
-    "BeerName": "Wallburg Pilsner",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Eschenbacher Privatbrauerei",
-    "Origin": "Eltmann, Bayern Germany",
-    "BeerAbv": 4.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-411334_f85f5_sm.jpeg",
-    "HallRating": -9.70,
-    "BAR": -4.93,
-    "StylePlus": "79",
-    "RatingScore": 2.72,
-    "AdjustedRating": "2.0582175814923222864215818068"
-  },
-  {
-    "BID": 5203393,
-    "BeerName": "Bernardyn - Imperial Milk Stout",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Złoty Pies",
-    "Origin": "Wrocław, Lower Silesian Voivodeship Poland",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5203393_dd953_sm.jpeg",
-    "HallRating": -9.70,
-    "BAR": -3.46,
-    "StylePlus": "88",
-    "RatingScore": 3.57,
-    "AdjustedRating": "2.0562611846823581494871984063"
+    "AdjustedRating": "2.0652610737659028166566922141"
   },
   {
     "BID": 500541,
@@ -72,37 +42,22 @@
     "BAR": -4.21,
     "StylePlus": "81",
     "RatingScore": 2.91,
-    "AdjustedRating": "2.0565161810931102011750044508"
+    "AdjustedRating": "2.059384302666588980170521859"
   },
   {
-    "BID": 6009141,
-    "BeerName": "Belgian Wheat",
-    "BeerStyle": "Wheat Beer - Wheat Wine",
-    "BreweryName": "Bisaya Brew",
-    "Origin": "Philippines",
-    "BeerAbv": 5.00,
+    "BID": 411334,
+    "BeerName": "Wallburg Pilsner",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Eschenbacher Privatbrauerei",
+    "Origin": "Eltmann, Bayern Germany",
+    "BeerAbv": 4.90,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-411334_f85f5_sm.jpeg",
     "HallRating": -9.70,
-    "BAR": -3.46,
-    "StylePlus": "85",
-    "RatingScore": 3.23,
-    "AdjustedRating": "2.0562213919910848088093487382"
-  },
-  {
-    "BID": 5820473,
-    "BeerName": "Gúrkutíð",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Gæðingur Brugghús",
-    "Origin": "Kópavogur, Kópavogsbær Iceland",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-17986_04a34.jpeg",
-    "HallRating": -9.70,
-    "BAR": -4.44,
-    "StylePlus": "84",
-    "RatingScore": 3.19,
-    "AdjustedRating": "2.0570699311880772780315915522"
+    "BAR": -4.93,
+    "StylePlus": "79",
+    "RatingScore": 2.72,
+    "AdjustedRating": "2.0720891291359856917251745724"
   },
   {
     "BID": 5826853,
@@ -117,22 +72,52 @@
     "BAR": -3.84,
     "StylePlus": "84",
     "RatingScore": 3.22,
-    "AdjustedRating": "2.0563593716457551057789174833"
+    "AdjustedRating": "2.0581906147947764824942101473"
   },
   {
-    "BID": 7432,
-    "BeerName": "Wag's Wheat",
-    "BeerStyle": "Wheat Beer - American Pale Wheat",
-    "BreweryName": "Granite City Brewery",
-    "Origin": "Ellsworth, IA United States",
-    "BeerAbv": 4.50,
+    "BID": 5820473,
+    "BeerName": "Gúrkutíð",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Gæðingur Brugghús",
+    "Origin": "Kópavogur, Kópavogsbær Iceland",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WagssWheat_7432.jpeg",
-    "HallRating": -9.71,
-    "BAR": -4.68,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-17986_04a34.jpeg",
+    "HallRating": -9.70,
+    "BAR": -4.44,
     "StylePlus": "84",
-    "RatingScore": 2.97,
-    "AdjustedRating": "2.0575166085140545923863336111"
+    "RatingScore": 3.19,
+    "AdjustedRating": "2.0635948318872017353579175705"
+  },
+  {
+    "BID": 6009141,
+    "BeerName": "Belgian Wheat",
+    "BeerStyle": "Wheat Beer - Wheat Wine",
+    "BreweryName": "Bisaya Brew",
+    "Origin": "Philippines",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -9.70,
+    "BAR": -3.46,
+    "StylePlus": "85",
+    "RatingScore": 3.23,
+    "AdjustedRating": "2.0571358960573476702508960573"
+  },
+  {
+    "BID": 5203393,
+    "BeerName": "Bernardyn - Imperial Milk Stout",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Złoty Pies",
+    "Origin": "Wrocław, Lower Silesian Voivodeship Poland",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5203393_dd953_sm.jpeg",
+    "HallRating": -9.70,
+    "BAR": -3.46,
+    "StylePlus": "88",
+    "RatingScore": 3.57,
+    "AdjustedRating": "2.0574405555555555555555555556"
   },
   {
     "BID": 5809109,
@@ -147,7 +132,7 @@
     "BAR": -2.63,
     "StylePlus": "79",
     "RatingScore": 2.88,
-    "AdjustedRating": "2.0561112539414357105780093841"
+    "AdjustedRating": "2.0562927774204237568953082666"
   },
   {
     "BID": 3349433,
@@ -162,7 +147,7 @@
     "BAR": -2.57,
     "StylePlus": "86",
     "RatingScore": 3.48,
-    "AdjustedRating": "2.0561274780192517614369355959"
+    "AdjustedRating": "2.0564170667810221823710576586"
   },
   {
     "BID": 5500368,
@@ -177,7 +162,7 @@
     "BAR": -2.43,
     "StylePlus": "81",
     "RatingScore": 2.98,
-    "AdjustedRating": "2.0561075092531571166485581462"
+    "AdjustedRating": "2.0562641005847953216374269006"
   },
   {
     "BID": 3237486,
@@ -192,7 +177,22 @@
     "BAR": -4.50,
     "StylePlus": "84",
     "RatingScore": 3.10,
-    "AdjustedRating": "2.057113641663637357357662712"
+    "AdjustedRating": "2.0639217531638221293393707187"
+  },
+  {
+    "BID": 7432,
+    "BeerName": "Wag's Wheat",
+    "BeerStyle": "Wheat Beer - American Pale Wheat",
+    "BreweryName": "Granite City Brewery",
+    "Origin": "Ellsworth, IA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-WagssWheat_7432.jpeg",
+    "HallRating": -9.71,
+    "BAR": -4.68,
+    "StylePlus": "84",
+    "RatingScore": 2.97,
+    "AdjustedRating": "2.0669473936077985628142639721"
   },
   {
     "BID": 833554,
@@ -207,37 +207,7 @@
     "BAR": -4.11,
     "StylePlus": "78",
     "RatingScore": 2.72,
-    "AdjustedRating": "2.0563525047539107210988172453"
-  },
-  {
-    "BID": 2414246,
-    "BeerName": "Chilibock",
-    "BeerStyle": "Bock - Single / Traditional",
-    "BreweryName": "Hopfengarten Bamberg",
-    "Origin": "Bamberg, Bayern Germany",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344210_b5f47.jpeg",
-    "HallRating": -9.72,
-    "BAR": -4.27,
-    "StylePlus": "79",
-    "RatingScore": 2.75,
-    "AdjustedRating": "2.0564775344824955367814981155"
-  },
-  {
-    "BID": 6410910,
-    "BeerName": "Sion Kölsch",
-    "BeerStyle": "Kölsch",
-    "BreweryName": "Radeberger Gruppe",
-    "Origin": "Frankfurt am Main, Hessen Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Kolsch_1643.jpeg",
-    "HallRating": -9.72,
-    "BAR": -5.92,
-    "StylePlus": "89",
-    "RatingScore": 3.17,
-    "AdjustedRating": "2.1756808187071276064143914959"
+    "AdjustedRating": "2.058135791949309024470835196"
   },
   {
     "BID": 5810302,
@@ -252,7 +222,7 @@
     "BAR": -3.92,
     "StylePlus": "80",
     "RatingScore": 2.74,
-    "AdjustedRating": "2.0562701597158978168293911442"
+    "AdjustedRating": "2.057507799287896180710936436"
   },
   {
     "BID": 6201799,
@@ -267,67 +237,37 @@
     "BAR": -5.22,
     "StylePlus": "86",
     "RatingScore": 3.31,
-    "AdjustedRating": "2.0656998425464866120577332916"
+    "AdjustedRating": "2.1261806902645093599867469214"
   },
   {
-    "BID": 6032883,
-    "BeerName": "Imperial Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Hudson Brewing Company",
-    "Origin": "Hudson, NY United States",
-    "BeerAbv": 11.00,
+    "BID": 2414246,
+    "BeerName": "Chilibock",
+    "BeerStyle": "Bock - Single / Traditional",
+    "BreweryName": "Hopfengarten Bamberg",
+    "Origin": "Bamberg, Bayern Germany",
+    "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-250715_f6bb1.jpeg",
-    "HallRating": -9.73,
-    "BAR": -2.74,
-    "StylePlus": "86",
-    "RatingScore": 3.49,
-    "AdjustedRating": "2.0561387287827666753179340773"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344210_b5f47.jpeg",
+    "HallRating": -9.72,
+    "BAR": -4.27,
+    "StylePlus": "79",
+    "RatingScore": 2.75,
+    "AdjustedRating": "2.0590879653679653679653679654"
   },
   {
-    "BID": 4939984,
-    "BeerName": "Rouge",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Bière De L’Arena",
-    "Origin": "France",
-    "BeerAbv": 4.30,
+    "BID": 6410910,
+    "BeerName": "Sion Kölsch",
+    "BeerStyle": "Kölsch",
+    "BreweryName": "Radeberger Gruppe",
+    "Origin": "Frankfurt am Main, Hessen Germany",
+    "BeerAbv": 4.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-520995_8e618.jpeg",
-    "HallRating": -9.73,
-    "BAR": -3.21,
-    "StylePlus": "74",
-    "RatingScore": 2.59,
-    "AdjustedRating": "2.0561247547688291465341546635"
-  },
-  {
-    "BID": 5033025,
-    "BeerName": "Tomislav",
-    "BeerStyle": "Porter - Baltic",
-    "BreweryName": "Zagrebačka Pivovara",
-    "Origin": "Zagreb, Grad Zagreb Croatia",
-    "BeerAbv": 7.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22039_2ef99_sm.jpeg",
-    "HallRating": -9.73,
-    "BAR": -5.76,
-    "StylePlus": "86",
-    "RatingScore": 3.28,
-    "AdjustedRating": "2.1218217016833735856507511492"
-  },
-  {
-    "BID": 3024040,
-    "BeerName": "Legends of Fleisbach - LoF Cherry",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Fleisbacher Brauerei",
-    "Origin": "Fleisbach, Hessen Germany",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2944721_0d79c_sm.jpeg",
-    "HallRating": -9.73,
-    "BAR": -4.11,
-    "StylePlus": "77",
-    "RatingScore": 2.69,
-    "AdjustedRating": "2.0563339249133909539967340377"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Kolsch_1643.jpeg",
+    "HallRating": -9.72,
+    "BAR": -5.92,
+    "StylePlus": "89",
+    "RatingScore": 3.17,
+    "AdjustedRating": "2.5903192844894936028165870189"
   },
   {
     "BID": 1668824,
@@ -342,36 +282,96 @@
     "BAR": -3.46,
     "StylePlus": "86",
     "RatingScore": 3.44,
-    "AdjustedRating": "2.0562424491496962110341037462"
+    "AdjustedRating": "2.0572971337294243693386578358"
   },
   {
-    "BID": 6407406,
-    "BeerName": "Double IPA",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Lule Brew",
-    "Origin": "Luleå, Norrbotten County Sweden",
-    "BeerAbv": 8.30,
+    "BID": 3024040,
+    "BeerName": "Legends of Fleisbach - LoF Cherry",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Fleisbacher Brauerei",
+    "Origin": "Fleisbach, Hessen Germany",
+    "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407406_1a742_sm.jpeg",
-    "HallRating": -9.74,
-    "BAR": -4.50,
-    "StylePlus": "90",
-    "RatingScore": 3.61,
-    "AdjustedRating": "2.0575693112131927690934928451"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2944721_0d79c_sm.jpeg",
+    "HallRating": -9.73,
+    "BAR": -4.11,
+    "StylePlus": "77",
+    "RatingScore": 2.69,
+    "AdjustedRating": "2.0579939422684420254640878608"
   },
   {
-    "BID": 2427388,
-    "BeerName": "Juellingekvindens Bryg",
-    "BeerStyle": "Pale Ale - Other",
-    "BreweryName": "Bryggeriet Skands",
-    "Origin": "Brøndby, Region Hovedstaden Denmark",
-    "BeerAbv": 6.50,
+    "BID": 5033025,
+    "BeerName": "Tomislav",
+    "BeerStyle": "Porter - Baltic",
+    "BreweryName": "Zagrebačka Pivovara",
+    "Origin": "Zagreb, Grad Zagreb Croatia",
+    "BeerAbv": 7.30,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2427388_98f6f_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-22039_2ef99_sm.jpeg",
+    "HallRating": -9.73,
+    "BAR": -5.76,
+    "StylePlus": "86",
+    "RatingScore": 3.28,
+    "AdjustedRating": "2.4270371808250448393934452959"
+  },
+  {
+    "BID": 6032883,
+    "BeerName": "Imperial Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Hudson Brewing Company",
+    "Origin": "Hudson, NY United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-250715_f6bb1.jpeg",
+    "HallRating": -9.73,
+    "BAR": -2.74,
+    "StylePlus": "86",
+    "RatingScore": 3.49,
+    "AdjustedRating": "2.056503232823311568073287204"
+  },
+  {
+    "BID": 4939984,
+    "BeerName": "Rouge",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Bière De L’Arena",
+    "Origin": "France",
+    "BeerAbv": 4.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-520995_8e618.jpeg",
+    "HallRating": -9.73,
+    "BAR": -3.21,
+    "StylePlus": "74",
+    "RatingScore": 2.59,
+    "AdjustedRating": "2.0563961098986749805144193297"
+  },
+  {
+    "BID": 5813517,
+    "BeerName": "Brown Ale Alkoholfrei",
+    "BeerStyle": "Brown Ale - Other",
+    "BreweryName": "Brauhaus Weimar",
+    "Origin": "Weimar, Thüringen Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-436036_4a3f2.jpeg",
     "HallRating": -9.74,
-    "BAR": -4.68,
-    "StylePlus": "82",
-    "RatingScore": 2.86,
-    "AdjustedRating": "2.0573013520365255966279374065"
+    "BAR": -2.74,
+    "StylePlus": "78",
+    "RatingScore": 2.80,
+    "AdjustedRating": "2.0563014980996004288081083715"
+  },
+  {
+    "BID": 6209898,
+    "BeerName": "Děd Imperial Stout 23",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Pivovar Prokopák",
+    "Origin": "305, Hlavní město Praha Czech Republic",
+    "BeerAbv": 10.15,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-457917_4c9f4.jpeg",
+    "HallRating": -9.74,
+    "BAR": -3.19,
+    "StylePlus": "87",
+    "RatingScore": 3.52,
+    "AdjustedRating": "2.0569112484654806212124164539"
   }
 ]

@@ -12,7 +12,7 @@
     "BAR": -8.65,
     "StylePlus": "57",
     "RatingScore": 1.90,
-    "AdjustedRating": "2.0560470719846139756387947614"
+    "AdjustedRating": "2.0558014977716365334838370667"
   },
   {
     "BID": 4209621,
@@ -27,7 +27,7 @@
     "BAR": -10.23,
     "StylePlus": "65",
     "RatingScore": 2.32,
-    "AdjustedRating": "2.0563764745276760364692814677"
+    "AdjustedRating": "2.0583085558519893283841781696"
   },
   {
     "BID": 5028625,
@@ -42,7 +42,7 @@
     "BAR": -12.70,
     "StylePlus": "70",
     "RatingScore": 2.47,
-    "AdjustedRating": "2.0705204835151881294619504756"
+    "AdjustedRating": "2.1458420625419898613571123191"
   },
   {
     "BID": 6606842,
@@ -57,22 +57,7 @@
     "BAR": -2.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560735362818167244709193294"
-  },
-  {
-    "BID": 1669212,
-    "BeerName": "Burger Mocne",
-    "BeerStyle": "Lager - Strong",
-    "BreweryName": "Browar Głubczyce",
-    "Origin": "Głubczyce, Województwo opolskie Poland",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-40557_a7216.jpeg",
-    "HallRating": -21.95,
-    "BAR": -3.01,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0560038282773142010449972705"
   },
   {
     "BID": 5405068,
@@ -87,7 +72,22 @@
     "BAR": -3.01,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
+  },
+  {
+    "BID": 1669212,
+    "BeerName": "Burger Mocne",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Browar Głubczyce",
+    "Origin": "Głubczyce, Województwo opolskie Poland",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-40557_a7216.jpeg",
+    "HallRating": -21.95,
+    "BAR": -3.01,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 3337637,
@@ -102,7 +102,7 @@
     "BAR": -4.84,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560473774523025562471055832"
+    "AdjustedRating": "2.0558034263212273622239117297"
   },
   {
     "BID": 6504323,
@@ -117,22 +117,7 @@
     "BAR": -3.04,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
-  },
-  {
-    "BID": 1007066,
-    "BeerName": "Budweiser (3.5%)",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Anheuser-Busch",
-    "Origin": "St. Louis, MO United States",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-161245_8915b_sm.jpeg",
-    "HallRating": -22.17,
-    "BAR": -12.32,
-    "StylePlus": "67",
-    "RatingScore": 2.30,
-    "AdjustedRating": "2.0595597565015852630734037003"
+    "AdjustedRating": "2.0559637447604936346090109762"
   },
   {
     "BID": 5801287,
@@ -147,7 +132,22 @@
     "BAR": -7.53,
     "StylePlus": "48",
     "RatingScore": 1.72,
-    "AdjustedRating": "2.0560540708350083709474691242"
+    "AdjustedRating": "2.0558548146127618119824646858"
+  },
+  {
+    "BID": 1007066,
+    "BeerName": "Budweiser (3.5%)",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Anheuser-Busch",
+    "Origin": "St. Louis, MO United States",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-161245_8915b_sm.jpeg",
+    "HallRating": -22.17,
+    "BAR": -12.32,
+    "StylePlus": "67",
+    "RatingScore": 2.30,
+    "AdjustedRating": "2.0804066693580944691158659669"
   },
   {
     "BID": 6091,
@@ -162,7 +162,7 @@
     "BAR": -12.00,
     "StylePlus": "66",
     "RatingScore": 2.26,
-    "AdjustedRating": "2.0578014408332471254942232337"
+    "AdjustedRating": "2.0685441231602841033902028264"
   },
   {
     "BID": 2803613,
@@ -177,7 +177,7 @@
     "BAR": -13.38,
     "StylePlus": "79",
     "RatingScore": 3.06,
-    "AdjustedRating": "2.1363386155823541393042513292"
+    "AdjustedRating": "2.45731668570625965635095276"
   },
   {
     "BID": 4981844,
@@ -192,133 +192,13 @@
     "BAR": -10.31,
     "StylePlus": "57",
     "RatingScore": 2.02,
-    "AdjustedRating": "2.0560481344952234723500312673"
+    "AdjustedRating": "2.0558110013351134846461949266"
   },
   {
-    "BID": 3345959,
-    "BeerName": "Loaf",
-    "BeerStyle": "Kvass",
-    "BreweryName": "Brewmented",
-    "Origin": "Longmont, CO United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 8.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-392545_09774.jpeg",
-    "HallRating": -22.31,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6093,
-    "BeerName": "Carlton Sterling",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Carlton & United Breweries",
-    "Origin": "Abbotsford, Victoria Australia",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4045_ce45d.jpeg",
-    "HallRating": -22.31,
-    "BAR": -6.39,
-    "StylePlus": "48",
-    "RatingScore": 1.64,
-    "AdjustedRating": "2.0560670604951056851404682359"
-  },
-  {
-    "BID": 1667779,
-    "BeerName": "Lācis",
-    "BeerStyle": "Kvass",
-    "BreweryName": "Veldze",
-    "Origin": "Latvia",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1667779_3221e_sm.jpeg",
-    "HallRating": -22.31,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6615735,
-    "BeerName": "Квас житній функціональний з шипшиною та вишневими листками",
-    "BeerStyle": "Kvass",
-    "BreweryName": "Berryland",
-    "Origin": "Makariv, Kyiv Oblast Ukraine",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-422696_0f61d.jpeg",
-    "HallRating": -22.31,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 3348592,
-    "BeerName": "Albeer Cvas",
-    "BeerStyle": "Kvass",
-    "BreweryName": "0,5 Pub",
-    "Origin": "Moldova",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-350373_1cafc.jpeg",
-    "HallRating": -22.31,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6022410,
-    "BeerName": "Hans Arp",
-    "BeerStyle": "Lager - German Light / Leichtbier",
-    "BreweryName": "Cervejaria Masterpiece",
-    "Origin": "Niterói, Rio de Janeiro Brazil",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-441072_49808.jpeg",
-    "HallRating": -22.31,
-    "BAR": -3.06,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
-  },
-  {
-    "BID": 6300792,
-    "BeerName": "Pohlmanns Radler Alkoholfrei",
-    "BeerStyle": "Non-Alcoholic - Shandy / Radler",
-    "BreweryName": "Braumanufaktur Pohlmann - Museum Brewery Hagen",
-    "Origin": "Hagen, Nordrhein-Westfalen Germany",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-276346_db219.jpeg",
-    "HallRating": -22.31,
-    "BAR": -3.06,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
-  },
-  {
-    "BID": 4979740,
-    "BeerName": "Кваснов. Квас натуральный",
-    "BeerStyle": "Kvass",
-    "BreweryName": "ИП Васяева О.В.",
-    "Origin": "Omsk, Omsk Oblast Russia",
-    "BeerAbv": 1.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": -22.31,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 4961143,
+    "BID": 6616919,
     "BeerName": "Квас Домашний",
     "BeerStyle": "Kvass",
-    "BreweryName": "ИП Аракелян А.Э.",
+    "BreweryName": "ИП Антипова К.В.",
     "Origin": "Russia",
     "BeerAbv": 1.20,
     "BeerIbu": 0.00,
@@ -327,22 +207,7 @@
     "BAR": 0.00,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
-  },
-  {
-    "BID": 6615608,
-    "BeerName": "Квас житній функціональний з березовим листям та мʼятою",
-    "BeerStyle": "Kvass",
-    "BreweryName": "Berryland",
-    "Origin": "Makariv, Kyiv Oblast Ukraine",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-422696_0f61d.jpeg",
-    "HallRating": -22.31,
-    "BAR": 0.00,
-    "StylePlus": null,
-    "RatingScore": 0.00,
-    "AdjustedRating": "2.056078768127595472681377738"
+    "AdjustedRating": "2.0560439133571191827026183931"
   },
   {
     "BID": 6602905,
@@ -357,7 +222,82 @@
     "BAR": -3.06,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
+  },
+  {
+    "BID": 6022410,
+    "BeerName": "Hans Arp",
+    "BeerStyle": "Lager - German Light / Leichtbier",
+    "BreweryName": "Cervejaria Masterpiece",
+    "Origin": "Niterói, Rio de Janeiro Brazil",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-441072_49808.jpeg",
+    "HallRating": -22.31,
+    "BAR": -3.06,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0559637447604936346090109762"
+  },
+  {
+    "BID": 6300792,
+    "BeerName": "Pohlmanns Radler Alkoholfrei",
+    "BeerStyle": "Non-Alcoholic - Shandy / Radler",
+    "BreweryName": "Braumanufaktur Pohlmann - Museum Brewery Hagen",
+    "Origin": "Hagen, Nordrhein-Westfalen Germany",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-276346_db219.jpeg",
+    "HallRating": -22.31,
+    "BAR": -3.06,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0559637447604936346090109762"
+  },
+  {
+    "BID": 6616983,
+    "BeerName": "Квас Хлебный",
+    "BeerStyle": "Kvass",
+    "BreweryName": "Родник-Аква",
+    "Origin": "Russia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -22.31,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 4961143,
+    "BeerName": "Квас Домашний",
+    "BeerStyle": "Kvass",
+    "BreweryName": "ИП Аракелян А.Э.",
+    "Origin": "Russia",
+    "BeerAbv": 1.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -22.31,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6093,
+    "BeerName": "Carlton Sterling",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Carlton & United Breweries",
+    "Origin": "Abbotsford, Victoria Australia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-4045_ce45d.jpeg",
+    "HallRating": -22.31,
+    "BAR": -6.39,
+    "StylePlus": "48",
+    "RatingScore": 1.64,
+    "AdjustedRating": "2.0559542423888044283319689705"
   },
   {
     "BID": 6611151,
@@ -372,6 +312,66 @@
     "BAR": -3.06,
     "StylePlus": null,
     "RatingScore": 0.00,
-    "AdjustedRating": "2.0560683044626635521152994702"
+    "AdjustedRating": "2.0559637447604936346090109762"
+  },
+  {
+    "BID": 1667779,
+    "BeerName": "Lācis",
+    "BeerStyle": "Kvass",
+    "BreweryName": "Veldze",
+    "Origin": "Latvia",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1667779_3221e_sm.jpeg",
+    "HallRating": -22.31,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 6604038,
+    "BeerName": "Birell Vitality Marakuja & Maté",
+    "BeerStyle": "Non-Alcoholic - Shandy / Radler",
+    "BreweryName": "Plzeňský Prazdroj",
+    "Origin": "Plzeň-město, Plzeňský kraj Czech Republic",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1459_c1a81.jpeg",
+    "HallRating": -22.31,
+    "BAR": -3.06,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0559637447604936346090109762"
+  },
+  {
+    "BID": 6614246,
+    "BeerName": "Квас Белорусский Тёмный Белая Хатка",
+    "BeerStyle": "Kvass",
+    "BreweryName": "БелАкваБай",
+    "Origin": "Belarus",
+    "BeerAbv": 1.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -22.31,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
+  },
+  {
+    "BID": 3344117,
+    "BeerName": "Cvas De Soroca",
+    "BeerStyle": "Kvass",
+    "BreweryName": "Bere De Soroca",
+    "Origin": "Soroca, Raionul Soroca Moldova",
+    "BeerAbv": 1.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": -22.31,
+    "BAR": 0.00,
+    "StylePlus": null,
+    "RatingScore": 0.00,
+    "AdjustedRating": "2.0560439133571191827026183931"
   }
 ]
