@@ -1,5 +1,13 @@
 [
   {
+    "BreweryName": "#14 Red Homebrew",
+    "Location": "United States"
+  },
+  {
+    "BreweryName": "#20 Brewery",
+    "Location": "United States"
+  },
+  {
     "BreweryName": "#207 Homebrew",
     "Location": "Lisle, IL United States"
   },
@@ -64,6 +72,10 @@
     "Location": null
   },
   {
+    "BreweryName": "#6 Fine Wit",
+    "Location": "United States"
+  },
+  {
     "BreweryName": "#7",
     "Location": "United States"
   },
@@ -85,18 +97,6 @@
   },
   {
     "BreweryName": "#bedhopper",
-    "Location": null
-  },
-  {
-    "BreweryName": "#beernet",
-    "Location": "Russia"
-  },
-  {
-    "BreweryName": "#BORGERSBRYGGERI",
-    "Location": "Norway"
-  },
-  {
-    "BreweryName": "#brewing",
     "Location": null
   }
 ]
