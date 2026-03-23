@@ -1,50 +1,5 @@
 [
   {
-    "BID": 5406476,
-    "BeerName": "Hydra | Schmoojee A La Mode",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4419948_f9d08_sm.jpeg",
-    "HallRating": 16.45,
-    "BAR": 9.16,
-    "StylePlus": "110",
-    "RatingScore": 4.44,
-    "AdjustedRating": "2.3013099011736719665564709381"
-  },
-  {
-    "BID": 2640339,
-    "BeerName": "Gyroscope",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Urban Artifact",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2640339_c0d43_sm.jpeg",
-    "HallRating": 16.45,
-    "BAR": 9.31,
-    "StylePlus": "118",
-    "RatingScore": 4.12,
-    "AdjustedRating": "2.338054546005453994546005454"
-  },
-  {
-    "BID": 3010433,
-    "BeerName": "Cerberus",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3010433_9db97_sm.jpeg",
-    "HallRating": 16.45,
-    "BAR": 9.29,
-    "StylePlus": "109",
-    "RatingScore": 4.43,
-    "AdjustedRating": "2.3720925592401041138491701315"
-  },
-  {
     "BID": 6040640,
     "BeerName": "Indulgence 21",
     "BeerStyle": "Stout - Imperial / Double",
@@ -57,7 +12,7 @@
     "BAR": 8.59,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1436958461335990524356539886"
+    "AdjustedRating": "2.141726751395965331177499107"
   },
   {
     "BID": 4979882,
@@ -72,7 +27,7 @@
     "BAR": 9.02,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.247474425988112126708208379"
+    "AdjustedRating": "2.2455936606389282956524862176"
   },
   {
     "BID": 6610542,
@@ -87,52 +42,52 @@
     "BAR": 4.11,
     "StylePlus": "116",
     "RatingScore": 4.83,
-    "AdjustedRating": "2.0566247243664717348927875244"
+    "AdjustedRating": "2.0545831224171539961013645224"
   },
   {
-    "BID": 2903790,
-    "BeerName": "I.H.O.P. - In Honor of Pancakes",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Honey Pot Meadery",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 14.70,
+    "BID": 3010433,
+    "BeerName": "Cerberus",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2903790_993ab_sm.jpeg",
-    "HallRating": 16.44,
-    "BAR": 8.21,
-    "StylePlus": "112",
-    "RatingScore": 4.49,
-    "AdjustedRating": "2.1019454492587278813964610234"
-  },
-  {
-    "BID": 5703881,
-    "BeerName": "Hard Cuts",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Cellarmaker Brewing Company",
-    "Origin": "Oakland, CA United States",
-    "BeerAbv": 16.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-82753_b6ced.jpeg",
-    "HallRating": 16.44,
-    "BAR": 8.11,
-    "StylePlus": "114",
-    "RatingScore": 4.48,
-    "AdjustedRating": "2.0947301156923313059995011608"
-  },
-  {
-    "BID": 4018649,
-    "BeerName": "Mega Treat",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4018649_ef0ba_sm.jpeg",
-    "HallRating": 16.44,
-    "BAR": 9.74,
-    "StylePlus": "110",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3010433_9db97_sm.jpeg",
+    "HallRating": 16.45,
+    "BAR": 9.29,
+    "StylePlus": "109",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.7891430160099186027707401218"
+    "AdjustedRating": "2.3703223841395396004462022107"
+  },
+  {
+    "BID": 2640339,
+    "BeerName": "Gyroscope",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Urban Artifact",
+    "Origin": "Cincinnati, OH United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2640339_c0d43_sm.jpeg",
+    "HallRating": 16.45,
+    "BAR": 9.31,
+    "StylePlus": "118",
+    "RatingScore": 4.12,
+    "AdjustedRating": "2.3362915224051442615224051443"
+  },
+  {
+    "BID": 5406476,
+    "BeerName": "Hydra | Schmoojee A La Mode",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4419948_f9d08_sm.jpeg",
+    "HallRating": 16.45,
+    "BAR": 9.16,
+    "StylePlus": "110",
+    "RatingScore": 4.44,
+    "AdjustedRating": "2.2994779552570359098144163999"
   },
   {
     "BID": 4612631,
@@ -147,22 +102,52 @@
     "BAR": 8.58,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1429392981268336718573685398"
+    "AdjustedRating": "2.1409695738358534567065372753"
   },
   {
-    "BID": 6615939,
-    "BeerName": "NZ FIREPOWER",
+    "BID": 4018649,
+    "BeerName": "Mega Treat",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Deep Fried Beers",
-    "Origin": "Athens, NY United States",
-    "BeerAbv": 8.90,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6615939_8bb7d_sm.jpeg",
-    "HallRating": 16.43,
-    "BAR": 4.78,
-    "StylePlus": "118",
-    "RatingScore": 4.77,
-    "AdjustedRating": "2.0569832256807063363673572807"
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4018649_ef0ba_sm.jpeg",
+    "HallRating": 16.44,
+    "BAR": 9.74,
+    "StylePlus": "110",
+    "RatingScore": 4.43,
+    "AdjustedRating": "2.7877315802382620882971268395"
+  },
+  {
+    "BID": 5703881,
+    "BeerName": "Hard Cuts",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Cellarmaker Brewing Company",
+    "Origin": "Oakland, CA United States",
+    "BeerAbv": 16.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-82753_b6ced.jpeg",
+    "HallRating": 16.44,
+    "BAR": 8.11,
+    "StylePlus": "114",
+    "RatingScore": 4.48,
+    "AdjustedRating": "2.092720672665528289940714875"
+  },
+  {
+    "BID": 2903790,
+    "BeerName": "I.H.O.P. - In Honor of Pancakes",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Honey Pot Meadery",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 14.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2903790_993ab_sm.jpeg",
+    "HallRating": 16.44,
+    "BAR": 8.21,
+    "StylePlus": "112",
+    "RatingScore": 4.49,
+    "AdjustedRating": "2.099941925968436154949784792"
   },
   {
     "BID": 603663,
@@ -177,7 +162,22 @@
     "BAR": 9.15,
     "StylePlus": "110",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.3053803234435372484570869102"
+    "AdjustedRating": "2.3035492102732660803888315821"
+  },
+  {
+    "BID": 6615939,
+    "BeerName": "NZ FIREPOWER",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Deep Fried Beers",
+    "Origin": "Athens, NY United States",
+    "BeerAbv": 8.90,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6615939_8bb7d_sm.jpeg",
+    "HallRating": 16.43,
+    "BAR": 4.78,
+    "StylePlus": "118",
+    "RatingScore": 4.77,
+    "AdjustedRating": "2.0549419022745434346190578284"
   },
   {
     "BID": 2904257,
@@ -192,7 +192,7 @@
     "BAR": 9.69,
     "StylePlus": "117",
     "RatingScore": 4.18,
-    "AdjustedRating": "2.6598898784588978971017121806"
+    "AdjustedRating": "2.6584283965226127848401546126"
   },
   {
     "BID": 4900156,
@@ -207,37 +207,7 @@
     "BAR": 7.69,
     "StylePlus": "114",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0772114509955538372317803982"
-  },
-  {
-    "BID": 5217083,
-    "BeerName": "Coquito",
-    "BeerStyle": "RTD - Other",
-    "BreweryName": "Tree House Distillery",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 16.41,
-    "BAR": 6.78,
-    "StylePlus": "133",
-    "RatingScore": 4.32,
-    "AdjustedRating": "2.0617637130243684241233785177"
-  },
-  {
-    "BID": 5000474,
-    "BeerName": "Funktastic Freshy: These Are Your Decisions",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "Funktastic Meads",
-    "Origin": "Midlothian, VA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5000474_1c256_sm.jpeg",
-    "HallRating": 16.41,
-    "BAR": 6.41,
-    "StylePlus": "120",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0602107751002452602483746642"
+    "AdjustedRating": "2.0751868196404407500483278562"
   },
   {
     "BID": 4811558,
@@ -252,7 +222,37 @@
     "BAR": 7.26,
     "StylePlus": "116",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0676048120475848551301209028"
+    "AdjustedRating": "2.0655722831803450484193366842"
+  },
+  {
+    "BID": 5000474,
+    "BeerName": "Funktastic Freshy: These Are Your Decisions",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Funktastic Meads",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5000474_1c256_sm.jpeg",
+    "HallRating": 16.41,
+    "BAR": 6.41,
+    "StylePlus": "120",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.0581721139097598006773854479"
+  },
+  {
+    "BID": 5217083,
+    "BeerName": "Coquito",
+    "BeerStyle": "RTD - Other",
+    "BreweryName": "Tree House Distillery",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 16.41,
+    "BAR": 6.78,
+    "StylePlus": "133",
+    "RatingScore": 4.32,
+    "AdjustedRating": "2.0597268359944767498395534725"
   },
   {
     "BID": 3211206,
@@ -267,37 +267,7 @@
     "BAR": 8.74,
     "StylePlus": "109",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1774933414909987578100376365"
-  },
-  {
-    "BID": 4830265,
-    "BeerName": "Уклейка",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Sergacore Brewery",
-    "Origin": "Moscow, Москва Russia",
-    "BeerAbv": 5.00,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4830265_083b4_sm.jpeg",
-    "HallRating": 16.39,
-    "BAR": 8.55,
-    "StylePlus": "111",
-    "RatingScore": 4.48,
-    "AdjustedRating": "2.1407336085500319873555864976"
-  },
-  {
-    "BID": 3016554,
-    "BeerName": "Mirrorshield",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Hudson Valley Brewery",
-    "Origin": "Beacon, NY United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2526541_d7853_sm.jpeg",
-    "HallRating": 16.39,
-    "BAR": 9.34,
-    "StylePlus": "113",
-    "RatingScore": 4.29,
-    "AdjustedRating": "2.4027071052544885521330917477"
+    "AdjustedRating": "2.1755515542206648497320948514"
   },
   {
     "BID": 4806423,
@@ -312,7 +282,7 @@
     "BAR": 7.64,
     "StylePlus": "123",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.0741804467480225114587966813"
+    "AdjustedRating": "2.0721549148084398630746320614"
   },
   {
     "BID": 3027580,
@@ -327,7 +297,7 @@
     "BAR": 8.29,
     "StylePlus": "112",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.110414904128387908359699615"
+    "AdjustedRating": "2.108418674570197842412228872"
   },
   {
     "BID": 3342624,
@@ -342,7 +312,37 @@
     "BAR": 8.09,
     "StylePlus": "119",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.0933694295031651640130443123"
+    "AdjustedRating": "2.0913603333972760406675618646"
+  },
+  {
+    "BID": 3016554,
+    "BeerName": "Mirrorshield",
+    "BeerStyle": "IPA - Sour",
+    "BreweryName": "Hudson Valley Brewery",
+    "Origin": "Beacon, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2526541_d7853_sm.jpeg",
+    "HallRating": 16.39,
+    "BAR": 9.34,
+    "StylePlus": "113",
+    "RatingScore": 4.29,
+    "AdjustedRating": "2.4009819499258771207379344424"
+  },
+  {
+    "BID": 4830265,
+    "BeerName": "Уклейка",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Sergacore Brewery",
+    "Origin": "Moscow, Москва Russia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4830265_083b4_sm.jpeg",
+    "HallRating": 16.39,
+    "BAR": 8.55,
+    "StylePlus": "111",
+    "RatingScore": 4.48,
+    "AdjustedRating": "2.1387629206337259624430813231"
   },
   {
     "BID": 6601518,
@@ -357,7 +357,7 @@
     "BAR": 4.96,
     "StylePlus": "122",
     "RatingScore": 4.71,
-    "AdjustedRating": "2.0571184634574157084389007991"
+    "AdjustedRating": "2.055077259403625024361722861"
   },
   {
     "BID": 2814307,
@@ -372,6 +372,6 @@
     "BAR": 9.47,
     "StylePlus": "113",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.5089319845449163368958963014"
+    "AdjustedRating": "2.5073002551958370984326800237"
   }
 ]

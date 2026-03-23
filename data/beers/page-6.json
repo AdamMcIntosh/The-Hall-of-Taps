@@ -12,7 +12,7 @@
     "BAR": 10.55,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.2711771227945107823917305293"
+    "AdjustedRating": "2.2693105360898235608625913384"
   },
   {
     "BID": 4630889,
@@ -27,7 +27,7 @@
     "BAR": 9.18,
     "StylePlus": "133",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.0830708876469454615532857969"
+    "AdjustedRating": "2.0810524991327808826363461168"
   },
   {
     "BID": 5902002,
@@ -42,7 +42,7 @@
     "BAR": 9.27,
     "StylePlus": "116",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0895827966672439338836614135"
+    "AdjustedRating": "2.0875674763801497046316073044"
   },
   {
     "BID": 4980515,
@@ -57,22 +57,7 @@
     "BAR": 9.40,
     "StylePlus": "122",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0945874836406900654372397383"
-  },
-  {
-    "BID": 3904423,
-    "BeerName": "Cable Car Ale",
-    "BeerStyle": "Wild Ale - American",
-    "BreweryName": "The Lost Abbey",
-    "Origin": "San Marcos, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CableCar_8225.jpeg",
-    "HallRating": 19.08,
-    "BAR": 10.37,
-    "StylePlus": "115",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.2256211644097064436971734981"
+    "AdjustedRating": "2.0925776550056609928805818349"
   },
   {
     "BID": 1675563,
@@ -87,7 +72,22 @@
     "BAR": 8.59,
     "StylePlus": "117",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.0705734796517827713903484111"
+    "AdjustedRating": "2.068542842352211256955619753"
+  },
+  {
+    "BID": 3904423,
+    "BeerName": "Cable Car Ale",
+    "BeerStyle": "Wild Ale - American",
+    "BreweryName": "The Lost Abbey",
+    "Origin": "San Marcos, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-CableCar_8225.jpeg",
+    "HallRating": 19.08,
+    "BAR": 10.37,
+    "StylePlus": "115",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.2237174257929655548486776334"
   },
   {
     "BID": 1209346,
@@ -102,7 +102,7 @@
     "BAR": 11.17,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.6993318807095279883759404986"
+    "AdjustedRating": "2.6978251525657809555322179223"
   },
   {
     "BID": 5804783,
@@ -117,7 +117,7 @@
     "BAR": 8.34,
     "StylePlus": "132",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0667109593508560779593896805"
+    "AdjustedRating": "2.0646778386458050238770043095"
   },
   {
     "BID": 3604562,
@@ -132,7 +132,7 @@
     "BAR": 11.73,
     "StylePlus": "118",
     "RatingScore": 4.23,
-    "AdjustedRating": "3.3210634816704844665813435938"
+    "AdjustedRating": "3.3202097005812294674372916174"
   },
   {
     "BID": 1643001,
@@ -147,22 +147,7 @@
     "BAR": 10.98,
     "StylePlus": "115",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.5433589779506329702341292592"
-  },
-  {
-    "BID": 3018980,
-    "BeerName": "Black Currant Bourbon Pancake",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266944_bf1b0.jpeg",
-    "HallRating": 18.96,
-    "BAR": 8.74,
-    "StylePlus": "116",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.0744415734556788044214724045"
+    "AdjustedRating": "2.5417361231541596293599020717"
   },
   {
     "BID": 6605126,
@@ -177,7 +162,22 @@
     "BAR": 5.86,
     "StylePlus": "133",
     "RatingScore": 4.82,
-    "AdjustedRating": "2.0572690279077019020891799189"
+    "AdjustedRating": "2.0552279034144059869036482694"
+  },
+  {
+    "BID": 3018980,
+    "BeerName": "Black Currant Bourbon Pancake",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266944_bf1b0.jpeg",
+    "HallRating": 18.96,
+    "BAR": 8.74,
+    "StylePlus": "116",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.0724140809570822928160752657"
   },
   {
     "BID": 4702648,
@@ -192,7 +192,7 @@
     "BAR": 9.79,
     "StylePlus": "121",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.1296002713786260984597940093"
+    "AdjustedRating": "2.1276209804403288292544647075"
   },
   {
     "BID": 5550435,
@@ -207,7 +207,7 @@
     "BAR": 8.89,
     "StylePlus": "120",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0789401673268283257656265095"
+    "AdjustedRating": "2.076916513960003864360931311"
   },
   {
     "BID": 6004323,
@@ -222,7 +222,7 @@
     "BAR": 8.66,
     "StylePlus": "116",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0734975862736744258104496688"
+    "AdjustedRating": "2.0714693477671482241759944227"
   },
   {
     "BID": 5031933,
@@ -237,22 +237,7 @@
     "BAR": 9.73,
     "StylePlus": "118",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.1284466627565982404692082111"
-  },
-  {
-    "BID": 3602553,
-    "BeerName": "Last Buffalo in the Park",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Funky Buddha Brewery",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-941431_517f7_sm.jpeg",
-    "HallRating": 18.86,
-    "BAR": 11.10,
-    "StylePlus": "113",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.7145623151616231572698619101"
+    "AdjustedRating": "2.1264651249645255888752246713"
   },
   {
     "BID": 2401066,
@@ -267,7 +252,22 @@
     "BAR": 10.84,
     "StylePlus": "115",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.4816263867234205366110287436"
+    "AdjustedRating": "2.4799567041305976692652286894"
+  },
+  {
+    "BID": 3602553,
+    "BeerName": "Last Buffalo in the Park",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Funky Buddha Brewery",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-941431_517f7_sm.jpeg",
+    "HallRating": 18.86,
+    "BAR": 11.10,
+    "StylePlus": "113",
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.7130819943181015109327076649"
   },
   {
     "BID": 6215122,
@@ -282,7 +282,7 @@
     "BAR": 11.57,
     "StylePlus": "111",
     "RatingScore": 4.47,
-    "AdjustedRating": "3.3419237593505416708427104498"
+    "AdjustedRating": "3.3409694876677630679799185444"
   },
   {
     "BID": 3008402,
@@ -297,22 +297,7 @@
     "BAR": 10.54,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.3324476851899984405052762905"
-  },
-  {
-    "BID": 2205232,
-    "BeerName": "Double Dry Hopped Summer Street",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Trillium Brewing Company",
-    "Origin": "Canton, MA United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1127175_21e6f_sm.jpeg",
-    "HallRating": 18.83,
-    "BAR": 11.27,
-    "StylePlus": "114",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.9097473489223311775834992395"
+    "AdjustedRating": "2.3306328807333090745265200742"
   },
   {
     "BID": 4962053,
@@ -327,7 +312,22 @@
     "BAR": 8.99,
     "StylePlus": "113",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0837666305291382935627616273"
+    "AdjustedRating": "2.081746256293524180636200544"
+  },
+  {
+    "BID": 2205232,
+    "BeerName": "Double Dry Hopped Summer Street",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Trillium Brewing Company",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1127175_21e6f_sm.jpeg",
+    "HallRating": 18.83,
+    "BAR": 11.27,
+    "StylePlus": "114",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.9084522397952243752241279106"
   },
   {
     "BID": 5633018,
@@ -342,7 +342,7 @@
     "BAR": 8.72,
     "StylePlus": "123",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0747333170788343202136305585"
+    "AdjustedRating": "2.0727066484771082472231897519"
   },
   {
     "BID": 3904415,
@@ -357,7 +357,7 @@
     "BAR": 10.64,
     "StylePlus": "111",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.3964029251231692757814733231"
+    "AdjustedRating": "2.394641828454204570294765516"
   },
   {
     "BID": 435801,
@@ -372,6 +372,6 @@
     "BAR": 11.66,
     "StylePlus": "115",
     "RatingScore": 4.15,
-    "AdjustedRating": "3.3341927027991948042082874397"
+    "AdjustedRating": "3.3333971224125489004519731095"
   }
 ]

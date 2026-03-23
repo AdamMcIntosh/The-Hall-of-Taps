@@ -12,7 +12,7 @@
     "BAR": 9.75,
     "StylePlus": "118",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.2658037620573087201996424842"
+    "AdjustedRating": "2.2639500925647333675510167962"
   },
   {
     "BID": 4008934,
@@ -27,7 +27,7 @@
     "BAR": 10.78,
     "StylePlus": "110",
     "RatingScore": 4.44,
-    "AdjustedRating": "3.270736517390098593300245766"
+    "AdjustedRating": "3.2697349569192223465396716107"
   },
   {
     "BID": 3000429,
@@ -42,7 +42,7 @@
     "BAR": 9.75,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2838626827974105911068661785"
+    "AdjustedRating": "2.282010226396405957055431745"
   },
   {
     "BID": 2420332,
@@ -57,7 +57,7 @@
     "BAR": 9.99,
     "StylePlus": "114",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.3852541986083067732407762778"
+    "AdjustedRating": "2.3835065025781367330251806364"
   },
   {
     "BID": 6408654,
@@ -72,7 +72,7 @@
     "BAR": 7.29,
     "StylePlus": "113",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.0628709182840029559332581385"
+    "AdjustedRating": "2.0608341600871222433977674925"
   },
   {
     "BID": 5218371,
@@ -87,22 +87,7 @@
     "BAR": 8.37,
     "StylePlus": "112",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0823601065246338215712383489"
-  },
-  {
-    "BID": 6216152,
-    "BeerName": "Barrel-Aged Space Debris: Coconut (2025) (Silver Wax)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Brothership Brewing",
-    "Origin": "Mokena, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6206771_bc4ab_sm.jpeg",
-    "HallRating": 17.58,
-    "BAR": 8.11,
-    "StylePlus": "114",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0745458627230846657117417057"
+    "AdjustedRating": "2.0803389525077674212161562361"
   },
   {
     "BID": 4804655,
@@ -117,37 +102,22 @@
     "BAR": 8.91,
     "StylePlus": "128",
     "RatingScore": 4.24,
-    "AdjustedRating": "2.1067431317132627409156699931"
+    "AdjustedRating": "2.1047484988954064142606840862"
   },
   {
-    "BID": 6015737,
-    "BeerName": "Fresh Hop Timbo Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Highland Park Brewery",
-    "Origin": "Los Angeles, CA United States",
-    "BeerAbv": 5.80,
+    "BID": 6216152,
+    "BeerName": "Barrel-Aged Space Debris: Coconut (2025) (Silver Wax)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Brothership Brewing",
+    "Origin": "Mokena, IL United States",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015737_acdf3_sm.jpeg",
-    "HallRating": 17.55,
-    "BAR": 8.33,
-    "StylePlus": "127",
-    "RatingScore": 4.31,
-    "AdjustedRating": "2.0784473855300748976912979693"
-  },
-  {
-    "BID": 6100663,
-    "BeerName": "Barrel Aged Thanatos (Copper Wax)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6100663_ac6cd_sm.jpeg",
-    "HallRating": 17.55,
-    "BAR": 8.02,
-    "StylePlus": "112",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.0729161909927360774818401937"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6206771_bc4ab_sm.jpeg",
+    "HallRating": 17.58,
+    "BAR": 8.11,
+    "StylePlus": "114",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0725185664511633308814989741"
   },
   {
     "BID": 5605067,
@@ -162,7 +132,37 @@
     "BAR": 7.46,
     "StylePlus": "116",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0643377389952385579632688757"
+    "AdjustedRating": "2.0623022870469342143620639394"
+  },
+  {
+    "BID": 6015737,
+    "BeerName": "Fresh Hop Timbo Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Highland Park Brewery",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015737_acdf3_sm.jpeg",
+    "HallRating": 17.55,
+    "BAR": 8.33,
+    "StylePlus": "127",
+    "RatingScore": 4.31,
+    "AdjustedRating": "2.0764256462821403752605976372"
+  },
+  {
+    "BID": 6100663,
+    "BeerName": "Barrel Aged Thanatos (Copper Wax)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6100663_ac6cd_sm.jpeg",
+    "HallRating": 17.55,
+    "BAR": 8.02,
+    "StylePlus": "112",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.0708874417433414043583535109"
   },
   {
     "BID": 6302105,
@@ -177,7 +177,7 @@
     "BAR": 7.32,
     "StylePlus": "116",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.063167901849079349030740215"
+    "AdjustedRating": "2.0611315000680523419727401762"
   },
   {
     "BID": 3807483,
@@ -192,22 +192,7 @@
     "BAR": 8.50,
     "StylePlus": "114",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0881945064377682403433476395"
-  },
-  {
-    "BID": 4632191,
-    "BeerName": "Grand Cru (7th Anniversary) Blend 2 W/Coconut And Double Stuff",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
-    "HallRating": 17.52,
-    "BAR": 6.74,
-    "StylePlus": "116",
-    "RatingScore": 4.71,
-    "AdjustedRating": "2.0599590842013043901489340991"
+    "AdjustedRating": "2.0861787982832618025751072961"
   },
   {
     "BID": 6206080,
@@ -222,7 +207,22 @@
     "BAR": 8.58,
     "StylePlus": "120",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0906115311161065959613426326"
+    "AdjustedRating": "2.0885992310796011297481122831"
+  },
+  {
+    "BID": 4632191,
+    "BeerName": "Grand Cru (7th Anniversary) Blend 2 W/Coconut And Double Stuff",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
+    "HallRating": 17.52,
+    "BAR": 6.74,
+    "StylePlus": "116",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.057920065803562737272461793"
   },
   {
     "BID": 2800986,
@@ -237,7 +237,7 @@
     "BAR": 10.09,
     "StylePlus": "111",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.4994759530680196606944664658"
+    "AdjustedRating": "2.4978153508799746313619787538"
   },
   {
     "BID": 6406138,
@@ -252,7 +252,7 @@
     "BAR": 8.77,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1054801093313964601093313965"
+    "AdjustedRating": "2.103478232730608968232730609"
   },
   {
     "BID": 6603508,
@@ -267,7 +267,7 @@
     "BAR": 10.25,
     "StylePlus": "113",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.6416730989689520591833168288"
+    "AdjustedRating": "2.6401478735364361857051319392"
   },
   {
     "BID": 4222796,
@@ -282,7 +282,7 @@
     "BAR": 8.56,
     "StylePlus": "120",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0902968554957724827056110684"
+    "AdjustedRating": "2.0882842847809377401998462721"
   },
   {
     "BID": 2808965,
@@ -297,7 +297,7 @@
     "BAR": 10.25,
     "StylePlus": "112",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.660636069839889879011809027"
+    "AdjustedRating": "2.6591185130768673476780410056"
   },
   {
     "BID": 5807409,
@@ -312,7 +312,7 @@
     "BAR": 8.53,
     "StylePlus": "114",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0894993243996693134408705516"
+    "AdjustedRating": "2.0874857089573760406052333071"
   },
   {
     "BID": 4940498,
@@ -327,7 +327,7 @@
     "BAR": 7.75,
     "StylePlus": "126",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0672746358785291549432424566"
+    "AdjustedRating": "2.0652423436499466382070437567"
   },
   {
     "BID": 6032429,
@@ -342,7 +342,7 @@
     "BAR": 8.89,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1166322627042864481269382242"
+    "AdjustedRating": "2.1146396411788207986910446909"
   },
   {
     "BID": 6212579,
@@ -357,21 +357,21 @@
     "BAR": 8.06,
     "StylePlus": "115",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.074015300152931838860173839"
+    "AdjustedRating": "2.0719878076543353272547767002"
   },
   {
-    "BID": 6038874,
-    "BeerName": "whoopie pie",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "nebuleus",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 6.00,
+    "BID": 6102570,
+    "BeerName": "Raspberry Banana Prestige",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 16.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-440700_67b21.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6102570_9bf9c_sm.jpeg",
     "HallRating": 17.45,
-    "BAR": 7.02,
-    "StylePlus": "124",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.061219931121704445957777994"
+    "BAR": 6.97,
+    "StylePlus": "125",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0588696837844674930432582848"
   }
 ]

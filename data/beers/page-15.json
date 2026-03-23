@@ -10,24 +10,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2377683_f7647_sm.jpeg",
     "HallRating": 17.06,
     "BAR": 10.07,
-    "StylePlus": "111",
+    "StylePlus": "112",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.7265181942309556451054519269"
-  },
-  {
-    "BID": 5032055,
-    "BeerName": "Juice Project - Citra + Mosaic",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 17.05,
-    "BAR": 9.18,
-    "StylePlus": "115",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.1936824891663606316562614763"
+    "AdjustedRating": "2.725067843463088363591043164"
   },
   {
     "BID": 1801615,
@@ -42,7 +27,22 @@
     "BAR": 10.04,
     "StylePlus": "115",
     "RatingScore": 4.26,
-    "AdjustedRating": "2.6685087130246244385937741985"
+    "AdjustedRating": "2.6670341444802680670730848832"
+  },
+  {
+    "BID": 5032055,
+    "BeerName": "Juice Project - Citra + Mosaic",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 17.05,
+    "BAR": 9.18,
+    "StylePlus": "115",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.1917593496143958868894601542"
   },
   {
     "BID": 3600414,
@@ -57,52 +57,7 @@
     "BAR": 6.95,
     "StylePlus": "116",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.061942116054233859202054195"
-  },
-  {
-    "BID": 1812785,
-    "BeerName": "Society & Solitude #9",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1812785_59f1f_sm.jpeg",
-    "HallRating": 17.01,
-    "BAR": 9.76,
-    "StylePlus": "113",
-    "RatingScore": 4.37,
-    "AdjustedRating": "2.4607214987129987129987129987"
-  },
-  {
-    "BID": 6417144,
-    "BeerName": "Mythography (2024)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Floodland Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 6.58,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6417144_f0bf0_sm.jpeg",
-    "HallRating": 17.01,
-    "BAR": 6.58,
-    "StylePlus": "124",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0599012684940040492135181436"
-  },
-  {
-    "BID": 2011238,
-    "BeerName": "No Rules Vietnamese Porter (2017)",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Perrin Brewing Co.®",
-    "Origin": "Comstock Park, MI United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 56.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2011238_5cab3_sm.jpeg",
-    "HallRating": 17.01,
-    "BAR": 9.77,
-    "StylePlus": "112",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.478251465783452535240563849"
+    "AdjustedRating": "2.0599047635536016495807963896"
   },
   {
     "BID": 2415519,
@@ -117,22 +72,52 @@
     "BAR": 8.75,
     "StylePlus": "114",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.1248518460431109595787400083"
+    "AdjustedRating": "2.1228680187142478311929385915"
   },
   {
-    "BID": 4210984,
-    "BeerName": "Mulled Cherry Air",
-    "BeerStyle": "Spiced / Herbed Beer",
-    "BreweryName": "Zambaldi Beer",
-    "Origin": "Allouez, WI United States",
-    "BeerAbv": 5.00,
+    "BID": 6417144,
+    "BeerName": "Mythography (2024)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Floodland Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 6.58,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4210984_1efe4_sm.jpeg",
-    "HallRating": 17.00,
-    "BAR": 7.23,
-    "StylePlus": "128",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.0636133465485074626865671642"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6417144_f0bf0_sm.jpeg",
+    "HallRating": 17.01,
+    "BAR": 6.58,
+    "StylePlus": "124",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0578623691792555676685874474"
+  },
+  {
+    "BID": 1812785,
+    "BeerName": "Society & Solitude #9",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1812785_59f1f_sm.jpeg",
+    "HallRating": 17.01,
+    "BAR": 9.76,
+    "StylePlus": "113",
+    "RatingScore": 4.37,
+    "AdjustedRating": "2.4590365859073359073359073359"
+  },
+  {
+    "BID": 2011238,
+    "BeerName": "No Rules Vietnamese Porter (2017)",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Perrin Brewing Co.®",
+    "Origin": "Comstock Park, MI United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 56.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2011238_5cab3_sm.jpeg",
+    "HallRating": 17.01,
+    "BAR": 9.77,
+    "StylePlus": "112",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.476575692091073457175314805"
   },
   {
     "BID": 2408234,
@@ -147,22 +132,22 @@
     "BAR": 8.90,
     "StylePlus": "112",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.1464855070668393490624472099"
+    "AdjustedRating": "2.144519664770914278206355463"
   },
   {
-    "BID": 6600522,
-    "BeerName": "All Pie Is Good Pie",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brewlihan",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 0.00,
+    "BID": 4210984,
+    "BeerName": "Mulled Cherry Air",
+    "BeerStyle": "Spiced / Herbed Beer",
+    "BreweryName": "Zambaldi Beer",
+    "Origin": "Allouez, WI United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
-    "HallRating": 16.99,
-    "BAR": 4.25,
-    "StylePlus": "121",
-    "RatingScore": 4.83,
-    "AdjustedRating": "2.0566247243664717348927875244"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4210984_1efe4_sm.jpeg",
+    "HallRating": 17.00,
+    "BAR": 7.23,
+    "StylePlus": "128",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.0615779341573383084577114428"
   },
   {
     "BID": 4407318,
@@ -177,7 +162,22 @@
     "BAR": 10.08,
     "StylePlus": "115",
     "RatingScore": 4.24,
-    "AdjustedRating": "2.7430996707202993451824134705"
+    "AdjustedRating": "2.7417000424963250033409060537"
+  },
+  {
+    "BID": 6600522,
+    "BeerName": "All Pie Is Good Pie",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brewlihan",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
+    "HallRating": 16.99,
+    "BAR": 4.25,
+    "StylePlus": "121",
+    "RatingScore": 4.83,
+    "AdjustedRating": "2.0545831224171539961013645224"
   },
   {
     "BID": 3402860,
@@ -192,7 +192,7 @@
     "BAR": 10.08,
     "StylePlus": "113",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.7963620693926495974277544243"
+    "AdjustedRating": "2.7949819360364752856220433012"
   },
   {
     "BID": 4000077,
@@ -207,22 +207,7 @@
     "BAR": 8.96,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1610954660993225463299927216"
-  },
-  {
-    "BID": 6405137,
-    "BeerName": "Ou Cê Pira Ou Cê Cicaba",
-    "BeerStyle": "IPA - Other",
-    "BreweryName": "Cervejaria Escafandrista",
-    "Origin": "Piracicaba, São Paulo Brazil",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405137_253da_sm.jpeg",
-    "HallRating": 16.95,
-    "BAR": 6.88,
-    "StylePlus": "124",
-    "RatingScore": 4.50,
-    "AdjustedRating": "2.0614090572351270378584490876"
+    "AdjustedRating": "2.1591408502696750835152940298"
   },
   {
     "BID": 6504815,
@@ -237,52 +222,22 @@
     "BAR": 9.09,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.189376214322590161516336013"
+    "AdjustedRating": "2.1874451320156353713400693266"
   },
   {
-    "BID": 3237217,
-    "BeerName": "Buckley Reserve #1",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Transient Artisan Ales",
-    "Origin": "Bridgman, MI United States",
-    "BeerAbv": 15.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3237217_22569_sm.jpeg",
-    "HallRating": 16.94,
-    "BAR": 9.08,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1878348405904059040590405904"
-  },
-  {
-    "BID": 6003704,
-    "BeerName": "THE GREAT NORTHERN BARREL-AGED SERIES 45 - RELEASED 09/30/24",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Evil Twin Brewing NYC",
-    "Origin": "Ridgewood, NY United States",
+    "BID": 6405137,
+    "BeerName": "Ou Cê Pira Ou Cê Cicaba",
+    "BeerStyle": "IPA - Other",
+    "BreweryName": "Cervejaria Escafandrista",
+    "Origin": "Piracicaba, São Paulo Brazil",
     "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003704_be6c6_sm.jpeg",
-    "HallRating": 16.94,
-    "BAR": 7.91,
-    "StylePlus": "113",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0769080220438944213477714396"
-  },
-  {
-    "BID": 4630746,
-    "BeerName": "Water Balloon Street Fighter",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 8.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3453635_ffca0_sm.jpeg",
-    "HallRating": 16.94,
-    "BAR": 9.07,
-    "StylePlus": "115",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.180854479574499519834527591"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405137_253da_sm.jpeg",
+    "HallRating": 16.95,
+    "BAR": 6.88,
+    "StylePlus": "125",
+    "RatingScore": 4.50,
+    "AdjustedRating": "2.0593715065561651297614878798"
   },
   {
     "BID": 6610999,
@@ -297,7 +252,52 @@
     "BAR": 6.32,
     "StylePlus": "116",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0591059251036980779342174446"
+    "AdjustedRating": "2.0570663508013475881677085159"
+  },
+  {
+    "BID": 6003704,
+    "BeerName": "THE GREAT NORTHERN BARREL-AGED SERIES 45 - RELEASED 09/30/24",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Evil Twin Brewing NYC",
+    "Origin": "Ridgewood, NY United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003704_be6c6_sm.jpeg",
+    "HallRating": 16.94,
+    "BAR": 7.91,
+    "StylePlus": "113",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0748828034419414096490379967"
+  },
+  {
+    "BID": 4630746,
+    "BeerName": "Water Balloon Street Fighter",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Monkish Brewing Co.",
+    "Origin": "Torrance, CA United States",
+    "BeerAbv": 8.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3453635_ffca0_sm.jpeg",
+    "HallRating": 16.94,
+    "BAR": 9.07,
+    "StylePlus": "115",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.1789202589199970451355544064"
+  },
+  {
+    "BID": 3237217,
+    "BeerName": "Buckley Reserve #1",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Transient Artisan Ales",
+    "Origin": "Bridgman, MI United States",
+    "BeerAbv": 15.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3237217_22569_sm.jpeg",
+    "HallRating": 16.94,
+    "BAR": 9.08,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1859024756457564575645756458"
   },
   {
     "BID": 3950068,
@@ -312,7 +312,7 @@
     "BAR": 6.57,
     "StylePlus": "119",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0600612879112322367140354292"
+    "AdjustedRating": "2.0580224679774187268833949776"
   },
   {
     "BID": 6213066,
@@ -327,7 +327,7 @@
     "BAR": 7.30,
     "StylePlus": "125",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.064799595174731443889741448"
+    "AdjustedRating": "2.0627650921735076438936265273"
   },
   {
     "BID": 2610183,
@@ -342,22 +342,7 @@
     "BAR": 8.26,
     "StylePlus": "113",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0914072634330079175955108002"
-  },
-  {
-    "BID": 5801120,
-    "BeerName": "Vermont Pale Lager",
-    "BeerStyle": "Lager - Pale",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
-    "HallRating": 16.88,
-    "BAR": 8.17,
-    "StylePlus": "132",
-    "RatingScore": 4.12,
-    "AdjustedRating": "2.0817950278221691664901707838"
+    "AdjustedRating": "2.0893945380121454377738488739"
   },
   {
     "BID": 4632079,
@@ -372,6 +357,21 @@
     "BAR": 6.92,
     "StylePlus": "116",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0621681389558857854197463627"
+    "AdjustedRating": "2.060130984595036178324126663"
+  },
+  {
+    "BID": 5801120,
+    "BeerName": "Vermont Pale Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 16.88,
+    "BAR": 8.17,
+    "StylePlus": "132",
+    "RatingScore": 4.12,
+    "AdjustedRating": "2.0797784658336060996977106879"
   }
 ]

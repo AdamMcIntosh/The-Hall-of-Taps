@@ -12,7 +12,7 @@
     "BAR": 6.65,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0647151198849726032720631096"
+    "AdjustedRating": "2.0626801029806085571056619904"
   },
   {
     "BID": 3334136,
@@ -27,7 +27,7 @@
     "BAR": 6.64,
     "StylePlus": "114",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0644821304212653505362972175"
+    "AdjustedRating": "2.0624470344318358464169127934"
   },
   {
     "BID": 3626673,
@@ -42,7 +42,7 @@
     "BAR": 8.64,
     "StylePlus": "109",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.2964493874621430947254170824"
+    "AdjustedRating": "2.2946159021760061621413441171"
   },
   {
     "BID": 1206196,
@@ -57,7 +57,7 @@
     "BAR": 8.24,
     "StylePlus": "110",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.1676764422790836060696221363"
+    "AdjustedRating": "2.1657288414906277893484082118"
   },
   {
     "BID": 1011219,
@@ -72,37 +72,7 @@
     "BAR": 9.54,
     "StylePlus": "109",
     "RatingScore": 4.38,
-    "AdjustedRating": "3.3273036321725383521598205375"
-  },
-  {
-    "BID": 3903561,
-    "BeerName": "Madeline (Batch #06 - 5th Birthday)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
-    "HallRating": 15.51,
-    "BAR": 7.01,
-    "StylePlus": "113",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0703537189377786392711765846"
-  },
-  {
-    "BID": 3623591,
-    "BeerName": "Saint Lamvinus",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_38399_sm_e215b60ab7b9a554fe47a1c2b24d16.jpeg",
-    "HallRating": 15.51,
-    "BAR": 9.19,
-    "StylePlus": "108",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.7824845428810223504354155995"
+    "AdjustedRating": "3.3263786391938318598920752117"
   },
   {
     "BID": 4504061,
@@ -117,7 +87,7 @@
     "BAR": 8.68,
     "StylePlus": "112",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.3128925693531649948114839156"
+    "AdjustedRating": "2.3110811860947768938083708059"
   },
   {
     "BID": 4601596,
@@ -132,7 +102,22 @@
     "BAR": 8.24,
     "StylePlus": "113",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.1633262418938253711652451827"
+    "AdjustedRating": "2.1613801248676068900161658955"
+  },
+  {
+    "BID": 3903561,
+    "BeerName": "Madeline (Batch #06 - 5th Birthday)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
+    "HallRating": 15.51,
+    "BAR": 7.01,
+    "StylePlus": "113",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0683235933320410932351230859"
   },
   {
     "BID": 1501844,
@@ -147,22 +132,22 @@
     "BAR": 9.42,
     "StylePlus": "110",
     "RatingScore": 4.24,
-    "AdjustedRating": "3.0556793017551279340241065764"
+    "AdjustedRating": "3.0545719410023260731655741171"
   },
   {
-    "BID": 2401621,
-    "BeerName": "Barrel-Aged TrillBOMB!",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Trillium Brewing Company",
-    "Origin": "Canton, MA United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 4.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2401621_a0bc3_sm.jpeg",
-    "HallRating": 15.50,
-    "BAR": 8.36,
-    "StylePlus": "110",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.200781463307375171781951443"
+    "BID": 3623591,
+    "BeerName": "Saint Lamvinus",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_38399_sm_e215b60ab7b9a554fe47a1c2b24d16.jpeg",
+    "HallRating": 15.51,
+    "BAR": 9.19,
+    "StylePlus": "108",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.781072688522822247984686312"
   },
   {
     "BID": 2004579,
@@ -177,7 +162,7 @@
     "BAR": 8.63,
     "StylePlus": "108",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.3041305696833925477361429547"
+    "AdjustedRating": "2.3022975336471988378808827905"
   },
   {
     "BID": 5004349,
@@ -192,7 +177,22 @@
     "BAR": 9.07,
     "StylePlus": "110",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.632475598438664970834612517"
+    "AdjustedRating": "2.6309444641316901305498296858"
+  },
+  {
+    "BID": 2401621,
+    "BeerName": "Barrel-Aged TrillBOMB!",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Trillium Brewing Company",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 4.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2401621_a0bc3_sm.jpeg",
+    "HallRating": 15.50,
+    "BAR": 8.36,
+    "StylePlus": "110",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.1988623761795693999083829592"
   },
   {
     "BID": 5610094,
@@ -207,97 +207,7 @@
     "BAR": 7.77,
     "StylePlus": "111",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.105020221636287210057701861"
-  },
-  {
-    "BID": 3800631,
-    "BeerName": "Legroom",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Trillium Brewing Company",
-    "Origin": "Canton, MA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3800631_f91be_sm.jpeg",
-    "HallRating": 15.48,
-    "BAR": 8.93,
-    "StylePlus": "110",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.5114675160559123536078579524"
-  },
-  {
-    "BID": 1640636,
-    "BeerName": "Saison",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Casey Brewing & Blending",
-    "Origin": "Glenwood Springs, CO United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-734462_8b56e_sm.jpeg",
-    "HallRating": 15.48,
-    "BAR": 8.57,
-    "StylePlus": "115",
-    "RatingScore": 4.24,
-    "AdjustedRating": "2.2572224587116987945409165737"
-  },
-  {
-    "BID": 3900408,
-    "BeerName": "Low Hanging Fruit (Passionfruit, Orange & Guava)",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Coles Road Brewing",
-    "Origin": "Berlin, CT United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-217599_3abb7.jpeg",
-    "HallRating": 15.48,
-    "BAR": 7.09,
-    "StylePlus": "122",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.0706822970251007127362875736"
-  },
-  {
-    "BID": 6003072,
-    "BeerName": "Atramento (Batch 2)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Tuber Meadery",
-    "Origin": "Zeist, Utrecht Netherlands",
-    "BeerAbv": 12.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003072_134e8_sm.jpeg",
-    "HallRating": 15.48,
-    "BAR": 6.06,
-    "StylePlus": "115",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0602598220924574209245742092"
-  },
-  {
-    "BID": 4010847,
-    "BeerName": "Pumpkinator Aged In Bourbon Barrels (2020)",
-    "BeerStyle": "Pumpkin / Yam Beer",
-    "BreweryName": "Saint Arnold Brewing Company",
-    "Origin": "Houston, TX United States",
-    "BeerAbv": 12.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4005283_102f0_sm.jpeg",
-    "HallRating": 15.48,
-    "BAR": 7.98,
-    "StylePlus": "118",
-    "RatingScore": 4.30,
-    "AdjustedRating": "2.1223187958372753074739829707"
-  },
-  {
-    "BID": 6201911,
-    "BeerName": "Juice Lab: Passionfruit, Blood Orange, Raspberry",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Ology Brewing Co",
-    "Origin": "Tallahassee, FL United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2457274_e5b23_sm.jpeg",
-    "HallRating": 15.48,
-    "BAR": 7.98,
-    "StylePlus": "114",
-    "RatingScore": 4.35,
-    "AdjustedRating": "2.1234576352144127777146966428"
+    "AdjustedRating": "2.1030191100156673927165730444"
   },
   {
     "BID": 6407335,
@@ -312,7 +222,37 @@
     "BAR": 5.14,
     "StylePlus": "116",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.0576689534498548352526256308"
+    "AdjustedRating": "2.0556281869020478946240330469"
+  },
+  {
+    "BID": 6201911,
+    "BeerName": "Juice Lab: Passionfruit, Blood Orange, Raspberry",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Ology Brewing Co",
+    "Origin": "Tallahassee, FL United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2457274_e5b23_sm.jpeg",
+    "HallRating": 15.48,
+    "BAR": 7.98,
+    "StylePlus": "114",
+    "RatingScore": 4.35,
+    "AdjustedRating": "2.1214756099314938874380227849"
+  },
+  {
+    "BID": 1640636,
+    "BeerName": "Saison",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Casey Brewing & Blending",
+    "Origin": "Glenwood Springs, CO United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-734462_8b56e_sm.jpeg",
+    "HallRating": 15.48,
+    "BAR": 8.57,
+    "StylePlus": "115",
+    "RatingScore": 4.24,
+    "AdjustedRating": "2.2553685267201246172092117607"
   },
   {
     "BID": 6011810,
@@ -327,37 +267,52 @@
     "BAR": 6.42,
     "StylePlus": "111",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0627152900453104641891760496"
+    "AdjustedRating": "2.0606785714563522159345040157"
   },
   {
-    "BID": 2422961,
-    "BeerName": "Foedre Fermier (Blend #2)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 6.00,
+    "BID": 3900408,
+    "BeerName": "Low Hanging Fruit (Passionfruit, Orange & Guava)",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Coles Road Brewing",
+    "Origin": "Berlin, CT United States",
+    "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-sideproject_64810.jpeg",
-    "HallRating": 15.46,
-    "BAR": 8.01,
-    "StylePlus": "116",
-    "RatingScore": 4.29,
-    "AdjustedRating": "2.1273433061532653831634579086"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-217599_3abb7.jpeg",
+    "HallRating": 15.48,
+    "BAR": 7.09,
+    "StylePlus": "122",
+    "RatingScore": 4.26,
+    "AdjustedRating": "2.0686538228230554694762937713"
   },
   {
-    "BID": 6029998,
-    "BeerName": "Barrel Aged Squanderous",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Moksa Brewing Co",
-    "Origin": "Rocklin, CA United States",
-    "BeerAbv": 13.80,
+    "BID": 6003072,
+    "BeerName": "Atramento (Batch 2)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Tuber Meadery",
+    "Origin": "Zeist, Utrecht Netherlands",
+    "BeerAbv": 12.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6029998_07b8f_sm.jpeg",
-    "HallRating": 15.46,
-    "BAR": 6.87,
-    "StylePlus": "111",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0683750166860690725649980598"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003072_134e8_sm.jpeg",
+    "HallRating": 15.48,
+    "BAR": 6.06,
+    "StylePlus": "115",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.0582212005839416058394160584"
+  },
+  {
+    "BID": 3800631,
+    "BeerName": "Legroom",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Trillium Brewing Company",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3800631_f91be_sm.jpeg",
+    "HallRating": 15.48,
+    "BAR": 8.93,
+    "StylePlus": "110",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.5098188858456113839566805188"
   },
   {
     "BID": 5410071,
@@ -372,6 +327,51 @@
     "BAR": 7.47,
     "StylePlus": "125",
     "RatingScore": 4.06,
-    "AdjustedRating": "2.0807045979047912494222769989"
+    "AdjustedRating": "2.0786876864119550146356493607"
+  },
+  {
+    "BID": 2422961,
+    "BeerName": "Foedre Fermier (Blend #2)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Side Project Brewing",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-sideproject_64810.jpeg",
+    "HallRating": 15.46,
+    "BAR": 8.01,
+    "StylePlus": "116",
+    "RatingScore": 4.29,
+    "AdjustedRating": "2.1253664435636089090222725557"
+  },
+  {
+    "BID": 5301004,
+    "BeerName": "Grand Cuvee Del Cerrito",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Horus Aged Ales",
+    "Origin": "Oceanside, CA United States",
+    "BeerAbv": 14.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5301004_e4c84_sm.jpeg",
+    "HallRating": 15.46,
+    "BAR": 7.01,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0689890149033896005736545282"
+  },
+  {
+    "BID": 6029998,
+    "BeerName": "Barrel Aged Squanderous",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Moksa Brewing Co",
+    "Origin": "Rocklin, CA United States",
+    "BeerAbv": 13.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6029998_07b8f_sm.jpeg",
+    "HallRating": 15.46,
+    "BAR": 6.87,
+    "StylePlus": "111",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0663429216142801707411719053"
   }
 ]

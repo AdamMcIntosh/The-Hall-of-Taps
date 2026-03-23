@@ -1,18 +1,18 @@
 [
   {
-    "BID": 6425109,
-    "BeerName": "FH Sitra Achra (2025)",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Brujos Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 9.20,
+    "BID": 5206901,
+    "BeerName": "Interception of Entropy 1000 Days (2023)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Incendiary Brewing Company",
+    "Origin": "Winston-Salem, NC United States",
+    "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6425109_157d3_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-393444_b28e5.jpeg",
     "HallRating": 15.66,
-    "BAR": 7.94,
-    "StylePlus": "112",
-    "RatingScore": 4.50,
-    "AdjustedRating": "2.1130469657615112160566706021"
+    "BAR": 6.34,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.0595119490272373540856031128"
   },
   {
     "BID": 5023643,
@@ -27,7 +27,7 @@
     "BAR": 7.20,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.073514517821532980968422683"
+    "AdjustedRating": "2.0714867898007783005169309403"
   },
   {
     "BID": 1001485,
@@ -42,22 +42,7 @@
     "BAR": 8.75,
     "StylePlus": "113",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.3078915054527801376631933006"
-  },
-  {
-    "BID": 5408103,
-    "BeerName": "LUXURIOUS LUXURY VOLUME FOURTEEN",
-    "BeerStyle": "Sour - Other Gose",
-    "BreweryName": "Evil Twin Brewing NYC",
-    "Origin": "Ridgewood, NY United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5408103_ae3c9_sm.jpeg",
-    "HallRating": 15.63,
-    "BAR": 7.53,
-    "StylePlus": "117",
-    "RatingScore": 4.37,
-    "AdjustedRating": "2.0834565420776818742293464858"
+    "AdjustedRating": "2.3060756311874750767203564679"
   },
   {
     "BID": 4980786,
@@ -72,37 +57,22 @@
     "BAR": 7.06,
     "StylePlus": "122",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.068801945526800426480566056"
+    "AdjustedRating": "2.0667716231462634486769409712"
   },
   {
-    "BID": 5302922,
-    "BeerName": "Pineapple Lychee Vanilla Smoothie",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Untitled Art",
-    "Origin": "Waunakee, WI United States",
-    "BeerAbv": 7.00,
+    "BID": 5408103,
+    "BeerName": "LUXURIOUS LUXURY VOLUME FOURTEEN",
+    "BeerStyle": "Sour - Other Gose",
+    "BreweryName": "Evil Twin Brewing NYC",
+    "Origin": "Ridgewood, NY United States",
+    "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5302922_ae506_sm.jpeg",
-    "HallRating": 15.62,
-    "BAR": 7.87,
-    "StylePlus": "125",
-    "RatingScore": 4.13,
-    "AdjustedRating": "2.1002486043582795863069114224"
-  },
-  {
-    "BID": 4600017,
-    "BeerName": "Time Reaper: German Chocolate Cake",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Arvon Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 12.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4600017_2e047_sm.jpeg",
-    "HallRating": 15.62,
-    "BAR": 6.66,
-    "StylePlus": "121",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.0638932833268558103381267003"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5408103_ae3c9_sm.jpeg",
+    "HallRating": 15.63,
+    "BAR": 7.53,
+    "StylePlus": "117",
+    "RatingScore": 4.37,
+    "AdjustedRating": "2.0814386979808877928483353884"
   },
   {
     "BID": 2450084,
@@ -117,7 +87,37 @@
     "BAR": 8.61,
     "StylePlus": "115",
     "RatingScore": 4.27,
-    "AdjustedRating": "2.248031096707562456596449367"
+    "AdjustedRating": "2.2461661386420698374258800905"
+  },
+  {
+    "BID": 4600017,
+    "BeerName": "Time Reaper: German Chocolate Cake",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Arvon Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 12.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4600017_2e047_sm.jpeg",
+    "HallRating": 15.62,
+    "BAR": 6.66,
+    "StylePlus": "120",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.061858029148853478429848426"
+  },
+  {
+    "BID": 5302922,
+    "BeerName": "Pineapple Lychee Vanilla Smoothie",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Untitled Art",
+    "Origin": "Waunakee, WI United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5302922_ae506_sm.jpeg",
+    "HallRating": 15.62,
+    "BAR": 7.87,
+    "StylePlus": "125",
+    "RatingScore": 4.13,
+    "AdjustedRating": "2.0982500893027515933290081288"
   },
   {
     "BID": 6012567,
@@ -132,7 +132,7 @@
     "BAR": 6.58,
     "StylePlus": "113",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0636693950703677785553222922"
+    "AdjustedRating": "2.0616335078920768213980250369"
   },
   {
     "BID": 5410718,
@@ -147,7 +147,7 @@
     "BAR": 9.48,
     "StylePlus": "112",
     "RatingScore": 4.10,
-    "AdjustedRating": "3.0080635414453263337708059913"
+    "AdjustedRating": "3.0069726285857133929129429411"
   },
   {
     "BID": 6212155,
@@ -162,7 +162,7 @@
     "BAR": 7.82,
     "StylePlus": "115",
     "RatingScore": 4.35,
-    "AdjustedRating": "2.1014581626373626373626373626"
+    "AdjustedRating": "2.0994565538461538461538461538"
   },
   {
     "BID": 4979998,
@@ -177,7 +177,7 @@
     "BAR": 8.27,
     "StylePlus": "113",
     "RatingScore": 4.32,
-    "AdjustedRating": "2.1583705039373010406389038852"
+    "AdjustedRating": "2.1564207640039466090809241022"
   },
   {
     "BID": 6402689,
@@ -192,7 +192,7 @@
     "BAR": 5.69,
     "StylePlus": "115",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0587616298229554174863175116"
+    "AdjustedRating": "2.0567217377247141772003973278"
   },
   {
     "BID": 6302951,
@@ -207,7 +207,7 @@
     "BAR": 8.30,
     "StylePlus": "110",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.1706783288789903489235337788"
+    "AdjustedRating": "2.1687344873793615441722345954"
   },
   {
     "BID": 6303290,
@@ -222,7 +222,7 @@
     "BAR": 5.69,
     "StylePlus": "123",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0586171115828837426718345247"
+    "AdjustedRating": "2.0565772194846425023859143408"
   },
   {
     "BID": 3601340,
@@ -237,7 +237,7 @@
     "BAR": 8.71,
     "StylePlus": "108",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.3210584068767908309455587393"
+    "AdjustedRating": "2.3192396315012590084223322046"
   },
   {
     "BID": 6204507,
@@ -252,7 +252,7 @@
     "BAR": 4.39,
     "StylePlus": "140",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0568014493714062956826819998"
+    "AdjustedRating": "2.0547600463892408147354059059"
   },
   {
     "BID": 6025563,
@@ -267,22 +267,7 @@
     "BAR": 8.07,
     "StylePlus": "115",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.1285361538751934765374306316"
-  },
-  {
-    "BID": 5205687,
-    "BeerName": "Inside Voice",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Sante Adairius Rustic Ales",
-    "Origin": "Capitola, CA United States",
-    "BeerAbv": 16.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
-    "HallRating": 15.56,
-    "BAR": 7.46,
-    "StylePlus": "114",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.0825168374783111625216888375"
+    "AdjustedRating": "2.1265592166559704028087130507"
   },
   {
     "BID": 6608673,
@@ -297,7 +282,22 @@
     "BAR": 5.85,
     "StylePlus": "119",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.059216971608832807570977918"
+    "AdjustedRating": "2.0571775164544144565175059392"
+  },
+  {
+    "BID": 5205687,
+    "BeerName": "Inside Voice",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Sante Adairius Rustic Ales",
+    "Origin": "Capitola, CA United States",
+    "BeerAbv": 16.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
+    "HallRating": 15.56,
+    "BAR": 7.46,
+    "StylePlus": "114",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.0804976707152496626180836707"
   },
   {
     "BID": 1674268,
@@ -312,7 +312,7 @@
     "BAR": 8.40,
     "StylePlus": "114",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.1911120379667973760398724667"
+    "AdjustedRating": "2.1891929156741305383515959981"
   },
   {
     "BID": 4212953,
@@ -327,7 +327,7 @@
     "BAR": 7.80,
     "StylePlus": "113",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.1033073772715980967304274713"
+    "AdjustedRating": "2.1013059979744319810437408037"
   },
   {
     "BID": 4502685,
@@ -342,7 +342,7 @@
     "BAR": 8.30,
     "StylePlus": "110",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.1767797780326292035070844586"
+    "AdjustedRating": "2.1748424804853686508083311753"
   },
   {
     "BID": 300233,
@@ -357,7 +357,7 @@
     "BAR": 7.96,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.1216084228499876681401658161"
+    "AdjustedRating": "2.1196213963459750706710428959"
   },
   {
     "BID": 5423439,
@@ -372,6 +372,6 @@
     "BAR": 7.36,
     "StylePlus": "116",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.0787950025099432366683399622"
+    "AdjustedRating": "2.0767728729196432019152797621"
   }
 ]

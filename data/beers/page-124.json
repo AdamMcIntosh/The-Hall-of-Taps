@@ -1,95 +1,5 @@
 [
   {
-    "BID": 3804433,
-    "BeerName": "Delirium Black Barrel Aged",
-    "BeerStyle": "Belgian Strong Dark Ale",
-    "BreweryName": "Delirium - Huyghe Brewery",
-    "Origin": "Melle, Vlaams Gewest Belgium",
-    "BeerAbv": 11.50,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2862156_c60aa_sm.jpeg",
-    "HallRating": 11.72,
-    "BAR": 7.01,
-    "StylePlus": "108",
-    "RatingScore": 4.04,
-    "AdjustedRating": "2.7685704263294682127149140344"
-  },
-  {
-    "BID": 4424094,
-    "BeerName": "Orange, Tangerine and Rosemary",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Fable Meadery",
-    "Origin": "Russia",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4424094_97f95_sm.jpeg",
-    "HallRating": 11.72,
-    "BAR": 5.25,
-    "StylePlus": "114",
-    "RatingScore": 4.17,
-    "AdjustedRating": "2.0672353353244637523757806136"
-  },
-  {
-    "BID": 4445550,
-    "BeerName": "Gin & Tonic Seltzer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Freshly Sprouted",
-    "Origin": "Beaver Falls, PA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4445550_66b6b_sm.jpeg",
-    "HallRating": 11.72,
-    "BAR": 3.41,
-    "StylePlus": "119",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.05681424289083360944900306"
-  },
-  {
-    "BID": 6301999,
-    "BeerName": "Crazy Normal",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 6.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-MonkishBrewingCo_21152.jpeg",
-    "HallRating": 11.72,
-    "BAR": 5.54,
-    "StylePlus": "112",
-    "RatingScore": 4.23,
-    "AdjustedRating": "2.0764896546662546353522867738"
-  },
-  {
-    "BID": 6402514,
-    "BeerName": "Howya!",
-    "BeerStyle": "Stout - Irish Dry",
-    "BreweryName": "Daoravida Brewpub",
-    "Origin": "Campinas, São Paulo Brazil",
-    "BeerAbv": 4.10,
-    "BeerIbu": 39.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-73496_1c365.jpeg",
-    "HallRating": 11.72,
-    "BAR": 3.69,
-    "StylePlus": "119",
-    "RatingScore": 4.34,
-    "AdjustedRating": "2.0571522071949175663561601123"
-  },
-  {
-    "BID": 6422945,
-    "BeerName": "Century",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Twin Elephant Brewing Company",
-    "Origin": "Chatham Borough, NJ United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6422945_2eed4_sm.jpeg",
-    "HallRating": 11.72,
-    "BAR": 5.60,
-    "StylePlus": "109",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.0811130725610461752112024071"
-  },
-  {
     "BID": 3201847,
     "BeerName": "Orval (2011)",
     "BeerStyle": "Pale Ale - Belgian",
@@ -102,22 +12,7 @@
     "BAR": 5.97,
     "StylePlus": "113",
     "RatingScore": 3.97,
-    "AdjustedRating": "2.1037854481853957149103629209"
-  },
-  {
-    "BID": 6409370,
-    "BeerName": "Duckie Under A Bridge",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Vitamin Sea Brewing",
-    "Origin": "East Weymouth, MA United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6409370_3c807_sm.jpeg",
-    "HallRating": 11.72,
-    "BAR": 5.46,
-    "StylePlus": "109",
-    "RatingScore": 4.40,
-    "AdjustedRating": "2.0748070394367831653869214552"
+    "AdjustedRating": "2.1017943419326628771316134674"
   },
   {
     "BID": 6250112,
@@ -132,7 +27,22 @@
     "BAR": 5.31,
     "StylePlus": "107",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0703738199155006007984805613"
+    "AdjustedRating": "2.0683440090701189968603434242"
+  },
+  {
+    "BID": 6409370,
+    "BeerName": "Duckie Under A Bridge",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Vitamin Sea Brewing",
+    "Origin": "East Weymouth, MA United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6409370_3c807_sm.jpeg",
+    "HallRating": 11.72,
+    "BAR": 5.46,
+    "StylePlus": "109",
+    "RatingScore": 4.40,
+    "AdjustedRating": "2.0727813507920236736746417036"
   },
   {
     "BID": 5225184,
@@ -147,82 +57,7 @@
     "BAR": 5.98,
     "StylePlus": "115",
     "RatingScore": 3.95,
-    "AdjustedRating": "2.1045149395850748537122881678"
-  },
-  {
-    "BID": 6540493,
-    "BeerName": "Morana",
-    "BeerStyle": "Lager - Dark",
-    "BreweryName": "Brujos Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-178746_96491.jpeg",
-    "HallRating": 11.72,
-    "BAR": 5.04,
-    "StylePlus": "117",
-    "RatingScore": 4.09,
-    "AdjustedRating": "2.0633151042294018223146115439"
-  },
-  {
-    "BID": 3340714,
-    "BeerName": "Anduin",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Living Waters Brewing",
-    "Origin": "Nashville, TN United States",
-    "BeerAbv": 10.10,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-413851_e12d1.jpeg",
-    "HallRating": 11.71,
-    "BAR": 5.73,
-    "StylePlus": "111",
-    "RatingScore": 4.23,
-    "AdjustedRating": "2.0875379659128028745460484599"
-  },
-  {
-    "BID": 5414816,
-    "BeerName": "Seasons Past  (1/10/23)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Casey Brewing & Blending",
-    "Origin": "Glenwood Springs, CO United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-127424_d63e0.jpeg",
-    "HallRating": 11.71,
-    "BAR": 4.37,
-    "StylePlus": "116",
-    "RatingScore": 4.28,
-    "AdjustedRating": "2.0587257961870265428131876692"
-  },
-  {
-    "BID": 6413593,
-    "BeerName": "Seven Grain Situation",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Elder Pine Brewing & Blending",
-    "Origin": "Gaithersburg, MD United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6413593_2d661_sm.jpeg",
-    "HallRating": 11.71,
-    "BAR": 5.23,
-    "StylePlus": "117",
-    "RatingScore": 4.04,
-    "AdjustedRating": "2.0662433246692788144469876246"
-  },
-  {
-    "BID": 4201926,
-    "BeerName": "Suffer",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "The Veil Brewing Co.",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4201926_772f4_sm.jpeg",
-    "HallRating": 11.71,
-    "BAR": 5.88,
-    "StylePlus": "108",
-    "RatingScore": 4.37,
-    "AdjustedRating": "2.1031101417274706803682622149"
+    "AdjustedRating": "2.1025251573067862299566836386"
   },
   {
     "BID": 4411826,
@@ -237,7 +72,22 @@
     "BAR": 5.85,
     "StylePlus": "110",
     "RatingScore": 4.22,
-    "AdjustedRating": "2.0970203783545974483062032556"
+    "AdjustedRating": "2.0950170083589969203695556533"
+  },
+  {
+    "BID": 6413593,
+    "BeerName": "Seven Grain Situation",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Elder Pine Brewing & Blending",
+    "Origin": "Gaithersburg, MD United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6413593_2d661_sm.jpeg",
+    "HallRating": 11.71,
+    "BAR": 5.23,
+    "StylePlus": "117",
+    "RatingScore": 4.04,
+    "AdjustedRating": "2.0642117814330604802731116887"
   },
   {
     "BID": 5412523,
@@ -252,7 +102,37 @@
     "BAR": 4.88,
     "StylePlus": "112",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0622298384180131832234731377"
+    "AdjustedRating": "2.0601933574442435201928872815"
+  },
+  {
+    "BID": 3340714,
+    "BeerName": "Anduin",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Living Waters Brewing",
+    "Origin": "Nashville, TN United States",
+    "BeerAbv": 10.10,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-413851_e12d1.jpeg",
+    "HallRating": 11.71,
+    "BAR": 5.73,
+    "StylePlus": "111",
+    "RatingScore": 4.23,
+    "AdjustedRating": "2.0855255112118824817939011971"
+  },
+  {
+    "BID": 5414816,
+    "BeerName": "Seasons Past  (1/10/23)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Casey Brewing & Blending",
+    "Origin": "Glenwood Springs, CO United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-127424_d63e0.jpeg",
+    "HallRating": 11.71,
+    "BAR": 4.37,
+    "StylePlus": "116",
+    "RatingScore": 4.28,
+    "AdjustedRating": "2.0566862218846760530466787404"
   },
   {
     "BID": 5804536,
@@ -267,7 +147,22 @@
     "BAR": 5.28,
     "StylePlus": "112",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.0686304716853104825420212869"
+    "AdjustedRating": "2.0665999918574668967255384735"
+  },
+  {
+    "BID": 4201926,
+    "BeerName": "Suffer",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4201926_772f4_sm.jpeg",
+    "HallRating": 11.71,
+    "BAR": 5.88,
+    "StylePlus": "108",
+    "RatingScore": 4.37,
+    "AdjustedRating": "2.1011096416701684685028842113"
   },
   {
     "BID": 2105080,
@@ -282,7 +177,7 @@
     "BAR": 6.75,
     "StylePlus": "111",
     "RatingScore": 4.05,
-    "AdjustedRating": "2.4326551170293522267206477733"
+    "AdjustedRating": "2.4309987692940283400809716599"
   },
   {
     "BID": 5417329,
@@ -297,7 +192,22 @@
     "BAR": 5.50,
     "StylePlus": "117",
     "RatingScore": 3.95,
-    "AdjustedRating": "2.0728825360876538677075885524"
+    "AdjustedRating": "2.0708586480898181607374055537"
+  },
+  {
+    "BID": 4430473,
+    "BeerName": "Double Frooted Jam",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "More Brewing Company",
+    "Origin": "Huntley, IL United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4430473_c87b9_sm.jpeg",
+    "HallRating": 11.70,
+    "BAR": 5.81,
+    "StylePlus": "114",
+    "RatingScore": 3.98,
+    "AdjustedRating": "2.0876896321980000766254166507"
   },
   {
     "BID": 6034135,
@@ -312,37 +222,7 @@
     "BAR": 4.54,
     "StylePlus": "109",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0597809686587502433326844462"
-  },
-  {
-    "BID": 5812710,
-    "BeerName": "From Below",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Cerebral Brewing",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5812710_65426_sm.jpeg",
-    "HallRating": 11.70,
-    "BAR": 5.58,
-    "StylePlus": "109",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.0807122009375542566120724579"
-  },
-  {
-    "BID": 5818601,
-    "BeerName": "Guava Passion Fruit",
-    "BeerStyle": "Cider - Other Fruit",
-    "BreweryName": "Downeast Cider House",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4880166_5227c_sm.jpeg",
-    "HallRating": 11.70,
-    "BAR": 6.52,
-    "StylePlus": "111",
-    "RatingScore": 4.07,
-    "AdjustedRating": "2.2666558138235653555404249376"
+    "AdjustedRating": "2.0577421487249367335020439945"
   },
   {
     "BID": 5900664,
@@ -357,7 +237,82 @@
     "BAR": 5.03,
     "StylePlus": "121",
     "RatingScore": 4.00,
-    "AdjustedRating": "2.0630327613941018766756032172"
+    "AdjustedRating": "2.0609980607685433422698838248"
+  },
+  {
+    "BID": 5818601,
+    "BeerName": "Guava Passion Fruit",
+    "BeerStyle": "Cider - Other Fruit",
+    "BreweryName": "Downeast Cider House",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4880166_5227c_sm.jpeg",
+    "HallRating": 11.70,
+    "BAR": 6.52,
+    "StylePlus": "111",
+    "RatingScore": 4.07,
+    "AdjustedRating": "2.2648273220552034777143455717"
+  },
+  {
+    "BID": 2905098,
+    "BeerName": "Imperial Golden Nugget",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 7.80,
+    "BeerIbu": 100.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-904088_2091d_sm.jpeg",
+    "HallRating": 11.70,
+    "BAR": 6.78,
+    "StylePlus": "108",
+    "RatingScore": 4.18,
+    "AdjustedRating": "2.4996118690090923100631838496"
+  },
+  {
+    "BID": 4208483,
+    "BeerName": "Jam Sessions: Vol.3 Boysenberry, Blackberry, Raspberry",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Altitude Brewing",
+    "Origin": "Queenstown, Otago New Zealand",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4346969_23e76_sm.jpeg",
+    "HallRating": 11.70,
+    "BAR": 5.02,
+    "StylePlus": "111",
+    "RatingScore": 4.29,
+    "AdjustedRating": "2.0618615539149018845929667768"
+  },
+  {
+    "BID": 5812710,
+    "BeerName": "From Below",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Cerebral Brewing",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5812710_65426_sm.jpeg",
+    "HallRating": 11.70,
+    "BAR": 5.58,
+    "StylePlus": "109",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.0786917487508922198429693076"
+  },
+  {
+    "BID": 3207003,
+    "BeerName": "Cold Glory",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Austin Beerworks",
+    "Origin": "Austin, TX United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3207003_32c68_sm.jpeg",
+    "HallRating": 11.70,
+    "BAR": 5.91,
+    "StylePlus": "119",
+    "RatingScore": 3.71,
+    "AdjustedRating": "2.0907891520189118084416822359"
   },
   {
     "BID": 4632250,
@@ -372,6 +327,51 @@
     "BAR": 4.95,
     "StylePlus": "117",
     "RatingScore": 4.23,
-    "AdjustedRating": "2.0627602309127662882910900327"
+    "AdjustedRating": "2.0607245020214585600995179599"
+  },
+  {
+    "BID": 6413127,
+    "BeerName": "The Grape Gatsby",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Seek Beer Co.",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 5.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-519085_b29b1.jpeg",
+    "HallRating": 11.69,
+    "BAR": 3.29,
+    "StylePlus": "120",
+    "RatingScore": 4.27,
+    "AdjustedRating": "2.0546898777896891141214306598"
+  },
+  {
+    "BID": 4015227,
+    "BeerName": "Crossing Streams",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Adventurous Brewing",
+    "Origin": "Bettendorf, IA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4015227_aebe2_sm.jpeg",
+    "HallRating": 11.69,
+    "BAR": 5.53,
+    "StylePlus": "111",
+    "RatingScore": 4.21,
+    "AdjustedRating": "2.0745677959948245563215727169"
+  },
+  {
+    "BID": 5223164,
+    "BeerName": "Dark Lager",
+    "BeerStyle": "Lager - Dark",
+    "BreweryName": "Forest & Main Brewing Company",
+    "Origin": "Ambler, PA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-11094_742f6.jpeg",
+    "HallRating": 11.69,
+    "BAR": 5.65,
+    "StylePlus": "115",
+    "RatingScore": 4.02,
+    "AdjustedRating": "2.0782710221451954554207587137"
   }
 ]

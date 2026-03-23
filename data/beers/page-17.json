@@ -12,22 +12,7 @@
     "BAR": 7.58,
     "StylePlus": "114",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.070885712956681849016377556"
-  },
-  {
-    "BID": 4502493,
-    "BeerName": "Coco Nilla Killa AF",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 14.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4502493_c40b8_sm.jpeg",
-    "HallRating": 16.73,
-    "BAR": 7.67,
-    "StylePlus": "111",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0733134837422778240409009044"
+    "AdjustedRating": "2.0688557840876053881190037794"
   },
   {
     "BID": 4020606,
@@ -42,7 +27,22 @@
     "BAR": 7.85,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0779869800344034480759195191"
+    "AdjustedRating": "2.0759627008639517578615744409"
+  },
+  {
+    "BID": 4502493,
+    "BeerName": "Coco Nilla Killa AF",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 14.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4502493_c40b8_sm.jpeg",
+    "HallRating": 16.73,
+    "BAR": 7.67,
+    "StylePlus": "111",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.07128520595696884017274435"
   },
   {
     "BID": 3210632,
@@ -57,7 +57,7 @@
     "BAR": 10.18,
     "StylePlus": "113",
     "RatingScore": 4.29,
-    "AdjustedRating": "3.1135907877120210275575999014"
+    "AdjustedRating": "3.1125154439607376072939340425"
   },
   {
     "BID": 4426009,
@@ -72,7 +72,7 @@
     "BAR": 8.00,
     "StylePlus": "120",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0816419177289645729273137523"
+    "AdjustedRating": "2.0796220889823153915877576997"
   },
   {
     "BID": 5206408,
@@ -87,7 +87,7 @@
     "BAR": 8.27,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0973519904895212164209153836"
+    "AdjustedRating": "2.0953437804153164726861350258"
   },
   {
     "BID": 6036492,
@@ -102,37 +102,7 @@
     "BAR": 7.55,
     "StylePlus": "114",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0704514472919009033458690342"
-  },
-  {
-    "BID": 6500782,
-    "BeerName": "Vigo",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Dimensional Brewing Company",
-    "Origin": "Dubuque, IA United States",
-    "BeerAbv": 15.45,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6500782_c0b7e_sm.jpeg",
-    "HallRating": 16.70,
-    "BAR": 6.94,
-    "StylePlus": "115",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.0629173639793100766149418582"
-  },
-  {
-    "BID": 5802181,
-    "BeerName": "Coniferous (Templeton Rye Reserve)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Counterpart Brewing",
-    "Origin": "Niagara Falls, ON Canada",
-    "BeerAbv": 15.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5802181_1f081_sm.jpeg",
-    "HallRating": 16.70,
-    "BAR": 7.04,
-    "StylePlus": "117",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0635905440973504655638279261"
+    "AdjustedRating": "2.0684211642693754119334703214"
   },
   {
     "BID": 4150318,
@@ -147,7 +117,37 @@
     "BAR": 8.69,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1394877909846101682144404468"
+    "AdjustedRating": "2.1375149128788592310735208243"
+  },
+  {
+    "BID": 5802181,
+    "BeerName": "Coniferous (Templeton Rye Reserve)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Counterpart Brewing",
+    "Origin": "Niagara Falls, ON Canada",
+    "BeerAbv": 15.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5802181_1f081_sm.jpeg",
+    "HallRating": 16.70,
+    "BAR": 7.04,
+    "StylePlus": "117",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.0615546173434675271659895418"
+  },
+  {
+    "BID": 6500782,
+    "BeerName": "Vigo",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Dimensional Brewing Company",
+    "Origin": "Dubuque, IA United States",
+    "BeerAbv": 15.45,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6500782_c0b7e_sm.jpeg",
+    "HallRating": 16.70,
+    "BAR": 6.94,
+    "StylePlus": "115",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.0608807642048769105121922763"
   },
   {
     "BID": 5227141,
@@ -162,7 +162,7 @@
     "BAR": 9.85,
     "StylePlus": "110",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.744052213160230803373280071"
+    "AdjustedRating": "2.7425995087106080781180648025"
   },
   {
     "BID": 6210025,
@@ -177,7 +177,7 @@
     "BAR": 8.23,
     "StylePlus": "122",
     "RatingScore": 4.35,
-    "AdjustedRating": "2.0927440546399861865203461044"
+    "AdjustedRating": "2.0907346887170730771444467893"
   },
   {
     "BID": 6350845,
@@ -192,7 +192,7 @@
     "BAR": 8.56,
     "StylePlus": "118",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.1185816919196707943792312214"
+    "AdjustedRating": "2.1165955697570781104811029147"
   },
   {
     "BID": 4803669,
@@ -207,7 +207,7 @@
     "BAR": 8.51,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.1196213738079860187682838798"
+    "AdjustedRating": "2.1176318183199726454162075909"
   },
   {
     "BID": 4903534,
@@ -222,7 +222,7 @@
     "BAR": 8.55,
     "StylePlus": "110",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1240012966616084977238239757"
+    "AdjustedRating": "2.1220146847496206373292867982"
   },
   {
     "BID": 1500126,
@@ -237,7 +237,7 @@
     "BAR": 9.60,
     "StylePlus": "118",
     "RatingScore": 4.21,
-    "AdjustedRating": "2.4690126603104562288235757624"
+    "AdjustedRating": "2.4673621334804191947049089906"
   },
   {
     "BID": 4446791,
@@ -252,7 +252,7 @@
     "BAR": 7.02,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0638390195354261833025561279"
+    "AdjustedRating": "2.0618031719311886480707551754"
   },
   {
     "BID": 4902417,
@@ -267,7 +267,7 @@
     "BAR": 7.07,
     "StylePlus": "119",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0640004734141791044776119403"
+    "AdjustedRating": "2.0619650610230099502487562189"
   },
   {
     "BID": 6403654,
@@ -282,22 +282,7 @@
     "BAR": 10.08,
     "StylePlus": "110",
     "RatingScore": 4.42,
-    "AdjustedRating": "3.1064856928043680800814681602"
-  },
-  {
-    "BID": 5504237,
-    "BeerName": "Galaxy Otter",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Forager Brewery",
-    "Origin": "Rochester, MN United States",
-    "BeerAbv": 13.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5504237_fa2d5_sm.jpeg",
-    "HallRating": 16.62,
-    "BAR": 8.10,
-    "StylePlus": "115",
-    "RatingScore": 4.49,
-    "AdjustedRating": "2.0894086450521133802546055921"
+    "AdjustedRating": "3.1053510517192815201612029554"
   },
   {
     "BID": 6501261,
@@ -312,37 +297,22 @@
     "BAR": 4.28,
     "StylePlus": "129",
     "RatingScore": 4.73,
-    "AdjustedRating": "2.056657343131712832108535896"
+    "AdjustedRating": "2.0546157809789282859983236194"
   },
   {
-    "BID": 5900436,
-    "BeerName": "Pseudo Sue",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-65644_e5d61_sm.jpeg",
-    "HallRating": 16.60,
-    "BAR": 10.66,
-    "StylePlus": "115",
-    "RatingScore": 4.10,
-    "AdjustedRating": "3.7429181328491966441970018496"
-  },
-  {
-    "BID": 6419240,
-    "BeerName": "Structures X Boundary Bay – Imperial Scotch Ale (2025)",
-    "BeerStyle": "Scotch Ale / Wee Heavy",
-    "BreweryName": "Structures Brewing",
-    "Origin": "Bellingham, WA United States",
-    "BeerAbv": 16.80,
+    "BID": 5504237,
+    "BeerName": "Galaxy Otter",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Forager Brewery",
+    "Origin": "Rochester, MN United States",
+    "BeerAbv": 13.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6419240_6d0ea_sm.jpeg",
-    "HallRating": 16.60,
-    "BAR": 6.13,
-    "StylePlus": "122",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.058919086996319161781603599"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5504237_fa2d5_sm.jpeg",
+    "HallRating": 16.62,
+    "BAR": 8.10,
+    "StylePlus": "115",
+    "RatingScore": 4.49,
+    "AdjustedRating": "2.087394603669089650398061613"
   },
   {
     "BID": 6406985,
@@ -357,7 +327,7 @@
     "BAR": 7.86,
     "StylePlus": "125",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.0776937761387113591164488038"
+    "AdjustedRating": "2.075671529416307852715722809"
   },
   {
     "BID": 4904215,
@@ -372,6 +342,36 @@
     "BAR": 7.04,
     "StylePlus": "115",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0640622008862629246676514032"
+    "AdjustedRating": "2.0620266302573272176008707145"
+  },
+  {
+    "BID": 5900436,
+    "BeerName": "Pseudo Sue",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-65644_e5d61_sm.jpeg",
+    "HallRating": 16.60,
+    "BAR": 10.66,
+    "StylePlus": "115",
+    "RatingScore": 4.10,
+    "AdjustedRating": "3.7425613857163781034876235179"
+  },
+  {
+    "BID": 4003827,
+    "BeerName": "Presto",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2092386_391cc_sm.jpeg",
+    "HallRating": 16.59,
+    "BAR": 8.09,
+    "StylePlus": "113",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0880410340319169390501826572"
   }
 ]

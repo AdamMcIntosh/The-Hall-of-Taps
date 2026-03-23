@@ -1,5 +1,20 @@
 [
   {
+    "BID": 1020445,
+    "BeerName": "East Bank",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Casey Brewing & Blending",
+    "Origin": "Glenwood Springs, CO United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1020445_03537_sm.jpeg",
+    "HallRating": 15.03,
+    "BAR": 8.22,
+    "StylePlus": "115",
+    "RatingScore": 4.23,
+    "AdjustedRating": "2.2182312023217247097844112769"
+  },
+  {
     "BID": 1674485,
     "BeerName": "Funky Wit Charentais Melon",
     "BeerStyle": "Wheat Beer - Witbier / Blanche",
@@ -12,7 +27,7 @@
     "BAR": 7.21,
     "StylePlus": "121",
     "RatingScore": 4.21,
-    "AdjustedRating": "2.0802507780690931523750771129"
+    "AdjustedRating": "2.0782316891579272054287476866"
   },
   {
     "BID": 5605557,
@@ -27,67 +42,7 @@
     "BAR": 6.08,
     "StylePlus": "121",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.060906211404891145742135061"
-  },
-  {
-    "BID": 1020445,
-    "BeerName": "East Bank",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Casey Brewing & Blending",
-    "Origin": "Glenwood Springs, CO United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1020445_03537_sm.jpeg",
-    "HallRating": 15.03,
-    "BAR": 8.22,
-    "StylePlus": "115",
-    "RatingScore": 4.23,
-    "AdjustedRating": "2.2201191210613598673300165837"
-  },
-  {
-    "BID": 6014280,
-    "BeerName": "for those that follow",
-    "BeerStyle": "Strong Ale - English",
-    "BreweryName": "everywhere",
-    "Origin": "Orange, CA United States",
-    "BeerAbv": 14.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6014280_c42f0_sm.jpeg",
-    "HallRating": 15.02,
-    "BAR": 6.72,
-    "StylePlus": "121",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.0679038822297218666356336553"
-  },
-  {
-    "BID": 3051038,
-    "BeerName": "Curmudgeon’s Better Half \"Deep Cut\"",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 13.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-549_53a84.jpeg",
-    "HallRating": 15.02,
-    "BAR": 7.31,
-    "StylePlus": "115",
-    "RatingScore": 4.32,
-    "AdjustedRating": "2.0865226944161264882956009925"
-  },
-  {
-    "BID": 5650121,
-    "BeerName": "Secret Machine - Pomegranate, Cranberry, Strawberry, Muffins",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Dewey Beer Company",
-    "Origin": "Dewey Beach, DE United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4729713_05b37_sm.jpeg",
-    "HallRating": 15.02,
-    "BAR": 7.79,
-    "StylePlus": "118",
-    "RatingScore": 4.13,
-    "AdjustedRating": "2.1228456555211714091629556948"
+    "AdjustedRating": "2.0588685418004241327652288955"
   },
   {
     "BID": 6008586,
@@ -102,22 +57,52 @@
     "BAR": 7.16,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0816974081148347514036001621"
+    "AdjustedRating": "2.0796767220389342285504813722"
   },
   {
-    "BID": 3850380,
-    "BeerName": "Funky Blender: Raspberry + Cherry (Heritage/4 Cherry Blend 5/5/20)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Casey Brewing & Blending",
-    "Origin": "Glenwood Springs, CO United States",
-    "BeerAbv": 6.50,
+    "BID": 6014280,
+    "BeerName": "for those that follow",
+    "BeerStyle": "Strong Ale - English",
+    "BreweryName": "everywhere",
+    "Origin": "Orange, CA United States",
+    "BeerAbv": 14.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-127424_d63e0.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6014280_c42f0_sm.jpeg",
     "HallRating": 15.02,
-    "BAR": 7.47,
-    "StylePlus": "117",
-    "RatingScore": 4.30,
-    "AdjustedRating": "2.0960042965204236006051437216"
+    "BAR": 6.72,
+    "StylePlus": "121",
+    "RatingScore": 4.33,
+    "AdjustedRating": "2.0658724966057643818612048567"
+  },
+  {
+    "BID": 5650121,
+    "BeerName": "Secret Machine - Pomegranate, Cranberry, Strawberry, Muffins",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Dewey Beer Company",
+    "Origin": "Dewey Beach, DE United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4729713_05b37_sm.jpeg",
+    "HallRating": 15.02,
+    "BAR": 7.79,
+    "StylePlus": "118",
+    "RatingScore": 4.13,
+    "AdjustedRating": "2.1208693897652653030417389992"
+  },
+  {
+    "BID": 3051038,
+    "BeerName": "Curmudgeon’s Better Half \"Deep Cut\"",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 13.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-549_53a84.jpeg",
+    "HallRating": 15.02,
+    "BAR": 7.31,
+    "StylePlus": "115",
+    "RatingScore": 4.32,
+    "AdjustedRating": "2.0845081494162226624862951778"
   },
   {
     "BID": 5410270,
@@ -132,7 +117,22 @@
     "BAR": 6.40,
     "StylePlus": "119",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.0637818138712372957111486815"
+    "AdjustedRating": "2.0617465201422491692415320935"
+  },
+  {
+    "BID": 3850380,
+    "BeerName": "Funky Blender: Raspberry + Cherry (Heritage/4 Cherry Blend 5/5/20)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Casey Brewing & Blending",
+    "Origin": "Glenwood Springs, CO United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-127424_d63e0.jpeg",
+    "HallRating": 15.02,
+    "BAR": 7.47,
+    "StylePlus": "117",
+    "RatingScore": 4.30,
+    "AdjustedRating": "2.0939986246385415270303912369"
   },
   {
     "BID": 4631365,
@@ -147,7 +147,7 @@
     "BAR": 8.27,
     "StylePlus": "109",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2656820320970042796005706134"
+    "AdjustedRating": "2.2638144468616262482168330956"
   },
   {
     "BID": 5904280,
@@ -162,7 +162,7 @@
     "BAR": 8.41,
     "StylePlus": "114",
     "RatingScore": 4.21,
-    "AdjustedRating": "2.3038895124055350426170675317"
+    "AdjustedRating": "2.3020824421132544256185513648"
   },
   {
     "BID": 6408488,
@@ -177,7 +177,7 @@
     "BAR": 8.93,
     "StylePlus": "108",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.8695223294294061376974585692"
+    "AdjustedRating": "2.8681684399803510949093823522"
   },
   {
     "BID": 1804610,
@@ -192,7 +192,7 @@
     "BAR": 8.05,
     "StylePlus": "110",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.1851750333542181107876018133"
+    "AdjustedRating": "2.1832450186120222607157336085"
   },
   {
     "BID": 6450642,
@@ -207,67 +207,7 @@
     "BAR": 4.81,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0574083786733182633096889859"
-  },
-  {
-    "BID": 3333753,
-    "BeerName": "Imperial Pineberry Popsicle",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "The Answer",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333753_42350_sm.jpeg",
-    "HallRating": 14.99,
-    "BAR": 7.26,
-    "StylePlus": "114",
-    "RatingScore": 4.38,
-    "AdjustedRating": "2.0853873974395995764751179132"
-  },
-  {
-    "BID": 6423983,
-    "BeerName": "Your Quadruple Sour Red Angels Juice",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Midnight Project",
-    "Origin": "Minsk, Minskaja voblasć Belarus",
-    "BeerAbv": 11.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6423983_e209e_sm.jpeg",
-    "HallRating": 14.99,
-    "BAR": 6.90,
-    "StylePlus": "114",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.0725812816541469836598776427"
-  },
-  {
-    "BID": 4018811,
-    "BeerName": "Grade 10",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4018811_64fd1_sm.jpeg",
-    "HallRating": 14.99,
-    "BAR": 8.23,
-    "StylePlus": "113",
-    "RatingScore": 4.28,
-    "AdjustedRating": "2.2363799759921168144763952343"
-  },
-  {
-    "BID": 5422466,
-    "BeerName": "In Pie We Crust",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Around The Horn Brewing Company",
-    "Origin": "Groveland, CA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5422466_53bb3_sm.jpeg",
-    "HallRating": 14.99,
-    "BAR": 6.32,
-    "StylePlus": "116",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.0632336442275917034387574597"
+    "AdjustedRating": "2.0553674132824070465351937018"
   },
   {
     "BID": 6016568,
@@ -282,7 +222,7 @@
     "BAR": 6.69,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0687078747672253258845437616"
+    "AdjustedRating": "2.0666762527157045313469894475"
   },
   {
     "BID": 4630275,
@@ -297,7 +237,37 @@
     "BAR": 6.75,
     "StylePlus": "116",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0691369699084845664650224911"
+    "AdjustedRating": "2.0671062932371645726694586629"
+  },
+  {
+    "BID": 6423983,
+    "BeerName": "Your Quadruple Sour Red Angels Juice",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Midnight Project",
+    "Origin": "Minsk, Minskaja voblasć Belarus",
+    "BeerAbv": 11.50,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6423983_e209e_sm.jpeg",
+    "HallRating": 14.99,
+    "BAR": 6.90,
+    "StylePlus": "114",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.0705535928908851544954696817"
+  },
+  {
+    "BID": 4018811,
+    "BeerName": "Grade 10",
+    "BeerStyle": "Pale Ale - New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 5.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4018811_64fd1_sm.jpeg",
+    "HallRating": 14.99,
+    "BAR": 8.23,
+    "StylePlus": "113",
+    "RatingScore": 4.28,
+    "AdjustedRating": "2.2345035237839290513302875571"
   },
   {
     "BID": 4411416,
@@ -312,7 +282,7 @@
     "BAR": 7.12,
     "StylePlus": "118",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0786892840459415114371199691"
+    "AdjustedRating": "2.076667583823955216677926841"
   },
   {
     "BID": 6428684,
@@ -327,22 +297,37 @@
     "BAR": 6.60,
     "StylePlus": "114",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.0668582146392593023932917953"
+    "AdjustedRating": "2.0648252912517711912110095305"
   },
   {
-    "BID": 4939829,
-    "BeerName": "Liquid Heat",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Noble Savage Brewing Company",
-    "Origin": "Glen Cove, NY United States",
-    "BeerAbv": 7.00,
+    "BID": 5422466,
+    "BeerName": "In Pie We Crust",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Around The Horn Brewing Company",
+    "Origin": "Groveland, CA United States",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-441029_4d0aa.jpeg",
-    "HallRating": 14.98,
-    "BAR": 5.47,
-    "StylePlus": "118",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0586584025086185069045439495"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5422466_53bb3_sm.jpeg",
+    "HallRating": 14.99,
+    "BAR": 6.32,
+    "StylePlus": "116",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.0611977174737087650409190755"
+  },
+  {
+    "BID": 3333753,
+    "BeerName": "Imperial Pineberry Popsicle",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "The Answer",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333753_42350_sm.jpeg",
+    "HallRating": 14.99,
+    "BAR": 7.26,
+    "StylePlus": "114",
+    "RatingScore": 4.38,
+    "AdjustedRating": "2.0833711460198286649340648763"
   },
   {
     "BID": 3103644,
@@ -357,21 +342,36 @@
     "BAR": 8.43,
     "StylePlus": "110",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.3488831478792641054987103056"
+    "AdjustedRating": "2.347094073896926940093267966"
   },
   {
-    "BID": 3818795,
-    "BeerName": "Triple Berry Shake",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Great Notion Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 10.00,
+    "BID": 4939829,
+    "BeerName": "Liquid Heat",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Noble Savage Brewing Company",
+    "Origin": "Glen Cove, NY United States",
+    "BeerAbv": 7.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3818795_e17c9_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-441029_4d0aa.jpeg",
+    "HallRating": 14.98,
+    "BAR": 5.47,
+    "StylePlus": "118",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0566185104103772666186237657"
+  },
+  {
+    "BID": 6505927,
+    "BeerName": "Évasif #2",
+    "BeerStyle": "Stout - Imperial / Double Oatmeal",
+    "BreweryName": "Brasserie du Bas-Canada",
+    "Origin": "Gatineau, QC Canada",
+    "BeerAbv": 11.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505927_16139_sm.jpeg",
     "HallRating": 14.97,
-    "BAR": 8.17,
-    "StylePlus": "112",
-    "RatingScore": 4.30,
-    "AdjustedRating": "2.2192498618744576222157940411"
+    "BAR": 5.26,
+    "StylePlus": "116",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.0561496567443310215849762331"
   }
 ]

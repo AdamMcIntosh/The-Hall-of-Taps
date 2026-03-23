@@ -1,33 +1,18 @@
 [
   {
-    "BID": 3013939,
-    "BeerName": "Empyrean",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Hudson Valley Brewery",
-    "Origin": "Beacon, NY United States",
-    "BeerAbv": 8.00,
+    "BID": 6211663,
+    "BeerName": "Karma Police",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Velka Morava",
+    "Origin": "Moskva, Russia",
+    "BeerAbv": 4.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2667857_84d16_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6211663_01bb2_sm.jpeg",
     "HallRating": 14.42,
-    "BAR": 7.82,
-    "StylePlus": "111",
-    "RatingScore": 4.25,
-    "AdjustedRating": "2.1990020479731700204141149023"
-  },
-  {
-    "BID": 4028443,
-    "BeerName": "Water Balloon Fight Club",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 8.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2078252_44a8f_sm.jpeg",
-    "HallRating": 14.41,
-    "BAR": 8.29,
-    "StylePlus": "109",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.4879637784415914579890682598"
+    "BAR": 6.88,
+    "StylePlus": "121",
+    "RatingScore": 4.14,
+    "AdjustedRating": "2.0760536717016802669907594961"
   },
   {
     "BID": 3342368,
@@ -42,52 +27,22 @@
     "BAR": 6.22,
     "StylePlus": "118",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.0645425971755473105538180617"
+    "AdjustedRating": "2.0625080941743235105577031411"
   },
   {
-    "BID": 6419569,
-    "BeerName": "Double Digital Interference",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Flatland Brewing Company",
-    "Origin": "Elk Grove, CA United States",
-    "BeerAbv": 15.80,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6419569_d86b6_sm.jpeg",
-    "HallRating": 14.40,
-    "BAR": 5.81,
-    "StylePlus": "111",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0613591913924937253147070841"
-  },
-  {
-    "BID": 5820004,
-    "BeerName": "Mirroring Dimensions",
-    "BeerStyle": "Rye Wine",
-    "BreweryName": "Bissell Brothers Brewing Company",
-    "Origin": "Portland, ME United States",
-    "BeerAbv": 14.70,
+    "BID": 4028443,
+    "BeerName": "Water Balloon Fight Club",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Monkish Brewing Co.",
+    "Origin": "Torrance, CA United States",
+    "BeerAbv": 8.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5820004_c6c45_sm.jpeg",
-    "HallRating": 14.40,
-    "BAR": 6.90,
-    "StylePlus": "111",
-    "RatingScore": 4.43,
-    "AdjustedRating": "2.0823570947092395495912386241"
-  },
-  {
-    "BID": 2205025,
-    "BeerName": "Burst",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Fox Farm Brewery",
-    "Origin": "Salem, CT United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2053528_57432_sm.jpeg",
-    "HallRating": 14.40,
-    "BAR": 8.38,
-    "StylePlus": "113",
-    "RatingScore": 4.18,
-    "AdjustedRating": "2.5335261152003385578042108127"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2078252_44a8f_sm.jpeg",
+    "HallRating": 14.41,
+    "BAR": 8.29,
+    "StylePlus": "109",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.4862996405872632515571374094"
   },
   {
     "BID": 1643563,
@@ -102,22 +57,7 @@
     "BAR": 7.81,
     "StylePlus": "110",
     "RatingScore": 4.35,
-    "AdjustedRating": "2.2047343074903362263875720225"
-  },
-  {
-    "BID": 5742601,
-    "BeerName": "EWALU",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5742601_87aac_sm.jpeg",
-    "HallRating": 14.40,
-    "BAR": 6.35,
-    "StylePlus": "112",
-    "RatingScore": 4.49,
-    "AdjustedRating": "2.067090781980862915591095239"
+    "AdjustedRating": "2.2028246331412734300926263584"
   },
   {
     "BID": 5609794,
@@ -132,7 +72,67 @@
     "BAR": 9.24,
     "StylePlus": "105",
     "RatingScore": 4.37,
-    "AdjustedRating": "3.9581385784832573909361910347"
+    "AdjustedRating": "3.9577751162734203923555561725"
+  },
+  {
+    "BID": 2205025,
+    "BeerName": "Burst",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Fox Farm Brewery",
+    "Origin": "Salem, CT United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2053528_57432_sm.jpeg",
+    "HallRating": 14.40,
+    "BAR": 8.38,
+    "StylePlus": "113",
+    "RatingScore": 4.18,
+    "AdjustedRating": "2.5319431431464715928842404365"
+  },
+  {
+    "BID": 5820004,
+    "BeerName": "Mirroring Dimensions",
+    "BeerStyle": "Rye Wine",
+    "BreweryName": "Bissell Brothers Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 14.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5820004_c6c45_sm.jpeg",
+    "HallRating": 14.40,
+    "BAR": 6.90,
+    "StylePlus": "111",
+    "RatingScore": 4.43,
+    "AdjustedRating": "2.0803376943544655252198056455"
+  },
+  {
+    "BID": 5742601,
+    "BeerName": "EWALU",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5742601_87aac_sm.jpeg",
+    "HallRating": 14.40,
+    "BAR": 6.35,
+    "StylePlus": "112",
+    "RatingScore": 4.49,
+    "AdjustedRating": "2.0650580164198513285328882247"
+  },
+  {
+    "BID": 6419569,
+    "BeerName": "Double Digital Interference",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Flatland Brewing Company",
+    "Origin": "Elk Grove, CA United States",
+    "BeerAbv": 15.80,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6419569_d86b6_sm.jpeg",
+    "HallRating": 14.40,
+    "BAR": 5.81,
+    "StylePlus": "111",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0593214424966437729828589217"
   },
   {
     "BID": 4626784,
@@ -147,22 +147,7 @@
     "BAR": 6.67,
     "StylePlus": "111",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0746676539674554495675560629"
-  },
-  {
-    "BID": 5025812,
-    "BeerName": "Dragonsaddle Nectaron",
-    "BeerStyle": "IPA - Triple",
-    "BreweryName": "Hoof Hearted Brewing",
-    "Origin": "Marengo, OH United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5025812_06004_sm.jpeg",
-    "HallRating": 14.39,
-    "BAR": 6.76,
-    "StylePlus": "112",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.0770881331168831168831168831"
+    "AdjustedRating": "2.0726411814329663525724125921"
   },
   {
     "BID": 6211405,
@@ -177,7 +162,22 @@
     "BAR": 7.65,
     "StylePlus": "109",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.1666000661365831909043620421"
+    "AdjustedRating": "2.1646543468083525302816378093"
+  },
+  {
+    "BID": 5025812,
+    "BeerName": "Dragonsaddle Nectaron",
+    "BeerStyle": "IPA - Triple",
+    "BreweryName": "Hoof Hearted Brewing",
+    "Origin": "Marengo, OH United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5025812_06004_sm.jpeg",
+    "HallRating": 14.39,
+    "BAR": 6.76,
+    "StylePlus": "112",
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.0750640495516388373531230674"
   },
   {
     "BID": 3015237,
@@ -192,37 +192,7 @@
     "BAR": 8.41,
     "StylePlus": "108",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.6303940985820391627278865631"
-  },
-  {
-    "BID": 5404191,
-    "BeerName": "Barrel-Aged One Man Wrecking Machine",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Mikerphone Brewing",
-    "Origin": "Elk Grove Village, IL United States",
-    "BeerAbv": 12.35,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5404191_b0749_sm.jpeg",
-    "HallRating": 14.38,
-    "BAR": 6.66,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0744138160848362876383621023"
-  },
-  {
-    "BID": 6404951,
-    "BeerName": "Chorné",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Medove Meadery",
-    "Origin": "Roden, Drenthe Netherlands",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6404951_e1390_sm.jpeg",
-    "HallRating": 14.38,
-    "BAR": 5.75,
-    "StylePlus": "113",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0608785436855419342284491146"
+    "AdjustedRating": "2.6288567386900742741390952059"
   },
   {
     "BID": 6015010,
@@ -237,7 +207,37 @@
     "BAR": 6.56,
     "StylePlus": "113",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.0712781797400182103489025359"
+    "AdjustedRating": "2.0692491946763788527480191402"
+  },
+  {
+    "BID": 5404191,
+    "BeerName": "Barrel-Aged One Man Wrecking Machine",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Mikerphone Brewing",
+    "Origin": "Elk Grove Village, IL United States",
+    "BeerAbv": 12.35,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5404191_b0749_sm.jpeg",
+    "HallRating": 14.38,
+    "BAR": 6.66,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.0723870690455917640684263488"
+  },
+  {
+    "BID": 6404951,
+    "BeerName": "Chorné",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Medove Meadery",
+    "Origin": "Roden, Drenthe Netherlands",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6404951_e1390_sm.jpeg",
+    "HallRating": 14.38,
+    "BAR": 5.75,
+    "StylePlus": "113",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0588405172212492702860478692"
   },
   {
     "BID": 4625392,
@@ -252,7 +252,7 @@
     "BAR": 5.31,
     "StylePlus": "120",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0587414719457806687829863478"
+    "AdjustedRating": "2.0567017387578631662998812005"
   },
   {
     "BID": 4800150,
@@ -267,7 +267,7 @@
     "BAR": 6.52,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.0700606283067501308164886916"
+    "AdjustedRating": "2.0680308567995503788833116921"
   },
   {
     "BID": 5103448,
@@ -282,7 +282,7 @@
     "BAR": 6.52,
     "StylePlus": "112",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.0700902765450281971279626364"
+    "AdjustedRating": "2.0680605837096180306583205752"
   },
   {
     "BID": 6013346,
@@ -297,7 +297,7 @@
     "BAR": 6.87,
     "StylePlus": "124",
     "RatingScore": 4.10,
-    "AdjustedRating": "2.0781590811957569913211186114"
+    "AdjustedRating": "2.0761391355834136933461909354"
   },
   {
     "BID": 4820669,
@@ -312,7 +312,7 @@
     "BAR": 7.62,
     "StylePlus": "109",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.1630677178423236514522821577"
+    "AdjustedRating": "2.1611189211618257261410788382"
   },
   {
     "BID": 1815610,
@@ -327,7 +327,7 @@
     "BAR": 7.67,
     "StylePlus": "114",
     "RatingScore": 4.24,
-    "AdjustedRating": "2.1689442240917074974577054636"
+    "AdjustedRating": "2.1670077503929000647129518351"
   },
   {
     "BID": 3219204,
@@ -342,36 +342,36 @@
     "BAR": 6.92,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.0851730464430874732725906806"
+    "AdjustedRating": "2.0831555521738292913143143336"
   },
   {
-    "BID": 6414963,
-    "BeerName": "Patient Rover",
-    "BeerStyle": "Lager - Munich Dunkel",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "BID": 3633300,
+    "BeerName": "Four Horsemen",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Ellison Brewery + Spirits",
+    "Origin": "East Lansing, MI United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3633300_b85a2_sm.jpeg",
     "HallRating": 14.34,
-    "BAR": 6.93,
-    "StylePlus": "119",
-    "RatingScore": 4.16,
-    "AdjustedRating": "2.0818932031505767712365436093"
+    "BAR": 7.25,
+    "StylePlus": "111",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.1066769769525516137026516957"
   },
   {
-    "BID": 3500785,
-    "BeerName": "March of the Damned",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Hidden Springs Ale Works",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 12.00,
+    "BID": 4828785,
+    "BeerName": "Peach Premiére: Gin Barrel Cuvée",
+    "BeerStyle": "Farmhouse Ale - Other",
+    "BreweryName": "de Garde Brewing",
+    "Origin": "Tillamook, OR United States",
+    "BeerAbv": 8.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3500785_5fa5b_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64039_65d26.jpeg",
     "HallRating": 14.34,
-    "BAR": 7.51,
-    "StylePlus": "109",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.1454964031531531531531531532"
+    "BAR": 6.39,
+    "StylePlus": "115",
+    "RatingScore": 4.37,
+    "AdjustedRating": "2.065633471327694575929231008"
   }
 ]

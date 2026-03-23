@@ -1,20 +1,5 @@
 [
   {
-    "BID": 1024586,
-    "BeerName": "Lights On",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 5.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1024586_ba52f_sm.jpeg",
-    "HallRating": 18.56,
-    "BAR": 11.31,
-    "StylePlus": "118",
-    "RatingScore": 4.23,
-    "AdjustedRating": "3.1060745152510936838497671512"
-  },
-  {
     "BID": 2411728,
     "BeerName": "Double DBA (2012)",
     "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
@@ -27,7 +12,7 @@
     "BAR": 10.13,
     "StylePlus": "122",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.2247322664931967257548652897"
+    "AdjustedRating": "2.2228397423248586039283713702"
   },
   {
     "BID": 6274453,
@@ -42,22 +27,7 @@
     "BAR": 8.79,
     "StylePlus": "115",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0812771186407954435756347138"
-  },
-  {
-    "BID": 6417142,
-    "BeerName": "The External Soul (2024 Harvest Blend)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Floodland Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 7.19,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6417142_1c79b_sm.jpeg",
-    "HallRating": 18.54,
-    "BAR": 7.80,
-    "StylePlus": "125",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.0635514154079430804222312941"
+    "AdjustedRating": "2.0792550280915146249637995946"
   },
   {
     "BID": 3213139,
@@ -72,7 +42,22 @@
     "BAR": 10.03,
     "StylePlus": "116",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.2042202591421626857215957894"
+    "AdjustedRating": "2.202306222335934501727005245"
+  },
+  {
+    "BID": 6417142,
+    "BeerName": "The External Soul (2024 Harvest Blend)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Floodland Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 7.19,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6417142_1c79b_sm.jpeg",
+    "HallRating": 18.54,
+    "BAR": 7.80,
+    "StylePlus": "125",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.0615154094982601426877393519"
   },
   {
     "BID": 3029277,
@@ -87,7 +72,22 @@
     "BAR": 8.89,
     "StylePlus": "119",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0846253466720638408604637715"
+    "AdjustedRating": "2.0826065301952620520827309701"
+  },
+  {
+    "BID": 5302409,
+    "BeerName": "V.S.O. Gravedigger",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Revolution Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5302409_7b62c_sm.jpeg",
+    "HallRating": 18.52,
+    "BAR": 9.97,
+    "StylePlus": "117",
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.1925936694955729453690436827"
   },
   {
     "BID": 5224308,
@@ -102,7 +102,7 @@
     "BAR": 8.05,
     "StylePlus": "146",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0651363891639965045150014565"
+    "AdjustedRating": "2.0631025183027478395960772891"
   },
   {
     "BID": 1903980,
@@ -117,22 +117,7 @@
     "BAR": 9.77,
     "StylePlus": "120",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.1569002213305962489502659326"
-  },
-  {
-    "BID": 2700454,
-    "BeerName": "Black Widow (Blue Label Batch Three)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Garagiste Meadery",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2700454_d28ec_sm.jpeg",
-    "HallRating": 18.46,
-    "BAR": 8.64,
-    "StylePlus": "115",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.0775620755920734654422426293"
+    "AdjustedRating": "2.1549456784547914528319492395"
   },
   {
     "BID": 6221979,
@@ -147,7 +132,22 @@
     "BAR": 10.14,
     "StylePlus": "111",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.2457204234586035180740156916"
+    "AdjustedRating": "2.2438443409880700748755060366"
+  },
+  {
+    "BID": 2700454,
+    "BeerName": "Black Widow (Blue Label Batch Three)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Garagiste Meadery",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2700454_d28ec_sm.jpeg",
+    "HallRating": 18.46,
+    "BAR": 8.64,
+    "StylePlus": "115",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.0755372485258579023682938618"
   },
   {
     "BID": 1301192,
@@ -162,7 +162,7 @@
     "BAR": 9.62,
     "StylePlus": "120",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.1383377248348670468017840005"
+    "AdjustedRating": "2.1363667773198592370951655093"
   },
   {
     "BID": 4201951,
@@ -177,7 +177,7 @@
     "BAR": 9.11,
     "StylePlus": "118",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0956245729520302280530141742"
+    "AdjustedRating": "2.0936157465907129293975487658"
   },
   {
     "BID": 3341144,
@@ -192,7 +192,7 @@
     "BAR": 9.81,
     "StylePlus": "116",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.1737568100617730535922978463"
+    "AdjustedRating": "2.1718139421596453150796742538"
   },
   {
     "BID": 1802713,
@@ -207,7 +207,7 @@
     "BAR": 10.13,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.2591198192179210060915700531"
+    "AdjustedRating": "2.2572488643955769127708605013"
   },
   {
     "BID": 4204034,
@@ -222,37 +222,7 @@
     "BAR": 10.65,
     "StylePlus": "114",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.5422346590346534653465346535"
-  },
-  {
-    "BID": 4618855,
-    "BeerName": "Mansueto 2019 Riserva Château Margaux",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "CRAK Brewery",
-    "Origin": "Campodarsego, Veneto Italy",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4618855_aee36_sm.jpeg",
-    "HallRating": 18.39,
-    "BAR": 7.58,
-    "StylePlus": "119",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0625403730283758290059707879"
-  },
-  {
-    "BID": 2825552,
-    "BeerName": "Hold On To Sunshine (w/ Chocolate Truffle)",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 7.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 18.39,
-    "BAR": 9.37,
-    "StylePlus": "118",
-    "RatingScore": 4.49,
-    "AdjustedRating": "2.1163395261636750836629145117"
+    "AdjustedRating": "2.5406143901608910891089108911"
   },
   {
     "BID": 2422488,
@@ -267,7 +237,7 @@
     "BAR": 9.02,
     "StylePlus": "113",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.094646516577663375465826578"
+    "AdjustedRating": "2.0926346417457451304314418533"
   },
   {
     "BID": 3032239,
@@ -282,7 +252,37 @@
     "BAR": 10.66,
     "StylePlus": "115",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.5444159291599291599291599292"
+    "AdjustedRating": "2.5428030211750211750211750212"
+  },
+  {
+    "BID": 4618855,
+    "BeerName": "Mansueto 2019 Riserva Château Margaux",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "CRAK Brewery",
+    "Origin": "Campodarsego, Veneto Italy",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4618855_aee36_sm.jpeg",
+    "HallRating": 18.39,
+    "BAR": 7.58,
+    "StylePlus": "119",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.0605034167687729739191318047"
+  },
+  {
+    "BID": 2825552,
+    "BeerName": "Hold On To Sunshine (w/ Chocolate Truffle)",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 18.39,
+    "BAR": 9.37,
+    "StylePlus": "118",
+    "RatingScore": 4.49,
+    "AdjustedRating": "2.1143480791755400060845756009"
   },
   {
     "BID": 4424478,
@@ -297,7 +297,7 @@
     "BAR": 10.06,
     "StylePlus": "119",
     "RatingScore": 4.26,
-    "AdjustedRating": "2.2259759664591355669917587361"
+    "AdjustedRating": "2.2240913769028682477417497391"
   },
   {
     "BID": 2001793,
@@ -312,7 +312,7 @@
     "BAR": 10.07,
     "StylePlus": "114",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.2489079288368669551011615173"
+    "AdjustedRating": "2.247027703714342135971132614"
   },
   {
     "BID": 6219574,
@@ -327,22 +327,7 @@
     "BAR": 7.74,
     "StylePlus": "120",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0638390195354261833025561279"
-  },
-  {
-    "BID": 2803485,
-    "BeerName": "Saison du Fermier (Blend #4)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2216232_00de0_sm.jpeg",
-    "HallRating": 18.33,
-    "BAR": 9.61,
-    "StylePlus": "120",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.1449376826385501482120745938"
+    "AdjustedRating": "2.0618031719311886480707551754"
   },
   {
     "BID": 6402730,
@@ -357,7 +342,22 @@
     "BAR": 7.38,
     "StylePlus": "129",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0611995011187858741122677303"
+    "AdjustedRating": "2.0591616729253818464831209262"
+  },
+  {
+    "BID": 2803485,
+    "BeerName": "Saison du Fermier (Blend #4)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Side Project Brewing",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2216232_00de0_sm.jpeg",
+    "HallRating": 18.33,
+    "BAR": 9.61,
+    "StylePlus": "120",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.1429727623728940752692206671"
   },
   {
     "BID": 1623450,
@@ -372,6 +372,6 @@
     "BAR": 10.52,
     "StylePlus": "122",
     "RatingScore": 4.17,
-    "AdjustedRating": "2.4324280575009214891264283081"
+    "AdjustedRating": "2.4307495982307408772576483597"
   }
 ]

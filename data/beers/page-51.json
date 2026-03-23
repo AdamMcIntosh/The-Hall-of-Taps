@@ -1,20 +1,5 @@
 [
   {
-    "BID": 6220716,
-    "BeerName": "Six.",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Alma Mader Brewing",
-    "Origin": "Kansas City, MO United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6220716_2206d_sm.jpeg",
-    "HallRating": 14.01,
-    "BAR": 5.85,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.0629143016021154145279203609"
-  },
-  {
     "BID": 5613852,
     "BeerName": "Double Barrel Anaphora - Blend No.3",
     "BeerStyle": "Stout - Imperial / Double",
@@ -27,52 +12,7 @@
     "BAR": 6.28,
     "StylePlus": "111",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0691175867351885969165131388"
-  },
-  {
-    "BID": 4036966,
-    "BeerName": "MG2020",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Sig Brewing Co.",
-    "Origin": "Tacoma, WA United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4036966_021ec_sm.jpeg",
-    "HallRating": 13.99,
-    "BAR": 6.94,
-    "StylePlus": "117",
-    "RatingScore": 4.11,
-    "AdjustedRating": "2.0913870956368444248567650948"
-  },
-  {
-    "BID": 3346965,
-    "BeerName": "Details & Dialects (2019)",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Bottle Logic Brewing",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3269884_cadfb_sm.jpeg",
-    "HallRating": 13.99,
-    "BAR": 7.35,
-    "StylePlus": "112",
-    "RatingScore": 4.27,
-    "AdjustedRating": "2.1429652216914863725765664513"
-  },
-  {
-    "BID": 3334054,
-    "BeerName": "Soursmith Passion Fruit",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Arclight Brewing Company",
-    "Origin": "Watervliet, MI United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 5.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334054_224df_sm.jpeg",
-    "HallRating": 13.99,
-    "BAR": 6.61,
-    "StylePlus": "113",
-    "RatingScore": 4.35,
-    "AdjustedRating": "2.0776160452719406674907292954"
+    "AdjustedRating": "2.0670864768738485406768156695"
   },
   {
     "BID": 4446792,
@@ -87,7 +27,52 @@
     "BAR": 5.67,
     "StylePlus": "115",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0612104503803427948872590027"
+    "AdjustedRating": "2.059172860061088305674986868"
+  },
+  {
+    "BID": 3334054,
+    "BeerName": "Soursmith Passion Fruit",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Arclight Brewing Company",
+    "Origin": "Watervliet, MI United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 5.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334054_224df_sm.jpeg",
+    "HallRating": 13.99,
+    "BAR": 6.61,
+    "StylePlus": "113",
+    "RatingScore": 4.35,
+    "AdjustedRating": "2.0755932126854140914709517923"
+  },
+  {
+    "BID": 3346965,
+    "BeerName": "Details & Dialects (2019)",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Bottle Logic Brewing",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3269884_cadfb_sm.jpeg",
+    "HallRating": 13.99,
+    "BAR": 7.35,
+    "StylePlus": "112",
+    "RatingScore": 4.27,
+    "AdjustedRating": "2.1410033563735131591270956261"
+  },
+  {
+    "BID": 4036966,
+    "BeerName": "MG2020",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Sig Brewing Co.",
+    "Origin": "Tacoma, WA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4036966_021ec_sm.jpeg",
+    "HallRating": 13.99,
+    "BAR": 6.94,
+    "StylePlus": "117",
+    "RatingScore": 4.11,
+    "AdjustedRating": "2.0893801939180255619215513442"
   },
   {
     "BID": 4021679,
@@ -102,7 +87,7 @@
     "BAR": 6.56,
     "StylePlus": "111",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0765487931034482758620689655"
+    "AdjustedRating": "2.0745243965517241379310344828"
   },
   {
     "BID": 5028960,
@@ -117,7 +102,7 @@
     "BAR": 7.47,
     "StylePlus": "112",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.1705046612255473506930949605"
+    "AdjustedRating": "2.1685663239131641774471156515"
   },
   {
     "BID": 4410642,
@@ -132,7 +117,7 @@
     "BAR": 7.43,
     "StylePlus": "111",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.1618089148928266280322448828"
+    "AdjustedRating": "2.1598635569671978899661948809"
   },
   {
     "BID": 4802974,
@@ -147,7 +132,7 @@
     "BAR": 7.27,
     "StylePlus": "108",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.1365708864192880015068751177"
+    "AdjustedRating": "2.1345981197965718591071764927"
   },
   {
     "BID": 4005733,
@@ -162,37 +147,7 @@
     "BAR": 7.44,
     "StylePlus": "109",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.170826576862417663976250116"
-  },
-  {
-    "BID": 1675170,
-    "BeerName": "Milkshake IPA (Strawberry)",
-    "BeerStyle": "IPA - Milkshake",
-    "BreweryName": "Tired Hands Brewing Company",
-    "Origin": "Ardmore, PA United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1517218_85ff7_sm.jpeg",
-    "HallRating": 13.96,
-    "BAR": 8.10,
-    "StylePlus": "110",
-    "RatingScore": 4.22,
-    "AdjustedRating": "2.5214148598888905893696147901"
-  },
-  {
-    "BID": 6410850,
-    "BeerName": "Elixir of Life Bourbon BA Batch #31",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Two Heads Behind",
-    "Origin": "Ringsted, Region Sjælland Denmark",
-    "BeerAbv": 14.30,
-    "BeerIbu": 52.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 13.96,
-    "BAR": 4.17,
-    "StylePlus": "117",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0570223227893741838663782182"
+    "AdjustedRating": "2.168883276370720846089618703"
   },
   {
     "BID": 4213389,
@@ -207,37 +162,7 @@
     "BAR": 8.55,
     "StylePlus": "109",
     "RatingScore": 4.22,
-    "AdjustedRating": "3.1759152628855796276610756249"
-  },
-  {
-    "BID": 6016350,
-    "BeerName": "Coffee Melomel 2024",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Quantum Satis",
-    "Origin": "Domasław, Dolnośląskie Poland",
-    "BeerAbv": 13.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6016350_3a798_sm.jpeg",
-    "HallRating": 13.96,
-    "BAR": 6.15,
-    "StylePlus": "118",
-    "RatingScore": 4.30,
-    "AdjustedRating": "2.0661448411327419887036354108"
-  },
-  {
-    "BID": 5003281,
-    "BeerName": "Le Plaisir (2022)",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5003281_69f48_sm.jpeg",
-    "HallRating": 13.96,
-    "BAR": 6.90,
-    "StylePlus": "109",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.0954093235908942715225437739"
+    "AdjustedRating": "3.1749300023518123065634377852"
   },
   {
     "BID": 3035178,
@@ -252,7 +177,37 @@
     "BAR": 6.10,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0662326147991379142962545871"
+    "AdjustedRating": "2.0641990598605906452051336815"
+  },
+  {
+    "BID": 1675170,
+    "BeerName": "Milkshake IPA (Strawberry)",
+    "BeerStyle": "IPA - Milkshake",
+    "BreweryName": "Tired Hands Brewing Company",
+    "Origin": "Ardmore, PA United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1517218_85ff7_sm.jpeg",
+    "HallRating": 13.96,
+    "BAR": 8.10,
+    "StylePlus": "110",
+    "RatingScore": 4.22,
+    "AdjustedRating": "2.5198119737989929753141213021"
+  },
+  {
+    "BID": 6016350,
+    "BeerName": "Coffee Melomel 2024",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Quantum Satis",
+    "Origin": "Domasław, Dolnośląskie Poland",
+    "BeerAbv": 13.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6016350_3a798_sm.jpeg",
+    "HallRating": 13.96,
+    "BAR": 6.15,
+    "StylePlus": "118",
+    "RatingScore": 4.30,
+    "AdjustedRating": "2.0641119966615554822305467673"
   },
   {
     "BID": 6027739,
@@ -267,22 +222,22 @@
     "BAR": 6.82,
     "StylePlus": "111",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.090137204912833720952582313"
+    "AdjustedRating": "2.0881241313164318526918715282"
   },
   {
-    "BID": 6608026,
-    "BeerName": "Full Noise",
-    "BeerStyle": "Pale Ale - New Zealand",
-    "BreweryName": "Lumen Beer Co.",
-    "Origin": "Omaha, NE United States",
-    "BeerAbv": 5.80,
+    "BID": 5003281,
+    "BeerName": "Le Plaisir (2022)",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-268064_301ed.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5003281_69f48_sm.jpeg",
     "HallRating": 13.96,
-    "BAR": 4.51,
-    "StylePlus": "124",
+    "BAR": 6.90,
+    "StylePlus": "109",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0573487998129274899156225033"
+    "AdjustedRating": "2.0934007283815660779011564352"
   },
   {
     "BID": 6026834,
@@ -297,7 +252,37 @@
     "BAR": 5.66,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0614479943969961673897394992"
+    "AdjustedRating": "2.0594104040777416781774673644"
+  },
+  {
+    "BID": 6608026,
+    "BeerName": "Full Noise",
+    "BeerStyle": "Pale Ale - New Zealand",
+    "BreweryName": "Lumen Beer Co.",
+    "Origin": "Omaha, NE United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-268064_301ed.jpeg",
+    "HallRating": 13.96,
+    "BAR": 4.51,
+    "StylePlus": "124",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.0553078741937369682561334451"
+  },
+  {
+    "BID": 6410850,
+    "BeerName": "Elixir of Life Bourbon BA Batch #31",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Two Heads Behind",
+    "Origin": "Ringsted, Region Sjælland Denmark",
+    "BeerAbv": 14.30,
+    "BeerIbu": 52.00,
+    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
+    "HallRating": 13.96,
+    "BAR": 4.17,
+    "StylePlus": "117",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0549810789530101931435030891"
   },
   {
     "BID": 6606924,
@@ -312,7 +297,22 @@
     "BAR": 3.49,
     "StylePlus": "114",
     "RatingScore": 4.71,
-    "AdjustedRating": "2.0566013325536062378167641326"
+    "AdjustedRating": "2.0545597306042884990253411306"
+  },
+  {
+    "BID": 4025782,
+    "BeerName": "Headzo",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Drake’s Brewing Company",
+    "Origin": "San Leandro, CA United States",
+    "BeerAbv": 18.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-774379_1381e_sm.jpeg",
+    "HallRating": 13.95,
+    "BAR": 7.31,
+    "StylePlus": "112",
+    "RatingScore": 4.27,
+    "AdjustedRating": "2.1370879235085480511194099874"
   },
   {
     "BID": 3600411,
@@ -327,22 +327,37 @@
     "BAR": 6.45,
     "StylePlus": "111",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0736897302109541319914844204"
+    "AdjustedRating": "2.0716627478227211147667892394"
   },
   {
-    "BID": 5022563,
-    "BeerName": "Inno All'Autunno",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Brasseria Della Fonte",
-    "Origin": "Pienza, Toscana Italy",
-    "BeerAbv": 13.20,
+    "BID": 3337455,
+    "BeerName": "Honey Jacket (2019)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Revolution Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.60,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5022563_2204d_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3311433_b0891_sm.jpeg",
     "HallRating": 13.95,
-    "BAR": 6.80,
+    "BAR": 7.21,
     "StylePlus": "111",
-    "RatingScore": 4.32,
-    "AdjustedRating": "2.0870810422676050921118418522"
+    "RatingScore": 4.35,
+    "AdjustedRating": "2.1244659002513559994708294748"
+  },
+  {
+    "BID": 6611716,
+    "BeerName": "Lady Marmalade",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Crow & Wolf Brewing Co",
+    "Origin": "Clovis, CA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4651283_d8837_sm.jpeg",
+    "HallRating": 13.95,
+    "BAR": 6.27,
+    "StylePlus": "117",
+    "RatingScore": 4.19,
+    "AdjustedRating": "2.0657215966028077251221593113"
   },
   {
     "BID": 3301796,
@@ -357,21 +372,6 @@
     "BAR": 7.25,
     "StylePlus": "109",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.1353606792054577663864912744"
-  },
-  {
-    "BID": 6215594,
-    "BeerName": "Long Boil Barley Wine 2022 - Bourbon Barrel Aged",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "O/O Brewing",
-    "Origin": "Gothenburg, Västra Götalands län Sweden",
-    "BeerAbv": 12.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6215594_74e0b_sm.jpeg",
-    "HallRating": 13.95,
-    "BAR": 6.45,
-    "StylePlus": "112",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.0733503330817317927577464244"
+    "AdjustedRating": "2.1333868715841845388413553956"
   }
 ]

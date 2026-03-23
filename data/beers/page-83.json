@@ -1,35 +1,5 @@
 [
   {
-    "BID": 3337802,
-    "BeerName": "Inflection Bourbon Cherry Sour - Batch 2",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Dirty Couch Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 10.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3337802_96f08_sm.jpeg",
-    "HallRating": 12.79,
-    "BAR": 5.29,
-    "StylePlus": "115",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.0618770222282724956729740767"
-  },
-  {
-    "BID": 6412254,
-    "BeerName": "Effed Up Dubbel",
-    "BeerStyle": "Belgian Dubbel",
-    "BreweryName": "River North Brewery",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 16.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-RiverNorthBrewery_23833.jpeg",
-    "HallRating": 12.79,
-    "BAR": 5.10,
-    "StylePlus": "117",
-    "RatingScore": 4.21,
-    "AdjustedRating": "2.0601916470771386315871409668"
-  },
-  {
     "BID": 3338728,
     "BeerName": "3 Fonteinen Oude Geuze (season 17|18) Blend No. 61",
     "BeerStyle": "Lambic - Gueuze",
@@ -42,37 +12,7 @@
     "BAR": 6.53,
     "StylePlus": "107",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.1162392120210482323664064133"
-  },
-  {
-    "BID": 1035432,
-    "BeerName": "Unicorn Blood",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Arkane Aleworks",
-    "Origin": "Largo, FL United States",
-    "BeerAbv": 3.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1035432_a97d3_sm.jpeg",
-    "HallRating": 12.79,
-    "BAR": 6.73,
-    "StylePlus": "107",
-    "RatingScore": 4.35,
-    "AdjustedRating": "2.1484964983253185637033849148"
-  },
-  {
-    "BID": 4900276,
-    "BeerName": "Exporrr",
-    "BeerStyle": "Lager - Dortmunder / Export",
-    "BreweryName": "Halfway Crooks Beer",
-    "Origin": "Atlanta, GA United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4900276_b302a_sm.jpeg",
-    "HallRating": 12.79,
-    "BAR": 6.02,
-    "StylePlus": "118",
-    "RatingScore": 3.99,
-    "AdjustedRating": "2.0735706240581166196530005023"
+    "AdjustedRating": "2.1142496187382458539921354078"
   },
   {
     "BID": 3004707,
@@ -87,22 +27,22 @@
     "BAR": 7.07,
     "StylePlus": "114",
     "RatingScore": 3.93,
-    "AdjustedRating": "2.22595674627236139921635374"
+    "AdjustedRating": "2.2240998560360264524936616847"
   },
   {
-    "BID": 5219102,
-    "BeerName": "Moksa FIVE",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Moksa Brewing Co",
-    "Origin": "Rocklin, CA United States",
-    "BeerAbv": 13.40,
+    "BID": 3705087,
+    "BeerName": "Barrel Aged Cookie Kooks",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Other Half Brewing Co.",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 16.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5219102_61b3a_sm.jpeg",
-    "HallRating": 12.78,
-    "BAR": 6.23,
-    "StylePlus": "109",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.0884053837426203342243418396"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3705087_c059d_sm.jpeg",
+    "HallRating": 12.79,
+    "BAR": 6.54,
+    "StylePlus": "107",
+    "RatingScore": 4.44,
+    "AdjustedRating": "2.1165120693387001841690558013"
   },
   {
     "BID": 2640753,
@@ -117,22 +57,7 @@
     "BAR": 5.71,
     "StylePlus": "113",
     "RatingScore": 4.35,
-    "AdjustedRating": "2.0678307863599332738487799201"
-  },
-  {
-    "BID": 6206994,
-    "BeerName": "Groovy Hard Seltzer - Cherry Limeade",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "New Groove Artisan Brewery",
-    "Origin": "Boiling Springs, SC United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6206994_ee31b_sm.jpeg",
-    "HallRating": 12.78,
-    "BAR": 3.29,
-    "StylePlus": "123",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.0565844400693943587844291534"
+    "AdjustedRating": "2.0657992431237149396749039842"
   },
   {
     "BID": 4206578,
@@ -147,52 +72,37 @@
     "BAR": 6.07,
     "StylePlus": "114",
     "RatingScore": 4.21,
-    "AdjustedRating": "2.0776198340024706609017912292"
+    "AdjustedRating": "2.0755982508492896849907350216"
   },
   {
-    "BID": 6420463,
-    "BeerName": "Demon King of Friday (6/112025)",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "The Ale Apothecary",
-    "Origin": "Bend, OR United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-34373_f34a6.jpeg",
-    "HallRating": 12.78,
-    "BAR": 3.72,
-    "StylePlus": "121",
-    "RatingScore": 4.43,
-    "AdjustedRating": "2.0568705704874578517551211336"
-  },
-  {
-    "BID": 5227841,
-    "BeerName": "feels like home",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "everywhere",
-    "Origin": "Orange, CA United States",
-    "BeerAbv": 5.10,
+    "BID": 6206994,
+    "BeerName": "Groovy Hard Seltzer - Cherry Limeade",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "New Groove Artisan Brewery",
+    "Origin": "Boiling Springs, SC United States",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5227841_68ec8_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6206994_ee31b_sm.jpeg",
     "HallRating": 12.78,
-    "BAR": 6.28,
-    "StylePlus": "117",
-    "RatingScore": 4.02,
-    "AdjustedRating": "2.08576316531290204888914492"
+    "BAR": 3.29,
+    "StylePlus": "123",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.0545428779166098126742168769"
   },
   {
-    "BID": 6405743,
-    "BeerName": "Bridge Over Duckboat",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Trillium Brewing Company",
-    "Origin": "Canton, MA United States",
-    "BeerAbv": 8.50,
+    "BID": 5219102,
+    "BeerName": "Moksa FIVE",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Moksa Brewing Co",
+    "Origin": "Rocklin, CA United States",
+    "BeerAbv": 13.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405743_7446b_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5219102_61b3a_sm.jpeg",
     "HallRating": 12.78,
-    "BAR": 6.63,
-    "StylePlus": "111",
-    "RatingScore": 4.28,
-    "AdjustedRating": "2.128526856668615727030952336"
+    "BAR": 6.23,
+    "StylePlus": "109",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.0863913036287763696851983616"
   },
   {
     "BID": 4960358,
@@ -207,7 +117,52 @@
     "BAR": 5.80,
     "StylePlus": "115",
     "RatingScore": 4.23,
-    "AdjustedRating": "2.0691862242979787213426096393"
+    "AdjustedRating": "2.0671565314625685548729675781"
+  },
+  {
+    "BID": 5227841,
+    "BeerName": "feels like home",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "everywhere",
+    "Origin": "Orange, CA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5227841_68ec8_sm.jpeg",
+    "HallRating": 12.78,
+    "BAR": 6.28,
+    "StylePlus": "117",
+    "RatingScore": 4.02,
+    "AdjustedRating": "2.0837520245021794650229467903"
+  },
+  {
+    "BID": 6420463,
+    "BeerName": "Demon King of Friday (6/112025)",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "The Ale Apothecary",
+    "Origin": "Bend, OR United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-34373_f34a6.jpeg",
+    "HallRating": 12.78,
+    "BAR": 3.72,
+    "StylePlus": "121",
+    "RatingScore": 4.43,
+    "AdjustedRating": "2.0548292470812949500068216813"
+  },
+  {
+    "BID": 6405743,
+    "BeerName": "Bridge Over Duckboat",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Trillium Brewing Company",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405743_7446b_sm.jpeg",
+    "HallRating": 12.78,
+    "BAR": 6.63,
+    "StylePlus": "111",
+    "RatingScore": 4.28,
+    "AdjustedRating": "2.126551373710319331535167965"
   },
   {
     "BID": 5621234,
@@ -222,7 +177,7 @@
     "BAR": 6.87,
     "StylePlus": "111",
     "RatingScore": 4.26,
-    "AdjustedRating": "2.1815832526155147369775865556"
+    "AdjustedRating": "2.1796575317631051538051372571"
   },
   {
     "BID": 2149900,
@@ -237,7 +192,7 @@
     "BAR": 7.41,
     "StylePlus": "111",
     "RatingScore": 4.12,
-    "AdjustedRating": "2.4957594801608003191456715868"
+    "AdjustedRating": "2.4941524868812716727529382883"
   },
   {
     "BID": 5875934,
@@ -252,22 +207,7 @@
     "BAR": 7.28,
     "StylePlus": "109",
     "RatingScore": 4.22,
-    "AdjustedRating": "2.3964113627550852748841641747"
-  },
-  {
-    "BID": 5200137,
-    "BeerName": "Moneybags",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "Back Channel Brewing Collective",
-    "Origin": "Spring Park, MN United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5200137_991b0_sm.jpeg",
-    "HallRating": 12.77,
-    "BAR": 5.50,
-    "StylePlus": "113",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.0643004188359623902401118968"
+    "AdjustedRating": "2.3946905159212645000164306135"
   },
   {
     "BID": 1411882,
@@ -282,7 +222,7 @@
     "BAR": 6.57,
     "StylePlus": "115",
     "RatingScore": 4.02,
-    "AdjustedRating": "2.1122128896380613269190704369"
+    "AdjustedRating": "2.1102292501751927119831814996"
   },
   {
     "BID": 2826189,
@@ -297,7 +237,7 @@
     "BAR": 6.36,
     "StylePlus": "109",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0988021815536582564416708143"
+    "AdjustedRating": "2.096797239174547264443508557"
   },
   {
     "BID": 2208010,
@@ -312,7 +252,7 @@
     "BAR": 6.77,
     "StylePlus": "110",
     "RatingScore": 4.22,
-    "AdjustedRating": "2.1536600454274649985105749181"
+    "AdjustedRating": "2.1517101239946380697050938338"
   },
   {
     "BID": 18084,
@@ -327,7 +267,22 @@
     "BAR": 6.22,
     "StylePlus": "109",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0881363277238195980382729109"
+    "AdjustedRating": "2.08612201519376863159919223"
+  },
+  {
+    "BID": 5200137,
+    "BeerName": "Moneybags",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "Back Channel Brewing Collective",
+    "Origin": "Spring Park, MN United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5200137_991b0_sm.jpeg",
+    "HallRating": 12.77,
+    "BAR": 5.50,
+    "StylePlus": "113",
+    "RatingScore": 4.33,
+    "AdjustedRating": "2.0622657972647447354106768203"
   },
   {
     "BID": 5105918,
@@ -342,7 +297,37 @@
     "BAR": 6.07,
     "StylePlus": "109",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0801369943066679532953777864"
+    "AdjustedRating": "2.0781156842613142912284087619"
+  },
+  {
+    "BID": 3334508,
+    "BeerName": "Crush Creamsicle",
+    "BeerStyle": "Cream Ale",
+    "BreweryName": "Bicentennial Beer Company",
+    "Origin": "Jackson, MS United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334508_40593_sm.jpeg",
+    "HallRating": 12.76,
+    "BAR": 3.86,
+    "StylePlus": "123",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.0549603231338920288442798675"
+  },
+  {
+    "BID": 5700159,
+    "BeerName": "Brewers Reserve 2019 Barleywine",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Lakefront Brewery",
+    "Origin": "Milwaukee, WI United States",
+    "BeerAbv": 15.80,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5540590_30a5f_sm.jpeg",
+    "HallRating": 12.76,
+    "BAR": 5.20,
+    "StylePlus": "113",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.0593349709172259507829977629"
   },
   {
     "BID": 3342388,
@@ -357,21 +342,36 @@
     "BAR": 6.66,
     "StylePlus": "111",
     "RatingScore": 4.27,
-    "AdjustedRating": "2.1345249249633279422274043706"
+    "AdjustedRating": "2.132555274758340542370331365"
   },
   {
-    "BID": 6418708,
-    "BeerName": "Amplification Zone (2025)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Bottle Logic Brewing",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6418708_43c26_sm.jpeg",
+    "BID": 4617358,
+    "BeerName": "Funktastic Fizz: F&M Root Beer",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Funktastic Meads",
+    "Origin": "Midlothian, VA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4617358_6a63e_sm.jpeg",
     "HallRating": 12.76,
-    "BAR": 6.02,
+    "BAR": 6.45,
+    "StylePlus": "112",
+    "RatingScore": 4.27,
+    "AdjustedRating": "2.1032573478219426174816509389"
+  },
+  {
+    "BID": 1008221,
+    "BeerName": "Banshee",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Boatrocker Brewers & Distillers",
+    "Origin": "Braeside, Victoria Australia",
+    "BeerAbv": 14.20,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1008221_56f4c_sm.jpeg",
+    "HallRating": 12.76,
+    "BAR": 6.15,
     "StylePlus": "111",
-    "RatingScore": 4.35,
-    "AdjustedRating": "2.0773526822484064129804906316"
+    "RatingScore": 4.34,
+    "AdjustedRating": "2.0813449081101907146985166635"
   }
 ]

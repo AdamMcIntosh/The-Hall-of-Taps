@@ -1,5 +1,13 @@
 [
   {
+    "BreweryName": "111B",
+    "Location": "Denmark"
+  },
+  {
+    "BreweryName": "112 Blender",
+    "Location": "Spain"
+  },
+  {
     "BreweryName": "112 Brewery",
     "Location": "United States"
   },
@@ -14,6 +22,10 @@
   {
     "BreweryName": "1121 Brewery",
     "Location": null
+  },
+  {
+    "BreweryName": "1121 Quincy Street",
+    "Location": "United States"
   },
   {
     "BreweryName": "113 Brewing",
@@ -86,17 +98,5 @@
   {
     "BreweryName": "11th Event Brewing",
     "Location": "Slippery Rock, PA United States"
-  },
-  {
-    "BreweryName": "11th Floor Brewing",
-    "Location": "Canada"
-  },
-  {
-    "BreweryName": "11th Hour Brewery",
-    "Location": "Danvers, MA United States"
-  },
-  {
-    "BreweryName": "11th Labor Cellars",
-    "Location": "United States"
   }
 ]

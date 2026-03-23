@@ -12,7 +12,7 @@
     "BAR": 10.39,
     "StylePlus": "123",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1137020713034204311723927782"
+    "AdjustedRating": "2.1117074384855641045174068713"
   },
   {
     "BID": 2809887,
@@ -27,7 +27,7 @@
     "BAR": 10.86,
     "StylePlus": "119",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.169854672570322964726893883"
+    "AdjustedRating": "2.1679062021878255692811430272"
   },
   {
     "BID": 2400588,
@@ -42,7 +42,7 @@
     "BAR": 11.91,
     "StylePlus": "117",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.5967132820141278753848940409"
+    "AdjustedRating": "2.5951324364547485358932560526"
   },
   {
     "BID": 2422477,
@@ -57,7 +57,7 @@
     "BAR": 9.56,
     "StylePlus": "117",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.0780328756211210146748902767"
+    "AdjustedRating": "2.0760078919587788325825100056"
   },
   {
     "BID": 3803162,
@@ -72,7 +72,7 @@
     "BAR": 11.46,
     "StylePlus": "116",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.3506832272548112350693194866"
+    "AdjustedRating": "2.3488883892858978972803454835"
   },
   {
     "BID": 3348226,
@@ -87,7 +87,7 @@
     "BAR": 10.22,
     "StylePlus": "113",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.1087754047805567762768213692"
+    "AdjustedRating": "2.1067742549248141849934081052"
   },
   {
     "BID": 6608552,
@@ -102,7 +102,7 @@
     "BAR": 7.65,
     "StylePlus": "117",
     "RatingScore": 4.85,
-    "AdjustedRating": "2.059620258202706649790672768"
+    "AdjustedRating": "2.0575808427611722324992697887"
   },
   {
     "BID": 1809242,
@@ -117,7 +117,7 @@
     "BAR": 11.27,
     "StylePlus": "114",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.3003877657404150545198733732"
+    "AdjustedRating": "2.2985457998593035525852972212"
   },
   {
     "BID": 2504340,
@@ -132,7 +132,7 @@
     "BAR": 10.68,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.1601462715384183644833585901"
+    "AdjustedRating": "2.1581868286842154496641784064"
   },
   {
     "BID": 4825126,
@@ -147,7 +147,7 @@
     "BAR": 9.33,
     "StylePlus": "136",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0730015752483107126953087185"
+    "AdjustedRating": "2.0709737687080098356212124146"
   },
   {
     "BID": 5819320,
@@ -162,7 +162,7 @@
     "BAR": 10.31,
     "StylePlus": "113",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.1210970914554133465188368864"
+    "AdjustedRating": "2.1191053036152368636251259913"
   },
   {
     "BID": 6422119,
@@ -177,7 +177,7 @@
     "BAR": 9.86,
     "StylePlus": "118",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0910702842635688733315382544"
+    "AdjustedRating": "2.08905593299226833865446013"
   },
   {
     "BID": 6501242,
@@ -192,22 +192,7 @@
     "BAR": 5.78,
     "StylePlus": "135",
     "RatingScore": 4.94,
-    "AdjustedRating": "2.0569833617900440494289166959"
-  },
-  {
-    "BID": 1211853,
-    "BeerName": "Serendipity",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "New Glarus Brewing Company",
-    "Origin": "New Glarus, WI United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-244984_e3ee9_sm.jpeg",
-    "HallRating": 20.18,
-    "BAR": 12.32,
-    "StylePlus": "120",
-    "RatingScore": 4.20,
-    "AdjustedRating": "3.1205178261424434300299415894"
+    "AdjustedRating": "2.0549419985966553619459712314"
   },
   {
     "BID": 6500776,
@@ -222,7 +207,22 @@
     "BAR": 8.77,
     "StylePlus": "115",
     "RatingScore": 4.77,
-    "AdjustedRating": "2.0667830260423746917056687317"
+    "AdjustedRating": "2.0647490761851125395684850368"
+  },
+  {
+    "BID": 1211853,
+    "BeerName": "Serendipity",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "New Glarus Brewing Company",
+    "Origin": "New Glarus, WI United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-244984_e3ee9_sm.jpeg",
+    "HallRating": 20.18,
+    "BAR": 12.32,
+    "StylePlus": "120",
+    "RatingScore": 4.20,
+    "AdjustedRating": "3.1194896596475727678790556128"
   },
   {
     "BID": 3602650,
@@ -237,7 +237,7 @@
     "BAR": 8.00,
     "StylePlus": "121",
     "RatingScore": 4.73,
-    "AdjustedRating": "2.0613391130742737055126383997"
+    "AdjustedRating": "2.0593011262672452374929462357"
   },
   {
     "BID": 3600202,
@@ -252,22 +252,7 @@
     "BAR": 11.36,
     "StylePlus": "119",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.407665573324936610264993951"
-  },
-  {
-    "BID": 4940566,
-    "BeerName": "ORANGE CREAM",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Smooj",
-    "Origin": "Ann Arbor, MI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4443944_980b2_sm.jpeg",
-    "HallRating": 19.97,
-    "BAR": 10.66,
-    "StylePlus": "122",
-    "RatingScore": 4.37,
-    "AdjustedRating": "2.1733879649817690499546539821"
+    "AdjustedRating": "2.4059298682487860658590344873"
   },
   {
     "BID": 5014131,
@@ -282,7 +267,22 @@
     "BAR": 9.65,
     "StylePlus": "124",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0869905905913616144499431939"
+    "AdjustedRating": "2.084973795613410101865937494"
+  },
+  {
+    "BID": 4940566,
+    "BeerName": "ORANGE CREAM",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Smooj",
+    "Origin": "Ann Arbor, MI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4443944_980b2_sm.jpeg",
+    "HallRating": 19.97,
+    "BAR": 10.66,
+    "StylePlus": "122",
+    "RatingScore": 4.37,
+    "AdjustedRating": "2.1714494841659108997020118825"
   },
   {
     "BID": 6422169,
@@ -295,9 +295,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
     "HallRating": 19.96,
     "BAR": 8.69,
-    "StylePlus": "133",
+    "StylePlus": "134",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0661404450831132515146807519"
+    "AdjustedRating": "2.064106613717570296722075501"
   },
   {
     "BID": 4605043,
@@ -312,7 +312,7 @@
     "BAR": 9.61,
     "StylePlus": "116",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.087123696824907521578298397"
+    "AdjustedRating": "2.0851058527281134401972872996"
   },
   {
     "BID": 5611939,
@@ -327,7 +327,7 @@
     "BAR": 12.88,
     "StylePlus": "118",
     "RatingScore": 4.21,
-    "AdjustedRating": "3.9000827246510166524529826294"
+    "AdjustedRating": "3.8997889104650118946092733067"
   },
   {
     "BID": 6032033,
@@ -342,22 +342,7 @@
     "BAR": 12.34,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "3.4693715794411929829958393257"
-  },
-  {
-    "BID": 1003124,
-    "BeerName": "Biere de Norma",
-    "BeerStyle": "Farmhouse Ale - Bière de Mars",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-155985_f0e5f_sm.jpeg",
-    "HallRating": 19.85,
-    "BAR": 10.79,
-    "StylePlus": "121",
-    "RatingScore": 4.37,
-    "AdjustedRating": "2.213422887774385811891263265"
+    "AdjustedRating": "3.4685660991947826220708006799"
   },
   {
     "BID": 2810075,
@@ -372,6 +357,21 @@
     "BAR": 9.23,
     "StylePlus": "117",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0765624985008221297997872135"
+    "AdjustedRating": "2.0745364963729567656446464842"
+  },
+  {
+    "BID": 1003124,
+    "BeerName": "Biere de Norma",
+    "BeerStyle": "Farmhouse Ale - Bière de Mars",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-155985_f0e5f_sm.jpeg",
+    "HallRating": 19.85,
+    "BAR": 10.79,
+    "StylePlus": "121",
+    "RatingScore": 4.37,
+    "AdjustedRating": "2.2115197372437854339293501962"
   }
 ]

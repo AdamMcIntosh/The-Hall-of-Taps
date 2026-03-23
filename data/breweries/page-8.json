@@ -1,5 +1,9 @@
 [
   {
+    "BreweryName": "{apps && Ales}",
+    "Location": "United States"
+  },
+  {
     "BreweryName": "¡Qué Bárbara!",
     "Location": "Mexico"
   },
@@ -94,9 +98,5 @@
   {
     "BreweryName": "µBrew",
     "Location": "Sweden"
-  },
-  {
-    "BreweryName": "…GoodBeerNut Brewing Co",
-    "Location": "United States"
   }
 ]

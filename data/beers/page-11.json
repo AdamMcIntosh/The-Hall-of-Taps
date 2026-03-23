@@ -1,20 +1,5 @@
 [
   {
-    "BID": 2214722,
-    "BeerName": "Anna",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21548_d92a9_sm.jpeg",
-    "HallRating": 17.91,
-    "BAR": 10.89,
-    "StylePlus": "115",
-    "RatingScore": 4.25,
-    "AdjustedRating": "3.0822459123504322288062597939"
-  },
-  {
     "BID": 4980052,
     "BeerName": "Melomel: Mix of Three Types of Honey And Grapefruit",
     "BeerStyle": "Mead - Melomel",
@@ -27,7 +12,7 @@
     "BAR": 5.28,
     "StylePlus": "121",
     "RatingScore": 4.82,
-    "AdjustedRating": "2.0570536438761986434863958837"
+    "AdjustedRating": "2.0550123602557106104311218523"
   },
   {
     "BID": 3008916,
@@ -42,7 +27,7 @@
     "BAR": 9.44,
     "StylePlus": "114",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.1581383804157181774079187969"
+    "AdjustedRating": "2.1561841657648244206441019517"
   },
   {
     "BID": 3237218,
@@ -57,7 +42,7 @@
     "BAR": 9.69,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.2213658229322077071431170627"
+    "AdjustedRating": "2.2194602485353516975364797496"
   },
   {
     "BID": 5302224,
@@ -72,7 +57,7 @@
     "BAR": 8.66,
     "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0893697971906869347700596498"
+    "AdjustedRating": "2.08735451568212430248220127"
   },
   {
     "BID": 2002082,
@@ -87,22 +72,7 @@
     "BAR": 9.46,
     "StylePlus": "113",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.1686731333345732512507671992"
-  },
-  {
-    "BID": 4423027,
-    "BeerName": "Norwalien Happiness (2020)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4423027_c1b0d_sm.jpeg",
-    "HallRating": 17.81,
-    "BAR": 8.65,
-    "StylePlus": "114",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0888464183182605349239946123"
+    "AdjustedRating": "2.166725206539327096546208641"
   },
   {
     "BID": 1705546,
@@ -115,9 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1705546_4acf7_sm.jpeg",
     "HallRating": 17.81,
     "BAR": 10.09,
-    "StylePlus": "121",
+    "StylePlus": "122",
     "RatingScore": 4.16,
-    "AdjustedRating": "2.3507980276636767541285941822"
+    "AdjustedRating": "2.3490420685723866208399698214"
   },
   {
     "BID": 4024608,
@@ -132,7 +102,22 @@
     "BAR": 10.66,
     "StylePlus": "118",
     "RatingScore": 4.22,
-    "AdjustedRating": "2.8516958854930775584678165029"
+    "AdjustedRating": "2.8504046722473586231553511768"
+  },
+  {
+    "BID": 4423027,
+    "BeerName": "Norwalien Happiness (2020)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4423027_c1b0d_sm.jpeg",
+    "HallRating": 17.81,
+    "BAR": 8.65,
+    "StylePlus": "114",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0868311368096979026361362324"
   },
   {
     "BID": 6423294,
@@ -147,7 +132,7 @@
     "BAR": 9.68,
     "StylePlus": "122",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.2124345617953047551609564791"
+    "AdjustedRating": "2.2105329662109410461717232239"
   },
   {
     "BID": 4817770,
@@ -162,7 +147,7 @@
     "BAR": 8.40,
     "StylePlus": "125",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0781374144824522434473567303"
+    "AdjustedRating": "2.0761144646823633940470901821"
   },
   {
     "BID": 5500225,
@@ -177,7 +162,22 @@
     "BAR": 8.47,
     "StylePlus": "114",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0823022723939639535332484273"
+    "AdjustedRating": "2.0802812353826560148199606345"
+  },
+  {
+    "BID": 4617857,
+    "BeerName": "Beanie In A Bottle",
+    "BeerStyle": "Mead - Traditional",
+    "BreweryName": "Manic Meadery",
+    "Origin": "Crown Point, IN United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4617857_aa052_sm.jpeg",
+    "HallRating": 17.78,
+    "BAR": 7.63,
+    "StylePlus": "121",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.062826831296508577978977637"
   },
   {
     "BID": 6103962,
@@ -192,7 +192,7 @@
     "BAR": 8.41,
     "StylePlus": "112",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0806347448920474296087443513"
+    "AdjustedRating": "2.0786121466919006604611641111"
   },
   {
     "BID": 3809290,
@@ -207,7 +207,7 @@
     "BAR": 8.35,
     "StylePlus": "115",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0783254427395354230278668883"
+    "AdjustedRating": "2.0763014374057898195029567503"
   },
   {
     "BID": 3613955,
@@ -222,7 +222,7 @@
     "BAR": 11.36,
     "StylePlus": "112",
     "RatingScore": 4.30,
-    "AdjustedRating": "3.8645659234540997003541269409"
+    "AdjustedRating": "3.8641696713732255818880716729"
   },
   {
     "BID": 6218368,
@@ -237,7 +237,7 @@
     "BAR": 9.89,
     "StylePlus": "115",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.3010867950486233566702166664"
+    "AdjustedRating": "2.2992582394329311940220332769"
   },
   {
     "BID": 5805511,
@@ -252,22 +252,7 @@
     "BAR": 9.73,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.2514882666762403963524089897"
-  },
-  {
-    "BID": 4035313,
-    "BeerName": "3 Fonteinen Hommage",
-    "BeerStyle": "Lambic - Framboise",
-    "BreweryName": "Brouwerij 3 Fonteinen",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17797_2653c_sm.jpeg",
-    "HallRating": 17.72,
-    "BAR": 10.22,
-    "StylePlus": "109",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.5119480731461664358554702254"
+    "AdjustedRating": "2.2496082103109068715444819416"
   },
   {
     "BID": 235202,
@@ -282,7 +267,22 @@
     "BAR": 10.61,
     "StylePlus": "109",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.8890590702464141228392791467"
+    "AdjustedRating": "2.8877750910874095868579134486"
+  },
+  {
+    "BID": 4035313,
+    "BeerName": "3 Fonteinen Hommage",
+    "BeerStyle": "Lambic - Framboise",
+    "BreweryName": "Brouwerij 3 Fonteinen",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-17797_2653c_sm.jpeg",
+    "HallRating": 17.72,
+    "BAR": 10.22,
+    "StylePlus": "109",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.5102998580511141885937303286"
   },
   {
     "BID": 3025834,
@@ -297,7 +297,7 @@
     "BAR": 9.95,
     "StylePlus": "120",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.3269719258954866105061297171"
+    "AdjustedRating": "2.3251786552290938976782412164"
   },
   {
     "BID": 6609944,
@@ -312,22 +312,7 @@
     "BAR": 6.33,
     "StylePlus": "127",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0584587794378323626234489744"
-  },
-  {
-    "BID": 3505685,
-    "BeerName": "Moment of Clarity (Marshmallow)",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 7.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 17.66,
-    "BAR": 8.87,
-    "StylePlus": "117",
-    "RatingScore": 4.47,
-    "AdjustedRating": "2.1050972887895631577942047256"
+    "AdjustedRating": "2.0564186489276739973118803202"
   },
   {
     "BID": 6506422,
@@ -342,7 +327,7 @@
     "BAR": 8.44,
     "StylePlus": "112",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0836868487443582918643675501"
+    "AdjustedRating": "2.0816667472900513057902248968"
   },
   {
     "BID": 6043863,
@@ -357,7 +342,22 @@
     "BAR": 7.70,
     "StylePlus": "116",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0664892203732111303132099652"
+    "AdjustedRating": "2.0644555074855822443154236005"
+  },
+  {
+    "BID": 3505685,
+    "BeerName": "Moment of Clarity (Marshmallow)",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 17.66,
+    "BAR": 8.87,
+    "StylePlus": "117",
+    "RatingScore": 4.47,
+    "AdjustedRating": "2.1030967505205050331404122018"
   },
   {
     "BID": 2015540,
@@ -372,6 +372,6 @@
     "BAR": 9.75,
     "StylePlus": "110",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.2640137055044894772332043866"
+    "AdjustedRating": "2.2621552006956027966071618696"
   }
 ]

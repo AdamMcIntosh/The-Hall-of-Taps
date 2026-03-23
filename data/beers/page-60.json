@@ -1,35 +1,5 @@
 [
   {
-    "BID": 4961446,
-    "BeerName": "Mega Fresh - Maria",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Juicy Brewing Co",
-    "Origin": "Herndon, VA United States",
-    "BeerAbv": 4.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4961446_9485b_sm.jpeg",
-    "HallRating": 13.62,
-    "BAR": 4.12,
-    "StylePlus": "114",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.0570755868251802767491717014"
-  },
-  {
-    "BID": 2015832,
-    "BeerName": "Origins",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Crooked Stave Brewing Co.",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_293016_sm_4c438aaeb92e06c8f9d336b8f0acc0.jpeg",
-    "HallRating": 13.62,
-    "BAR": 8.02,
-    "StylePlus": "110",
-    "RatingScore": 4.16,
-    "AdjustedRating": "2.6427713729735809794300015466"
-  },
-  {
     "BID": 6015365,
     "BeerName": "Continuum of Infinities",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -42,22 +12,7 @@
     "BAR": 6.63,
     "StylePlus": "110",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0884068387444222188028927527"
-  },
-  {
-    "BID": 6045869,
-    "BeerName": "Blorp",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Atlas Meadery",
-    "Origin": "Moscow, Москва Russia",
-    "BeerAbv": 17.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6045869_a141e_sm.jpeg",
-    "HallRating": 13.62,
-    "BAR": 4.07,
-    "StylePlus": "123",
-    "RatingScore": 4.47,
-    "AdjustedRating": "2.0569778861408329922625660216"
+    "AdjustedRating": "2.0863924099861517156485613171"
   },
   {
     "BID": 4829880,
@@ -72,7 +27,37 @@
     "BAR": 5.90,
     "StylePlus": "111",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0653876463504642038612438333"
+    "AdjustedRating": "2.063353419958823757914772948"
+  },
+  {
+    "BID": 6045869,
+    "BeerName": "Blorp",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Atlas Meadery",
+    "Origin": "Moscow, Москва Russia",
+    "BeerAbv": 17.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6045869_a141e_sm.jpeg",
+    "HallRating": 13.62,
+    "BAR": 4.07,
+    "StylePlus": "123",
+    "RatingScore": 4.47,
+    "AdjustedRating": "2.0549366423044690015396908924"
+  },
+  {
+    "BID": 2015832,
+    "BeerName": "Origins",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Crooked Stave Brewing Co.",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_293016_sm_4c438aaeb92e06c8f9d336b8f0acc0.jpeg",
+    "HallRating": 13.62,
+    "BAR": 8.02,
+    "StylePlus": "110",
+    "RatingScore": 4.16,
+    "AdjustedRating": "2.641298794764000393684180926"
   },
   {
     "BID": 4505288,
@@ -87,7 +72,7 @@
     "BAR": 5.70,
     "StylePlus": "118",
     "RatingScore": 4.32,
-    "AdjustedRating": "2.0624222957576700237197184742"
+    "AdjustedRating": "2.0603860127542092779095539915"
   },
   {
     "BID": 847329,
@@ -102,52 +87,7 @@
     "BAR": 7.83,
     "StylePlus": "110",
     "RatingScore": 4.25,
-    "AdjustedRating": "2.4595254882492402183079542381"
-  },
-  {
-    "BID": 4601228,
-    "BeerName": "King's Head – Bourbon Barrel Aged (2021)",
-    "BeerStyle": "Brown Ale - Imperial / Double",
-    "BreweryName": "Holy Mountain Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-161632_c21c8.jpeg",
-    "HallRating": 13.61,
-    "BAR": 5.98,
-    "StylePlus": "115",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.0663651045326603901776181695"
-  },
-  {
-    "BID": 3342684,
-    "BeerName": "De Garde #3",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Brasserie Auval Brewing",
-    "Origin": "Val d'Espoir, QC Canada",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-221103_656b7.jpeg",
-    "HallRating": 13.61,
-    "BAR": 6.25,
-    "StylePlus": "115",
-    "RatingScore": 4.20,
-    "AdjustedRating": "2.0707797296878630625048408334"
-  },
-  {
-    "BID": 4504595,
-    "BeerName": "The Fillings Are Mutual",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Mortalis Brewing Company",
-    "Origin": "Avon, NY United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4504595_a8e9b_sm.jpeg",
-    "HallRating": 13.61,
-    "BAR": 7.42,
-    "StylePlus": "108",
-    "RatingScore": 4.36,
-    "AdjustedRating": "2.2206732630892895937432109494"
+    "AdjustedRating": "2.4578589937467182204401164733"
   },
   {
     "BID": 6213615,
@@ -160,39 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
     "HallRating": 13.61,
     "BAR": 5.89,
-    "StylePlus": "121",
+    "StylePlus": "122",
     "RatingScore": 4.16,
-    "AdjustedRating": "2.0640526048363601048849179373"
-  },
-  {
-    "BID": 1022501,
-    "BeerName": "Noble Star Collection: Starkeller Peach",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "The Starkeller Brewery + Taproom",
-    "Origin": "New Ulm, MN United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1022501_240a8_sm.jpeg",
-    "HallRating": 13.61,
-    "BAR": 7.38,
-    "StylePlus": "111",
-    "RatingScore": 4.24,
-    "AdjustedRating": "2.1976805666776063887977245378"
-  },
-  {
-    "BID": 6608458,
-    "BeerName": "Triple Nator",
-    "BeerStyle": "Bock - Doppelbock",
-    "BreweryName": "Tröegs Independent Brewing",
-    "Origin": "Hershey, PA United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4233506_72b94_sm.jpeg",
-    "HallRating": 13.61,
-    "BAR": 7.34,
-    "StylePlus": "113",
-    "RatingScore": 4.15,
-    "AdjustedRating": "2.1807506529512074371527586776"
+    "AdjustedRating": "2.0620183389336700009711566476"
   },
   {
     "BID": 2238765,
@@ -207,7 +117,67 @@
     "BAR": 6.53,
     "StylePlus": "115",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.0817964367505879631414581486"
+    "AdjustedRating": "2.0797774256853144156995797509"
+  },
+  {
+    "BID": 4504595,
+    "BeerName": "The Fillings Are Mutual",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4504595_a8e9b_sm.jpeg",
+    "HallRating": 13.61,
+    "BAR": 7.42,
+    "StylePlus": "108",
+    "RatingScore": 4.36,
+    "AdjustedRating": "2.2187771413570859584329060757"
+  },
+  {
+    "BID": 4601228,
+    "BeerName": "King's Head – Bourbon Barrel Aged (2021)",
+    "BeerStyle": "Brown Ale - Imperial / Double",
+    "BreweryName": "Holy Mountain Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-161632_c21c8.jpeg",
+    "HallRating": 13.61,
+    "BAR": 5.98,
+    "StylePlus": "115",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.0643320232941861593710569737"
+  },
+  {
+    "BID": 1022501,
+    "BeerName": "Noble Star Collection: Starkeller Peach",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "The Starkeller Brewery + Taproom",
+    "Origin": "New Ulm, MN United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1022501_240a8_sm.jpeg",
+    "HallRating": 13.61,
+    "BAR": 7.38,
+    "StylePlus": "111",
+    "RatingScore": 4.24,
+    "AdjustedRating": "2.1957709619662327243554680378"
+  },
+  {
+    "BID": 6608458,
+    "BeerName": "Triple Nator",
+    "BeerStyle": "Bock - Doppelbock",
+    "BreweryName": "Tröegs Independent Brewing",
+    "Origin": "Hershey, PA United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4233506_72b94_sm.jpeg",
+    "HallRating": 13.61,
+    "BAR": 7.34,
+    "StylePlus": "113",
+    "RatingScore": 4.15,
+    "AdjustedRating": "2.1788302286521077433668885344"
   },
   {
     "BID": 2550206,
@@ -222,37 +192,7 @@
     "BAR": 6.44,
     "StylePlus": "110",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.0775759541188738269030239833"
-  },
-  {
-    "BID": 5902446,
-    "BeerName": "Cherry V.S.O.J.",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Revolution Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5902446_5c237_sm.jpeg",
-    "HallRating": 13.60,
-    "BAR": 6.99,
-    "StylePlus": "111",
-    "RatingScore": 4.34,
-    "AdjustedRating": "2.1201392526056471480007580064"
-  },
-  {
-    "BID": 6606911,
-    "BeerName": "Carnelian",
-    "BeerStyle": "Rye Beer",
-    "BreweryName": "Ghost Hawk Brewing Company",
-    "Origin": "Clifton, NJ United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6606911_681ec_sm.jpeg",
-    "HallRating": 13.60,
-    "BAR": 3.40,
-    "StylePlus": "126",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.0565662448343079922027290448"
+    "AdjustedRating": "2.0755535121461398833661607384"
   },
   {
     "BID": 6007759,
@@ -267,7 +207,22 @@
     "BAR": 3.76,
     "StylePlus": "118",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0567672766256042413846873538"
+    "AdjustedRating": "2.0547258338531108685482613441"
+  },
+  {
+    "BID": 6606911,
+    "BeerName": "Carnelian",
+    "BeerStyle": "Rye Beer",
+    "BreweryName": "Ghost Hawk Brewing Company",
+    "Origin": "Clifton, NJ United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6606911_681ec_sm.jpeg",
+    "HallRating": 13.60,
+    "BAR": 3.40,
+    "StylePlus": "126",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.0545246428849902534113060429"
   },
   {
     "BID": 5813195,
@@ -282,7 +237,22 @@
     "BAR": 6.16,
     "StylePlus": "114",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.0694971868276704204058690132"
+    "AdjustedRating": "2.0674671792685054174015854864"
+  },
+  {
+    "BID": 5902446,
+    "BeerName": "Cherry V.S.O.J.",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Revolution Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5902446_5c237_sm.jpeg",
+    "HallRating": 13.60,
+    "BAR": 6.99,
+    "StylePlus": "111",
+    "RatingScore": 4.34,
+    "AdjustedRating": "2.1181545230244457077885162024"
   },
   {
     "BID": 5813516,
@@ -297,7 +267,22 @@
     "BAR": 5.93,
     "StylePlus": "124",
     "RatingScore": 4.12,
-    "AdjustedRating": "2.0644600547583448222295578555"
+    "AdjustedRating": "2.0624263418707159362317714907"
+  },
+  {
+    "BID": 5900492,
+    "BeerName": "Helles Lager",
+    "BeerStyle": "Lager - Helles",
+    "BreweryName": "Gold Dot Beer",
+    "Origin": "McMinnville, OR United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 16.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5348711_65753_sm.jpeg",
+    "HallRating": 13.59,
+    "BAR": 7.02,
+    "StylePlus": "118",
+    "RatingScore": 4.05,
+    "AdjustedRating": "2.1145690282451695844519227134"
   },
   {
     "BID": 3618219,
@@ -312,22 +297,7 @@
     "BAR": 7.88,
     "StylePlus": "109",
     "RatingScore": 4.22,
-    "AdjustedRating": "2.5113471944085226922840076359"
-  },
-  {
-    "BID": 5900492,
-    "BeerName": "Helles Lager",
-    "BeerStyle": "Lager - Helles",
-    "BreweryName": "Gold Dot Beer",
-    "Origin": "McMinnville, OR United States",
-    "BeerAbv": 4.90,
-    "BeerIbu": 16.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5348711_65753_sm.jpeg",
-    "HallRating": 13.59,
-    "BAR": 7.02,
-    "StylePlus": "117",
-    "RatingScore": 4.05,
-    "AdjustedRating": "2.1165491050024577456800393239"
+    "AdjustedRating": "2.5097348078699427304636985036"
   },
   {
     "BID": 6030969,
@@ -342,7 +312,22 @@
     "BAR": 5.72,
     "StylePlus": "118",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0627588569429054645127427538"
+    "AdjustedRating": "2.0607228510332225267782508116"
+  },
+  {
+    "BID": 4805549,
+    "BeerName": "Holographic",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4805549_bcb54_sm.jpeg",
+    "HallRating": 13.58,
+    "BAR": 7.43,
+    "StylePlus": "111",
+    "RatingScore": 4.28,
+    "AdjustedRating": "2.2237090555095277547638773819"
   },
   {
     "BID": 3905823,
@@ -357,7 +342,7 @@
     "BAR": 5.71,
     "StylePlus": "118",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0627147814930015552099533437"
+    "AdjustedRating": "2.0606787360031104199066874028"
   },
   {
     "BID": 3811609,
@@ -372,6 +357,21 @@
     "BAR": 6.30,
     "StylePlus": "114",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.0733959866117205486872908081"
+    "AdjustedRating": "2.0713696709037088629636078705"
+  },
+  {
+    "BID": 5212573,
+    "BeerName": "The Minus Times: Danish Style Lager",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Foam Brewers",
+    "Origin": "Burlington, VT United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5212573_fb144_sm.jpeg",
+    "HallRating": 13.58,
+    "BAR": 6.65,
+    "StylePlus": "124",
+    "RatingScore": 3.87,
+    "AdjustedRating": "2.080523049049933716305788776"
   }
 ]

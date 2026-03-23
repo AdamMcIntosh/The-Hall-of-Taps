@@ -1,20 +1,5 @@
 [
   {
-    "BID": 6415198,
-    "BeerName": "RED ALERT",
-    "BeerStyle": "Red Ale - American Amber / Red",
-    "BreweryName": "Samovar Brew",
-    "Origin": "Moscow, Москва Russia",
-    "BeerAbv": 5.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6415198_2bb26_sm.jpeg",
-    "HallRating": 15.21,
-    "BAR": 4.20,
-    "StylePlus": "131",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0567754631217838765008576329"
-  },
-  {
     "BID": 6213156,
     "BeerName": "Anniversary XXVIII (28) Ale (2024)",
     "BeerStyle": "Strong Ale - American",
@@ -27,7 +12,22 @@
     "BAR": 8.34,
     "StylePlus": "113",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.2325091287171383421922137624"
+    "AdjustedRating": "2.2306283971412153426231863238"
+  },
+  {
+    "BID": 1602257,
+    "BeerName": "Darkstar November",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Bottle Logic Brewing",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 13.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1602257_86dda_sm.jpeg",
+    "HallRating": 15.21,
+    "BAR": 8.66,
+    "StylePlus": "109",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.4134191113830279780408757193"
   },
   {
     "BID": 3801773,
@@ -42,37 +42,7 @@
     "BAR": 8.26,
     "StylePlus": "112",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.2082453160088078469909555786"
-  },
-  {
-    "BID": 6419919,
-    "BeerName": "HypGnosis II",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Gnosis Brewing",
-    "Origin": "Merrillville, IN United States",
-    "BeerAbv": 14.80,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6419919_ecb3a_sm.jpeg",
-    "HallRating": 15.21,
-    "BAR": 6.15,
-    "StylePlus": "111",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0615212039144730442226502461"
-  },
-  {
-    "BID": 6418336,
-    "BeerName": "Dragonsaddle (2025)",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Hoof Hearted Brewing",
-    "Origin": "Marengo, OH United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-HoofHearted_32642.jpeg",
-    "HallRating": 15.21,
-    "BAR": 6.61,
-    "StylePlus": "111",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0661420873145342965897615164"
+    "AdjustedRating": "2.2063393601572309876071409074"
   },
   {
     "BID": 6008204,
@@ -87,7 +57,37 @@
     "BAR": 8.32,
     "StylePlus": "113",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.2297886647931978671278282173"
+    "AdjustedRating": "2.2279019703847816688283614354"
+  },
+  {
+    "BID": 6418336,
+    "BeerName": "Dragonsaddle (2025)",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Hoof Hearted Brewing",
+    "Origin": "Marengo, OH United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-HoofHearted_32642.jpeg",
+    "HallRating": 15.21,
+    "BAR": 6.61,
+    "StylePlus": "111",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0641080979569641886118231958"
+  },
+  {
+    "BID": 6415198,
+    "BeerName": "RED ALERT",
+    "BeerStyle": "Red Ale - American Amber / Red",
+    "BreweryName": "Samovar Brew",
+    "Origin": "Moscow, Москва Russia",
+    "BeerAbv": 5.50,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6415198_2bb26_sm.jpeg",
+    "HallRating": 15.21,
+    "BAR": 4.20,
+    "StylePlus": "131",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0547340203492905036644316233"
   },
   {
     "BID": 6031703,
@@ -102,7 +102,7 @@
     "BAR": 7.10,
     "StylePlus": "112",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.0760969963454956784036196995"
+    "AdjustedRating": "2.0740718560628033335266933503"
   },
   {
     "BID": 6402628,
@@ -117,22 +117,7 @@
     "BAR": 6.48,
     "StylePlus": "125",
     "RatingScore": 4.25,
-    "AdjustedRating": "2.0633316820831713952584531675"
-  },
-  {
-    "BID": 4029492,
-    "BeerName": "GOSE BREW JUICE Mûre, Mûre de Boysen et Framboise",
-    "BeerStyle": "Sour - Other Gose",
-    "BreweryName": "BreWskey",
-    "Origin": "Montreal, QC Canada",
-    "BeerAbv": 5.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4029492_ffdce_sm.jpeg",
-    "HallRating": 15.19,
-    "BAR": 7.31,
-    "StylePlus": "116",
-    "RatingScore": 4.35,
-    "AdjustedRating": "2.0828705171882225990442423308"
+    "AdjustedRating": "2.0612964279051690633501748931"
   },
   {
     "BID": 4446194,
@@ -147,7 +132,7 @@
     "BAR": 7.57,
     "StylePlus": "114",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.0987528638425757546754464884"
+    "AdjustedRating": "2.0967480365996056737045615513"
   },
   {
     "BID": 4605676,
@@ -162,52 +147,22 @@
     "BAR": 6.98,
     "StylePlus": "114",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.0728161469950433705080545229"
+    "AdjustedRating": "2.0707883011926889714993804213"
   },
   {
-    "BID": 6401822,
-    "BeerName": "Meadowfoam Razzamatazz",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 12.50,
+    "BID": 4029492,
+    "BeerName": "GOSE BREW JUICE Mûre, Mûre de Boysen et Framboise",
+    "BeerStyle": "Sour - Other Gose",
+    "BreweryName": "BreWskey",
+    "Origin": "Montreal, QC Canada",
+    "BeerAbv": 5.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266944_bf1b0.jpeg",
-    "HallRating": 15.18,
-    "BAR": 5.49,
-    "StylePlus": "115",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.058561518504090377873003506"
-  },
-  {
-    "BID": 6302617,
-    "BeerName": "Crimson Snapper",
-    "BeerStyle": "IPA - Fruited",
-    "BreweryName": "Pipeworks Brewing Company",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-951989_ad2ab_sm.jpeg",
-    "HallRating": 15.18,
-    "BAR": 8.60,
-    "StylePlus": "114",
-    "RatingScore": 4.22,
-    "AdjustedRating": "2.3576415531504320832284587633"
-  },
-  {
-    "BID": 4446647,
-    "BeerName": "Decorating Pieces of Time (2021)",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Jackie O’s Brewery",
-    "Origin": "Athens, OH United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4446647_15ab7_sm.jpeg",
-    "HallRating": 15.18,
-    "BAR": 7.80,
-    "StylePlus": "113",
-    "RatingScore": 4.36,
-    "AdjustedRating": "2.1207850443416963541271886607"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4029492_ffdce_sm.jpeg",
+    "HallRating": 15.19,
+    "BAR": 7.31,
+    "StylePlus": "116",
+    "RatingScore": 4.35,
+    "AdjustedRating": "2.0808523620317558193309696316"
   },
   {
     "BID": 6503068,
@@ -222,22 +177,52 @@
     "BAR": 6.27,
     "StylePlus": "111",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0624912650965596374880880608"
+    "AdjustedRating": "2.0604543880666679632042630156"
   },
   {
-    "BID": 4446361,
-    "BeerName": "Cohesion 10°",
-    "BeerStyle": "Lager - Světlé (Czech Pale)",
-    "BreweryName": "Cohesion Brewing Company",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 3.90,
-    "BeerIbu": 26.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-504972_9fab0.jpeg",
+    "BID": 6302617,
+    "BeerName": "Crimson Snapper",
+    "BeerStyle": "IPA - Fruited",
+    "BreweryName": "Pipeworks Brewing Company",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 85.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-951989_ad2ab_sm.jpeg",
     "HallRating": 15.18,
-    "BAR": 7.84,
-    "StylePlus": "119",
-    "RatingScore": 4.07,
-    "AdjustedRating": "2.117266354613683195644365465"
+    "BAR": 8.60,
+    "StylePlus": "114",
+    "RatingScore": 4.22,
+    "AdjustedRating": "2.3558841208155046564309086333"
+  },
+  {
+    "BID": 4446647,
+    "BeerName": "Decorating Pieces of Time (2021)",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Jackie O’s Brewery",
+    "Origin": "Athens, OH United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4446647_15ab7_sm.jpeg",
+    "HallRating": 15.18,
+    "BAR": 7.80,
+    "StylePlus": "113",
+    "RatingScore": 4.36,
+    "AdjustedRating": "2.1188003899795346016827105283"
+  },
+  {
+    "BID": 6401822,
+    "BeerName": "Meadowfoam Razzamatazz",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266944_bf1b0.jpeg",
+    "HallRating": 15.18,
+    "BAR": 5.49,
+    "StylePlus": "115",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.0565215072068562524347487339"
   },
   {
     "BID": 4408619,
@@ -252,7 +237,22 @@
     "BAR": 8.37,
     "StylePlus": "115",
     "RatingScore": 4.23,
-    "AdjustedRating": "2.2450579167927652074840225731"
+    "AdjustedRating": "2.2431934235308778238655581863"
+  },
+  {
+    "BID": 4446361,
+    "BeerName": "Cohesion 10°",
+    "BeerStyle": "Lager - Světlé (Czech Pale)",
+    "BreweryName": "Cohesion Brewing Company",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 3.90,
+    "BeerIbu": 26.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-504972_9fab0.jpeg",
+    "HallRating": 15.18,
+    "BAR": 7.84,
+    "StylePlus": "119",
+    "RatingScore": 4.07,
+    "AdjustedRating": "2.1152863901544511030871315954"
   },
   {
     "BID": 6506313,
@@ -267,7 +267,7 @@
     "BAR": 4.64,
     "StylePlus": "124",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0571169604958001208317904543"
+    "AdjustedRating": "2.0550757962230320983804642279"
   },
   {
     "BID": 6008007,
@@ -282,7 +282,7 @@
     "BAR": 8.50,
     "StylePlus": "111",
     "RatingScore": 4.35,
-    "AdjustedRating": "2.3214663510344827586206896552"
+    "AdjustedRating": "2.3196605893103448275862068966"
   },
   {
     "BID": 2603977,
@@ -297,7 +297,7 @@
     "BAR": 7.93,
     "StylePlus": "116",
     "RatingScore": 4.27,
-    "AdjustedRating": "2.1368516749323715058611361587"
+    "AdjustedRating": "2.1348841707995190862639014127"
   },
   {
     "BID": 3345716,
@@ -312,37 +312,7 @@
     "BAR": 8.74,
     "StylePlus": "109",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.5038037323688969258589511754"
-  },
-  {
-    "BID": 6035489,
-    "BeerName": "Vanquish",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Counterpart Brewing",
-    "Origin": "Niagara Falls, ON Canada",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6035489_faf53_sm.jpeg",
-    "HallRating": 15.14,
-    "BAR": 6.40,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0638043920074638469911366817"
-  },
-  {
-    "BID": 5012390,
-    "BeerName": "Betwixt & Between",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Bissell Brothers Brewing Company",
-    "Origin": "Portland, ME United States",
-    "BeerAbv": 14.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5012390_f76ed_sm.jpeg",
-    "HallRating": 15.14,
-    "BAR": 7.40,
-    "StylePlus": "114",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.0892340494724096177131984086"
+    "AdjustedRating": "2.502156839059674502712477396"
   },
   {
     "BID": 4827457,
@@ -357,21 +327,51 @@
     "BAR": 6.65,
     "StylePlus": "120",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.0660152261521139884303296191"
+    "AdjustedRating": "2.0639821054470629343479442482"
   },
   {
-    "BID": 4410970,
-    "BeerName": "Beats Is Infinite",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 8.30,
+    "BID": 6035489,
+    "BeerName": "Vanquish",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Counterpart Brewing",
+    "Origin": "Niagara Falls, ON Canada",
+    "BeerAbv": 13.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1876752_0e3e3_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6035489_faf53_sm.jpeg",
+    "HallRating": 15.14,
+    "BAR": 6.40,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0617686631161561187995646089"
+  },
+  {
+    "BID": 5012390,
+    "BeerName": "Betwixt & Between",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Bissell Brothers Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 14.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5012390_f76ed_sm.jpeg",
+    "HallRating": 15.14,
+    "BAR": 7.40,
+    "StylePlus": "114",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.087221053258759537949989429"
+  },
+  {
+    "BID": 6407211,
+    "BeerName": "Fate Flickers",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "RaR Brewing",
+    "Origin": "Cambridge, MD United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407211_94e36_sm.jpeg",
     "HallRating": 15.13,
-    "BAR": 8.58,
-    "StylePlus": "110",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.3906209450163193572683906603"
+    "BAR": 7.27,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.082018931400705460573234903"
   }
 ]

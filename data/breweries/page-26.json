@@ -1,5 +1,17 @@
 [
   {
+    "BreweryName": "14er Brewing",
+    "Location": "United States"
+  },
+  {
+    "BreweryName": "14er Brewing Company",
+    "Location": "Denver, CO United States"
+  },
+  {
+    "BreweryName": "14th And Brew",
+    "Location": null
+  },
+  {
     "BreweryName": "14th Avenue Brewery",
     "Location": "United States"
   },
@@ -86,17 +98,5 @@
   {
     "BreweryName": "1516 Brewing Company",
     "Location": "Vienna, Wien Austria"
-  },
-  {
-    "BreweryName": "1516 Home Brewery",
-    "Location": "Russia"
-  },
-  {
-    "BreweryName": "1518",
-    "Location": "Japan"
-  },
-  {
-    "BreweryName": "15-24 Brew House",
-    "Location": "Clay Center, KS United States"
   }
 ]

@@ -12,37 +12,7 @@
     "BAR": 7.79,
     "StylePlus": "115",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0809396213597853986143543625"
-  },
-  {
-    "BID": 5015229,
-    "BeerName": "Lit - Pineapple Coconut",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Barn Town Brewing",
-    "Origin": "West Des Moines, IA United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5015229_a88a0_sm.jpeg",
-    "HallRating": 16.37,
-    "BAR": 7.62,
-    "StylePlus": "128",
-    "RatingScore": 4.25,
-    "AdjustedRating": "2.0734825601547388781431334623"
-  },
-  {
-    "BID": 6506037,
-    "BeerName": "IN DA CLURB WITH ECLIPSE",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Deep Fried Beers",
-    "Origin": "Athens, NY United States",
-    "BeerAbv": 8.40,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6506037_8dd3a_sm.jpeg",
-    "HallRating": 16.37,
-    "BAR": 7.96,
-    "StylePlus": "116",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.0880400215463342375098593717"
+    "AdjustedRating": "2.0789183893316865121485226856"
   },
   {
     "BID": 6407735,
@@ -57,37 +27,37 @@
     "BAR": 7.65,
     "StylePlus": "120",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0755641819095866042770408755"
+    "AdjustedRating": "2.0735390807842530646970107119"
   },
   {
-    "BID": 2628697,
-    "BeerName": "Magic Lambic",
-    "BeerStyle": "Lambic - Framboise",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.50,
+    "BID": 5015229,
+    "BeerName": "Lit - Pineapple Coconut",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Barn Town Brewing",
+    "Origin": "West Des Moines, IA United States",
+    "BeerAbv": 5.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2628697_f2a1f_sm.jpeg",
-    "HallRating": 16.36,
-    "BAR": 9.25,
-    "StylePlus": "109",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.3694998541673699490260945887"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5015229_a88a0_sm.jpeg",
+    "HallRating": 16.37,
+    "BAR": 7.62,
+    "StylePlus": "128",
+    "RatingScore": 4.25,
+    "AdjustedRating": "2.071456753965183752417794971"
   },
   {
-    "BID": 5629244,
-    "BeerName": "Coquito Mead",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "Zymarium Meadery",
-    "Origin": "Orlando, FL United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5629244_ebe45_sm.jpeg",
-    "HallRating": 16.36,
-    "BAR": 6.24,
-    "StylePlus": "120",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0595868141196627791514962715"
+    "BID": 6506037,
+    "BeerName": "IN DA CLURB WITH ECLIPSE",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Deep Fried Beers",
+    "Origin": "Athens, NY United States",
+    "BeerAbv": 8.40,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6506037_8dd3a_sm.jpeg",
+    "HallRating": 16.37,
+    "BAR": 7.96,
+    "StylePlus": "115",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.0860251665031453800427079125"
   },
   {
     "BID": 5200515,
@@ -102,7 +72,7 @@
     "BAR": 9.27,
     "StylePlus": "114",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.3748081064860605857403899348"
+    "AdjustedRating": "2.3730523240180382558548892726"
   },
   {
     "BID": 6015572,
@@ -117,7 +87,37 @@
     "BAR": 7.57,
     "StylePlus": "118",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0736053327656609834923460995"
+    "AdjustedRating": "2.0715784680587540882085421787"
+  },
+  {
+    "BID": 5629244,
+    "BeerName": "Coquito Mead",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Zymarium Meadery",
+    "Origin": "Orlando, FL United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5629244_ebe45_sm.jpeg",
+    "HallRating": 16.36,
+    "BAR": 6.24,
+    "StylePlus": "120",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.0575476369229571075329530188"
+  },
+  {
+    "BID": 2628697,
+    "BeerName": "Magic Lambic",
+    "BeerStyle": "Lambic - Framboise",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2628697_f2a1f_sm.jpeg",
+    "HallRating": 16.36,
+    "BAR": 9.25,
+    "StylePlus": "109",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.3677320693380143807176855821"
   },
   {
     "BID": 3806198,
@@ -132,22 +132,7 @@
     "BAR": 8.58,
     "StylePlus": "113",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.1485632576708965155292309423"
-  },
-  {
-    "BID": 5505106,
-    "BeerName": "Cranberry Prestige",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5505106_d4b4c_sm.jpeg",
-    "HallRating": 16.34,
-    "BAR": 7.18,
-    "StylePlus": "114",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0669718593003843615327872035"
+    "AdjustedRating": "2.1466001420779366834735993702"
   },
   {
     "BID": 6406583,
@@ -162,7 +147,22 @@
     "BAR": 7.75,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0805928598181361854933683418"
+    "AdjustedRating": "2.0785708473463714114717068556"
+  },
+  {
+    "BID": 5505106,
+    "BeerName": "Cranberry Prestige",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5505106_d4b4c_sm.jpeg",
+    "HallRating": 16.34,
+    "BAR": 7.18,
+    "StylePlus": "114",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0649387385953333074504018325"
   },
   {
     "BID": 6213288,
@@ -177,7 +177,7 @@
     "BAR": 8.29,
     "StylePlus": "118",
     "RatingScore": 4.23,
-    "AdjustedRating": "2.1072388599931462513802688193"
+    "AdjustedRating": "2.1052449107108860373910063588"
   },
   {
     "BID": 2418008,
@@ -192,22 +192,7 @@
     "BAR": 10.07,
     "StylePlus": "109",
     "RatingScore": 4.40,
-    "AdjustedRating": "3.3837059848510465627430426402"
-  },
-  {
-    "BID": 4017124,
-    "BeerName": "I Remember My First Check-In",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Dewey Beer Company",
-    "Origin": "Dewey Beach, DE United States",
-    "BeerAbv": 5.25,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4016712_fb415_sm.jpeg",
-    "HallRating": 16.32,
-    "BAR": 7.88,
-    "StylePlus": "115",
-    "RatingScore": 4.44,
-    "AdjustedRating": "2.085055918799714951561025404"
+    "AdjustedRating": "3.3828205980116998613600243465"
   },
   {
     "BID": 5705316,
@@ -222,7 +207,22 @@
     "BAR": 8.23,
     "StylePlus": "114",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.106958364839860366632966446"
+    "AdjustedRating": "2.1049604978730709802949087233"
+  },
+  {
+    "BID": 4017124,
+    "BeerName": "I Remember My First Check-In",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Dewey Beer Company",
+    "Origin": "Dewey Beach, DE United States",
+    "BeerAbv": 5.25,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4016712_fb415_sm.jpeg",
+    "HallRating": 16.32,
+    "BAR": 7.88,
+    "StylePlus": "115",
+    "RatingScore": 4.44,
+    "AdjustedRating": "2.0830387353864524951368425107"
   },
   {
     "BID": 5705352,
@@ -237,7 +237,7 @@
     "BAR": 7.87,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0859656410849129295731237479"
+    "AdjustedRating": "2.0839481079519186315302820157"
   },
   {
     "BID": 3205627,
@@ -252,7 +252,7 @@
     "BAR": 8.12,
     "StylePlus": "118",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.097591628726235377457831556"
+    "AdjustedRating": "2.0955864176446937642396278072"
   },
   {
     "BID": 2028895,
@@ -267,7 +267,7 @@
     "BAR": 8.65,
     "StylePlus": "117",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.1588397536285820617789356159"
+    "AdjustedRating": "2.1568908481577967994045403796"
   },
   {
     "BID": 6028415,
@@ -282,7 +282,7 @@
     "BAR": 6.50,
     "StylePlus": "122",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0607637650813419475363898186"
+    "AdjustedRating": "2.0587256592978905581069510392"
   },
   {
     "BID": 3339841,
@@ -297,7 +297,7 @@
     "BAR": 9.25,
     "StylePlus": "112",
     "RatingScore": 4.32,
-    "AdjustedRating": "2.3893305681459188933042914387"
+    "AdjustedRating": "2.3875891488618791879354205809"
   },
   {
     "BID": 6407542,
@@ -312,22 +312,7 @@
     "BAR": 6.09,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0592399197694344913537934258"
-  },
-  {
-    "BID": 6015912,
-    "BeerName": "Maple Bourbon Descendent",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 16.66,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015912_74a33_sm.jpeg",
-    "HallRating": 16.27,
-    "BAR": 6.99,
-    "StylePlus": "116",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0649022451041342866024246192"
+    "AdjustedRating": "2.0572003851846081944228072909"
   },
   {
     "BID": 6224244,
@@ -342,7 +327,22 @@
     "BAR": 7.95,
     "StylePlus": "111",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0921707897215121754338759586"
+    "AdjustedRating": "2.0901578708846649113028771309"
+  },
+  {
+    "BID": 6015912,
+    "BeerName": "Maple Bourbon Descendent",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 16.66,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015912_74a33_sm.jpeg",
+    "HallRating": 16.27,
+    "BAR": 6.99,
+    "StylePlus": "116",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.0628674654180913894933167547"
   },
   {
     "BID": 6207731,
@@ -357,7 +357,7 @@
     "BAR": 6.58,
     "StylePlus": "115",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0614787906379501546722698885"
+    "AdjustedRating": "2.059441121033483141695363723"
   },
   {
     "BID": 6430028,
@@ -372,6 +372,6 @@
     "BAR": 10.47,
     "StylePlus": "112",
     "RatingScore": 4.16,
-    "AdjustedRating": "3.8115473834856934348995585809"
+    "AdjustedRating": "3.8112091854573870700038426391"
   }
 ]

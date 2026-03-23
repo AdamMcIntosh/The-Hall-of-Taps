@@ -1,48 +1,18 @@
 [
   {
-    "BID": 5213648,
-    "BeerName": "Prof.Skruchebluck",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Mad Frog Brewery",
-    "Origin": "Minsk, Minskaja voblasć Belarus",
-    "BeerAbv": 11.00,
+    "BID": 3903459,
+    "BeerName": "Settle Down",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Suarez Family Brewery",
+    "Origin": "Livingston, NY United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5213648_2bd86_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2274056_60ac9_sm.jpeg",
     "HallRating": 16.17,
-    "BAR": 7.33,
-    "StylePlus": "121",
-    "RatingScore": 4.40,
-    "AdjustedRating": "2.0700753587348346835148649172"
-  },
-  {
-    "BID": 2230233,
-    "BeerName": "Stronger Than Fiction",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Bottle Logic Brewing",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1685812_baf3c_sm.jpeg",
-    "HallRating": 16.16,
-    "BAR": 9.06,
-    "StylePlus": "113",
-    "RatingScore": 4.31,
-    "AdjustedRating": "2.317869177322074788902291918"
-  },
-  {
-    "BID": 4940902,
-    "BeerName": "25 Jahre Red Kaos",
-    "BeerStyle": "Pale Ale - English",
-    "BreweryName": "Kevin Brewery",
-    "Origin": "Zwickau, Sachsen Germany",
-    "BeerAbv": 4.80,
-    "BeerIbu": 18.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940902_954f6_sm.jpeg",
-    "HallRating": 16.16,
-    "BAR": 5.26,
-    "StylePlus": "133",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0574501804435091001208153085"
+    "BAR": 7.90,
+    "StylePlus": "123",
+    "RatingScore": 4.26,
+    "AdjustedRating": "2.0849983502499038831218762015"
   },
   {
     "BID": 3401449,
@@ -57,22 +27,37 @@
     "BAR": 8.66,
     "StylePlus": "109",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1885868159763859422562494235"
+    "AdjustedRating": "2.1866546292777419057282538511"
   },
   {
-    "BID": 3207428,
-    "BeerName": "Seasoned Skillet (2019)",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "Burial Beer Co.",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3254793_1d9e8_sm.jpeg",
-    "HallRating": 16.15,
-    "BAR": 7.94,
-    "StylePlus": "116",
-    "RatingScore": 4.43,
-    "AdjustedRating": "2.0922734114123339221257967898"
+    "BID": 4940902,
+    "BeerName": "25 Jahre Red Kaos",
+    "BeerStyle": "Pale Ale - English",
+    "BreweryName": "Kevin Brewery",
+    "Origin": "Zwickau, Sachsen Germany",
+    "BeerAbv": 4.80,
+    "BeerIbu": 18.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4940902_954f6_sm.jpeg",
+    "HallRating": 16.16,
+    "BAR": 5.26,
+    "StylePlus": "133",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.0554092945944892630266183405"
+  },
+  {
+    "BID": 2230233,
+    "BeerName": "Stronger Than Fiction",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Bottle Logic Brewing",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1685812_baf3c_sm.jpeg",
+    "HallRating": 16.16,
+    "BAR": 9.06,
+    "StylePlus": "113",
+    "RatingScore": 4.31,
+    "AdjustedRating": "2.3160643491297604687230742719"
   },
   {
     "BID": 5010443,
@@ -87,7 +72,22 @@
     "BAR": 8.14,
     "StylePlus": "115",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.1058327932534534076165763566"
+    "AdjustedRating": "2.1038345069831336335190414409"
+  },
+  {
+    "BID": 3207428,
+    "BeerName": "Seasoned Skillet (2019)",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Burial Beer Co.",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3254793_1d9e8_sm.jpeg",
+    "HallRating": 16.15,
+    "BAR": 7.94,
+    "StylePlus": "116",
+    "RatingScore": 4.43,
+    "AdjustedRating": "2.090262540895476537900314876"
   },
   {
     "BID": 5704355,
@@ -102,22 +102,7 @@
     "BAR": 7.69,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0820673038780628979355585568"
-  },
-  {
-    "BID": 5000999,
-    "BeerName": "Double Barrel Aged Father Time",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "River North Brewery",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 19.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-RiverNorthBrewery_23833.jpeg",
-    "HallRating": 16.14,
-    "BAR": 7.24,
-    "StylePlus": "115",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0692717752007136485280999108"
+    "AdjustedRating": "2.0800465788153579008296353463"
   },
   {
     "BID": 3832016,
@@ -132,7 +117,22 @@
     "BAR": 6.67,
     "StylePlus": "114",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0625660902372617658498638662"
+    "AdjustedRating": "2.0605292528199144301828082458"
+  },
+  {
+    "BID": 5000999,
+    "BeerName": "Double Barrel Aged Father Time",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "River North Brewery",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 19.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-RiverNorthBrewery_23833.jpeg",
+    "HallRating": 16.14,
+    "BAR": 7.24,
+    "StylePlus": "115",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0672407047279214986619090098"
   },
   {
     "BID": 4206566,
@@ -147,7 +147,7 @@
     "BAR": 7.59,
     "StylePlus": "115",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0773632533333333333333333333"
+    "AdjustedRating": "2.0753394044444444444444444444"
   },
   {
     "BID": 5004402,
@@ -162,7 +162,7 @@
     "BAR": 9.44,
     "StylePlus": "114",
     "RatingScore": 4.24,
-    "AdjustedRating": "2.6100079796274738067520372526"
+    "AdjustedRating": "2.6084839083236321303841676368"
   },
   {
     "BID": 5029731,
@@ -177,7 +177,7 @@
     "BAR": 6.55,
     "StylePlus": "122",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0614345147170398614866836566"
+    "AdjustedRating": "2.0593970036768282006886757582"
   },
   {
     "BID": 5205724,
@@ -192,22 +192,7 @@
     "BAR": 7.71,
     "StylePlus": "119",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.0814048473628386847941374988"
-  },
-  {
-    "BID": 2426886,
-    "BeerName": "Peach Turnover",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2426886_879b9_sm.jpeg",
-    "HallRating": 16.10,
-    "BAR": 7.21,
-    "StylePlus": "114",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.0690913180760279286268425136"
+    "AdjustedRating": "2.0793850965191399093626458394"
   },
   {
     "BID": 6405767,
@@ -222,7 +207,22 @@
     "BAR": 6.26,
     "StylePlus": "113",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0602055315255689007416635845"
+    "AdjustedRating": "2.0581667512799050047692277744"
+  },
+  {
+    "BID": 2426886,
+    "BeerName": "Peach Turnover",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2426886_879b9_sm.jpeg",
+    "HallRating": 16.10,
+    "BAR": 7.21,
+    "StylePlus": "114",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.067060011249030256012412723"
   },
   {
     "BID": 3904430,
@@ -237,7 +237,7 @@
     "BAR": 8.67,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.1974264377776961774317923108"
+    "AdjustedRating": "2.1955035100796827378548085044"
   },
   {
     "BID": 4027915,
@@ -252,37 +252,7 @@
     "BAR": 6.53,
     "StylePlus": "115",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0616051585541418621843508035"
-  },
-  {
-    "BID": 5408759,
-    "BeerName": "Jjjuiceee Project Citra + Citra + Citra",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5314143_fcc2b_sm.jpeg",
-    "HallRating": 16.08,
-    "BAR": 9.09,
-    "StylePlus": "110",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.378011751126411178048903964"
-  },
-  {
-    "BID": 27293,
-    "BeerName": "Special Herbs",
-    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
-    "BreweryName": "Upright Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_27293_sm_315dcb4e0b3fb63a829d711ebb9981.jpeg",
-    "HallRating": 16.08,
-    "BAR": 8.49,
-    "StylePlus": "118",
-    "RatingScore": 4.22,
-    "AdjustedRating": "2.1469443826814598976427957712"
+    "AdjustedRating": "2.0595676078751799540873895957"
   },
   {
     "BID": 2013305,
@@ -297,7 +267,22 @@
     "BAR": 8.94,
     "StylePlus": "110",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.2986037051450609168200543431"
+    "AdjustedRating": "2.2967677128582697870102550618"
+  },
+  {
+    "BID": 27293,
+    "BeerName": "Special Herbs",
+    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
+    "BreweryName": "Upright Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_27293_sm_315dcb4e0b3fb63a829d711ebb9981.jpeg",
+    "HallRating": 16.08,
+    "BAR": 8.49,
+    "StylePlus": "119",
+    "RatingScore": 4.22,
+    "AdjustedRating": "2.144988123949344390899921551"
   },
   {
     "BID": 3900039,
@@ -312,22 +297,22 @@
     "BAR": 9.25,
     "StylePlus": "112",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.4736460177948970983812691995"
+    "AdjustedRating": "2.4719789927897241631782513887"
   },
   {
-    "BID": 6031526,
-    "BeerName": "Белоглазка",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Sergacore Brewery",
-    "Origin": "Moscow, Москва Russia",
-    "BeerAbv": 5.00,
-    "BeerIbu": 10.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6031526_5cebb_sm.jpeg",
-    "HallRating": 16.07,
-    "BAR": 8.09,
-    "StylePlus": "111",
-    "RatingScore": 4.49,
-    "AdjustedRating": "2.1071874090475281542279060889"
+    "BID": 5408759,
+    "BeerName": "Jjjuiceee Project Citra + Citra + Citra",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5314143_fcc2b_sm.jpeg",
+    "HallRating": 16.08,
+    "BAR": 9.09,
+    "StylePlus": "110",
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.3762443541065492161528206686"
   },
   {
     "BID": 1672504,
@@ -342,7 +327,22 @@
     "BAR": 6.25,
     "StylePlus": "116",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0601266932705222791068891009"
+    "AdjustedRating": "2.0580879130248583831344532908"
+  },
+  {
+    "BID": 6031526,
+    "BeerName": "Белоглазка",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Sergacore Brewery",
+    "Origin": "Moscow, Москва Russia",
+    "BeerAbv": 5.00,
+    "BeerIbu": 10.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6031526_5cebb_sm.jpeg",
+    "HallRating": 16.07,
+    "BAR": 8.09,
+    "StylePlus": "111",
+    "RatingScore": 4.49,
+    "AdjustedRating": "2.1051882836419163962588280206"
   },
   {
     "BID": 1668078,
@@ -357,21 +357,21 @@
     "BAR": 5.91,
     "StylePlus": "114",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0589348412729326529817317805"
+    "AdjustedRating": "2.0568950683597553850348615277"
   },
   {
-    "BID": 6212090,
-    "BeerName": "15th Anniversary Blonde Ale: Shaun Hill & Dan Suarez",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 4.40,
+    "BID": 2011947,
+    "BeerName": "Deliverance",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "The Lost Abbey",
+    "Origin": "San Marcos, CA United States",
+    "BeerAbv": 13.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6205411_bddc9_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Deliverance_8413.jpeg",
     "HallRating": 16.05,
-    "BAR": 8.18,
-    "StylePlus": "122",
-    "RatingScore": 4.23,
-    "AdjustedRating": "2.1105476041666666666666666667"
+    "BAR": 9.41,
+    "StylePlus": "112",
+    "RatingScore": 4.27,
+    "AdjustedRating": "2.6245692182297246431363465269"
   }
 ]

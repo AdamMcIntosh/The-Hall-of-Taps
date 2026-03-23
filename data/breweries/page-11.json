@@ -1,5 +1,13 @@
 [
   {
+    "BreweryName": "1 Домашняя Пивоварня",
+    "Location": "Omsk, Омская область Russia"
+  },
+  {
+    "BreweryName": "1. Dampfbierbrauerei Zwiesel",
+    "Location": "Zwiesel, Bayern Germany"
+  },
+  {
     "BreweryName": "1. Karlštejnský mikropivovar",
     "Location": "Karlštejn, Středočeský kraj Czech Republic"
   },
@@ -90,13 +98,5 @@
   {
     "BreweryName": "10 Eight Brewing",
     "Location": "United States"
-  },
-  {
-    "BreweryName": "10 Factory",
-    "Location": null
-  },
-  {
-    "BreweryName": "10 Forward",
-    "Location": null
   }
 ]

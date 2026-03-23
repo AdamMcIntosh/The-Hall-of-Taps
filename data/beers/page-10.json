@@ -12,7 +12,7 @@
     "BAR": 7.47,
     "StylePlus": "117",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0626417931114957505980279663"
+    "AdjustedRating": "2.0606049160816040763142029211"
   },
   {
     "BID": 2427593,
@@ -27,7 +27,7 @@
     "BAR": 8.94,
     "StylePlus": "121",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0951554124393471548301720335"
+    "AdjustedRating": "2.0931467401852668725187472431"
   },
   {
     "BID": 1800104,
@@ -42,22 +42,7 @@
     "BAR": 10.51,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.5949631629601518026565464896"
-  },
-  {
-    "BID": 6213003,
-    "BeerName": "Double Barrel 2x4 Benthic (2025)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Half Acre Beer Company",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 16.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6213003_bd8e9_sm.jpeg",
-    "HallRating": 18.05,
-    "BAR": 8.73,
-    "StylePlus": "114",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.0877534632418069087688219663"
+    "AdjustedRating": "2.5933732702846299810246679317"
   },
   {
     "BID": 5421120,
@@ -72,37 +57,22 @@
     "BAR": 8.80,
     "StylePlus": "130",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.0871578510585113542407752803"
+    "AdjustedRating": "2.0851440033072471013517411118"
   },
   {
-    "BID": 6504806,
-    "BeerName": "Bourbon County Brand Double Barrel Stout (2025)",
+    "BID": 6213003,
+    "BeerName": "Double Barrel 2x4 Benthic (2025)",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
+    "BreweryName": "Half Acre Beer Company",
     "Origin": "Chicago, IL United States",
-    "BeerAbv": 17.40,
+    "BeerAbv": 16.10,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6455423_920d3_sm.jpeg",
-    "HallRating": 18.04,
-    "BAR": 9.88,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.2477338410345881972048851557"
-  },
-  {
-    "BID": 6201034,
-    "BeerName": "Very Hazy Peach",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 18.04,
-    "BAR": 9.19,
-    "StylePlus": "117",
-    "RatingScore": 4.50,
-    "AdjustedRating": "2.1163604761633103238442961188"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6213003_bd8e9_sm.jpeg",
+    "HallRating": 18.05,
+    "BAR": 8.73,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.085736784765279007971656333"
   },
   {
     "BID": 1901503,
@@ -117,22 +87,7 @@
     "BAR": 11.15,
     "StylePlus": "113",
     "RatingScore": 4.34,
-    "AdjustedRating": "3.3907973224428940694103442967"
-  },
-  {
-    "BID": 6215870,
-    "BeerName": "Very Hazy Guava",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 18.04,
-    "BAR": 8.94,
-    "StylePlus": "117",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.098016565602361148376710491"
+    "AdjustedRating": "3.3899486608162967644699419015"
   },
   {
     "BID": 5011817,
@@ -147,7 +102,52 @@
     "BAR": 9.18,
     "StylePlus": "114",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1165756370208313516598497099"
+    "AdjustedRating": "2.1145831671264149148673071435"
+  },
+  {
+    "BID": 6215870,
+    "BeerName": "Very Hazy Guava",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 18.04,
+    "BAR": 8.94,
+    "StylePlus": "117",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.0960093177201119245659090038"
+  },
+  {
+    "BID": 6201034,
+    "BeerName": "Very Hazy Peach",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 18.04,
+    "BAR": 9.19,
+    "StylePlus": "117",
+    "RatingScore": 4.50,
+    "AdjustedRating": "2.1143688398273337516876794645"
+  },
+  {
+    "BID": 6504806,
+    "BeerName": "Bourbon County Brand Double Barrel Stout (2025)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 17.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6455423_920d3_sm.jpeg",
+    "HallRating": 18.04,
+    "BAR": 9.88,
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.2458500311167868769897656348"
   },
   {
     "BID": 2012278,
@@ -162,7 +162,7 @@
     "BAR": 8.56,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0804786866132612682173535373"
+    "AdjustedRating": "2.0784569863912749734581604092"
   },
   {
     "BID": 2008232,
@@ -177,7 +177,7 @@
     "BAR": 11.04,
     "StylePlus": "114",
     "RatingScore": 4.30,
-    "AdjustedRating": "3.21652041798857121339069693"
+    "AdjustedRating": "3.2155344339738098152000979072"
   },
   {
     "BID": 4202521,
@@ -192,7 +192,7 @@
     "BAR": 8.96,
     "StylePlus": "116",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0999300813755337277653321079"
+    "AdjustedRating": "2.0979247167174067053439791679"
   },
   {
     "BID": 1101178,
@@ -207,7 +207,7 @@
     "BAR": 10.97,
     "StylePlus": "115",
     "RatingScore": 4.25,
-    "AdjustedRating": "3.1246842178108905445272263613"
+    "AdjustedRating": "3.1236368236411820591029551478"
   },
   {
     "BID": 1044367,
@@ -222,7 +222,7 @@
     "BAR": 9.97,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.2916095353635097247447585125"
+    "AdjustedRating": "2.2897627299818377387103031158"
   },
   {
     "BID": 6305334,
@@ -237,7 +237,7 @@
     "BAR": 7.61,
     "StylePlus": "116",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0641505998056365403304178814"
+    "AdjustedRating": "2.0621149500485908649173955296"
   },
   {
     "BID": 4016447,
@@ -252,7 +252,7 @@
     "BAR": 9.14,
     "StylePlus": "116",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.1158222409006199368653253718"
+    "AdjustedRating": "2.1138305666907541931312516639"
   },
   {
     "BID": 3347932,
@@ -267,7 +267,7 @@
     "BAR": 6.27,
     "StylePlus": "128",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.058179820381445909879020475"
+    "AdjustedRating": "2.0561394514036352301728000623"
   },
   {
     "BID": 3904835,
@@ -282,7 +282,7 @@
     "BAR": 9.50,
     "StylePlus": "115",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.1623506204943836968872827525"
+    "AdjustedRating": "2.1603996456978931877875677589"
   },
   {
     "BID": 6304961,
@@ -297,7 +297,7 @@
     "BAR": 9.10,
     "StylePlus": "120",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.1116218939913182545122229838"
+    "AdjustedRating": "2.1096278687837940750894829031"
   },
   {
     "BID": 5010052,
@@ -312,7 +312,22 @@
     "BAR": 8.89,
     "StylePlus": "113",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0995897052849423216954738819"
+    "AdjustedRating": "2.0975827651094163185528685854"
+  },
+  {
+    "BID": 2214722,
+    "BeerName": "Anna",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21548_d92a9_sm.jpeg",
+    "HallRating": 17.91,
+    "BAR": 10.89,
+    "StylePlus": "115",
+    "RatingScore": 4.25,
+    "AdjustedRating": "3.0811590184825811272195182698"
   },
   {
     "BID": 6417143,
@@ -327,37 +342,7 @@
     "BAR": 7.91,
     "StylePlus": "123",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0674150595815704692776462369"
-  },
-  {
-    "BID": 4617857,
-    "BeerName": "Beanie In A Bottle",
-    "BeerStyle": "Mead - Traditional",
-    "BreweryName": "Manic Meadery",
-    "Origin": "Crown Point, IN United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4617857_aa052_sm.jpeg",
-    "HallRating": 17.91,
-    "BAR": 7.68,
-    "StylePlus": "121",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.064861729584798616643027842"
-  },
-  {
-    "BID": 5811233,
-    "BeerName": "XV Barrel-Aged Stout (15th Anniversary)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 11.69,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5811233_c1931_sm.jpeg",
-    "HallRating": 17.91,
-    "BAR": 9.03,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1099257433979545107617157686"
+    "AdjustedRating": "2.0653824123743352870395528471"
   },
   {
     "BID": 4303684,
@@ -372,6 +357,21 @@
     "BAR": 8.20,
     "StylePlus": "119",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0726389378268448576409064497"
+    "AdjustedRating": "2.070610385047453031183420492"
+  },
+  {
+    "BID": 5811233,
+    "BeerName": "XV Barrel-Aged Stout (15th Anniversary)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 11.69,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5811233_c1931_sm.jpeg",
+    "HallRating": 17.91,
+    "BAR": 9.03,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.1079273046099832086704319951"
   }
 ]
