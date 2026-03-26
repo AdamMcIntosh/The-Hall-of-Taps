@@ -1,50 +1,5 @@
 [
   {
-    "BID": 1004753,
-    "BeerName": "Brew 1000 (2014)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Fremont Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 55.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-684620_f55a3_sm.jpeg",
-    "HallRating": 18.78,
-    "BAR": 9.88,
-    "StylePlus": "115",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1529867533779990268368454542"
-  },
-  {
-    "BID": 4420173,
-    "BeerName": "Piña Colada Smoothie Seltzer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Untitled Art",
-    "Origin": "Waunakee, WI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4420173_b4ef5_sm.jpeg",
-    "HallRating": 18.78,
-    "BAR": 10.29,
-    "StylePlus": "120",
-    "RatingScore": 4.28,
-    "AdjustedRating": "2.2270737809504971859097692985"
-  },
-  {
-    "BID": 1012039,
-    "BeerName": "Maman",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Perennial Artisan Ales",
-    "Origin": "St Louis, MO United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-837791_8e912_sm.jpeg",
-    "HallRating": 18.77,
-    "BAR": 10.32,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.2602490507789443560070829383"
-  },
-  {
     "BID": 6501637,
     "BeerName": "Double Pear Vanilla - Vanilla Barrel Aged",
     "BeerStyle": "Mead - Melomel",
@@ -57,37 +12,7 @@
     "BAR": 8.02,
     "StylePlus": "117",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.0628695214037269494588345025"
-  },
-  {
-    "BID": 5706347,
-    "BeerName": "absolutely.",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 13.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
-    "HallRating": 18.77,
-    "BAR": 9.29,
-    "StylePlus": "122",
-    "RatingScore": 4.47,
-    "AdjustedRating": "2.09447547457009757874355386"
-  },
-  {
-    "BID": 5618302,
-    "BeerName": "Vera Grace",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Bearded Brewer Artisan Ales",
-    "Origin": "Omaha, NE United States",
-    "BeerAbv": 13.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-473491_6df35.jpeg",
-    "HallRating": 18.77,
-    "BAR": 8.15,
-    "StylePlus": "114",
-    "RatingScore": 4.72,
-    "AdjustedRating": "2.0643972456787725771994562051"
+    "AdjustedRating": "2.4187950969305331179321486268"
   },
   {
     "BID": 6603847,
@@ -102,7 +27,7 @@
     "BAR": 7.26,
     "StylePlus": "118",
     "RatingScore": 4.76,
-    "AdjustedRating": "2.0581508756424232985516274724"
+    "AdjustedRating": "2.2363152493438320209973753281"
   },
   {
     "BID": 4941629,
@@ -117,7 +42,7 @@
     "BAR": 8.57,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0709165329407434670592565329"
+    "AdjustedRating": "2.6752062446351931330472103004"
   },
   {
     "BID": 2402885,
@@ -132,7 +57,22 @@
     "BAR": 11.02,
     "StylePlus": "111",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.7186524036577400391900718485"
+    "AdjustedRating": "4.3709137334785406663036483342"
+  },
+  {
+    "BID": 5550435,
+    "BeerName": "Bourbon BA Full of Care (2021)",
+    "BeerStyle": "Mead - Cyser",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5550435_3e947_sm.jpeg",
+    "HallRating": 18.74,
+    "BAR": 8.82,
+    "StylePlus": "120",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.8260315882352941176470588235"
   },
   {
     "BID": 5021590,
@@ -147,37 +87,7 @@
     "BAR": 4.68,
     "StylePlus": "147",
     "RatingScore": 4.88,
-    "AdjustedRating": "2.054592869005847953216374269"
-  },
-  {
-    "BID": 4016530,
-    "BeerName": "Xenomorph Blood",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3495206_bffb1_sm.jpeg",
-    "HallRating": 18.72,
-    "BAR": 9.80,
-    "StylePlus": "129",
-    "RatingScore": 4.27,
-    "AdjustedRating": "2.1362470277475312582134945369"
-  },
-  {
-    "BID": 4008026,
-    "BeerName": "DFPF",
-    "BeerStyle": "Sour - Fruited Berliner Weisse",
-    "BreweryName": "J. Wakefield Brewing",
-    "Origin": "Miami, FL United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 4.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-175397_352a7_sm.jpeg",
-    "HallRating": 18.72,
-    "BAR": 10.64,
-    "StylePlus": "115",
-    "RatingScore": 4.40,
-    "AdjustedRating": "2.4037463986727498963085856491"
+    "AdjustedRating": "2.0777937953488372093023255814"
   },
   {
     "BID": 4007402,
@@ -192,7 +102,7 @@
     "BAR": 8.83,
     "StylePlus": "118",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0774175538428850128450290703"
+    "AdjustedRating": "2.8350571345407503234152652005"
   },
   {
     "BID": 6608556,
@@ -207,7 +117,7 @@
     "BAR": 6.13,
     "StylePlus": "123",
     "RatingScore": 4.81,
-    "AdjustedRating": "2.0555993721623570217658177283"
+    "AdjustedRating": "2.124605420475319926873857404"
   },
   {
     "BID": 2813298,
@@ -222,37 +132,22 @@
     "BAR": 9.60,
     "StylePlus": "117",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1224759104522879781627933427"
+    "AdjustedRating": "3.4804698813760379596678529063"
   },
   {
-    "BID": 4028671,
-    "BeerName": "Schmoojee Hydra",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Imprint Beer Co.",
-    "Origin": "Hatfield, PA United States",
-    "BeerAbv": 6.00,
+    "BID": 4420173,
+    "BeerName": "Piña Colada Smoothie Seltzer",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Untitled Art",
+    "Origin": "Waunakee, WI United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4028671_e539e_sm.jpeg",
-    "HallRating": 18.68,
-    "BAR": 9.46,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1115540474421263218062303515"
-  },
-  {
-    "BID": 2283322,
-    "BeerName": "In Perpetuity",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 6.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1230747_b445b_sm.jpeg",
-    "HallRating": 18.68,
-    "BAR": 11.24,
-    "StylePlus": "113",
-    "RatingScore": 4.38,
-    "AdjustedRating": "2.9827852638112973308504034761"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4420173_b4ef5_sm.jpeg",
+    "HallRating": 18.70,
+    "BAR": 10.25,
+    "StylePlus": "120",
+    "RatingScore": 4.28,
+    "AdjustedRating": "3.8395078563474387527839643653"
   },
   {
     "BID": 1412114,
@@ -267,7 +162,37 @@
     "BAR": 11.12,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.8369338800959232613908872902"
+    "AdjustedRating": "4.2974843361812778603268945022"
+  },
+  {
+    "BID": 4028671,
+    "BeerName": "Schmoojee Hydra",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Imprint Beer Co.",
+    "Origin": "Hatfield, PA United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4028671_e539e_sm.jpeg",
+    "HallRating": 18.68,
+    "BAR": 9.46,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "3.3884638628318584070796460177"
+  },
+  {
+    "BID": 2283322,
+    "BeerName": "In Perpetuity",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1230747_b445b_sm.jpeg",
+    "HallRating": 18.68,
+    "BAR": 11.24,
+    "StylePlus": "113",
+    "RatingScore": 4.38,
+    "AdjustedRating": "4.3094649391319187667102793105"
   },
   {
     "BID": 1669667,
@@ -282,7 +207,7 @@
     "BAR": 9.10,
     "StylePlus": "122",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0872559891536375699532683321"
+    "AdjustedRating": "3.0260644475760992108229988726"
   },
   {
     "BID": 6428583,
@@ -297,7 +222,7 @@
     "BAR": 6.98,
     "StylePlus": "119",
     "RatingScore": 4.75,
-    "AdjustedRating": "2.0572969734382302539336345225"
+    "AdjustedRating": "2.199936406388642413487133984"
   },
   {
     "BID": 3810967,
@@ -312,7 +237,7 @@
     "BAR": 9.69,
     "StylePlus": "117",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.1340818806898501554990104608"
+    "AdjustedRating": "3.553614250883392226148409894"
   },
   {
     "BID": 3704188,
@@ -327,7 +252,22 @@
     "BAR": 9.27,
     "StylePlus": "125",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.0949825556853657135196215502"
+    "AdjustedRating": "3.1279367857142857142857142857"
+  },
+  {
+    "BID": 4016530,
+    "BeerName": "Xenomorph Blood",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3495206_bffb1_sm.jpeg",
+    "HallRating": 18.64,
+    "BAR": 9.76,
+    "StylePlus": "129",
+    "RatingScore": 4.27,
+    "AdjustedRating": "3.4930445018086155869779677738"
   },
   {
     "BID": 4817038,
@@ -342,7 +282,7 @@
     "BAR": 8.81,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0783271055579158781043605886"
+    "AdjustedRating": "2.8599539691714836223506743738"
   },
   {
     "BID": 5419008,
@@ -357,7 +297,22 @@
     "BAR": 8.78,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0776913631710096776062894783"
+    "AdjustedRating": "2.8452191256476683937823834197"
+  },
+  {
+    "BID": 4008026,
+    "BeerName": "DFPF",
+    "BeerStyle": "Sour - Fruited Berliner Weisse",
+    "BreweryName": "J. Wakefield Brewing",
+    "Origin": "Miami, FL United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 4.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-175397_352a7_sm.jpeg",
+    "HallRating": 18.59,
+    "BAR": 10.57,
+    "StylePlus": "115",
+    "RatingScore": 4.40,
+    "AdjustedRating": "4.1511271970149253731343283582"
   },
   {
     "BID": 1024586,
@@ -372,6 +327,51 @@
     "BAR": 11.31,
     "StylePlus": "118",
     "RatingScore": 4.23,
-    "AdjustedRating": "3.1050187910005443219160131444"
+    "AdjustedRating": "4.1826322110614319838304648741"
+  },
+  {
+    "BID": 6274453,
+    "BeerName": "Minutiae Reserve (2025)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Phase Three Brewing",
+    "Origin": "Lake Zurich, IL United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6274453_05b9e_sm.jpeg",
+    "HallRating": 18.55,
+    "BAR": 8.79,
+    "StylePlus": "115",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.8840944777070063694267515924"
+  },
+  {
+    "BID": 2411728,
+    "BeerName": "Double DBA (2012)",
+    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
+    "BreweryName": "Firestone Walker Brewing Company",
+    "Origin": "Paso Robles, CA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 29.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-293542_637ed_sm.jpeg",
+    "HallRating": 18.55,
+    "BAR": 10.13,
+    "StylePlus": "122",
+    "RatingScore": 4.36,
+    "AdjustedRating": "3.8794347791243158717748240813"
+  },
+  {
+    "BID": 6417142,
+    "BeerName": "The External Soul (2024 Harvest Blend)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Floodland Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 7.19,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6417142_1c79b_sm.jpeg",
+    "HallRating": 18.54,
+    "BAR": 7.80,
+    "StylePlus": "125",
+    "RatingScore": 4.60,
+    "AdjustedRating": "2.3679509292763157894736842105"
   }
 ]

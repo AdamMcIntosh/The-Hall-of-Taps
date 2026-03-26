@@ -1,65 +1,5 @@
 [
   {
-    "BID": 3345925,
-    "BeerName": "Tête De Pioche 176",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Le Prospecteur",
-    "Origin": "Val-d'Or, QC Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 57.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
-    "HallRating": 16.58,
-    "BAR": 6.07,
-    "StylePlus": "124",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0567091418666251168588345279"
-  },
-  {
-    "BID": 5218773,
-    "BeerName": "Dessert Station: Cherry Pie",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5218773_7cb47_sm.jpeg",
-    "HallRating": 16.58,
-    "BAR": 7.50,
-    "StylePlus": "130",
-    "RatingScore": 4.29,
-    "AdjustedRating": "2.0670442756348129482457840667"
-  },
-  {
-    "BID": 5301363,
-    "BeerName": "Birthday Killa AF",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 14.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5301363_02ce9_sm.jpeg",
-    "HallRating": 16.58,
-    "BAR": 7.36,
-    "StylePlus": "112",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.066437467111645775932321782"
-  },
-  {
-    "BID": 6026347,
-    "BeerName": "VSOR Select 2024",
-    "BeerStyle": "Rye Wine",
-    "BreweryName": "Revolution Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 15.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2605_1fa9b.jpeg",
-    "HallRating": 16.57,
-    "BAR": 6.83,
-    "StylePlus": "115",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.0603305167551587996188031196"
-  },
-  {
     "BID": 4301015,
     "BeerName": "Gutted",
     "BeerStyle": "Belgian Strong Dark Ale",
@@ -72,7 +12,7 @@
     "BAR": 8.64,
     "StylePlus": "116",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.1340397776105362182502351834"
+    "AdjustedRating": "3.5067447282051282051282051282"
   },
   {
     "BID": 4817137,
@@ -87,7 +27,22 @@
     "BAR": 7.80,
     "StylePlus": "113",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0763824058581447920088104025"
+    "AdjustedRating": "2.8070093537859007832898172324"
+  },
+  {
+    "BID": 4414064,
+    "BeerName": "Nonconformist 01",
+    "BeerStyle": "IPA - Farmhouse",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4414064_a5191_sm.jpeg",
+    "HallRating": 16.56,
+    "BAR": 8.02,
+    "StylePlus": "118",
+    "RatingScore": 4.38,
+    "AdjustedRating": "2.9382141453488372093023255814"
   },
   {
     "BID": 4980616,
@@ -102,7 +57,7 @@
     "BAR": 7.60,
     "StylePlus": "120",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0704196681253146419858265887"
+    "AdjustedRating": "2.6473668754398311048557353976"
   },
   {
     "BID": 6419240,
@@ -117,7 +72,7 @@
     "BAR": 6.10,
     "StylePlus": "122",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0568793538084016592984984517"
+    "AdjustedRating": "2.1814601871657754010695187166"
   },
   {
     "BID": 6202965,
@@ -132,7 +87,22 @@
     "BAR": 8.74,
     "StylePlus": "114",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.154944053172250498722896508"
+    "AdjustedRating": "3.6394338599062133645955451348"
+  },
+  {
+    "BID": 5218773,
+    "BeerName": "Dessert Station: Cherry Pie",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5218773_7cb47_sm.jpeg",
+    "HallRating": 16.52,
+    "BAR": 7.47,
+    "StylePlus": "130",
+    "RatingScore": 4.29,
+    "AdjustedRating": "2.543463978021978021978021978"
   },
   {
     "BID": 4817970,
@@ -147,22 +117,7 @@
     "BAR": 9.07,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.2548638956347574169781290796"
-  },
-  {
-    "BID": 5629684,
-    "BeerName": "Wilderness of History (Double Barrel)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Half Acre Beer Company",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 16.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1862_0abe3.jpeg",
-    "HallRating": 16.49,
-    "BAR": 7.59,
-    "StylePlus": "115",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0712771133182319800197479236"
+    "AdjustedRating": "4.0257724499473129610115911486"
   },
   {
     "BID": 6024793,
@@ -177,7 +132,7 @@
     "BAR": 8.01,
     "StylePlus": "111",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0874028627503800196263300687"
+    "AdjustedRating": "3.0454915979381443298969072165"
   },
   {
     "BID": 6212575,
@@ -192,67 +147,22 @@
     "BAR": 7.73,
     "StylePlus": "113",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.075339019619213298540639799"
+    "AdjustedRating": "2.7819061788079470198675496689"
   },
   {
-    "BID": 4802470,
-    "BeerName": "Barrique Levenswater (2018)",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Bokke",
-    "Origin": "Hasselt, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
+    "BID": 5629684,
+    "BeerName": "Wilderness of History (Double Barrel)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Half Acre Beer Company",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 16.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
-    "HallRating": 16.48,
-    "BAR": 7.89,
-    "StylePlus": "111",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.081537518656356659403382248"
-  },
-  {
-    "BID": 4414064,
-    "BeerName": "Nonconformist 01",
-    "BeerStyle": "IPA - Farmhouse",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4414064_a5191_sm.jpeg",
-    "HallRating": 16.48,
-    "BAR": 7.98,
-    "StylePlus": "119",
-    "RatingScore": 4.38,
-    "AdjustedRating": "2.0833711460198286649340648763"
-  },
-  {
-    "BID": 4610278,
-    "BeerName": "Hiking with Pulpit Rock",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Humble Forager Brewery",
-    "Origin": "Eau Claire, WI United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4440435_2ffb8_sm.jpeg",
-    "HallRating": 16.48,
-    "BAR": 8.71,
-    "StylePlus": "118",
-    "RatingScore": 4.20,
-    "AdjustedRating": "2.1461432017167381974248927039"
-  },
-  {
-    "BID": 4001362,
-    "BeerName": "Rye Black Gold (2020)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4001362_71b1e_sm.jpeg",
-    "HallRating": 16.48,
-    "BAR": 8.03,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.088216110534210222683742933"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-1862_0abe3.jpeg",
+    "HallRating": 16.49,
+    "BAR": 7.59,
+    "StylePlus": "115",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.6764013534361851332398316971"
   },
   {
     "BID": 2636792,
@@ -267,7 +177,37 @@
     "BAR": 8.16,
     "StylePlus": "115",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0940299451771200736083422788"
+    "AdjustedRating": "3.1262832372619660319094184251"
+  },
+  {
+    "BID": 4802470,
+    "BeerName": "Barrique Levenswater (2018)",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "Bokke",
+    "Origin": "Hasselt, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
+    "HallRating": 16.48,
+    "BAR": 7.89,
+    "StylePlus": "111",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.9250112178702570379436964504"
+  },
+  {
+    "BID": 4001362,
+    "BeerName": "Rye Black Gold (2020)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4001362_71b1e_sm.jpeg",
+    "HallRating": 16.48,
+    "BAR": 8.03,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "3.0525764378165447383230163196"
   },
   {
     "BID": 3421443,
@@ -282,22 +222,7 @@
     "BAR": 8.54,
     "StylePlus": "111",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1325229194352159468438538206"
-  },
-  {
-    "BID": 3342777,
-    "BeerName": "Barrel Aged Imperial German Chocolate Cupcake Stout (2017)",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
-    "HallRating": 16.47,
-    "BAR": 6.37,
-    "StylePlus": "115",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0580142146861859523438716711"
+    "AdjustedRating": "3.5643578080697928026172300981"
   },
   {
     "BID": 5812809,
@@ -312,7 +237,22 @@
     "BAR": 8.90,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.2030567099868209108214965588"
+    "AdjustedRating": "3.900705316541865214431586113"
+  },
+  {
+    "BID": 3342777,
+    "BeerName": "Barrel Aged Imperial German Chocolate Cupcake Stout (2017)",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
+    "HallRating": 16.47,
+    "BAR": 6.37,
+    "StylePlus": "115",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.2301735170603674540682414698"
   },
   {
     "BID": 3343863,
@@ -327,22 +267,7 @@
     "BAR": 4.92,
     "StylePlus": "123",
     "RatingScore": 4.71,
-    "AdjustedRating": "2.0550255156015513847473152858"
-  },
-  {
-    "BID": 4301222,
-    "BeerName": "Convex Refraction",
-    "BeerStyle": "Bock - Doppelbock",
-    "BreweryName": "Jackie O’s Brewery",
-    "Origin": "Athens, OH United States",
-    "BeerAbv": 13.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4301222_b67e7_sm.jpeg",
-    "HallRating": 16.46,
-    "BAR": 8.55,
-    "StylePlus": "117",
-    "RatingScore": 4.31,
-    "AdjustedRating": "2.1281047723029925892402556995"
+    "AdjustedRating": "2.0980796402214022140221402214"
   },
   {
     "BID": 3208001,
@@ -357,7 +282,22 @@
     "BAR": 7.96,
     "StylePlus": "113",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0846368519552534801779078499"
+    "AdjustedRating": "2.9806065011682242990654205607"
+  },
+  {
+    "BID": 4301222,
+    "BeerName": "Convex Refraction",
+    "BeerStyle": "Bock - Doppelbock",
+    "BreweryName": "Jackie O’s Brewery",
+    "Origin": "Athens, OH United States",
+    "BeerAbv": 13.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4301222_b67e7_sm.jpeg",
+    "HallRating": 16.46,
+    "BAR": 8.55,
+    "StylePlus": "117",
+    "RatingScore": 4.31,
+    "AdjustedRating": "3.4527934176764076977904490378"
   },
   {
     "BID": 4004979,
@@ -372,6 +312,66 @@
     "BAR": 9.47,
     "StylePlus": "110",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.496409038852855144346941371"
+    "AdjustedRating": "4.2485312982096379840681441754"
+  },
+  {
+    "BID": 5406476,
+    "BeerName": "Hydra | Schmoojee A La Mode",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4419948_f9d08_sm.jpeg",
+    "HallRating": 16.45,
+    "BAR": 9.16,
+    "StylePlus": "110",
+    "RatingScore": 4.44,
+    "AdjustedRating": "4.0737789130434782608695652174"
+  },
+  {
+    "BID": 6040640,
+    "BeerName": "Indulgence 21",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Moersleutel Craft Brewery",
+    "Origin": "Alkmaar, Noord-Holland Netherlands",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6040640_958b9_sm.jpeg",
+    "HallRating": 16.45,
+    "BAR": 8.59,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "3.6266256174089068825910931174"
+  },
+  {
+    "BID": 4979882,
+    "BeerName": "Off the Rack Kentucky Bourbon Barrel 2021 By Rackhouse",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "LERVIG",
+    "Origin": "Stavanger, Rogaland Norway",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4979882_a2056_sm.jpeg",
+    "HallRating": 16.45,
+    "BAR": 9.02,
+    "StylePlus": "111",
+    "RatingScore": 4.48,
+    "AdjustedRating": "4.0064790058586598315635298425"
+  },
+  {
+    "BID": 3010433,
+    "BeerName": "Cerberus",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Mortalis Brewing Company",
+    "Origin": "Avon, NY United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3010433_9db97_sm.jpeg",
+    "HallRating": 16.45,
+    "BAR": 9.29,
+    "StylePlus": "109",
+    "RatingScore": 4.43,
+    "AdjustedRating": "4.1466847477910748238452074712"
   }
 ]

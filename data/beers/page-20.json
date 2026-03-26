@@ -1,93 +1,18 @@
 [
   {
-    "BID": 5809206,
-    "BeerName": "Conflation",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Moksa Brewing Co",
-    "Origin": "Rocklin, CA United States",
-    "BeerAbv": 15.80,
+    "BID": 2628697,
+    "BeerName": "Magic Lambic",
+    "BeerStyle": "Lambic - Framboise",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5809206_23560_sm.jpeg",
-    "HallRating": 16.38,
-    "BAR": 7.79,
-    "StylePlus": "115",
-    "RatingScore": 4.50,
-    "AdjustedRating": "2.0789183893316865121485226856"
-  },
-  {
-    "BID": 6407735,
-    "BeerName": "15th Anniversary: Civil Disobedience",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
-    "HallRating": 16.37,
-    "BAR": 7.65,
-    "StylePlus": "120",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.0735390807842530646970107119"
-  },
-  {
-    "BID": 5015229,
-    "BeerName": "Lit - Pineapple Coconut",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Barn Town Brewing",
-    "Origin": "West Des Moines, IA United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5015229_a88a0_sm.jpeg",
-    "HallRating": 16.37,
-    "BAR": 7.62,
-    "StylePlus": "128",
-    "RatingScore": 4.25,
-    "AdjustedRating": "2.071456753965183752417794971"
-  },
-  {
-    "BID": 6506037,
-    "BeerName": "IN DA CLURB WITH ECLIPSE",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Deep Fried Beers",
-    "Origin": "Athens, NY United States",
-    "BeerAbv": 8.40,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6506037_8dd3a_sm.jpeg",
-    "HallRating": 16.37,
-    "BAR": 7.96,
-    "StylePlus": "115",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.0860251665031453800427079125"
-  },
-  {
-    "BID": 5200515,
-    "BeerName": "Café Y' Churro",
-    "BeerStyle": "Cream Ale - Imperial / Double",
-    "BreweryName": "Carton Brewing Company",
-    "Origin": "Atlantic Highlands, NJ United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1394852_62d28_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2628697_f2a1f_sm.jpeg",
     "HallRating": 16.36,
-    "BAR": 9.27,
-    "StylePlus": "114",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.3730523240180382558548892726"
-  },
-  {
-    "BID": 6015572,
-    "BeerName": "Red Wine Finished Bardstown Bourbon Wisdom (2024)",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Barreled Souls Brewing Company",
-    "Origin": "Saco, ME United States",
-    "BeerAbv": 13.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3928837_e4f03_sm.jpeg",
-    "HallRating": 16.36,
-    "BAR": 7.57,
-    "StylePlus": "118",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.0715784680587540882085421787"
+    "BAR": 9.25,
+    "StylePlus": "108",
+    "RatingScore": 4.39,
+    "AdjustedRating": "4.1139195576987030262720319255"
   },
   {
     "BID": 5629244,
@@ -102,37 +27,37 @@
     "BAR": 6.24,
     "StylePlus": "120",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0575476369229571075329530188"
+    "AdjustedRating": "2.210139375"
   },
   {
-    "BID": 2628697,
-    "BeerName": "Magic Lambic",
-    "BeerStyle": "Lambic - Framboise",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2628697_f2a1f_sm.jpeg",
-    "HallRating": 16.36,
-    "BAR": 9.25,
-    "StylePlus": "109",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.3677320693380143807176855821"
-  },
-  {
-    "BID": 3806198,
-    "BeerName": "Coconut Fionn",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
+    "BID": 5200515,
+    "BeerName": "Café Y' Churro",
+    "BeerStyle": "Cream Ale - Imperial / Double",
+    "BreweryName": "Carton Brewing Company",
+    "Origin": "Atlantic Highlands, NJ United States",
     "BeerAbv": 12.00,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1394852_62d28_sm.jpeg",
+    "HallRating": 16.36,
+    "BAR": 9.27,
+    "StylePlus": "114",
+    "RatingScore": 4.33,
+    "AdjustedRating": "4.0725608243157224697644812222"
+  },
+  {
+    "BID": 6015572,
+    "BeerName": "Red Wine Finished Bardstown Bourbon Wisdom (2024)",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Barreled Souls Brewing Company",
+    "Origin": "Saco, ME United States",
+    "BeerAbv": 13.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
-    "HallRating": 16.34,
-    "BAR": 8.58,
-    "StylePlus": "113",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.1466001420779366834735993702"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3928837_e4f03_sm.jpeg",
+    "HallRating": 16.36,
+    "BAR": 7.57,
+    "StylePlus": "118",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.6779615538674033149171270718"
   },
   {
     "BID": 6406583,
@@ -147,7 +72,22 @@
     "BAR": 7.75,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0785708473463714114717068556"
+    "AdjustedRating": "2.860526927480916030534351145"
+  },
+  {
+    "BID": 3806198,
+    "BeerName": "Coconut Fionn",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
+    "HallRating": 16.34,
+    "BAR": 8.58,
+    "StylePlus": "113",
+    "RatingScore": 4.45,
+    "AdjustedRating": "3.6328465547024952015355086372"
   },
   {
     "BID": 5505106,
@@ -162,22 +102,7 @@
     "BAR": 7.18,
     "StylePlus": "114",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0649387385953333074504018325"
-  },
-  {
-    "BID": 6213288,
-    "BeerName": "Cinnamon Apple",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "LULZ Hard Seltzer",
-    "Origin": "Lake Zurich, IL United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5066730_407db_sm.jpeg",
-    "HallRating": 16.33,
-    "BAR": 8.29,
-    "StylePlus": "118",
-    "RatingScore": 4.23,
-    "AdjustedRating": "2.1052449107108860373910063588"
+    "AdjustedRating": "2.4874075484871993793638479441"
   },
   {
     "BID": 2418008,
@@ -192,7 +117,7 @@
     "BAR": 10.07,
     "StylePlus": "109",
     "RatingScore": 4.40,
-    "AdjustedRating": "3.3828205980116998613600243465"
+    "AdjustedRating": "4.3632542690290449116311869188"
   },
   {
     "BID": 5705316,
@@ -207,7 +132,7 @@
     "BAR": 8.23,
     "StylePlus": "114",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.1049604978730709802949087233"
+    "AdjustedRating": "3.2672239899909008189262966333"
   },
   {
     "BID": 4017124,
@@ -222,7 +147,7 @@
     "BAR": 7.88,
     "StylePlus": "115",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.0830387353864524951368425107"
+    "AdjustedRating": "2.9401346285377358490566037736"
   },
   {
     "BID": 5705352,
@@ -237,7 +162,7 @@
     "BAR": 7.87,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0839481079519186315302820157"
+    "AdjustedRating": "2.9726901778304682868998221695"
   },
   {
     "BID": 3205627,
@@ -252,7 +177,7 @@
     "BAR": 8.12,
     "StylePlus": "118",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.0955864176446937642396278072"
+    "AdjustedRating": "3.1343909920239282153539381854"
   },
   {
     "BID": 2028895,
@@ -267,7 +192,22 @@
     "BAR": 8.65,
     "StylePlus": "117",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.1568908481577967994045403796"
+    "AdjustedRating": "3.6256979601706970128022759602"
+  },
+  {
+    "BID": 5015229,
+    "BeerName": "Lit - Pineapple Coconut",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Barn Town Brewing",
+    "Origin": "West Des Moines, IA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5015229_a88a0_sm.jpeg",
+    "HallRating": 16.31,
+    "BAR": 7.59,
+    "StylePlus": "128",
+    "RatingScore": 4.25,
+    "AdjustedRating": "2.6625954779661016949152542373"
   },
   {
     "BID": 6028415,
@@ -282,22 +222,7 @@
     "BAR": 6.50,
     "StylePlus": "122",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0587256592978905581069510392"
-  },
-  {
-    "BID": 3339841,
-    "BeerName": "Angel of Darkness",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Wicked Weed Brewing",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1320328_1c63f_sm.jpeg",
-    "HallRating": 16.28,
-    "BAR": 9.25,
-    "StylePlus": "112",
-    "RatingScore": 4.32,
-    "AdjustedRating": "2.3875891488618791879354205809"
+    "AdjustedRating": "2.2586486070507308684436801376"
   },
   {
     "BID": 6407542,
@@ -312,37 +237,22 @@
     "BAR": 6.09,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0572003851846081944228072909"
+    "AdjustedRating": "2.195535341614906832298136646"
   },
   {
-    "BID": 6224244,
-    "BeerName": "Quadruple Jasper",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 12.00,
+    "BID": 3339841,
+    "BeerName": "Angel of Darkness",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Wicked Weed Brewing",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 11.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
-    "HallRating": 16.27,
-    "BAR": 7.95,
-    "StylePlus": "111",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0901578708846649113028771309"
-  },
-  {
-    "BID": 6015912,
-    "BeerName": "Maple Bourbon Descendent",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 16.66,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015912_74a33_sm.jpeg",
-    "HallRating": 16.27,
-    "BAR": 6.99,
-    "StylePlus": "116",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0628674654180913894933167547"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1320328_1c63f_sm.jpeg",
+    "HallRating": 16.28,
+    "BAR": 9.25,
+    "StylePlus": "112",
+    "RatingScore": 4.32,
+    "AdjustedRating": "4.0764053569267997580157289776"
   },
   {
     "BID": 6207731,
@@ -357,7 +267,37 @@
     "BAR": 6.58,
     "StylePlus": "115",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.059441121033483141695363723"
+    "AdjustedRating": "2.288099088586030664395229983"
+  },
+  {
+    "BID": 6015912,
+    "BeerName": "Maple Bourbon Descendent",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 16.66,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015912_74a33_sm.jpeg",
+    "HallRating": 16.27,
+    "BAR": 6.99,
+    "StylePlus": "116",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.4161414033680834001603849238"
+  },
+  {
+    "BID": 6224244,
+    "BeerName": "Quadruple Jasper",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-426930_482aa.jpeg",
+    "HallRating": 16.27,
+    "BAR": 7.95,
+    "StylePlus": "111",
+    "RatingScore": 4.59,
+    "AdjustedRating": "3.0930334053156146179401993355"
   },
   {
     "BID": 6430028,
@@ -372,6 +312,66 @@
     "BAR": 10.47,
     "StylePlus": "112",
     "RatingScore": 4.16,
-    "AdjustedRating": "3.8112091854573870700038426391"
+    "AdjustedRating": "4.1513451438383090904886339986"
+  },
+  {
+    "BID": 2033953,
+    "BeerName": "Nimble Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Suarez Family Brewery",
+    "Origin": "Livingston, NY United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1623450_47e89_sm.jpeg",
+    "HallRating": 16.25,
+    "BAR": 8.23,
+    "StylePlus": "122",
+    "RatingScore": 4.19,
+    "AdjustedRating": "3.1866864889867841409691629956"
+  },
+  {
+    "BID": 4007483,
+    "BeerName": "Liquid Lollipop: Strawberry, Blueberry, Cherry, Cheesecake",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Froth Brewing Co.",
+    "Origin": "Buffalo, NY United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-416951_1b3de.jpeg",
+    "HallRating": 16.25,
+    "BAR": 7.70,
+    "StylePlus": "115",
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.8198649202297383535417996171"
+  },
+  {
+    "BID": 6213288,
+    "BeerName": "Cinnamon Apple",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "LULZ Hard Seltzer",
+    "Origin": "Lake Zurich, IL United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5066730_407db_sm.jpeg",
+    "HallRating": 16.25,
+    "BAR": 8.25,
+    "StylePlus": "118",
+    "RatingScore": 4.23,
+    "AdjustedRating": "3.2216898435462842242503259452"
+  },
+  {
+    "BID": 3336681,
+    "BeerName": "Sue (2019)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 16.25,
+    "BAR": 7.63,
+    "StylePlus": "119",
+    "RatingScore": 4.40,
+    "AdjustedRating": "2.7534090388413429888084265964"
   }
 ]

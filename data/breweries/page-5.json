@@ -1,5 +1,9 @@
 [
   {
+    "BreweryName": "*_Tales Somebrew",
+    "Location": "Russia"
+  },
+  {
     "BreweryName": ",nHubke",
     "Location": "Netherlands"
   },
@@ -17,7 +21,7 @@
   },
   {
     "BreweryName": ".2 Brewing",
-    "Location": null
+    "Location": "United States"
   },
   {
     "BreweryName": ".30-06 Brewing",
@@ -94,9 +98,5 @@
   {
     "BreweryName": "@ABreweryForAnts",
     "Location": null
-  },
-  {
-    "BreweryName": "@AndrewBrews",
-    "Location": "United States"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "BreweryName": "©routch©raft",
+    "Location": "Canada"
+  },
+  {
+    "BreweryName": "µBrew",
+    "Location": "Sweden"
+  },
+  {
     "BreweryName": "…GoodBeerNut Brewing Co",
     "Location": "United States"
   },
@@ -30,6 +38,10 @@
   {
     "BreweryName": "0,5 Pub",
     "Location": "Moldova"
+  },
+  {
+    "BreweryName": "00   Beer Shop Miramar",
+    "Location": null
   },
   {
     "BreweryName": "000",
@@ -86,17 +98,5 @@
   {
     "BreweryName": "045 Passione Birra",
     "Location": "Verona, Veneto Italy"
-  },
-  {
-    "BreweryName": "0614 Brewery",
-    "Location": "New Zealand"
-  },
-  {
-    "BreweryName": "0666",
-    "Location": "Norway"
-  },
-  {
-    "BreweryName": "0666 BRYGGERI",
-    "Location": "Norway"
   }
 ]

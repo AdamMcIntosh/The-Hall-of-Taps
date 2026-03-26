@@ -1,5 +1,17 @@
 [
   {
+    "BreweryName": "10.9 Brewery",
+    "Location": null
+  },
+  {
+    "BreweryName": "10/31 Brewery",
+    "Location": "United States"
+  },
+  {
+    "BreweryName": "10:10 Brewing",
+    "Location": "New Zealand"
+  },
+  {
     "BreweryName": "10:2 Brewing",
     "Location": "United States"
   },
@@ -18,6 +30,10 @@
   {
     "BreweryName": "100 Acre Brewing",
     "Location": "Peterborough, ON Canada"
+  },
+  {
+    "BreweryName": "100 Beer Garden",
+    "Location": "Curitiba, Paraná Brazil"
   },
   {
     "BreweryName": "100 Blumen Brauerei",
@@ -61,7 +77,7 @@
   },
   {
     "BreweryName": "100% Mand",
-    "Location": null
+    "Location": "Denmark"
   },
   {
     "BreweryName": "1000 Hills Brewery",
@@ -82,21 +98,5 @@
   {
     "BreweryName": "1000 Oaks Brewery",
     "Location": "United States"
-  },
-  {
-    "BreweryName": "1000 Stone Farm",
-    "Location": "Brookfield, VT United States"
-  },
-  {
-    "BreweryName": "1000 Stories",
-    "Location": "Mendocino, CA United States"
-  },
-  {
-    "BreweryName": "1000 Trades",
-    "Location": "Birmingham, West Midlands England"
-  },
-  {
-    "BreweryName": "10000 Paws",
-    "Location": "Rio das Ostras, Rio de Janeiro Brazil"
   }
 ]

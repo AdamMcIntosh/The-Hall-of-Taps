@@ -1,35 +1,5 @@
 [
   {
-    "BID": 5805024,
-    "BeerName": "Eisbock",
-    "BeerStyle": "Bock - Eisbock",
-    "BreweryName": "Sinnister Brew",
-    "Origin": "Dalkeith, Midlothian Scotland",
-    "BeerAbv": 38.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-328626_f10b2.jpeg",
-    "HallRating": 15.76,
-    "BAR": 4.87,
-    "StylePlus": "121",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0551464409884627377611474899"
-  },
-  {
-    "BID": 5004420,
-    "BeerName": "XYAUYÙ Etichetta Oro/golden Label - RISERVA 2017",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "BIRRIFICIO AGRICOLO BALADIN - Baladin Indipendent Italian Farm Brewery",
-    "Origin": "Piozzo, Piemonte Italy",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-128_c2ca5.jpeg",
-    "HallRating": 15.76,
-    "BAR": 7.68,
-    "StylePlus": "114",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.086983850236529364255220953"
-  },
-  {
     "BID": 6302305,
     "BeerName": "Tapestry of Timber No.2",
     "BeerStyle": "Strong Ale - English",
@@ -42,22 +12,7 @@
     "BAR": 6.85,
     "StylePlus": "122",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.0632961933429137375228181924"
-  },
-  {
-    "BID": 3624912,
-    "BeerName": "G-Bot",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "New England Brewing Co.",
-    "Origin": "Branford, CT United States",
-    "BeerAbv": 8.80,
-    "BeerIbu": 85.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6272_cc1f9_sm.jpeg",
-    "HallRating": 15.75,
-    "BAR": 9.48,
-    "StylePlus": "111",
-    "RatingScore": 4.29,
-    "AdjustedRating": "2.9506448371386861313868613139"
+    "AdjustedRating": "2.4274139716312056737588652482"
   },
   {
     "BID": 3024431,
@@ -72,22 +27,7 @@
     "BAR": 9.48,
     "StylePlus": "109",
     "RatingScore": 4.40,
-    "AdjustedRating": "3.0043544456816758299116152829"
-  },
-  {
-    "BID": 834931,
-    "BeerName": "Fruit Stand - Apricot",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Casey Brewing & Blending",
-    "Origin": "Glenwood Springs, CO United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-834931_d52a7_sm.jpeg",
-    "HallRating": 15.74,
-    "BAR": 8.40,
-    "StylePlus": "116",
-    "RatingScore": 4.28,
-    "AdjustedRating": "2.1656346497027612645146952608"
+    "AdjustedRating": "4.3305017735974881213704187391"
   },
   {
     "BID": 3345681,
@@ -102,7 +42,22 @@
     "BAR": 6.63,
     "StylePlus": "119",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.06116797581789553486382987"
+    "AdjustedRating": "2.3527736699507389162561576355"
+  },
+  {
+    "BID": 834931,
+    "BeerName": "Fruit Stand - Apricot",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Casey Brewing & Blending",
+    "Origin": "Glenwood Springs, CO United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-834931_d52a7_sm.jpeg",
+    "HallRating": 15.74,
+    "BAR": 8.40,
+    "StylePlus": "116",
+    "RatingScore": 4.28,
+    "AdjustedRating": "3.65079224019088016967126193"
   },
   {
     "BID": 6428582,
@@ -117,7 +72,7 @@
     "BAR": 4.05,
     "StylePlus": "119",
     "RatingScore": 4.75,
-    "AdjustedRating": "2.0546200693943587844291534278"
+    "AdjustedRating": "2.0790690799256505576208178439"
   },
   {
     "BID": 1669829,
@@ -132,7 +87,7 @@
     "BAR": 9.09,
     "StylePlus": "112",
     "RatingScore": 4.32,
-    "AdjustedRating": "2.5070215143904531627798143671"
+    "AdjustedRating": "4.1459386404899135446685878963"
   },
   {
     "BID": 2615973,
@@ -147,22 +102,7 @@
     "BAR": 9.25,
     "StylePlus": "110",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.6880318733620762532758474934"
-  },
-  {
-    "BID": 2039108,
-    "BeerName": "Three Magic Letters",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 6.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2039108_79b8c_sm.jpeg",
-    "HallRating": 15.71,
-    "BAR": 9.03,
-    "StylePlus": "114",
-    "RatingScore": 4.24,
-    "AdjustedRating": "2.4494673040867496047399268569"
+    "AdjustedRating": "4.2225354633958263048821629958"
   },
   {
     "BID": 2238264,
@@ -177,7 +117,7 @@
     "BAR": 8.86,
     "StylePlus": "119",
     "RatingScore": 4.12,
-    "AdjustedRating": "2.3203568984375"
+    "AdjustedRating": "3.8654683223570190641247833622"
   },
   {
     "BID": 5505525,
@@ -192,7 +132,22 @@
     "BAR": 6.99,
     "StylePlus": "120",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0656517573335402762688188732"
+    "AdjustedRating": "2.5056621152388172858225928734"
+  },
+  {
+    "BID": 2039108,
+    "BeerName": "Three Magic Letters",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 6.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2039108_79b8c_sm.jpeg",
+    "HallRating": 15.71,
+    "BAR": 9.03,
+    "StylePlus": "114",
+    "RatingScore": 4.24,
+    "AdjustedRating": "4.0519131964170432537120723047"
   },
   {
     "BID": 5813722,
@@ -207,7 +162,7 @@
     "BAR": 7.27,
     "StylePlus": "116",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0715043481121668956708532502"
+    "AdjustedRating": "2.6753165262430939226519337017"
   },
   {
     "BID": 3812350,
@@ -222,22 +177,7 @@
     "BAR": 8.74,
     "StylePlus": "117",
     "RatingScore": 4.10,
-    "AdjustedRating": "2.2631859649921232277262384036"
-  },
-  {
-    "BID": 3833292,
-    "BeerName": "Coastal Sunshine (v3): Tangerine, Passion Fruit, Mango, Soursop",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Humble Forager Brewery",
-    "Origin": "Eau Claire, WI United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3833292_fb9f2_sm.jpeg",
-    "HallRating": 15.69,
-    "BAR": 8.66,
-    "StylePlus": "112",
-    "RatingScore": 4.32,
-    "AdjustedRating": "2.2531142482660501511648586164"
+    "AdjustedRating": "3.784044653149891383055756698"
   },
   {
     "BID": 5005537,
@@ -252,7 +192,22 @@
     "BAR": 7.04,
     "StylePlus": "119",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0667511040006205519033490411"
+    "AdjustedRating": "2.5403638822652757078986587183"
+  },
+  {
+    "BID": 3833292,
+    "BeerName": "Coastal Sunshine (v3): Tangerine, Passion Fruit, Mango, Soursop",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Humble Forager Brewery",
+    "Origin": "Eau Claire, WI United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3833292_fb9f2_sm.jpeg",
+    "HallRating": 15.69,
+    "BAR": 8.66,
+    "StylePlus": "112",
+    "RatingScore": 4.32,
+    "AdjustedRating": "3.9176733272273105745212323064"
   },
   {
     "BID": 6211448,
@@ -267,22 +222,7 @@
     "BAR": 7.20,
     "StylePlus": "122",
     "RatingScore": 4.27,
-    "AdjustedRating": "2.0691037001607250053252260801"
-  },
-  {
-    "BID": 4500116,
-    "BeerName": "Amulet SIPA",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Hudson Valley Brewery",
-    "Origin": "Beacon, NY United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2744579_5c2a1_sm.jpeg",
-    "HallRating": 15.68,
-    "BAR": 8.96,
-    "StylePlus": "112",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.4164298732320928110539008017"
+    "AdjustedRating": "2.60141125"
   },
   {
     "BID": 6604318,
@@ -297,7 +237,22 @@
     "BAR": 5.92,
     "StylePlus": "115",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0573653356959264740244567334"
+    "AdjustedRating": "2.2025361007957559681697612732"
+  },
+  {
+    "BID": 4500116,
+    "BeerName": "Amulet SIPA",
+    "BeerStyle": "IPA - Sour",
+    "BreweryName": "Hudson Valley Brewery",
+    "Origin": "Beacon, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2744579_5c2a1_sm.jpeg",
+    "HallRating": 15.68,
+    "BAR": 8.96,
+    "StylePlus": "112",
+    "RatingScore": 4.26,
+    "AdjustedRating": "4.0489950955414012738853503185"
   },
   {
     "BID": 4010086,
@@ -312,52 +267,22 @@
     "BAR": 8.53,
     "StylePlus": "112",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.2204841194506431539033727027"
+    "AdjustedRating": "3.9280503330608908868001634655"
   },
   {
-    "BID": 4422811,
-    "BeerName": "The Morning After Den Haag",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Hoppin' Frog Brewery",
-    "Origin": "Akron, OH United States",
-    "BeerAbv": 16.65,
+    "BID": 5206901,
+    "BeerName": "Interception of Entropy 1000 Days (2023)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Incendiary Brewing Company",
+    "Origin": "Winston-Salem, NC United States",
+    "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4422811_fd17f_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-393444_b28e5.jpeg",
     "HallRating": 15.66,
-    "BAR": 8.05,
-    "StylePlus": "115",
-    "RatingScore": 4.31,
-    "AdjustedRating": "2.1181853759163493777348411661"
-  },
-  {
-    "BID": 6425109,
-    "BeerName": "FH Sitra Achra (2025)",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Brujos Brewing",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 9.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6425109_157d3_sm.jpeg",
-    "HallRating": 15.66,
-    "BAR": 7.94,
-    "StylePlus": "112",
-    "RatingScore": 4.50,
-    "AdjustedRating": "2.1110525608409186121796092471"
-  },
-  {
-    "BID": 4982467,
-    "BeerName": "Thrills - Cherry Pineapple Blackberry Swirled Ice Cream",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Dewey Beer Company",
-    "Origin": "Dewey Beach, DE United States",
-    "BeerAbv": 5.25,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4982467_ec251_sm.jpeg",
-    "HallRating": 15.66,
-    "BAR": 7.09,
-    "StylePlus": "122",
-    "RatingScore": 4.28,
-    "AdjustedRating": "2.0671576962437492731712989883"
+    "BAR": 6.34,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.2910028340425531914893617021"
   },
   {
     "BID": 4700765,
@@ -372,6 +297,81 @@
     "BAR": 7.57,
     "StylePlus": "118",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.0818499639920667013267094141"
+    "AdjustedRating": "2.8979674063231850117096018735"
+  },
+  {
+    "BID": 6425109,
+    "BeerName": "FH Sitra Achra (2025)",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Brujos Brewing",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 9.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6425109_157d3_sm.jpeg",
+    "HallRating": 15.66,
+    "BAR": 7.94,
+    "StylePlus": "112",
+    "RatingScore": 4.50,
+    "AdjustedRating": "3.360781271297509829619921363"
+  },
+  {
+    "BID": 4982467,
+    "BeerName": "Thrills - Cherry Pineapple Blackberry Swirled Ice Cream",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Dewey Beer Company",
+    "Origin": "Dewey Beach, DE United States",
+    "BeerAbv": 5.25,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4982467_ec251_sm.jpeg",
+    "HallRating": 15.66,
+    "BAR": 7.09,
+    "StylePlus": "122",
+    "RatingScore": 4.28,
+    "AdjustedRating": "2.5463464791818845872899926954"
+  },
+  {
+    "BID": 4422811,
+    "BeerName": "The Morning After Den Haag",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Hoppin' Frog Brewery",
+    "Origin": "Akron, OH United States",
+    "BeerAbv": 16.65,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4422811_fd17f_sm.jpeg",
+    "HallRating": 15.66,
+    "BAR": 8.05,
+    "StylePlus": "115",
+    "RatingScore": 4.31,
+    "AdjustedRating": "3.3726182112236944660950896337"
+  },
+  {
+    "BID": 1001485,
+    "BeerName": "Rodenbach Caractère Rouge (2013)",
+    "BeerStyle": "Sour - Flanders Red Ale",
+    "BreweryName": "Brouwerij Rodenbach",
+    "Origin": "Roeselare, Vlaams Gewest Belgium",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-94668_2be61_sm.jpeg",
+    "HallRating": 15.65,
+    "BAR": 8.75,
+    "StylePlus": "113",
+    "RatingScore": 4.33,
+    "AdjustedRating": "4.0043663888888888888888888889"
+  },
+  {
+    "BID": 5023643,
+    "BeerName": "Grackle",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Lua Brewing",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64726_8e04d.jpeg",
+    "HallRating": 15.65,
+    "BAR": 7.20,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.6839960238429172510518934081"
   }
 ]

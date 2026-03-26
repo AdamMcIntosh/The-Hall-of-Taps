@@ -1,35 +1,5 @@
 [
   {
-    "BID": 4980052,
-    "BeerName": "Melomel: Mix of Three Types of Honey And Grapefruit",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Punchiller",
-    "Origin": "Minsk, Minskaja voblasć Belarus",
-    "BeerAbv": 16.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980052_c7c70_sm.jpeg",
-    "HallRating": 17.89,
-    "BAR": 5.28,
-    "StylePlus": "121",
-    "RatingScore": 4.82,
-    "AdjustedRating": "2.0550123602557106104311218523"
-  },
-  {
-    "BID": 3008916,
-    "BeerName": "La Trappe Quadrupel Oak Aged Batch #29",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Bierbrouwerij De Koningshoeven",
-    "Origin": "Berkel-Enschot, Noord-Brabant Netherlands",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5568646_5625f_sm.jpeg",
-    "HallRating": 17.86,
-    "BAR": 9.44,
-    "StylePlus": "114",
-    "RatingScore": 4.43,
-    "AdjustedRating": "2.1561841657648244206441019517"
-  },
-  {
     "BID": 3237218,
     "BeerName": "Buckley Reserve #2",
     "BeerStyle": "Stout - Imperial / Double",
@@ -42,7 +12,7 @@
     "BAR": 9.69,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.2194602485353516975364797496"
+    "AdjustedRating": "3.9727651108296390120329322356"
   },
   {
     "BID": 5302224,
@@ -57,7 +27,7 @@
     "BAR": 8.66,
     "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.08735451568212430248220127"
+    "AdjustedRating": "3.0446007621776504297994269341"
   },
   {
     "BID": 2002082,
@@ -72,37 +42,7 @@
     "BAR": 9.46,
     "StylePlus": "113",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.166725206539327096546208641"
-  },
-  {
-    "BID": 1705546,
-    "BeerName": "Qualify Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Suarez Family Brewery",
-    "Origin": "Livingston, NY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1705546_4acf7_sm.jpeg",
-    "HallRating": 17.81,
-    "BAR": 10.09,
-    "StylePlus": "122",
-    "RatingScore": 4.16,
-    "AdjustedRating": "2.3490420685723866208399698214"
-  },
-  {
-    "BID": 4024608,
-    "BeerName": "Galaxy Dry Hop Pseudo Sue",
-    "BeerStyle": "Pale Ale - American",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1562806_aea96_sm.jpeg",
-    "HallRating": 17.81,
-    "BAR": 10.66,
-    "StylePlus": "118",
-    "RatingScore": 4.22,
-    "AdjustedRating": "2.8504046722473586231553511768"
+    "AdjustedRating": "3.7637855251270468661773009599"
   },
   {
     "BID": 4423027,
@@ -117,7 +57,22 @@
     "BAR": 8.65,
     "StylePlus": "114",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0868311368096979026361362324"
+    "AdjustedRating": "3.029013369627507163323782235"
+  },
+  {
+    "BID": 4024608,
+    "BeerName": "Galaxy Dry Hop Pseudo Sue",
+    "BeerStyle": "Pale Ale - American",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1562806_aea96_sm.jpeg",
+    "HallRating": 17.81,
+    "BAR": 10.66,
+    "StylePlus": "118",
+    "RatingScore": 4.22,
+    "AdjustedRating": "4.1452307799145299145299145299"
   },
   {
     "BID": 6423294,
@@ -130,9 +85,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5350910_af84c_sm.jpeg",
     "HallRating": 17.80,
     "BAR": 9.68,
-    "StylePlus": "122",
+    "StylePlus": "121",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.2105329662109410461717232239"
+    "AdjustedRating": "3.8298718734542456718878812861"
   },
   {
     "BID": 4817770,
@@ -147,7 +102,7 @@
     "BAR": 8.40,
     "StylePlus": "125",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0761144646823633940470901821"
+    "AdjustedRating": "2.7904963372093023255813953488"
   },
   {
     "BID": 5500225,
@@ -162,22 +117,7 @@
     "BAR": 8.47,
     "StylePlus": "114",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0802812353826560148199606345"
-  },
-  {
-    "BID": 4617857,
-    "BeerName": "Beanie In A Bottle",
-    "BeerStyle": "Mead - Traditional",
-    "BreweryName": "Manic Meadery",
-    "Origin": "Crown Point, IN United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4617857_aa052_sm.jpeg",
-    "HallRating": 17.78,
-    "BAR": 7.63,
-    "StylePlus": "121",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.062826831296508577978977637"
+    "AdjustedRating": "2.9037873074514715090795241077"
   },
   {
     "BID": 6103962,
@@ -192,7 +132,22 @@
     "BAR": 8.41,
     "StylePlus": "112",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0786121466919006604611641111"
+    "AdjustedRating": "2.8694337379576107899807321773"
+  },
+  {
+    "BID": 4617857,
+    "BeerName": "Beanie In A Bottle",
+    "BeerStyle": "Mead - Traditional",
+    "BreweryName": "Manic Meadery",
+    "Origin": "Crown Point, IN United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4617857_aa052_sm.jpeg",
+    "HallRating": 17.78,
+    "BAR": 7.63,
+    "StylePlus": "121",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.4153121623794212218649517685"
   },
   {
     "BID": 3809290,
@@ -207,7 +162,7 @@
     "BAR": 8.35,
     "StylePlus": "115",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0763014374057898195029567503"
+    "AdjustedRating": "2.8095386785009861932938856016"
   },
   {
     "BID": 3613955,
@@ -222,22 +177,7 @@
     "BAR": 11.36,
     "StylePlus": "112",
     "RatingScore": 4.30,
-    "AdjustedRating": "3.8641696713732255818880716729"
-  },
-  {
-    "BID": 6218368,
-    "BeerName": "50°N-4°E",
-    "BeerStyle": "Lambic - Traditional",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2537532_3da75_sm.jpeg",
-    "HallRating": 17.75,
-    "BAR": 9.89,
-    "StylePlus": "115",
-    "RatingScore": 4.40,
-    "AdjustedRating": "2.2992582394329311940220332769"
+    "AdjustedRating": "4.2888144928463661969199437612"
   },
   {
     "BID": 5805511,
@@ -252,7 +192,7 @@
     "BAR": 9.73,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.2496082103109068715444819416"
+    "AdjustedRating": "4.0405231314973554623381360569"
   },
   {
     "BID": 235202,
@@ -267,7 +207,7 @@
     "BAR": 10.61,
     "StylePlus": "109",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.8877750910874095868579134486"
+    "AdjustedRating": "4.2236027541872706970808741426"
   },
   {
     "BID": 4035313,
@@ -282,7 +222,7 @@
     "BAR": 10.22,
     "StylePlus": "109",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.5102998580511141885937303286"
+    "AdjustedRating": "4.230611031608979653127111645"
   },
   {
     "BID": 3025834,
@@ -297,7 +237,7 @@
     "BAR": 9.95,
     "StylePlus": "120",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.3251786552290938976782412164"
+    "AdjustedRating": "3.9898212898887394547010636997"
   },
   {
     "BID": 6609944,
@@ -312,7 +252,7 @@
     "BAR": 6.33,
     "StylePlus": "127",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0564186489276739973118803202"
+    "AdjustedRating": "2.1613114478417266187050359712"
   },
   {
     "BID": 6506422,
@@ -327,7 +267,7 @@
     "BAR": 8.44,
     "StylePlus": "112",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0816667472900513057902248968"
+    "AdjustedRating": "2.9359089019123997532387415176"
   },
   {
     "BID": 6043863,
@@ -342,7 +282,7 @@
     "BAR": 7.70,
     "StylePlus": "116",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0644555074855822443154236005"
+    "AdjustedRating": "2.472847982731554160125588697"
   },
   {
     "BID": 3505685,
@@ -357,7 +297,7 @@
     "BAR": 8.87,
     "StylePlus": "117",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.1030967505205050331404122018"
+    "AdjustedRating": "3.2596044783834586466165413534"
   },
   {
     "BID": 2015540,
@@ -372,6 +312,66 @@
     "BAR": 9.75,
     "StylePlus": "110",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.2621552006956027966071618696"
+    "AdjustedRating": "3.9671248702887909936368086148"
+  },
+  {
+    "BID": 70157,
+    "BeerName": "Vera Mae",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-70157_d608a_sm.jpeg",
+    "HallRating": 17.62,
+    "BAR": 9.75,
+    "StylePlus": "118",
+    "RatingScore": 4.33,
+    "AdjustedRating": "3.9433490009560229445506692161"
+  },
+  {
+    "BID": 6218368,
+    "BeerName": "50°N-4°E",
+    "BeerStyle": "Lambic - Traditional",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2537532_3da75_sm.jpeg",
+    "HallRating": 17.62,
+    "BAR": 9.82,
+    "StylePlus": "115",
+    "RatingScore": 4.40,
+    "AdjustedRating": "4.0453244937606352807714123653"
+  },
+  {
+    "BID": 4008934,
+    "BeerName": "Bourbon County Brand Stout (2019) 14.7%",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.70,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3200860_3e2be_sm.jpeg",
+    "HallRating": 17.62,
+    "BAR": 10.78,
+    "StylePlus": "110",
+    "RatingScore": 4.44,
+    "AdjustedRating": "4.3931930285577595407205682111"
+  },
+  {
+    "BID": 3000429,
+    "BeerName": "Haze Peach",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 17.61,
+    "BAR": 9.75,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "4.09524922065578964042452083"
   }
 ]

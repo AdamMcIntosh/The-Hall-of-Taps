@@ -1,50 +1,5 @@
 [
   {
-    "BID": 5602950,
-    "BeerName": "Blind Pig IPA",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Russian River Brewing Company",
-    "Origin": "Windsor, CA United States",
-    "BeerAbv": 6.25,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4041_263a4_sm.jpeg",
-    "HallRating": 15.45,
-    "BAR": 9.76,
-    "StylePlus": "112",
-    "RatingScore": 4.15,
-    "AdjustedRating": "3.5848590017926517051219371153"
-  },
-  {
-    "BID": 3623819,
-    "BeerName": "I’VE BEEN MISSING MY MOM’S SPICED BLACKBERRY COBBLER",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Evil Twin Brewing NYC",
-    "Origin": "Ridgewood, NY United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4354378_e3bcf_sm.jpeg",
-    "HallRating": 15.45,
-    "BAR": 8.29,
-    "StylePlus": "113",
-    "RatingScore": 4.30,
-    "AdjustedRating": "2.17654729451234124131320393"
-  },
-  {
-    "BID": 4620664,
-    "BeerName": "Why So Salty? : Framboise + Ananas + Mangue",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Messorem",
-    "Origin": "Montreal, QC Canada",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4620664_c0bc9_sm.jpeg",
-    "HallRating": 15.44,
-    "BAR": 7.43,
-    "StylePlus": "115",
-    "RatingScore": 4.38,
-    "AdjustedRating": "2.0813798493256262042389210019"
-  },
-  {
     "BID": 4941326,
     "BeerName": "Blueberry Blackberry Raspberry Lemonade",
     "BeerStyle": "Fruit Beer",
@@ -57,22 +12,7 @@
     "BAR": 7.14,
     "StylePlus": "121",
     "RatingScore": 4.25,
-    "AdjustedRating": "2.0701496870463914532892062939"
-  },
-  {
-    "BID": 2439744,
-    "BeerName": "Honey Bite",
-    "BeerStyle": "Festbier",
-    "BreweryName": "Bohemian Biergarten",
-    "Origin": null,
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/assets/images/temp/badge-beer-default.png",
-    "HallRating": 15.44,
-    "BAR": 5.84,
-    "StylePlus": "122",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.0571807967755125883521233717"
+    "AdjustedRating": "2.6285168490304709141274238227"
   },
   {
     "BID": 6424835,
@@ -87,7 +27,7 @@
     "BAR": 8.60,
     "StylePlus": "110",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.2998522967419247652192161732"
+    "AdjustedRating": "4.0743053953421506612995974698"
   },
   {
     "BID": 6605017,
@@ -102,22 +42,7 @@
     "BAR": 4.18,
     "StylePlus": "126",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0546972726741126249926904859"
-  },
-  {
-    "BID": 6305200,
-    "BeerName": "IX Anniversary",
-    "BeerStyle": "Barleywine - Other",
-    "BreweryName": "Brasseria Della Fonte",
-    "Origin": "Pienza, Toscana Italy",
-    "BeerAbv": 13.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6305200_f3909_sm.jpeg",
-    "HallRating": 15.43,
-    "BAR": 6.97,
-    "StylePlus": "114",
-    "RatingScore": 4.49,
-    "AdjustedRating": "2.0680195049044314348854340325"
+    "AdjustedRating": "2.0826978942486085343228200371"
   },
   {
     "BID": 6425049,
@@ -132,22 +57,22 @@
     "BAR": 6.53,
     "StylePlus": "115",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0616628929619623316293805516"
+    "AdjustedRating": "2.3721473284313725490196078431"
   },
   {
-    "BID": 4819082,
-    "BeerName": "Dreams 21",
-    "BeerStyle": "Freeze-Distilled Beer",
-    "BreweryName": "Bevog Brewery",
-    "Origin": "Bad Radkersburg, Steiermark Austria",
-    "BeerAbv": 19.70,
+    "BID": 6305200,
+    "BeerName": "IX Anniversary",
+    "BeerStyle": "Barleywine - Other",
+    "BreweryName": "Brasseria Della Fonte",
+    "Origin": "Pienza, Toscana Italy",
+    "BeerAbv": 13.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4693621_8eb98_sm.jpeg",
-    "HallRating": 15.42,
-    "BAR": 7.87,
-    "StylePlus": "109",
-    "RatingScore": 4.32,
-    "AdjustedRating": "2.1116091394151291162331122808"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6305200_f3909_sm.jpeg",
+    "HallRating": 15.43,
+    "BAR": 6.97,
+    "StylePlus": "114",
+    "RatingScore": 4.49,
+    "AdjustedRating": "2.5818283100661278471711976488"
   },
   {
     "BID": 6504214,
@@ -162,22 +87,7 @@
     "BAR": 4.34,
     "StylePlus": "119",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0548009780723126400935581327"
-  },
-  {
-    "BID": 5407728,
-    "BeerName": "Saw-Whet’s Shrill",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Horus Aged Ales",
-    "Origin": "Oceanside, CA United States",
-    "BeerAbv": 13.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5407728_5fc7f_sm.jpeg",
-    "HallRating": 15.42,
-    "BAR": 6.98,
-    "StylePlus": "110",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0688280000775314002170879206"
+    "AdjustedRating": "2.0875725277777777777777777778"
   },
   {
     "BID": 3812733,
@@ -192,22 +102,37 @@
     "BAR": 8.87,
     "StylePlus": "110",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.4878292202850091553220285009"
+    "AdjustedRating": "4.2194855588235294117647058824"
   },
   {
-    "BID": 6214912,
-    "BeerName": "Dancing With Her Ghosts",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Wander Beyond Brewing",
-    "Origin": "Manchester, Greater Manchester England",
-    "BeerAbv": 18.20,
+    "BID": 4819082,
+    "BeerName": "Dreams 21",
+    "BeerStyle": "Freeze-Distilled Beer",
+    "BreweryName": "Bevog Brewery",
+    "Origin": "Bad Radkersburg, Steiermark Austria",
+    "BeerAbv": 19.70,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6237079_e379c_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4693621_8eb98_sm.jpeg",
     "HallRating": 15.42,
-    "BAR": 6.05,
-    "StylePlus": "112",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.0583707213484895671130488944"
+    "BAR": 7.87,
+    "StylePlus": "109",
+    "RatingScore": 4.32,
+    "AdjustedRating": "3.314183318068276436303080766"
+  },
+  {
+    "BID": 5407728,
+    "BeerName": "Saw-Whet’s Shrill",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Horus Aged Ales",
+    "Origin": "Oceanside, CA United States",
+    "BeerAbv": 13.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5407728_5fc7f_sm.jpeg",
+    "HallRating": 15.42,
+    "BAR": 6.98,
+    "StylePlus": "110",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.6100865618141916605705925384"
   },
   {
     "BID": 5619658,
@@ -222,7 +147,7 @@
     "BAR": 8.02,
     "StylePlus": "114",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.1295666066348925267976565002"
+    "AdjustedRating": "3.4558426627011896431070678796"
   },
   {
     "BID": 2828367,
@@ -237,7 +162,7 @@
     "BAR": 7.96,
     "StylePlus": "116",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.1219699449874283985859311492"
+    "AdjustedRating": "3.3977763211077844311377245509"
   },
   {
     "BID": 2609047,
@@ -252,52 +177,7 @@
     "BAR": 8.17,
     "StylePlus": "118",
     "RatingScore": 4.13,
-    "AdjustedRating": "2.1489795746818486269256530476"
-  },
-  {
-    "BID": 2605052,
-    "BeerName": "Monsters' Park Aged in Bourbon Barrels with Vanilla",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Modern Times Beer",
-    "Origin": "San Diego, CA United States",
-    "BeerAbv": 14.20,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1559212_b4e2a_sm.jpeg",
-    "HallRating": 15.40,
-    "BAR": 8.70,
-    "StylePlus": "109",
-    "RatingScore": 4.43,
-    "AdjustedRating": "2.3695214003347818000439612465"
-  },
-  {
-    "BID": 5209426,
-    "BeerName": "ET STAY HOME 1 - FROSTY WINTER EDITION",
-    "BeerStyle": "IPA - Sour",
-    "BreweryName": "Evil Twin Brewing NYC",
-    "Origin": "Ridgewood, NY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5209426_80b4a_sm.jpeg",
-    "HallRating": 15.40,
-    "BAR": 7.34,
-    "StylePlus": "115",
-    "RatingScore": 4.38,
-    "AdjustedRating": "2.0782754038201813621454755933"
-  },
-  {
-    "BID": 6034630,
-    "BeerName": "Pineapple Dragonfruit Soursop Imperial Seltzer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Untitled Art",
-    "Origin": "Waunakee, WI United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4690921_efdcb_sm.jpeg",
-    "HallRating": 15.40,
-    "BAR": 7.90,
-    "StylePlus": "117",
-    "RatingScore": 4.17,
-    "AdjustedRating": "2.1122168028062191884717481987"
+    "AdjustedRating": "3.5016657195571955719557195572"
   },
   {
     "BID": 6021187,
@@ -312,22 +192,37 @@
     "BAR": 6.81,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0656166391088340319826113957"
+    "AdjustedRating": "2.5096763852647735993860322333"
   },
   {
-    "BID": 3333777,
-    "BeerName": "Barrel-Aged Frogichlaus Swiss-Style Holiday Lager (2019)",
-    "BeerStyle": "Lager - Winter",
-    "BreweryName": "Hoppin' Frog Brewery",
-    "Origin": "Akron, OH United States",
-    "BeerAbv": 12.40,
-    "BeerIbu": 30.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333777_dedba_sm.jpeg",
-    "HallRating": 15.39,
+    "BID": 5209426,
+    "BeerName": "ET STAY HOME 1 - FROSTY WINTER EDITION",
+    "BeerStyle": "IPA - Sour",
+    "BreweryName": "Evil Twin Brewing NYC",
+    "Origin": "Ridgewood, NY United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5209426_80b4a_sm.jpeg",
+    "HallRating": 15.40,
     "BAR": 7.34,
-    "StylePlus": "125",
-    "RatingScore": 4.12,
-    "AdjustedRating": "2.0756454348664917425528630962"
+    "StylePlus": "115",
+    "RatingScore": 4.38,
+    "AdjustedRating": "2.8349086168224299065420560748"
+  },
+  {
+    "BID": 2605052,
+    "BeerName": "Monsters' Park Aged in Bourbon Barrels with Vanilla",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Modern Times Beer",
+    "Origin": "San Diego, CA United States",
+    "BeerAbv": 14.20,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1559212_b4e2a_sm.jpeg",
+    "HallRating": 15.40,
+    "BAR": 8.70,
+    "StylePlus": "109",
+    "RatingScore": 4.43,
+    "AdjustedRating": "4.1459540625700829782462435524"
   },
   {
     "BID": 3104910,
@@ -342,7 +237,37 @@
     "BAR": 7.56,
     "StylePlus": "112",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0902648957253139762645466068"
+    "AdjustedRating": "3.0727248945375878853434288805"
+  },
+  {
+    "BID": 3333777,
+    "BeerName": "Barrel-Aged Frogichlaus Swiss-Style Holiday Lager (2019)",
+    "BeerStyle": "Lager - Winter",
+    "BreweryName": "Hoppin' Frog Brewery",
+    "Origin": "Akron, OH United States",
+    "BeerAbv": 12.40,
+    "BeerIbu": 30.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333777_dedba_sm.jpeg",
+    "HallRating": 15.39,
+    "BAR": 7.34,
+    "StylePlus": "125",
+    "RatingScore": 4.12,
+    "AdjustedRating": "2.7491402177971375233354075918"
+  },
+  {
+    "BID": 3338674,
+    "BeerName": "Pour-Over Porter (Coconut Macaroon)",
+    "BeerStyle": "Porter - Coffee",
+    "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 6.70,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
+    "HallRating": 15.39,
+    "BAR": 7.36,
+    "StylePlus": "116",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.8671119963144963144963144963"
   },
   {
     "BID": 4940363,
@@ -357,7 +282,22 @@
     "BAR": 7.38,
     "StylePlus": "114",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0809701420777668536618279259"
+    "AdjustedRating": "2.8999868507281553398058252427"
+  },
+  {
+    "BID": 2602355,
+    "BeerName": "Barrel-Aged Imperial Smells Like Bean Spirit",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Mikerphone Brewing",
+    "Origin": "Elk Grove Village, IL United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2602355_58252_sm.jpeg",
+    "HallRating": 15.38,
+    "BAR": 8.35,
+    "StylePlus": "108",
+    "RatingScore": 4.49,
+    "AdjustedRating": "3.9402494348010160880609652837"
   },
   {
     "BID": 6302102,
@@ -372,6 +312,66 @@
     "BAR": 5.82,
     "StylePlus": "115",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0573503939093015557762330354"
+    "AdjustedRating": "2.2017299734982332155477031802"
+  },
+  {
+    "BID": 4214632,
+    "BeerName": "Marylan DDH W/ Mosaic & Galaxy",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "RaR Brewing",
+    "Origin": "Cambridge, MD United States",
+    "BeerAbv": 5.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1942462_cc7b2_sm.jpeg",
+    "HallRating": 15.38,
+    "BAR": 8.07,
+    "StylePlus": "121",
+    "RatingScore": 4.17,
+    "AdjustedRating": "3.4435925080489375402446877012"
+  },
+  {
+    "BID": 4010847,
+    "BeerName": "Pumpkinator Aged In Bourbon Barrels (2020)",
+    "BeerStyle": "Pumpkin / Yam Beer",
+    "BreweryName": "Saint Arnold Brewing Company",
+    "Origin": "Houston, TX United States",
+    "BeerAbv": 12.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4005283_102f0_sm.jpeg",
+    "HallRating": 15.38,
+    "BAR": 7.93,
+    "StylePlus": "118",
+    "RatingScore": 4.30,
+    "AdjustedRating": "3.3877441257142857142857142857"
+  },
+  {
+    "BID": 5220086,
+    "BeerName": "Ponzi Scheme",
+    "BeerStyle": "Other",
+    "BreweryName": "ill will brewing",
+    "Origin": "Columbiana, OH United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5220086_4a9ad_sm.jpeg",
+    "HallRating": 15.37,
+    "BAR": 5.83,
+    "StylePlus": "125",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.1930347131509267431597528685"
+  },
+  {
+    "BID": 3334258,
+    "BeerName": "Flora (Blueberry) (2014)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 15.37,
+    "BAR": 5.48,
+    "StylePlus": "123",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1536888658865886588658865887"
   }
 ]

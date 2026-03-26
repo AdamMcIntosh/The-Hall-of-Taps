@@ -1,20 +1,5 @@
 [
   {
-    "BID": 3903459,
-    "BeerName": "Settle Down",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Suarez Family Brewery",
-    "Origin": "Livingston, NY United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2274056_60ac9_sm.jpeg",
-    "HallRating": 16.17,
-    "BAR": 7.90,
-    "StylePlus": "123",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.0849983502499038831218762015"
-  },
-  {
     "BID": 3401449,
     "BeerName": "Imperial German Chocolate Coffee Cupcake Stout",
     "BeerStyle": "Stout - Imperial / Double Pastry",
@@ -27,7 +12,7 @@
     "BAR": 8.66,
     "StylePlus": "109",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1866546292777419057282538511"
+    "AdjustedRating": "3.8594543542713567839195979899"
   },
   {
     "BID": 4940902,
@@ -42,22 +27,7 @@
     "BAR": 5.26,
     "StylePlus": "133",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0554092945944892630266183405"
-  },
-  {
-    "BID": 2230233,
-    "BeerName": "Stronger Than Fiction",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Bottle Logic Brewing",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1685812_baf3c_sm.jpeg",
-    "HallRating": 16.16,
-    "BAR": 9.06,
-    "StylePlus": "113",
-    "RatingScore": 4.31,
-    "AdjustedRating": "2.3160643491297604687230742719"
+    "AdjustedRating": "2.1157441262580054894784995425"
   },
   {
     "BID": 5010443,
@@ -72,7 +42,7 @@
     "BAR": 8.14,
     "StylePlus": "115",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.1038345069831336335190414409"
+    "AdjustedRating": "3.2460851989026063100137174211"
   },
   {
     "BID": 3207428,
@@ -87,37 +57,7 @@
     "BAR": 7.94,
     "StylePlus": "116",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.090262540895476537900314876"
-  },
-  {
-    "BID": 5704355,
-    "BeerName": "BA 10X Bananaversary",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Other Half Brewing Co.",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 15.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5704355_05d95_sm.jpeg",
-    "HallRating": 16.14,
-    "BAR": 7.69,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.0800465788153579008296353463"
-  },
-  {
-    "BID": 3832016,
-    "BeerName": "War Beast (cinnamon)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Little Cottage Brewery",
-    "Origin": "Avondale Estates, GA United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-littlecottagebrewery_75836.jpeg",
-    "HallRating": 16.14,
-    "BAR": 6.67,
-    "StylePlus": "114",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0605292528199144301828082458"
+    "AdjustedRating": "3.0673740344271113501882732652"
   },
   {
     "BID": 5000999,
@@ -132,7 +72,7 @@
     "BAR": 7.24,
     "StylePlus": "115",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0672407047279214986619090098"
+    "AdjustedRating": "2.5595438702460850111856823266"
   },
   {
     "BID": 4206566,
@@ -147,22 +87,37 @@
     "BAR": 7.59,
     "StylePlus": "115",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0753394044444444444444444444"
+    "AdjustedRating": "2.7749693967213114754098360656"
   },
   {
-    "BID": 5004402,
-    "BeerName": "Of First And Last Things",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 6.50,
+    "BID": 5704355,
+    "BeerName": "BA 10X Bananaversary",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Other Half Brewing Co.",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 15.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1396876_edb28_sm.jpeg",
-    "HallRating": 16.12,
-    "BAR": 9.44,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5704355_05d95_sm.jpeg",
+    "HallRating": 16.14,
+    "BAR": 7.69,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "2.8921048785046728971962616822"
+  },
+  {
+    "BID": 3832016,
+    "BeerName": "War Beast (cinnamon)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Little Cottage Brewery",
+    "Origin": "Avondale Estates, GA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-littlecottagebrewery_75836.jpeg",
+    "HallRating": 16.14,
+    "BAR": 6.67,
     "StylePlus": "114",
-    "RatingScore": 4.24,
-    "AdjustedRating": "2.6084839083236321303841676368"
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.3309023682008368200836820084"
   },
   {
     "BID": 5029731,
@@ -177,7 +132,22 @@
     "BAR": 6.55,
     "StylePlus": "122",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0593970036768282006886757582"
+    "AdjustedRating": "2.285397563667232597623089983"
+  },
+  {
+    "BID": 5004402,
+    "BeerName": "Of First And Last Things",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1396876_edb28_sm.jpeg",
+    "HallRating": 16.12,
+    "BAR": 9.44,
+    "StylePlus": "114",
+    "RatingScore": 4.24,
+    "AdjustedRating": "4.1139782822384428223844282238"
   },
   {
     "BID": 5205724,
@@ -192,37 +162,7 @@
     "BAR": 7.71,
     "StylePlus": "119",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.0793850965191399093626458394"
-  },
-  {
-    "BID": 6405767,
-    "BeerName": "XI: BLANTON'S GLD",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "The Answer",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405767_549a8_sm.jpeg",
-    "HallRating": 16.10,
-    "BAR": 6.26,
-    "StylePlus": "113",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0581667512799050047692277744"
-  },
-  {
-    "BID": 2426886,
-    "BeerName": "Peach Turnover",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2426886_879b9_sm.jpeg",
-    "HallRating": 16.10,
-    "BAR": 7.21,
-    "StylePlus": "114",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.067060011249030256012412723"
+    "AdjustedRating": "2.8586063374233128834355828221"
   },
   {
     "BID": 3904430,
@@ -237,7 +177,37 @@
     "BAR": 8.67,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.1955035100796827378548085044"
+    "AdjustedRating": "3.8701505140297099740627210564"
+  },
+  {
+    "BID": 2426886,
+    "BeerName": "Peach Turnover",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2426886_879b9_sm.jpeg",
+    "HallRating": 16.10,
+    "BAR": 7.21,
+    "StylePlus": "114",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.554777775280898876404494382"
+  },
+  {
+    "BID": 6405767,
+    "BeerName": "XI: BLANTON'S GLD",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "The Answer",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405767_549a8_sm.jpeg",
+    "HallRating": 16.10,
+    "BAR": 6.26,
+    "StylePlus": "113",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.2365604973821989528795811518"
   },
   {
     "BID": 4027915,
@@ -252,37 +222,7 @@
     "BAR": 6.53,
     "StylePlus": "115",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0595676078751799540873895957"
-  },
-  {
-    "BID": 2013305,
-    "BeerName": "World Wide Stout (2013)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Dogfish Head Craft Brewery",
-    "Origin": "Milton, DE United States",
-    "BeerAbv": 18.00,
-    "BeerIbu": 70.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-997870_f287f_sm.jpeg",
-    "HallRating": 16.08,
-    "BAR": 8.94,
-    "StylePlus": "110",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.2967677128582697870102550618"
-  },
-  {
-    "BID": 27293,
-    "BeerName": "Special Herbs",
-    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
-    "BreweryName": "Upright Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_27293_sm_315dcb4e0b3fb63a829d711ebb9981.jpeg",
-    "HallRating": 16.08,
-    "BAR": 8.49,
-    "StylePlus": "119",
-    "RatingScore": 4.22,
-    "AdjustedRating": "2.144988123949344390899921551"
+    "AdjustedRating": "2.2930402124044180118946474087"
   },
   {
     "BID": 3900039,
@@ -297,7 +237,37 @@
     "BAR": 9.25,
     "StylePlus": "112",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.4719789927897241631782513887"
+    "AdjustedRating": "4.1374415434058086018092366291"
+  },
+  {
+    "BID": 2013305,
+    "BeerName": "World Wide Stout (2013)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Dogfish Head Craft Brewery",
+    "Origin": "Milton, DE United States",
+    "BeerAbv": 18.00,
+    "BeerIbu": 70.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-997870_f287f_sm.jpeg",
+    "HallRating": 16.08,
+    "BAR": 8.94,
+    "StylePlus": "110",
+    "RatingScore": 4.46,
+    "AdjustedRating": "4.0838897844574780058651026393"
+  },
+  {
+    "BID": 27293,
+    "BeerName": "Special Herbs",
+    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
+    "BreweryName": "Upright Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_27293_sm_315dcb4e0b3fb63a829d711ebb9981.jpeg",
+    "HallRating": 16.08,
+    "BAR": 8.49,
+    "StylePlus": "119",
+    "RatingScore": 4.22,
+    "AdjustedRating": "3.5229062269846060971928765469"
   },
   {
     "BID": 5408759,
@@ -312,22 +282,7 @@
     "BAR": 9.09,
     "StylePlus": "110",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.3762443541065492161528206686"
-  },
-  {
-    "BID": 1672504,
-    "BeerName": "Bourbon-soaked Oak Blueberry Pancake Marshal Zhukov's",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
-    "HallRating": 16.07,
-    "BAR": 6.25,
-    "StylePlus": "116",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0580879130248583831344532908"
+    "AdjustedRating": "4.1672435609918087226034978968"
   },
   {
     "BID": 6031526,
@@ -342,7 +297,22 @@
     "BAR": 8.09,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.1051882836419163962588280206"
+    "AdjustedRating": "3.290451884526558891454965358"
+  },
+  {
+    "BID": 1672504,
+    "BeerName": "Bourbon-soaked Oak Blueberry Pancake Marshal Zhukov's",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Cigar City Brewing®",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379_8867c.jpeg",
+    "HallRating": 16.07,
+    "BAR": 6.25,
+    "StylePlus": "115",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.2330264659685863874345549738"
   },
   {
     "BID": 1668078,
@@ -357,7 +327,7 @@
     "BAR": 5.91,
     "StylePlus": "114",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0568950683597553850348615277"
+    "AdjustedRating": "2.1822911061552185548617305977"
   },
   {
     "BID": 2011947,
@@ -372,6 +342,36 @@
     "BAR": 9.41,
     "StylePlus": "112",
     "RatingScore": 4.27,
-    "AdjustedRating": "2.6245692182297246431363465269"
+    "AdjustedRating": "4.1446500254655419385643800732"
+  },
+  {
+    "BID": 5422078,
+    "BeerName": "Plum Dubbel",
+    "BeerStyle": "Belgian Dubbel",
+    "BreweryName": "Craftwork Brewery",
+    "Origin": "Oamaru, Otago New Zealand",
+    "BeerAbv": 11.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5422078_3e279_sm.jpeg",
+    "HallRating": 16.05,
+    "BAR": 6.51,
+    "StylePlus": "122",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.2759119201359388275276125743"
+  },
+  {
+    "BID": 6212090,
+    "BeerName": "15th Anniversary Blonde Ale: Shaun Hill & Dan Suarez",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 4.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6205411_bddc9_sm.jpeg",
+    "HallRating": 16.05,
+    "BAR": 8.18,
+    "StylePlus": "122",
+    "RatingScore": 4.23,
+    "AdjustedRating": "3.2563862064624422996223248007"
   }
 ]

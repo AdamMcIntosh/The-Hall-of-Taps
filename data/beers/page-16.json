@@ -1,35 +1,5 @@
 [
   {
-    "BID": 3334154,
-    "BeerName": "Downslope Barrel Aged Elderberry Mead",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334154_29945_sm.jpeg",
-    "HallRating": 16.86,
-    "BAR": 6.24,
-    "StylePlus": "117",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0569968485627483056788969385"
-  },
-  {
-    "BID": 1672076,
-    "BeerName": "Kromer Juice: Dragonfruit",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "The Answer",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1672076_ba4bf_sm.jpeg",
-    "HallRating": 16.86,
-    "BAR": 6.45,
-    "StylePlus": "121",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0575969428760562283400179121"
-  },
-  {
     "BID": 436037,
     "BeerName": "Sixteen Barrel Aged Stout",
     "BeerStyle": "Stout - Imperial / Double",
@@ -42,7 +12,7 @@
     "BAR": 9.42,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.3235087987660098095287613304"
+    "AdjustedRating": "4.1339508067968959058067968959"
   },
   {
     "BID": 2020892,
@@ -57,37 +27,7 @@
     "BAR": 10.20,
     "StylePlus": "108",
     "RatingScore": 4.26,
-    "AdjustedRating": "3.0150358620613769654823340412"
-  },
-  {
-    "BID": 4612028,
-    "BeerName": "Black Gold Barrel Aged Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-475632_f4194_sm.jpeg",
-    "HallRating": 16.81,
-    "BAR": 9.67,
-    "StylePlus": "110",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.4986295088689681480068662979"
-  },
-  {
-    "BID": 6150873,
-    "BeerName": "Double Pear Vanilla (2025)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brewlihan",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 12.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
-    "HallRating": 16.81,
-    "BAR": 6.99,
-    "StylePlus": "115",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.0608014269046785672616964182"
+    "AdjustedRating": "4.2021469974911452184179456907"
   },
   {
     "BID": 5413531,
@@ -102,37 +42,37 @@
     "BAR": 8.79,
     "StylePlus": "124",
     "RatingScore": 4.12,
-    "AdjustedRating": "2.1298605322665464653294267899"
+    "AdjustedRating": "3.390297558794302749254720106"
   },
   {
-    "BID": 5409167,
-    "BeerName": "Augustus",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Horus Aged Ales",
-    "Origin": "Oceanside, CA United States",
-    "BeerAbv": 13.60,
+    "BID": 6150873,
+    "BeerName": "Double Pear Vanilla (2025)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brewlihan",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 12.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5409167_4d6e1_sm.jpeg",
-    "HallRating": 16.80,
-    "BAR": 7.48,
-    "StylePlus": "114",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.0667360062856477709230590152"
-  },
-  {
-    "BID": 5618221,
-    "BeerName": "KCSC Stoutified - Green Wax",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Marto Brewing Company",
-    "Origin": "Sioux City, IA United States",
-    "BeerAbv": 14.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5618221_8a896_sm.jpeg",
-    "HallRating": 16.80,
-    "BAR": 6.61,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
+    "HallRating": 16.81,
+    "BAR": 6.99,
     "StylePlus": "115",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.058522600724045311222702324"
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.3412059367194004995836802664"
+  },
+  {
+    "BID": 4612028,
+    "BeerName": "Black Gold Barrel Aged Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-475632_f4194_sm.jpeg",
+    "HallRating": 16.81,
+    "BAR": 9.67,
+    "StylePlus": "110",
+    "RatingScore": 4.46,
+    "AdjustedRating": "4.2578826199669056811913954771"
   },
   {
     "BID": 2015550,
@@ -147,7 +87,37 @@
     "BAR": 7.44,
     "StylePlus": "114",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0655284906465885275168827137"
+    "AdjustedRating": "2.5048418745218056618209640398"
+  },
+  {
+    "BID": 5409167,
+    "BeerName": "Augustus",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Horus Aged Ales",
+    "Origin": "Oceanside, CA United States",
+    "BeerAbv": 13.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5409167_4d6e1_sm.jpeg",
+    "HallRating": 16.80,
+    "BAR": 7.48,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.5473038077214231642694928085"
+  },
+  {
+    "BID": 5618221,
+    "BeerName": "KCSC Stoutified - Green Wax",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Marto Brewing Company",
+    "Origin": "Sioux City, IA United States",
+    "BeerAbv": 14.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5618221_8a896_sm.jpeg",
+    "HallRating": 16.80,
+    "BAR": 6.61,
+    "StylePlus": "115",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.251334197745013009540329575"
   },
   {
     "BID": 4413944,
@@ -162,7 +132,7 @@
     "BAR": 7.50,
     "StylePlus": "119",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.066563169042769857433808554"
+    "AdjustedRating": "2.5373521278195488721804511278"
   },
   {
     "BID": 6101052,
@@ -177,7 +147,7 @@
     "BAR": 6.62,
     "StylePlus": "126",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0583615060334760607240171273"
+    "AdjustedRating": "2.2438340519480519480519480519"
   },
   {
     "BID": 6027612,
@@ -192,22 +162,7 @@
     "BAR": 8.80,
     "StylePlus": "119",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.1382816274531877368756801381"
-  },
-  {
-    "BID": 5618048,
-    "BeerName": "Double Bourbon Barrel German Chocolate Cake",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "608 Brewing Company",
-    "Origin": "La Crosse, WI United States",
-    "BeerAbv": 14.10,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5618048_6422c_sm.jpeg",
-    "HallRating": 16.78,
-    "BAR": 7.56,
-    "StylePlus": "112",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0684255725309240373802784133"
+    "AdjustedRating": "3.5142038171168239505369345916"
   },
   {
     "BID": 4631292,
@@ -222,7 +177,22 @@
     "BAR": 8.33,
     "StylePlus": "115",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0956753104584554667892790773"
+    "AdjustedRating": "3.1546543255578093306288032454"
+  },
+  {
+    "BID": 5618048,
+    "BeerName": "Double Bourbon Barrel German Chocolate Cake",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "608 Brewing Company",
+    "Origin": "La Crosse, WI United States",
+    "BeerAbv": 14.10,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5618048_6422c_sm.jpeg",
+    "HallRating": 16.78,
+    "BAR": 7.56,
+    "StylePlus": "112",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.6003461419068736141906873614"
   },
   {
     "BID": 3338642,
@@ -237,52 +207,7 @@
     "BAR": 6.29,
     "StylePlus": "116",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.0572758004400911339162269001"
-  },
-  {
-    "BID": 3222179,
-    "BeerName": "Never Never Calm Calm",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "The Veil Brewing Co.",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 5.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2862232_dba85_sm.jpeg",
-    "HallRating": 16.77,
-    "BAR": 9.33,
-    "StylePlus": "114",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.2828990281285072951739618406"
-  },
-  {
-    "BID": 5209315,
-    "BeerName": "Off the Rack 2020 Maple Bourbon By Rackhouse",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "LERVIG",
-    "Origin": "Stavanger, Rogaland Norway",
-    "BeerAbv": 14.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5209315_0c4d4_sm.jpeg",
-    "HallRating": 16.77,
-    "BAR": 9.20,
-    "StylePlus": "111",
-    "RatingScore": 4.49,
-    "AdjustedRating": "2.2472290188123788324836648237"
-  },
-  {
-    "BID": 4702656,
-    "BeerName": "Aaron: Bourbon/Cognac",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4702656_7f8cb_sm.jpeg",
-    "HallRating": 16.77,
-    "BAR": 8.63,
-    "StylePlus": "114",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.1235567665101484398667070585"
+    "AdjustedRating": "2.1988460372340425531914893617"
   },
   {
     "BID": 3828331,
@@ -297,7 +222,52 @@
     "BAR": 8.68,
     "StylePlus": "114",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.1277727572855874742667195497"
+    "AdjustedRating": "3.4872146693607641440117560617"
+  },
+  {
+    "BID": 4702656,
+    "BeerName": "Aaron: Bourbon/Cognac",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4702656_7f8cb_sm.jpeg",
+    "HallRating": 16.77,
+    "BAR": 8.63,
+    "StylePlus": "114",
+    "RatingScore": 4.46,
+    "AdjustedRating": "3.4700070744886144345812427634"
+  },
+  {
+    "BID": 5209315,
+    "BeerName": "Off the Rack 2020 Maple Bourbon By Rackhouse",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "LERVIG",
+    "Origin": "Stavanger, Rogaland Norway",
+    "BeerAbv": 14.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5209315_0c4d4_sm.jpeg",
+    "HallRating": 16.77,
+    "BAR": 9.20,
+    "StylePlus": "111",
+    "RatingScore": 4.49,
+    "AdjustedRating": "4.0163502334488418748860113077"
+  },
+  {
+    "BID": 3222179,
+    "BeerName": "Never Never Calm Calm",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 5.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2862232_dba85_sm.jpeg",
+    "HallRating": 16.77,
+    "BAR": 9.33,
+    "StylePlus": "114",
+    "RatingScore": 4.33,
+    "AdjustedRating": "3.9730913854978673334313869687"
   },
   {
     "BID": 6004322,
@@ -312,7 +282,7 @@
     "BAR": 7.87,
     "StylePlus": "114",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0758060835282067139516456332"
+    "AdjustedRating": "2.7941029841897233201581027668"
   },
   {
     "BID": 6403888,
@@ -327,7 +297,7 @@
     "BAR": 6.65,
     "StylePlus": "120",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0586263074108671960143235248"
+    "AdjustedRating": "2.2549338481449525452976704055"
   },
   {
     "BID": 5450904,
@@ -342,22 +312,7 @@
     "BAR": 8.75,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1418602245036101083032490975"
-  },
-  {
-    "BID": 4501215,
-    "BeerName": "Ice Perry",
-    "BeerStyle": "Cider - Ice",
-    "BreweryName": "Andreev Ciderworks",
-    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5061877_4c47c_sm.jpeg",
-    "HallRating": 16.75,
-    "BAR": 7.57,
-    "StylePlus": "115",
-    "RatingScore": 4.48,
-    "AdjustedRating": "2.0680088816950006784655048753"
+    "AdjustedRating": "3.6315337377492396079756674552"
   },
   {
     "BID": 4101176,
@@ -372,6 +327,51 @@
     "BAR": 9.47,
     "StylePlus": "110",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.380379665767284991568296796"
+    "AdjustedRating": "4.1861739206611570247933884298"
+  },
+  {
+    "BID": 4501215,
+    "BeerName": "Ice Perry",
+    "BeerStyle": "Cider - Ice",
+    "BreweryName": "Andreev Ciderworks",
+    "Origin": "Saint Petersburg, Санкт-Петербург Russia",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5061877_4c47c_sm.jpeg",
+    "HallRating": 16.75,
+    "BAR": 7.57,
+    "StylePlus": "115",
+    "RatingScore": 4.48,
+    "AdjustedRating": "2.5810487004405286343612334802"
+  },
+  {
+    "BID": 3650567,
+    "BeerName": "Navy Seal Ballerina (N.S.B.)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Manic Meadery",
+    "Origin": "Crown Point, IN United States",
+    "BeerAbv": 16.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3650567_a6937_sm.jpeg",
+    "HallRating": 16.74,
+    "BAR": 7.58,
+    "StylePlus": "114",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.6099476861313868613138686131"
+  },
+  {
+    "BID": 4020606,
+    "BeerName": "Hedonistic",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Lua Brewing",
+    "Origin": "Des Moines, IA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-64726_8e04d.jpeg",
+    "HallRating": 16.73,
+    "BAR": 7.85,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.8013529260237780713342140026"
   }
 ]

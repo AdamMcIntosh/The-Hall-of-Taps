@@ -1,65 +1,5 @@
 [
   {
-    "BID": 6200079,
-    "BeerName": "Bertha (2025)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Structures Brewing",
-    "Origin": "Bellingham, WA United States",
-    "BeerAbv": 14.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238401_3cc72.jpeg",
-    "HallRating": 18.32,
-    "BAR": 7.51,
-    "StylePlus": "119",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0602496339376021162374542908"
-  },
-  {
-    "BID": 5820451,
-    "BeerName": "Five Year Anniversary Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Phase Three Brewing",
-    "Origin": "Lake Zurich, IL United States",
-    "BeerAbv": 19.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5820451_8d583_sm.jpeg",
-    "HallRating": 18.31,
-    "BAR": 8.99,
-    "StylePlus": "114",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.0924748752712538167572446373"
-  },
-  {
-    "BID": 2610701,
-    "BeerName": "Blackberry Cobbler J.R.E.A.M.",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Burley Oak Brewing Company",
-    "Origin": "Berlin, MD United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 6.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2610701_60761_sm.jpeg",
-    "HallRating": 18.31,
-    "BAR": 9.99,
-    "StylePlus": "115",
-    "RatingScore": 4.43,
-    "AdjustedRating": "2.2264108744710860366713681241"
-  },
-  {
-    "BID": 6500531,
-    "BeerName": "Indulgence 28",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Moersleutel Craft Brewery",
-    "Origin": "Alkmaar, Noord-Holland Netherlands",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6497871_70384_sm.jpeg",
-    "HallRating": 18.30,
-    "BAR": 9.42,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.1268845583473765928843277223"
-  },
-  {
     "BID": 3350350,
     "BeerName": "Biere de Mars (2018)",
     "BeerStyle": "Farmhouse Ale - Bière de Mars",
@@ -70,9 +10,24 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-379455_c1ae5.jpeg",
     "HallRating": 18.29,
     "BAR": 8.20,
-    "StylePlus": "124",
+    "StylePlus": "125",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.0668862203518026491864321316"
+    "AdjustedRating": "2.5469867937219730941704035874"
+  },
+  {
+    "BID": 4424478,
+    "BeerName": "PLOP - Pain Killer",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Drekker Brewing Company",
+    "Origin": "Fargo, ND United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4424478_744cc_sm.jpeg",
+    "HallRating": 18.29,
+    "BAR": 10.02,
+    "StylePlus": "119",
+    "RatingScore": 4.26,
+    "AdjustedRating": "3.8202782445316881660123387549"
   },
   {
     "BID": 6023049,
@@ -87,37 +42,7 @@
     "BAR": 9.10,
     "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.1001017360007657700775342204"
-  },
-  {
-    "BID": 5819066,
-    "BeerName": "Dessert Station: Watermelon Strawberry Swirl",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5819066_6da39_sm.jpeg",
-    "HallRating": 18.27,
-    "BAR": 8.44,
-    "StylePlus": "132",
-    "RatingScore": 4.38,
-    "AdjustedRating": "2.0709691901830991367630550072"
-  },
-  {
-    "BID": 4020493,
-    "BeerName": "Thrills - Gobstopper",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Dewey Beer Company",
-    "Origin": "Dewey Beach, DE United States",
-    "BeerAbv": 5.25,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4020493_a561f_sm.jpeg",
-    "HallRating": 18.26,
-    "BAR": 9.06,
-    "StylePlus": "124",
-    "RatingScore": 4.35,
-    "AdjustedRating": "2.093635067637478444146388197"
+    "AdjustedRating": "3.2496658358208955223880597015"
   },
   {
     "BID": 6216720,
@@ -132,7 +57,22 @@
     "BAR": 7.34,
     "StylePlus": "117",
     "RatingScore": 4.72,
-    "AdjustedRating": "2.0594367860061485776549791804"
+    "AdjustedRating": "2.2888865098374679213002566296"
+  },
+  {
+    "BID": 4020493,
+    "BeerName": "Thrills - Gobstopper",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Dewey Beer Company",
+    "Origin": "Dewey Beach, DE United States",
+    "BeerAbv": 5.25,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4020493_a561f_sm.jpeg",
+    "HallRating": 18.26,
+    "BAR": 9.06,
+    "StylePlus": "124",
+    "RatingScore": 4.35,
+    "AdjustedRating": "3.1042383358778625954198473282"
   },
   {
     "BID": 6417141,
@@ -147,7 +87,7 @@
     "BAR": 7.93,
     "StylePlus": "124",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0638727215878194671016856987"
+    "AdjustedRating": "2.4514193606945540647198105762"
   },
   {
     "BID": 4404637,
@@ -162,7 +102,7 @@
     "BAR": 9.01,
     "StylePlus": "112",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.096181734461001476708282991"
+    "AdjustedRating": "3.1982368769551616266944734098"
   },
   {
     "BID": 6004995,
@@ -177,22 +117,22 @@
     "BAR": 8.76,
     "StylePlus": "114",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0835653281168693507044153642"
+    "AdjustedRating": "2.9741085018050541516245487365"
   },
   {
-    "BID": 6300931,
-    "BeerName": "Assassin (2025)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 14.40,
+    "BID": 5819066,
+    "BeerName": "Dessert Station: Watermelon Strawberry Swirl",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6300931_e4eb2_sm.jpeg",
-    "HallRating": 18.21,
-    "BAR": 9.47,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.1387036359183058256085613083"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5819066_6da39_sm.jpeg",
+    "HallRating": 18.22,
+    "BAR": 8.42,
+    "StylePlus": "132",
+    "RatingScore": 4.38,
+    "AdjustedRating": "2.6590619916724496877168632894"
   },
   {
     "BID": 5004220,
@@ -207,7 +147,22 @@
     "BAR": 8.81,
     "StylePlus": "117",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0848389205945779420825631547"
+    "AdjustedRating": "2.9872637814143775569842197545"
+  },
+  {
+    "BID": 6300931,
+    "BeerName": "Assassin (2025)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 14.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6300931_e4eb2_sm.jpeg",
+    "HallRating": 18.21,
+    "BAR": 9.47,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "3.6291996948439144159943879341"
   },
   {
     "BID": 4003451,
@@ -222,7 +177,7 @@
     "BAR": 9.63,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.163651122825317587452967254"
+    "AdjustedRating": "3.7534782808436867957237792546"
   },
   {
     "BID": 3345295,
@@ -237,7 +192,7 @@
     "BAR": 9.43,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1362733941874280972408200215"
+    "AdjustedRating": "3.6113789599714081486776268763"
   },
   {
     "BID": 3346915,
@@ -252,7 +207,7 @@
     "BAR": 9.56,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1561213095683399416473404653"
+    "AdjustedRating": "3.7362036170212765957446808511"
   },
   {
     "BID": 2012147,
@@ -267,22 +222,7 @@
     "BAR": 9.40,
     "StylePlus": "112",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1339302684437061088877142641"
-  },
-  {
-    "BID": 4304995,
-    "BeerName": "TDH More Citra Than All Citra Imperial IPA",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Other Half Brewing Co.",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4303315_215d2_sm.jpeg",
-    "HallRating": 18.13,
-    "BAR": 9.54,
-    "StylePlus": "113",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1548617922904191616766467066"
+    "AdjustedRating": "3.5935814816163087004004368402"
   },
   {
     "BID": 4705483,
@@ -297,7 +237,22 @@
     "BAR": 10.80,
     "StylePlus": "116",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.8285609170653907496012759171"
+    "AdjustedRating": "4.2418329517131126694037713912"
+  },
+  {
+    "BID": 4304995,
+    "BeerName": "TDH More Citra Than All Citra Imperial IPA",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Other Half Brewing Co.",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4303315_215d2_sm.jpeg",
+    "HallRating": 18.13,
+    "BAR": 9.54,
+    "StylePlus": "113",
+    "RatingScore": 4.56,
+    "AdjustedRating": "3.7290290295489891135303265941"
   },
   {
     "BID": 2008118,
@@ -312,7 +267,7 @@
     "BAR": 10.76,
     "StylePlus": "111",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.8193647836739018156295109322"
+    "AdjustedRating": "4.3393999972316696986474729099"
   },
   {
     "BID": 5030113,
@@ -327,7 +282,7 @@
     "BAR": 8.55,
     "StylePlus": "122",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0765344262865090403337969402"
+    "AdjustedRating": "2.8069010563836681788723266364"
   },
   {
     "BID": 6412084,
@@ -342,7 +297,7 @@
     "BAR": 9.22,
     "StylePlus": "115",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1143131560627674750356633381"
+    "AdjustedRating": "3.4012886510638297872340425532"
   },
   {
     "BID": 3890833,
@@ -357,7 +312,7 @@
     "BAR": 9.49,
     "StylePlus": "116",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.1464906451370916319717940062"
+    "AdjustedRating": "3.6448783758475944462382951243"
   },
   {
     "BID": 3202360,
@@ -372,6 +327,51 @@
     "BAR": 10.87,
     "StylePlus": "111",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.9733205931291687585168184752"
+    "AdjustedRating": "4.3542328935482906110728920528"
+  },
+  {
+    "BID": 6305321,
+    "BeerName": "Heavier Cohesion Vanilla",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brewlihan",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
+    "HallRating": 18.09,
+    "BAR": 7.47,
+    "StylePlus": "117",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.3343872110552763819095477387"
+  },
+  {
+    "BID": 2427593,
+    "BeerName": "Much Appreciated",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Sante Adairius Rustic Ales",
+    "Origin": "Capitola, CA United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
+    "HallRating": 18.09,
+    "BAR": 8.94,
+    "StylePlus": "121",
+    "RatingScore": 4.45,
+    "AdjustedRating": "3.1167945354906054279749478079"
+  },
+  {
+    "BID": 1800104,
+    "BeerName": "Chocolate Rain",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "The Bruery",
+    "Origin": "Placentia, CA United States",
+    "BeerAbv": 19.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-brueryChocolateRain.jpg",
+    "HallRating": 18.08,
+    "BAR": 10.51,
+    "StylePlus": "111",
+    "RatingScore": 4.49,
+    "AdjustedRating": "4.3240561233226837060702875399"
   }
 ]

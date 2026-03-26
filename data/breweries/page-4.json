@@ -28,6 +28,10 @@
     "Location": "United States"
   },
   {
+    "BreweryName": "(CASK) Pale Ale",
+    "Location": null
+  },
+  {
     "BreweryName": "(closed)Clearwater Brewing Company",
     "Location": "Clearwater, FL United States"
   },
@@ -94,9 +98,5 @@
   {
     "BreweryName": "*",
     "Location": "Mexico"
-  },
-  {
-    "BreweryName": "*_Tales Somebrew",
-    "Location": "Russia"
   }
 ]

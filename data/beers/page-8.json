@@ -1,35 +1,5 @@
 [
   {
-    "BID": 2411728,
-    "BeerName": "Double DBA (2012)",
-    "BeerStyle": "Bitter - Extra Special / Strong (ESB)",
-    "BreweryName": "Firestone Walker Brewing Company",
-    "Origin": "Paso Robles, CA United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 29.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-293542_637ed_sm.jpeg",
-    "HallRating": 18.55,
-    "BAR": 10.13,
-    "StylePlus": "122",
-    "RatingScore": 4.36,
-    "AdjustedRating": "2.2228397423248586039283713702"
-  },
-  {
-    "BID": 6274453,
-    "BeerName": "Minutiae Reserve (2025)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Phase Three Brewing",
-    "Origin": "Lake Zurich, IL United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6274453_05b9e_sm.jpeg",
-    "HallRating": 18.55,
-    "BAR": 8.79,
-    "StylePlus": "115",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.0792550280915146249637995946"
-  },
-  {
     "BID": 3213139,
     "BeerName": "Ikigai Sour IPA",
     "BeerStyle": "IPA - Sour",
@@ -42,37 +12,7 @@
     "BAR": 10.03,
     "StylePlus": "116",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.202306222335934501727005245"
-  },
-  {
-    "BID": 6417142,
-    "BeerName": "The External Soul (2024 Harvest Blend)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Floodland Brewing",
-    "Origin": "Seattle, WA United States",
-    "BeerAbv": 7.19,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6417142_1c79b_sm.jpeg",
-    "HallRating": 18.54,
-    "BAR": 7.80,
-    "StylePlus": "125",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.0615154094982601426877393519"
-  },
-  {
-    "BID": 3029277,
-    "BeerName": "Side Streets",
-    "BeerStyle": "Mead - Cyser",
-    "BreweryName": "Standard Meadery",
-    "Origin": "Villa Park, IL United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3029277_4a3fc_sm.jpeg",
-    "HallRating": 18.52,
-    "BAR": 8.89,
-    "StylePlus": "119",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0826065301952620520827309701"
+    "AdjustedRating": "3.8587023431241655540720961282"
   },
   {
     "BID": 5302409,
@@ -87,7 +27,7 @@
     "BAR": 9.97,
     "StylePlus": "117",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.1925936694955729453690436827"
+    "AdjustedRating": "3.8436810657488725373842867315"
   },
   {
     "BID": 5224308,
@@ -102,7 +42,7 @@
     "BAR": 8.05,
     "StylePlus": "146",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0631025183027478395960772891"
+    "AdjustedRating": "2.4192742755905511811023622047"
   },
   {
     "BID": 1903980,
@@ -117,22 +57,7 @@
     "BAR": 9.77,
     "StylePlus": "120",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.1549456784547914528319492395"
-  },
-  {
-    "BID": 6221979,
-    "BeerName": "Barcode: Turquoise Orange",
-    "BeerStyle": "Freeze-Distilled Beer",
-    "BreweryName": "Moersleutel Craft Brewery",
-    "Origin": "Alkmaar, Noord-Holland Netherlands",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6221979_03a0f_sm.jpeg",
-    "HallRating": 18.46,
-    "BAR": 10.14,
-    "StylePlus": "111",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.2438443409880700748755060366"
+    "AdjustedRating": "3.6624340267857142857142857143"
   },
   {
     "BID": 2700454,
@@ -147,7 +72,22 @@
     "BAR": 8.64,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0755372485258579023682938618"
+    "AdjustedRating": "2.79345222"
+  },
+  {
+    "BID": 6221979,
+    "BeerName": "Barcode: Turquoise Orange",
+    "BeerStyle": "Freeze-Distilled Beer",
+    "BreweryName": "Moersleutel Craft Brewery",
+    "Origin": "Alkmaar, Noord-Holland Netherlands",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6221979_03a0f_sm.jpeg",
+    "HallRating": 18.46,
+    "BAR": 10.14,
+    "StylePlus": "111",
+    "RatingScore": 4.39,
+    "AdjustedRating": "3.9453433904659882163899303696"
   },
   {
     "BID": 1301192,
@@ -162,7 +102,7 @@
     "BAR": 9.62,
     "StylePlus": "120",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.1363667773198592370951655093"
+    "AdjustedRating": "3.5543611290322580645161290323"
   },
   {
     "BID": 4201951,
@@ -177,7 +117,7 @@
     "BAR": 9.11,
     "StylePlus": "118",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0936157465907129293975487658"
+    "AdjustedRating": "3.1317250679916317991631799163"
   },
   {
     "BID": 3341144,
@@ -192,7 +132,22 @@
     "BAR": 9.81,
     "StylePlus": "116",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.1718139421596453150796742538"
+    "AdjustedRating": "3.777563370450841933731667572"
+  },
+  {
+    "BID": 1623450,
+    "BeerName": "Palatine Pils",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Suarez Family Brewery",
+    "Origin": "Livingston, NY United States",
+    "BeerAbv": 4.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1623450_47e89_sm.jpeg",
+    "HallRating": 18.42,
+    "BAR": 10.58,
+    "StylePlus": "122",
+    "RatingScore": 4.17,
+    "AdjustedRating": "3.9846688294726466239526860522"
   },
   {
     "BID": 1802713,
@@ -207,7 +162,7 @@
     "BAR": 10.13,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.2572488643955769127708605013"
+    "AdjustedRating": "4.0305089207507820646506777894"
   },
   {
     "BID": 4204034,
@@ -222,52 +177,7 @@
     "BAR": 10.65,
     "StylePlus": "114",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.5406143901608910891089108911"
-  },
-  {
-    "BID": 2422488,
-    "BeerName": "Strawberry Pancake",
-    "BeerStyle": "Mead - Acerglyn / Maple Wine",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2422488_ba7d1_sm.jpeg",
-    "HallRating": 18.39,
-    "BAR": 9.02,
-    "StylePlus": "113",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0926346417457451304314418533"
-  },
-  {
-    "BID": 3032239,
-    "BeerName": "Single Shot Vanilla Bean",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 6.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1521875_a5fb6_sm.jpeg",
-    "HallRating": 18.39,
-    "BAR": 10.66,
-    "StylePlus": "115",
-    "RatingScore": 4.38,
-    "AdjustedRating": "2.5428030211750211750211750212"
-  },
-  {
-    "BID": 4618855,
-    "BeerName": "Mansueto 2019 Riserva Château Margaux",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "CRAK Brewery",
-    "Origin": "Campodarsego, Veneto Italy",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4618855_aee36_sm.jpeg",
-    "HallRating": 18.39,
-    "BAR": 7.58,
-    "StylePlus": "119",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0605034167687729739191318047"
+    "AdjustedRating": "4.2357494505723204994797086368"
   },
   {
     "BID": 2825552,
@@ -282,22 +192,52 @@
     "BAR": 9.37,
     "StylePlus": "118",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.1143480791755400060845756009"
+    "AdjustedRating": "3.3928214321926489226869455006"
   },
   {
-    "BID": 4424478,
-    "BeerName": "PLOP - Pain Killer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Drekker Brewing Company",
-    "Origin": "Fargo, ND United States",
-    "BeerAbv": 6.00,
+    "BID": 4618855,
+    "BeerName": "Mansueto 2019 Riserva Château Margaux",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "CRAK Brewery",
+    "Origin": "Campodarsego, Veneto Italy",
+    "BeerAbv": 13.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4424478_744cc_sm.jpeg",
-    "HallRating": 18.37,
-    "BAR": 10.06,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4618855_aee36_sm.jpeg",
+    "HallRating": 18.39,
+    "BAR": 7.58,
     "StylePlus": "119",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.2240913769028682477417497391"
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.3304683976510067114093959732"
+  },
+  {
+    "BID": 2422488,
+    "BeerName": "Strawberry Pancake",
+    "BeerStyle": "Mead - Acerglyn / Maple Wine",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2422488_ba7d1_sm.jpeg",
+    "HallRating": 18.39,
+    "BAR": 9.02,
+    "StylePlus": "113",
+    "RatingScore": 4.67,
+    "AdjustedRating": "3.1486024713584288052373158756"
+  },
+  {
+    "BID": 3032239,
+    "BeerName": "Single Shot Vanilla Bean",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1521875_a5fb6_sm.jpeg",
+    "HallRating": 18.39,
+    "BAR": 10.66,
+    "StylePlus": "115",
+    "RatingScore": 4.38,
+    "AdjustedRating": "4.2114159299796057104010876954"
   },
   {
     "BID": 2001793,
@@ -312,7 +252,7 @@
     "BAR": 10.07,
     "StylePlus": "114",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.247027703714342135971132614"
+    "AdjustedRating": "4.0159179134720700985761226725"
   },
   {
     "BID": 6219574,
@@ -327,7 +267,7 @@
     "BAR": 7.74,
     "StylePlus": "120",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0618031719311886480707551754"
+    "AdjustedRating": "2.3790805983606557377049180328"
   },
   {
     "BID": 6402730,
@@ -342,7 +282,22 @@
     "BAR": 7.38,
     "StylePlus": "129",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0591616729253818464831209262"
+    "AdjustedRating": "2.2766054102564102564102564103"
+  },
+  {
+    "BID": 3029277,
+    "BeerName": "Side Streets",
+    "BeerStyle": "Mead - Cyser",
+    "BreweryName": "Standard Meadery",
+    "Origin": "Villa Park, IL United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3029277_4a3fc_sm.jpeg",
+    "HallRating": 18.33,
+    "BAR": 8.80,
+    "StylePlus": "119",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.9483424002418379685610640871"
   },
   {
     "BID": 2803485,
@@ -357,21 +312,66 @@
     "BAR": 9.61,
     "StylePlus": "120",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.1429727623728940752692206671"
+    "AdjustedRating": "3.5936783652908677283067923302"
   },
   {
-    "BID": 1623450,
-    "BeerName": "Palatine Pils",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Suarez Family Brewery",
-    "Origin": "Livingston, NY United States",
-    "BeerAbv": 4.90,
+    "BID": 6200079,
+    "BeerName": "Bertha (2025)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Structures Brewing",
+    "Origin": "Bellingham, WA United States",
+    "BeerAbv": 14.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1623450_47e89_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238401_3cc72.jpeg",
     "HallRating": 18.32,
-    "BAR": 10.52,
-    "StylePlus": "122",
-    "RatingScore": 4.17,
-    "AdjustedRating": "2.4307495982307408772576483597"
+    "BAR": 7.51,
+    "StylePlus": "119",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.3206135888795282224094355518"
+  },
+  {
+    "BID": 5820451,
+    "BeerName": "Five Year Anniversary Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Phase Three Brewing",
+    "Origin": "Lake Zurich, IL United States",
+    "BeerAbv": 19.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5820451_8d583_sm.jpeg",
+    "HallRating": 18.31,
+    "BAR": 8.99,
+    "StylePlus": "114",
+    "RatingScore": 4.61,
+    "AdjustedRating": "3.1355293993506493506493506494"
+  },
+  {
+    "BID": 2610701,
+    "BeerName": "Blackberry Cobbler J.R.E.A.M.",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Burley Oak Brewing Company",
+    "Origin": "Berlin, MD United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 6.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2610701_60761_sm.jpeg",
+    "HallRating": 18.31,
+    "BAR": 9.99,
+    "StylePlus": "115",
+    "RatingScore": 4.43,
+    "AdjustedRating": "3.931059351979515461886941107"
+  },
+  {
+    "BID": 6500531,
+    "BeerName": "Indulgence 28",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Moersleutel Craft Brewery",
+    "Origin": "Alkmaar, Noord-Holland Netherlands",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6497871_70384_sm.jpeg",
+    "HallRating": 18.30,
+    "BAR": 9.42,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "3.5394777163833075734157650696"
   }
 ]

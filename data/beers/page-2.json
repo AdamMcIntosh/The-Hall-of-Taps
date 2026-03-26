@@ -1,20 +1,5 @@
 [
   {
-    "BID": 5606393,
-    "BeerName": "Vinyl Combat",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Willow Park Brewing",
-    "Origin": "Bethlehem, PA United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-355154_40975.jpeg",
-    "HallRating": 21.08,
-    "BAR": 6.81,
-    "StylePlus": "123",
-    "RatingScore": 4.95,
-    "AdjustedRating": "2.0555656834966970009938227098"
-  },
-  {
     "BID": 4016650,
     "BeerName": "PARAGON 2019",
     "BeerStyle": "Barleywine - English",
@@ -27,7 +12,7 @@
     "BAR": 12.01,
     "StylePlus": "116",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.4515730635024549918166939444"
+    "AdjustedRating": "4.2872761682758620689655172414"
   },
   {
     "BID": 4802065,
@@ -42,7 +27,7 @@
     "BAR": 9.66,
     "StylePlus": "116",
     "RatingScore": 4.75,
-    "AdjustedRating": "2.0725736117726788653306225191"
+    "AdjustedRating": "2.7261115"
   },
   {
     "BID": 3019096,
@@ -57,7 +42,7 @@
     "BAR": 12.43,
     "StylePlus": "117",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.7700247568231441048034934498"
+    "AdjustedRating": "4.3296650761223162003903708523"
   },
   {
     "BID": 5601746,
@@ -72,22 +57,7 @@
     "BAR": 10.34,
     "StylePlus": "116",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.0961283635526391527082254072"
-  },
-  {
-    "BID": 5207626,
-    "BeerName": "SMOOTHIE: R & R",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "LULZ Hard Seltzer",
-    "Origin": "Lake Zurich, IL United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4267864_23672_sm.jpeg",
-    "HallRating": 20.95,
-    "BAR": 11.28,
-    "StylePlus": "123",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.1904028981833544571187156738"
+    "AdjustedRating": "3.2107330147835269271383315734"
   },
   {
     "BID": 3750080,
@@ -102,7 +72,7 @@
     "BAR": 10.79,
     "StylePlus": "120",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1274286721811057901610796691"
+    "AdjustedRating": "3.5407514696853415195702225633"
   },
   {
     "BID": 1400059,
@@ -117,7 +87,7 @@
     "BAR": 11.65,
     "StylePlus": "114",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.3079047466956491252673281212"
+    "AdjustedRating": "4.1767700234569711186043102184"
   },
   {
     "BID": 5800667,
@@ -132,7 +102,22 @@
     "BAR": 10.96,
     "StylePlus": "121",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1484310869891263592050993626"
+    "AdjustedRating": "3.6694472969502407704654895666"
+  },
+  {
+    "BID": 5207626,
+    "BeerName": "SMOOTHIE: R & R",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "LULZ Hard Seltzer",
+    "Origin": "Lake Zurich, IL United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4267864_23672_sm.jpeg",
+    "HallRating": 20.88,
+    "BAR": 11.24,
+    "StylePlus": "123",
+    "RatingScore": 4.41,
+    "AdjustedRating": "3.8142168714421252371916508539"
   },
   {
     "BID": 3345456,
@@ -147,7 +132,7 @@
     "BAR": 8.94,
     "StylePlus": "118",
     "RatingScore": 4.79,
-    "AdjustedRating": "2.0633982469980181090428632495"
+    "AdjustedRating": "2.439861668009669621273166801"
   },
   {
     "BID": 2503502,
@@ -162,7 +147,7 @@
     "BAR": 11.56,
     "StylePlus": "114",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.2941007791887125220458553792"
+    "AdjustedRating": "4.155757271042471042471042471"
   },
   {
     "BID": 1809221,
@@ -177,7 +162,7 @@
     "BAR": 11.56,
     "StylePlus": "114",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.2940204977247874704575117288"
+    "AdjustedRating": "4.1556292800865132087131160204"
   },
   {
     "BID": 5613482,
@@ -192,7 +177,7 @@
     "BAR": 9.56,
     "StylePlus": "118",
     "RatingScore": 4.72,
-    "AdjustedRating": "2.0720597645190650477352388698"
+    "AdjustedRating": "2.710119045261669024045261669"
   },
   {
     "BID": 4018394,
@@ -207,7 +192,7 @@
     "BAR": 12.26,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.7423278396317761468404877843"
+    "AdjustedRating": "4.3855313904734740444951511694"
   },
   {
     "BID": 3808302,
@@ -222,7 +207,7 @@
     "BAR": 10.45,
     "StylePlus": "128",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.1032089965807720960440106206"
+    "AdjustedRating": "3.263456411100658513640639699"
   },
   {
     "BID": 6202456,
@@ -237,22 +222,7 @@
     "BAR": 8.84,
     "StylePlus": "119",
     "RatingScore": 4.77,
-    "AdjustedRating": "2.0628038358986318407960199005"
-  },
-  {
-    "BID": 2413345,
-    "BeerName": "Barrel Aged Rocky Road",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2413345_860e7_sm.jpeg",
-    "HallRating": 20.79,
-    "BAR": 11.29,
-    "StylePlus": "114",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.2258350319352197252297334183"
+    "AdjustedRating": "2.4180733793663688058489033306"
   },
   {
     "BID": 41360,
@@ -267,7 +237,22 @@
     "BAR": 11.64,
     "StylePlus": "121",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.325001109804599688742867024"
+    "AdjustedRating": "4.1141128639053254437869822485"
+  },
+  {
+    "BID": 2413345,
+    "BeerName": "Barrel Aged Rocky Road",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2413345_860e7_sm.jpeg",
+    "HallRating": 20.79,
+    "BAR": 11.29,
+    "StylePlus": "114",
+    "RatingScore": 4.63,
+    "AdjustedRating": "4.0494245940803382663847780127"
   },
   {
     "BID": 5902466,
@@ -282,7 +267,7 @@
     "BAR": 11.08,
     "StylePlus": "117",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.1830714358661264361436421158"
+    "AdjustedRating": "3.8761652718243596445373758495"
   },
   {
     "BID": 3415739,
@@ -295,9 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
     "HallRating": 20.65,
     "BAR": 10.44,
-    "StylePlus": "124",
+    "StylePlus": "123",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.1097086195196340068623713305"
+    "AdjustedRating": "3.3594310201342281879194630872"
   },
   {
     "BID": 4013983,
@@ -312,7 +297,7 @@
     "BAR": 10.02,
     "StylePlus": "117",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0881213881886581869263186253"
+    "AdjustedRating": "3.0691264810562571756601607348"
   },
   {
     "BID": 4961221,
@@ -327,7 +312,7 @@
     "BAR": 12.27,
     "StylePlus": "116",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.866292077452137761125083406"
+    "AdjustedRating": "4.3385746681344064676796477424"
   },
   {
     "BID": 3607397,
@@ -342,7 +327,7 @@
     "BAR": 12.61,
     "StylePlus": "120",
     "RatingScore": 4.21,
-    "AdjustedRating": "3.1963592246839794300171416524"
+    "AdjustedRating": "4.1709482269901131383141371929"
   },
   {
     "BID": 4030434,
@@ -357,7 +342,7 @@
     "BAR": 10.60,
     "StylePlus": "116",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.1298769049421024748353893892"
+    "AdjustedRating": "3.5787089189189189189189189189"
   },
   {
     "BID": 4014656,
@@ -372,6 +357,21 @@
     "BAR": 9.12,
     "StylePlus": "124",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.0667261861150995382048197447"
+    "AdjustedRating": "2.5498464051789794364051789794"
+  },
+  {
+    "BID": 2809887,
+    "BeerName": "Moment of Clarity - Extra Maple",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2809887_b0f58_sm.jpeg",
+    "HallRating": 20.47,
+    "BAR": 10.86,
+    "StylePlus": "119",
+    "RatingScore": 4.54,
+    "AdjustedRating": "3.7885762205840657782818259144"
   }
 ]
