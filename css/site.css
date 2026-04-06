@@ -664,6 +664,15 @@ ul.preview-list a {
   color: var(--text-muted-light);
 }
 
+.beer-stat-desc strong {
+  color: var(--text);
+  font-weight: 700;
+}
+
+.beer-stat-desc a {
+  color: var(--accent);
+}
+
 .beer-section {
   margin-bottom: 1.5rem;
 }

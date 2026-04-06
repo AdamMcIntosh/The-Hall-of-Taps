@@ -565,32 +565,74 @@
     var labelImg = labelUrl
       ? '<img class="beer-label-img" src="' + escapeHtml(labelUrl) + '" alt="" width="80" height="80">'
       : '<span class="beer-label-placeholder" aria-hidden="true"></span>';
-    var bar = beer.HallRating != null && beer.HallRating !== '' ? Number(beer.HallRating) : null;
+
+    // BAR stat
+    var barVal = beer.BAR != null && beer.BAR !== '' ? Number(beer.BAR) : null;
+    var barText = barVal != null ? barVal.toFixed(2) : '—';
     var barDesc;
-    if (bar == null) {
+    if (barVal == null) {
       barDesc = '—';
-    } else if (bar >= 10) {
-      barDesc = 'Hall-of-Famer';
-    } else if (bar >= 8) {
-      barDesc = 'MVP';
-    } else if (bar >= 6) {
-      barDesc = 'All Star';
-    } else if (bar >= 4) {
-      barDesc = 'Very Good';
-    } else if (bar >= 2) {
-      barDesc = 'Above Average';
-    } else if (bar >= 0) {
-      barDesc = 'Useful to Average';
+    } else if (barVal >= 15) {
+      barDesc = 'This is one of the <strong>best</strong> beers available';
+    } else if (barVal >= 10) {
+      barDesc = 'This is an <strong>excellent</strong> beer';
+    } else if (barVal >= 6) {
+      barDesc = 'This is a <strong>very good</strong> beer';
+    } else if (barVal >= 3) {
+      barDesc = 'This is an <strong>above average</strong> beer';
+    } else if (barVal >= 1) {
+      barDesc = 'This is an <strong>average</strong> beer';
     } else {
-      barDesc = 'Not Good';
+      barDesc = 'This is a <strong>below average</strong> beer';
     }
+
+    // Style+ stat
+    var stylePlusVal = beer.StylePlus != null && beer.StylePlus !== '' ? Number(beer.StylePlus) : null;
+    var stylePlusText = stylePlusVal != null ? stylePlusVal : '—';
     var styleText = escapeHtml(beer.BeerStyle || '');
-    var stylePlusDesc = styleText ? 'Style' : '—';
-    var abv = beer.BeerAbv != null && beer.BeerAbv !== '' ? beer.BeerAbv : '—';
-    var abvDesc = (beer.BeerAbv != null && beer.BeerAbv !== '') ? 'ABV' : '—';
-    var ratingScore = beer.RatingScore != null && beer.RatingScore !== '' ? beer.RatingScore : '—';
-    var adjNum = (beer.AdjustedRating != null && beer.AdjustedRating !== '') ? parseFloat(beer.AdjustedRating, 10) : NaN;
-    var adjustedRating = (adjNum === adjNum) ? adjNum.toFixed(2) : '—';
+    var styleHref = 'beers.html?style=' + encodeURIComponent(beer.BeerStyle || '');
+    var stylePlusDesc = '—';
+    if (stylePlusVal != null && styleText) {
+      var diff = Math.abs(stylePlusVal - 100);
+      if (stylePlusVal > 100) {
+        stylePlusDesc = diff + '% <strong>better</strong> than the average <a href="' + styleHref + '">' + styleText + '</a>';
+      } else if (stylePlusVal < 100) {
+        stylePlusDesc = diff + '% <strong>worse</strong> than the average <a href="' + styleHref + '">' + styleText + '</a>';
+      } else {
+        stylePlusDesc = 'Exactly average for <a href="' + styleHref + '">' + styleText + '</a>';
+      }
+    }
+
+    // In-Brewery Ranking stat
+    var breweryRank = beer.BreweryRank != null ? Number(beer.BreweryRank) : null;
+    var breweryCount = beer.BreweryBeerCount != null ? Number(beer.BreweryBeerCount) : null;
+    var rankText = breweryRank != null ? '#' + breweryRank : '—';
+    var rankDesc = '—';
+    if (breweryRank != null && breweryCount != null) {
+      var rankWord = breweryRank === 1 ? '<strong>best</strong>' : (breweryRank <= 3 ? '<strong>top 3</strong>' : 'ranked #' + breweryRank);
+      rankDesc = 'Ranked #' + breweryRank + ' and is the ' + rankWord + ' beer available from <a href="' + breweryUrl + '">' + brewery + '</a> of ' + breweryCount + ' beers';
+    }
+
+    // ABV stat
+    var abv = beer.BeerAbv != null && beer.BeerAbv !== '' ? Number(beer.BeerAbv) : null;
+    var abvText = abv != null ? abv.toFixed(1) : '—';
+    var abvDesc = '—';
+    if (abv != null) {
+      var styleAvgAbv = beer.StyleAvgAbv != null ? Number(beer.StyleAvgAbv) : null;
+      if (styleAvgAbv != null && styleAvgAbv > 0) {
+        var ratio = abv / styleAvgAbv;
+        if (ratio >= 1.05) {
+          abvDesc = 'About <strong>' + ratio.toFixed(1) + 'x stronger</strong> than average';
+        } else if (ratio <= 0.95) {
+          abvDesc = 'About <strong>' + (1 / ratio).toFixed(1) + 'x weaker</strong> than average';
+        } else {
+          abvDesc = 'About <strong>average</strong> strength';
+        }
+      } else {
+        abvDesc = 'ABV';
+      }
+    }
+
     return (
       '<header class="beer-header">' +
         '<div class="beer-label-triage">' + labelImg + '</div>' +
@@ -600,11 +642,10 @@
         '</div>' +
       '</header>' +
       '<div class="beer-stats">' +
-        '<div class="beer-stat"><span class="beer-stat-label">Hall Rating</span><span class="beer-stat-value">' + (bar != null ? bar : '—') + '</span><span class="beer-stat-desc">' + barDesc + '</span></div>' +
-        '<div class="beer-stat"><span class="beer-stat-label">Untappd Rating</span><span class="beer-stat-value">' + ratingScore + '</span><span class="beer-stat-desc">Rating score</span></div>' +
-        '<div class="beer-stat"><span class="beer-stat-label">Adjusted Rating</span><span class="beer-stat-value">' + adjustedRating + '</span><span class="beer-stat-desc">Adjusted</span></div>' +
-        '<div class="beer-stat"><span class="beer-stat-label">Style</span><span class="beer-stat-value">' + (styleText || '—') + '</span><span class="beer-stat-desc">' + stylePlusDesc + '</span></div>' +
-        '<div class="beer-stat"><span class="beer-stat-label">ABV</span><span class="beer-stat-value">' + abv + '</span><span class="beer-stat-desc">' + abvDesc + '</span></div>' +
+        '<div class="beer-stat"><span class="beer-stat-label">BAR</span><span class="beer-stat-value">' + barText + '</span><span class="beer-stat-desc">' + barDesc + '</span></div>' +
+        '<div class="beer-stat"><span class="beer-stat-label">Style+</span><span class="beer-stat-value">' + stylePlusText + '</span><span class="beer-stat-desc">' + stylePlusDesc + '</span></div>' +
+        '<div class="beer-stat"><span class="beer-stat-label">In-Brewery Ranking</span><span class="beer-stat-value">' + rankText + '</span><span class="beer-stat-desc">' + rankDesc + '</span></div>' +
+        '<div class="beer-stat"><span class="beer-stat-label">ABV</span><span class="beer-stat-value">' + abvText + '</span><span class="beer-stat-desc">' + abvDesc + '</span></div>' +
       '</div>'
     );
   }
