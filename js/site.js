@@ -230,8 +230,8 @@
         var stylePlusText = (m.StylePlus != null && m.StylePlus !== '') ? m.StylePlus : '—';
         var abvText = (m.BeerAbv != null && m.BeerAbv !== '') ? m.BeerAbv : '—';
         var ratingScoreText = (m.RatingScore != null && m.RatingScore !== '') ? m.RatingScore : '—';
-        var adjNum = (m.AdjustedRating != null && m.AdjustedRating !== '') ? parseFloat(m.AdjustedRating, 10) : NaN;
-        var adjustedRatingText = (adjNum === adjNum) ? adjNum.toFixed(2) : '—';
+        var barNum = (m.BAR != null && m.BAR !== '') ? parseFloat(m.BAR, 10) : NaN;
+        var barText = (barNum === barNum) ? barNum.toFixed(2) : '—';
         var tapText = (m.HallRating != null && m.HallRating !== '') ? m.HallRating : '—';
         return '<tr class="beer-card-row">' +
           '<td class="beers-col-num" data-label="#">' + rowNum + '</td>' +
@@ -242,7 +242,7 @@
           '<td data-label="ABV">' + abvText + '</td>' +
           '<td data-label="Style+">' + stylePlusText + '</td>' +
           '<td data-label="Untappd Rating">' + ratingScoreText + '</td>' +
-          '<td data-label="Adjusted Rating">' + adjustedRatingText + '</td>' +
+          '<td data-label="BAR">' + barText + '</td>' +
           '<td data-label="TAP">' + tapText + '</td></tr>';
       }
 
@@ -293,7 +293,7 @@
       function compare(a, b) {
         var va = a[sortKey];
         var vb = b[sortKey];
-        if (sortKey === 'HallRating' || sortKey === 'BeerAbv' || sortKey === 'StylePlus') {
+        if (sortKey === 'HallRating' || sortKey === 'BeerAbv' || sortKey === 'StylePlus' || sortKey === 'BAR') {
           va = va != null && va !== '' ? parseFloat(va, 10) : -Infinity;
           vb = vb != null && vb !== '' ? parseFloat(vb, 10) : -Infinity;
         } else {
