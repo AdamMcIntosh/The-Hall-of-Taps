@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs wc:*)",
+      "Bash(ls -lh /d/projects/HallofTaps.Engine/halloftaps.db*)",
+      "Bash(git -C /d/projects/HallofTaps.Engine log --oneline)",
+      "Bash(dotnet new:*)"
+    ]
+  }
+}

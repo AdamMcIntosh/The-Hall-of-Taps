@@ -1,50 +1,5 @@
 [
   {
-    "BID": 3333545,
-    "BeerName": "Blackberry Mango Triple Puffsicle",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "The Answer",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 8.81,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333545_540f4_sm.jpeg",
-    "HallRating": 19.79,
-    "BAR": 8.27,
-    "StylePlus": "132",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.3543529221854304635761589404"
-  },
-  {
-    "BID": 1484633,
-    "BeerName": "Snowed In",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Funky Buddha Brewery",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3741_f2c09.jpeg",
-    "HallRating": 19.78,
-    "BAR": 10.57,
-    "StylePlus": "116",
-    "RatingScore": 4.56,
-    "AdjustedRating": "3.8640969861943214378744464704"
-  },
-  {
-    "BID": 6022854,
-    "BeerName": "Thrills - Raspberry, Blackberry, Blueberry",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Dewey Beer Company",
-    "Origin": "Dewey Beach, DE United States",
-    "BeerAbv": 5.25,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3761308_4952e_sm.jpeg",
-    "HallRating": 19.78,
-    "BAR": 10.32,
-    "StylePlus": "125",
-    "RatingScore": 4.38,
-    "AdjustedRating": "3.5353570606267029972752043597"
-  },
-  {
     "BID": 4446520,
     "BeerName": "Thrills - Suntan Lotion",
     "BeerStyle": "Fruit Beer",
@@ -57,7 +12,22 @@
     "BAR": 10.03,
     "StylePlus": "126",
     "RatingScore": 4.41,
-    "AdjustedRating": "3.317428590691605045672031318"
+    "AdjustedRating": "2.0902553644048435001142334933"
+  },
+  {
+    "BID": 4940566,
+    "BeerName": "ORANGE CREAM",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Smooj",
+    "Origin": "Ann Arbor, MI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4443944_980b2_sm.jpeg",
+    "HallRating": 19.74,
+    "BAR": 10.54,
+    "StylePlus": "122",
+    "RatingScore": 4.37,
+    "AdjustedRating": "2.1528450047196875751911010753"
   },
   {
     "BID": 3611962,
@@ -72,7 +42,7 @@
     "BAR": 10.13,
     "StylePlus": "125",
     "RatingScore": 4.39,
-    "AdjustedRating": "3.4235577532013969732246798603"
+    "AdjustedRating": "2.1018960031816976629673118442"
   },
   {
     "BID": 4410953,
@@ -87,22 +57,7 @@
     "BAR": 9.94,
     "StylePlus": "126",
     "RatingScore": 4.41,
-    "AdjustedRating": "3.2785487972972972972972972973"
-  },
-  {
-    "BID": 950018,
-    "BeerName": "Society & Solitude #6",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-318135_c55f0_sm.jpeg",
-    "HallRating": 19.66,
-    "BAR": 11.55,
-    "StylePlus": "115",
-    "RatingScore": 4.44,
-    "AdjustedRating": "4.3109007475639464068209500609"
+    "AdjustedRating": "2.0867610403279626275145390409"
   },
   {
     "BID": 6012533,
@@ -115,9 +70,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6012533_19b2b_sm.jpeg",
     "HallRating": 19.66,
     "BAR": 8.43,
-    "StylePlus": "137",
+    "StylePlus": "136",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.4109954421221864951768488746"
+    "AdjustedRating": "2.0431926549962113116633313257"
   },
   {
     "BID": 4702155,
@@ -132,22 +87,7 @@
     "BAR": 10.98,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "4.1810791346153846153846153846"
-  },
-  {
-    "BID": 6015550,
-    "BeerName": "Calamellus Acadicus",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Horus Aged Ales",
-    "Origin": "Oceanside, CA United States",
-    "BeerAbv": 13.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015550_83787_sm.jpeg",
-    "HallRating": 19.64,
-    "BAR": 8.55,
-    "StylePlus": "115",
-    "RatingScore": 4.75,
-    "AdjustedRating": "2.4870695511811023622047244094"
+    "AdjustedRating": "2.3092727309968928466038292628"
   },
   {
     "BID": 4826297,
@@ -162,22 +102,22 @@
     "BAR": 9.90,
     "StylePlus": "117",
     "RatingScore": 4.59,
-    "AdjustedRating": "3.3515567246907924874026568942"
+    "AdjustedRating": "2.0889607075255686154785528927"
   },
   {
-    "BID": 5216973,
-    "BeerName": "Fanal Select (2022)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 10.00,
+    "BID": 6015550,
+    "BeerName": "Calamellus Acadicus",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Horus Aged Ales",
+    "Origin": "Oceanside, CA United States",
+    "BeerAbv": 13.90,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5216973_cc60e_sm.jpeg",
-    "HallRating": 19.63,
-    "BAR": 9.54,
-    "StylePlus": "116",
-    "RatingScore": 4.63,
-    "AdjustedRating": "3.0643662086659064994298745724"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015550_83787_sm.jpeg",
+    "HallRating": 19.64,
+    "BAR": 8.55,
+    "StylePlus": "115",
+    "RatingScore": 4.75,
+    "AdjustedRating": "2.0452545443246917176424895621"
   },
   {
     "BID": 6218838,
@@ -192,7 +132,22 @@
     "BAR": 11.95,
     "StylePlus": "114",
     "RatingScore": 4.40,
-    "AdjustedRating": "4.3470472187407376042681119533"
+    "AdjustedRating": "3.155072725556387814362962887"
+  },
+  {
+    "BID": 5216973,
+    "BeerName": "Fanal Select (2022)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5216973_cc60e_sm.jpeg",
+    "HallRating": 19.63,
+    "BAR": 9.54,
+    "StylePlus": "115",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.0688490113314992593162623367"
   },
   {
     "BID": 3816039,
@@ -207,7 +162,7 @@
     "BAR": 10.05,
     "StylePlus": "125",
     "RatingScore": 4.39,
-    "AdjustedRating": "3.3929937269815852682145716573"
+    "AdjustedRating": "2.0984675143675435768070860915"
   },
   {
     "BID": 3344671,
@@ -222,22 +177,7 @@
     "BAR": 10.01,
     "StylePlus": "122",
     "RatingScore": 4.49,
-    "AdjustedRating": "3.4225845992601726263871763255"
-  },
-  {
-    "BID": 2408879,
-    "BeerName": "Bourbon Paradise",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Prairie Artisan Ales",
-    "Origin": "Krebs, OK United States",
-    "BeerAbv": 13.70,
-    "BeerIbu": 9.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2343873_42044_sm.jpeg",
-    "HallRating": 19.58,
-    "BAR": 11.57,
-    "StylePlus": "112",
-    "RatingScore": 4.52,
-    "AdjustedRating": "4.4039254858934169278996865204"
+    "AdjustedRating": "2.0982367875726385354552014889"
   },
   {
     "BID": 3039901,
@@ -252,7 +192,22 @@
     "BAR": 10.96,
     "StylePlus": "116",
     "RatingScore": 4.43,
-    "AdjustedRating": "4.0970012265019061390824240831"
+    "AdjustedRating": "2.3054311239452206390925439203"
+  },
+  {
+    "BID": 2408879,
+    "BeerName": "Bourbon Paradise",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Prairie Artisan Ales",
+    "Origin": "Krebs, OK United States",
+    "BeerAbv": 13.70,
+    "BeerIbu": 9.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2343873_42044_sm.jpeg",
+    "HallRating": 19.58,
+    "BAR": 11.57,
+    "StylePlus": "112",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.7706220704229217553585640969"
   },
   {
     "BID": 3213398,
@@ -267,7 +222,7 @@
     "BAR": 10.38,
     "StylePlus": "121",
     "RatingScore": 4.45,
-    "AdjustedRating": "3.7388581096881959910913140312"
+    "AdjustedRating": "2.1478674537785458126614266867"
   },
   {
     "BID": 1808896,
@@ -282,7 +237,7 @@
     "BAR": 9.61,
     "StylePlus": "120",
     "RatingScore": 4.60,
-    "AdjustedRating": "3.1501219711538461538461538462"
+    "AdjustedRating": "2.0741853227633069082672706682"
   },
   {
     "BID": 6006731,
@@ -297,7 +252,7 @@
     "BAR": 9.48,
     "StylePlus": "116",
     "RatingScore": 4.66,
-    "AdjustedRating": "3.0652401435132032146957520092"
+    "AdjustedRating": "2.0686484261165739796409259723"
   },
   {
     "BID": 6605436,
@@ -312,7 +267,7 @@
     "BAR": 6.09,
     "StylePlus": "122",
     "RatingScore": 4.88,
-    "AdjustedRating": "2.1112760386029411764705882353"
+    "AdjustedRating": "2.0357194621246077991931869117"
   },
   {
     "BID": 4824359,
@@ -325,9 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5440921_b7d10_sm.jpeg",
     "HallRating": 19.49,
     "BAR": 10.52,
-    "StylePlus": "129",
+    "StylePlus": "128",
     "RatingScore": 4.28,
-    "AdjustedRating": "3.7360229956451982580793032317"
+    "AdjustedRating": "2.1701119799223272514105664249"
   },
   {
     "BID": 4505615,
@@ -342,22 +297,22 @@
     "BAR": 8.62,
     "StylePlus": "125",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.5252091277735271614384085692"
+    "AdjustedRating": "2.0465390972599549794302569277"
   },
   {
-    "BID": 1246754,
-    "BeerName": "Fou' Foune",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Brasserie Cantillon",
-    "Origin": "Anderlecht, Bruxelles Belgium",
-    "BeerAbv": 5.00,
+    "BID": 3010113,
+    "BeerName": "3 Fonteinen Schaarbeekse Kriek Oogst 2016 (season 16|17) Blend No. 41",
+    "BeerStyle": "Lambic - Kriek",
+    "BreweryName": "Brouwerij 3 Fonteinen",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
+    "BeerAbv": 6.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_17663_sm_48376e0fc0fe1a34b0cac9a69d9e43.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2527980_72210_sm.jpeg",
     "HallRating": 19.42,
-    "BAR": 11.63,
-    "StylePlus": "110",
-    "RatingScore": 4.51,
-    "AdjustedRating": "4.4259366337046906604167335538"
+    "BAR": 9.53,
+    "StylePlus": "115",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0717872077747474359466830561"
   },
   {
     "BID": 5419283,
@@ -372,6 +327,51 @@
     "BAR": 8.33,
     "StylePlus": "119",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.4271713493975903614457831325"
+    "AdjustedRating": "2.0435910775208859529823197979"
+  },
+  {
+    "BID": 3822145,
+    "BeerName": "8",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Sante Adairius Rustic Ales",
+    "Origin": "Capitola, CA United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
+    "HallRating": 19.40,
+    "BAR": 9.29,
+    "StylePlus": "123",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.0621740081752275181243251581"
+  },
+  {
+    "BID": 6502230,
+    "BeerName": "Waachners Session Neipa",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "BillBrew",
+    "Origin": "Hamburg, Germany",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-552123_b7329.jpeg",
+    "HallRating": 19.39,
+    "BAR": 5.00,
+    "StylePlus": "128",
+    "RatingScore": 4.95,
+    "AdjustedRating": "2.0350691557669441141498216409"
+  },
+  {
+    "BID": 4025139,
+    "BeerName": "Barrel-Aged Dorothy (Batch 4)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 19.37,
+    "BAR": 9.69,
+    "StylePlus": "122",
+    "RatingScore": 4.50,
+    "AdjustedRating": "2.0820117547180634428956576608"
   }
 ]

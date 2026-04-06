@@ -1,0 +1,108 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1773700893523,
+  "projectRoot": "d:\\projects\\The-Hall-of-Taps",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "npm",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {
+      "serve": "npx serve . -p 3000",
+      "build:data": "node -e \"console.log('Data is exported from HallofTaps.Engine; run Export there and point to this repo data folder.');\""
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "docs",
+      "scripts"
+    ],
+    "gitBranches": {
+      "defaultBranch": "master",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "data": {
+      "path": "data",
+      "purpose": "Data files",
+      "fileCount": 2,
+      "lastAccessed": 1773700893395,
+      "keyFiles": [
+        "halloftaps.db",
+        "preview.json"
+      ]
+    },
+    "css": {
+      "path": "css",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1773700893425,
+      "keyFiles": [
+        "site.css"
+      ]
+    },
+    "js": {
+      "path": "js",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1773700893438,
+      "keyFiles": [
+        "site.js"
+      ]
+    },
+    "docs": {
+      "path": "docs",
+      "purpose": "Documentation",
+      "fileCount": 1,
+      "lastAccessed": 1773700893447,
+      "keyFiles": [
+        "math-primer.md"
+      ]
+    },
+    "images": {
+      "path": "images",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1773700893453,
+      "keyFiles": [
+        "featured.jpg"
+      ]
+    },
+    "scripts": {
+      "path": "scripts",
+      "purpose": "Build/utility scripts",
+      "fileCount": 1,
+      "lastAccessed": 1773700893459,
+      "keyFiles": [
+        "verify_bar_percentages.sql"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}

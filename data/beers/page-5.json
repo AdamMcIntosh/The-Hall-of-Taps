@@ -1,65 +1,5 @@
 [
   {
-    "BID": 3822145,
-    "BeerName": "8",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Sante Adairius Rustic Ales",
-    "Origin": "Capitola, CA United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
-    "HallRating": 19.40,
-    "BAR": 9.29,
-    "StylePlus": "123",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.9229947101891397193410616229"
-  },
-  {
-    "BID": 6502230,
-    "BeerName": "Waachners Session Neipa",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "BillBrew",
-    "Origin": "Hamburg, Germany",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-552123_b7329.jpeg",
-    "HallRating": 19.39,
-    "BAR": 5.00,
-    "StylePlus": "128",
-    "RatingScore": 4.95,
-    "AdjustedRating": "2.0811136895910780669144981413"
-  },
-  {
-    "BID": 5021273,
-    "BeerName": "Peanut Butter & Grape Jelly Sour",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Barn Town Brewing",
-    "Origin": "West Des Moines, IA United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4915657_652d9_sm.jpeg",
-    "HallRating": 19.37,
-    "BAR": 10.07,
-    "StylePlus": "130",
-    "RatingScore": 4.32,
-    "AdjustedRating": "3.4681058991537376586741889986"
-  },
-  {
-    "BID": 4025139,
-    "BeerName": "Barrel-Aged Dorothy (Batch 4)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
-    "HallRating": 19.37,
-    "BAR": 9.69,
-    "StylePlus": "122",
-    "RatingScore": 4.50,
-    "AdjustedRating": "3.2426848264223722275795564127"
-  },
-  {
     "BID": 3344292,
     "BeerName": "Double Dry Hopped Melcher Street",
     "BeerStyle": "IPA - New England / Hazy",
@@ -72,7 +12,37 @@
     "BAR": 11.81,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "4.3399241646727656579873328642"
+    "AdjustedRating": "3.1813518683473389355742296919"
+  },
+  {
+    "BID": 5021273,
+    "BeerName": "Peanut Butter & Grape Jelly Sour",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Barn Town Brewing",
+    "Origin": "West Des Moines, IA United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4915657_652d9_sm.jpeg",
+    "HallRating": 19.37,
+    "BAR": 10.07,
+    "StylePlus": "129",
+    "RatingScore": 4.32,
+    "AdjustedRating": "2.1107282704811443433029908973"
+  },
+  {
+    "BID": 3202515,
+    "BeerName": "All That Is and All That Ever Will Be",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1745402_0d956_sm.jpeg",
+    "HallRating": 19.32,
+    "BAR": 11.30,
+    "StylePlus": "115",
+    "RatingScore": 4.40,
+    "AdjustedRating": "2.6176318127864613938183100247"
   },
   {
     "BID": 3334736,
@@ -87,7 +57,7 @@
     "BAR": 10.15,
     "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "3.7361643316359007001909611712"
+    "AdjustedRating": "2.1342933415781288061910918733"
   },
   {
     "BID": 6407256,
@@ -102,7 +72,7 @@
     "BAR": 10.59,
     "StylePlus": "113",
     "RatingScore": 4.54,
-    "AdjustedRating": "4.0529072468296269068185995221"
+    "AdjustedRating": "2.2314100664678618905615636115"
   },
   {
     "BID": 2011218,
@@ -117,7 +87,7 @@
     "BAR": 11.14,
     "StylePlus": "121",
     "RatingScore": 4.34,
-    "AdjustedRating": "4.1569529350356740518212542246"
+    "AdjustedRating": "2.4789366188227887944601825622"
   },
   {
     "BID": 3807417,
@@ -132,7 +102,7 @@
     "BAR": 9.48,
     "StylePlus": "126",
     "RatingScore": 4.42,
-    "AdjustedRating": "3.0594435436893203883495145631"
+    "AdjustedRating": "2.0705853176904318439294149273"
   },
   {
     "BID": 5622079,
@@ -145,9 +115,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5492715_776c4_sm.jpeg",
     "HallRating": 19.28,
     "BAR": 10.46,
-    "StylePlus": "138",
+    "StylePlus": "137",
     "RatingScore": 4.09,
-    "AdjustedRating": "3.6251131327623126338329764454"
+    "AdjustedRating": "2.1694340606612624100555606157"
   },
   {
     "BID": 6102626,
@@ -162,52 +132,22 @@
     "BAR": 12.12,
     "StylePlus": "111",
     "RatingScore": 4.46,
-    "AdjustedRating": "4.4395401514704357467037831715"
+    "AdjustedRating": "3.7515170776099683364085742272"
   },
   {
-    "BID": 3010113,
-    "BeerName": "3 Fonteinen Schaarbeekse Kriek Oogst 2016 (season 16|17) Blend No. 41",
-    "BeerStyle": "Lambic - Kriek",
-    "BreweryName": "Brouwerij 3 Fonteinen",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 6.20,
+    "BID": 1246754,
+    "BeerName": "Fou' Foune",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2527980_72210_sm.jpeg",
-    "HallRating": 19.26,
-    "BAR": 9.45,
-    "StylePlus": "115",
-    "RatingScore": 4.54,
-    "AdjustedRating": "3.1004173438348723519826181423"
-  },
-  {
-    "BID": 4631027,
-    "BeerName": "Aaalterrr Ego",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 6.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2699792_5dd1d_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_17663_sm_48376e0fc0fe1a34b0cac9a69d9e43.jpeg",
     "HallRating": 19.25,
-    "BAR": 11.57,
-    "StylePlus": "114",
-    "RatingScore": 4.40,
-    "AdjustedRating": "4.3262756685138242056240051878"
-  },
-  {
-    "BID": 6407331,
-    "BeerName": "Dessert Station: BA Mixed Berry Cheesecake Overtime",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407331_35691_sm.jpeg",
-    "HallRating": 19.21,
-    "BAR": 7.39,
-    "StylePlus": "140",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.2204634473684210526315789474"
+    "BAR": 11.53,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.9496196819544806567369611168"
   },
   {
     "BID": 3904423,
@@ -222,37 +162,22 @@
     "BAR": 10.44,
     "StylePlus": "115",
     "RatingScore": 4.56,
-    "AdjustedRating": "4.002260611691022964509394572"
+    "AdjustedRating": "2.205446382986458238662183041"
   },
   {
-    "BID": 6424660,
-    "BeerName": "Double Barrel Aged Wisdom (2025)",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Barreled Souls Brewing Company",
-    "Origin": "Saco, ME United States",
-    "BeerAbv": 15.80,
+    "BID": 6407331,
+    "BeerName": "Dessert Station: BA Mixed Berry Cheesecake Overtime",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 10.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3928837_e4f03_sm.jpeg",
-    "HallRating": 19.19,
-    "BAR": 8.37,
-    "StylePlus": "123",
-    "RatingScore": 4.61,
-    "AdjustedRating": "2.4712074803767660910518053375"
-  },
-  {
-    "BID": 3202515,
-    "BeerName": "All That Is and All That Ever Will Be",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1745402_0d956_sm.jpeg",
-    "HallRating": 19.19,
-    "BAR": 11.22,
-    "StylePlus": "116",
-    "RatingScore": 4.40,
-    "AdjustedRating": "4.2598547839973104723482938309"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6407331_35691_sm.jpeg",
+    "HallRating": 19.21,
+    "BAR": 7.39,
+    "StylePlus": "138",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0382192691521464031928355884"
   },
   {
     "BID": 2033933,
@@ -267,22 +192,7 @@
     "BAR": 10.36,
     "StylePlus": "120",
     "RatingScore": 4.42,
-    "AdjustedRating": "3.8444874127310061601642710472"
-  },
-  {
-    "BID": 6302171,
-    "BeerName": "PB&J Mixtape: Grape",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Xül Beer Company",
-    "Origin": "Knoxville, TN United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5197743_d6358_sm.jpeg",
-    "HallRating": 19.17,
-    "BAR": 11.20,
-    "StylePlus": "114",
-    "RatingScore": 4.40,
-    "AdjustedRating": "4.2567156467690192483959670027"
+    "AdjustedRating": "2.1793911653970114268971579256"
   },
   {
     "BID": 4800211,
@@ -297,22 +207,7 @@
     "BAR": 11.45,
     "StylePlus": "111",
     "RatingScore": 4.50,
-    "AdjustedRating": "4.4107725690333618477331052181"
-  },
-  {
-    "BID": 6303467,
-    "BeerName": "PHARMAKA (2022)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5952438_cb4a6_sm.jpeg",
-    "HallRating": 19.16,
-    "BAR": 9.20,
-    "StylePlus": "116",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.9681451268115942028985507246"
+    "AdjustedRating": "2.9083276621774701069855254877"
   },
   {
     "BID": 2802032,
@@ -327,7 +222,22 @@
     "BAR": 10.01,
     "StylePlus": "121",
     "RatingScore": 4.45,
-    "AdjustedRating": "3.5910821553463349024882313383"
+    "AdjustedRating": "2.1211241331603977518374405534"
+  },
+  {
+    "BID": 6303467,
+    "BeerName": "PHARMAKA (2022)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Marlobobo",
+    "Origin": "Sande i Vestfold, Vestfold Norway",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5952438_cb4a6_sm.jpeg",
+    "HallRating": 19.16,
+    "BAR": 9.20,
+    "StylePlus": "115",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.0638972409938127638249069987"
   },
   {
     "BID": 6303536,
@@ -340,9 +250,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6303536_b914b_sm.jpeg",
     "HallRating": 19.15,
     "BAR": 7.07,
-    "StylePlus": "120",
+    "StylePlus": "119",
     "RatingScore": 4.78,
-    "AdjustedRating": "2.1900965508021390374331550802"
+    "AdjustedRating": "2.0374918254231016417706974117"
+  },
+  {
+    "BID": 6424660,
+    "BeerName": "Double Barrel Aged Wisdom (2025)",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Barreled Souls Brewing Company",
+    "Origin": "Saco, ME United States",
+    "BeerAbv": 15.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3928837_e4f03_sm.jpeg",
+    "HallRating": 19.14,
+    "BAR": 8.35,
+    "StylePlus": "122",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.0448964593487252179653973864"
   },
   {
     "BID": 3904435,
@@ -357,7 +282,22 @@
     "BAR": 10.55,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "4.1060370994052676295666949873"
+    "AdjustedRating": "2.2513960570308322937087863126"
+  },
+  {
+    "BID": 1643001,
+    "BeerName": "Society & Solitude #8",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1643001_26f64_sm.jpeg",
+    "HallRating": 19.11,
+    "BAR": 11.06,
+    "StylePlus": "115",
+    "RatingScore": 4.43,
+    "AdjustedRating": "2.526160849745107457737421944"
   },
   {
     "BID": 5902002,
@@ -372,6 +312,66 @@
     "BAR": 9.27,
     "StylePlus": "115",
     "RatingScore": 4.62,
-    "AdjustedRating": "3.0514956020642201834862385321"
+    "AdjustedRating": "2.0682255336835421116434797668"
+  },
+  {
+    "BID": 1675563,
+    "BeerName": "The Man With the Axe (R&D)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-266944_bf1b0.jpeg",
+    "HallRating": 19.08,
+    "BAR": 8.59,
+    "StylePlus": "116",
+    "RatingScore": 4.66,
+    "AdjustedRating": "2.0490538953409465459410202222"
+  },
+  {
+    "BID": 4980515,
+    "BeerName": "Tête de Cuvée (Vintage 2020)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Side Project Brewing",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4980515_845b0_sm.jpeg",
+    "HallRating": 19.08,
+    "BAR": 9.40,
+    "StylePlus": "122",
+    "RatingScore": 4.50,
+    "AdjustedRating": "2.0732884181842605208113450135"
+  },
+  {
+    "BID": 4630889,
+    "BeerName": "Gin Barrel Aged Maneater",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5739691_c071d_sm.jpeg",
+    "HallRating": 19.05,
+    "BAR": 9.16,
+    "StylePlus": "132",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.061681109269608787820389285"
+  },
+  {
+    "BID": 1209346,
+    "BeerName": "Headroom",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Trillium Brewing Company",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 66.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1206351_7a9ec_sm.jpeg",
+    "HallRating": 19.03,
+    "BAR": 11.17,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.6833643993037073268979010516"
   }
 ]

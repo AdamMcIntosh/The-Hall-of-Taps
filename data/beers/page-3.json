@@ -1,65 +1,5 @@
 [
   {
-    "BID": 2400588,
-    "BeerName": "Somewhere, Something Incredible Is Waiting To Be Known",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 7.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2398278_55f21_sm.jpeg",
-    "HallRating": 20.46,
-    "BAR": 11.91,
-    "StylePlus": "117",
-    "RatingScore": 4.45,
-    "AdjustedRating": "4.2906176034192300492918200537"
-  },
-  {
-    "BID": 2422477,
-    "BeerName": "Pear Turnover",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2422477_03159_sm.jpeg",
-    "HallRating": 20.44,
-    "BAR": 9.56,
-    "StylePlus": "117",
-    "RatingScore": 4.69,
-    "AdjustedRating": "2.8116432687165775401069518717"
-  },
-  {
-    "BID": 3803162,
-    "BeerName": "A Deal With The Devil",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Anchorage Brewing Company",
-    "Origin": "Anchorage, AK United States",
-    "BeerAbv": 17.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-332284_353f4_sm.jpeg",
-    "HallRating": 20.39,
-    "BAR": 11.46,
-    "StylePlus": "116",
-    "RatingScore": 4.49,
-    "AdjustedRating": "4.1704845386318897637795275591"
-  },
-  {
-    "BID": 3348226,
-    "BeerName": "Barrel Aged Pastry Method",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Moksa Brewing Co",
-    "Origin": "Rocklin, CA United States",
-    "BeerAbv": 16.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3348226_0dc31_sm.jpeg",
-    "HallRating": 20.38,
-    "BAR": 10.22,
-    "StylePlus": "113",
-    "RatingScore": 4.69,
-    "AdjustedRating": "3.3594973153409090909090909091"
-  },
-  {
     "BID": 6608552,
     "BeerName": "Barrel Aged S’meeses (2026)",
     "BeerStyle": "Stout - Imperial / Double Pastry",
@@ -72,7 +12,7 @@
     "BAR": 7.65,
     "StylePlus": "117",
     "RatingScore": 4.85,
-    "AdjustedRating": "2.2124586991150442477876106195"
+    "AdjustedRating": "2.0380076479408042060169409016"
   },
   {
     "BID": 1809242,
@@ -85,16 +25,16 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1186509_7be98_sm.jpeg",
     "HallRating": 20.30,
     "BAR": 11.27,
-    "StylePlus": "114",
+    "StylePlus": "113",
     "RatingScore": 4.55,
-    "AdjustedRating": "4.1489567942727957799547852298"
+    "AdjustedRating": "2.2808676180091452690819556806"
   },
   {
     "BID": 2504340,
     "BeerName": "I Let My Tape Rock",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "J. Wakefield Brewing",
-    "Origin": "Miami, FL United States",
+    "Origin": "Deerfield Beach, FL United States",
     "BeerAbv": 13.00,
     "BeerIbu": 40.00,
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2504340_bee93_sm.jpeg",
@@ -102,7 +42,7 @@
     "BAR": 10.68,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "3.778753357098574085554866708"
+    "AdjustedRating": "2.1393811670501955061645245178"
   },
   {
     "BID": 4825126,
@@ -115,9 +55,24 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4825126_c2a31_sm.jpeg",
     "HallRating": 20.28,
     "BAR": 9.33,
-    "StylePlus": "136",
+    "StylePlus": "135",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.6662488272471910112359550562"
+    "AdjustedRating": "2.051511989777149605994307731"
+  },
+  {
+    "BID": 3803162,
+    "BeerName": "A Deal With The Devil",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Anchorage Brewing Company",
+    "Origin": "Anchorage, AK United States",
+    "BeerAbv": 17.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-332284_353f4_sm.jpeg",
+    "HallRating": 20.27,
+    "BAR": 11.39,
+    "StylePlus": "116",
+    "RatingScore": 4.49,
+    "AdjustedRating": "2.331662515380528850273336418"
   },
   {
     "BID": 5819320,
@@ -132,7 +87,7 @@
     "BAR": 10.31,
     "StylePlus": "113",
     "RatingScore": 4.70,
-    "AdjustedRating": "3.503786399491094147582697201"
+    "AdjustedRating": "2.0999892124831219215335754902"
   },
   {
     "BID": 6422119,
@@ -147,7 +102,7 @@
     "BAR": 9.86,
     "StylePlus": "118",
     "RatingScore": 4.64,
-    "AdjustedRating": "3.0816214414923685698134539288"
+    "AdjustedRating": "2.06972329037965919144516675"
   },
   {
     "BID": 6501242,
@@ -162,7 +117,7 @@
     "BAR": 5.78,
     "StylePlus": "135",
     "RatingScore": 4.94,
-    "AdjustedRating": "2.0942352728954671600370027752"
+    "AdjustedRating": "2.0353501103184812692472615289"
   },
   {
     "BID": 6500776,
@@ -177,7 +132,7 @@
     "BAR": 8.77,
     "StylePlus": "115",
     "RatingScore": 4.77,
-    "AdjustedRating": "2.4867021529968454258675078864"
+    "AdjustedRating": "2.0452283370555221098013322199"
   },
   {
     "BID": 1211853,
@@ -192,37 +147,7 @@
     "BAR": 12.32,
     "StylePlus": "120",
     "RatingScore": 4.20,
-    "AdjustedRating": "4.155689936676994577846630519"
-  },
-  {
-    "BID": 6422169,
-    "BeerName": "Mary (Dry-Hopped: German Hersbrucker)",
-    "BeerStyle": "Pilsner - German",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 4.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
-    "HallRating": 20.00,
-    "BAR": 8.71,
-    "StylePlus": "133",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.4596761054287962234461054288"
-  },
-  {
-    "BID": 3602650,
-    "BeerName": "Queen Mab (2012)",
-    "BeerStyle": "Cider - Ice",
-    "BreweryName": "Eden Specialty Ciders",
-    "Origin": "Newport, VT United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3602650_69ff4_sm.jpeg",
-    "HallRating": 19.98,
-    "BAR": 8.00,
-    "StylePlus": "121",
-    "RatingScore": 4.73,
-    "AdjustedRating": "2.2834977101200686106346483705"
+    "AdjustedRating": "3.1096218795464585480783389781"
   },
   {
     "BID": 3600202,
@@ -237,7 +162,22 @@
     "BAR": 11.36,
     "StylePlus": "119",
     "RatingScore": 4.40,
-    "AdjustedRating": "4.1527509223013048635824436536"
+    "AdjustedRating": "2.3892715195306673737591355795"
+  },
+  {
+    "BID": 3602650,
+    "BeerName": "Queen Mab (2012)",
+    "BeerStyle": "Cider - Ice",
+    "BreweryName": "Eden Specialty Ciders",
+    "Origin": "Newport, VT United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3602650_69ff4_sm.jpeg",
+    "HallRating": 19.98,
+    "BAR": 8.00,
+    "StylePlus": "121",
+    "RatingScore": 4.73,
+    "AdjustedRating": "2.0397416427000836722383296686"
   },
   {
     "BID": 5014131,
@@ -252,7 +192,22 @@
     "BAR": 9.65,
     "StylePlus": "124",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.994014261430246189917936694"
+    "AdjustedRating": "2.0656176996399067994069053167"
+  },
+  {
+    "BID": 6422169,
+    "BeerName": "Mary (Dry-Hopped: German Hersbrucker)",
+    "BeerStyle": "Pilsner - German",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 19.96,
+    "BAR": 8.69,
+    "StylePlus": "133",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0445870118067422712443684946"
   },
   {
     "BID": 4605043,
@@ -267,7 +222,7 @@
     "BAR": 9.61,
     "StylePlus": "116",
     "RatingScore": 4.68,
-    "AdjustedRating": "3.0127149076831447290053603335"
+    "AdjustedRating": "2.0657396878853267570900123305"
   },
   {
     "BID": 5611939,
@@ -280,9 +235,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13559_b484d_sm.jpeg",
     "HallRating": 19.93,
     "BAR": 12.88,
-    "StylePlus": "118",
+    "StylePlus": "117",
     "RatingScore": 4.21,
-    "AdjustedRating": "4.202493373900776844229507019"
+    "AdjustedRating": "3.8969690424839534988105390727"
   },
   {
     "BID": 6032033,
@@ -297,22 +252,7 @@
     "BAR": 12.34,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "4.3587912374376582040550362146"
-  },
-  {
-    "BID": 4940566,
-    "BeerName": "ORANGE CREAM",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Smooj",
-    "Origin": "Ann Arbor, MI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4443944_980b2_sm.jpeg",
-    "HallRating": 19.90,
-    "BAR": 10.63,
-    "StylePlus": "122",
-    "RatingScore": 4.37,
-    "AdjustedRating": "3.7208880993690851735015772871"
+    "AdjustedRating": "3.4608355400032300983641858999"
   },
   {
     "BID": 1003124,
@@ -327,7 +267,7 @@
     "BAR": 10.79,
     "StylePlus": "121",
     "RatingScore": 4.37,
-    "AdjustedRating": "3.8563279238610359891824422717"
+    "AdjustedRating": "2.1932543385666521296700101759"
   },
   {
     "BID": 2810075,
@@ -340,9 +280,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2975144_746b8_sm.jpeg",
     "HallRating": 19.85,
     "BAR": 9.23,
-    "StylePlus": "117",
+    "StylePlus": "116",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.7729104285714285714285714286"
+    "AdjustedRating": "2.0550920352064996614759647935"
   },
   {
     "BID": 3039892,
@@ -357,7 +297,7 @@
     "BAR": 10.55,
     "StylePlus": "118",
     "RatingScore": 4.49,
-    "AdjustedRating": "3.7712007556047605867699972322"
+    "AdjustedRating": "2.150658508116943422861176121"
   },
   {
     "BID": 3343308,
@@ -372,6 +312,66 @@
     "BAR": 8.25,
     "StylePlus": "115",
     "RatingScore": 4.78,
-    "AdjustedRating": "2.3644790773067331670822942643"
+    "AdjustedRating": "2.0418113237924865831842576029"
+  },
+  {
+    "BID": 950018,
+    "BeerName": "Society & Solitude #6",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-318135_c55f0_sm.jpeg",
+    "HallRating": 19.80,
+    "BAR": 11.63,
+    "StylePlus": "115",
+    "RatingScore": 4.44,
+    "AdjustedRating": "2.6756251735331550572723762674"
+  },
+  {
+    "BID": 3333545,
+    "BeerName": "Blackberry Mango Triple Puffsicle",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "The Answer",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 8.81,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3333545_540f4_sm.jpeg",
+    "HallRating": 19.79,
+    "BAR": 8.27,
+    "StylePlus": "131",
+    "RatingScore": 4.61,
+    "AdjustedRating": "2.0416048599148406664981626582"
+  },
+  {
+    "BID": 1484633,
+    "BeerName": "Snowed In",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Funky Buddha Brewery",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3741_f2c09.jpeg",
+    "HallRating": 19.78,
+    "BAR": 10.57,
+    "StylePlus": "116",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.1640291646936963598697839598"
+  },
+  {
+    "BID": 6022854,
+    "BeerName": "Thrills - Raspberry, Blackberry, Blueberry",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Dewey Beer Company",
+    "Origin": "Dewey Beach, DE United States",
+    "BeerAbv": 5.25,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3761308_4952e_sm.jpeg",
+    "HallRating": 19.78,
+    "BAR": 10.32,
+    "StylePlus": "125",
+    "RatingScore": 4.38,
+    "AdjustedRating": "2.1169957818701679802863001072"
   }
 ]

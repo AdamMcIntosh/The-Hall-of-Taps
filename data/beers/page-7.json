@@ -1,153 +1,18 @@
 [
   {
-    "BID": 6501637,
-    "BeerName": "Double Pear Vanilla - Vanilla Barrel Aged",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brewlihan",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 14.00,
+    "BID": 4028671,
+    "BeerName": "Schmoojee Hydra",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Imprint Beer Co.",
+    "Origin": "Hatfield, PA United States",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
-    "HallRating": 18.77,
-    "BAR": 8.02,
-    "StylePlus": "117",
-    "RatingScore": 4.68,
-    "AdjustedRating": "2.4187950969305331179321486268"
-  },
-  {
-    "BID": 6603847,
-    "BeerName": "Moksa Eight",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Moksa Brewing Co",
-    "Origin": "Rocklin, CA United States",
-    "BeerAbv": 16.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6583767_15eac_sm.jpeg",
-    "HallRating": 18.76,
-    "BAR": 7.26,
-    "StylePlus": "118",
-    "RatingScore": 4.76,
-    "AdjustedRating": "2.2363152493438320209973753281"
-  },
-  {
-    "BID": 4941629,
-    "BeerName": "AJ's Stout Vol.1 (2022)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Triptych Brewing",
-    "Origin": "Savoy, IL United States",
-    "BeerAbv": 19.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4941624_1cccd_sm.jpeg",
-    "HallRating": 18.76,
-    "BAR": 8.57,
-    "StylePlus": "115",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.6752062446351931330472103004"
-  },
-  {
-    "BID": 2402885,
-    "BeerName": "Bourbon County Brand Stout (2017) 14.7%",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-8343_4245e_sm.jpeg",
-    "HallRating": 18.74,
-    "BAR": 11.02,
-    "StylePlus": "111",
-    "RatingScore": 4.50,
-    "AdjustedRating": "4.3709137334785406663036483342"
-  },
-  {
-    "BID": 5550435,
-    "BeerName": "Bourbon BA Full of Care (2021)",
-    "BeerStyle": "Mead - Cyser",
-    "BreweryName": "Marlobobo",
-    "Origin": "Sande i Vestfold, Vestfold Norway",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5550435_3e947_sm.jpeg",
-    "HallRating": 18.74,
-    "BAR": 8.82,
-    "StylePlus": "120",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.8260315882352941176470588235"
-  },
-  {
-    "BID": 5021590,
-    "BeerName": "Rum Barrel Aged ¡Viva! Agua Fresca (Hibiscus & Lime)",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Tall City Brewing Co",
-    "Origin": "Midland, TX United States",
-    "BeerAbv": 5.20,
-    "BeerIbu": 13.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5021590_7aa63_sm.jpeg",
-    "HallRating": 18.73,
-    "BAR": 4.68,
-    "StylePlus": "147",
-    "RatingScore": 4.88,
-    "AdjustedRating": "2.0777937953488372093023255814"
-  },
-  {
-    "BID": 4007402,
-    "BeerName": "Double Barrel Batch 1000",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Cellarmaker Brewing Company",
-    "Origin": "Oakland, CA United States",
-    "BeerAbv": 17.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-82753_b6ced.jpeg",
-    "HallRating": 18.71,
-    "BAR": 8.83,
-    "StylePlus": "118",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.8350571345407503234152652005"
-  },
-  {
-    "BID": 6608556,
-    "BeerName": "Wizzle (2026)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Dimensional Brewing Company",
-    "Origin": "Dubuque, IA United States",
-    "BeerAbv": 15.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6608556_1307f_sm.jpeg",
-    "HallRating": 18.71,
-    "BAR": 6.13,
-    "StylePlus": "123",
-    "RatingScore": 4.81,
-    "AdjustedRating": "2.124605420475319926873857404"
-  },
-  {
-    "BID": 2813298,
-    "BeerName": "Doubleganger Guava",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 18.70,
-    "BAR": 9.60,
-    "StylePlus": "117",
-    "RatingScore": 4.52,
-    "AdjustedRating": "3.4804698813760379596678529063"
-  },
-  {
-    "BID": 4420173,
-    "BeerName": "Piña Colada Smoothie Seltzer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Untitled Art",
-    "Origin": "Waunakee, WI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4420173_b4ef5_sm.jpeg",
-    "HallRating": 18.70,
-    "BAR": 10.25,
-    "StylePlus": "120",
-    "RatingScore": 4.28,
-    "AdjustedRating": "3.8395078563474387527839643653"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4028671_e539e_sm.jpeg",
+    "HallRating": 18.68,
+    "BAR": 9.46,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.0924022627417357340192435934"
   },
   {
     "BID": 1412114,
@@ -162,22 +27,7 @@
     "BAR": 11.12,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "4.2974843361812778603268945022"
-  },
-  {
-    "BID": 4028671,
-    "BeerName": "Schmoojee Hydra",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Imprint Beer Co.",
-    "Origin": "Hatfield, PA United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4028671_e539e_sm.jpeg",
-    "HallRating": 18.68,
-    "BAR": 9.46,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "3.3884638628318584070796460177"
+    "AdjustedRating": "2.823904112515393090932659278"
   },
   {
     "BID": 2283322,
@@ -192,7 +42,37 @@
     "BAR": 11.24,
     "StylePlus": "113",
     "RatingScore": 4.38,
-    "AdjustedRating": "4.3094649391319187667102793105"
+    "AdjustedRating": "2.9710126460770879449070658094"
+  },
+  {
+    "BID": 6608556,
+    "BeerName": "Wizzle (2026)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Dimensional Brewing Company",
+    "Origin": "Dubuque, IA United States",
+    "BeerAbv": 15.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6608556_1307f_sm.jpeg",
+    "HallRating": 18.68,
+    "BAR": 6.12,
+    "StylePlus": "122",
+    "RatingScore": 4.81,
+    "AdjustedRating": "2.0360124468520431029443286112"
+  },
+  {
+    "BID": 1004753,
+    "BeerName": "Brew 1000 (2014)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Fremont Brewing",
+    "Origin": "Seattle, WA United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 55.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-684620_f55a3_sm.jpeg",
+    "HallRating": 18.67,
+    "BAR": 9.82,
+    "StylePlus": "115",
+    "RatingScore": 4.52,
+    "AdjustedRating": "2.1341751087322678444436126811"
   },
   {
     "BID": 1669667,
@@ -207,7 +87,7 @@
     "BAR": 9.10,
     "StylePlus": "122",
     "RatingScore": 4.49,
-    "AdjustedRating": "3.0260644475760992108229988726"
+    "AdjustedRating": "2.0679252054847208600165387796"
   },
   {
     "BID": 6428583,
@@ -220,9 +100,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6428583_b4a4f_sm.jpeg",
     "HallRating": 18.66,
     "BAR": 6.98,
-    "StylePlus": "119",
+    "StylePlus": "118",
     "RatingScore": 4.75,
-    "AdjustedRating": "2.199936406388642413487133984"
+    "AdjustedRating": "2.0377226351456613179622994236"
   },
   {
     "BID": 3810967,
@@ -237,22 +117,7 @@
     "BAR": 9.69,
     "StylePlus": "117",
     "RatingScore": 4.46,
-    "AdjustedRating": "3.553614250883392226148409894"
-  },
-  {
-    "BID": 3704188,
-    "BeerName": "Thrills - Double Raspberry, Boysenberry",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Dewey Beer Company",
-    "Origin": "Dewey Beach, DE United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3704188_7ba59_sm.jpeg",
-    "HallRating": 18.64,
-    "BAR": 9.27,
-    "StylePlus": "125",
-    "RatingScore": 4.37,
-    "AdjustedRating": "3.1279367857142857142857142857"
+    "AdjustedRating": "2.1151358544906229384600885873"
   },
   {
     "BID": 4016530,
@@ -265,9 +130,39 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3495206_bffb1_sm.jpeg",
     "HallRating": 18.64,
     "BAR": 9.76,
-    "StylePlus": "129",
+    "StylePlus": "128",
     "RatingScore": 4.27,
-    "AdjustedRating": "3.4930445018086155869779677738"
+    "AdjustedRating": "2.1173760515150377351406150265"
+  },
+  {
+    "BID": 4007402,
+    "BeerName": "Double Barrel Batch 1000",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Cellarmaker Brewing Company",
+    "Origin": "Oakland, CA United States",
+    "BeerAbv": 17.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-82753_b6ced.jpeg",
+    "HallRating": 18.64,
+    "BAR": 8.80,
+    "StylePlus": "118",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.0580016372100210542581754264"
+  },
+  {
+    "BID": 3704188,
+    "BeerName": "Thrills - Double Raspberry, Boysenberry",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Dewey Beer Company",
+    "Origin": "Dewey Beach, DE United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3704188_7ba59_sm.jpeg",
+    "HallRating": 18.64,
+    "BAR": 9.27,
+    "StylePlus": "124",
+    "RatingScore": 4.37,
+    "AdjustedRating": "2.0757310010916821481240304139"
   },
   {
     "BID": 4817038,
@@ -282,7 +177,7 @@
     "BAR": 8.81,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.8599539691714836223506743738"
+    "AdjustedRating": "2.0589153134293770035919817697"
   },
   {
     "BID": 5419008,
@@ -297,14 +192,14 @@
     "BAR": 8.78,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.8452191256476683937823834197"
+    "AdjustedRating": "2.0582746964399544128725685256"
   },
   {
     "BID": 4008026,
     "BeerName": "DFPF",
     "BeerStyle": "Sour - Fruited Berliner Weisse",
     "BreweryName": "J. Wakefield Brewing",
-    "Origin": "Miami, FL United States",
+    "Origin": "Deerfield Beach, FL United States",
     "BeerAbv": 7.00,
     "BeerIbu": 4.00,
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-175397_352a7_sm.jpeg",
@@ -312,7 +207,7 @@
     "BAR": 10.57,
     "StylePlus": "115",
     "RatingScore": 4.40,
-    "AdjustedRating": "4.1511271970149253731343283582"
+    "AdjustedRating": "2.3870698093737038573206138532"
   },
   {
     "BID": 1024586,
@@ -327,22 +222,7 @@
     "BAR": 11.31,
     "StylePlus": "118",
     "RatingScore": 4.23,
-    "AdjustedRating": "4.1826322110614319838304648741"
-  },
-  {
-    "BID": 6274453,
-    "BeerName": "Minutiae Reserve (2025)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Phase Three Brewing",
-    "Origin": "Lake Zurich, IL United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6274453_05b9e_sm.jpeg",
-    "HallRating": 18.55,
-    "BAR": 8.79,
-    "StylePlus": "115",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.8840944777070063694267515924"
+    "AdjustedRating": "3.0948865266213737072354494688"
   },
   {
     "BID": 2411728,
@@ -357,7 +237,22 @@
     "BAR": 10.13,
     "StylePlus": "122",
     "RatingScore": 4.36,
-    "AdjustedRating": "3.8794347791243158717748240813"
+    "AdjustedRating": "2.2046763296651668744692000506"
+  },
+  {
+    "BID": 6274453,
+    "BeerName": "Minutiae Reserve (2025)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Phase Three Brewing",
+    "Origin": "Lake Zurich, IL United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6274453_05b9e_sm.jpeg",
+    "HallRating": 18.55,
+    "BAR": 8.79,
+    "StylePlus": "115",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.0598481081185442610290568588"
   },
   {
     "BID": 6417142,
@@ -372,6 +267,111 @@
     "BAR": 7.80,
     "StylePlus": "125",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.3679509292763157894736842105"
+    "AdjustedRating": "2.0419749375012149841566065978"
+  },
+  {
+    "BID": 3213139,
+    "BeerName": "Ikigai Sour IPA",
+    "BeerStyle": "IPA - Sour",
+    "BreweryName": "Hudson Valley Brewery",
+    "Origin": "Beacon, NY United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3113322_16c11_sm.jpeg",
+    "HallRating": 18.54,
+    "BAR": 10.03,
+    "StylePlus": "116",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.1839363431349257113616842413"
+  },
+  {
+    "BID": 3032239,
+    "BeerName": "Single Shot Vanilla Bean",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 6.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1521875_a5fb6_sm.jpeg",
+    "HallRating": 18.53,
+    "BAR": 10.74,
+    "StylePlus": "115",
+    "RatingScore": 4.38,
+    "AdjustedRating": "2.5273232118272118272118272118"
+  },
+  {
+    "BID": 3341144,
+    "BeerName": "Juice = Juice (Batch 1)",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Equilibrium Brewery",
+    "Origin": "Middletown, NY United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3341144_c29e1_sm.jpeg",
+    "HallRating": 18.52,
+    "BAR": 9.86,
+    "StylePlus": "116",
+    "RatingScore": 4.48,
+    "AdjustedRating": "2.1531673578570501048101359749"
+  },
+  {
+    "BID": 4420173,
+    "BeerName": "Piña Colada Smoothie Seltzer",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Untitled Art",
+    "Origin": "Waunakee, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4420173_b4ef5_sm.jpeg",
+    "HallRating": 18.52,
+    "BAR": 10.15,
+    "StylePlus": "120",
+    "RatingScore": 4.28,
+    "AdjustedRating": "2.2089992045025443691223275134"
+  },
+  {
+    "BID": 5302409,
+    "BeerName": "V.S.O. Gravedigger",
+    "BeerStyle": "Scotch Ale / Wee Heavy",
+    "BreweryName": "Revolution Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5302409_7b62c_sm.jpeg",
+    "HallRating": 18.52,
+    "BAR": 9.97,
+    "StylePlus": "117",
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.1741289680002939123406444028"
+  },
+  {
+    "BID": 5224308,
+    "BeerName": "Wood Selection Oat Strong Lager Barrel Aged",
+    "BeerStyle": "Lager - Strong",
+    "BreweryName": "Dama Bier",
+    "Origin": "Piracicaba, São Paulo Brazil",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5224308_b6408_sm.jpeg",
+    "HallRating": 18.50,
+    "BAR": 8.05,
+    "StylePlus": "145",
+    "RatingScore": 4.33,
+    "AdjustedRating": "2.0435825373337217205553937275"
+  },
+  {
+    "BID": 2825552,
+    "BeerName": "Hold On To Sunshine (w/ Chocolate Truffle)",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 18.49,
+    "BAR": 9.42,
+    "StylePlus": "118",
+    "RatingScore": 4.49,
+    "AdjustedRating": "2.0952352593550349863097048981"
   }
 ]

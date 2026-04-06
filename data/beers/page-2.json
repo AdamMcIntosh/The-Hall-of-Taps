@@ -1,65 +1,5 @@
 [
   {
-    "BID": 4016650,
-    "BeerName": "PARAGON 2019",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "LERVIG",
-    "Origin": "Stavanger, Rogaland Norway",
-    "BeerAbv": 13.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4008262_b355f_sm.jpeg",
-    "HallRating": 21.04,
-    "BAR": 12.01,
-    "StylePlus": "116",
-    "RatingScore": 4.53,
-    "AdjustedRating": "4.2872761682758620689655172414"
-  },
-  {
-    "BID": 4802065,
-    "BeerName": "Barrique Puffeney (2018)",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "Bokke",
-    "Origin": "Hasselt, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
-    "HallRating": 21.02,
-    "BAR": 9.66,
-    "StylePlus": "116",
-    "RatingScore": 4.75,
-    "AdjustedRating": "2.7261115"
-  },
-  {
-    "BID": 3019096,
-    "BeerName": "Utopias",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 28.00,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-bostonUtopias.jpg",
-    "HallRating": 21.02,
-    "BAR": 12.43,
-    "StylePlus": "117",
-    "RatingScore": 4.44,
-    "AdjustedRating": "4.3296650761223162003903708523"
-  },
-  {
-    "BID": 5601746,
-    "BeerName": "10 Candles",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 17.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5601746_bb7ab_sm.jpeg",
-    "HallRating": 20.97,
-    "BAR": 10.34,
-    "StylePlus": "116",
-    "RatingScore": 4.70,
-    "AdjustedRating": "3.2107330147835269271383315734"
-  },
-  {
     "BID": 3750080,
     "BeerName": "Nevergonnagetit³ Xtreme",
     "BeerStyle": "Sour - Fruited Gose",
@@ -72,7 +12,7 @@
     "BAR": 10.79,
     "StylePlus": "120",
     "RatingScore": 4.57,
-    "AdjustedRating": "3.5407514696853415195702225633"
+    "AdjustedRating": "2.1084023160644318676534610361"
   },
   {
     "BID": 1400059,
@@ -87,37 +27,22 @@
     "BAR": 11.65,
     "StylePlus": "114",
     "RatingScore": 4.57,
-    "AdjustedRating": "4.1767700234569711186043102184"
+    "AdjustedRating": "2.2902842050275216491953861796"
   },
   {
-    "BID": 5800667,
-    "BeerName": "Indulgence 18",
-    "BeerStyle": "Stout - Belgian",
-    "BreweryName": "Moersleutel Craft Brewery",
-    "Origin": "Alkmaar, Noord-Holland Netherlands",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5800667_b17e8_sm.jpeg",
-    "HallRating": 20.89,
-    "BAR": 10.96,
-    "StylePlus": "121",
-    "RatingScore": 4.51,
-    "AdjustedRating": "3.6694472969502407704654895666"
-  },
-  {
-    "BID": 5207626,
-    "BeerName": "SMOOTHIE: R & R",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "LULZ Hard Seltzer",
-    "Origin": "Lake Zurich, IL United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4267864_23672_sm.jpeg",
-    "HallRating": 20.88,
-    "BAR": 11.24,
-    "StylePlus": "123",
-    "RatingScore": 4.41,
-    "AdjustedRating": "3.8142168714421252371916508539"
+    "BID": 4016650,
+    "BeerName": "PARAGON 2019",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "LERVIG",
+    "Origin": "Stavanger, Rogaland Norway",
+    "BeerAbv": 13.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4008262_b355f_sm.jpeg",
+    "HallRating": 20.91,
+    "BAR": 11.94,
+    "StylePlus": "115",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.4351216490998363338788870704"
   },
   {
     "BID": 3345456,
@@ -132,22 +57,7 @@
     "BAR": 8.94,
     "StylePlus": "118",
     "RatingScore": 4.79,
-    "AdjustedRating": "2.439861668009669621273166801"
-  },
-  {
-    "BID": 2503502,
-    "BeerName": "Blue Berry White",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Superstition Meadery",
-    "Origin": "Prescott, AZ United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-825239_2f2eb_sm.jpeg",
-    "HallRating": 20.85,
-    "BAR": 11.56,
-    "StylePlus": "114",
-    "RatingScore": 4.57,
-    "AdjustedRating": "4.155757271042471042471042471"
+    "AdjustedRating": "2.0438672669335095014184121556"
   },
   {
     "BID": 1809221,
@@ -162,7 +72,22 @@
     "BAR": 11.56,
     "StylePlus": "114",
     "RatingScore": 4.57,
-    "AdjustedRating": "4.1556292800865132087131160204"
+    "AdjustedRating": "2.2762918050019401037073618117"
+  },
+  {
+    "BID": 2503502,
+    "BeerName": "Blue Berry White",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Superstition Meadery",
+    "Origin": "Prescott, AZ United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-825239_2f2eb_sm.jpeg",
+    "HallRating": 20.85,
+    "BAR": 11.56,
+    "StylePlus": "114",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.2763727118165784832451499118"
   },
   {
     "BID": 5613482,
@@ -177,7 +102,7 @@
     "BAR": 9.56,
     "StylePlus": "118",
     "RatingScore": 4.72,
-    "AdjustedRating": "2.710119045261669024045261669"
+    "AdjustedRating": "2.0525942167741435736555704022"
   },
   {
     "BID": 4018394,
@@ -192,7 +117,7 @@
     "BAR": 12.26,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "4.3855313904734740444951511694"
+    "AdjustedRating": "2.7282222079398268337519821501"
   },
   {
     "BID": 3808302,
@@ -205,24 +130,9 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3808302_81b15_sm.jpeg",
     "HallRating": 20.81,
     "BAR": 10.45,
-    "StylePlus": "128",
+    "StylePlus": "127",
     "RatingScore": 4.48,
-    "AdjustedRating": "3.263456411100658513640639699"
-  },
-  {
-    "BID": 6202456,
-    "BeerName": "Dream 010: Beyond Pearadise",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Zymarium Meadery",
-    "Origin": "Orlando, FL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6202456_f4e95_sm.jpeg",
-    "HallRating": 20.79,
-    "BAR": 8.84,
-    "StylePlus": "119",
-    "RatingScore": 4.77,
-    "AdjustedRating": "2.4180733793663688058489033306"
+    "AdjustedRating": "2.0840081901014307272067391263"
   },
   {
     "BID": 41360,
@@ -237,7 +147,7 @@
     "BAR": 11.64,
     "StylePlus": "121",
     "RatingScore": 4.45,
-    "AdjustedRating": "4.1141128639053254437869822485"
+    "AdjustedRating": "2.3076194494207158914058447173"
   },
   {
     "BID": 2413345,
@@ -252,22 +162,52 @@
     "BAR": 11.29,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "4.0494245940803382663847780127"
+    "AdjustedRating": "2.2075440407606223273587480666"
   },
   {
-    "BID": 5902466,
-    "BeerName": "V.S.O.J. (Very Special Old Jacket) (2024)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Revolution Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.40,
+    "BID": 6202456,
+    "BeerName": "Dream 010: Beyond Pearadise",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Zymarium Meadery",
+    "Origin": "Orlando, FL United States",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5902466_6d206_sm.jpeg",
-    "HallRating": 20.74,
-    "BAR": 11.08,
-    "StylePlus": "117",
-    "RatingScore": 4.58,
-    "AdjustedRating": "3.8761652718243596445373758495"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6202456_f4e95_sm.jpeg",
+    "HallRating": 20.79,
+    "BAR": 8.84,
+    "StylePlus": "119",
+    "RatingScore": 4.77,
+    "AdjustedRating": "2.0432690601679104477611940299"
+  },
+  {
+    "BID": 5207626,
+    "BeerName": "SMOOTHIE: R & R",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "LULZ Hard Seltzer",
+    "Origin": "Lake Zurich, IL United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4267864_23672_sm.jpeg",
+    "HallRating": 20.73,
+    "BAR": 11.16,
+    "StylePlus": "124",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.1719392141951837769328263625"
+  },
+  {
+    "BID": 4961221,
+    "BeerName": "Hold On To Sunshine",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 7.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2292485_8654f_sm.jpeg",
+    "HallRating": 20.72,
+    "BAR": 12.35,
+    "StylePlus": "116",
+    "RatingScore": 4.43,
+    "AdjustedRating": "2.8533938915978032130575373402"
   },
   {
     "BID": 3415739,
@@ -282,7 +222,22 @@
     "BAR": 10.44,
     "StylePlus": "123",
     "RatingScore": 4.55,
-    "AdjustedRating": "3.3594310201342281879194630872"
+    "AdjustedRating": "2.090547707967975600457491422"
+  },
+  {
+    "BID": 5902466,
+    "BeerName": "V.S.O.J. (Very Special Old Jacket) (2024)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Revolution Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5902466_6d206_sm.jpeg",
+    "HallRating": 20.65,
+    "BAR": 11.03,
+    "StylePlus": "117",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.164474528870881204788070526"
   },
   {
     "BID": 4013983,
@@ -295,24 +250,69 @@
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_562749_sm_c647c8c0317e639c0f4e6679fd1eeb.jpeg",
     "HallRating": 20.64,
     "BAR": 10.02,
-    "StylePlus": "117",
+    "StylePlus": "116",
     "RatingScore": 4.67,
-    "AdjustedRating": "3.0691264810562571756601607348"
+    "AdjustedRating": "2.0687787010987742221024881175"
   },
   {
-    "BID": 4961221,
-    "BeerName": "Hold On To Sunshine",
+    "BID": 5800667,
+    "BeerName": "Indulgence 18",
+    "BeerStyle": "Stout - Belgian",
+    "BreweryName": "Moersleutel Craft Brewery",
+    "Origin": "Alkmaar, Noord-Holland Netherlands",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5800667_b17e8_sm.jpeg",
+    "HallRating": 20.59,
+    "BAR": 10.80,
+    "StylePlus": "121",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.129586290963629546306711661"
+  },
+  {
+    "BID": 2400588,
+    "BeerName": "Somewhere, Something Incredible Is Waiting To Be Known",
     "BeerStyle": "Stout - Milk / Sweet",
     "BreweryName": "Tree House Brewing Company",
     "Origin": "Charlton, MA United States",
-    "BeerAbv": 7.60,
+    "BeerAbv": 7.90,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2292485_8654f_sm.jpeg",
-    "HallRating": 20.59,
-    "BAR": 12.27,
-    "StylePlus": "116",
-    "RatingScore": 4.43,
-    "AdjustedRating": "4.3385746681344064676796477424"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2398278_55f21_sm.jpeg",
+    "HallRating": 20.57,
+    "BAR": 11.97,
+    "StylePlus": "117",
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.5799603447443096057477510113"
+  },
+  {
+    "BID": 2809887,
+    "BeerName": "Moment of Clarity - Extra Maple",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2809887_b0f58_sm.jpeg",
+    "HallRating": 20.56,
+    "BAR": 10.91,
+    "StylePlus": "119",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.1492058483405268641166840304"
+  },
+  {
+    "BID": 4030434,
+    "BeerName": "Bramble+ (Batch 1)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4030434_60fa7_sm.jpeg",
+    "HallRating": 20.56,
+    "BAR": 10.60,
+    "StylePlus": "115",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.1108581086808446227200484371"
   },
   {
     "BID": 3607397,
@@ -327,22 +327,7 @@
     "BAR": 12.61,
     "StylePlus": "120",
     "RatingScore": 4.21,
-    "AdjustedRating": "4.1709482269901131383141371929"
-  },
-  {
-    "BID": 4030434,
-    "BeerName": "Bramble+ (Batch 1)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4030434_60fa7_sm.jpeg",
-    "HallRating": 20.56,
-    "BAR": 10.60,
-    "StylePlus": "116",
-    "RatingScore": 4.62,
-    "AdjustedRating": "3.5787089189189189189189189189"
+    "AdjustedRating": "3.1871450693457755451870456775"
   },
   {
     "BID": 4014656,
@@ -357,21 +342,36 @@
     "BAR": 9.12,
     "StylePlus": "124",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.5498464051789794364051789794"
+    "AdjustedRating": "2.0472224913655943187550933292"
   },
   {
-    "BID": 2809887,
-    "BeerName": "Moment of Clarity - Extra Maple",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 7.70,
+    "BID": 2422477,
+    "BeerName": "Pear Turnover",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2809887_b0f58_sm.jpeg",
-    "HallRating": 20.47,
-    "BAR": 10.86,
-    "StylePlus": "119",
-    "RatingScore": 4.54,
-    "AdjustedRating": "3.7885762205840657782818259144"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2422477_03159_sm.jpeg",
+    "HallRating": 20.44,
+    "BAR": 9.56,
+    "StylePlus": "117",
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.0565732054677983797683726146"
+  },
+  {
+    "BID": 3348226,
+    "BeerName": "Barrel Aged Pastry Method",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Moksa Brewing Co",
+    "Origin": "Rocklin, CA United States",
+    "BeerAbv": 16.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3348226_0dc31_sm.jpeg",
+    "HallRating": 20.38,
+    "BAR": 10.22,
+    "StylePlus": "113",
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.0875683122838527236945182185"
   }
 ]
