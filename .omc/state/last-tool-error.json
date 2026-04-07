@@ -1,7 +1,7 @@
 {
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"ls /d/projects/The-Hall-of-Taps/.github/workflows/ 2>/dev/null\",\"description\":\"List workflow files\"}",
-  "error": "Exit code 2",
-  "timestamp": "2026-03-14T23:20:44.581Z",
+  "tool_name": "Read",
+  "tool_input_preview": "{\"file_path\":\"C:\\\\Users\\\\amcintosh1\\\\source\\\\repos\\\\The-Hall-of-Taps\\\\data\\\\beers\\\\all-0.json\",\"limit\":50}",
+  "error": "File content (6699173 tokens) exceeds maximum allowed tokens (10000). Use offset and limit parameters to read specific portions of the file, or search for specific content instead of reading the whole file.",
+  "timestamp": "2026-04-07T13:17:52.029Z",
   "retry_count": 2
 }

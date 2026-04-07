@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1773700893523,
-  "projectRoot": "d:\\projects\\The-Hall-of-Taps",
+  "lastScanned": 1775565491964,
+  "projectRoot": "c:\\Users\\amcintosh1\\source\\repos\\The-Hall-of-Taps",
   "techStack": {
     "languages": [
       {
@@ -47,39 +47,29 @@
   },
   "customNotes": [],
   "directoryMap": {
-    "data": {
-      "path": "data",
-      "purpose": "Data files",
-      "fileCount": 2,
-      "lastAccessed": 1773700893395,
-      "keyFiles": [
-        "halloftaps.db",
-        "preview.json"
-      ]
-    },
     "css": {
       "path": "css",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1773700893425,
+      "lastAccessed": 1775565491916,
       "keyFiles": [
         "site.css"
       ]
     },
-    "js": {
-      "path": "js",
-      "purpose": null,
+    "data": {
+      "path": "data",
+      "purpose": "Data files",
       "fileCount": 1,
-      "lastAccessed": 1773700893438,
+      "lastAccessed": 1775565491917,
       "keyFiles": [
-        "site.js"
+        "preview.json"
       ]
     },
     "docs": {
       "path": "docs",
       "purpose": "Documentation",
       "fileCount": 1,
-      "lastAccessed": 1773700893447,
+      "lastAccessed": 1775565491930,
       "keyFiles": [
         "math-primer.md"
       ]
@@ -88,21 +78,85 @@
       "path": "images",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1773700893453,
+      "lastAccessed": 1775565491932,
       "keyFiles": [
         "featured.jpg"
+      ]
+    },
+    "js": {
+      "path": "js",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1775565491933,
+      "keyFiles": [
+        "site.js"
       ]
     },
     "scripts": {
       "path": "scripts",
       "purpose": "Build/utility scripts",
       "fileCount": 1,
-      "lastAccessed": 1773700893459,
+      "lastAccessed": 1775565491933,
       "keyFiles": [
         "verify_bar_percentages.sql"
       ]
     }
   },
-  "hotPaths": [],
+  "hotPaths": [
+    {
+      "path": "js\\site.js",
+      "accessCount": 14,
+      "lastAccessed": 1775573270010,
+      "type": "file"
+    },
+    {
+      "path": "docs\\math-primer.md",
+      "accessCount": 5,
+      "lastAccessed": 1775568199436,
+      "type": "file"
+    },
+    {
+      "path": "",
+      "accessCount": 3,
+      "lastAccessed": 1775573282597,
+      "type": "directory"
+    },
+    {
+      "path": "beers.html",
+      "accessCount": 3,
+      "lastAccessed": 1775573290228,
+      "type": "file"
+    },
+    {
+      "path": "index.html",
+      "accessCount": 2,
+      "lastAccessed": 1775573274831,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1775567835743,
+      "type": "file"
+    },
+    {
+      "path": "math-primer.html",
+      "accessCount": 1,
+      "lastAccessed": 1775567835877,
+      "type": "file"
+    },
+    {
+      "path": "js",
+      "accessCount": 1,
+      "lastAccessed": 1775568035268,
+      "type": "directory"
+    },
+    {
+      "path": "js/site.js",
+      "accessCount": 1,
+      "lastAccessed": 1775568437567,
+      "type": "directory"
+    }
+  ],
   "userDirectives": []
 }
