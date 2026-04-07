@@ -66,7 +66,7 @@
           var slice = data.slice(0, limit);
           tbodyEl.innerHTML = slice.map(function (m, i) {
             var href = (m.BID != null) ? 'beer.html#' + encodeURIComponent(m.BID) : 'beers.html';
-            return '<tr><td>' + (i + 1) + '</td><td><a href="' + href + '">' + escapeHtml(m.BeerName) + '</a></td><td>' + (m.HallRating != null ? m.HallRating : '') + '</td></tr>';
+            return '<tr><td>' + (i + 1) + '</td><td><a href="' + href + '">' + escapeHtml(m.BeerName) + '</a></td><td>' + (m.OPSPlus != null ? m.OPSPlus : '') + '</td></tr>';
           }).join('');
         })
         .catch(function () {
