@@ -12,7 +12,10 @@
     "BAR": 10.79,
     "StylePlus": "120",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1084023160644318676534610361"
+    "AdjustedRating": "3.533786059094397544128933231",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 76,
+    "StyleAvgAbv": 5.08
   },
   {
     "BID": 1400059,
@@ -27,7 +30,10 @@
     "BAR": 11.65,
     "StylePlus": "114",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.2902842050275216491953861796"
+    "AdjustedRating": "4.1741088506084151883887992963",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 4016650,
@@ -42,7 +48,10 @@
     "BAR": 11.94,
     "StylePlus": "115",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.4351216490998363338788870704"
+    "AdjustedRating": "4.2856070317241379310344827586",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 3345456,
@@ -57,22 +66,10 @@
     "BAR": 8.94,
     "StylePlus": "118",
     "RatingScore": 4.79,
-    "AdjustedRating": "2.0438672669335095014184121556"
-  },
-  {
-    "BID": 1809221,
-    "BeerName": "Berry White",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Superstition Meadery",
-    "Origin": "Prescott, AZ United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-647045_b5f29_sm.jpeg",
-    "HallRating": 20.85,
-    "BAR": 11.56,
-    "StylePlus": "114",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.2762918050019401037073618117"
+    "AdjustedRating": "2.4252348670427074939564867043",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 79,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 2503502,
@@ -87,7 +84,28 @@
     "BAR": 11.56,
     "StylePlus": "114",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.2763727118165784832451499118"
+    "AdjustedRating": "4.152953894980694980694980695",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 1809221,
+    "BeerName": "Berry White",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Superstition Meadery",
+    "Origin": "Prescott, AZ United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-647045_b5f29_sm.jpeg",
+    "HallRating": 20.85,
+    "BAR": 11.56,
+    "StylePlus": "114",
+    "RatingScore": 4.57,
+    "AdjustedRating": "4.1528250378495288119882589217",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 5613482,
@@ -102,22 +120,10 @@
     "BAR": 9.56,
     "StylePlus": "118",
     "RatingScore": 4.72,
-    "AdjustedRating": "2.0525942167741435736555704022"
-  },
-  {
-    "BID": 4018394,
-    "BeerName": "Morning Wood",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Funky Buddha Brewery",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 11.20,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-127376_2b40c_sm.jpeg",
-    "HallRating": 20.81,
-    "BAR": 12.26,
-    "StylePlus": "114",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.7282222079398268337519821501"
+    "AdjustedRating": "2.6972818033946251768033946252",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 37,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 3808302,
@@ -132,22 +138,28 @@
     "BAR": 10.45,
     "StylePlus": "127",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.0840081901014307272067391263"
+    "AdjustedRating": "3.2549183772342427093132643462",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 43,
+    "StyleAvgAbv": 5.39
   },
   {
-    "BID": 41360,
-    "BeerName": "Flora",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 5.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-41360_ee6a3_sm.jpeg",
-    "HallRating": 20.79,
-    "BAR": 11.64,
-    "StylePlus": "121",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.3076194494207158914058447173"
+    "BID": 4018394,
+    "BeerName": "Morning Wood",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Funky Buddha Brewery",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 11.20,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-127376_2b40c_sm.jpeg",
+    "HallRating": 20.81,
+    "BAR": 12.26,
+    "StylePlus": "114",
+    "RatingScore": 4.51,
+    "AdjustedRating": "4.3846684954363947518539646321",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 34,
+    "StyleAvgAbv": 10.03
   },
   {
     "BID": 2413345,
@@ -162,7 +174,28 @@
     "BAR": 11.29,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.2075440407606223273587480666"
+    "AdjustedRating": "4.0455869915433403805496828753",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 48,
+    "StyleAvgAbv": 10.5
+  },
+  {
+    "BID": 41360,
+    "BeerName": "Flora",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 5.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-41360_ee6a3_sm.jpeg",
+    "HallRating": 20.79,
+    "BAR": 11.64,
+    "StylePlus": "121",
+    "RatingScore": 4.45,
+    "AdjustedRating": "4.1117260315581854043392504931",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6202456,
@@ -177,7 +210,10 @@
     "BAR": 8.84,
     "StylePlus": "119",
     "RatingScore": 4.77,
-    "AdjustedRating": "2.0432690601679104477611940299"
+    "AdjustedRating": "2.4033277579203899268887083672",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 9,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 5207626,
@@ -192,7 +228,10 @@
     "BAR": 11.16,
     "StylePlus": "124",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.1719392141951837769328263625"
+    "AdjustedRating": "3.8099114018026565464895635674",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 4,
+    "StyleAvgAbv": 5.29
   },
   {
     "BID": 4961221,
@@ -207,22 +246,10 @@
     "BAR": 12.35,
     "StylePlus": "116",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.8533938915978032130575373402"
-  },
-  {
-    "BID": 3415739,
-    "BeerName": "Flora (Batch 8)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
-    "HallRating": 20.65,
-    "BAR": 10.44,
-    "StylePlus": "123",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.090547707967975600457491422"
+    "AdjustedRating": "4.3379195318872487097123470603",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 6.1
   },
   {
     "BID": 5902466,
@@ -237,7 +264,28 @@
     "BAR": 11.03,
     "StylePlus": "117",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.164474528870881204788070526"
+    "AdjustedRating": "3.8714209278619968635650810246",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 45,
+    "StyleAvgAbv": 12.03
+  },
+  {
+    "BID": 3415739,
+    "BeerName": "Flora (Batch 8)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 20.65,
+    "BAR": 10.44,
+    "StylePlus": "123",
+    "RatingScore": 4.55,
+    "AdjustedRating": "3.3513093825503355704697986577",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 4013983,
@@ -252,7 +300,10 @@
     "BAR": 10.02,
     "StylePlus": "116",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0687787010987742221024881175"
+    "AdjustedRating": "3.0587063547646383467278989667",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 5800667,
@@ -267,7 +318,10 @@
     "BAR": 10.80,
     "StylePlus": "121",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.129586290963629546306711661"
+    "AdjustedRating": "3.6636200545746388443017656501",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 98,
+    "StyleAvgAbv": 8.68
   },
   {
     "BID": 2400588,
@@ -282,22 +336,10 @@
     "BAR": 11.97,
     "StylePlus": "117",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.5799603447443096057477510113"
-  },
-  {
-    "BID": 2809887,
-    "BeerName": "Moment of Clarity - Extra Maple",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 7.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2809887_b0f58_sm.jpeg",
-    "HallRating": 20.56,
-    "BAR": 10.91,
-    "StylePlus": "119",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.1492058483405268641166840304"
+    "AdjustedRating": "4.2894850233980158482560678854",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 6.1
   },
   {
     "BID": 4030434,
@@ -312,7 +354,28 @@
     "BAR": 10.60,
     "StylePlus": "115",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.1108581086808446227200484371"
+    "AdjustedRating": "3.5717991891891891891891891892",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 2809887,
+    "BeerName": "Moment of Clarity - Extra Maple",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 7.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2809887_b0f58_sm.jpeg",
+    "HallRating": 20.56,
+    "BAR": 10.91,
+    "StylePlus": "119",
+    "RatingScore": 4.54,
+    "AdjustedRating": "3.7834296767791324071448823363",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 6.1
   },
   {
     "BID": 3607397,
@@ -327,7 +390,10 @@
     "BAR": 12.61,
     "StylePlus": "120",
     "RatingScore": 4.21,
-    "AdjustedRating": "3.1871450693457755451870456775"
+    "AdjustedRating": "4.1706398680053001732748955254",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 5.39
   },
   {
     "BID": 4014656,
@@ -342,7 +408,10 @@
     "BAR": 9.12,
     "StylePlus": "124",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.0472224913655943187550933292"
+    "AdjustedRating": "2.5360216831683168316831683168",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.61
   },
   {
     "BID": 2422477,
@@ -357,7 +426,10 @@
     "BAR": 9.56,
     "StylePlus": "117",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.0565732054677983797683726146"
+    "AdjustedRating": "2.799509672459893048128342246",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 3348226,
@@ -372,6 +444,9 @@
     "BAR": 10.22,
     "StylePlus": "113",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.0875683122838527236945182185"
+    "AdjustedRating": "3.3509026846590909090909090909",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 34,
+    "StyleAvgAbv": 11.93
   }
 ]

@@ -1,20 +1,5 @@
 [
   {
-    "BID": 3344292,
-    "BeerName": "Double Dry Hopped Melcher Street",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Trillium Brewing Company",
-    "Origin": "Canton, MA United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-934620_bf795_sm.jpeg",
-    "HallRating": 19.37,
-    "BAR": 11.81,
-    "StylePlus": "114",
-    "RatingScore": 4.39,
-    "AdjustedRating": "3.1813518683473389355742296919"
-  },
-  {
     "BID": 5021273,
     "BeerName": "Peanut Butter & Grape Jelly Sour",
     "BeerStyle": "Gluten-Free",
@@ -27,37 +12,28 @@
     "BAR": 10.07,
     "StylePlus": "129",
     "RatingScore": 4.32,
-    "AdjustedRating": "2.1107282704811443433029908973"
+    "AdjustedRating": "3.4617053843441466854724964739",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 5.4
   },
   {
-    "BID": 3202515,
-    "BeerName": "All That Is and All That Ever Will Be",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 6.50,
+    "BID": 4025139,
+    "BeerName": "Barrel-Aged Dorothy (Batch 4)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 7.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1745402_0d956_sm.jpeg",
-    "HallRating": 19.32,
-    "BAR": 11.30,
-    "StylePlus": "115",
-    "RatingScore": 4.40,
-    "AdjustedRating": "2.6176318127864613938183100247"
-  },
-  {
-    "BID": 3334736,
-    "BeerName": "Henna: Double Rainbow (2017)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "More Brewing Company",
-    "Origin": "Huntley, IL United States",
-    "BeerAbv": 11.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2255259_ac952_sm.jpeg",
-    "HallRating": 19.32,
-    "BAR": 10.15,
-    "StylePlus": "114",
-    "RatingScore": 4.60,
-    "AdjustedRating": "2.1342933415781288061910918733"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 19.37,
+    "BAR": 9.69,
+    "StylePlus": "122",
+    "RatingScore": 4.50,
+    "AdjustedRating": "3.2339327242044358727097396336",
+    "BreweryRank": 14,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6407256,
@@ -72,7 +48,46 @@
     "BAR": 10.59,
     "StylePlus": "113",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.2314100664678618905615636115"
+    "AdjustedRating": "4.049571121117441646756111009",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 49,
+    "StyleAvgAbv": 11.28
+  },
+  {
+    "BID": 3202515,
+    "BeerName": "All That Is and All That Ever Will Be",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1745402_0d956_sm.jpeg",
+    "HallRating": 19.32,
+    "BAR": 11.30,
+    "StylePlus": "115",
+    "RatingScore": 4.40,
+    "AdjustedRating": "4.2588377021348125735417717263",
+    "BreweryRank": 11,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 6.1
+  },
+  {
+    "BID": 3334736,
+    "BeerName": "Henna: Double Rainbow (2017)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "More Brewing Company",
+    "Origin": "Huntley, IL United States",
+    "BeerAbv": 11.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2255259_ac952_sm.jpeg",
+    "HallRating": 19.32,
+    "BAR": 10.15,
+    "StylePlus": "114",
+    "RatingScore": 4.60,
+    "AdjustedRating": "3.7303871642266072565245066836",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 56,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 2011218,
@@ -87,7 +102,10 @@
     "BAR": 11.14,
     "StylePlus": "121",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.4789366188227887944601825622"
+    "AdjustedRating": "4.1555896710476905745399924897",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 71,
+    "StyleAvgAbv": 6.04
   },
   {
     "BID": 3807417,
@@ -102,7 +120,10 @@
     "BAR": 9.48,
     "StylePlus": "126",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0705853176904318439294149273"
+    "AdjustedRating": "3.0496528964401294498381877023",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 43,
+    "StyleAvgAbv": 5.39
   },
   {
     "BID": 5622079,
@@ -117,7 +138,10 @@
     "BAR": 10.46,
     "StylePlus": "137",
     "RatingScore": 4.09,
-    "AdjustedRating": "2.1694340606612624100555606157"
+    "AdjustedRating": "3.6212262248394004282655246253",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 7.75
   },
   {
     "BID": 6102626,
@@ -132,7 +156,10 @@
     "BAR": 12.12,
     "StylePlus": "111",
     "RatingScore": 4.46,
-    "AdjustedRating": "3.7515170776099683364085742272"
+    "AdjustedRating": "4.4393953663127836581027510349",
+    "BreweryRank": 12,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 8.19
   },
   {
     "BID": 1246754,
@@ -147,7 +174,10 @@
     "BAR": 11.53,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.9496196819544806567369611168"
+    "AdjustedRating": "4.4253538533406106527113365653",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 6.45
   },
   {
     "BID": 3904423,
@@ -162,7 +192,10 @@
     "BAR": 10.44,
     "StylePlus": "115",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.205446382986458238662183041"
+    "AdjustedRating": "3.998471079331941544885177453",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 6.66
   },
   {
     "BID": 6407331,
@@ -177,7 +210,10 @@
     "BAR": 7.39,
     "StylePlus": "138",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0382192691521464031928355884"
+    "AdjustedRating": "2.2045407631578947368421052632",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 38,
+    "StyleAvgAbv": 5.4
   },
   {
     "BID": 2033933,
@@ -192,7 +228,10 @@
     "BAR": 10.36,
     "StylePlus": "120",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.1793911653970114268971579256"
+    "AdjustedRating": "3.8403459890485968514715947981",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 52,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 4800211,
@@ -207,22 +246,10 @@
     "BAR": 11.45,
     "StylePlus": "111",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.9083276621774701069855254877"
-  },
-  {
-    "BID": 2802032,
-    "BeerName": "Pêche du Fermier (Blend #2)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-822424_ba1bf_sm.jpeg",
-    "HallRating": 19.16,
-    "BAR": 10.01,
-    "StylePlus": "121",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.1211241331603977518374405534"
+    "AdjustedRating": "4.4101514617621899059024807528",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6303467,
@@ -237,7 +264,28 @@
     "BAR": 9.20,
     "StylePlus": "115",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0638972409938127638249069987"
+    "AdjustedRating": "2.9571838586956521739130434783",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 2802032,
+    "BeerName": "Pêche du Fermier (Blend #2)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Side Project Brewing",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-822424_ba1bf_sm.jpeg",
+    "HallRating": 19.16,
+    "BAR": 10.01,
+    "StylePlus": "121",
+    "RatingScore": 4.45,
+    "AdjustedRating": "3.5849786381977135171486213853",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6303536,
@@ -252,7 +300,10 @@
     "BAR": 7.07,
     "StylePlus": "119",
     "RatingScore": 4.78,
-    "AdjustedRating": "2.0374918254231016417706974117"
+    "AdjustedRating": "2.173918422459893048128342246",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 9,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 6424660,
@@ -267,7 +318,10 @@
     "BAR": 8.35,
     "StylePlus": "122",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0448964593487252179653973864"
+    "AdjustedRating": "2.4569595525902668759811616954",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 8.98
   },
   {
     "BID": 3904435,
@@ -282,7 +336,10 @@
     "BAR": 10.55,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.2513960570308322937087863126"
+    "AdjustedRating": "4.1029526711979609175870858114",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 1643001,
@@ -297,7 +354,10 @@
     "BAR": 11.06,
     "StylePlus": "115",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.526160849745107457737421944"
+    "AdjustedRating": "4.2517388534097261039686975964",
+    "BreweryRank": 15,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 5902002,
@@ -312,7 +372,10 @@
     "BAR": 9.27,
     "StylePlus": "115",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0682255336835421116434797668"
+    "AdjustedRating": "3.0410874254587155963302752294",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 15,
+    "StyleAvgAbv": 11.28
   },
   {
     "BID": 1675563,
@@ -327,7 +390,10 @@
     "BAR": 8.59,
     "StylePlus": "116",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.0490538953409465459410202222"
+    "AdjustedRating": "2.5917873298816568047337278107",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 4980515,
@@ -342,7 +408,10 @@
     "BAR": 9.40,
     "StylePlus": "122",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0732884181842605208113450135"
+    "AdjustedRating": "3.1077287751855779427359490986",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 4630889,
@@ -357,21 +426,27 @@
     "BAR": 9.16,
     "StylePlus": "132",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.061681109269608787820389285"
+    "AdjustedRating": "2.8832891711711711711711711712",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 38,
+    "StyleAvgAbv": 5.4
   },
   {
-    "BID": 1209346,
-    "BeerName": "Headroom",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Trillium Brewing Company",
-    "Origin": "Canton, MA United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 66.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1206351_7a9ec_sm.jpeg",
+    "BID": 6302171,
+    "BeerName": "PB&J Mixtape: Grape",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Xul Beer Company",
+    "Origin": "Knoxville, TN United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5197743_d6358_sm.jpeg",
     "HallRating": 19.03,
-    "BAR": 11.17,
-    "StylePlus": "112",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.6833643993037073268979010516"
+    "BAR": 11.12,
+    "StylePlus": "114",
+    "RatingScore": 4.40,
+    "AdjustedRating": "4.2556757831118240146654445463",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 29,
+    "StyleAvgAbv": 5.66
   }
 ]

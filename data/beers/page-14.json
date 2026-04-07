@@ -1,20 +1,5 @@
 [
   {
-    "BID": 3402860,
-    "BeerName": "Here's To Feeling Good All the Time",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Bissell Brothers Brewing Company",
-    "Origin": "Portland, ME United States",
-    "BeerAbv": 7.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2166301_1ef83_sm.jpeg",
-    "HallRating": 17.12,
-    "BAR": 10.17,
-    "StylePlus": "112",
-    "RatingScore": 4.34,
-    "AdjustedRating": "2.7817361703585594370577305731"
-  },
-  {
     "BID": 3809347,
     "BeerName": "Oreo Marshmallow Vanilla Bubble Wrap",
     "BeerStyle": "Stout - Imperial / Double Pastry",
@@ -27,7 +12,28 @@
     "BAR": 8.53,
     "StylePlus": "111",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0809655779942956681533661301"
+    "AdjustedRating": "3.2399635267857142857142857143",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 60,
+    "StyleAvgAbv": 11.93
+  },
+  {
+    "BID": 3402860,
+    "BeerName": "Here's To Feeling Good All the Time",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Bissell Brothers Brewing Company",
+    "Origin": "Portland, ME United States",
+    "BeerAbv": 7.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2166301_1ef83_sm.jpeg",
+    "HallRating": 17.12,
+    "BAR": 10.17,
+    "StylePlus": "112",
+    "RatingScore": 4.34,
+    "AdjustedRating": "4.2443167512274959083469721768",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 21,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 2828422,
@@ -42,7 +48,10 @@
     "BAR": 9.54,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.292765749476622470341939986"
+    "AdjustedRating": "4.121406126849894291754756871",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 79,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 3302569,
@@ -57,22 +66,10 @@
     "BAR": 8.93,
     "StylePlus": "115",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.1188430100007519362358072035"
-  },
-  {
-    "BID": 4214123,
-    "BeerName": "Dessert Station: Rum Barrel Aged Bananas Foster",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4214123_fe7d2_sm.jpeg",
-    "HallRating": 17.09,
-    "BAR": 8.56,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.0831987452209818014987001071"
+    "AdjustedRating": "3.5456130831369909121507909795",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 30,
+    "StyleAvgAbv": 6.25
   },
   {
     "BID": 4042465,
@@ -87,7 +84,28 @@
     "BAR": 8.06,
     "StylePlus": "113",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0575751025769810300197040529"
+    "AdjustedRating": "2.8114707787151200519143413368",
+    "BreweryRank": 14,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 4214123,
+    "BeerName": "Dessert Station: Rum Barrel Aged Bananas Foster",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4214123_fe7d2_sm.jpeg",
+    "HallRating": 17.09,
+    "BAR": 8.56,
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "3.2565100479156684235745088644",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 38,
+    "StyleAvgAbv": 5.9
   },
   {
     "BID": 5409840,
@@ -102,7 +120,10 @@
     "BAR": 7.92,
     "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0537062726885715391462517899"
+    "AdjustedRating": "2.7195295732966276668960770819",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6412149,
@@ -117,7 +138,10 @@
     "BAR": 8.88,
     "StylePlus": "118",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.1129949844583011510276359663"
+    "AdjustedRating": "3.4934067424772568229531140658",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 60,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 4630746,
@@ -132,7 +156,10 @@
     "BAR": 9.13,
     "StylePlus": "115",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.1603566661741892590677402674"
+    "AdjustedRating": "3.7723773821055314810094315575",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 1801615,
@@ -147,7 +174,10 @@
     "BAR": 10.04,
     "StylePlus": "115",
     "RatingScore": 4.26,
-    "AdjustedRating": "2.6528820414771847325664888"
+    "AdjustedRating": "4.1460579016440726853187193539",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 78,
+    "StyleAvgAbv": 6.43
   },
   {
     "BID": 3600414,
@@ -162,22 +192,10 @@
     "BAR": 6.95,
     "StylePlus": "115",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0403513677125683272706051705"
-  },
-  {
-    "BID": 2011238,
-    "BeerName": "No Rules Vietnamese Porter (2017)",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Perrin Brewing Co.®",
-    "Origin": "Comstock Park, MI United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 56.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2011238_5cab3_sm.jpeg",
-    "HallRating": 17.01,
-    "BAR": 9.77,
-    "StylePlus": "112",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.4604925320405126482023712379"
+    "AdjustedRating": "2.2913591116751269035532994924",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 6417144,
@@ -192,22 +210,28 @@
     "BAR": 6.58,
     "StylePlus": "124",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0382941278617037844572496496"
+    "AdjustedRating": "2.2074684776902887139107611549",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 8,
+    "StyleAvgAbv": 6.22
   },
   {
-    "BID": 2408234,
-    "BeerName": "Cilice",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Garagiste Meadery",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 12.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2408234_c215d_sm.jpeg",
-    "HallRating": 17.00,
-    "BAR": 8.90,
+    "BID": 2011238,
+    "BeerName": "No Rules Vietnamese Porter (2017)",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Perrin Brewing Co.®",
+    "Origin": "Comstock Park, MI United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 56.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2011238_5cab3_sm.jpeg",
+    "HallRating": 17.01,
+    "BAR": 9.77,
     "StylePlus": "112",
-    "RatingScore": 4.48,
-    "AdjustedRating": "2.1256525847926872759352065619"
+    "RatingScore": 4.41,
+    "AdjustedRating": "4.203875384552713051979794688",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 25,
+    "StyleAvgAbv": 10.03
   },
   {
     "BID": 4210984,
@@ -222,7 +246,28 @@
     "BAR": 7.23,
     "StylePlus": "127",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.0420431584266169154228855721"
+    "AdjustedRating": "2.3520848659626320064987814785",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 5.84
+  },
+  {
+    "BID": 2408234,
+    "BeerName": "Cilice",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Garagiste Meadery",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 12.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2408234_c215d_sm.jpeg",
+    "HallRating": 17.00,
+    "BAR": 8.90,
+    "StylePlus": "112",
+    "RatingScore": 4.48,
+    "AdjustedRating": "3.6266174541284403669724770642",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 4407318,
@@ -237,7 +282,10 @@
     "BAR": 10.08,
     "StylePlus": "115",
     "RatingScore": 4.24,
-    "AdjustedRating": "2.7282671757316584257650674863"
+    "AdjustedRating": "4.1445347071733387522861207072",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6600522,
@@ -252,7 +300,10 @@
     "BAR": 4.25,
     "StylePlus": "120",
     "RatingScore": 4.83,
-    "AdjustedRating": "2.0349889426900584795321637427"
+    "AdjustedRating": "2.0604432279069767441860465116",
+    "BreweryRank": 10,
+    "BreweryBeerCount": 37,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 6405137,
@@ -267,7 +318,10 @@
     "BAR": 6.88,
     "StylePlus": "124",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0398162087078323800630325668"
+    "AdjustedRating": "2.2690539252336448598130841121",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 13,
+    "StyleAvgAbv": 6.09
   },
   {
     "BID": 6003704,
@@ -282,22 +336,10 @@
     "BAR": 7.91,
     "StylePlus": "113",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0554458621289761191143768732"
-  },
-  {
-    "BID": 3237217,
-    "BeerName": "Buckley Reserve #1",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Transient Artisan Ales",
-    "Origin": "Bridgman, MI United States",
-    "BeerAbv": 15.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3237217_22569_sm.jpeg",
-    "HallRating": 16.94,
-    "BAR": 9.08,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.1673566929889298892988929889"
+    "AdjustedRating": "2.7633734697986577181208053691",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 75,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 2015550,
@@ -312,22 +354,28 @@
     "BAR": 7.50,
     "StylePlus": "114",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0460225250329892105875960568"
+    "AdjustedRating": "2.4909536878347360367253251721",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 65,
+    "StyleAvgAbv": 6.14
   },
   {
-    "BID": 6215492,
-    "BeerName": "Fortune & Glory (2025)",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Bottle Logic Brewing",
-    "Origin": "Anaheim, CA United States",
-    "BeerAbv": 13.50,
+    "BID": 3237217,
+    "BeerName": "Buckley Reserve #1",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Transient Artisan Ales",
+    "Origin": "Bridgman, MI United States",
+    "BeerAbv": 15.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6215492_df943_sm.jpeg",
-    "HallRating": 16.92,
-    "BAR": 8.36,
-    "StylePlus": "120",
-    "RatingScore": 4.30,
-    "AdjustedRating": "2.0715486491254986192083461184"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3237217_22569_sm.jpeg",
+    "HallRating": 16.94,
+    "BAR": 9.08,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "3.8467362188679245283018867925",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 45,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6213066,
@@ -342,7 +390,28 @@
     "BAR": 7.30,
     "StylePlus": "124",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0432390442704792245381611919"
+    "AdjustedRating": "2.3954916028708133971291866029",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 46,
+    "StyleAvgAbv": 5.68
+  },
+  {
+    "BID": 6215492,
+    "BeerName": "Fortune & Glory (2025)",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Bottle Logic Brewing",
+    "Origin": "Anaheim, CA United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6215492_df943_sm.jpeg",
+    "HallRating": 16.92,
+    "BAR": 8.36,
+    "StylePlus": "120",
+    "RatingScore": 4.30,
+    "AdjustedRating": "3.0426662167795726941115164148",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 61,
+    "StyleAvgAbv": 5.29
   },
   {
     "BID": 5901728,
@@ -357,7 +426,10 @@
     "BAR": 8.34,
     "StylePlus": "120",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.0707791267313816521505582627"
+    "AdjustedRating": "3.0307608995265649658074697528",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 12,
+    "StyleAvgAbv": 5.29
   },
   {
     "BID": 2415519,
@@ -372,6 +444,9 @@
     "BAR": 8.69,
     "StylePlus": "114",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.1038283282191158086146152972"
+    "AdjustedRating": "3.4603178162709225379525107046",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 19,
+    "StyleAvgAbv": 12.03
   }
 ]

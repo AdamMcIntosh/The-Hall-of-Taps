@@ -1,5 +1,23 @@
 [
   {
+    "BID": 5802354,
+    "BeerName": "Sense of Source",
+    "BeerStyle": "Lager - Pale",
+    "BreweryName": "Wishful Thinking Brewing Company",
+    "Origin": "Bethlehem, PA United States",
+    "BeerAbv": 4.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-558357_38366.jpeg",
+    "HallRating": 14.91,
+    "BAR": 7.05,
+    "StylePlus": "128",
+    "RatingScore": 4.00,
+    "AdjustedRating": "2.6546763946015424164524421594",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 4,
+    "StyleAvgAbv": 4.73
+  },
+  {
     "BID": 5217683,
     "BeerName": "Glamoro",
     "BeerStyle": "IPA - Imperial / Double New England / Hazy",
@@ -12,22 +30,10 @@
     "BAR": 8.35,
     "StylePlus": "110",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.3079519567769108610094593662"
-  },
-  {
-    "BID": 5101119,
-    "BeerName": "B-Boy Apostle",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 6.90,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3736972_39dc2_sm.jpeg",
-    "HallRating": 14.90,
-    "BAR": 8.07,
-    "StylePlus": "112",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.1810847373608322686621646286"
+    "AdjustedRating": "4.0903485753211366290385363955",
+    "BreweryRank": 13,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 8.19
   },
   {
     "BID": 5422466,
@@ -42,22 +48,10 @@
     "BAR": 6.28,
     "StylePlus": "116",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0416580051707715335419785005"
-  },
-  {
-    "BID": 1804591,
-    "BeerName": "Rocky Road",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1804591_51dc3_sm.jpeg",
-    "HallRating": 14.90,
-    "BAR": 8.51,
-    "StylePlus": "109",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.4211571522389035008903337526"
+    "AdjustedRating": "2.3391268226600985221674876847",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 3,
+    "StyleAvgAbv": 5.66
   },
   {
     "BID": 4004918,
@@ -72,7 +66,28 @@
     "BAR": 7.94,
     "StylePlus": "113",
     "RatingScore": 4.25,
-    "AdjustedRating": "2.1430178695789219958096156342"
+    "AdjustedRating": "3.6136533090614886731391585761",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 31,
+    "StyleAvgAbv": 9.44
+  },
+  {
+    "BID": 5101119,
+    "BeerName": "B-Boy Apostle",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Monkish Brewing Co.",
+    "Origin": "Torrance, CA United States",
+    "BeerAbv": 6.90,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3736972_39dc2_sm.jpeg",
+    "HallRating": 14.90,
+    "BAR": 8.07,
+    "StylePlus": "112",
+    "RatingScore": 4.33,
+    "AdjustedRating": "3.794452676889375684556407448",
+    "BreweryRank": 14,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 6.48
   },
   {
     "BID": 4219360,
@@ -87,7 +102,28 @@
     "BAR": 6.67,
     "StylePlus": "112",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0473028076027928626842513576"
+    "AdjustedRating": "2.5310685168539325842696629213",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 1804591,
+    "BeerName": "Rocky Road",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1804591_51dc3_sm.jpeg",
+    "HallRating": 14.90,
+    "BAR": 8.51,
+    "StylePlus": "109",
+    "RatingScore": 4.42,
+    "AdjustedRating": "4.1887819867127775755369493993",
+    "BreweryRank": 10,
+    "BreweryBeerCount": 48,
+    "StyleAvgAbv": 10.5
   },
   {
     "BID": 3333753,
@@ -102,37 +138,10 @@
     "BAR": 7.21,
     "StylePlus": "114",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.0640202668206757146982385215"
-  },
-  {
-    "BID": 6003832,
-    "BeerName": "Stricken From Narrative",
-    "BeerStyle": "IPA - Triple New England / Hazy",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003832_8c221_sm.jpeg",
-    "HallRating": 14.89,
-    "BAR": 7.31,
-    "StylePlus": "110",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0722764117534088726714038794"
-  },
-  {
-    "BID": 6400602,
-    "BeerName": "Unreliable Substance Frozen In Time",
-    "BeerStyle": "Bock - Eisbock",
-    "BreweryName": "Klere Boght",
-    "Origin": "Alphen aan den Rijn, Zuid-Holland Netherlands",
-    "BeerAbv": 19.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400602_ed554_sm.jpeg",
-    "HallRating": 14.89,
-    "BAR": 5.31,
-    "StylePlus": "117",
-    "RatingScore": 4.48,
-    "AdjustedRating": "2.0366353584229390681003584229"
+    "AdjustedRating": "2.9276607383720930232558139535",
+    "BreweryRank": 13,
+    "BreweryBeerCount": 43,
+    "StyleAvgAbv": 5.66
   },
   {
     "BID": 6503040,
@@ -147,7 +156,46 @@
     "BAR": 6.88,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.052532666744087020477683583"
+    "AdjustedRating": "2.6829954684247050659264399722",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 6400602,
+    "BeerName": "Unreliable Substance Frozen In Time",
+    "BeerStyle": "Bock - Eisbock",
+    "BreweryName": "Klere Boght",
+    "Origin": "Alphen aan den Rijn, Zuid-Holland Netherlands",
+    "BeerAbv": 19.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400602_ed554_sm.jpeg",
+    "HallRating": 14.89,
+    "BAR": 5.31,
+    "StylePlus": "117",
+    "RatingScore": 4.48,
+    "AdjustedRating": "2.1356943924392439243924392439",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 6,
+    "StyleAvgAbv": 15.43
+  },
+  {
+    "BID": 6003832,
+    "BeerName": "Stricken From Narrative",
+    "BeerStyle": "IPA - Triple New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6003832_8c221_sm.jpeg",
+    "HallRating": 14.89,
+    "BAR": 7.31,
+    "StylePlus": "110",
+    "RatingScore": 4.56,
+    "AdjustedRating": "3.1021552682926829268292682927",
+    "BreweryRank": 13,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 9.95
   },
   {
     "BID": 6428684,
@@ -162,22 +210,10 @@
     "BAR": 6.56,
     "StylePlus": "114",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.045314403618082649119742231"
-  },
-  {
-    "BID": 6423983,
-    "BeerName": "Your Quadruple Sour Red Angels Juice",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Midnight Project",
-    "Origin": "Minsk, Minskaja voblasć Belarus",
-    "BeerAbv": 11.50,
-    "BeerIbu": 15.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6423983_e209e_sm.jpeg",
-    "HallRating": 14.88,
-    "BAR": 6.85,
-    "StylePlus": "114",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.0510929443196778440331448927"
+    "AdjustedRating": "2.4672306568778979907264296754",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 36,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 6401056,
@@ -192,7 +228,28 @@
     "BAR": 5.88,
     "StylePlus": "114",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0389169685292228644829800899"
+    "AdjustedRating": "2.2332495415224913494809688581",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 11.28
+  },
+  {
+    "BID": 6423983,
+    "BeerName": "Your Quadruple Sour Red Angels Juice",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Midnight Project",
+    "Origin": "Minsk, Minskaja voblasć Belarus",
+    "BeerAbv": 11.50,
+    "BeerIbu": 15.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6423983_e209e_sm.jpeg",
+    "HallRating": 14.88,
+    "BAR": 6.85,
+    "StylePlus": "114",
+    "RatingScore": 4.41,
+    "AdjustedRating": "2.6370683041345480028030833917",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 31,
+    "StyleAvgAbv": 5.66
   },
   {
     "BID": 6004413,
@@ -207,7 +264,10 @@
     "BAR": 7.31,
     "StylePlus": "110",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0712830544728403832491695628"
+    "AdjustedRating": "3.0681769773706896551724137931",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 53,
+    "StyleAvgAbv": 5.9
   },
   {
     "BID": 5019201,
@@ -222,7 +282,10 @@
     "BAR": 6.29,
     "StylePlus": "113",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0420596489591229809318327599"
+    "AdjustedRating": "2.3550625777414075286415711948",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 11.28
   },
   {
     "BID": 5601774,
@@ -237,7 +300,10 @@
     "BAR": 7.72,
     "StylePlus": "118",
     "RatingScore": 4.23,
-    "AdjustedRating": "2.106764009276542790881837208"
+    "AdjustedRating": "3.3984660277382645803698435277",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 62,
+    "StyleAvgAbv": 6.28
   },
   {
     "BID": 5101342,
@@ -252,7 +318,10 @@
     "BAR": 8.69,
     "StylePlus": "113",
     "RatingScore": 4.17,
-    "AdjustedRating": "2.5605272611858055984130482698"
+    "AdjustedRating": "4.0424411929332585530005608525",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 5002486,
@@ -267,7 +336,28 @@
     "BAR": 7.52,
     "StylePlus": "130",
     "RatingScore": 3.87,
-    "AdjustedRating": "2.0762708676599474145486415425"
+    "AdjustedRating": "3.0053942812914639540026536931",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 54,
+    "StyleAvgAbv": 7.75
+  },
+  {
+    "BID": 6228250,
+    "BeerName": "The Fall of Peach",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Fabled Brew Works",
+    "Origin": "Erlanger, KY United States",
+    "BeerAbv": 5.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6228250_09d0e_sm.jpeg",
+    "HallRating": 14.85,
+    "BAR": 6.06,
+    "StylePlus": "117",
+    "RatingScore": 4.47,
+    "AdjustedRating": "2.275521548223350253807106599",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 18,
+    "StyleAvgAbv": 6.01
   },
   {
     "BID": 4804417,
@@ -282,7 +372,10 @@
     "BAR": 6.10,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0405592398957482397790485082"
+    "AdjustedRating": "2.2988700336417157275021026072",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 53,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 2230008,
@@ -297,7 +390,10 @@
     "BAR": 8.40,
     "StylePlus": "114",
     "RatingScore": 4.19,
-    "AdjustedRating": "2.3289030007575119939399040485"
+    "AdjustedRating": "3.9399266307189542483660130719",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 24,
+    "StyleAvgAbv": 6.11
   },
   {
     "BID": 6417145,
@@ -312,52 +408,10 @@
     "BAR": 6.44,
     "StylePlus": "119",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.043509346850783662529860747"
-  },
-  {
-    "BID": 5605557,
-    "BeerName": "Prickly Pear Margarita",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Perspective Brewing Company",
-    "Origin": "West Allis, WI United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5605557_e5791_sm.jpeg",
-    "HallRating": 14.83,
-    "BAR": 6.00,
-    "StylePlus": "121",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.0393121025700889122356466079"
-  },
-  {
-    "BID": 6102945,
-    "BeerName": "Double Barrel Synergy (Heaven Hill)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Counterpart Brewing",
-    "Origin": "Niagara Falls, ON Canada",
-    "BeerAbv": 15.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6102945_5ac39_sm.jpeg",
-    "HallRating": 14.83,
-    "BAR": 6.09,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0405100414292105109602629685"
-  },
-  {
-    "BID": 2702493,
-    "BeerName": "Ms. Frank",
-    "BeerStyle": "Kellerbier / Zwickelbier",
-    "BreweryName": "Suarez Family Brewery",
-    "Origin": "Hudson, NY United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1646419_707e7_sm.jpeg",
-    "HallRating": 14.83,
-    "BAR": 8.01,
-    "StylePlus": "118",
-    "RatingScore": 4.10,
-    "AdjustedRating": "2.160764634731196573374091633"
+    "AdjustedRating": "2.4037155617088607594936708861",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 8,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 2628697,
@@ -372,6 +426,27 @@
     "BAR": 8.38,
     "StylePlus": "108",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.3507658366809573642102420417"
+    "AdjustedRating": "4.1119073794479547721982041902",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 5.92
+  },
+  {
+    "BID": 6102945,
+    "BeerName": "Double Barrel Synergy (Heaven Hill)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Counterpart Brewing",
+    "Origin": "Niagara Falls, ON Canada",
+    "BeerAbv": 15.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6102945_5ac39_sm.jpeg",
+    "HallRating": 14.83,
+    "BAR": 6.09,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.2969583080808080808080808081",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 22,
+    "StyleAvgAbv": 11.87
   }
 ]

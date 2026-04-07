@@ -12,7 +12,10 @@
     "BAR": 6.66,
     "StylePlus": "120",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0423247718616401088223863195"
+    "AdjustedRating": "2.3628149554655870445344129555",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 32,
+    "StyleAvgAbv": 6.68
   },
   {
     "BID": 2450084,
@@ -27,7 +30,10 @@
     "BAR": 8.61,
     "StylePlus": "115",
     "RatingScore": 4.27,
-    "AdjustedRating": "2.2282672903719795580405634003"
+    "AdjustedRating": "3.8687742618806875631951466127",
+    "BreweryRank": 40,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.52
   },
   {
     "BID": 6012567,
@@ -42,22 +48,10 @@
     "BAR": 6.58,
     "StylePlus": "113",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0420941754140424539304875204"
-  },
-  {
-    "BID": 6212155,
-    "BeerName": "Master Blend #04",
-    "BeerStyle": "Strong Ale - Other",
-    "BreweryName": "Funky Fluid",
-    "Origin": "Warszawa, Mazowieckie Poland",
-    "BeerAbv": 16.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212155_7f9eb_sm.jpeg",
-    "HallRating": 15.60,
-    "BAR": 7.82,
-    "StylePlus": "114",
-    "RatingScore": 4.35,
-    "AdjustedRating": "2.0802462065934065934065934066"
+    "AdjustedRating": "2.3572899671862182116488925349",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 73,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 4979998,
@@ -72,7 +66,28 @@
     "BAR": 8.27,
     "StylePlus": "113",
     "RatingScore": 4.32,
-    "AdjustedRating": "2.1377082257013608354896959994"
+    "AdjustedRating": "3.6229428608247422680412371134",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 7,
+    "StyleAvgAbv": 5.08
+  },
+  {
+    "BID": 6212155,
+    "BeerName": "Master Blend #04",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Funky Fluid",
+    "Origin": "Warszawa, Mazowieckie Poland",
+    "BeerAbv": 16.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6212155_7f9eb_sm.jpeg",
+    "HallRating": 15.60,
+    "BAR": 7.82,
+    "StylePlus": "114",
+    "RatingScore": 4.35,
+    "AdjustedRating": "3.1756792714285714285714285714",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 115,
+    "StyleAvgAbv": 10.88
   },
   {
     "BID": 4010847,
@@ -87,7 +102,10 @@
     "BAR": 8.04,
     "StylePlus": "118",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.1013175545884578997161778619"
+    "AdjustedRating": "3.3808291314285714285714285714",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 6.65
   },
   {
     "BID": 6302951,
@@ -102,22 +120,10 @@
     "BAR": 8.30,
     "StylePlus": "110",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.150078559020044543429844098"
-  },
-  {
-    "BID": 6303290,
-    "BeerName": "Sixth Chapter (Bourbon Barrel Aged)",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Croma",
-    "Origin": "São Paulo, Brazil",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-315257_1f13d.jpeg",
-    "HallRating": 15.59,
-    "BAR": 5.69,
-    "StylePlus": "123",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0369994499737062501217303235"
+    "AdjustedRating": "3.7390633296853625170998632011",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 78,
+    "StyleAvgAbv": 5.9
   },
   {
     "BID": 6402689,
@@ -132,7 +138,28 @@
     "BAR": 5.69,
     "StylePlus": "115",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0371439682137779249362133105"
+    "AdjustedRating": "2.1584315474060822898032200358",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 24,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 6303290,
+    "BeerName": "Sixth Chapter (Bourbon Barrel Aged)",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Croma",
+    "Origin": "São Paulo, Brazil",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-315257_1f13d.jpeg",
+    "HallRating": 15.59,
+    "BAR": 5.69,
+    "StylePlus": "123",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.1517946958855098389982110912",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 6.68
   },
   {
     "BID": 3601340,
@@ -147,7 +174,10 @@
     "BAR": 8.71,
     "StylePlus": "108",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.3017840194495094208561257272"
+    "AdjustedRating": "4.1261245203804347826086956522",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 61,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 6025563,
@@ -162,7 +192,10 @@
     "BAR": 8.07,
     "StylePlus": "115",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.1075856536675601192948016158"
+    "AdjustedRating": "3.4419602143116600072648020341",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 59,
+    "StyleAvgAbv": 5.94
   },
   {
     "BID": 1674268,
@@ -177,7 +210,10 @@
     "BAR": 8.40,
     "StylePlus": "114",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.1707742287536189394217026423"
+    "AdjustedRating": "3.7452003839963209933318004139",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 13,
+    "StyleAvgAbv": 5.94
   },
   {
     "BID": 4422811,
@@ -192,7 +228,10 @@
     "BAR": 8.00,
     "StylePlus": "114",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.0991446034361917751131821712"
+    "AdjustedRating": "3.3655442205767731878409976617",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 53,
+    "StyleAvgAbv": 8.98
   },
   {
     "BID": 5302922,
@@ -207,37 +246,10 @@
     "BAR": 7.83,
     "StylePlus": "124",
     "RatingScore": 4.13,
-    "AdjustedRating": "2.0790694340342708850131664313"
-  },
-  {
-    "BID": 5423439,
-    "BeerName": "Raspberry: 2021 Harvest",
-    "BeerStyle": "Farmhouse Ale - Other",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
-    "HallRating": 15.53,
-    "BAR": 7.36,
-    "StylePlus": "116",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.0573655782523072170521682048"
-  },
-  {
-    "BID": 4015512,
-    "BeerName": "Hollow Place: Enhanced Truffle Vanilla Coconut",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "The Veil Brewing Co.",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-245461_75a95.jpeg",
-    "HallRating": 15.53,
-    "BAR": 6.65,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0431491229160999494812108965"
+    "AdjustedRating": "3.1067200687757909215955983494",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 66,
+    "StyleAvgAbv": 5.4
   },
   {
     "BID": 300233,
@@ -252,7 +264,46 @@
     "BAR": 7.96,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.1005510019161812973116545561"
+    "AdjustedRating": "3.4371926207729468599033816425",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 54,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 5423439,
+    "BeerName": "Raspberry: 2021 Harvest",
+    "BeerStyle": "Farmhouse Ale - Other",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 15.53,
+    "BAR": 7.36,
+    "StylePlus": "116",
+    "RatingScore": 4.39,
+    "AdjustedRating": "2.7911003632887189292543021033",
+    "BreweryRank": 41,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.17
+  },
+  {
+    "BID": 4015512,
+    "BeerName": "Hollow Place: Enhanced Truffle Vanilla Coconut",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "The Veil Brewing Co.",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-245461_75a95.jpeg",
+    "HallRating": 15.53,
+    "BAR": 6.65,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.3954524335213537469782433521",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 76,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 3334136,
@@ -267,7 +318,10 @@
     "BAR": 6.64,
     "StylePlus": "113",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0429152953520907819057982279"
+    "AdjustedRating": "2.3863086924939467312348668281",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 3626673,
@@ -282,7 +336,10 @@
     "BAR": 8.64,
     "StylePlus": "109",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.2770191124415734467727535319"
+    "AdjustedRating": "4.0432308596694694114236010438",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 53,
+    "StyleAvgAbv": 5.9
   },
   {
     "BID": 6204507,
@@ -297,37 +354,10 @@
     "BAR": 4.37,
     "StylePlus": "139",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0351677762401325406880421012"
-  },
-  {
-    "BID": 3903561,
-    "BeerName": "Madeline (Batch #06 - 5th Birthday)",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
-    "HallRating": 15.51,
-    "BAR": 7.01,
-    "StylePlus": "112",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0488395572785423531692188409"
-  },
-  {
-    "BID": 4504061,
-    "BeerName": "Brainwaves Swell",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 7.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3621727_eb4f2_sm.jpeg",
-    "HallRating": 15.51,
-    "BAR": 8.68,
-    "StylePlus": "112",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.2936965195434105845728121757"
+    "AdjustedRating": "2.0688208055555555555555555556",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 3.73
   },
   {
     "BID": 1011219,
@@ -342,22 +372,64 @@
     "BAR": 9.54,
     "StylePlus": "109",
     "RatingScore": 4.38,
-    "AdjustedRating": "3.3175010621141600501647133634"
+    "AdjustedRating": "4.3403500915843941462175803943",
+    "BreweryRank": 10,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 8.19
   },
   {
-    "BID": 2401621,
-    "BeerName": "Barrel-Aged TrillBOMB!",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Trillium Brewing Company",
-    "Origin": "Canton, MA United States",
+    "BID": 3903561,
+    "BeerName": "Madeline (Batch #06 - 5th Birthday)",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
     "BeerAbv": 14.00,
-    "BeerIbu": 4.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2401621_a0bc3_sm.jpeg",
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
+    "HallRating": 15.51,
+    "BAR": 7.01,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.5785175604395604395604395604",
+    "BreweryRank": 18,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 4504061,
+    "BeerName": "Brainwaves Swell",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Monkish Brewing Co.",
+    "Origin": "Torrance, CA United States",
+    "BeerAbv": 7.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3621727_eb4f2_sm.jpeg",
+    "HallRating": 15.51,
+    "BAR": 8.68,
+    "StylePlus": "112",
+    "RatingScore": 4.33,
+    "AdjustedRating": "4.0081075009874917709019091508",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 6.48
+  },
+  {
+    "BID": 5004349,
+    "BeerName": "Straight Outta The Laboratory",
+    "BeerStyle": "IPA - Triple",
+    "BreweryName": "Equilibrium Brewery",
+    "Origin": "Middletown, NY United States",
+    "BeerAbv": 10.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2879668_28324_sm.jpeg",
     "HallRating": 15.50,
-    "BAR": 8.36,
+    "BAR": 9.07,
     "StylePlus": "110",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.1804440267521759047182775996"
+    "RatingScore": 4.36,
+    "AdjustedRating": "4.2237515936846737814941137639",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 10.39
   },
   {
     "BID": 4627968,
@@ -372,6 +444,9 @@
     "BAR": 8.55,
     "StylePlus": "112",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.2357975863909747677853304388"
+    "AdjustedRating": "3.9289128528377699648417880462",
+    "BreweryRank": 37,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 8.42
   }
 ]

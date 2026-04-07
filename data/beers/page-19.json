@@ -12,7 +12,10 @@
     "BAR": 8.69,
     "StylePlus": "114",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.1431293296130952380952380952"
+    "AdjustedRating": "3.6873200763790664780763790665",
+    "BreweryRank": 31,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 6407735,
@@ -27,7 +30,10 @@
     "BAR": 7.65,
     "StylePlus": "120",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0541032669476777910978769481"
+    "AdjustedRating": "2.7154430475552578700602813128",
+    "BreweryRank": 32,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6506037,
@@ -42,7 +48,10 @@
     "BAR": 7.96,
     "StylePlus": "115",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0666876889632750428041014986"
+    "AdjustedRating": "2.9889159851936218678815489749",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 3,
+    "StyleAvgAbv": 6.48
   },
   {
     "BID": 5200515,
@@ -57,7 +66,10 @@
     "BAR": 9.27,
     "StylePlus": "114",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.3562012834654909389616267959"
+    "AdjustedRating": "4.0706351018459579885423297263",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 32,
+    "StyleAvgAbv": 10.27
   },
   {
     "BID": 4017593,
@@ -72,52 +84,10 @@
     "BAR": 8.55,
     "StylePlus": "114",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.120635515304109280171360929"
-  },
-  {
-    "BID": 3806198,
-    "BeerName": "Coconut Fionn",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
-    "HallRating": 16.34,
-    "BAR": 8.58,
-    "StylePlus": "113",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.1277592315045641131375231954"
-  },
-  {
-    "BID": 3421443,
-    "BeerName": "Steengaard (2018)",
-    "BeerStyle": "Lambic - Fruit",
-    "BreweryName": "Bokke",
-    "Origin": "Hasselt, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
-    "HallRating": 16.34,
-    "BAR": 8.47,
-    "StylePlus": "111",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1135486401389308366052552099"
-  },
-  {
-    "BID": 5505106,
-    "BeerName": "Cranberry Prestige",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5505106_d4b4c_sm.jpeg",
-    "HallRating": 16.34,
-    "BAR": 7.18,
-    "StylePlus": "114",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0454259572155142291415925768"
+    "AdjustedRating": "3.5655495560747663551401869159",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 6406583,
@@ -132,7 +102,64 @@
     "BAR": 7.75,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.059164676718728883912195687"
+    "AdjustedRating": "2.8489799427480916030534351145",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 51,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 3806198,
+    "BeerName": "Coconut Fionn",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
+    "HallRating": 16.34,
+    "BAR": 8.58,
+    "StylePlus": "113",
+    "RatingScore": 4.45,
+    "AdjustedRating": "3.6270398176583493282149712092",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 48,
+    "StyleAvgAbv": 10.03
+  },
+  {
+    "BID": 5505106,
+    "BeerName": "Cranberry Prestige",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5505106_d4b4c_sm.jpeg",
+    "HallRating": 16.34,
+    "BAR": 7.18,
+    "StylePlus": "114",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.4733254228083785880527540729",
+    "BreweryRank": 18,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 3421443,
+    "BeerName": "Steengaard (2018)",
+    "BeerStyle": "Lambic - Fruit",
+    "BreweryName": "Bokke",
+    "Origin": "Hasselt, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
+    "HallRating": 16.34,
+    "BAR": 8.47,
+    "StylePlus": "111",
+    "RatingScore": 4.52,
+    "AdjustedRating": "3.5577595310796074154852780807",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 9,
+    "StyleAvgAbv": 6.45
   },
   {
     "BID": 2418008,
@@ -147,7 +174,10 @@
     "BAR": 10.07,
     "StylePlus": "109",
     "RatingScore": 4.40,
-    "AdjustedRating": "3.3743231390119365637574814865"
+    "AdjustedRating": "4.3629875926660496275728326502",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 4811558,
@@ -162,7 +192,10 @@
     "BAR": 7.22,
     "StylePlus": "116",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0460651819363853364125055794"
+    "AdjustedRating": "2.4936629371165644171779141104",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 34,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 5705352,
@@ -177,52 +210,10 @@
     "BAR": 7.87,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0645849275697333949761134227"
-  },
-  {
-    "BID": 5015229,
-    "BeerName": "Lit - Pineapple Coconut",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Barn Town Brewing",
-    "Origin": "West Des Moines, IA United States",
-    "BeerAbv": 5.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5015229_a88a0_sm.jpeg",
-    "HallRating": 16.31,
-    "BAR": 7.59,
-    "StylePlus": "127",
-    "RatingScore": 4.25,
-    "AdjustedRating": "2.0520141733075435203094777563"
-  },
-  {
-    "BID": 3401837,
-    "BeerName": "Framboos Noyaux (2018)",
-    "BeerStyle": "Lambic - Framboise",
-    "BreweryName": "Bokke",
-    "Origin": "Hasselt, Vlaams Gewest Belgium",
-    "BeerAbv": 6.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
-    "HallRating": 16.31,
-    "BAR": 7.90,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.0659116904418134565405717586"
-  },
-  {
-    "BID": 3205627,
-    "BeerName": "Leaves of Grass (December 6, 2017)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 0.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
-    "HallRating": 16.31,
-    "BAR": 8.12,
-    "StylePlus": "118",
-    "RatingScore": 4.36,
-    "AdjustedRating": "2.0763414975780666653902854627"
+    "AdjustedRating": "2.9619303319502074688796680498",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 22,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 2028895,
@@ -237,7 +228,64 @@
     "BAR": 8.65,
     "StylePlus": "117",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.1381863185708969110532192036"
+    "AdjustedRating": "3.6205338463726884779516358464",
+    "BreweryRank": 33,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
+  },
+  {
+    "BID": 3205627,
+    "BeerName": "Leaves of Grass (December 6, 2017)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 0.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "HallRating": 16.31,
+    "BAR": 8.12,
+    "StylePlus": "118",
+    "RatingScore": 4.36,
+    "AdjustedRating": "3.1253422083748753738783649053",
+    "BreweryRank": 34,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
+  },
+  {
+    "BID": 5015229,
+    "BeerName": "Lit - Pineapple Coconut",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Barn Town Brewing",
+    "Origin": "West Des Moines, IA United States",
+    "BeerAbv": 5.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5015229_a88a0_sm.jpeg",
+    "HallRating": 16.31,
+    "BAR": 7.59,
+    "StylePlus": "127",
+    "RatingScore": 4.25,
+    "AdjustedRating": "2.6502891322033898305084745763",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 5.4
+  },
+  {
+    "BID": 3401837,
+    "BeerName": "Framboos Noyaux (2018)",
+    "BeerStyle": "Lambic - Framboise",
+    "BreweryName": "Bokke",
+    "Origin": "Hasselt, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-155702_f849d.jpeg",
+    "HallRating": 16.31,
+    "BAR": 7.90,
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.9847828313953488372093023256",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 9,
+    "StyleAvgAbv": 5.92
   },
   {
     "BID": 2230233,
@@ -252,7 +300,10 @@
     "BAR": 9.14,
     "StylePlus": "113",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.2987425945200758228502498708"
+    "AdjustedRating": "3.999497305573350416399743754",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 61,
+    "StyleAvgAbv": 10.14
   },
   {
     "BID": 6028415,
@@ -267,7 +318,10 @@
     "BAR": 6.50,
     "StylePlus": "122",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0391650338600451467268623025"
+    "AdjustedRating": "2.2430408168529664660361134996",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6407542,
@@ -282,7 +336,10 @@
     "BAR": 6.09,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0376260468920392584514721919"
+    "AdjustedRating": "2.1794289884649511978704525288",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 7,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6224244,
@@ -297,22 +354,10 @@
     "BAR": 7.95,
     "StylePlus": "111",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0708389759950798562395494993"
-  },
-  {
-    "BID": 6015572,
-    "BeerName": "Red Wine Finished Bardstown Bourbon Wisdom (2024)",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Barreled Souls Brewing Company",
-    "Origin": "Saco, ME United States",
-    "BeerAbv": 13.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3928837_e4f03_sm.jpeg",
-    "HallRating": 16.27,
-    "BAR": 7.53,
-    "StylePlus": "117",
-    "RatingScore": 4.42,
-    "AdjustedRating": "2.0521257283300756681439049407"
+    "AdjustedRating": "3.082982541528239202657807309",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 12.48
   },
   {
     "BID": 6207731,
@@ -327,7 +372,28 @@
     "BAR": 6.58,
     "StylePlus": "115",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0398846818031479211657814354"
+    "AdjustedRating": "2.2726375383304940374787052811",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 6015572,
+    "BeerName": "Red Wine Finished Bardstown Bourbon Wisdom (2024)",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Barreled Souls Brewing Company",
+    "Origin": "Saco, ME United States",
+    "BeerAbv": 13.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3928837_e4f03_sm.jpeg",
+    "HallRating": 16.27,
+    "BAR": 7.53,
+    "StylePlus": "117",
+    "RatingScore": 4.42,
+    "AdjustedRating": "2.6654257389502762430939226519",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 8.98
   },
   {
     "BID": 6430028,
@@ -342,7 +408,10 @@
     "BAR": 10.47,
     "StylePlus": "112",
     "RatingScore": 4.16,
-    "AdjustedRating": "3.8079633456147092349273289138"
+    "AdjustedRating": "4.1512751831510302245450130657",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 10,
+    "StyleAvgAbv": 6.52
   },
   {
     "BID": 5229722,
@@ -357,7 +426,10 @@
     "BAR": 7.86,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0652185076926039319892938979"
+    "AdjustedRating": "2.9701618676814988290398126464",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 38,
+    "StyleAvgAbv": 5.9
   },
   {
     "BID": 3336681,
@@ -372,6 +444,9 @@
     "BAR": 7.63,
     "StylePlus": "119",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.0551993034941249226963512678"
+    "AdjustedRating": "2.7414591639236339697169190257",
+    "BreweryRank": 35,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   }
 ]

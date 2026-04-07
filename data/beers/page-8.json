@@ -12,7 +12,10 @@
     "BAR": 9.77,
     "StylePlus": "120",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.1361870441354856769618363348"
+    "AdjustedRating": "3.6570316875",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 2700454,
@@ -27,7 +30,10 @@
     "BAR": 8.64,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.056104064958917351377477042"
+    "AdjustedRating": "2.78135098",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 1301192,
@@ -42,7 +48,10 @@
     "BAR": 9.62,
     "StylePlus": "120",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.1174507002389958410959935264"
+    "AdjustedRating": "3.5481319389155799588194921071",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 52,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 4201951,
@@ -57,7 +66,10 @@
     "BAR": 9.11,
     "StylePlus": "118",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0743361290446324107639488271"
+    "AdjustedRating": "3.1222314173640167364016736402",
+    "BreweryRank": 19,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 10.88
   },
   {
     "BID": 2422488,
@@ -72,7 +84,10 @@
     "BAR": 9.02,
     "StylePlus": "113",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0733257666448960774520726882"
+    "AdjustedRating": "3.1386996563011456628477905074",
+    "BreweryRank": 12,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 14.08
   },
   {
     "BID": 2001793,
@@ -87,22 +102,10 @@
     "BAR": 10.07,
     "StylePlus": "114",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.2289823305746548659856740211"
-  },
-  {
-    "BID": 2803485,
-    "BeerName": "Saison du Fermier (Blend #4)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2216232_00de0_sm.jpeg",
-    "HallRating": 18.33,
-    "BAR": 9.61,
-    "StylePlus": "120",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.1241145315372781509136617763"
+    "AdjustedRating": "4.0126043209200438116100766703",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 81,
+    "StyleAvgAbv": 10.03
   },
   {
     "BID": 3029277,
@@ -117,7 +120,28 @@
     "BAR": 8.80,
     "StylePlus": "119",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0632310329805894485244511267"
+    "AdjustedRating": "2.9373678778718258766626360339",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 11.32
+  },
+  {
+    "BID": 2803485,
+    "BeerName": "Saison du Fermier (Blend #4)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Side Project Brewing",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2216232_00de0_sm.jpeg",
+    "HallRating": 18.33,
+    "BAR": 9.61,
+    "StylePlus": "120",
+    "RatingScore": 4.41,
+    "AdjustedRating": "3.5877791582710432239194020149",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6402730,
@@ -132,7 +156,10 @@
     "BAR": 7.38,
     "StylePlus": "128",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0396037116451016635859519409"
+    "AdjustedRating": "2.261091",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 5.85
   },
   {
     "BID": 4618855,
@@ -147,7 +174,10 @@
     "BAR": 7.55,
     "StylePlus": "119",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0409538238325845537468152557"
+    "AdjustedRating": "2.3152403271812080536912751678",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 26,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 5820451,
@@ -162,7 +192,10 @@
     "BAR": 8.99,
     "StylePlus": "114",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.073171562229946421369999808"
+    "AdjustedRating": "3.1257069642857142857142857143",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 51,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6500531,
@@ -177,7 +210,10 @@
     "BAR": 9.42,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.1078517175695378031923958116"
+    "AdjustedRating": "3.5324638601236476043276661515",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 98,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 3350350,
@@ -192,7 +228,10 @@
     "BAR": 8.20,
     "StylePlus": "124",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.0473919818474487520121017008"
+    "AdjustedRating": "2.5334203811659192825112107623",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 8,
+    "StyleAvgAbv": 6.45
   },
   {
     "BID": 6219574,
@@ -207,7 +246,10 @@
     "BAR": 7.71,
     "StylePlus": "120",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0422642192632908931868986296"
+    "AdjustedRating": "2.3642020245901639344262295082",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 33,
+    "StyleAvgAbv": 11.59
   },
   {
     "BID": 6023049,
@@ -222,37 +264,10 @@
     "BAR": 9.10,
     "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.080858289652531827318847516"
-  },
-  {
-    "BID": 6200079,
-    "BeerName": "Bertha (2025)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Structures Brewing",
-    "Origin": "Bellingham, WA United States",
-    "BeerAbv": 14.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238401_3cc72.jpeg",
-    "HallRating": 18.26,
-    "BAR": 7.49,
-    "StylePlus": "119",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0406981397339142612619621878"
-  },
-  {
-    "BID": 6216720,
-    "BeerName": "Bourbon County Brand Stout Single Barrel - Beer Temple",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 14.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2898_90b47.jpeg",
-    "HallRating": 18.26,
-    "BAR": 7.34,
-    "StylePlus": "117",
-    "RatingScore": 4.72,
-    "AdjustedRating": "2.0398784441763629995719344671"
+    "AdjustedRating": "3.2406350597014925373134328358",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 51,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 4020493,
@@ -267,7 +282,28 @@
     "BAR": 9.06,
     "StylePlus": "124",
     "RatingScore": 4.35,
-    "AdjustedRating": "2.0743750289327457367311745545"
+    "AdjustedRating": "3.0950007480916030534351145038",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 5.39
+  },
+  {
+    "BID": 6216720,
+    "BeerName": "Bourbon County Brand Stout Single Barrel - Beer Temple",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 14.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2898_90b47.jpeg",
+    "HallRating": 18.26,
+    "BAR": 7.34,
+    "StylePlus": "117",
+    "RatingScore": 4.72,
+    "AdjustedRating": "2.2733588280581693755346449957",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 2012147,
@@ -282,7 +318,28 @@
     "BAR": 9.46,
     "StylePlus": "112",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1149545563694027033149588462"
+    "AdjustedRating": "3.5869735966508918820531488897",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 65,
+    "StyleAvgAbv": 6.51
+  },
+  {
+    "BID": 6200079,
+    "BeerName": "Bertha (2025)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Structures Brewing",
+    "Origin": "Bellingham, WA United States",
+    "BeerAbv": 14.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-238401_3cc72.jpeg",
+    "HallRating": 18.26,
+    "BAR": 7.49,
+    "StylePlus": "119",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.3053213732097725358045492839",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 26,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 6417141,
@@ -297,7 +354,10 @@
     "BAR": 7.93,
     "StylePlus": "124",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0443516033558611046376136099"
+    "AdjustedRating": "2.4370927150749802683504340963",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 8,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6004995,
@@ -312,7 +372,10 @@
     "BAR": 8.76,
     "StylePlus": "114",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0641928182396361323645614508"
+    "AdjustedRating": "2.9631868050541516245487364621",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 29,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 4404637,
@@ -327,7 +390,10 @@
     "BAR": 9.01,
     "StylePlus": "112",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0769043353853825058013539689"
+    "AdjustedRating": "3.1887729249217935349322210636",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 15,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 5819066,
@@ -342,22 +408,28 @@
     "BAR": 8.42,
     "StylePlus": "131",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.0515138148879340378585530136"
+    "AdjustedRating": "2.6464652810548230395558639833",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 38,
+    "StyleAvgAbv": 5.4
   },
   {
-    "BID": 6300931,
-    "BeerName": "Assassin (2025)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 14.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6300931_e4eb2_sm.jpeg",
+    "BID": 1901503,
+    "BeerName": "Crusher",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "The Alchemist",
+    "Origin": "Stowe, VT United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 110.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-25785_e0d99_sm.jpeg",
     "HallRating": 18.21,
-    "BAR": 9.47,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.119765105885899464918230462"
+    "BAR": 11.26,
+    "StylePlus": "112",
+    "RatingScore": 4.34,
+    "AdjustedRating": "4.3064495459514114721394802285",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 16,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 3890833,
@@ -372,6 +444,9 @@
     "BAR": 9.55,
     "StylePlus": "116",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.1276394876411237387944938299"
+    "AdjustedRating": "3.6390172650952534711010655473",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 21,
+    "StyleAvgAbv": 8.42
   }
 ]

@@ -12,22 +12,10 @@
     "BAR": 7.86,
     "StylePlus": "125",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.0562631105790581375142399259"
-  },
-  {
-    "BID": 4904215,
-    "BeerName": "Crimson",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
-    "HallRating": 16.60,
-    "BAR": 7.04,
-    "StylePlus": "114",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0424903358470030319521107051"
+    "AdjustedRating": "2.756045",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 4.88
   },
   {
     "BID": 4802470,
@@ -42,7 +30,28 @@
     "BAR": 7.95,
     "StylePlus": "111",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0621545490657359378314275246"
+    "AdjustedRating": "2.9139023684210526315789473684",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 9,
+    "StyleAvgAbv": 6.51
+  },
+  {
+    "BID": 4904215,
+    "BeerName": "Crimson",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-SchrammsMead_75584_3d65d.jpeg",
+    "HallRating": 16.60,
+    "BAR": 7.04,
+    "StylePlus": "114",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.3718471638141809290953545232",
+    "BreweryRank": 15,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 4003827,
@@ -57,22 +66,10 @@
     "BAR": 8.09,
     "StylePlus": "112",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0687143387810036531436262257"
-  },
-  {
-    "BID": 3345925,
-    "BeerName": "Tête De Pioche 176",
-    "BeerStyle": "IPA - American",
-    "BreweryName": "Le Prospecteur",
-    "Origin": "Val-d'Or, QC Canada",
-    "BeerAbv": 6.50,
-    "BeerIbu": 57.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
-    "HallRating": 16.58,
-    "BAR": 6.07,
-    "StylePlus": "124",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0371317536615768152072296666"
+    "AdjustedRating": "3.0329840168067226890756302521",
+    "BreweryRank": 16,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 5301363,
@@ -87,7 +84,28 @@
     "BAR": 7.36,
     "StylePlus": "112",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0469337723621405564825953665"
+    "AdjustedRating": "2.5246888575780654988575780655",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 11.93
+  },
+  {
+    "BID": 3345925,
+    "BeerName": "Tête De Pioche 176",
+    "BeerStyle": "IPA - American",
+    "BreweryName": "Le Prospecteur",
+    "Origin": "Val-d'Or, QC Canada",
+    "BeerAbv": 6.50,
+    "BeerIbu": 57.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345925_cd682_sm.jpeg",
+    "HallRating": 16.58,
+    "BAR": 6.07,
+    "StylePlus": "124",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.1577627077747989276139410188",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 32,
+    "StyleAvgAbv": 6.52
   },
   {
     "BID": 4301015,
@@ -102,7 +120,10 @@
     "BAR": 8.64,
     "StylePlus": "116",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.1151276154280338664158043274"
+    "AdjustedRating": "3.5005389641025641025641025641",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 31,
+    "StyleAvgAbv": 9.44
   },
   {
     "BID": 4414064,
@@ -117,7 +138,10 @@
     "BAR": 8.02,
     "StylePlus": "118",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.0640202668206757146982385215"
+    "AdjustedRating": "2.9276607383720930232558139535",
+    "BreweryRank": 30,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.29
   },
   {
     "BID": 4817137,
@@ -132,7 +156,28 @@
     "BAR": 7.80,
     "StylePlus": "113",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0569612373205556736286879069"
+    "AdjustedRating": "2.7951608812010443864229765013",
+    "BreweryRank": 11,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 3343863,
+    "BeerName": "Waldo Honey Hydromel (Sichuan Cherry Bomb)",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "BKS Artisan Ales",
+    "Origin": "Kansas City, MO United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-277027_9a1fb.jpeg",
+    "HallRating": 16.55,
+    "BAR": 4.95,
+    "StylePlus": "123",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.0813343819188191881918819188",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 6.01
   },
   {
     "BID": 4980616,
@@ -147,7 +192,10 @@
     "BAR": 7.60,
     "StylePlus": "120",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0509567587034813925570228091"
+    "AdjustedRating": "2.6345928712174524982406755806",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 60,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6419240,
@@ -162,22 +210,10 @@
     "BAR": 6.10,
     "StylePlus": "121",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0373031094319044929596665823"
-  },
-  {
-    "BID": 5218773,
-    "BeerName": "Dessert Station: Cherry Pie",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5218773_7cb47_sm.jpeg",
-    "HallRating": 16.52,
-    "BAR": 7.47,
-    "StylePlus": "129",
-    "RatingScore": 4.29,
-    "AdjustedRating": "2.0475602395813142081798798217"
+    "AdjustedRating": "2.1652820588235294117647058824",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 26,
+    "StyleAvgAbv": 8.65
   },
   {
     "BID": 6202965,
@@ -192,7 +228,28 @@
     "BAR": 8.74,
     "StylePlus": "114",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.1362036049741782724611741895"
+    "AdjustedRating": "3.634113854044548651817116061",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 81,
+    "StyleAvgAbv": 5.08
+  },
+  {
+    "BID": 5218773,
+    "BeerName": "Dessert Station: Cherry Pie",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5218773_7cb47_sm.jpeg",
+    "HallRating": 16.52,
+    "BAR": 7.47,
+    "StylePlus": "129",
+    "RatingScore": 4.29,
+    "AdjustedRating": "2.5301659120879120879120879121",
+    "BreweryRank": 10,
+    "BreweryBeerCount": 38,
+    "StyleAvgAbv": 5.4
   },
   {
     "BID": 5504237,
@@ -207,7 +264,10 @@
     "BAR": 8.05,
     "StylePlus": "114",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0680649351948001999923079882"
+    "AdjustedRating": "3.0183210298255486775464265616",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 4817970,
@@ -222,22 +282,10 @@
     "BAR": 9.07,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.2368882268996226685026556269"
-  },
-  {
-    "BID": 3343863,
-    "BeerName": "Waldo Honey Hydromel (Sichuan Cherry Bomb)",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "BKS Artisan Ales",
-    "Origin": "Kansas City, MO United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-277027_9a1fb.jpeg",
-    "HallRating": 16.50,
-    "BAR": 4.93,
-    "StylePlus": "123",
-    "RatingScore": 4.71,
-    "AdjustedRating": "2.0354347728468689703560778811"
+    "AdjustedRating": "4.0225845574288724973656480506",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6024793,
@@ -252,7 +300,10 @@
     "BAR": 8.01,
     "StylePlus": "111",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0680616643897558253641453888"
+    "AdjustedRating": "3.0350953436426116838487972509",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 25,
+    "StyleAvgAbv": 12.48
   },
   {
     "BID": 6212575,
@@ -267,7 +318,28 @@
     "BAR": 7.73,
     "StylePlus": "113",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0559095923456074224412873297"
+    "AdjustedRating": "2.7698850794701986754966887417",
+    "BreweryRank": 12,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 5629244,
+    "BeerName": "Coquito Mead",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Zymarium Meadery",
+    "Origin": "Orlando, FL United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5629244_ebe45_sm.jpeg",
+    "HallRating": 16.49,
+    "BAR": 6.29,
+    "StylePlus": "120",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.194160625",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 9,
+    "StyleAvgAbv": 6.01
   },
   {
     "BID": 4001362,
@@ -282,22 +354,10 @@
     "BAR": 8.03,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0688864420599207722779893081"
-  },
-  {
-    "BID": 3342777,
-    "BeerName": "Barrel Aged Imperial German Chocolate Cupcake Stout (2017)",
-    "BeerStyle": "Stout - Imperial / Double Milk",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
-    "HallRating": 16.47,
-    "BAR": 6.37,
-    "StylePlus": "115",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0384459733686341691325338732"
+    "AdjustedRating": "3.0423615475520540236353404615",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 54,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 5812809,
@@ -312,22 +372,28 @@
     "BAR": 8.90,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.1846575772441060184507248499"
+    "AdjustedRating": "3.8965864465622872702518720218",
+    "BreweryRank": 28,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 8.19
   },
   {
-    "BID": 3208001,
-    "BeerName": "The Man With the Axe",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
+    "BID": 3342777,
+    "BeerName": "Barrel Aged Imperial German Chocolate Cupcake Stout (2017)",
+    "BeerStyle": "Stout - Imperial / Double Milk",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 11.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3208001_18f7c_sm.jpeg",
-    "HallRating": 16.46,
-    "BAR": 7.96,
-    "StylePlus": "112",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0652829920865664170052178601"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
+    "HallRating": 16.47,
+    "BAR": 6.37,
+    "StylePlus": "115",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.214292624671916010498687664",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 48,
+    "StyleAvgAbv": 10.5
   },
   {
     "BID": 4004979,
@@ -342,7 +408,28 @@
     "BAR": 9.47,
     "StylePlus": "110",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.4804294283352410021620246725"
+    "AdjustedRating": "4.2470996506033598864263743197",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 110,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 3208001,
+    "BeerName": "The Man With the Axe",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3208001_18f7c_sm.jpeg",
+    "HallRating": 16.46,
+    "BAR": 7.96,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.9700037792056074766355140187",
+    "BreweryRank": 17,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 4301222,
@@ -357,21 +444,9 @@
     "BAR": 8.55,
     "StylePlus": "117",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.1091501717863136655918236503"
-  },
-  {
-    "BID": 4979882,
-    "BeerName": "Off the Rack Kentucky Bourbon Barrel 2021 By Rackhouse",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "LERVIG",
-    "Origin": "Stavanger, Rogaland Norway",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4979882_a2056_sm.jpeg",
-    "HallRating": 16.45,
-    "BAR": 9.02,
-    "StylePlus": "111",
-    "RatingScore": 4.48,
-    "AdjustedRating": "2.2275431026990141325623574622"
+    "AdjustedRating": "3.4463244725588025659301496793",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 8.27
   }
 ]

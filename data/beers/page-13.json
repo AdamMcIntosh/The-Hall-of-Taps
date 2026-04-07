@@ -12,7 +12,10 @@
     "BAR": 8.57,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0768790667714663650480225447"
+    "AdjustedRating": "3.1766184055727554179566563467",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 54,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 2420344,
@@ -27,7 +30,10 @@
     "BAR": 9.80,
     "StylePlus": "113",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.3547774251778284793987384244"
+    "AdjustedRating": "4.069446495790258979004582756",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 30,
+    "StyleAvgAbv": 6.25
   },
   {
     "BID": 2605009,
@@ -42,7 +48,10 @@
     "BAR": 9.11,
     "StylePlus": "112",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.13505447262118491921005386"
+    "AdjustedRating": "3.6913078133661841700030797659",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 11.28
   },
   {
     "BID": 1670477,
@@ -57,37 +66,10 @@
     "BAR": 9.42,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.2104207689939328081137372091"
-  },
-  {
-    "BID": 6220323,
-    "BeerName": "Bubble Wrap (Blend #2)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6220323_eeed0_sm.jpeg",
-    "HallRating": 17.28,
-    "BAR": 8.69,
-    "StylePlus": "113",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.086432797891842346471127406"
-  },
-  {
-    "BID": 6202064,
-    "BeerName": "Brown Sugar Bourbon Barrel Aged Triatomic",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Brewlihan",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
-    "HallRating": 17.28,
-    "BAR": 7.06,
-    "StylePlus": "116",
-    "RatingScore": 4.64,
-    "AdjustedRating": "2.0404246957671957671957671958"
+    "AdjustedRating": "3.9816485911823647294589178357",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 110,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6450706,
@@ -102,7 +84,46 @@
     "BAR": 10.33,
     "StylePlus": "112",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.8618504095"
+    "AdjustedRating": "4.2575340544080604534005037783",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 6.48
+  },
+  {
+    "BID": 6202064,
+    "BeerName": "Brown Sugar Bourbon Barrel Aged Triatomic",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Brewlihan",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-344048_1e3ae.jpeg",
+    "HallRating": 17.28,
+    "BAR": 7.06,
+    "StylePlus": "116",
+    "RatingScore": 4.64,
+    "AdjustedRating": "2.2943334488588334742180896027",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 37,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 6220323,
+    "BeerName": "Bubble Wrap (Blend #2)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Side Project Brewing",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6220323_eeed0_sm.jpeg",
+    "HallRating": 17.28,
+    "BAR": 8.69,
+    "StylePlus": "113",
+    "RatingScore": 4.56,
+    "AdjustedRating": "3.3048793607092860475968268782",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6220426,
@@ -117,7 +138,10 @@
     "BAR": 7.65,
     "StylePlus": "117",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0464473785729532532551956998"
+    "AdjustedRating": "2.5073520412844036697247706422",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 14,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 6008416,
@@ -132,7 +156,10 @@
     "BAR": 8.45,
     "StylePlus": "112",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0721965948126801152737752161"
+    "AdjustedRating": "3.1111651890410958904109589041",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 12.48
   },
   {
     "BID": 6302108,
@@ -147,7 +174,10 @@
     "BAR": 7.28,
     "StylePlus": "115",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0422841962446059946351514209"
+    "AdjustedRating": "2.3647800737100737100737100737",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 37,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 6610334,
@@ -162,22 +192,10 @@
     "BAR": 5.43,
     "StylePlus": "118",
     "RatingScore": 4.78,
-    "AdjustedRating": "2.0357281202011147055384495459"
-  },
-  {
-    "BID": 1667746,
-    "BeerName": "Duck Duck Gooze (2016)",
-    "BeerStyle": "Lambic - Gueuze",
-    "BreweryName": "The Lost Abbey",
-    "Origin": "San Marcos, CA United States",
-    "BeerAbv": 7.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1667746_9e48c_sm.jpeg",
-    "HallRating": 17.22,
-    "BAR": 9.43,
-    "StylePlus": "110",
-    "RatingScore": 4.50,
-    "AdjustedRating": "2.225405294625512626807684006"
+    "AdjustedRating": "2.0949462534435261707988980716",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 35,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 4980602,
@@ -192,7 +210,28 @@
     "BAR": 8.28,
     "StylePlus": "120",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0621436261322027365581036809"
+    "AdjustedRating": "2.8977035855855855855855855856",
+    "BreweryRank": 10,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 6.22
+  },
+  {
+    "BID": 1667746,
+    "BeerName": "Duck Duck Gooze (2016)",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "The Lost Abbey",
+    "Origin": "San Marcos, CA United States",
+    "BeerAbv": 7.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1667746_9e48c_sm.jpeg",
+    "HallRating": 17.22,
+    "BAR": 9.43,
+    "StylePlus": "110",
+    "RatingScore": 4.50,
+    "AdjustedRating": "4.0111108676224166821820889965",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 6.51
   },
   {
     "BID": 5343165,
@@ -207,7 +246,10 @@
     "BAR": 9.12,
     "StylePlus": "111",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.1494982639457808892529976912"
+    "AdjustedRating": "3.8085835400516795865633074935",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 9.95
   },
   {
     "BID": 5011818,
@@ -222,7 +264,10 @@
     "BAR": 8.61,
     "StylePlus": "113",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0828712887869228563234872383"
+    "AdjustedRating": "3.2522242644230769230769230769",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 11.28
   },
   {
     "BID": 1010945,
@@ -237,7 +282,10 @@
     "BAR": 8.56,
     "StylePlus": "113",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0796445781010719754977029096"
+    "AdjustedRating": "3.2062910521091811414392059553",
+    "BreweryRank": 14,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 3349056,
@@ -252,7 +300,10 @@
     "BAR": 8.37,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0686955798299934612869725759"
+    "AdjustedRating": "3.0389602199661590524534686971",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 53,
+    "StyleAvgAbv": 5.9
   },
   {
     "BID": 5032055,
@@ -267,22 +318,10 @@
     "BAR": 9.25,
     "StylePlus": "115",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.1733021072346676459786999633"
-  },
-  {
-    "BID": 4002582,
-    "BeerName": "Canadian Breakfast Stout (CBS)",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Founders Brewing Co.",
-    "Origin": "Grand Rapids, MI United States",
-    "BeerAbv": 11.70,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5755_e5995_sm.jpeg",
-    "HallRating": 17.17,
-    "BAR": 10.85,
-    "StylePlus": "108",
-    "RatingScore": 4.45,
-    "AdjustedRating": "3.8129644073321850014139907962"
+    "AdjustedRating": "3.8200888949232585596221959858",
+    "BreweryRank": 25,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 2020892,
@@ -297,7 +336,28 @@
     "BAR": 10.39,
     "StylePlus": "108",
     "RatingScore": 4.26,
-    "AdjustedRating": "3.0039754487736710643588868961"
+    "AdjustedRating": "4.2017005231700118063754427391",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 6.14
+  },
+  {
+    "BID": 4002582,
+    "BeerName": "Canadian Breakfast Stout (CBS)",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Founders Brewing Co.",
+    "Origin": "Grand Rapids, MI United States",
+    "BeerAbv": 11.70,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5755_e5995_sm.jpeg",
+    "HallRating": 17.17,
+    "BAR": 10.85,
+    "StylePlus": "108",
+    "RatingScore": 4.45,
+    "AdjustedRating": "4.4321671043255233605989186192",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 71,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 1812785,
@@ -312,7 +372,10 @@
     "BAR": 9.84,
     "StylePlus": "113",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.4428657136422136422136422136"
+    "AdjustedRating": "4.161589984918307498952660243",
+    "BreweryRank": 25,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 1802713,
@@ -327,7 +390,10 @@
     "BAR": 9.44,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.2392924625305918290787616785"
+    "AdjustedRating": "4.0273542700729927007299270073",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 5.92
   },
   {
     "BID": 4445534,
@@ -342,7 +408,10 @@
     "BAR": 8.03,
     "StylePlus": "122",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.0543136310214180777855099358"
+    "AdjustedRating": "2.7165205507631055076310550763",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 8,
+    "StyleAvgAbv": 5.29
   },
   {
     "BID": 3603103,
@@ -357,7 +426,10 @@
     "BAR": 10.29,
     "StylePlus": "110",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.964204068753513629893664103"
+    "AdjustedRating": "4.3632451456048894481394930793",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 69,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 1410312,
@@ -372,6 +444,9 @@
     "BAR": 9.56,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.2970888297668587745721101109"
+    "AdjustedRating": "4.1271845824084350721420643729",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 54,
+    "StyleAvgAbv": 11.87
   }
 ]

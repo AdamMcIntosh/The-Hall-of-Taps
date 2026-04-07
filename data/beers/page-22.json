@@ -1,20 +1,5 @@
 [
   {
-    "BID": 6213288,
-    "BeerName": "Cinnamon Apple",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "LULZ Hard Seltzer",
-    "Origin": "Lake Zurich, IL United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5066730_407db_sm.jpeg",
-    "HallRating": 16.07,
-    "BAR": 8.16,
-    "StylePlus": "119",
-    "RatingScore": 4.23,
-    "AdjustedRating": "2.0861080752389292921600731067"
-  },
-  {
     "BID": 6031526,
     "BeerName": "Белоглазка",
     "BeerStyle": "Sour - Smoothie / Pastry",
@@ -27,7 +12,28 @@
     "BAR": 8.09,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0860017705669020805497232296"
+    "AdjustedRating": "3.2820676535796766743648960739",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 2,
+    "StyleAvgAbv": 5.9
+  },
+  {
+    "BID": 6213288,
+    "BeerName": "Cinnamon Apple",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "LULZ Hard Seltzer",
+    "Origin": "Lake Zurich, IL United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5066730_407db_sm.jpeg",
+    "HallRating": 16.07,
+    "BAR": 8.16,
+    "StylePlus": "119",
+    "RatingScore": 4.23,
+    "AdjustedRating": "3.2138011603650586701434159061",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 4,
+    "StyleAvgAbv": 5.29
   },
   {
     "BID": 1672504,
@@ -42,7 +48,28 @@
     "BAR": 6.25,
     "StylePlus": "115",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0385208144673064569504194974"
+    "AdjustedRating": "2.2171871465968586387434554974",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 69,
+    "StyleAvgAbv": 11.28
+  },
+  {
+    "BID": 5627195,
+    "BeerName": "Bantha Blue",
+    "BeerStyle": "Mead - Session / Short",
+    "BreweryName": "Standard Meadery",
+    "Origin": "Villa Park, IL United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-380173_f0672.jpeg",
+    "HallRating": 16.07,
+    "BAR": 7.40,
+    "StylePlus": "116",
+    "RatingScore": 4.46,
+    "AdjustedRating": "2.6522858432470258922323303009",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 6.01
   },
   {
     "BID": 4017100,
@@ -57,22 +84,10 @@
     "BAR": 9.35,
     "StylePlus": "115",
     "RatingScore": 4.21,
-    "AdjustedRating": "2.5272585658488033659573826364"
-  },
-  {
-    "BID": 4206566,
-    "BeerName": "Rum Barrel Aged Escape To Fantasy Island",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 10.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4206566_2575a_sm.jpeg",
-    "HallRating": 16.05,
-    "BAR": 7.55,
-    "StylePlus": "115",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.0559156088888888888888888889"
+    "AdjustedRating": "4.0659633513614323013800820589",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 5.74
   },
   {
     "BID": 5000999,
@@ -87,22 +102,10 @@
     "BAR": 7.20,
     "StylePlus": "115",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.047747600356824264049955397"
-  },
-  {
-    "BID": 6212090,
-    "BeerName": "15th Anniversary Blonde Ale: Shaun Hill & Dan Suarez",
-    "BeerStyle": "Blonde / Golden Ale - Other",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 4.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6205411_bddc9_sm.jpeg",
-    "HallRating": 16.05,
-    "BAR": 8.18,
-    "StylePlus": "122",
-    "RatingScore": 4.23,
-    "AdjustedRating": "2.0894497559306569343065693431"
+    "AdjustedRating": "2.5460078076062639821029082774",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 35,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 5422078,
@@ -117,37 +120,46 @@
     "BAR": 6.51,
     "StylePlus": "122",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0396201073888175557371308509"
+    "AdjustedRating": "2.260489779099405267629566695",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 7,
+    "StyleAvgAbv": 7.3
   },
   {
-    "BID": 5819117,
-    "BeerName": "The Dawn of Man",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "TEST",
-    "Origin": "Kings County, NY United States",
-    "BeerAbv": 7.50,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5819117_8daa2_sm.jpeg",
-    "HallRating": 16.04,
-    "BAR": 7.50,
-    "StylePlus": "116",
-    "RatingScore": 4.47,
-    "AdjustedRating": "2.0547399075810599176350031902"
-  },
-  {
-    "BID": 611425,
-    "BeerName": "Sour Golden Ale",
-    "BeerStyle": "Sour - Other",
-    "BreweryName": "Backacre Beermakers",
-    "Origin": "Denver, CO United States",
-    "BeerAbv": 7.20,
+    "BID": 6212090,
+    "BeerName": "15th Anniversary Blonde Ale: Shaun Hill & Dan Suarez",
+    "BeerStyle": "Blonde / Golden Ale - Other",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 4.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_243042_sm_e2499f6f19aa38edbc90211cf8a935.jpeg",
-    "HallRating": 16.04,
-    "BAR": 8.76,
-    "StylePlus": "114",
-    "RatingScore": 4.31,
-    "AdjustedRating": "2.2026917533628238692786855647"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6205411_bddc9_sm.jpeg",
+    "HallRating": 16.05,
+    "BAR": 8.18,
+    "StylePlus": "122",
+    "RatingScore": 4.23,
+    "AdjustedRating": "3.248768976080570709190096517",
+    "BreweryRank": 37,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 5.19
+  },
+  {
+    "BID": 4206566,
+    "BeerName": "Rum Barrel Aged Escape To Fantasy Island",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 10.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4206566_2575a_sm.jpeg",
+    "HallRating": 16.05,
+    "BAR": 7.55,
+    "StylePlus": "115",
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.7630665377049180327868852459",
+    "BreweryRank": 11,
+    "BreweryBeerCount": 38,
+    "StyleAvgAbv": 5.66
   },
   {
     "BID": 2104279,
@@ -162,7 +174,46 @@
     "BAR": 8.03,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0830033789570270683590763114"
+    "AdjustedRating": "3.2516130666027791087685673215",
+    "BreweryRank": 10,
+    "BreweryBeerCount": 43,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 611425,
+    "BeerName": "Sour Golden Ale",
+    "BeerStyle": "Sour - Other",
+    "BreweryName": "Backacre Beermakers",
+    "Origin": "Denver, CO United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_243042_sm_e2499f6f19aa38edbc90211cf8a935.jpeg",
+    "HallRating": 16.04,
+    "BAR": 8.76,
+    "StylePlus": "114",
+    "RatingScore": 4.31,
+    "AdjustedRating": "3.8403345872093023255813953488",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 2,
+    "StyleAvgAbv": 5.94
+  },
+  {
+    "BID": 5819117,
+    "BeerName": "The Dawn of Man",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "TEST",
+    "Origin": "Kings County, NY United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5819117_8daa2_sm.jpeg",
+    "HallRating": 16.04,
+    "BAR": 7.50,
+    "StylePlus": "116",
+    "RatingScore": 4.47,
+    "AdjustedRating": "2.7361273195187165775401069519",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 6,
+    "StyleAvgAbv": 6.48
   },
   {
     "BID": 3344458,
@@ -177,7 +228,10 @@
     "BAR": 8.16,
     "StylePlus": "117",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0904225207334702883664307997"
+    "AdjustedRating": "3.2883410609288453344695355773",
+    "BreweryRank": 12,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 4610963,
@@ -192,22 +246,10 @@
     "BAR": 8.45,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.1362750707357640770711469099"
-  },
-  {
-    "BID": 3345330,
-    "BeerName": "Diablo Pink Guava Peach Goserita",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "The Answer",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345330_3f628_sm.jpeg",
-    "HallRating": 16.00,
-    "BAR": 6.98,
-    "StylePlus": "117",
-    "RatingScore": 4.47,
-    "AdjustedRating": "2.0443282929765626517019747956"
+    "AdjustedRating": "3.6936621406820950060901339829",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 2500237,
@@ -222,7 +264,10 @@
     "BAR": 7.81,
     "StylePlus": "118",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.0669464359728550281638695042"
+    "AdjustedRating": "2.9778998158482142857142857143",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 52,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 3340692,
@@ -237,7 +282,10 @@
     "BAR": 9.40,
     "StylePlus": "111",
     "RatingScore": 4.25,
-    "AdjustedRating": "2.6242847932016194795347572927"
+    "AdjustedRating": "4.130066405916437938395852394",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 30,
+    "StyleAvgAbv": 6.25
   },
   {
     "BID": 3217719,
@@ -252,7 +300,28 @@
     "BAR": 8.28,
     "StylePlus": "111",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1116911480488081296513165351"
+    "AdjustedRating": "3.5396380088332719911667280088",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 10.5
+  },
+  {
+    "BID": 3345330,
+    "BeerName": "Diablo Pink Guava Peach Goserita",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "The Answer",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3345330_3f628_sm.jpeg",
+    "HallRating": 16.00,
+    "BAR": 6.98,
+    "StylePlus": "117",
+    "RatingScore": 4.47,
+    "AdjustedRating": "2.4339925196232339089481946625",
+    "BreweryRank": 11,
+    "BreweryBeerCount": 43,
+    "StyleAvgAbv": 5.08
   },
   {
     "BID": 2639283,
@@ -267,22 +336,10 @@
     "BAR": 8.76,
     "StylePlus": "115",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.2102253080449438202247191011"
-  },
-  {
-    "BID": 6015895,
-    "BeerName": "Kilauea",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 12.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015895_cfd3d_sm.jpeg",
-    "HallRating": 15.99,
-    "BAR": 7.40,
-    "StylePlus": "111",
-    "RatingScore": 4.59,
-    "AdjustedRating": "2.0533366767301439851370181143"
+    "AdjustedRating": "3.84515305",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 6.52
   },
   {
     "BID": 53520,
@@ -297,37 +354,28 @@
     "BAR": 8.54,
     "StylePlus": "116",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.1496609269023699839040905811"
+    "AdjustedRating": "3.662144921589127025614218505",
+    "BreweryRank": 38,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
-    "BID": 5627195,
-    "BeerName": "Bantha Blue",
-    "BeerStyle": "Mead - Session / Short",
-    "BreweryName": "Standard Meadery",
-    "Origin": "Villa Park, IL United States",
-    "BeerAbv": 5.00,
+    "BID": 6015895,
+    "BeerName": "Kilauea",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 12.30,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-380173_f0672.jpeg",
-    "HallRating": 15.98,
-    "BAR": 7.36,
-    "StylePlus": "116",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.0515366236883881209586866458"
-  },
-  {
-    "BID": 2704692,
-    "BeerName": "Rum Barrel Banana Foster Chocolate Fudge",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "The Answer",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 10.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2704692_aa989_sm.jpeg",
-    "HallRating": 15.98,
-    "BAR": 6.92,
-    "StylePlus": "121",
-    "RatingScore": 4.43,
-    "AdjustedRating": "2.0435635465951909256885366896"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015895_cfd3d_sm.jpeg",
+    "HallRating": 15.99,
+    "BAR": 7.40,
+    "StylePlus": "111",
+    "RatingScore": 4.59,
+    "AdjustedRating": "2.7090922391154111955770559779",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 1668078,
@@ -342,7 +390,28 @@
     "BAR": 5.88,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0373184427219257585790519223"
+    "AdjustedRating": "2.1660985459411239964317573595",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 6.45
+  },
+  {
+    "BID": 2704692,
+    "BeerName": "Rum Barrel Banana Foster Chocolate Fudge",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "The Answer",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2704692_aa989_sm.jpeg",
+    "HallRating": 15.98,
+    "BAR": 6.92,
+    "StylePlus": "121",
+    "RatingScore": 4.43,
+    "AdjustedRating": "2.4067854639175257731958762887",
+    "BreweryRank": 12,
+    "BreweryBeerCount": 43,
+    "StyleAvgAbv": 6.68
   },
   {
     "BID": 2405287,
@@ -357,21 +426,27 @@
     "BAR": 9.42,
     "StylePlus": "109",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.7117585040352774773275646892"
+    "AdjustedRating": "4.2658776769153456073827036411",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 24,
+    "StyleAvgAbv": 11.28
   },
   {
-    "BID": 4631290,
-    "BeerName": "A Deeper Understanding",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Forager Brewery",
-    "Origin": "Rochester, MN United States",
-    "BeerAbv": 12.50,
+    "BID": 5041309,
+    "BeerName": "Witchhammer",
+    "BeerStyle": "Pilsner - Czech / Bohemian",
+    "BreweryName": "Freak Folk Bier",
+    "Origin": "Waterbury Village Historic District, VT United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4631290_affb9_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5041302_bb4b6_sm.jpeg",
     "HallRating": 15.96,
-    "BAR": 7.95,
-    "StylePlus": "112",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0796912915143278268027028579"
+    "BAR": 7.84,
+    "StylePlus": "123",
+    "RatingScore": 4.22,
+    "AdjustedRating": "2.9638620992984349703184025904",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 15,
+    "StyleAvgAbv": 4.88
   }
 ]

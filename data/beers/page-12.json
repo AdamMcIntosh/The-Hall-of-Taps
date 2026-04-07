@@ -1,18 +1,21 @@
 [
   {
-    "BID": 4804655,
-    "BeerName": "Lunch Break: Peanut Butter & Grape Jelly",
-    "BeerStyle": "Gluten-Free",
-    "BreweryName": "Corporate Ladder Brewing Company",
-    "Origin": "Palmetto, FL United States",
-    "BeerAbv": 6.50,
+    "BID": 6406138,
+    "BeerName": "Demon Box 2025",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Monkey Brew",
+    "Origin": "Trondheim, Trøndelag Norway",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5729434_f02f0_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6406138_dd1ff_sm.jpeg",
     "HallRating": 17.51,
-    "BAR": 8.88,
-    "StylePlus": "127",
-    "RatingScore": 4.24,
-    "AdjustedRating": "2.0856051032223661156395215967"
+    "BAR": 8.77,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "3.2798072001911132345914954611",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 29,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 4222796,
@@ -27,22 +30,10 @@
     "BAR": 8.56,
     "StylePlus": "120",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0689687309761721752498078401"
-  },
-  {
-    "BID": 2808965,
-    "BeerName": "Wide Awake It's Morning",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Funky Buddha Brewery",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 9.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-34608_5ef5d_sm.jpeg",
-    "HallRating": 17.49,
-    "BAR": 10.25,
-    "StylePlus": "112",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.6445538326450771571397522278"
+    "AdjustedRating": "3.0243396528925619834710743802",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 13,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6218368,
@@ -57,22 +48,10 @@
     "BAR": 9.75,
     "StylePlus": "114",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.2817087619812490179304083664"
-  },
-  {
-    "BID": 6015737,
-    "BeerName": "Fresh Hop Timbo Pils",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Highland Park Brewery",
-    "Origin": "Los Angeles, CA United States",
-    "BeerAbv": 5.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015737_acdf3_sm.jpeg",
-    "HallRating": 17.49,
-    "BAR": 8.30,
-    "StylePlus": "127",
-    "RatingScore": 4.31,
-    "AdjustedRating": "2.0570220979074974905412709443"
+    "AdjustedRating": "4.0427504920589903573454339195",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 5.95
   },
   {
     "BID": 5807409,
@@ -87,22 +66,46 @@
     "BAR": 8.53,
     "StylePlus": "114",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0681601284294311037625209082"
+    "AdjustedRating": "3.0152441107382550335570469799",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 3,
+    "StyleAvgAbv": 9.26
   },
   {
-    "BID": 6032429,
-    "BeerName": "Nascent Truth Double Coconut",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 13.50,
+    "BID": 6015737,
+    "BeerName": "Fresh Hop Timbo Pils",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Highland Park Brewery",
+    "Origin": "Los Angeles, CA United States",
+    "BeerAbv": 5.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6032429_6747b_sm.jpeg",
-    "HallRating": 17.48,
-    "BAR": 8.89,
-    "StylePlus": "113",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0955155487909286352999372158"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6015737_acdf3_sm.jpeg",
+    "HallRating": 17.49,
+    "BAR": 8.30,
+    "StylePlus": "127",
+    "RatingScore": 4.31,
+    "AdjustedRating": "2.7751845915136162127929069031",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 26,
+    "StyleAvgAbv": 4.92
+  },
+  {
+    "BID": 2808965,
+    "BeerName": "Wide Awake It's Morning",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Funky Buddha Brewery",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 9.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-34608_5ef5d_sm.jpeg",
+    "HallRating": 17.49,
+    "BAR": 10.25,
+    "StylePlus": "112",
+    "RatingScore": 4.41,
+    "AdjustedRating": "4.2753553203831825439063331559",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 34,
+    "StyleAvgAbv": 10.03
   },
   {
     "BID": 6212579,
@@ -117,7 +120,10 @@
     "BAR": 8.06,
     "StylePlus": "114",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0525290427241225777726155216"
+    "AdjustedRating": "2.6868271438547486033519553073",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 4940498,
@@ -132,7 +138,28 @@
     "BAR": 7.75,
     "StylePlus": "126",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0457375135344911225380809159"
+    "AdjustedRating": "2.4787224961832061068702290076",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 5.39
+  },
+  {
+    "BID": 6032429,
+    "BeerName": "Nascent Truth Double Coconut",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6032429_6747b_sm.jpeg",
+    "HallRating": 17.48,
+    "BAR": 8.89,
+    "StylePlus": "113",
+    "RatingScore": 4.56,
+    "AdjustedRating": "3.4085772559931506849315068493",
+    "BreweryRank": 24,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 3209724,
@@ -147,37 +174,10 @@
     "BAR": 10.11,
     "StylePlus": "112",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.5316314716185634125926155563"
-  },
-  {
-    "BID": 4820988,
-    "BeerName": "Ullr Schwarz Barrel Aged Batch 1",
-    "BeerStyle": "Schwarzbier",
-    "BreweryName": "FrohenFeld Craft Brewery",
-    "Origin": "Curitiba, Paraná Brazil",
-    "BeerAbv": 8.70,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4820988_dcf52_sm.jpeg",
-    "HallRating": 17.45,
-    "BAR": 7.35,
-    "StylePlus": "125",
-    "RatingScore": 4.50,
-    "AdjustedRating": "2.0417769717940244542503353226"
-  },
-  {
-    "BID": 6021058,
-    "BeerName": "V.S.O. On & On Part 3",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Revolution Brewing",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 16.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6021058_1bced_sm.jpeg",
-    "HallRating": 17.45,
-    "BAR": 8.60,
-    "StylePlus": "120",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.0719153507829290758366595026"
+    "AdjustedRating": "4.2792159332353558681503254252",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 54,
+    "StyleAvgAbv": 6.66
   },
   {
     "BID": 6038874,
@@ -192,7 +192,64 @@
     "BAR": 7.02,
     "StylePlus": "124",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0396241416480202354314622045"
+    "AdjustedRating": "2.2619884358974358974358974359",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 6.22
+  },
+  {
+    "BID": 6102570,
+    "BeerName": "Raspberry Banana Prestige",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 16.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6102570_9bf9c_sm.jpeg",
+    "HallRating": 17.45,
+    "BAR": 6.97,
+    "StylePlus": "125",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.2492409536082474226804123711",
+    "BreweryRank": 13,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 9.4
+  },
+  {
+    "BID": 4820988,
+    "BeerName": "Ullr Schwarz Barrel Aged Batch 1",
+    "BeerStyle": "Schwarzbier",
+    "BreweryName": "FrohenFeld Craft Brewery",
+    "Origin": "Curitiba, Paraná Brazil",
+    "BeerAbv": 8.70,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4820988_dcf52_sm.jpeg",
+    "HallRating": 17.45,
+    "BAR": 7.35,
+    "StylePlus": "125",
+    "RatingScore": 4.50,
+    "AdjustedRating": "2.3441514532019704433497536946",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 7,
+    "StyleAvgAbv": 5.16
+  },
+  {
+    "BID": 6021058,
+    "BeerName": "V.S.O. On & On Part 3",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Revolution Brewing",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 16.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6021058_1bced_sm.jpeg",
+    "HallRating": 17.45,
+    "BAR": 8.60,
+    "StylePlus": "120",
+    "RatingScore": 4.41,
+    "AdjustedRating": "3.069261510333863275039745628",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 45,
+    "StyleAvgAbv": 6.68
   },
   {
     "BID": 6224528,
@@ -207,7 +264,10 @@
     "BAR": 8.55,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.0720943672685363042643104111"
+    "AdjustedRating": "3.1026029809264305177111716621",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 34,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 4016285,
@@ -222,7 +282,10 @@
     "BAR": 9.85,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.3643739811986295589947848981"
+    "AdjustedRating": "4.200262183691557722136051407",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 3342194,
@@ -237,22 +300,10 @@
     "BAR": 8.97,
     "StylePlus": "112",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.1037790119624470018170805572"
-  },
-  {
-    "BID": 6102570,
-    "BeerName": "Raspberry Banana Prestige",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 16.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6102570_9bf9c_sm.jpeg",
-    "HallRating": 17.40,
-    "BAR": 6.95,
-    "StylePlus": "125",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.0393094389849967891961314678"
+    "AdjustedRating": "3.4395460184119677790563866513",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 65,
+    "StyleAvgAbv": 6.14
   },
   {
     "BID": 1672225,
@@ -267,7 +318,10 @@
     "BAR": 9.09,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.1253522624527911914469852126"
+    "AdjustedRating": "3.6493379405874499332443257677",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 4,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6433795,
@@ -282,37 +336,10 @@
     "BAR": 7.32,
     "StylePlus": "115",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.042252838287036137083762611"
-  },
-  {
-    "BID": 6229703,
-    "BeerName": "DOOZIE COCONUT (2025)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "HOMES Brewery",
-    "Origin": "Ann Arbor, MI United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6229703_262ee_sm.jpeg",
-    "HallRating": 17.36,
-    "BAR": 7.83,
-    "StylePlus": "112",
-    "RatingScore": 4.65,
-    "AdjustedRating": "2.0492503733860649063626846574"
-  },
-  {
-    "BID": 6217974,
-    "BeerName": "Bird Flies By And You Forget",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Horus Aged Ales",
-    "Origin": "Oceanside, CA United States",
-    "BeerAbv": 11.30,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-324969_2db2b.jpeg",
-    "HallRating": 17.36,
-    "BAR": 7.54,
-    "StylePlus": "115",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.044586979725005826147751107"
+    "AdjustedRating": "2.364249975369458128078817734",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 15,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 5608860,
@@ -327,7 +354,46 @@
     "BAR": 8.39,
     "StylePlus": "115",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0651999376083188908145580589"
+    "AdjustedRating": "2.9711885454545454545454545455",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 26,
+    "StyleAvgAbv": 12.13
+  },
+  {
+    "BID": 6229703,
+    "BeerName": "DOOZIE COCONUT (2025)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "HOMES Brewery",
+    "Origin": "Ann Arbor, MI United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6229703_262ee_sm.jpeg",
+    "HallRating": 17.36,
+    "BAR": 7.83,
+    "StylePlus": "112",
+    "RatingScore": 4.65,
+    "AdjustedRating": "2.5972560574797347089167280766",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 13,
+    "StyleAvgAbv": 11.93
+  },
+  {
+    "BID": 6217974,
+    "BeerName": "Bird Flies By And You Forget",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Horus Aged Ales",
+    "Origin": "Oceanside, CA United States",
+    "BeerAbv": 11.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-324969_2db2b.jpeg",
+    "HallRating": 17.36,
+    "BAR": 7.54,
+    "StylePlus": "115",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.4466586187845303867403314917",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 33,
+    "StyleAvgAbv": 11.28
   },
   {
     "BID": 4415100,
@@ -342,22 +408,10 @@
     "BAR": 10.34,
     "StylePlus": "110",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.8779024053395594355902954015"
-  },
-  {
-    "BID": 1901918,
-    "BeerName": "Double Dry Hopped Stillings Street",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Trillium Brewing Company",
-    "Origin": "Canton, MA United States",
-    "BeerAbv": 7.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1901913_03e07_sm.jpeg",
-    "HallRating": 17.32,
-    "BAR": 10.37,
-    "StylePlus": "112",
-    "RatingScore": 4.34,
-    "AdjustedRating": "2.8823126950433292654364360292"
+    "AdjustedRating": "4.3599963779169436378266801945",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 110,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 3212663,
@@ -372,6 +426,27 @@
     "BAR": 9.76,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.332674035930183056619838229"
+    "AdjustedRating": "4.0948619376470588235294117647",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 148,
+    "StyleAvgAbv": 8.42
+  },
+  {
+    "BID": 1901918,
+    "BeerName": "Double Dry Hopped Stillings Street",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Trillium Brewing Company",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 7.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1901913_03e07_sm.jpeg",
+    "HallRating": 17.32,
+    "BAR": 10.37,
+    "StylePlus": "112",
+    "RatingScore": 4.34,
+    "AdjustedRating": "4.2605313117353874037154508382",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 6.48
   }
 ]

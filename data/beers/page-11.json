@@ -1,20 +1,5 @@
 [
   {
-    "BID": 4617857,
-    "BeerName": "Beanie In A Bottle",
-    "BeerStyle": "Mead - Traditional",
-    "BreweryName": "Manic Meadery",
-    "Origin": "Crown Point, IN United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4617857_aa052_sm.jpeg",
-    "HallRating": 17.78,
-    "BAR": 7.63,
-    "StylePlus": "121",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0432969896442518797722901164"
-  },
-  {
     "BID": 6103962,
     "BeerName": "Opera Omnia",
     "BeerStyle": "Stout - Imperial / Double Pastry",
@@ -27,7 +12,28 @@
     "BAR": 8.41,
     "StylePlus": "112",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0592003545633617859487852922"
+    "AdjustedRating": "2.857775510597302504816955684",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 25,
+    "StyleAvgAbv": 11.93
+  },
+  {
+    "BID": 4617857,
+    "BeerName": "Beanie In A Bottle",
+    "BeerStyle": "Mead - Traditional",
+    "BreweryName": "Manic Meadery",
+    "Origin": "Crown Point, IN United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4617857_aa052_sm.jpeg",
+    "HallRating": 17.78,
+    "BAR": 7.63,
+    "StylePlus": "121",
+    "RatingScore": 4.58,
+    "AdjustedRating": "2.4007206350482315112540192926",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 15,
+    "StyleAvgAbv": 11.61
   },
   {
     "BID": 3809290,
@@ -42,7 +48,10 @@
     "BAR": 8.35,
     "StylePlus": "114",
     "RatingScore": 4.58,
-    "AdjustedRating": "2.056876140378000231901982762"
+    "AdjustedRating": "2.7976045167652859960552268245",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 16,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 3505685,
@@ -57,7 +66,10 @@
     "BAR": 8.92,
     "StylePlus": "117",
     "RatingScore": 4.47,
-    "AdjustedRating": "2.0838966775542948828147384104"
+    "AdjustedRating": "3.251074468984962406015037594",
+    "BreweryRank": 23,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 6.1
   },
   {
     "BID": 5805511,
@@ -72,7 +84,10 @@
     "BAR": 9.73,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.2315644568105119551949450707"
+    "AdjustedRating": "4.0372125606419843151559365311",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 54,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 3025834,
@@ -87,7 +102,10 @@
     "BAR": 9.95,
     "StylePlus": "119",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.3079678234367509074720909527"
+    "AdjustedRating": "3.9876019647878713779190610099",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 5.24
   },
   {
     "BID": 6609944,
@@ -102,22 +120,10 @@
     "BAR": 6.33,
     "StylePlus": "127",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0368385912694547792040828253"
-  },
-  {
-    "BID": 6603508,
-    "BeerName": "Double Dry Hopped Mylar Daydream",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Other Half Brewing Co.",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 8.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2387028_648d0_sm.jpeg",
-    "HallRating": 17.66,
-    "BAR": 10.34,
-    "StylePlus": "113",
-    "RatingScore": 4.37,
-    "AdjustedRating": "2.6255095934059532824605347469"
+    "AdjustedRating": "2.1449878327338129496402877698",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 35,
+    "StyleAvgAbv": 6.68
   },
   {
     "BID": 6506422,
@@ -132,7 +138,10 @@
     "BAR": 8.44,
     "StylePlus": "112",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0622789175635536010492612738"
+    "AdjustedRating": "2.9247109623689080814312152992",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 50,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 6043863,
@@ -147,22 +156,28 @@
     "BAR": 7.70,
     "StylePlus": "115",
     "RatingScore": 4.62,
-    "AdjustedRating": "2.0449370426610225441270704286"
+    "AdjustedRating": "2.4586000549450549450549450549",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 37,
+    "StyleAvgAbv": 11.29
   },
   {
-    "BID": 70157,
-    "BeerName": "Vera Mae",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 6.00,
+    "BID": 6603508,
+    "BeerName": "Double Dry Hopped Mylar Daydream",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Other Half Brewing Co.",
+    "Origin": "Brooklyn, NY United States",
+    "BeerAbv": 8.80,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-70157_d608a_sm.jpeg",
-    "HallRating": 17.62,
-    "BAR": 9.75,
-    "StylePlus": "117",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.2461595858480380878214544875"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2387028_648d0_sm.jpeg",
+    "HallRating": 17.66,
+    "BAR": 10.34,
+    "StylePlus": "113",
+    "RatingScore": 4.37,
+    "AdjustedRating": "4.2351318370113322127636501654",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 148,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 4008934,
@@ -177,7 +192,28 @@
     "BAR": 10.78,
     "StylePlus": "110",
     "RatingScore": 4.44,
-    "AdjustedRating": "3.2601225268956020311558653929"
+    "AdjustedRating": "4.3928590231111765355315938616",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 70157,
+    "BeerName": "Vera Mae",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-70157_d608a_sm.jpeg",
+    "HallRating": 17.62,
+    "BAR": 9.75,
+    "StylePlus": "117",
+    "RatingScore": 4.33,
+    "AdjustedRating": "3.9404567351816443594646271511",
+    "BreweryRank": 24,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 2420332,
@@ -192,7 +228,10 @@
     "BAR": 9.99,
     "StylePlus": "114",
     "RatingScore": 4.34,
-    "AdjustedRating": "2.366733071236671283394797003"
+    "AdjustedRating": "4.0869157359307359307359307359",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 30,
+    "StyleAvgAbv": 6.25
   },
   {
     "BID": 6408654,
@@ -207,7 +246,10 @@
     "BAR": 7.29,
     "StylePlus": "113",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.0412864680486951110419664735"
+    "AdjustedRating": "2.3283846867167919799498746867",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 48,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 5218371,
@@ -222,22 +264,10 @@
     "BAR": 8.37,
     "StylePlus": "112",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0609410208610741233910341767"
-  },
-  {
-    "BID": 6216152,
-    "BeerName": "Barrel-Aged Space Debris: Coconut (2025) (Silver Wax)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Brothership Brewing",
-    "Origin": "Mokena, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6206771_bc4ab_sm.jpeg",
-    "HallRating": 17.58,
-    "BAR": 8.11,
-    "StylePlus": "114",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0530616847973365336223916999"
+    "AdjustedRating": "2.8958258908406524466750313676",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 33,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 1673898,
@@ -252,7 +282,28 @@
     "BAR": 9.53,
     "StylePlus": "115",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.1896807811246444460652031216"
+    "AdjustedRating": "3.8776567373890452478891534964",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 148,
+    "StyleAvgAbv": 8.42
+  },
+  {
+    "BID": 6216152,
+    "BeerName": "Barrel-Aged Space Debris: Coconut (2025) (Silver Wax)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Brothership Brewing",
+    "Origin": "Mokena, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6206771_bc4ab_sm.jpeg",
+    "HallRating": 17.58,
+    "BAR": 8.11,
+    "StylePlus": "114",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.7037692901878914405010438413",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 11,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6100663,
@@ -267,7 +318,10 @@
     "BAR": 8.02,
     "StylePlus": "112",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.051416615205811138014527845"
+    "AdjustedRating": "2.6603046214285714285714285714",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 53,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 5605067,
@@ -282,7 +336,10 @@
     "BAR": 7.46,
     "StylePlus": "115",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0427671316684481585851715091"
+    "AdjustedRating": "2.3826231463414634146341463415",
+    "BreweryRank": 11,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 6302105,
@@ -297,7 +354,10 @@
     "BAR": 7.32,
     "StylePlus": "116",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0415872287141996072407691859"
+    "AdjustedRating": "2.3390683830845771144278606965",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 37,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 3807483,
@@ -312,37 +372,10 @@
     "BAR": 8.50,
     "StylePlus": "113",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0668331330472103004291845494"
-  },
-  {
-    "BID": 4632191,
-    "BeerName": "Grand Cru (7th Anniversary) Blend 2 W/Coconut And Double Stuff",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Angry Chair Brewing",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 12.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
-    "HallRating": 17.52,
-    "BAR": 6.74,
-    "StylePlus": "116",
-    "RatingScore": 4.71,
-    "AdjustedRating": "2.0383506815925240922807359097"
-  },
-  {
-    "BID": 2800986,
-    "BeerName": "The Statement",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Schramm’s Mead",
-    "Origin": "Ferndale, MI United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_445477_sm_b6777ed681a4d5c189f18775d1dff5.jpeg",
-    "HallRating": 17.52,
-    "BAR": 10.09,
-    "StylePlus": "110",
-    "RatingScore": 4.43,
-    "AdjustedRating": "2.4818777986364357063580149041"
+    "AdjustedRating": "3.0049748961937716262975778547",
+    "BreweryRank": 12,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 6206080,
@@ -357,21 +390,63 @@
     "BAR": 8.58,
     "StylePlus": "120",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0692862750975080215958652756"
+    "AdjustedRating": "3.0297401042810098792535675082",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 60,
+    "StyleAvgAbv": 6.22
   },
   {
-    "BID": 6406138,
-    "BeerName": "Demon Box 2025",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Monkey Brew",
-    "Origin": "Trondheim, Trøndelag Norway",
+    "BID": 2800986,
+    "BeerName": "The Statement",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Schramm’s Mead",
+    "Origin": "Ferndale, MI United States",
     "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6406138_dd1ff_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_445477_sm_b6777ed681a4d5c189f18775d1dff5.jpeg",
+    "HallRating": 17.52,
+    "BAR": 10.09,
+    "StylePlus": "110",
+    "RatingScore": 4.43,
+    "AdjustedRating": "4.231380028804982483456597898",
+    "BreweryRank": 13,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 4632191,
+    "BeerName": "Grand Cru (7th Anniversary) Blend 2 W/Coconut And Double Stuff",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Angry Chair Brewing",
+    "Origin": "Tampa, FL United States",
+    "BeerAbv": 12.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-56815_7e223.jpeg",
+    "HallRating": 17.52,
+    "BAR": 6.74,
+    "StylePlus": "116",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.2104618157894736842105263158",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 48,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 4804655,
+    "BeerName": "Lunch Break: Peanut Butter & Grape Jelly",
+    "BeerStyle": "Gluten-Free",
+    "BreweryName": "Corporate Ladder Brewing Company",
+    "Origin": "Palmetto, FL United States",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5729434_f02f0_sm.jpeg",
     "HallRating": 17.51,
-    "BAR": 8.77,
-    "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0842653151878894453151878894"
+    "BAR": 8.88,
+    "StylePlus": "127",
+    "RatingScore": 4.24,
+    "AdjustedRating": "3.2111241655716162943495400788",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 38,
+    "StyleAvgAbv": 5.4
   }
 ]

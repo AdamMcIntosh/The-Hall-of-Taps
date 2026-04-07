@@ -12,7 +12,10 @@
     "BAR": 5.72,
     "StylePlus": "113",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0398271166789868886900361825"
+    "AdjustedRating": "2.2687523031329381879762912786",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 12,
+    "StyleAvgAbv": 10.89
   },
   {
     "BID": 4609649,
@@ -27,7 +30,10 @@
     "BAR": 7.76,
     "StylePlus": "109",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.2526535832359916463134048352"
+    "AdjustedRating": "3.9986421013222877170622909033",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 3418922,
@@ -42,7 +48,10 @@
     "BAR": 6.36,
     "StylePlus": "117",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.0480711401383747747049361422"
+    "AdjustedRating": "2.5461910262008733624454148472",
+    "BreweryRank": 61,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6200004,
@@ -57,7 +66,10 @@
     "BAR": 6.20,
     "StylePlus": "113",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.0455548975314392175128085701"
+    "AdjustedRating": "2.4738269148119723714504988488",
+    "BreweryRank": 14,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 6220716,
@@ -72,7 +84,10 @@
     "BAR": 5.85,
     "StylePlus": "112",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0413340480634624358376108259"
+    "AdjustedRating": "2.3280335294117647058823529412",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 11,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6503011,
@@ -87,52 +102,10 @@
     "BAR": 6.08,
     "StylePlus": "115",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.0437100943872596620703049136"
-  },
-  {
-    "BID": 6505515,
-    "BeerName": "Quad Ducks and Axes",
-    "BeerStyle": "IPA - Quadruple",
-    "BreweryName": "Fidens Brewing Co.",
-    "Origin": "Albany, NY United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505515_90791_sm.jpeg",
-    "HallRating": 14.01,
-    "BAR": 6.67,
-    "StylePlus": "109",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.0600631538728725251823549844"
-  },
-  {
-    "BID": 1670948,
-    "BeerName": "Chubna",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "Oskar Blues Brewery®",
-    "Origin": "Longmont, CO United States",
-    "BeerAbv": 12.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-956_9b8c6.jpeg",
-    "HallRating": 14.01,
-    "BAR": 7.39,
-    "StylePlus": "117",
-    "RatingScore": 4.19,
-    "AdjustedRating": "2.1239113969090467380538580853"
-  },
-  {
-    "BID": 3341474,
-    "BeerName": "Picture In Reverse (Bourbon Barrel Aged) (2019)",
-    "BeerStyle": "Old / Stock Ale",
-    "BreweryName": "Kane Brewing Company",
-    "Origin": "Ocean, NJ United States",
-    "BeerAbv": 12.80,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-kanebrewingcompany_14653.jpeg",
-    "HallRating": 14.01,
-    "BAR": 6.46,
-    "StylePlus": "114",
-    "RatingScore": 4.31,
-    "AdjustedRating": "2.0506108128617612327467719767"
+    "AdjustedRating": "2.4116019525691699604743083004",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 36,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 3334724,
@@ -147,22 +120,64 @@
     "BAR": 6.44,
     "StylePlus": "111",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0514866838344918388289736093"
+    "AdjustedRating": "2.6534293037974683544303797468",
+    "BreweryRank": 50,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 10.5
   },
   {
-    "BID": 5901733,
-    "BeerName": "Amalgamation (Blend 2)",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Equilibrium Brewery",
-    "Origin": "Middletown, NY United States",
-    "BeerAbv": 17.00,
+    "BID": 6505515,
+    "BeerName": "Quad Ducks and Axes",
+    "BeerStyle": "IPA - Quadruple",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 12.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5901733_a6f71_sm.jpeg",
-    "HallRating": 14.00,
-    "BAR": 6.39,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6505515_90791_sm.jpeg",
+    "HallRating": 14.01,
+    "BAR": 6.67,
+    "StylePlus": "109",
+    "RatingScore": 4.53,
+    "AdjustedRating": "2.8657711145898559799624295554",
+    "BreweryRank": 26,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 12.48
+  },
+  {
+    "BID": 3341474,
+    "BeerName": "Picture In Reverse (Bourbon Barrel Aged) (2019)",
+    "BeerStyle": "Old / Stock Ale",
+    "BreweryName": "Kane Brewing Company",
+    "Origin": "Ocean, NJ United States",
+    "BeerAbv": 12.80,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-kanebrewingcompany_14653.jpeg",
+    "HallRating": 14.01,
+    "BAR": 6.46,
     "StylePlus": "114",
-    "RatingScore": 4.35,
-    "AdjustedRating": "2.0492024789321761366938530386"
+    "RatingScore": 4.31,
+    "AdjustedRating": "2.617630216480446927374301676",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 31,
+    "StyleAvgAbv": 8.98
+  },
+  {
+    "BID": 1670948,
+    "BeerName": "Chubna",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Oskar Blues Brewery®",
+    "Origin": "Longmont, CO United States",
+    "BeerAbv": 12.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-956_9b8c6.jpeg",
+    "HallRating": 14.01,
+    "BAR": 7.39,
+    "StylePlus": "117",
+    "RatingScore": 4.19,
+    "AdjustedRating": "3.4913775015216068167985392575",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 24,
+    "StyleAvgAbv": 6.04
   },
   {
     "BID": 5613852,
@@ -177,7 +192,28 @@
     "BAR": 6.28,
     "StylePlus": "111",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0475929944729952487152138078"
+    "AdjustedRating": "2.5404302014925373134328358209",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 36,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 5901733,
+    "BeerName": "Amalgamation (Blend 2)",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Equilibrium Brewery",
+    "Origin": "Middletown, NY United States",
+    "BeerAbv": 17.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5901733_a6f71_sm.jpeg",
+    "HallRating": 14.00,
+    "BAR": 6.39,
+    "StylePlus": "114",
+    "RatingScore": 4.35,
+    "AdjustedRating": "2.5809372094691535150645624103",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 10.14
   },
   {
     "BID": 5826803,
@@ -192,7 +228,10 @@
     "BAR": 5.61,
     "StylePlus": "126",
     "RatingScore": 4.21,
-    "AdjustedRating": "2.0387619232565379825653798257"
+    "AdjustedRating": "2.2245899485861182519280205656",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 14,
+    "StyleAvgAbv": 5.4
   },
   {
     "BID": 5502366,
@@ -207,7 +246,10 @@
     "BAR": 4.70,
     "StylePlus": "113",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0360228895427001539270892193"
+    "AdjustedRating": "2.1082390437158469945355191257",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 51,
+    "StyleAvgAbv": 16.02
   },
   {
     "BID": 4021679,
@@ -222,7 +264,10 @@
     "BAR": 6.56,
     "StylePlus": "110",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0550953448275862068965517241"
+    "AdjustedRating": "2.7415330708140304434149569821",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 4036966,
@@ -237,7 +282,10 @@
     "BAR": 6.94,
     "StylePlus": "117",
     "RatingScore": 4.11,
-    "AdjustedRating": "2.0701190480387836051123843103"
+    "AdjustedRating": "2.9833570183486238532110091743",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 10,
+    "StyleAvgAbv": 5.39
   },
   {
     "BID": 6208096,
@@ -252,7 +300,10 @@
     "BAR": 5.10,
     "StylePlus": "116",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0369788045108388680053756111"
+    "AdjustedRating": "2.1508465742397137745974955277",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 21,
+    "StyleAvgAbv": 11.59
   },
   {
     "BID": 4005733,
@@ -267,7 +318,10 @@
     "BAR": 7.44,
     "StylePlus": "109",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.1502325403098617682530847017"
+    "AdjustedRating": "3.7348301008174386920980926431",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 60,
+    "StyleAvgAbv": 10.5
   },
   {
     "BID": 4631773,
@@ -282,7 +336,10 @@
     "BAR": 6.35,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.0488224544133320414688499176"
+    "AdjustedRating": "2.5721206304347826086956521739",
+    "BreweryRank": 14,
+    "BreweryBeerCount": 65,
+    "StyleAvgAbv": 5.95
   },
   {
     "BID": 4980370,
@@ -297,52 +354,10 @@
     "BAR": 5.78,
     "StylePlus": "119",
     "RatingScore": 4.26,
-    "AdjustedRating": "2.040113820423562357791563758"
-  },
-  {
-    "BID": 4101314,
-    "BeerName": "Wood Selection Bière De Garde",
-    "BeerStyle": "Farmhouse Ale - Bière de Garde",
-    "BreweryName": "Dama Bier",
-    "Origin": "Piracicaba, São Paulo Brazil",
-    "BeerAbv": 11.80,
-    "BeerIbu": 22.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4101314_ffaa7_sm.jpeg",
-    "HallRating": 13.96,
-    "BAR": 6.21,
-    "StylePlus": "117",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.0454111586217600496663045165"
-  },
-  {
-    "BID": 3035178,
-    "BeerName": "Kentucky Coffee Fluffernutter",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Prairie Artisan Ales",
-    "Origin": "Krebs, OK United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-prairieartisanales_37713.jpeg",
-    "HallRating": 13.96,
-    "BAR": 6.10,
-    "StylePlus": "111",
-    "RatingScore": 4.51,
-    "AdjustedRating": "2.0446821109449934955245325515"
-  },
-  {
-    "BID": 6026834,
-    "BeerName": "Barrel Aged Nachzehrer",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Fabled Brew Works",
-    "Origin": "Erlanger, KY United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6026834_84992_sm.jpeg",
-    "HallRating": 13.96,
-    "BAR": 5.66,
-    "StylePlus": "112",
-    "RatingScore": 4.54,
-    "AdjustedRating": "2.0398547257835450672165911169"
+    "AdjustedRating": "2.2782077508361204013377926421",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 3,
+    "StyleAvgAbv": 5.29
   },
   {
     "BID": 6027739,
@@ -357,21 +372,81 @@
     "BAR": 6.82,
     "StylePlus": "111",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.0688037511292213658292809503"
+    "AdjustedRating": "3.0264686293007769145394006659",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 15,
+    "StyleAvgAbv": 8.19
   },
   {
-    "BID": 6400110,
-    "BeerName": "Ambrosia - Kriek & Sleedoornbes (2024)",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Boerenerf",
-    "Origin": "Beersel, Vlaams Gewest Belgium",
-    "BeerAbv": 10.00,
+    "BID": 3035178,
+    "BeerName": "Kentucky Coffee Fluffernutter",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Prairie Artisan Ales",
+    "Origin": "Krebs, OK United States",
+    "BeerAbv": 14.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6400110_d1390_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-prairieartisanales_37713.jpeg",
     "HallRating": 13.96,
-    "BAR": 6.20,
+    "BAR": 6.10,
+    "StylePlus": "111",
+    "RatingScore": 4.51,
+    "AdjustedRating": "2.4470316666666666666666666667",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 79,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 6026834,
+    "BeerName": "Barrel Aged Nachzehrer",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Fabled Brew Works",
+    "Origin": "Erlanger, KY United States",
+    "BeerAbv": 15.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6026834_84992_sm.jpeg",
+    "HallRating": 13.96,
+    "BAR": 5.66,
+    "StylePlus": "112",
+    "RatingScore": 4.54,
+    "AdjustedRating": "2.2709323724489795918367346939",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 18,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 6016350,
+    "BeerName": "Coffee Melomel 2024",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Quantum Satis",
+    "Origin": "Domasław, Dolnośląskie Poland",
+    "BeerAbv": 13.30,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6016350_3a798_sm.jpeg",
+    "HallRating": 13.96,
+    "BAR": 6.15,
     "StylePlus": "118",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.0454333092743500194024058983"
+    "AdjustedRating": "2.4382534490740740740740740741",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 12,
+    "StyleAvgAbv": 9.4
+  },
+  {
+    "BID": 6606924,
+    "BeerName": "DBA Re-Spec'd: King of Cakes",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Memphis Filling Station (MFS Brewing)",
+    "Origin": "Memphis, TN United States",
+    "BeerAbv": 10.00,
+    "BeerIbu": 23.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6606924_bc6ac_sm.jpeg",
+    "HallRating": 13.96,
+    "BAR": 3.49,
+    "StylePlus": "114",
+    "RatingScore": 4.71,
+    "AdjustedRating": "2.0593269488372093023255813953",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 6,
+    "StyleAvgAbv": 11.93
   }
 ]

@@ -12,7 +12,10 @@
     "BAR": 7.65,
     "StylePlus": "117",
     "RatingScore": 4.85,
-    "AdjustedRating": "2.0380076479408042060169409016"
+    "AdjustedRating": "2.1963951061946902654867256637",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 1809242,
@@ -27,7 +30,10 @@
     "BAR": 11.27,
     "StylePlus": "113",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.2808676180091452690819556806"
+    "AdjustedRating": "4.1462210203466465712132629992",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 2504340,
@@ -42,7 +48,10 @@
     "BAR": 10.68,
     "StylePlus": "114",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.1393811670501955061645245178"
+    "AdjustedRating": "3.7731266181029138251704897706",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 24,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 4825126,
@@ -57,7 +66,10 @@
     "BAR": 9.33,
     "StylePlus": "135",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.051511989777149605994307731"
+    "AdjustedRating": "2.6535017345505617977528089888",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 53,
+    "StyleAvgAbv": 3.42
   },
   {
     "BID": 3803162,
@@ -72,7 +84,10 @@
     "BAR": 11.39,
     "StylePlus": "116",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.331662515380528850273336418"
+    "AdjustedRating": "4.1682512881397637795275590551",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 31,
+    "StyleAvgAbv": 11.59
   },
   {
     "BID": 5819320,
@@ -87,7 +102,10 @@
     "BAR": 10.31,
     "StylePlus": "113",
     "RatingScore": 4.70,
-    "AdjustedRating": "2.0999892124831219215335754902"
+    "AdjustedRating": "3.4960884096692111959287531807",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 9.95
   },
   {
     "BID": 6422119,
@@ -102,7 +120,10 @@
     "BAR": 9.86,
     "StylePlus": "118",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.06972329037965919144516675"
+    "AdjustedRating": "3.0713603561334087054833239118",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 12.13
   },
   {
     "BID": 6501242,
@@ -117,22 +138,10 @@
     "BAR": 5.78,
     "StylePlus": "135",
     "RatingScore": 4.94,
-    "AdjustedRating": "2.0353501103184812692472615289"
-  },
-  {
-    "BID": 6500776,
-    "BeerName": "Anny (2025)",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Dimensional Brewing Company",
-    "Origin": "Dubuque, IA United States",
-    "BeerAbv": 15.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6500776_55d43_sm.jpeg",
-    "HallRating": 20.18,
-    "BAR": 8.77,
-    "StylePlus": "115",
-    "RatingScore": 4.77,
-    "AdjustedRating": "2.0452283370555221098013322199"
+    "AdjustedRating": "2.0774435430157261794634597595",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 8.7
   },
   {
     "BID": 1211853,
@@ -147,22 +156,28 @@
     "BAR": 12.32,
     "StylePlus": "120",
     "RatingScore": 4.20,
-    "AdjustedRating": "3.1096218795464585480783389781"
+    "AdjustedRating": "4.1553384289310611928737412858",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 5.39
   },
   {
-    "BID": 3600202,
-    "BeerName": "Juicy",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 7.40,
+    "BID": 6500776,
+    "BeerName": "Anny (2025)",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Dimensional Brewing Company",
+    "Origin": "Dubuque, IA United States",
+    "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2022370_23315_sm.jpeg",
-    "HallRating": 19.98,
-    "BAR": 11.36,
-    "StylePlus": "119",
-    "RatingScore": 4.40,
-    "AdjustedRating": "2.3892715195306673737591355795"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6500776_55d43_sm.jpeg",
+    "HallRating": 20.18,
+    "BAR": 8.77,
+    "StylePlus": "115",
+    "RatingScore": 4.77,
+    "AdjustedRating": "2.4723868059936908517350157729",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 3602650,
@@ -177,7 +192,28 @@
     "BAR": 8.00,
     "StylePlus": "121",
     "RatingScore": 4.73,
-    "AdjustedRating": "2.0397416427000836722383296686"
+    "AdjustedRating": "2.2679300771869639794168096055",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 8,
+    "StyleAvgAbv": 9.26
+  },
+  {
+    "BID": 3600202,
+    "BeerName": "Juicy",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2022370_23315_sm.jpeg",
+    "HallRating": 19.98,
+    "BAR": 11.36,
+    "StylePlus": "119",
+    "RatingScore": 4.40,
+    "AdjustedRating": "4.1509565510083036773428232503",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 5014131,
@@ -192,7 +228,10 @@
     "BAR": 9.65,
     "StylePlus": "124",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0656176996399067994069053167"
+    "AdjustedRating": "2.9833742497069167643610785463",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 60,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6422169,
@@ -207,7 +246,10 @@
     "BAR": 8.69,
     "StylePlus": "133",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0445870118067422712443684946"
+    "AdjustedRating": "2.4453945476003147128245476003",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 4.92
   },
   {
     "BID": 4605043,
@@ -222,7 +264,10 @@
     "BAR": 9.61,
     "StylePlus": "116",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.0657396878853267570900123305"
+    "AdjustedRating": "3.0019037939249553305539011316",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 5611939,
@@ -237,7 +282,10 @@
     "BAR": 12.88,
     "StylePlus": "117",
     "RatingScore": 4.21,
-    "AdjustedRating": "3.8969690424839534988105390727"
+    "AdjustedRating": "4.2024341003921773516763051081",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 5.24
   },
   {
     "BID": 6032033,
@@ -252,7 +300,10 @@
     "BAR": 12.34,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "3.4608355400032300983641858999"
+    "AdjustedRating": "4.3585637762211473396656725395",
+    "BreweryRank": 10,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 6.48
   },
   {
     "BID": 1003124,
@@ -267,7 +318,10 @@
     "BAR": 10.79,
     "StylePlus": "121",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.1932543385666521296700101759"
+    "AdjustedRating": "3.8525517932182234241730809237",
+    "BreweryRank": 10,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.45
   },
   {
     "BID": 2810075,
@@ -282,7 +336,10 @@
     "BAR": 9.23,
     "StylePlus": "116",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0550920352064996614759647935"
+    "AdjustedRating": "2.7605622244897959183673469388",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 3039892,
@@ -297,7 +354,10 @@
     "BAR": 10.55,
     "StylePlus": "118",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.150658508116943422861176121"
+    "AdjustedRating": "3.7661767146415721007473014116",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 30,
+    "StyleAvgAbv": 6.25
   },
   {
     "BID": 3343308,
@@ -312,7 +372,10 @@
     "BAR": 8.25,
     "StylePlus": "115",
     "RatingScore": 4.78,
-    "AdjustedRating": "2.0418113237924865831842576029"
+    "AdjustedRating": "2.3493902493765586034912718204",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 2,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 950018,
@@ -327,7 +390,10 @@
     "BAR": 11.63,
     "StylePlus": "115",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.6756251735331550572723762674"
+    "AdjustedRating": "4.30997952040194884287454324",
+    "BreweryRank": 11,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 3333545,
@@ -342,22 +408,10 @@
     "BAR": 8.27,
     "StylePlus": "131",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0416048599148406664981626582"
-  },
-  {
-    "BID": 1484633,
-    "BeerName": "Snowed In",
-    "BeerStyle": "Porter - Imperial / Double",
-    "BreweryName": "Funky Buddha Brewery",
-    "Origin": "Oakland Park, FL United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 40.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3741_f2c09.jpeg",
-    "HallRating": 19.78,
-    "BAR": 10.57,
-    "StylePlus": "116",
-    "RatingScore": 4.56,
-    "AdjustedRating": "2.1640291646936963598697839598"
+    "AdjustedRating": "2.3393265480132450331125827815",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 43,
+    "StyleAvgAbv": 5.39
   },
   {
     "BID": 6022854,
@@ -372,6 +426,27 @@
     "BAR": 10.32,
     "StylePlus": "125",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.1169957818701679802863001072"
+    "AdjustedRating": "3.5291745470027247956403269755",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 5.39
+  },
+  {
+    "BID": 1484633,
+    "BeerName": "Snowed In",
+    "BeerStyle": "Porter - Imperial / Double",
+    "BreweryName": "Funky Buddha Brewery",
+    "Origin": "Oakland Park, FL United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 40.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-3741_f2c09.jpeg",
+    "HallRating": 19.78,
+    "BAR": 10.57,
+    "StylePlus": "116",
+    "RatingScore": 4.56,
+    "AdjustedRating": "3.8593687079968741859859338369",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 34,
+    "StyleAvgAbv": 10.03
   }
 ]

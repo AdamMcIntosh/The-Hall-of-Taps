@@ -1,18 +1,21 @@
 [
   {
-    "BID": 6302171,
-    "BeerName": "PB&J Mixtape: Grape",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Xul Beer Company",
-    "Origin": "Knoxville, TN United States",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5197743_d6358_sm.jpeg",
+    "BID": 1209346,
+    "BeerName": "Headroom",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Trillium Brewing Company",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 8.00,
+    "BeerIbu": 66.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1206351_7a9ec_sm.jpeg",
     "HallRating": 19.03,
-    "BAR": 11.12,
-    "StylePlus": "114",
-    "RatingScore": 4.40,
-    "AdjustedRating": "2.6073348910329339105509670365"
+    "BAR": 11.17,
+    "StylePlus": "112",
+    "RatingScore": 4.51,
+    "AdjustedRating": "4.373295990355698434097272633",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 8.19
   },
   {
     "BID": 5804783,
@@ -27,7 +30,10 @@
     "BAR": 8.35,
     "StylePlus": "131",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0451650572659859455681950538"
+    "AdjustedRating": "2.4628987354538401861908456168",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 33,
+    "StyleAvgAbv": 6.01
   },
   {
     "BID": 2401066,
@@ -42,7 +48,10 @@
     "BAR": 10.91,
     "StylePlus": "115",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.4639320031246512665997098538"
+    "AdjustedRating": "4.1893382234842425211966085426",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 61,
+    "StyleAvgAbv": 10.14
   },
   {
     "BID": 5031933,
@@ -57,7 +66,10 @@
     "BAR": 9.78,
     "StylePlus": "118",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.1074474081922240090814492479"
+    "AdjustedRating": "3.501588011406844106463878327",
+    "BreweryRank": 13,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 6.1
   },
   {
     "BID": 3018980,
@@ -72,7 +84,10 @@
     "BAR": 8.74,
     "StylePlus": "116",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0529553160268695433339140872"
+    "AdjustedRating": "2.7022042388268156424581005587",
+    "BreweryRank": 10,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 6605126,
@@ -87,22 +102,10 @@
     "BAR": 5.86,
     "StylePlus": "132",
     "RatingScore": 4.82,
-    "AdjustedRating": "2.0356383060492672279388836919"
-  },
-  {
-    "BID": 4702648,
-    "BeerName": "Arthur: Foudre",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4702648_4b44c_sm.jpeg",
-    "HallRating": 18.94,
-    "BAR": 9.79,
-    "StylePlus": "121",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.1086248277426060663327978834"
+    "AdjustedRating": "2.0908155197792088316467341306",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 1,
+    "StyleAvgAbv": 4.76
   },
   {
     "BID": 3904415,
@@ -117,7 +120,28 @@
     "BAR": 10.72,
     "StylePlus": "111",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.3777397851053454624943249651"
+    "AdjustedRating": "4.2425488286826735885788449059",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 6.51
+  },
+  {
+    "BID": 4702648,
+    "BeerName": "Arthur: Foudre",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4702648_4b44c_sm.jpeg",
+    "HallRating": 18.94,
+    "BAR": 9.79,
+    "StylePlus": "121",
+    "RatingScore": 4.45,
+    "AdjustedRating": "3.4936529628252788104089219331",
+    "BreweryRank": 16,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6004323,
@@ -132,7 +156,10 @@
     "BAR": 8.66,
     "StylePlus": "116",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0520034230605368139742050428"
+    "AdjustedRating": "2.6761475371549893842887473461",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 3602553,
@@ -147,7 +174,10 @@
     "BAR": 11.10,
     "StylePlus": "113",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.6988746838913937612189227007"
+    "AdjustedRating": "4.3246675665010230926629640456",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 34,
+    "StyleAvgAbv": 10.03
   },
   {
     "BID": 3008402,
@@ -162,7 +192,10 @@
     "BAR": 10.54,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.3132153793904108402211016964"
+    "AdjustedRating": "4.1835448129842372428533262089",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 2205232,
@@ -177,7 +210,10 @@
     "BAR": 11.27,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.8960224902002003239807590053"
+    "AdjustedRating": "4.3081349193969455684636470435",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 6.48
   },
   {
     "BID": 4962053,
@@ -192,7 +228,10 @@
     "BAR": 8.99,
     "StylePlus": "113",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0623558085611219352225158664"
+    "AdjustedRating": "2.9309209851301115241635687732",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 22,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 5633018,
@@ -207,7 +246,10 @@
     "BAR": 8.72,
     "StylePlus": "123",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0532557908587793645264909633"
+    "AdjustedRating": "2.7035075498967653131452167928",
+    "BreweryRank": 17,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 2813298,
@@ -222,7 +264,10 @@
     "BAR": 9.65,
     "StylePlus": "117",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1034217833718770140652841491"
+    "AdjustedRating": "3.473292396204033214709371293",
+    "BreweryRank": 14,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 435801,
@@ -237,52 +282,10 @@
     "BAR": 11.66,
     "StylePlus": "115",
     "RatingScore": 4.15,
-    "AdjustedRating": "3.3257615766645144137642903263"
-  },
-  {
-    "BID": 1012039,
-    "BeerName": "Maman",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Perennial Artisan Ales",
-    "Origin": "St Louis, MO United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-837791_8e912_sm.jpeg",
-    "HallRating": 18.77,
-    "BAR": 10.32,
-    "StylePlus": "112",
-    "RatingScore": 4.55,
-    "AdjustedRating": "2.2422701668783201273498005688"
-  },
-  {
-    "BID": 5706347,
-    "BeerName": "absolutely.",
-    "BeerStyle": "Stout - Other",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 13.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
-    "HallRating": 18.77,
-    "BAR": 9.29,
-    "StylePlus": "122",
-    "RatingScore": 4.47,
-    "AdjustedRating": "2.0752054667101202001418630063"
-  },
-  {
-    "BID": 5618302,
-    "BeerName": "Vera Grace",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "Bearded Brewer Artisan Ales",
-    "Origin": "Omaha, NE United States",
-    "BeerAbv": 13.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-473491_6df35.jpeg",
-    "HallRating": 18.77,
-    "BAR": 8.15,
-    "StylePlus": "114",
-    "RatingScore": 4.72,
-    "AdjustedRating": "2.0448753691979025053408428821"
+    "AdjustedRating": "4.1223277630803242446573323508",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 7.3
   },
   {
     "BID": 6501637,
@@ -297,7 +300,64 @@
     "BAR": 8.02,
     "StylePlus": "117",
     "RatingScore": 4.68,
-    "AdjustedRating": "2.0433374027942405223170044498"
+    "AdjustedRating": "2.4041328513731825525040387722",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 37,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 5618302,
+    "BeerName": "Vera Grace",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "Bearded Brewer Artisan Ales",
+    "Origin": "Omaha, NE United States",
+    "BeerAbv": 13.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-473491_6df35.jpeg",
+    "HallRating": 18.77,
+    "BAR": 8.15,
+    "StylePlus": "114",
+    "RatingScore": 4.72,
+    "AdjustedRating": "2.4590327826086956521739130435",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 8,
+    "StyleAvgAbv": 11.93
+  },
+  {
+    "BID": 1012039,
+    "BeerName": "Maman",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Perennial Artisan Ales",
+    "Origin": "St Louis, MO United States",
+    "BeerAbv": 11.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-837791_8e912_sm.jpeg",
+    "HallRating": 18.77,
+    "BAR": 10.32,
+    "StylePlus": "112",
+    "RatingScore": 4.55,
+    "AdjustedRating": "4.0786640517241379310344827586",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 5706347,
+    "BeerName": "absolutely.",
+    "BeerStyle": "Stout - Other",
+    "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 13.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
+    "HallRating": 18.77,
+    "BAR": 9.29,
+    "StylePlus": "122",
+    "RatingScore": 4.47,
+    "AdjustedRating": "3.1315719659442724458204334365",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 22,
+    "StyleAvgAbv": 6.68
   },
   {
     "BID": 6603847,
@@ -312,7 +372,10 @@
     "BAR": 7.26,
     "StylePlus": "118",
     "RatingScore": 4.76,
-    "AdjustedRating": "2.0385826343248715153402896745"
+    "AdjustedRating": "2.2204343569553805774278215223",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 34,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 4941629,
@@ -327,7 +390,10 @@
     "BAR": 8.57,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0514449520562539953121670573"
+    "AdjustedRating": "2.6622220815450643776824034335",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 23,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 2402885,
@@ -342,7 +408,10 @@
     "BAR": 11.02,
     "StylePlus": "111",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.7043795297191378184193337688"
+    "AdjustedRating": "4.3700151710311370724221573189",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 5550435,
@@ -357,7 +426,10 @@
     "BAR": 8.82,
     "StylePlus": "120",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0574945949183653753260554536"
+    "AdjustedRating": "2.8141676274509803921568627451",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 11.32
   },
   {
     "BID": 5021590,
@@ -372,6 +444,9 @@
     "BAR": 4.68,
     "StylePlus": "146",
     "RatingScore": 4.88,
-    "AdjustedRating": "2.0349986892787524366471734893"
+    "AdjustedRating": "2.0609083441860465116279069767",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 9,
+    "StyleAvgAbv": 3.42
   }
 ]

@@ -12,7 +12,10 @@
     "BAR": 8.26,
     "StylePlus": "113",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.070077499423476055038819279"
+    "AdjustedRating": "3.0583083765875207067918277195",
+    "BreweryRank": 15,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 3006667,
@@ -27,7 +30,10 @@
     "BAR": 9.97,
     "StylePlus": "111",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.7111481694431750515835098943"
+    "AdjustedRating": "4.2568758627433145352010187375",
+    "BreweryRank": 10,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 3210632,
@@ -42,22 +48,10 @@
     "BAR": 10.28,
     "StylePlus": "113",
     "RatingScore": 4.29,
-    "AdjustedRating": "3.1021948823360302271140498583"
-  },
-  {
-    "BID": 4632079,
-    "BeerName": "Triple Vanilla Irrational",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pye Road Meadworks",
-    "Origin": "Odessa, FL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4632079_c44dd_sm.jpeg",
-    "HallRating": 16.88,
-    "BAR": 6.92,
-    "StylePlus": "115",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.04057949039134832334863456"
+    "AdjustedRating": "4.2390752044688473850458968434",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 34,
+    "StyleAvgAbv": 6.18
   },
   {
     "BID": 5801120,
@@ -72,7 +66,28 @@
     "BAR": 8.17,
     "StylePlus": "132",
     "RatingScore": 4.12,
-    "AdjustedRating": "2.0604246059649190365250206982"
+    "AdjustedRating": "2.8226147605140186915887850467",
+    "BreweryRank": 26,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 4.73
+  },
+  {
+    "BID": 4632079,
+    "BeerName": "Triple Vanilla Irrational",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pye Road Meadworks",
+    "Origin": "Odessa, FL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4632079_c44dd_sm.jpeg",
+    "HallRating": 16.88,
+    "BAR": 6.92,
+    "StylePlus": "115",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.300182367312552653748946925",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 3,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 6405938,
@@ -87,7 +102,10 @@
     "BAR": 8.14,
     "StylePlus": "121",
     "RatingScore": 4.32,
-    "AdjustedRating": "2.0616986025544703230653643877"
+    "AdjustedRating": "2.8745584738717339667458432304",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 87,
+    "StyleAvgAbv": 5.29
   },
   {
     "BID": 3950068,
@@ -102,22 +120,10 @@
     "BAR": 6.55,
     "StylePlus": "119",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0384549885146972941405489585"
-  },
-  {
-    "BID": 3334154,
-    "BeerName": "Downslope Barrel Aged Elderberry Mead",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Boiler Brewing Co.",
-    "Origin": "Lincoln, NE United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334154_29945_sm.jpeg",
-    "HallRating": 16.86,
-    "BAR": 6.24,
-    "StylePlus": "116",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.0374209854327335047129391602"
+    "AdjustedRating": "2.2143899301310043668122270742",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 11.59
   },
   {
     "BID": 1672076,
@@ -132,7 +138,28 @@
     "BAR": 6.45,
     "StylePlus": "121",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0380264156380203263112807134"
+    "AdjustedRating": "2.1962677836411609498680738786",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 43,
+    "StyleAvgAbv": 5.94
+  },
+  {
+    "BID": 3334154,
+    "BeerName": "Downslope Barrel Aged Elderberry Mead",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Boiler Brewing Co.",
+    "Origin": "Lincoln, NE United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3334154_29945_sm.jpeg",
+    "HallRating": 16.86,
+    "BAR": 6.24,
+    "StylePlus": "116",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.1705578539626001780943900267",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 5618539,
@@ -147,7 +174,10 @@
     "BAR": 9.30,
     "StylePlus": "115",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.2394754852260590957636169455"
+    "AdjustedRating": "3.9687282065491183879093198992",
+    "BreweryRank": 26,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 6.47
   },
   {
     "BID": 436037,
@@ -162,37 +192,10 @@
     "BAR": 9.42,
     "StylePlus": "111",
     "RatingScore": 4.48,
-    "AdjustedRating": "2.3060876750030329815074784658"
-  },
-  {
-    "BID": 4612028,
-    "BeerName": "Black Gold Barrel Aged Stout",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 13.50,
-    "BeerIbu": 50.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-475632_f4194_sm.jpeg",
-    "HallRating": 16.81,
-    "BAR": 9.67,
-    "StylePlus": "110",
-    "RatingScore": 4.46,
-    "AdjustedRating": "2.4826529461504227859368046284"
-  },
-  {
-    "BID": 5413531,
-    "BeerName": "Drop Top Sundrop",
-    "BeerStyle": "Shandy / Radler",
-    "BreweryName": "Stubborn Brothers Brewery",
-    "Origin": "Shawano, WI United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-461537_55ec7.jpeg",
-    "HallRating": 16.81,
-    "BAR": 8.79,
-    "StylePlus": "124",
-    "RatingScore": 4.12,
-    "AdjustedRating": "2.1109817586958154909473367891"
+    "AdjustedRating": "4.1315221394166443671394166444",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 54,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6150873,
@@ -207,7 +210,46 @@
     "BAR": 6.99,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0412552553183214716291370124"
+    "AdjustedRating": "2.3260919816819317235636969192",
+    "BreweryRank": 11,
+    "BreweryBeerCount": 37,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 4612028,
+    "BeerName": "Black Gold Barrel Aged Stout",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Central Waters Brewing Company",
+    "Origin": "Amherst, WI United States",
+    "BeerAbv": 13.50,
+    "BeerIbu": 50.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-475632_f4194_sm.jpeg",
+    "HallRating": 16.81,
+    "BAR": 9.67,
+    "StylePlus": "110",
+    "RatingScore": 4.46,
+    "AdjustedRating": "4.256452326057836261917894571",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 54,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 5413531,
+    "BeerName": "Drop Top Sundrop",
+    "BeerStyle": "Shandy / Radler",
+    "BreweryName": "Stubborn Brothers Brewery",
+    "Origin": "Shawano, WI United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-461537_55ec7.jpeg",
+    "HallRating": 16.81,
+    "BAR": 8.79,
+    "StylePlus": "124",
+    "RatingScore": 4.12,
+    "AdjustedRating": "3.3842850182179529645578005962",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 6,
+    "StyleAvgAbv": 3.42
   },
   {
     "BID": 5409167,
@@ -222,7 +264,10 @@
     "BAR": 7.48,
     "StylePlus": "114",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0472353385325728475536414077"
+    "AdjustedRating": "2.5335628084784254352763058289",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 33,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 5618221,
@@ -237,7 +282,10 @@
     "BAR": 6.61,
     "StylePlus": "115",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.038958168087508272023044883"
+    "AdjustedRating": "2.2355910407632263660017346054",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 22,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6101052,
@@ -252,7 +300,10 @@
     "BAR": 6.62,
     "StylePlus": "126",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.03879783495523550019462826"
+    "AdjustedRating": "2.2281181558441558441558441558",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 12,
+    "StyleAvgAbv": 5.24
   },
   {
     "BID": 6027612,
@@ -267,7 +318,10 @@
     "BAR": 8.80,
     "StylePlus": "119",
     "RatingScore": 4.29,
-    "AdjustedRating": "2.1194219813126196104919509175"
+    "AdjustedRating": "3.508296931337455255450699642",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 29,
+    "StyleAvgAbv": 6.09
   },
   {
     "BID": 4413944,
@@ -282,37 +336,10 @@
     "BAR": 7.50,
     "StylePlus": "119",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0470659055377751915430123169"
-  },
-  {
-    "BID": 3338642,
-    "BeerName": "Barrel-Aged Parlor Tricks",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Pulpit Rock Brewing Company",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 13.90,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
-    "HallRating": 16.78,
-    "BAR": 6.29,
-    "StylePlus": "116",
-    "RatingScore": 4.69,
-    "AdjustedRating": "2.0377018433197671022140868109"
-  },
-  {
-    "BID": 5618048,
-    "BeerName": "Double Bourbon Barrel German Chocolate Cake",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "608 Brewing Company",
-    "Origin": "La Crosse, WI United States",
-    "BeerAbv": 14.10,
-    "BeerIbu": 35.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5618048_6422c_sm.jpeg",
-    "HallRating": 16.78,
-    "BAR": 7.56,
-    "StylePlus": "112",
-    "RatingScore": 4.63,
-    "AdjustedRating": "2.0489370033735313505758269029"
+    "AdjustedRating": "2.5237041127819548872180451128",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 11,
+    "StyleAvgAbv": 5.94
   },
   {
     "BID": 6610999,
@@ -327,22 +354,46 @@
     "BAR": 6.26,
     "StylePlus": "115",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0374916313216879904967770832"
+    "AdjustedRating": "2.1734249289520426287744227353",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 3,
+    "StyleAvgAbv": 16.02
   },
   {
-    "BID": 5209315,
-    "BeerName": "Off the Rack 2020 Maple Bourbon By Rackhouse",
+    "BID": 3338642,
+    "BeerName": "Barrel-Aged Parlor Tricks",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "LERVIG",
-    "Origin": "Stavanger, Rogaland Norway",
-    "BeerAbv": 14.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5209315_0c4d4_sm.jpeg",
-    "HallRating": 16.77,
-    "BAR": 9.20,
-    "StylePlus": "111",
-    "RatingScore": 4.49,
-    "AdjustedRating": "2.2291852653119839161341279529"
+    "BreweryName": "Pulpit Rock Brewing Company",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 13.90,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-220411_58822.jpeg",
+    "HallRating": 16.78,
+    "BAR": 6.29,
+    "StylePlus": "116",
+    "RatingScore": 4.69,
+    "AdjustedRating": "2.1827539627659574468085106383",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 22,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 5618048,
+    "BeerName": "Double Bourbon Barrel German Chocolate Cake",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "608 Brewing Company",
+    "Origin": "La Crosse, WI United States",
+    "BeerAbv": 14.10,
+    "BeerIbu": 35.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5618048_6422c_sm.jpeg",
+    "HallRating": 16.78,
+    "BAR": 7.56,
+    "StylePlus": "112",
+    "RatingScore": 4.63,
+    "AdjustedRating": "2.5869301330376940133037694013",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 12,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 3222179,
@@ -357,21 +408,45 @@
     "BAR": 9.33,
     "StylePlus": "114",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.2652716884118967452300785634"
+    "AdjustedRating": "3.9704216017061332548904250625",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 76,
+    "StyleAvgAbv": 5.08
   },
   {
-    "BID": 5450904,
-    "BeerName": "25th Anniversary Series: Pappy Van Winkle Gold Label Barrel Aged Stout",
+    "BID": 5209315,
+    "BeerName": "Off the Rack 2020 Maple Bourbon By Rackhouse",
     "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Central Waters Brewing Company",
-    "Origin": "Amherst, WI United States",
-    "BeerAbv": 14.85,
+    "BreweryName": "LERVIG",
+    "Origin": "Stavanger, Rogaland Norway",
+    "BeerAbv": 14.70,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5450904_1fd51_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5209315_0c4d4_sm.jpeg",
+    "HallRating": 16.77,
+    "BAR": 9.20,
+    "StylePlus": "111",
+    "RatingScore": 4.49,
+    "AdjustedRating": "4.0130396625934707277038117819",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 6403888,
+    "BeerName": "Grifter And Friends",
+    "BeerStyle": "Strong Ale - Other",
+    "BreweryName": "Barreled Souls Brewing Company",
+    "Origin": "Saco, ME United States",
+    "BeerAbv": 15.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6403888_aeb49_sm.jpeg",
     "HallRating": 16.76,
-    "BAR": 8.75,
-    "StylePlus": "112",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.1229601526774969915764139591"
+    "BAR": 6.65,
+    "StylePlus": "120",
+    "RatingScore": 4.56,
+    "AdjustedRating": "2.2392721915444348576358930112",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 10.88
   }
 ]

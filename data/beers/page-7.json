@@ -1,18 +1,21 @@
 [
   {
-    "BID": 4028671,
-    "BeerName": "Schmoojee Hydra",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Imprint Beer Co.",
-    "Origin": "Hatfield, PA United States",
-    "BeerAbv": 6.00,
+    "BID": 6608556,
+    "BeerName": "Wizzle (2026)",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "Dimensional Brewing Company",
+    "Origin": "Dubuque, IA United States",
+    "BeerAbv": 15.90,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4028671_e539e_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6608556_1307f_sm.jpeg",
     "HallRating": 18.68,
-    "BAR": 9.46,
-    "StylePlus": "113",
-    "RatingScore": 4.58,
-    "AdjustedRating": "2.0924022627417357340192435934"
+    "BAR": 6.12,
+    "StylePlus": "122",
+    "RatingScore": 4.81,
+    "AdjustedRating": "2.1080132266910420475319926874",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 1412114,
@@ -27,7 +30,10 @@
     "BAR": 11.12,
     "StylePlus": "114",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.823904112515393090932659278"
+    "AdjustedRating": "4.2968100471768202080237741456",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 6.48
   },
   {
     "BID": 2283322,
@@ -42,22 +48,28 @@
     "BAR": 11.24,
     "StylePlus": "113",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.9710126460770879449070658094"
+    "AdjustedRating": "4.308948645258547130098412879",
+    "BreweryRank": 15,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 6.48
   },
   {
-    "BID": 6608556,
-    "BeerName": "Wizzle (2026)",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "Dimensional Brewing Company",
-    "Origin": "Dubuque, IA United States",
-    "BeerAbv": 15.90,
+    "BID": 4028671,
+    "BeerName": "Schmoojee Hydra",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Imprint Beer Co.",
+    "Origin": "Hatfield, PA United States",
+    "BeerAbv": 6.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6608556_1307f_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4028671_e539e_sm.jpeg",
     "HallRating": 18.68,
-    "BAR": 6.12,
-    "StylePlus": "122",
-    "RatingScore": 4.81,
-    "AdjustedRating": "2.0360124468520431029443286112"
+    "BAR": 9.46,
+    "StylePlus": "113",
+    "RatingScore": 4.58,
+    "AdjustedRating": "3.3804320663716814159292035398",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 58,
+    "StyleAvgAbv": 5.9
   },
   {
     "BID": 1004753,
@@ -72,7 +84,10 @@
     "BAR": 9.82,
     "StylePlus": "115",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1341751087322678444436126811"
+    "AdjustedRating": "3.6950939451542536615768152072",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 33,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 1669667,
@@ -87,7 +102,10 @@
     "BAR": 9.10,
     "StylePlus": "122",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0679252054847208600165387796"
+    "AdjustedRating": "3.0158322829763246899661781285",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6428583,
@@ -102,7 +120,10 @@
     "BAR": 6.98,
     "StylePlus": "118",
     "RatingScore": 4.75,
-    "AdjustedRating": "2.0377226351456613179622994236"
+    "AdjustedRating": "2.1838300532386867790594498669",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 3810967,
@@ -117,7 +138,10 @@
     "BAR": 9.69,
     "StylePlus": "117",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.1151358544906229384600885873"
+    "AdjustedRating": "3.5472001660777385159010600707",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 75,
+    "StyleAvgAbv": 6.25
   },
   {
     "BID": 4016530,
@@ -132,22 +156,10 @@
     "BAR": 9.76,
     "StylePlus": "128",
     "RatingScore": 4.27,
-    "AdjustedRating": "2.1173760515150377351406150265"
-  },
-  {
-    "BID": 4007402,
-    "BeerName": "Double Barrel Batch 1000",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Cellarmaker Brewing Company",
-    "Origin": "Oakland, CA United States",
-    "BeerAbv": 17.20,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-82753_b6ced.jpeg",
-    "HallRating": 18.64,
-    "BAR": 8.80,
-    "StylePlus": "118",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0580016372100210542581754264"
+    "AdjustedRating": "3.4870754587306806971390989806",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 38,
+    "StyleAvgAbv": 5.4
   },
   {
     "BID": 3704188,
@@ -162,7 +174,28 @@
     "BAR": 9.27,
     "StylePlus": "124",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.0757310010916821481240304139"
+    "AdjustedRating": "3.1188060714285714285714285714",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 5.39
+  },
+  {
+    "BID": 4007402,
+    "BeerName": "Double Barrel Batch 1000",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Cellarmaker Brewing Company",
+    "Origin": "Oakland, CA United States",
+    "BeerAbv": 17.20,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-82753_b6ced.jpeg",
+    "HallRating": 18.64,
+    "BAR": 8.80,
+    "StylePlus": "118",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.823315957309184993531694696",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 40,
+    "StyleAvgAbv": 11.59
   },
   {
     "BID": 4817038,
@@ -177,7 +210,10 @@
     "BAR": 8.81,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0589153134293770035919817697"
+    "AdjustedRating": "2.8482957418111753371868978805",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 5419008,
@@ -192,7 +228,10 @@
     "BAR": 8.78,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0582746964399544128725685256"
+    "AdjustedRating": "2.833462739637305699481865285",
+    "BreweryRank": 11,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 4008026,
@@ -207,7 +246,10 @@
     "BAR": 10.57,
     "StylePlus": "115",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.3870698093737038573206138532"
+    "AdjustedRating": "4.1493210417910447761194029851",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 24,
+    "StyleAvgAbv": 4.99
   },
   {
     "BID": 1024586,
@@ -222,7 +264,10 @@
     "BAR": 11.31,
     "StylePlus": "118",
     "RatingScore": 4.23,
-    "AdjustedRating": "3.0948865266213737072354494688"
+    "AdjustedRating": "4.1822616212408893244319225822",
+    "BreweryRank": 16,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 5.24
   },
   {
     "BID": 2411728,
@@ -237,7 +282,10 @@
     "BAR": 10.13,
     "StylePlus": "122",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.2046763296651668744692000506"
+    "AdjustedRating": "3.8758867220484753713838936669",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 61,
+    "StyleAvgAbv": 5.47
   },
   {
     "BID": 6274453,
@@ -252,7 +300,10 @@
     "BAR": 8.79,
     "StylePlus": "115",
     "RatingScore": 4.64,
-    "AdjustedRating": "2.0598481081185442610290568588"
+    "AdjustedRating": "2.8725327834394904458598726115",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 51,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6417142,
@@ -267,7 +318,10 @@
     "BAR": 7.80,
     "StylePlus": "125",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0419749375012149841566065978"
+    "AdjustedRating": "2.3530234128289473684210526316",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 8,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 3213139,
@@ -282,7 +336,10 @@
     "BAR": 10.03,
     "StylePlus": "116",
     "RatingScore": 4.42,
-    "AdjustedRating": "2.1839363431349257113616842413"
+    "AdjustedRating": "3.8546632109479305740987983979",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 30,
+    "StyleAvgAbv": 6.25
   },
   {
     "BID": 3032239,
@@ -297,37 +354,10 @@
     "BAR": 10.74,
     "StylePlus": "115",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.5273232118272118272118272118"
-  },
-  {
-    "BID": 3341144,
-    "BeerName": "Juice = Juice (Batch 1)",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Equilibrium Brewery",
-    "Origin": "Middletown, NY United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3341144_c29e1_sm.jpeg",
-    "HallRating": 18.52,
-    "BAR": 9.86,
-    "StylePlus": "116",
-    "RatingScore": 4.48,
-    "AdjustedRating": "2.1531673578570501048101359749"
-  },
-  {
-    "BID": 4420173,
-    "BeerName": "Piña Colada Smoothie Seltzer",
-    "BeerStyle": "Hard Seltzer",
-    "BreweryName": "Untitled Art",
-    "Origin": "Waunakee, WI United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4420173_b4ef5_sm.jpeg",
-    "HallRating": 18.52,
-    "BAR": 10.15,
-    "StylePlus": "120",
-    "RatingScore": 4.28,
-    "AdjustedRating": "2.2089992045025443691223275134"
+    "AdjustedRating": "4.2101819490142760027192386132",
+    "BreweryRank": 17,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 6.1
   },
   {
     "BID": 5302409,
@@ -342,7 +372,46 @@
     "BAR": 9.97,
     "StylePlus": "117",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.1741289680002939123406444028"
+    "AdjustedRating": "3.8393725302634702112508901021",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 45,
+    "StyleAvgAbv": 8.65
+  },
+  {
+    "BID": 3341144,
+    "BeerName": "Juice = Juice (Batch 1)",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Equilibrium Brewery",
+    "Origin": "Middletown, NY United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3341144_c29e1_sm.jpeg",
+    "HallRating": 18.52,
+    "BAR": 9.86,
+    "StylePlus": "116",
+    "RatingScore": 4.48,
+    "AdjustedRating": "3.7726334790874524714828897338",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 8.42
+  },
+  {
+    "BID": 4420173,
+    "BeerName": "Piña Colada Smoothie Seltzer",
+    "BeerStyle": "Hard Seltzer",
+    "BreweryName": "Untitled Art",
+    "Origin": "Waunakee, WI United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4420173_b4ef5_sm.jpeg",
+    "HallRating": 18.52,
+    "BAR": 10.15,
+    "StylePlus": "120",
+    "RatingScore": 4.28,
+    "AdjustedRating": "3.8361389142538975501113585746",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 66,
+    "StyleAvgAbv": 5.29
   },
   {
     "BID": 5224308,
@@ -357,7 +426,10 @@
     "BAR": 8.05,
     "StylePlus": "145",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.0435825373337217205553937275"
+    "AdjustedRating": "2.4049814724409448818897637795",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 12,
+    "StyleAvgAbv": 7.75
   },
   {
     "BID": 2825552,
@@ -372,6 +444,9 @@
     "BAR": 9.42,
     "StylePlus": "118",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0952352593550349863097048981"
+    "AdjustedRating": "3.3851527122940430925221799747",
+    "BreweryRank": 18,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 6.1
   }
 ]

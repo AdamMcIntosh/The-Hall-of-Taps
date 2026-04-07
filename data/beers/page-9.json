@@ -1,18 +1,21 @@
 [
   {
-    "BID": 1901503,
-    "BeerName": "Crusher",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "The Alchemist",
-    "Origin": "Stowe, VT United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 110.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-25785_e0d99_sm.jpeg",
+    "BID": 6300931,
+    "BeerName": "Assassin (2025)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 14.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6300931_e4eb2_sm.jpeg",
     "HallRating": 18.21,
-    "BAR": 11.26,
-    "StylePlus": "112",
-    "RatingScore": 4.34,
-    "AdjustedRating": "3.3818036703373281149978527036"
+    "BAR": 9.47,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "3.6228328551385478779375657664",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 35,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 2012278,
@@ -27,7 +30,10 @@
     "BAR": 8.64,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.0590538125663545989769327285"
+    "AdjustedRating": "2.8413458670886075949367088608",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 65,
+    "StyleAvgAbv": 6.14
   },
   {
     "BID": 2610701,
@@ -42,7 +48,10 @@
     "BAR": 9.93,
     "StylePlus": "115",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.2082346526346244258797150193"
+    "AdjustedRating": "3.9274840397872759503643884184",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 31,
+    "StyleAvgAbv": 5.66
   },
   {
     "BID": 4003451,
@@ -57,7 +66,10 @@
     "BAR": 9.63,
     "StylePlus": "114",
     "RatingScore": 4.51,
-    "AdjustedRating": "2.1449277793093171404090451887"
+    "AdjustedRating": "3.7482335943368968506212077434",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 25,
+    "StyleAvgAbv": 10.03
   },
   {
     "BID": 3345295,
@@ -72,7 +84,10 @@
     "BAR": 9.43,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.1173159338400316843633894725"
+    "AdjustedRating": "3.6048915189421015010721944246",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 3346915,
@@ -87,22 +102,10 @@
     "BAR": 9.56,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1373216271414677938206029775"
-  },
-  {
-    "BID": 6215870,
-    "BeerName": "Very Hazy Guava",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
-    "HallRating": 18.14,
-    "BAR": 8.99,
-    "StylePlus": "117",
-    "RatingScore": 4.52,
-    "AdjustedRating": "2.0767448495534516462877074629"
+    "AdjustedRating": "3.7306063737280296022201665125",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6201034,
@@ -117,22 +120,28 @@
     "BAR": 9.24,
     "StylePlus": "117",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0952542027497290204803468538"
+    "AdjustedRating": "3.3883050254022015241320914479",
+    "BreweryRank": 20,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 8.42
   },
   {
-    "BID": 6221979,
-    "BeerName": "Barcode: Turquoise Orange",
-    "BeerStyle": "Freeze-Distilled Beer",
-    "BreweryName": "Moersleutel Craft Brewery",
-    "Origin": "Alkmaar, Noord-Holland Netherlands",
-    "BeerAbv": 15.00,
+    "BID": 6215870,
+    "BeerName": "Very Hazy Guava",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 8.60,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6221979_03a0f_sm.jpeg",
-    "HallRating": 18.13,
-    "BAR": 9.96,
-    "StylePlus": "110",
-    "RatingScore": 4.39,
-    "AdjustedRating": "2.2258387267581413678214452047"
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-treehousebrewingcompany_20084.jpeg",
+    "HallRating": 18.14,
+    "BAR": 8.99,
+    "StylePlus": "117",
+    "RatingScore": 4.52,
+    "AdjustedRating": "3.1645860061443932411674347158",
+    "BreweryRank": 21,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 8.42
   },
   {
     "BID": 4304995,
@@ -147,22 +156,28 @@
     "BAR": 9.54,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.1360522597305389221556886228"
+    "AdjustedRating": "3.7233830388802488335925349922",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 148,
+    "StyleAvgAbv": 8.19
   },
   {
-    "BID": 4705483,
-    "BeerName": "Everett",
-    "BeerStyle": "Porter - American",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 7.50,
+    "BID": 6221979,
+    "BeerName": "Barcode: Turquoise Orange",
+    "BeerStyle": "Freeze-Distilled Beer",
+    "BreweryName": "Moersleutel Craft Brewery",
+    "Origin": "Alkmaar, Noord-Holland Netherlands",
+    "BeerAbv": 15.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-31977_5626d_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6221979_03a0f_sm.jpeg",
     "HallRating": 18.13,
-    "BAR": 10.80,
-    "StylePlus": "116",
-    "RatingScore": 4.33,
-    "AdjustedRating": "2.8156322061017646756186654319"
+    "BAR": 9.96,
+    "StylePlus": "110",
+    "RatingScore": 4.39,
+    "AdjustedRating": "3.9421025656132833422603106588",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 98,
+    "StyleAvgAbv": 16.02
   },
   {
     "BID": 5004220,
@@ -177,7 +192,28 @@
     "BAR": 8.77,
     "StylePlus": "117",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0654846880776340110905730129"
+    "AdjustedRating": "2.9766548626534190531852717709",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 11.59
+  },
+  {
+    "BID": 4705483,
+    "BeerName": "Everett",
+    "BeerStyle": "Porter - American",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 7.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-31977_5626d_sm.jpeg",
+    "HallRating": 18.13,
+    "BAR": 10.80,
+    "StylePlus": "116",
+    "RatingScore": 4.33,
+    "AdjustedRating": "4.2411734356719834320386585765",
+    "BreweryRank": 18,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.09
   },
   {
     "BID": 2008118,
@@ -192,7 +228,10 @@
     "BAR": 10.76,
     "StylePlus": "111",
     "RatingScore": 4.44,
-    "AdjustedRating": "2.8060530619379957886930381004"
+    "AdjustedRating": "4.3386821351736138574705370561",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 61,
+    "StyleAvgAbv": 11.28
   },
   {
     "BID": 5030113,
@@ -207,7 +246,10 @@
     "BAR": 8.55,
     "StylePlus": "122",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0571173844846237057641786432"
+    "AdjustedRating": "2.7951370511989630589760207388",
+    "BreweryRank": 19,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 4424478,
@@ -222,22 +264,10 @@
     "BAR": 9.92,
     "StylePlus": "119",
     "RatingScore": 4.26,
-    "AdjustedRating": "2.2060041163133839565264332242"
-  },
-  {
-    "BID": 2427593,
-    "BeerName": "Much Appreciated",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Sante Adairius Rustic Ales",
-    "Origin": "Capitola, CA United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
-    "HallRating": 18.09,
-    "BAR": 8.94,
-    "StylePlus": "121",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.0738686016762240846934274371"
+    "AdjustedRating": "3.8168847392035894559730790802",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 87,
+    "StyleAvgAbv": 5.29
   },
   {
     "BID": 6305321,
@@ -252,7 +282,28 @@
     "BAR": 7.47,
     "StylePlus": "116",
     "RatingScore": 4.67,
-    "AdjustedRating": "2.0410560835488827087263462922"
+    "AdjustedRating": "2.3191846482412060301507537688",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 37,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 2427593,
+    "BeerName": "Much Appreciated",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Sante Adairius Rustic Ales",
+    "Origin": "Capitola, CA United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-31355_09cc4.jpeg",
+    "HallRating": 18.09,
+    "BAR": 8.94,
+    "StylePlus": "121",
+    "RatingScore": 4.45,
+    "AdjustedRating": "3.1073207045929018789144050104",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 60,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 1800104,
@@ -267,7 +318,10 @@
     "BAR": 10.51,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.5781143492979127134724857685"
+    "AdjustedRating": "4.3228962600638977635782747604",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 110,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 6213003,
@@ -282,22 +336,10 @@
     "BAR": 8.73,
     "StylePlus": "114",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0663818069087688219663418955"
-  },
-  {
-    "BID": 6504806,
-    "BeerName": "Bourbon County Brand Double Barrel Stout (2025)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Goose Island Beer Co.",
-    "Origin": "Chicago, IL United States",
-    "BeerAbv": 17.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6455423_920d3_sm.jpeg",
-    "HallRating": 18.04,
-    "BAR": 9.88,
-    "StylePlus": "112",
-    "RatingScore": 4.53,
-    "AdjustedRating": "2.2277702530712088781768800475"
+    "AdjustedRating": "3.0049833060269163253364540667",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 50,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 5011817,
@@ -312,7 +354,28 @@
     "BAR": 9.18,
     "StylePlus": "114",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0954605300104632359935318177"
+    "AdjustedRating": "3.4050967820512820512820512821",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 11.28
+  },
+  {
+    "BID": 6504806,
+    "BeerName": "Bourbon County Brand Double Barrel Stout (2025)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Goose Island Beer Co.",
+    "Origin": "Chicago, IL United States",
+    "BeerAbv": 17.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6455423_920d3_sm.jpeg",
+    "HallRating": 18.04,
+    "BAR": 9.88,
+    "StylePlus": "112",
+    "RatingScore": 4.53,
+    "AdjustedRating": "4.0352543689501116902457185406",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 2008232,
@@ -327,7 +390,10 @@
     "BAR": 11.04,
     "StylePlus": "114",
     "RatingScore": 4.30,
-    "AdjustedRating": "3.2060714982630880317821940634"
+    "AdjustedRating": "4.2569123266902389371048966035",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 35,
+    "StyleAvgAbv": 5.15
   },
   {
     "BID": 6412084,
@@ -342,7 +408,10 @@
     "BAR": 9.17,
     "StylePlus": "115",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.0951941561578697099381835473"
+    "AdjustedRating": "3.393564455319148936170212766",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 12.03
   },
   {
     "BID": 235202,
@@ -357,7 +426,10 @@
     "BAR": 10.79,
     "StylePlus": "109",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.8754521608434473458379306117"
+    "AdjustedRating": "4.2230236551284096347104801404",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 6.14
   },
   {
     "BID": 4303684,
@@ -372,6 +444,9 @@
     "BAR": 8.23,
     "StylePlus": "118",
     "RatingScore": 4.57,
-    "AdjustedRating": "2.0511414441216347085028084447"
+    "AdjustedRating": "2.6480259572953736654804270463",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 70,
+    "StyleAvgAbv": 8.42
   }
 ]

@@ -1,18 +1,21 @@
 [
   {
-    "BID": 5609105,
-    "BeerName": "DDH Nelsie",
-    "BeerStyle": "Pale Ale - New England / Hazy",
-    "BreweryName": "Monkish Brewing Co.",
-    "Origin": "Torrance, CA United States",
-    "BeerAbv": 5.90,
+    "BID": 4700384,
+    "BeerName": "Blue Skies",
+    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
+    "BreweryName": "Fidens Brewing Co.",
+    "Origin": "Albany, NY United States",
+    "BeerAbv": 8.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5609105_38024_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4700384_13f6a_sm.jpeg",
     "HallRating": 14.55,
-    "BAR": 7.45,
-    "StylePlus": "114",
-    "RatingScore": 4.31,
-    "AdjustedRating": "2.0953269973434535104364326376"
+    "BAR": 7.85,
+    "StylePlus": "110",
+    "RatingScore": 4.43,
+    "AdjustedRating": "3.8440391525034451079467156638",
+    "BreweryRank": 17,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 8.19
   },
   {
     "BID": 5622647,
@@ -27,22 +30,10 @@
     "BAR": 7.76,
     "StylePlus": "111",
     "RatingScore": 4.36,
-    "AdjustedRating": "2.1490643526293351127917106897"
-  },
-  {
-    "BID": 5416018,
-    "BeerName": "Indulgence 13",
-    "BeerStyle": "Stout - Russian Imperial",
-    "BreweryName": "Moersleutel Craft Brewery",
-    "Origin": "Alkmaar, Noord-Holland Netherlands",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5416018_b3ea7_sm.jpeg",
-    "HallRating": 14.55,
-    "BAR": 7.60,
-    "StylePlus": "110",
-    "RatingScore": 4.41,
-    "AdjustedRating": "2.1190858843658926389019460374"
+    "AdjustedRating": "3.6949292346938775510204081633",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 12.13
   },
   {
     "BID": 6504350,
@@ -57,7 +48,28 @@
     "BAR": 7.05,
     "StylePlus": "110",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0663711264243917462272867262"
+    "AdjustedRating": "2.9948792530399536768963520556",
+    "BreweryRank": 18,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 12.48
+  },
+  {
+    "BID": 5416018,
+    "BeerName": "Indulgence 13",
+    "BeerStyle": "Stout - Russian Imperial",
+    "BreweryName": "Moersleutel Craft Brewery",
+    "Origin": "Alkmaar, Noord-Holland Netherlands",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5416018_b3ea7_sm.jpeg",
+    "HallRating": 14.55,
+    "BAR": 7.60,
+    "StylePlus": "110",
+    "RatingScore": 4.41,
+    "AdjustedRating": "3.5552792128378378378378378378",
+    "BreweryRank": 6,
+    "BreweryBeerCount": 98,
+    "StyleAvgAbv": 11.28
   },
   {
     "BID": 6618990,
@@ -72,52 +84,10 @@
     "BAR": 4.10,
     "StylePlus": "121",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0351940894649644284182828184"
-  },
-  {
-    "BID": 6422351,
-    "BeerName": "Hanabi Lager #79 - Hourani Pilsner (Autumn 2025)",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "Hanabi Lager Company",
-    "Origin": "Napa, CA United States",
-    "BeerAbv": 4.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6422351_8c5e6_sm.jpeg",
-    "HallRating": 14.54,
-    "BAR": 6.28,
-    "StylePlus": "123",
-    "RatingScore": 4.20,
-    "AdjustedRating": "2.042478443697674870340513976"
-  },
-  {
-    "BID": 6205949,
-    "BeerName": "fixed in time",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "everywhere",
-    "Origin": "Orange, CA United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6205949_04b38_sm.jpeg",
-    "HallRating": 14.54,
-    "BAR": 6.37,
-    "StylePlus": "123",
-    "RatingScore": 4.19,
-    "AdjustedRating": "2.0435670722994486293391317854"
-  },
-  {
-    "BID": 6014276,
-    "BeerName": "how to build trust",
-    "BeerStyle": "Barleywine - English",
-    "BreweryName": "everywhere",
-    "Origin": "Orange, CA United States",
-    "BeerAbv": 14.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6014276_b59bb_sm.jpeg",
-    "HallRating": 14.54,
-    "BAR": 6.59,
-    "StylePlus": "113",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.048862993914492809798829412"
+    "AdjustedRating": "2.0700708055555555555555555556",
+    "BreweryRank": 50,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 10.14
   },
   {
     "BID": 6211733,
@@ -132,52 +102,10 @@
     "BAR": 6.36,
     "StylePlus": "112",
     "RatingScore": 4.50,
-    "AdjustedRating": "2.0447360986312008542859916513"
-  },
-  {
-    "BID": 5016430,
-    "BeerName": "Assassin Bramble Barrel",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 13.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4977062_c4bcc_sm.jpeg",
-    "HallRating": 14.54,
-    "BAR": 7.55,
-    "StylePlus": "110",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.1135701201274822260357930865"
-  },
-  {
-    "BID": 5011544,
-    "BeerName": "Fire Iron",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "Urban Artifact",
-    "Origin": "Cincinnati, OH United States",
-    "BeerAbv": 8.50,
-    "BeerIbu": 20.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2153819_66e3d_sm.jpeg",
-    "HallRating": 14.54,
-    "BAR": 8.38,
-    "StylePlus": "114",
-    "RatingScore": 4.01,
-    "AdjustedRating": "2.4101031493849967631408586361"
-  },
-  {
-    "BID": 3030558,
-    "BeerName": "Moiety",
-    "BeerStyle": "Mead - Melomel",
-    "BreweryName": "Pips Meadery",
-    "Origin": "Gurnee, IL United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3030558_87177_sm.jpeg",
-    "HallRating": 14.54,
-    "BAR": 6.97,
-    "StylePlus": "111",
-    "RatingScore": 4.44,
-    "AdjustedRating": "2.0613883048331437604827360182"
+    "AdjustedRating": "2.4485753671875",
+    "BreweryRank": 11,
+    "BreweryBeerCount": 41,
+    "StyleAvgAbv": 11.28
   },
   {
     "BID": 2200230,
@@ -192,22 +120,118 @@
     "BAR": 7.81,
     "StylePlus": "112",
     "RatingScore": 4.30,
-    "AdjustedRating": "2.1608179815905743740795287187"
+    "AdjustedRating": "3.7107879047619047619047619048",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 13,
+    "StyleAvgAbv": 5.66
   },
   {
-    "BID": 1674045,
-    "BeerName": "Term Oil 6-B",
+    "BID": 5011544,
+    "BeerName": "Fire Iron",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "Urban Artifact",
+    "Origin": "Cincinnati, OH United States",
+    "BeerAbv": 8.50,
+    "BeerIbu": 20.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2153819_66e3d_sm.jpeg",
+    "HallRating": 14.54,
+    "BAR": 8.38,
+    "StylePlus": "114",
+    "RatingScore": 4.01,
+    "AdjustedRating": "3.8494893553555080866646322856",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 34,
+    "StyleAvgAbv": 5.39
+  },
+  {
+    "BID": 6205949,
+    "BeerName": "fixed in time",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "everywhere",
+    "Origin": "Orange, CA United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6205949_04b38_sm.jpeg",
+    "HallRating": 14.54,
+    "BAR": 6.37,
+    "StylePlus": "123",
+    "RatingScore": 4.19,
+    "AdjustedRating": "2.4006987295401402961808261886",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 30,
+    "StyleAvgAbv": 4.92
+  },
+  {
+    "BID": 5016430,
+    "BeerName": "Assassin Bramble Barrel",
     "BeerStyle": "Stout - Imperial / Double",
     "BreweryName": "Toppling Goliath Brewing Co.",
     "Origin": "Decorah, IA United States",
-    "BeerAbv": 12.00,
+    "BeerAbv": 13.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1674045_12faf_sm.jpeg",
-    "HallRating": 14.53,
-    "BAR": 5.79,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4977062_c4bcc_sm.jpeg",
+    "HallRating": 14.54,
+    "BAR": 7.55,
+    "StylePlus": "110",
+    "RatingScore": 4.45,
+    "AdjustedRating": "3.5318795396145610278372591006",
+    "BreweryRank": 11,
+    "BreweryBeerCount": 35,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 6422351,
+    "BeerName": "Hanabi Lager #79 - Hourani Pilsner (Autumn 2025)",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "Hanabi Lager Company",
+    "Origin": "Napa, CA United States",
+    "BeerAbv": 4.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6422351_8c5e6_sm.jpeg",
+    "HallRating": 14.54,
+    "BAR": 6.28,
+    "StylePlus": "123",
+    "RatingScore": 4.20,
+    "AdjustedRating": "2.3637551512738853503184713376",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 4,
+    "StyleAvgAbv": 4.92
+  },
+  {
+    "BID": 6014276,
+    "BeerName": "how to build trust",
+    "BeerStyle": "Barleywine - English",
+    "BreweryName": "everywhere",
+    "Origin": "Orange, CA United States",
+    "BeerAbv": 14.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6014276_b59bb_sm.jpeg",
+    "HallRating": 14.54,
+    "BAR": 6.59,
     "StylePlus": "113",
-    "RatingScore": 4.57,
-    "AdjustedRating": "2.0392302091968785879697199681"
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.5763120684632192279679533867",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 30,
+    "StyleAvgAbv": 12.03
+  },
+  {
+    "BID": 3030558,
+    "BeerName": "Moiety",
+    "BeerStyle": "Mead - Melomel",
+    "BreweryName": "Pips Meadery",
+    "Origin": "Gurnee, IL United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3030558_87177_sm.jpeg",
+    "HallRating": 14.54,
+    "BAR": 6.97,
+    "StylePlus": "111",
+    "RatingScore": 4.44,
+    "AdjustedRating": "2.8835458505467800729040097205",
+    "BreweryRank": 22,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 4231742,
@@ -222,7 +246,10 @@
     "BAR": 7.55,
     "StylePlus": "112",
     "RatingScore": 4.31,
-    "AdjustedRating": "2.1101042854450182832585667433"
+    "AdjustedRating": "3.4533462248144220572640509014",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 15,
+    "StyleAvgAbv": 4.99
   },
   {
     "BID": 5422391,
@@ -237,7 +264,10 @@
     "BAR": 6.90,
     "StylePlus": "123",
     "RatingScore": 4.12,
-    "AdjustedRating": "2.0552166305061189823572559163"
+    "AdjustedRating": "2.7151147817836812144212523719",
+    "BreweryRank": 17,
+    "BreweryBeerCount": 38,
+    "StyleAvgAbv": 5.4
   },
   {
     "BID": 5304487,
@@ -252,7 +282,10 @@
     "BAR": 6.79,
     "StylePlus": "110",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0553232296359312464956207343"
+    "AdjustedRating": "2.7562944318181818181818181818",
+    "BreweryRank": 14,
+    "BreweryBeerCount": 53,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 6502195,
@@ -267,7 +300,28 @@
     "BAR": 6.96,
     "StylePlus": "111",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0616206378219959895110288447"
+    "AdjustedRating": "2.8944090726052471018913971934",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 13,
+    "StyleAvgAbv": 8.19
+  },
+  {
+    "BID": 1674045,
+    "BeerName": "Term Oil 6-B",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1674045_12faf_sm.jpeg",
+    "HallRating": 14.53,
+    "BAR": 5.79,
+    "StylePlus": "113",
+    "RatingScore": 4.57,
+    "AdjustedRating": "2.2460985111876075731497418244",
+    "BreweryRank": 12,
+    "BreweryBeerCount": 35,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 5028928,
@@ -282,7 +336,10 @@
     "BAR": 6.57,
     "StylePlus": "113",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.0485837486432004962009613894"
+    "AdjustedRating": "2.568088127286027798098024872",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 12.13
   },
   {
     "BID": 6008605,
@@ -297,7 +354,10 @@
     "BAR": 6.54,
     "StylePlus": "122",
     "RatingScore": 4.19,
-    "AdjustedRating": "2.0464385823138220524652461368"
+    "AdjustedRating": "2.492016619822485207100591716",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 13,
+    "StyleAvgAbv": 6.01
   },
   {
     "BID": 6016113,
@@ -312,7 +372,10 @@
     "BAR": 6.19,
     "StylePlus": "116",
     "RatingScore": 4.40,
-    "AdjustedRating": "2.0422128832662896675022833712"
+    "AdjustedRating": "2.3584088087520259319286871961",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 10.88
   },
   {
     "BID": 5222420,
@@ -327,7 +390,10 @@
     "BAR": 7.17,
     "StylePlus": "116",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.0711787346336037435513875304"
+    "AdjustedRating": "3.033115990615224191866527633",
+    "BreweryRank": 19,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6608665,
@@ -342,7 +408,10 @@
     "BAR": 3.63,
     "StylePlus": "117",
     "RatingScore": 4.69,
-    "AdjustedRating": "2.0349616522417153996101364522"
+    "AdjustedRating": "2.0591409023255813953488372093",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 4,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 5009008,
@@ -357,21 +426,27 @@
     "BAR": 7.28,
     "StylePlus": "116",
     "RatingScore": 4.27,
-    "AdjustedRating": "2.078873165679342633288744506"
+    "AdjustedRating": "3.1389436912114014251781472684",
+    "BreweryRank": 17,
+    "BreweryBeerCount": 60,
+    "StyleAvgAbv": 6.22
   },
   {
-    "BID": 4850552,
-    "BeerName": "All Citra Everything",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Other Half Brewing Co.",
-    "Origin": "Brooklyn, NY United States",
-    "BeerAbv": 8.50,
+    "BID": 4607981,
+    "BeerName": "Black Tuesday Grand Reserve (2021)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "The Bruery",
+    "Origin": "Placentia, CA United States",
+    "BeerAbv": 21.30,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1793659_f25e8_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4607981_8d2b0_sm.jpeg",
     "HallRating": 14.51,
-    "BAR": 8.98,
-    "StylePlus": "108",
-    "RatingScore": 4.35,
-    "AdjustedRating": "3.3987928811360196064297556405"
+    "BAR": 7.52,
+    "StylePlus": "110",
+    "RatingScore": 4.45,
+    "AdjustedRating": "3.5128147431693989071038251366",
+    "BreweryRank": 10,
+    "BreweryBeerCount": 110,
+    "StyleAvgAbv": 11.87
   }
 ]

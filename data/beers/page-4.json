@@ -12,7 +12,10 @@
     "BAR": 10.03,
     "StylePlus": "126",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0902553644048435001142334933"
+    "AdjustedRating": "3.3095330448020878642888212266",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 5.39
   },
   {
     "BID": 4940566,
@@ -27,7 +30,10 @@
     "BAR": 10.54,
     "StylePlus": "122",
     "RatingScore": 4.37,
-    "AdjustedRating": "2.1528450047196875751911010753"
+    "AdjustedRating": "3.7161163170347003154574132492",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 3,
+    "StyleAvgAbv": 5.29
   },
   {
     "BID": 3611962,
@@ -42,7 +48,10 @@
     "BAR": 10.13,
     "StylePlus": "125",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.1018960031816976629673118442"
+    "AdjustedRating": "3.4165139580908032596041909197",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 5.39
   },
   {
     "BID": 4410953,
@@ -57,7 +66,10 @@
     "BAR": 9.94,
     "StylePlus": "126",
     "RatingScore": 4.41,
-    "AdjustedRating": "2.0867610403279626275145390409"
+    "AdjustedRating": "3.2703722837837837837837837838",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 62,
+    "StyleAvgAbv": 5.39
   },
   {
     "BID": 6012533,
@@ -72,7 +84,10 @@
     "BAR": 8.43,
     "StylePlus": "136",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0431926549962113116633313257"
+    "AdjustedRating": "2.3964039147909967845659163987",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 38,
+    "StyleAvgAbv": 5.4
   },
   {
     "BID": 4702155,
@@ -87,7 +102,10 @@
     "BAR": 10.98,
     "StylePlus": "112",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.3092727309968928466038292628"
+    "AdjustedRating": "4.1786208653846153846153846154",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 75,
+    "StyleAvgAbv": 5.9
   },
   {
     "BID": 4826297,
@@ -102,7 +120,10 @@
     "BAR": 9.90,
     "StylePlus": "117",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0889607075255686154785528927"
+    "AdjustedRating": "3.3432416262024736601007787448",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 31,
+    "StyleAvgAbv": 12.13
   },
   {
     "BID": 6015550,
@@ -117,22 +138,10 @@
     "BAR": 8.55,
     "StylePlus": "115",
     "RatingScore": 4.75,
-    "AdjustedRating": "2.0452545443246917176424895621"
-  },
-  {
-    "BID": 6218838,
-    "BeerName": "Double Dry Hopped Fort Point",
-    "BeerStyle": "IPA - New England / Hazy",
-    "BreweryName": "Trillium Brewing Company",
-    "Origin": "Canton, MA United States",
-    "BeerAbv": 6.60,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-415360_6652f_sm.jpeg",
-    "HallRating": 19.63,
-    "BAR": 11.95,
-    "StylePlus": "114",
-    "RatingScore": 4.40,
-    "AdjustedRating": "3.155072725556387814362962887"
+    "AdjustedRating": "2.4727767480314960629921259843",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 33,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 5216973,
@@ -147,7 +156,28 @@
     "BAR": 9.54,
     "StylePlus": "115",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0688490113314992593162623367"
+    "AdjustedRating": "3.0540173717217787913340935006",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 17,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 6218838,
+    "BeerName": "Double Dry Hopped Fort Point",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Trillium Brewing Company",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 6.60,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-415360_6652f_sm.jpeg",
+    "HallRating": 19.63,
+    "BAR": 11.95,
+    "StylePlus": "114",
+    "RatingScore": 4.40,
+    "AdjustedRating": "4.34666292225938942287335394",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 6.48
   },
   {
     "BID": 3816039,
@@ -162,22 +192,10 @@
     "BAR": 10.05,
     "StylePlus": "125",
     "RatingScore": 4.39,
-    "AdjustedRating": "2.0984675143675435768070860915"
-  },
-  {
-    "BID": 3344671,
-    "BeerName": "Flora Plum (Batch 4)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 5.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3216020_73d31_sm.jpeg",
-    "HallRating": 19.58,
-    "BAR": 10.01,
-    "StylePlus": "122",
-    "RatingScore": 4.49,
-    "AdjustedRating": "2.0982367875726385354552014889"
+    "AdjustedRating": "3.385727169735788630904723779",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 43,
+    "StyleAvgAbv": 5.39
   },
   {
     "BID": 3039901,
@@ -192,7 +210,28 @@
     "BAR": 10.96,
     "StylePlus": "116",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.3054311239452206390925439203"
+    "AdjustedRating": "4.0946150216905481793085316156",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 30,
+    "StyleAvgAbv": 6.25
+  },
+  {
+    "BID": 3344671,
+    "BeerName": "Flora Plum (Batch 4)",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3216020_73d31_sm.jpeg",
+    "HallRating": 19.58,
+    "BAR": 10.01,
+    "StylePlus": "122",
+    "RatingScore": 4.49,
+    "AdjustedRating": "3.415123908754623921085080148",
+    "BreweryRank": 12,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 2408879,
@@ -207,7 +246,10 @@
     "BAR": 11.57,
     "StylePlus": "112",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.7706220704229217553585640969"
+    "AdjustedRating": "4.4031240438871473354231974922",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 79,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 3213398,
@@ -222,7 +264,10 @@
     "BAR": 10.38,
     "StylePlus": "121",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.1478674537785458126614266867"
+    "AdjustedRating": "3.7338046965478841870824053452",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 47,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 1808896,
@@ -237,7 +282,10 @@
     "BAR": 9.61,
     "StylePlus": "120",
     "RatingScore": 4.60,
-    "AdjustedRating": "2.0741853227633069082672706682"
+    "AdjustedRating": "3.1404254647435897435897435897",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 11.32
   },
   {
     "BID": 6006731,
@@ -252,7 +300,10 @@
     "BAR": 9.48,
     "StylePlus": "116",
     "RatingScore": 4.66,
-    "AdjustedRating": "2.0686484261165739796409259723"
+    "AdjustedRating": "3.0548200172215843857634902411",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 8.19
   },
   {
     "BID": 6605436,
@@ -267,7 +318,10 @@
     "BAR": 6.09,
     "StylePlus": "122",
     "RatingScore": 4.88,
-    "AdjustedRating": "2.0357194621246077991931869117"
+    "AdjustedRating": "2.09459234375",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 37,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 4824359,
@@ -282,7 +336,10 @@
     "BAR": 10.52,
     "StylePlus": "128",
     "RatingScore": 4.28,
-    "AdjustedRating": "2.1701119799223272514105664249"
+    "AdjustedRating": "3.7318625876690350676140270456",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 38,
+    "StyleAvgAbv": 5.4
   },
   {
     "BID": 4505615,
@@ -297,7 +354,10 @@
     "BAR": 8.62,
     "StylePlus": "125",
     "RatingScore": 4.61,
-    "AdjustedRating": "2.0465390972599549794302569277"
+    "AdjustedRating": "2.5113209410864575363427697016",
+    "BreweryRank": 13,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 3010113,
@@ -312,7 +372,10 @@
     "BAR": 9.53,
     "StylePlus": "115",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0717872077747474359466830561"
+    "AdjustedRating": "3.0905575611080934274850624661",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 65,
+    "StyleAvgAbv": 6.14
   },
   {
     "BID": 5419283,
@@ -327,7 +390,10 @@
     "BAR": 8.33,
     "StylePlus": "119",
     "RatingScore": 4.65,
-    "AdjustedRating": "2.0435910775208859529823197979"
+    "AdjustedRating": "2.4125915421686746987951807229",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 14,
+    "StyleAvgAbv": 9.26
   },
   {
     "BID": 3822145,
@@ -342,7 +408,10 @@
     "BAR": 9.29,
     "StylePlus": "123",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0621740081752275181243251581"
+    "AdjustedRating": "2.9119197498474679682733374009",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 60,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 6502230,
@@ -357,21 +426,27 @@
     "BAR": 5.00,
     "StylePlus": "128",
     "RatingScore": 4.95,
-    "AdjustedRating": "2.0350691557669441141498216409"
+    "AdjustedRating": "2.0642439312267657992565055762",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 4,
+    "StyleAvgAbv": 6.48
   },
   {
-    "BID": 4025139,
-    "BeerName": "Barrel-Aged Dorothy (Batch 4)",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 7.50,
+    "BID": 3344292,
+    "BeerName": "Double Dry Hopped Melcher Street",
+    "BeerStyle": "IPA - New England / Hazy",
+    "BreweryName": "Trillium Brewing Company",
+    "Origin": "Canton, MA United States",
+    "BeerAbv": 7.20,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-2562_e7536.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-934620_bf795_sm.jpeg",
     "HallRating": 19.37,
-    "BAR": 9.69,
-    "StylePlus": "122",
-    "RatingScore": 4.50,
-    "AdjustedRating": "2.0820117547180634428956576608"
+    "BAR": 11.81,
+    "StylePlus": "114",
+    "RatingScore": 4.39,
+    "AdjustedRating": "4.3395591931235548406554740123",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 6.48
   }
 ]

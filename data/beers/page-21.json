@@ -1,18 +1,21 @@
 [
   {
-    "BID": 3903459,
-    "BeerName": "Settle Down",
-    "BeerStyle": "Wheat Beer - Witbier / Blanche",
-    "BreweryName": "Suarez Family Brewery",
-    "Origin": "Hudson, NY United States",
-    "BeerAbv": 5.00,
+    "BID": 1503639,
+    "BeerName": "Single Shot",
+    "BeerStyle": "Stout - Milk / Sweet",
+    "BreweryName": "Tree House Brewing Company",
+    "Origin": "Charlton, MA United States",
+    "BeerAbv": 6.40,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2274056_60ac9_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1322232_cb17b_sm.jpeg",
     "HallRating": 16.17,
-    "BAR": 7.90,
-    "StylePlus": "122",
-    "RatingScore": 4.26,
-    "AdjustedRating": "2.0656753702422145328719723183"
+    "BAR": 9.54,
+    "StylePlus": "112",
+    "RatingScore": 4.28,
+    "AdjustedRating": "4.1705230702677958342870222019",
+    "BreweryRank": 33,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 6.1
   },
   {
     "BID": 2033953,
@@ -27,37 +30,46 @@
     "BAR": 8.19,
     "StylePlus": "122",
     "RatingScore": 4.19,
-    "AdjustedRating": "2.0839238548433184112772645014"
+    "AdjustedRating": "3.17869007488986784140969163",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 4.92
   },
   {
-    "BID": 1503639,
-    "BeerName": "Single Shot",
-    "BeerStyle": "Stout - Milk / Sweet",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 6.40,
+    "BID": 5213648,
+    "BeerName": "Prof.Skruchebluck",
+    "BeerStyle": "Mead - Other",
+    "BreweryName": "Mad Frog Brewery",
+    "Origin": "Minsk, Minskaja voblasć Belarus",
+    "BeerAbv": 11.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1322232_cb17b_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5213648_2bd86_sm.jpeg",
     "HallRating": 16.17,
-    "BAR": 9.54,
-    "StylePlus": "112",
-    "RatingScore": 4.28,
-    "AdjustedRating": "2.6819069343693631191896767032"
+    "BAR": 7.33,
+    "StylePlus": "120",
+    "RatingScore": 4.40,
+    "AdjustedRating": "2.5650957538237436270939548434",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 4,
+    "StyleAvgAbv": 9.4
   },
   {
-    "BID": 4007483,
-    "BeerName": "Liquid Lollipop: Strawberry, Blueberry, Cherry, Cheesecake",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Froth Brewing Co.",
-    "Origin": "Buffalo, NY United States",
-    "BeerAbv": 6.50,
+    "BID": 3903459,
+    "BeerName": "Settle Down",
+    "BeerStyle": "Wheat Beer - Witbier / Blanche",
+    "BreweryName": "Suarez Family Brewery",
+    "Origin": "Hudson, NY United States",
+    "BeerAbv": 5.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-416951_1b3de.jpeg",
-    "HallRating": 16.16,
-    "BAR": 7.66,
-    "StylePlus": "115",
-    "RatingScore": 4.45,
-    "AdjustedRating": "2.0578570582329317269076305221"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2274056_60ac9_sm.jpeg",
+    "HallRating": 16.17,
+    "BAR": 7.90,
+    "StylePlus": "122",
+    "RatingScore": 4.26,
+    "AdjustedRating": "2.939541208913649025069637883",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 5.07
   },
   {
     "BID": 3401449,
@@ -72,7 +84,10 @@
     "BAR": 8.66,
     "StylePlus": "109",
     "RatingScore": 4.52,
-    "AdjustedRating": "2.1681105573286597177382160317"
+    "AdjustedRating": "3.854893585427135678391959799",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 48,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 4940902,
@@ -87,22 +102,28 @@
     "BAR": 5.26,
     "StylePlus": "133",
     "RatingScore": 4.56,
-    "AdjustedRating": "2.0358219876066877119139483222"
+    "AdjustedRating": "2.0991367520585544373284537969",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 3,
+    "StyleAvgAbv": 4.54
   },
   {
-    "BID": 5010443,
-    "BeerName": "LUXURIOUS LUXURY VOLUME TWELVE",
-    "BeerStyle": "Sour - Fruited Gose",
-    "BreweryName": "Evil Twin Brewing NYC",
-    "Origin": "Ridgewood, NY United States",
-    "BeerAbv": 9.00,
+    "BID": 4007483,
+    "BeerName": "Liquid Lollipop: Strawberry, Blueberry, Cherry, Cheesecake",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Froth Brewing Co.",
+    "Origin": "Buffalo, NY United States",
+    "BeerAbv": 6.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5010443_586d2_sm.jpeg",
-    "HallRating": 16.15,
-    "BAR": 8.14,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-416951_1b3de.jpeg",
+    "HallRating": 16.16,
+    "BAR": 7.66,
     "StylePlus": "115",
-    "RatingScore": 4.38,
-    "AdjustedRating": "2.0846560474700450278562161337"
+    "RatingScore": 4.45,
+    "AdjustedRating": "2.808281091257179323548181238",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 7,
+    "StyleAvgAbv": 5.66
   },
   {
     "BID": 3207428,
@@ -117,37 +138,28 @@
     "BAR": 7.94,
     "StylePlus": "116",
     "RatingScore": 4.43,
-    "AdjustedRating": "2.0709633046617003302357729821"
+    "AdjustedRating": "3.0576097202797202797202797203",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 89,
+    "StyleAvgAbv": 6.54
   },
   {
-    "BID": 3339841,
-    "BeerName": "Angel of Darkness",
-    "BeerStyle": "Sour - Fruited",
-    "BreweryName": "Wicked Weed Brewing",
-    "Origin": "Asheville, NC United States",
-    "BeerAbv": 11.00,
+    "BID": 5010443,
+    "BeerName": "LUXURIOUS LUXURY VOLUME TWELVE",
+    "BeerStyle": "Sour - Fruited Gose",
+    "BreweryName": "Evil Twin Brewing NYC",
+    "Origin": "Ridgewood, NY United States",
+    "BeerAbv": 9.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1320328_1c63f_sm.jpeg",
-    "HallRating": 16.14,
-    "BAR": 9.17,
-    "StylePlus": "112",
-    "RatingScore": 4.32,
-    "AdjustedRating": "2.3708759582993864622649352377"
-  },
-  {
-    "BID": 3832016,
-    "BeerName": "War Beast (cinnamon)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Little Cottage Brewery",
-    "Origin": "Avondale Estates, GA United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-littlecottagebrewery_75836.jpeg",
-    "HallRating": 16.14,
-    "BAR": 6.67,
-    "StylePlus": "114",
-    "RatingScore": 4.62,
-    "AdjustedRating": "2.0409808004667444574095682614"
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5010443_586d2_sm.jpeg",
+    "HallRating": 16.15,
+    "BAR": 8.14,
+    "StylePlus": "115",
+    "RatingScore": 4.38,
+    "AdjustedRating": "3.2377853086419753086419753086",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 75,
+    "StyleAvgAbv": 5.08
   },
   {
     "BID": 5805024,
@@ -162,7 +174,28 @@
     "BAR": 4.99,
     "StylePlus": "120",
     "RatingScore": 4.63,
-    "AdjustedRating": "2.0355568436233239787963829124"
+    "AdjustedRating": "2.0869700735970561177552897884",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 9,
+    "StyleAvgAbv": 15.43
+  },
+  {
+    "BID": 3832016,
+    "BeerName": "War Beast (cinnamon)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Little Cottage Brewery",
+    "Origin": "Avondale Estates, GA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-littlecottagebrewery_75836.jpeg",
+    "HallRating": 16.14,
+    "BAR": 6.67,
+    "StylePlus": "114",
+    "RatingScore": 4.62,
+    "AdjustedRating": "2.3157125271966527196652719665",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 12,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 5704355,
@@ -177,7 +210,28 @@
     "BAR": 7.69,
     "StylePlus": "112",
     "RatingScore": 4.55,
-    "AdjustedRating": "2.0606527640362724290951186571"
+    "AdjustedRating": "2.8807953084112149532710280374",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 148,
+    "StyleAvgAbv": 11.87
+  },
+  {
+    "BID": 3339841,
+    "BeerName": "Angel of Darkness",
+    "BeerStyle": "Sour - Fruited",
+    "BreweryName": "Wicked Weed Brewing",
+    "Origin": "Asheville, NC United States",
+    "BeerAbv": 11.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1320328_1c63f_sm.jpeg",
+    "HallRating": 16.14,
+    "BAR": 9.17,
+    "StylePlus": "112",
+    "RatingScore": 4.32,
+    "AdjustedRating": "4.074575163339382940108892922",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 55,
+    "StyleAvgAbv": 5.66
   },
   {
     "BID": 6415591,
@@ -192,7 +246,10 @@
     "BAR": 6.77,
     "StylePlus": "117",
     "RatingScore": 4.53,
-    "AdjustedRating": "2.0416243392044791788172168436"
+    "AdjustedRating": "2.3389253668590272052761747733",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 42,
+    "StyleAvgAbv": 11.59
   },
   {
     "BID": 5029731,
@@ -207,22 +264,10 @@
     "BAR": 6.55,
     "StylePlus": "122",
     "RatingScore": 4.49,
-    "AdjustedRating": "2.0398420862595568352041709628"
-  },
-  {
-    "BID": 6023794,
-    "BeerName": "Jalowetz",
-    "BeerStyle": "Lager - Světlé (Czech Pale)",
-    "BreweryName": "Schilling Beer Co.",
-    "Origin": "Littleton, NH United States",
-    "BeerAbv": 4.70,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6023794_cbd3b_sm.jpeg",
-    "HallRating": 16.12,
-    "BAR": 7.58,
-    "StylePlus": "122",
-    "RatingScore": 4.22,
-    "AdjustedRating": "2.0539548763332818055340856392"
+    "AdjustedRating": "2.2699885144312393887945670628",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 4,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 5004402,
@@ -237,7 +282,28 @@
     "BAR": 9.44,
     "StylePlus": "114",
     "RatingScore": 4.24,
-    "AdjustedRating": "2.5938567048894062863795110594"
+    "AdjustedRating": "4.1129968353609083536090835361",
+    "BreweryRank": 36,
+    "BreweryBeerCount": 95,
+    "StyleAvgAbv": 6.52
+  },
+  {
+    "BID": 6023794,
+    "BeerName": "Jalowetz",
+    "BeerStyle": "Lager - Světlé (Czech Pale)",
+    "BreweryName": "Schilling Beer Co.",
+    "Origin": "Littleton, NH United States",
+    "BeerAbv": 4.70,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6023794_cbd3b_sm.jpeg",
+    "HallRating": 16.12,
+    "BAR": 7.58,
+    "StylePlus": "122",
+    "RatingScore": 4.22,
+    "AdjustedRating": "2.6956885854616895874263261297",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 4.44
   },
   {
     "BID": 5205724,
@@ -252,22 +318,10 @@
     "BAR": 7.71,
     "StylePlus": "119",
     "RatingScore": 4.38,
-    "AdjustedRating": "2.0600006317616430431009545849"
-  },
-  {
-    "BID": 6405767,
-    "BeerName": "XI: BLANTON'S GLD",
-    "BeerStyle": "Stout - Imperial / Double Pastry",
-    "BreweryName": "The Answer",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 14.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405767_549a8_sm.jpeg",
-    "HallRating": 16.10,
-    "BAR": 6.26,
-    "StylePlus": "113",
-    "RatingScore": 4.67,
-    "AdjustedRating": "2.038599652722353078585193981"
+    "AdjustedRating": "2.8474702269938650306748466258",
+    "BreweryRank": 8,
+    "BreweryBeerCount": 60,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 2426886,
@@ -282,7 +336,28 @@
     "BAR": 7.21,
     "StylePlus": "113",
     "RatingScore": 4.54,
-    "AdjustedRating": "2.0475646384794414274631497285"
+    "AdjustedRating": "2.5411808764044943820224719101",
+    "BreweryRank": 19,
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.29
+  },
+  {
+    "BID": 6405767,
+    "BeerName": "XI: BLANTON'S GLD",
+    "BeerStyle": "Stout - Imperial / Double Pastry",
+    "BreweryName": "The Answer",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 14.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6405767_549a8_sm.jpeg",
+    "HallRating": 16.10,
+    "BAR": 6.26,
+    "StylePlus": "113",
+    "RatingScore": 4.67,
+    "AdjustedRating": "2.2207211780104712041884816754",
+    "BreweryRank": 9,
+    "BreweryBeerCount": 43,
+    "StyleAvgAbv": 11.93
   },
   {
     "BID": 4027915,
@@ -297,7 +372,10 @@
     "BAR": 6.53,
     "StylePlus": "114",
     "RatingScore": 4.59,
-    "AdjustedRating": "2.0400123100268472043889342827"
+    "AdjustedRating": "2.2776180713678844519966015293",
+    "BreweryRank": 12,
+    "BreweryBeerCount": 37,
+    "StyleAvgAbv": 11.29
   },
   {
     "BID": 3900039,
@@ -312,22 +390,10 @@
     "BAR": 9.25,
     "StylePlus": "112",
     "RatingScore": 4.33,
-    "AdjustedRating": "2.4559797978576089897655466599"
-  },
-  {
-    "BID": 27293,
-    "BeerName": "Special Herbs",
-    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
-    "BreweryName": "Upright Brewing Company",
-    "Origin": "Portland, OR United States",
-    "BeerAbv": 5.70,
-    "BeerIbu": 28.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_27293_sm_315dcb4e0b3fb63a829d711ebb9981.jpeg",
-    "HallRating": 16.08,
-    "BAR": 8.49,
-    "StylePlus": "118",
-    "RatingScore": 4.22,
-    "AdjustedRating": "2.1262130217789233815234039374"
+    "AdjustedRating": "4.1360011482304396127598793842",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 6.48
   },
   {
     "BID": 2013305,
@@ -342,22 +408,10 @@
     "BAR": 8.94,
     "StylePlus": "110",
     "RatingScore": 4.46,
-    "AdjustedRating": "2.2791468623016916469453939872"
-  },
-  {
-    "BID": 5213648,
-    "BeerName": "Prof.Skruchebluck",
-    "BeerStyle": "Mead - Other",
-    "BreweryName": "Mad Frog Brewery",
-    "Origin": "Minsk, Minskaja voblasć Belarus",
-    "BeerAbv": 11.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-5213648_2bd86_sm.jpeg",
-    "HallRating": 16.08,
-    "BAR": 7.29,
-    "StylePlus": "120",
-    "RatingScore": 4.40,
-    "AdjustedRating": "2.048564532733826892515213768"
+    "AdjustedRating": "4.081228221407624633431085044",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 70,
+    "StyleAvgAbv": 11.87
   },
   {
     "BID": 5408759,
@@ -372,6 +426,27 @@
     "BAR": 9.09,
     "StylePlus": "110",
     "RatingScore": 4.45,
-    "AdjustedRating": "2.3592818434330650196594610101"
+    "AdjustedRating": "4.1652342782820456054903697144",
+    "BreweryRank": 34,
+    "BreweryBeerCount": 201,
+    "StyleAvgAbv": 8.19
+  },
+  {
+    "BID": 27293,
+    "BeerName": "Special Herbs",
+    "BeerStyle": "Historical Beer - Gruit / Ancient Herbed Ale",
+    "BreweryName": "Upright Brewing Company",
+    "Origin": "Portland, OR United States",
+    "BeerAbv": 5.70,
+    "BeerIbu": 28.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_27293_sm_315dcb4e0b3fb63a829d711ebb9981.jpeg",
+    "HallRating": 16.08,
+    "BAR": 8.49,
+    "StylePlus": "118",
+    "RatingScore": 4.22,
+    "AdjustedRating": "3.5174272472079686085119227286",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 11,
+    "StyleAvgAbv": 6.22
   }
 ]
