@@ -77,7 +77,7 @@
     loadBeers: function (tableEl, paginationEl, pageSize) {
       if (!tableEl) return;
       pageSize = pageSize || DEFAULT_PAGE_SIZE;
-      var colspan = 10;
+      var colspan = 11;
       tableEl.innerHTML = '<tr><td colspan="' + colspan + '" class="loading">Loading beers…</td></tr>';
       if (paginationEl) paginationEl.innerHTML = '';
       var currentChunk = [];
@@ -232,6 +232,8 @@
         var ratingScoreText = (m.RatingScore != null && m.RatingScore !== '') ? m.RatingScore : '—';
         var barNum = (m.BAR != null && m.BAR !== '') ? parseFloat(m.BAR, 10) : NaN;
         var barText = (barNum === barNum) ? barNum.toFixed(2) : '—';
+        var opsPlusNum = (m.OPSPlus != null && m.OPSPlus !== '') ? parseFloat(m.OPSPlus, 10) : NaN;
+        var opsPlusText = (opsPlusNum === opsPlusNum) ? opsPlusNum.toFixed(2) : '—';
         var tapText = (m.HallRating != null && m.HallRating !== '') ? m.HallRating : '—';
         return '<tr class="beer-card-row">' +
           '<td class="beers-col-num" data-label="#">' + rowNum + '</td>' +
@@ -243,6 +245,7 @@
           '<td data-label="Style+">' + stylePlusText + '</td>' +
           '<td data-label="Untappd Rating">' + ratingScoreText + '</td>' +
           '<td data-label="BAR">' + barText + '</td>' +
+          '<td data-label="OPS+">' + opsPlusText + '</td>' +
           '<td data-label="TAP">' + tapText + '</td></tr>';
       }
 
@@ -293,7 +296,7 @@
       function compare(a, b) {
         var va = a[sortKey];
         var vb = b[sortKey];
-        if (sortKey === 'HallRating' || sortKey === 'BeerAbv' || sortKey === 'StylePlus' || sortKey === 'BAR') {
+        if (sortKey === 'HallRating' || sortKey === 'BeerAbv' || sortKey === 'StylePlus' || sortKey === 'BAR' || sortKey === 'OPSPlus') {
           va = va != null && va !== '' ? parseFloat(va, 10) : -Infinity;
           vb = vb != null && vb !== '' ? parseFloat(vb, 10) : -Infinity;
         } else {
@@ -586,6 +589,26 @@
       barDesc = 'This is a <strong>below average</strong> beer';
     }
 
+    // OPS+ stat
+    var opsPlusVal = beer.OPSPlus != null && beer.OPSPlus !== '' ? Number(beer.OPSPlus) : null;
+    var opsPlusText = opsPlusVal != null ? opsPlusVal.toFixed(2) : '—';
+    var opsPlusDesc;
+    if (opsPlusVal == null) {
+      opsPlusDesc = '—';
+    } else if (opsPlusVal >= 15) {
+      opsPlusDesc = '<strong>Elite</strong> production — quality validated at scale';
+    } else if (opsPlusVal >= 10) {
+      opsPlusDesc = '<strong>Excellent</strong> — highly rated and widely consumed';
+    } else if (opsPlusVal >= 6) {
+      opsPlusDesc = '<strong>Very good</strong> production score';
+    } else if (opsPlusVal >= 3) {
+      opsPlusDesc = '<strong>Above average</strong> production score';
+    } else if (opsPlusVal >= 1) {
+      opsPlusDesc = '<strong>Average</strong> production score';
+    } else {
+      opsPlusDesc = '<strong>Below average</strong> production score';
+    }
+
     // Style+ stat
     var stylePlusVal = beer.StylePlus != null && beer.StylePlus !== '' ? Number(beer.StylePlus) : null;
     var stylePlusText = stylePlusVal != null ? stylePlusVal : '—';
@@ -643,6 +666,7 @@
       '</header>' +
       '<div class="beer-stats">' +
         '<div class="beer-stat"><span class="beer-stat-label">BAR</span><span class="beer-stat-value">' + barText + '</span><span class="beer-stat-desc">' + barDesc + '</span></div>' +
+        '<div class="beer-stat"><span class="beer-stat-label">OPS+</span><span class="beer-stat-value">' + opsPlusText + '</span><span class="beer-stat-desc">' + opsPlusDesc + '</span></div>' +
         '<div class="beer-stat"><span class="beer-stat-label">Style+</span><span class="beer-stat-value">' + stylePlusText + '</span><span class="beer-stat-desc">' + stylePlusDesc + '</span></div>' +
         '<div class="beer-stat"><span class="beer-stat-label">In-Brewery Ranking</span><span class="beer-stat-value">' + rankText + '</span><span class="beer-stat-desc">' + rankDesc + '</span></div>' +
         '<div class="beer-stat"><span class="beer-stat-label">ABV</span><span class="beer-stat-value">' + abvText + '</span><span class="beer-stat-desc">' + abvDesc + '</span></div>' +

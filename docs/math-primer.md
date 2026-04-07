@@ -131,6 +131,8 @@ BAR (and similarly ABR/TAP) can be interpreted using the following ranges:
 
 **SOLID** — Measure of how likely you are to get a great beer from a brewery. Based on distance from the mean and put on a 0–100 scale.
 
+**OPS+** — Overall Production Score. Bridges BAR (career value) and TAP (peak value) by applying a volume-decayed peak bonus: **OPS+ = BAR + (tapWeight × wOBAR × Scale × VolumeDecay)**, where **VolumeDecay = Volume / (Volume + tapWeight)**. At 1,000 check-ins (Volume = 3.0), VolumeDecay = 0.50 — half the peak bonus is earned. Below that, the peak bonus is discounted (noisy quality signal); above it, the bonus grows toward full credit (market-validated). Inspired by baseball’s OPS+, this answers: "How confident should I be that this beer is excellent?"
+
 **Style+** — A beer’s rating compared to its style, with no volume weighting. **Style+ = (Beer’s rating / Average style rating) × 100.** Good for finding lesser-known beers that rate highly within their style.
 
 **TAP / Hall Rating** — Same as ABR: **wOBAR × Adjusted Volume × Scale.** This is the metric used for Hall of Taps rankings.
@@ -159,6 +161,7 @@ Relative Beer Score = (4.2 / 3.8) × 100 ≈ 110.5 (you rated it about 10.5% abo
 - **Volume** = log₁₀(check-ins).  
 - **Scale** = 5 / (5 − Replacement Level), guarded.  
 - **BAR** = wOBAR × Volume × Scale.  
+- **OPS+** = BAR + (tapWeight × wOBAR × Scale × VolumeDecay), where VolumeDecay = Volume / (Volume + tapWeight).  
 - **AF** = (C / log₁₀(check-ins + E)) + 1, with C = 5, E = 1.  
 - **Adjusted Volume** = log₁₀(check-ins) + AF.  
 - **ABR / TAP** = wOBAR × Adjusted Volume × Scale.  
