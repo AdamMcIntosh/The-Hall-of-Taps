@@ -1,43 +1,5 @@
 [
   {
-    "BID": 5619774,
-    "BeerName": "Heady Topper",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "The Alchemist",
-    "Origin": "Stowe, VT United States",
-    "BeerAbv": 8.00,
-    "BeerIbu": 100.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4691_eb933_sm.jpeg",
-    "HallRating": 25.80,
-    "BAR": 16.65,
-    "OPSPlus": 22.55,
-    "StylePlus": "117",
-    "RatingScore": 4.52,
-    "AdjustedRating": "4.5108696580161834399122534716",
-    "BreweryRank": 1,
-    "BreweryBeerCount": 16,
-    "StyleAvgAbv": 8.42
-  },
-  {
-    "BID": 5013057,
-    "BeerName": "King JJJuliusss",
-    "BeerStyle": "IPA - Imperial / Double New England / Hazy",
-    "BreweryName": "Tree House Brewing Company",
-    "Origin": "Charlton, MA United States",
-    "BeerAbv": 8.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1616182_8d869_sm.jpeg",
-    "HallRating": 25.99,
-    "BAR": 15.80,
-    "OPSPlus": 22.00,
-    "StylePlus": "116",
-    "RatingScore": 4.67,
-    "AdjustedRating": "4.608746649572276536312849162",
-    "BreweryRank": 1,
-    "BreweryBeerCount": 201,
-    "StyleAvgAbv": 8.19
-  },
-  {
     "BID": 3819036,
     "BeerName": "Blessed",
     "BeerStyle": "Stout - Imperial / Double",
@@ -51,10 +13,10 @@
     "OPSPlus": 21.36,
     "StylePlus": "117",
     "RatingScore": 4.74,
-    "AdjustedRating": "4.479802823731262416471013184",
+    "AdjustedRating": "4.4794342956474625248329420264",
     "BreweryRank": 1,
-    "BreweryBeerCount": 31,
-    "StyleAvgAbv": 11.87
+    "BreweryBeerCount": 28,
+    "StyleAvgAbv": 11.86
   },
   {
     "BID": 3814345,
@@ -65,15 +27,15 @@
     "BeerAbv": 10.20,
     "BeerIbu": 38.00,
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4680_1d55d_sm.jpeg",
-    "HallRating": 24.27,
-    "BAR": 15.50,
-    "OPSPlus": 21.10,
+    "HallRating": 24.40,
+    "BAR": 15.58,
+    "OPSPlus": 21.21,
     "StylePlus": "115",
     "RatingScore": 4.46,
-    "AdjustedRating": "4.4471942042801267084070730655",
+    "AdjustedRating": "4.4471739731711307089424607011",
     "BreweryRank": 1,
     "BreweryBeerCount": 5,
-    "StyleAvgAbv": 10.89
+    "StyleAvgAbv": 10.86
   },
   {
     "BID": 4980636,
@@ -89,9 +51,9 @@
     "OPSPlus": 20.94,
     "StylePlus": "118",
     "RatingScore": 4.55,
-    "AdjustedRating": "4.5044677249783306990261561209",
-    "BreweryRank": 2,
-    "BreweryBeerCount": 201,
+    "AdjustedRating": "4.504398364860041809004231887",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 190,
     "StyleAvgAbv": 6.48
   },
   {
@@ -108,10 +70,10 @@
     "OPSPlus": 20.53,
     "StylePlus": "114",
     "RatingScore": 4.60,
-    "AdjustedRating": "4.5626542988942498257315856375",
-    "BreweryRank": 3,
-    "BreweryBeerCount": 201,
-    "StyleAvgAbv": 8.19
+    "AdjustedRating": "4.5625985182400940366032010716",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 190,
+    "StyleAvgAbv": 8.2
   },
   {
     "BID": 5204071,
@@ -127,10 +89,10 @@
     "OPSPlus": 20.52,
     "StylePlus": "120",
     "RatingScore": 4.73,
-    "AdjustedRating": "4.2398559791702236639918046782",
+    "AdjustedRating": "4.2391591924193273006658698993",
     "BreweryRank": 1,
-    "BreweryBeerCount": 45,
-    "StyleAvgAbv": 12.03
+    "BreweryBeerCount": 44,
+    "StyleAvgAbv": 12.02
   },
   {
     "BID": 3212636,
@@ -146,9 +108,9 @@
     "OPSPlus": 19.91,
     "StylePlus": "117",
     "RatingScore": 4.50,
-    "AdjustedRating": "4.4639517925098157656297191181",
+    "AdjustedRating": "4.4638957660415694242332720134",
     "BreweryRank": 1,
-    "BreweryBeerCount": 10,
+    "BreweryBeerCount": 9,
     "StyleAvgAbv": 8.42
   },
   {
@@ -160,12 +122,12 @@
     "BeerAbv": 9.00,
     "BeerIbu": 0.00,
     "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3224634_5979f_sm.jpeg",
-    "HallRating": 25.19,
-    "BAR": 13.58,
-    "OPSPlus": 19.84,
+    "HallRating": 25.23,
+    "BAR": 13.60,
+    "OPSPlus": 19.87,
     "StylePlus": "131",
     "RatingScore": 4.62,
-    "AdjustedRating": "3.9793244462540716612377850163",
+    "AdjustedRating": "3.9783749162401116798510935319",
     "BreweryRank": 1,
     "BreweryBeerCount": 43,
     "StyleAvgAbv": 5.39
@@ -184,10 +146,10 @@
     "OPSPlus": 19.72,
     "StylePlus": "118",
     "RatingScore": 4.78,
-    "AdjustedRating": "3.987581699186991869918699187",
+    "AdjustedRating": "3.9864757154471544715447154472",
     "BreweryRank": 1,
-    "BreweryBeerCount": 47,
-    "StyleAvgAbv": 11.87
+    "BreweryBeerCount": 45,
+    "StyleAvgAbv": 11.86
   },
   {
     "BID": 2637310,
@@ -203,10 +165,10 @@
     "OPSPlus": 19.70,
     "StylePlus": "114",
     "RatingScore": 4.59,
-    "AdjustedRating": "4.5380150218699264635660395378",
-    "BreweryRank": 4,
-    "BreweryBeerCount": 201,
-    "StyleAvgAbv": 8.19
+    "AdjustedRating": "4.5379370717218985770222519339",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 190,
+    "StyleAvgAbv": 8.2
   },
   {
     "BID": 2012665,
@@ -222,10 +184,10 @@
     "OPSPlus": 19.69,
     "StylePlus": "116",
     "RatingScore": 4.68,
-    "AdjustedRating": "4.4236983962521604657509324115",
+    "AdjustedRating": "4.4233271527335577185481670154",
     "BreweryRank": 1,
     "BreweryBeerCount": 47,
-    "StyleAvgAbv": 11.87
+    "StyleAvgAbv": 11.86
   },
   {
     "BID": 2402231,
@@ -241,29 +203,10 @@
     "OPSPlus": 19.55,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "4.5339763427552839317545199898",
+    "AdjustedRating": "4.533907060351413292589763178",
     "BreweryRank": 1,
-    "BreweryBeerCount": 80,
-    "StyleAvgAbv": 11.87
-  },
-  {
-    "BID": 1010269,
-    "BeerName": "Double Barrel Hunahpu's®",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Cigar City Brewing®",
-    "Origin": "Tampa, FL United States",
-    "BeerAbv": 11.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-489624_d0908_sm.jpeg",
-    "HallRating": 24.09,
-    "BAR": 13.60,
-    "OPSPlus": 19.52,
-    "StylePlus": "116",
-    "RatingScore": 4.69,
-    "AdjustedRating": "4.3702155664857530529172320217",
-    "BreweryRank": 1,
-    "BreweryBeerCount": 69,
-    "StyleAvgAbv": 11.87
+    "BreweryBeerCount": 77,
+    "StyleAvgAbv": 11.86
   },
   {
     "BID": 2610059,
@@ -279,10 +222,10 @@
     "OPSPlus": 19.38,
     "StylePlus": "116",
     "RatingScore": 4.65,
-    "AdjustedRating": "4.3507655462455688043828553013",
+    "AdjustedRating": "4.3503271446986786980341604898",
     "BreweryRank": 1,
-    "BreweryBeerCount": 28,
-    "StyleAvgAbv": 11.29
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.3
   },
   {
     "BID": 6205786,
@@ -298,10 +241,10 @@
     "OPSPlus": 19.26,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "4.5240002204376631198554507127",
-    "BreweryRank": 5,
-    "BreweryBeerCount": 201,
-    "StyleAvgAbv": 8.19
+    "AdjustedRating": "4.5239455984742019674764103594",
+    "BreweryRank": 4,
+    "BreweryBeerCount": 190,
+    "StyleAvgAbv": 8.2
   },
   {
     "BID": 1005596,
@@ -317,10 +260,10 @@
     "OPSPlus": 19.25,
     "StylePlus": "117",
     "RatingScore": 4.74,
-    "AdjustedRating": "4.0924890943820224719101123596",
+    "AdjustedRating": "4.0915719977528089887640449438",
     "BreweryRank": 1,
     "BreweryBeerCount": 35,
-    "StyleAvgAbv": 11.87
+    "StyleAvgAbv": 11.86
   },
   {
     "BID": 2612175,
@@ -336,10 +279,10 @@
     "OPSPlus": 18.53,
     "StylePlus": "116",
     "RatingScore": 4.66,
-    "AdjustedRating": "4.1579850035906642728904847397",
+    "AdjustedRating": "4.1572523141831238779174147217",
     "BreweryRank": 2,
-    "BreweryBeerCount": 28,
-    "StyleAvgAbv": 11.29
+    "BreweryBeerCount": 27,
+    "StyleAvgAbv": 11.3
   },
   {
     "BID": 901063,
@@ -355,9 +298,9 @@
     "OPSPlus": 18.45,
     "StylePlus": "116",
     "RatingScore": 4.49,
-    "AdjustedRating": "4.4106970455165721563513964278",
+    "AdjustedRating": "4.4105732901719380174060708979",
     "BreweryRank": 1,
-    "BreweryBeerCount": 95,
+    "BreweryBeerCount": 93,
     "StyleAvgAbv": 8.42
   },
   {
@@ -374,9 +317,9 @@
     "OPSPlus": 18.38,
     "StylePlus": "114",
     "RatingScore": 4.42,
-    "AdjustedRating": "4.3986135599683491026633893397",
-    "BreweryRank": 6,
-    "BreweryBeerCount": 201,
+    "AdjustedRating": "4.3985792062864069497289471026",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 190,
     "StyleAvgAbv": 6.48
   },
   {
@@ -393,9 +336,9 @@
     "OPSPlus": 18.15,
     "StylePlus": "116",
     "RatingScore": 4.48,
-    "AdjustedRating": "4.3985831969365426695842450766",
+    "AdjustedRating": "4.3984556233197874335729915599",
     "BreweryRank": 2,
-    "BreweryBeerCount": 95,
+    "BreweryBeerCount": 93,
     "StyleAvgAbv": 8.42
   },
   {
@@ -412,10 +355,48 @@
     "OPSPlus": 18.04,
     "StylePlus": "128",
     "RatingScore": 4.71,
-    "AdjustedRating": "3.3828115836050302748020493712",
+    "AdjustedRating": "3.3809107545412203074056823475",
     "BreweryRank": 3,
-    "BreweryBeerCount": 95,
+    "BreweryBeerCount": 93,
     "StyleAvgAbv": 6.22
+  },
+  {
+    "BID": 24328,
+    "BeerName": "Lou Pepe Kriek",
+    "BeerStyle": "Lambic - Kriek",
+    "BreweryName": "Brasserie Cantillon",
+    "Origin": "Anderlecht, Bruxelles Belgium",
+    "BeerAbv": 5.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-LouPepeKriek_24328.jpeg",
+    "HallRating": 22.38,
+    "BAR": 12.45,
+    "OPSPlus": 17.97,
+    "StylePlus": "114",
+    "RatingScore": 4.52,
+    "AdjustedRating": "4.1317157864674868189806678383",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 35,
+    "StyleAvgAbv": 6.05
+  },
+  {
+    "BID": 3008094,
+    "BeerName": "Armand'4 Lente (Spring)",
+    "BeerStyle": "Lambic - Gueuze",
+    "BreweryName": "Brouwerij 3 Fonteinen",
+    "Origin": "Beersel, Vlaams Gewest Belgium",
+    "BeerAbv": 6.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Armand4LenteSpring_66323.jpeg",
+    "HallRating": 22.84,
+    "BAR": 12.24,
+    "OPSPlus": 17.92,
+    "StylePlus": "114",
+    "RatingScore": 4.68,
+    "AdjustedRating": "3.970519333668594417902941916",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 52,
+    "StyleAvgAbv": 6.48
   },
   {
     "BID": 42945,
@@ -431,29 +412,29 @@
     "OPSPlus": 17.63,
     "StylePlus": "125",
     "RatingScore": 4.61,
-    "AdjustedRating": "3.7156493218128464297358982719",
+    "AdjustedRating": "3.7143186794913596348223019237",
     "BreweryRank": 4,
-    "BreweryBeerCount": 95,
+    "BreweryBeerCount": 93,
     "StyleAvgAbv": 6.22
   },
   {
-    "BID": 3019096,
-    "BeerName": "Utopias",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 28.00,
-    "BeerIbu": 45.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-bostonUtopias.jpg",
-    "HallRating": 21.14,
-    "BAR": 12.50,
-    "OPSPlus": 17.61,
-    "StylePlus": "117",
-    "RatingScore": 4.44,
-    "AdjustedRating": "4.3288777475601821730644111906",
+    "BID": 3607397,
+    "BeerName": "Wisconsin Belgian Red",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "New Glarus Brewing Company",
+    "Origin": "New Glarus, WI United States",
+    "BeerAbv": 4.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2931_26736_sm.jpeg",
+    "HallRating": 20.67,
+    "BAR": 12.68,
+    "OPSPlus": 17.58,
+    "StylePlus": "120",
+    "RatingScore": 4.21,
+    "AdjustedRating": "4.1705705397003363571501376007",
     "BreweryRank": 1,
-    "BreweryBeerCount": 82,
-    "StyleAvgAbv": 10.14
+    "BreweryBeerCount": 37,
+    "StyleAvgAbv": 5.39
   },
   {
     "BID": 1809238,
@@ -469,9 +450,28 @@
     "OPSPlus": 17.58,
     "StylePlus": "115",
     "RatingScore": 4.61,
-    "AdjustedRating": "4.1678701595744680851063829787",
+    "AdjustedRating": "4.1672123452611218568665377176",
     "BreweryRank": 1,
-    "BreweryBeerCount": 27,
-    "StyleAvgAbv": 11.29
+    "BreweryBeerCount": 26,
+    "StyleAvgAbv": 11.3
+  },
+  {
+    "BID": 3019096,
+    "BeerName": "Utopias",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 28.00,
+    "BeerIbu": 45.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-bostonUtopias.jpg",
+    "HallRating": 21.02,
+    "BAR": 12.43,
+    "OPSPlus": 17.51,
+    "StylePlus": "117",
+    "RatingScore": 4.44,
+    "AdjustedRating": "4.3287007325959661678594664932",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 80,
+    "StyleAvgAbv": 10.21
   }
 ]
