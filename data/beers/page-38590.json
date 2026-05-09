@@ -361,25 +361,6 @@
     "StyleAvgAbv": 12.04
   },
   {
-    "BID": 633023,
-    "BeerName": "Rio Claro",
-    "BeerStyle": "Pilsner - Other",
-    "BreweryName": "INAB - Indústria Nacional de Bebidas",
-    "Origin": "Toledo, Paraná Brazil",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-633023_57786_sm.jpeg",
-    "HallRating": -26.80,
-    "BAR": -12.82,
-    "OPSPlus": -19.51,
-    "StylePlus": "46",
-    "RatingScore": 1.58,
-    "AdjustedRating": "1.8530720221266133988936693301",
-    "BreweryRank": 10,
-    "BreweryBeerCount": 11,
-    "StyleAvgAbv": 5.01
-  },
-  {
     "BID": 4435161,
     "BeerName": "Brownie",
     "BeerStyle": "Stout - Imperial / Double Pastry",
@@ -397,6 +378,25 @@
     "BreweryRank": 686,
     "BreweryBeerCount": 686,
     "StyleAvgAbv": 11.75
+  },
+  {
+    "BID": 633023,
+    "BeerName": "Rio Claro",
+    "BeerStyle": "Pilsner - Other",
+    "BreweryName": "INAB - Indústria Nacional de Bebidas",
+    "Origin": "Toledo, Paraná Brazil",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-633023_57786_sm.jpeg",
+    "HallRating": -26.80,
+    "BAR": -12.82,
+    "OPSPlus": -19.51,
+    "StylePlus": "46",
+    "RatingScore": 1.58,
+    "AdjustedRating": "1.8530720221266133988936693301",
+    "BreweryRank": 10,
+    "BreweryBeerCount": 11,
+    "StyleAvgAbv": 5.01
   },
   {
     "BID": 6251018,

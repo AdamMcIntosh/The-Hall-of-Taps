@@ -190,6 +190,25 @@
     "StyleAvgAbv": 11.13
   },
   {
+    "BID": 6430960,
+    "BeerName": "Put A Bow On It",
+    "BeerStyle": "Sour - Smoothie / Pastry",
+    "BreweryName": "Gamma Brewing Company",
+    "Origin": "Herlev Municipality, Region Hovedstaden Denmark",
+    "BeerAbv": 6.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6430960_50aaa_sm.jpeg",
+    "HallRating": -21.69,
+    "BAR": -10.33,
+    "OPSPlus": -15.74,
+    "StylePlus": "77",
+    "RatingScore": 3.12,
+    "AdjustedRating": "2.3726176125",
+    "BreweryRank": 126,
+    "BreweryBeerCount": 126,
+    "StyleAvgAbv": 5.91
+  },
+  {
     "BID": 1017634,
     "BeerName": "1836 Classic Pale Ale",
     "BeerStyle": "Pale Ale - American",
@@ -245,25 +264,6 @@
     "BreweryRank": 9,
     "BreweryBeerCount": 10,
     "StyleAvgAbv": 6.77
-  },
-  {
-    "BID": 6430960,
-    "BeerName": "Put A Bow On It",
-    "BeerStyle": "Sour - Smoothie / Pastry",
-    "BreweryName": "Gamma Brewing Company",
-    "Origin": "Herlev Municipality, Region Hovedstaden Denmark",
-    "BeerAbv": 6.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6430960_50aaa_sm.jpeg",
-    "HallRating": -21.69,
-    "BAR": -10.33,
-    "OPSPlus": -15.74,
-    "StylePlus": "77",
-    "RatingScore": 3.12,
-    "AdjustedRating": "2.3726176125",
-    "BreweryRank": 126,
-    "BreweryBeerCount": 126,
-    "StyleAvgAbv": 5.91
   },
   {
     "BID": 1685118,
@@ -418,25 +418,6 @@
     "StyleAvgAbv": 11.75
   },
   {
-    "BID": 2618666,
-    "BeerName": "Coffee & Chocolate Stout",
-    "BeerStyle": "Stout - Coffee",
-    "BreweryName": "Insider Craft Hub",
-    "Origin": "Ukraine",
-    "BeerAbv": 5.60,
-    "BeerIbu": 48.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2618666_694c0_sm.jpeg",
-    "HallRating": -21.76,
-    "BAR": -10.42,
-    "OPSPlus": -15.85,
-    "StylePlus": "72",
-    "RatingScore": 2.77,
-    "AdjustedRating": "2.2675202564102564102564102564",
-    "BreweryRank": 5,
-    "BreweryBeerCount": 5,
-    "StyleAvgAbv": 6.71
-  },
-  {
     "BID": 417282,
     "BeerName": "NS2",
     "BeerStyle": "Lager - American",
@@ -454,6 +435,25 @@
     "BreweryRank": 17,
     "BreweryBeerCount": 24,
     "StyleAvgAbv": 4.9
+  },
+  {
+    "BID": 2618666,
+    "BeerName": "Coffee & Chocolate Stout",
+    "BeerStyle": "Stout - Coffee",
+    "BreweryName": "Insider Craft Hub",
+    "Origin": "Ukraine",
+    "BeerAbv": 5.60,
+    "BeerIbu": 48.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2618666_694c0_sm.jpeg",
+    "HallRating": -21.76,
+    "BAR": -10.42,
+    "OPSPlus": -15.85,
+    "StylePlus": "72",
+    "RatingScore": 2.77,
+    "AdjustedRating": "2.2675202564102564102564102564",
+    "BreweryRank": 5,
+    "BreweryBeerCount": 5,
+    "StyleAvgAbv": 6.71
   },
   {
     "BID": 6419103,

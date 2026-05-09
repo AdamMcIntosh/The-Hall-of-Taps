@@ -152,25 +152,6 @@
     "StyleAvgAbv": 3.62
   },
   {
-    "BID": 13193,
-    "BeerName": "Storm",
-    "BeerStyle": "IPA - Imperial / Double",
-    "BreweryName": "BrewDog",
-    "Origin": "Ellon, Aberdeenshire Scotland",
-    "BeerAbv": 8.00,
-    "BeerIbu": 60.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13193_048bc_sm.jpeg",
-    "HallRating": -25.70,
-    "BAR": -12.14,
-    "OPSPlus": -18.55,
-    "StylePlus": "68",
-    "RatingScore": 2.62,
-    "AdjustedRating": "2.1923328046421663442940038685",
-    "BreweryRank": 607,
-    "BreweryBeerCount": 607,
-    "StyleAvgAbv": 8.53
-  },
-  {
     "BID": 188089,
     "BeerName": "Bud Light Golden Wheat",
     "BeerStyle": "Wheat Beer - American Pale Wheat",
@@ -188,6 +169,25 @@
     "BreweryRank": 330,
     "BreweryBeerCount": 336,
     "StyleAvgAbv": 5.24
+  },
+  {
+    "BID": 13193,
+    "BeerName": "Storm",
+    "BeerStyle": "IPA - Imperial / Double",
+    "BreweryName": "BrewDog",
+    "Origin": "Ellon, Aberdeenshire Scotland",
+    "BeerAbv": 8.00,
+    "BeerIbu": 60.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-13193_048bc_sm.jpeg",
+    "HallRating": -25.70,
+    "BAR": -12.14,
+    "OPSPlus": -18.55,
+    "StylePlus": "68",
+    "RatingScore": 2.62,
+    "AdjustedRating": "2.1923328046421663442940038685",
+    "BreweryRank": 607,
+    "BreweryBeerCount": 607,
+    "StyleAvgAbv": 8.53
   },
   {
     "BID": 360493,
@@ -399,25 +399,6 @@
     "StyleAvgAbv": 5.21
   },
   {
-    "BID": 151049,
-    "BeerName": "Itaipava Light",
-    "BeerStyle": "Lager - American Light",
-    "BreweryName": "Cervejaria Petrópolis",
-    "Origin": "Petrópolis, Rio de Janeiro Brazil",
-    "BeerAbv": 3.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_151049_sm_04383d4525abb0871632a997b5a79f.jpeg",
-    "HallRating": -25.21,
-    "BAR": -12.44,
-    "OPSPlus": -18.74,
-    "StylePlus": "52",
-    "RatingScore": 1.76,
-    "AdjustedRating": "1.8927315712033631108775617446",
-    "BreweryRank": 32,
-    "BreweryBeerCount": 35,
-    "StyleAvgAbv": 4.44
-  },
-  {
     "BID": 1753532,
     "BeerName": "Chapeau Mirabelle",
     "BeerStyle": "Lambic - Fruit",
@@ -435,6 +416,25 @@
     "BreweryRank": 37,
     "BreweryBeerCount": 44,
     "StyleAvgAbv": 6.25
+  },
+  {
+    "BID": 151049,
+    "BeerName": "Itaipava Light",
+    "BeerStyle": "Lager - American Light",
+    "BreweryName": "Cervejaria Petrópolis",
+    "Origin": "Petrópolis, Rio de Janeiro Brazil",
+    "BeerAbv": 3.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-_151049_sm_04383d4525abb0871632a997b5a79f.jpeg",
+    "HallRating": -25.21,
+    "BAR": -12.44,
+    "OPSPlus": -18.74,
+    "StylePlus": "52",
+    "RatingScore": 1.76,
+    "AdjustedRating": "1.8927315712033631108775617446",
+    "BreweryRank": 32,
+    "BreweryBeerCount": 35,
+    "StyleAvgAbv": 4.44
   },
   {
     "BID": 6302487,
