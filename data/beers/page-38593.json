@@ -342,25 +342,6 @@
     "StyleAvgAbv": 8.18
   },
   {
-    "BID": 4016381,
-    "BeerName": "Santa's Reinbeer",
-    "BeerStyle": "Scottish Ale",
-    "BreweryName": "Fjordfolk Mikrobryggeri",
-    "Origin": "Sandefjord, Vestfold Norway",
-    "BeerAbv": 4.70,
-    "BeerIbu": 25.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4016381_59aa6_sm.jpeg",
-    "HallRating": -30.13,
-    "BAR": -15.81,
-    "OPSPlus": -23.32,
-    "StylePlus": "55",
-    "RatingScore": 1.99,
-    "AdjustedRating": "1.9924489195254889387624238538",
-    "BreweryRank": 52,
-    "BreweryBeerCount": 52,
-    "StyleAvgAbv": 6.11
-  },
-  {
     "BID": 4950322,
     "BeerName": "Tiki Fusion \"Zombie\"",
     "BeerStyle": "IPA - Triple New England / Hazy",
@@ -378,6 +359,25 @@
     "BreweryRank": 644,
     "BreweryBeerCount": 644,
     "StyleAvgAbv": 9.92
+  },
+  {
+    "BID": 4016381,
+    "BeerName": "Santa's Reinbeer",
+    "BeerStyle": "Scottish Ale",
+    "BreweryName": "Fjordfolk Mikrobryggeri",
+    "Origin": "Sandefjord, Vestfold Norway",
+    "BeerAbv": 4.70,
+    "BeerIbu": 25.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4016381_59aa6_sm.jpeg",
+    "HallRating": -30.13,
+    "BAR": -15.81,
+    "OPSPlus": -23.32,
+    "StylePlus": "55",
+    "RatingScore": 1.99,
+    "AdjustedRating": "1.9924489195254889387624238538",
+    "BreweryRank": 52,
+    "BreweryBeerCount": 52,
+    "StyleAvgAbv": 6.11
   },
   {
     "BID": 3656958,

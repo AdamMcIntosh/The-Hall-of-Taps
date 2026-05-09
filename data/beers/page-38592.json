@@ -209,25 +209,6 @@
     "StyleAvgAbv": 11.13
   },
   {
-    "BID": 694744,
-    "BeerName": "Big Flats 1901",
-    "BeerStyle": "Lager - American",
-    "BreweryName": "Winery Exchange, World Brews",
-    "Origin": "Novato, CA United States",
-    "BeerAbv": 4.50,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21919_c43d0_sm.jpeg",
-    "HallRating": -26.90,
-    "BAR": -14.86,
-    "OPSPlus": -21.51,
-    "StylePlus": "60",
-    "RatingScore": 2.08,
-    "AdjustedRating": "2.065574518397383483237939493",
-    "BreweryRank": 43,
-    "BreweryBeerCount": 43,
-    "StyleAvgAbv": 4.9
-  },
-  {
     "BID": 5840481,
     "BeerName": "Rainbow Sombrero",
     "BeerStyle": "Lager - Mexican",
@@ -245,6 +226,25 @@
     "BreweryRank": 116,
     "BreweryBeerCount": 116,
     "StyleAvgAbv": 4.95
+  },
+  {
+    "BID": 694744,
+    "BeerName": "Big Flats 1901",
+    "BeerStyle": "Lager - American",
+    "BreweryName": "Winery Exchange, World Brews",
+    "Origin": "Novato, CA United States",
+    "BeerAbv": 4.50,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-21919_c43d0_sm.jpeg",
+    "HallRating": -26.90,
+    "BAR": -14.86,
+    "OPSPlus": -21.51,
+    "StylePlus": "60",
+    "RatingScore": 2.08,
+    "AdjustedRating": "2.065574518397383483237939493",
+    "BreweryRank": 43,
+    "BreweryBeerCount": 43,
+    "StyleAvgAbv": 4.9
   },
   {
     "BID": 1507037,

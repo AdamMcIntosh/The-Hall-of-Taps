@@ -380,25 +380,6 @@
     "StyleAvgAbv": 8.55
   },
   {
-    "BID": 1366995,
-    "BeerName": "Coffee Stout",
-    "BeerStyle": "Stout - Imperial / Double Coffee",
-    "BreweryName": "Brew Rebellion",
-    "Origin": "San Bernardino, CA United States",
-    "BeerAbv": 10.10,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-brewrebellion_43207.jpeg",
-    "HallRating": -32.89,
-    "BAR": -10.70,
-    "OPSPlus": -17.92,
-    "StylePlus": "63",
-    "RatingScore": 2.62,
-    "AdjustedRating": "2.0131273376029277218664226898",
-    "BreweryRank": 133,
-    "BreweryBeerCount": 133,
-    "StyleAvgAbv": 11.17
-  },
-  {
     "BID": 1201703,
     "BeerName": "Berliner Kindl Weisse Waldmeister",
     "BeerStyle": "Sour - Berliner Weisse",
@@ -416,6 +397,25 @@
     "BreweryRank": 38,
     "BreweryBeerCount": 39,
     "StyleAvgAbv": 4.35
+  },
+  {
+    "BID": 1366995,
+    "BeerName": "Coffee Stout",
+    "BeerStyle": "Stout - Imperial / Double Coffee",
+    "BreweryName": "Brew Rebellion",
+    "Origin": "San Bernardino, CA United States",
+    "BeerAbv": 10.10,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/brewery_logos/brewery-brewrebellion_43207.jpeg",
+    "HallRating": -32.89,
+    "BAR": -10.70,
+    "OPSPlus": -17.92,
+    "StylePlus": "63",
+    "RatingScore": 2.62,
+    "AdjustedRating": "2.0131273376029277218664226898",
+    "BreweryRank": 133,
+    "BreweryBeerCount": 133,
+    "StyleAvgAbv": 11.17
   },
   {
     "BID": 5415177,
@@ -437,25 +437,6 @@
     "StyleAvgAbv": 5.91
   },
   {
-    "BID": 278279,
-    "BeerName": "Original Bitter",
-    "BeerStyle": "Bitter - Session / Ordinary",
-    "BreweryName": "Asda",
-    "Origin": "Leeds, West Yorkshire England",
-    "BeerAbv": 2.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-278279_57068_sm.jpeg",
-    "HallRating": -25.56,
-    "BAR": -11.61,
-    "OPSPlus": -17.95,
-    "StylePlus": "50",
-    "RatingScore": 1.68,
-    "AdjustedRating": "1.9251293033381712626995645864",
-    "BreweryRank": 18,
-    "BreweryBeerCount": 18,
-    "StyleAvgAbv": 4.3
-  },
-  {
     "BID": 3438487,
     "BeerName": "Northstar Seltzer - Lemon/Lime (Gluten Free)",
     "BeerStyle": "Hard Seltzer",
@@ -473,5 +454,24 @@
     "BreweryRank": 48,
     "BreweryBeerCount": 48,
     "StyleAvgAbv": 5.32
+  },
+  {
+    "BID": 278279,
+    "BeerName": "Original Bitter",
+    "BeerStyle": "Bitter - Session / Ordinary",
+    "BreweryName": "Asda",
+    "Origin": "Leeds, West Yorkshire England",
+    "BeerAbv": 2.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-278279_57068_sm.jpeg",
+    "HallRating": -25.56,
+    "BAR": -11.61,
+    "OPSPlus": -17.95,
+    "StylePlus": "50",
+    "RatingScore": 1.68,
+    "AdjustedRating": "1.9251293033381712626995645864",
+    "BreweryRank": 18,
+    "BreweryBeerCount": 18,
+    "StyleAvgAbv": 4.3
   }
 ]
