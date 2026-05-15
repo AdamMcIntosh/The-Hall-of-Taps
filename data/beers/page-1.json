@@ -1,41 +1,22 @@
 [
   {
-    "BID": 630158,
-    "BeerName": "Utopias 10th Anniversary (2012)",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 29.00,
+    "BID": 2903919,
+    "BeerName": "A Deal With The Devil - Double Oaked (2017)",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Anchorage Brewing Company",
+    "Origin": "Anchorage, AK United States",
+    "BeerAbv": 17.00,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-Utopias2012_244602.jpeg",
-    "HallRating": 25.32,
-    "BAR": 14.13,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-2361815_53640_sm.jpeg",
+    "HallRating": 25.95,
+    "BAR": 13.93,
     "OPSPlus": 20.38,
     "StylePlus": "122",
-    "RatingScore": 4.66,
-    "AdjustedRating": "4.2662327381282976950846986948",
-    "BreweryRank": 1,
-    "BreweryBeerCount": 621,
-    "StyleAvgAbv": 9.69
-  },
-  {
-    "BID": 1218379,
-    "BeerName": "Utopias (2015)",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 28.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-bostonUtopias.jpg",
-    "HallRating": 24.98,
-    "BAR": 14.12,
-    "OPSPlus": 20.26,
-    "StylePlus": "121",
-    "RatingScore": 4.63,
-    "AdjustedRating": "4.3186908160319751304540912624",
+    "RatingScore": 4.75,
+    "AdjustedRating": "4.0226894319585082736478142751",
     "BreweryRank": 2,
-    "BreweryBeerCount": 621,
-    "StyleAvgAbv": 9.69
+    "BreweryBeerCount": 210,
+    "StyleAvgAbv": 11.04
   },
   {
     "BID": 6596295,
@@ -51,10 +32,29 @@
     "OPSPlus": 20.26,
     "StylePlus": "116",
     "RatingScore": 4.47,
-    "AdjustedRating": "4.4540198430844285870317107802",
+    "AdjustedRating": "4.4539402404703826409873666582",
     "BreweryRank": 4,
-    "BreweryBeerCount": 764,
+    "BreweryBeerCount": 778,
     "StyleAvgAbv": 6.55
+  },
+  {
+    "BID": 1218379,
+    "BeerName": "Utopias (2015)",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 28.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-bostonUtopias.jpg",
+    "HallRating": 24.98,
+    "BAR": 14.12,
+    "OPSPlus": 20.26,
+    "StylePlus": "122",
+    "RatingScore": 4.63,
+    "AdjustedRating": "4.3172343188631064727434217831",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 644,
+    "StyleAvgAbv": 9.67
   },
   {
     "BID": 1220676,
@@ -70,7 +70,7 @@
     "OPSPlus": 20.25,
     "StylePlus": "123",
     "RatingScore": 4.72,
-    "AdjustedRating": "4.0586974184720638540478905359",
+    "AdjustedRating": "4.0557057035347776510832383124",
     "BreweryRank": 1,
     "BreweryBeerCount": 385,
     "StyleAvgAbv": 5.99
@@ -89,10 +89,10 @@
     "OPSPlus": 20.24,
     "StylePlus": "114",
     "RatingScore": 4.46,
-    "AdjustedRating": "4.4469974578010440058892639907",
+    "AdjustedRating": "4.4469324247111137550006692345",
     "BreweryRank": 1,
-    "BreweryBeerCount": 80,
-    "StyleAvgAbv": 10.77
+    "BreweryBeerCount": 84,
+    "StyleAvgAbv": 10.76
   },
   {
     "BID": 2402231,
@@ -108,10 +108,10 @@
     "OPSPlus": 20.17,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "4.5333025749936338171632289279",
+    "AdjustedRating": "4.5330798660555131143366437484",
     "BreweryRank": 9,
-    "BreweryBeerCount": 767,
-    "StyleAvgAbv": 11.13
+    "BreweryBeerCount": 797,
+    "StyleAvgAbv": 11.11
   },
   {
     "BID": 939959,
@@ -127,10 +127,10 @@
     "OPSPlus": 20.16,
     "StylePlus": "117",
     "RatingScore": 4.74,
-    "AdjustedRating": "4.2230805485754733675455671563",
+    "AdjustedRating": "4.220759070960891877543797558",
     "BreweryRank": 5,
-    "BreweryBeerCount": 764,
-    "StyleAvgAbv": 11.13
+    "BreweryBeerCount": 778,
+    "StyleAvgAbv": 11.11
   },
   {
     "BID": 5259442,
@@ -144,12 +144,12 @@
     "HallRating": 23.57,
     "BAR": 14.57,
     "OPSPlus": 20.13,
-    "StylePlus": "116",
+    "StylePlus": "117",
     "RatingScore": 4.50,
-    "AdjustedRating": "4.4634801361867704280155642023",
+    "AdjustedRating": "4.4633003988326848249027237354",
     "BreweryRank": 1,
     "BreweryBeerCount": 65,
-    "StyleAvgAbv": 8.53
+    "StyleAvgAbv": 8.54
   },
   {
     "BID": 4265057,
@@ -165,10 +165,10 @@
     "OPSPlus": 20.13,
     "StylePlus": "123",
     "RatingScore": 4.70,
-    "AdjustedRating": "4.0866371574685702109524824206",
+    "AdjustedRating": "4.0838417877690176859151928404",
     "BreweryRank": 6,
-    "BreweryBeerCount": 258,
-    "StyleAvgAbv": 9.69
+    "BreweryBeerCount": 265,
+    "StyleAvgAbv": 9.67
   },
   {
     "BID": 2012665,
@@ -184,10 +184,10 @@
     "OPSPlus": 20.09,
     "StylePlus": "115",
     "RatingScore": 4.68,
-    "AdjustedRating": "4.4200880724097152733557718548",
+    "AdjustedRating": "4.4188947066314927681251705631",
     "BreweryRank": 1,
-    "BreweryBeerCount": 460,
-    "StyleAvgAbv": 11.13
+    "BreweryBeerCount": 477,
+    "StyleAvgAbv": 11.11
   },
   {
     "BID": 5232170,
@@ -203,9 +203,9 @@
     "OPSPlus": 20.08,
     "StylePlus": "118",
     "RatingScore": 4.39,
-    "AdjustedRating": "4.3756533777332402549147656901",
+    "AdjustedRating": "4.375579522991870651023487288",
     "BreweryRank": 2,
-    "BreweryBeerCount": 95,
+    "BreweryBeerCount": 98,
     "StyleAvgAbv": 6.54
   },
   {
@@ -222,9 +222,9 @@
     "OPSPlus": 20.06,
     "StylePlus": "114",
     "RatingScore": 4.59,
-    "AdjustedRating": "4.5372740811884212938211257924",
+    "AdjustedRating": "4.5370235910410142824409990071",
     "BreweryRank": 6,
-    "BreweryBeerCount": 764,
+    "BreweryBeerCount": 778,
     "StyleAvgAbv": 8.18
   },
   {
@@ -241,10 +241,10 @@
     "OPSPlus": 19.97,
     "StylePlus": "118",
     "RatingScore": 4.78,
-    "AdjustedRating": "3.9768260650406504065040650407",
+    "AdjustedRating": "3.9732708699186991869918699187",
     "BreweryRank": 7,
-    "BreweryBeerCount": 258,
-    "StyleAvgAbv": 11.13
+    "BreweryBeerCount": 265,
+    "StyleAvgAbv": 11.11
   },
   {
     "BID": 2437541,
@@ -260,10 +260,10 @@
     "OPSPlus": 19.93,
     "StylePlus": "116",
     "RatingScore": 4.70,
-    "AdjustedRating": "4.3362759893858984078847611827",
+    "AdjustedRating": "4.3346183358605003790750568613",
     "BreweryRank": 10,
-    "BreweryBeerCount": 767,
-    "StyleAvgAbv": 11.13
+    "BreweryBeerCount": 797,
+    "StyleAvgAbv": 11.11
   },
   {
     "BID": 1473566,
@@ -279,10 +279,10 @@
     "OPSPlus": 19.92,
     "StylePlus": "117",
     "RatingScore": 4.73,
-    "AdjustedRating": "4.216691037037037037037037037",
+    "AdjustedRating": "4.2143773386243386243386243386",
     "BreweryRank": 2,
-    "BreweryBeerCount": 203,
-    "StyleAvgAbv": 11.13
+    "BreweryBeerCount": 209,
+    "StyleAvgAbv": 11.11
   },
   {
     "BID": 1777047,
@@ -298,10 +298,10 @@
     "OPSPlus": 19.91,
     "StylePlus": "116",
     "RatingScore": 4.69,
-    "AdjustedRating": "4.3662770267524551303758889265",
+    "AdjustedRating": "4.3647961970877074161869285472",
     "BreweryRank": 1,
-    "BreweryBeerCount": 1229,
-    "StyleAvgAbv": 11.13
+    "BreweryBeerCount": 1307,
+    "StyleAvgAbv": 11.11
   },
   {
     "BID": 2610059,
@@ -317,10 +317,10 @@
     "OPSPlus": 19.89,
     "StylePlus": "116",
     "RatingScore": 4.65,
-    "AdjustedRating": "4.3465021140831453432162423461",
+    "AdjustedRating": "4.3450928681920721882049629391",
     "BreweryRank": 2,
-    "BreweryBeerCount": 119,
-    "StyleAvgAbv": 11.52
+    "BreweryBeerCount": 126,
+    "StyleAvgAbv": 11.55
   },
   {
     "BID": 1022419,
@@ -336,29 +336,10 @@
     "OPSPlus": 19.73,
     "StylePlus": "114",
     "RatingScore": 4.64,
-    "AdjustedRating": "4.4637452677061807251549877888",
+    "AdjustedRating": "4.462923759158369340597407477",
     "BreweryRank": 11,
-    "BreweryBeerCount": 767,
-    "StyleAvgAbv": 11.13
-  },
-  {
-    "BID": 4610328,
-    "BeerName": "Kentucky Brunch Brand Stout (2021)",
-    "BeerStyle": "Stout - Imperial / Double",
-    "BreweryName": "Toppling Goliath Brewing Co.",
-    "Origin": "Decorah, IA United States",
-    "BeerAbv": 12.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4610328_86894_sm.jpeg",
-    "HallRating": 25.84,
-    "BAR": 13.20,
-    "OPSPlus": 19.66,
-    "StylePlus": "119",
-    "RatingScore": 4.83,
-    "AdjustedRating": "3.5843510239471511147811725846",
-    "BreweryRank": 3,
-    "BreweryBeerCount": 203,
-    "StyleAvgAbv": 11.13
+    "BreweryBeerCount": 797,
+    "StyleAvgAbv": 11.11
   },
   {
     "BID": 3224634,
@@ -374,10 +355,10 @@
     "OPSPlus": 19.66,
     "StylePlus": "131",
     "RatingScore": 4.62,
-    "AdjustedRating": "3.9700903164262447650069799907",
+    "AdjustedRating": "3.9670380432759422987436016752",
     "BreweryRank": 1,
-    "BreweryBeerCount": 674,
-    "StyleAvgAbv": 5.59
+    "BreweryBeerCount": 729,
+    "StyleAvgAbv": 5.58
   },
   {
     "BID": 6205786,
@@ -393,10 +374,29 @@
     "OPSPlus": 19.66,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "4.5234690246938365790002007629",
+    "AdjustedRating": "4.5232934418791407347922103995",
     "BreweryRank": 7,
-    "BreweryBeerCount": 764,
+    "BreweryBeerCount": 778,
     "StyleAvgAbv": 8.18
+  },
+  {
+    "BID": 4610328,
+    "BeerName": "Kentucky Brunch Brand Stout (2021)",
+    "BeerStyle": "Stout - Imperial / Double",
+    "BreweryName": "Toppling Goliath Brewing Co.",
+    "Origin": "Decorah, IA United States",
+    "BeerAbv": 12.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-4610328_86894_sm.jpeg",
+    "HallRating": 25.84,
+    "BAR": 13.20,
+    "OPSPlus": 19.66,
+    "StylePlus": "119",
+    "RatingScore": 4.83,
+    "AdjustedRating": "3.5789345623451692815854665566",
+    "BreweryRank": 3,
+    "BreweryBeerCount": 209,
+    "StyleAvgAbv": 11.11
   },
   {
     "BID": 1412784,
@@ -412,10 +412,10 @@
     "OPSPlus": 19.64,
     "StylePlus": "128",
     "RatingScore": 4.72,
-    "AdjustedRating": "3.7673679960578186596583442838",
+    "AdjustedRating": "3.7630583147174770039421813403",
     "BreweryRank": 8,
-    "BreweryBeerCount": 258,
-    "StyleAvgAbv": 6.23
+    "BreweryBeerCount": 265,
+    "StyleAvgAbv": 6.22
   },
   {
     "BID": 1005596,
@@ -431,10 +431,10 @@
     "OPSPlus": 19.56,
     "StylePlus": "117",
     "RatingScore": 4.74,
-    "AdjustedRating": "4.0835703775280898876404494382",
+    "AdjustedRating": "4.0806223617977528089887640449",
     "BreweryRank": 4,
-    "BreweryBeerCount": 203,
-    "StyleAvgAbv": 11.13
+    "BreweryBeerCount": 209,
+    "StyleAvgAbv": 11.11
   },
   {
     "BID": 3455856,
@@ -450,10 +450,10 @@
     "OPSPlus": 19.48,
     "StylePlus": "120",
     "RatingScore": 4.86,
-    "AdjustedRating": "3.3506377128712871287128712871",
+    "AdjustedRating": "3.3441433217821782178217821782",
     "BreweryRank": 9,
-    "BreweryBeerCount": 258,
-    "StyleAvgAbv": 11.13
+    "BreweryBeerCount": 265,
+    "StyleAvgAbv": 11.11
   },
   {
     "BID": 806005,
@@ -469,9 +469,9 @@
     "OPSPlus": 19.46,
     "StylePlus": "120",
     "RatingScore": 4.86,
-    "AdjustedRating": "3.3461411022840119165839126117",
+    "AdjustedRating": "3.3396273634558093346573982125",
     "BreweryRank": 5,
-    "BreweryBeerCount": 203,
-    "StyleAvgAbv": 11.13
+    "BreweryBeerCount": 209,
+    "StyleAvgAbv": 11.11
   }
 ]
