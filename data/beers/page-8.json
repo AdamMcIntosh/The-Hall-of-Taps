@@ -1,21 +1,21 @@
 [
   {
-    "BID": 2503502,
-    "BeerName": "Blue Berry White",
+    "BID": 1809221,
+    "BeerName": "Berry White",
     "BeerStyle": "Mead - Melomel",
     "BreweryName": "Superstition Meadery",
     "Origin": "Prescott, AZ United States",
     "BeerAbv": 13.50,
     "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-825239_2f2eb_sm.jpeg",
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-647045_b5f29_sm.jpeg",
     "HallRating": 21.61,
     "BAR": 11.98,
     "OPSPlus": 17.32,
     "StylePlus": "114",
     "RatingScore": 4.57,
-    "AdjustedRating": "4.1447983799227799227799227799",
+    "AdjustedRating": "4.1447173489881044338019465472",
     "BreweryRank": 3,
-    "BreweryBeerCount": 158,
+    "BreweryBeerCount": 157,
     "StyleAvgAbv": 11.55
   },
   {
@@ -32,9 +32,9 @@
     "OPSPlus": 17.30,
     "StylePlus": "110",
     "RatingScore": 4.57,
-    "AdjustedRating": "4.4802964782353707806594552326",
+    "AdjustedRating": "4.4803070963117424736087579825",
     "BreweryRank": 1,
-    "BreweryBeerCount": 883,
+    "BreweryBeerCount": 881,
     "StyleAvgAbv": 11.15
   },
   {
@@ -51,7 +51,7 @@
     "OPSPlus": 17.27,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "4.3020045775497887748943874472",
+    "AdjustedRating": "4.3020373566686783343391671696",
     "BreweryRank": 5,
     "BreweryBeerCount": 946,
     "StyleAvgAbv": 11.11
@@ -70,9 +70,9 @@
     "OPSPlus": 17.27,
     "StylePlus": "114",
     "RatingScore": 4.62,
-    "AdjustedRating": "4.1385399742665980442614513639",
+    "AdjustedRating": "4.1385958826556870818322182192",
     "BreweryRank": 6,
-    "BreweryBeerCount": 555,
+    "BreweryBeerCount": 553,
     "StyleAvgAbv": 11.11
   },
   {
@@ -89,9 +89,9 @@
     "OPSPlus": 17.26,
     "StylePlus": "127",
     "RatingScore": 4.48,
-    "AdjustedRating": "3.8092956865219586067642604745",
+    "AdjustedRating": "3.8093779404341241797072185765",
     "BreweryRank": 5,
-    "BreweryBeerCount": 539,
+    "BreweryBeerCount": 536,
     "StyleAvgAbv": 6.86
   },
   {
@@ -108,29 +108,10 @@
     "OPSPlus": 17.25,
     "StylePlus": "114",
     "RatingScore": 4.56,
-    "AdjustedRating": "4.2975317743324720068906115418",
+    "AdjustedRating": "4.297562962962962962962962963",
     "BreweryRank": 8,
     "BreweryBeerCount": 399,
     "StyleAvgAbv": 10.8
-  },
-  {
-    "BID": 1909022,
-    "BeerName": "Art Plum",
-    "BeerStyle": "Farmhouse Ale - Saison",
-    "BreweryName": "Hill Farmstead Brewery",
-    "Origin": "Greensboro, VT United States",
-    "BeerAbv": 7.40,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1909022_1c34b_sm.jpeg",
-    "HallRating": 23.57,
-    "BAR": 11.36,
-    "OPSPlus": 17.24,
-    "StylePlus": "128",
-    "RatingScore": 4.73,
-    "AdjustedRating": "2.9939070724465558194774346793",
-    "BreweryRank": 20,
-    "BreweryBeerCount": 529,
-    "StyleAvgAbv": 6.22
   },
   {
     "BID": 3839991,
@@ -146,10 +127,29 @@
     "OPSPlus": 17.24,
     "StylePlus": "117",
     "RatingScore": 4.76,
-    "AdjustedRating": "3.2903180059671805072103431129",
+    "AdjustedRating": "3.2904800596718050721034311288",
     "BreweryRank": 2,
     "BreweryBeerCount": 433,
     "StyleAvgAbv": 10.08
+  },
+  {
+    "BID": 1909022,
+    "BeerName": "Art Plum",
+    "BeerStyle": "Farmhouse Ale - Saison",
+    "BreweryName": "Hill Farmstead Brewery",
+    "Origin": "Greensboro, VT United States",
+    "BeerAbv": 7.40,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1909022_1c34b_sm.jpeg",
+    "HallRating": 23.57,
+    "BAR": 11.36,
+    "OPSPlus": 17.24,
+    "StylePlus": "128",
+    "RatingScore": 4.73,
+    "AdjustedRating": "2.9941005938242280285035629454",
+    "BreweryRank": 20,
+    "BreweryBeerCount": 529,
+    "StyleAvgAbv": 6.23
   },
   {
     "BID": 1478786,
@@ -165,10 +165,10 @@
     "OPSPlus": 17.23,
     "StylePlus": "125",
     "RatingScore": 4.60,
-    "AdjustedRating": "3.5611598321521820216337187617",
+    "AdjustedRating": "3.5612813875419619544945915703",
     "BreweryRank": 25,
     "BreweryBeerCount": 265,
-    "StyleAvgAbv": 6.22
+    "StyleAvgAbv": 6.23
   },
   {
     "BID": 499559,
@@ -182,9 +182,9 @@
     "HallRating": 23.79,
     "BAR": 11.29,
     "OPSPlus": 17.22,
-    "StylePlus": "119",
+    "StylePlus": "120",
     "RatingScore": 4.80,
-    "AdjustedRating": "2.8976329378172588832487309645",
+    "AdjustedRating": "2.897839720812182741116751269",
     "BreweryRank": 9,
     "BreweryBeerCount": 126,
     "StyleAvgAbv": 11.55
@@ -203,9 +203,9 @@
     "OPSPlus": 17.21,
     "StylePlus": "112",
     "RatingScore": 4.62,
-    "AdjustedRating": "4.3594456884226162844675517594",
+    "AdjustedRating": "4.3594759446662334045121158667",
     "BreweryRank": 35,
-    "BreweryBeerCount": 797,
+    "BreweryBeerCount": 796,
     "StyleAvgAbv": 11.15
   },
   {
@@ -222,9 +222,9 @@
     "OPSPlus": 17.21,
     "StylePlus": "114",
     "RatingScore": 4.72,
-    "AdjustedRating": "3.7535333477106834771068347711",
+    "AdjustedRating": "3.7536414731254147312541473125",
     "BreweryRank": 11,
-    "BreweryBeerCount": 209,
+    "BreweryBeerCount": 208,
     "StyleAvgAbv": 11.15
   },
   {
@@ -241,10 +241,10 @@
     "OPSPlus": 17.21,
     "StylePlus": "126",
     "RatingScore": 4.66,
-    "AdjustedRating": "3.2769754902912621359223300971",
+    "AdjustedRating": "3.2771336893203883495145631068",
     "BreweryRank": 2,
     "BreweryBeerCount": 454,
-    "StyleAvgAbv": 6.22
+    "StyleAvgAbv": 6.23
   },
   {
     "BID": 429338,
@@ -260,9 +260,9 @@
     "OPSPlus": 17.20,
     "StylePlus": "119",
     "RatingScore": 4.76,
-    "AdjustedRating": "3.1735638808373590982286634461",
+    "AdjustedRating": "3.1737388083735909822866344605",
     "BreweryRank": 6,
-    "BreweryBeerCount": 455,
+    "BreweryBeerCount": 454,
     "StyleAvgAbv": 10.8
   },
   {
@@ -279,9 +279,9 @@
     "OPSPlus": 17.18,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "4.3177386393622869708631115998",
+    "AdjustedRating": "4.3177684991753710830126443101",
     "BreweryRank": 36,
-    "BreweryBeerCount": 797,
+    "BreweryBeerCount": 796,
     "StyleAvgAbv": 11.11
   },
   {
@@ -298,10 +298,10 @@
     "OPSPlus": 17.18,
     "StylePlus": "125",
     "RatingScore": 4.62,
-    "AdjustedRating": "3.4491904505632040050062578223",
+    "AdjustedRating": "3.4493264080100125156445556946",
     "BreweryRank": 2,
-    "BreweryBeerCount": 390,
-    "StyleAvgAbv": 6.22
+    "BreweryBeerCount": 389,
+    "StyleAvgAbv": 6.23
   },
   {
     "BID": 3816153,
@@ -317,9 +317,9 @@
     "OPSPlus": 17.18,
     "StylePlus": "129",
     "RatingScore": 4.55,
-    "AdjustedRating": "3.5175432766439909297052154195",
+    "AdjustedRating": "3.5176664399092970521541950113",
     "BreweryRank": 3,
-    "BreweryBeerCount": 729,
+    "BreweryBeerCount": 727,
     "StyleAvgAbv": 5.58
   },
   {
@@ -336,9 +336,9 @@
     "OPSPlus": 17.17,
     "StylePlus": "116",
     "RatingScore": 4.69,
-    "AdjustedRating": "3.6844221675392670157068062827",
+    "AdjustedRating": "3.6845359162303664921465968586",
     "BreweryRank": 12,
-    "BreweryBeerCount": 209,
+    "BreweryBeerCount": 208,
     "StyleAvgAbv": 11.11
   },
   {
@@ -355,29 +355,10 @@
     "OPSPlus": 17.16,
     "StylePlus": "113",
     "RatingScore": 4.57,
-    "AdjustedRating": "4.3160165599630996309963099631",
+    "AdjustedRating": "4.3160466236162361623616236162",
     "BreweryRank": 37,
-    "BreweryBeerCount": 797,
+    "BreweryBeerCount": 796,
     "StyleAvgAbv": 11.11
-  },
-  {
-    "BID": 1332416,
-    "BeerName": "The Scribe (Blend #1)",
-    "BeerStyle": "Belgian Quadrupel",
-    "BreweryName": "Side Project Brewing",
-    "Origin": "Saint Louis, MO United States",
-    "BeerAbv": 13.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1332416_8dfd4_sm.jpeg",
-    "HallRating": 22.80,
-    "BAR": 11.46,
-    "OPSPlus": 17.16,
-    "StylePlus": "121",
-    "RatingScore": 4.70,
-    "AdjustedRating": "3.3487707990654205607476635514",
-    "BreweryRank": 26,
-    "BreweryBeerCount": 265,
-    "StyleAvgAbv": 10.76
   },
   {
     "BID": 1171399,
@@ -393,10 +374,29 @@
     "OPSPlus": 17.16,
     "StylePlus": "117",
     "RatingScore": 4.66,
-    "AdjustedRating": "3.6896217677111716621253405995",
+    "AdjustedRating": "3.6897327656675749318801089918",
     "BreweryRank": 3,
-    "BreweryBeerCount": 384,
+    "BreweryBeerCount": 382,
     "StyleAvgAbv": 6.74
+  },
+  {
+    "BID": 1332416,
+    "BeerName": "The Scribe (Blend #1)",
+    "BeerStyle": "Belgian Quadrupel",
+    "BreweryName": "Side Project Brewing",
+    "Origin": "Saint Louis, MO United States",
+    "BeerAbv": 13.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-1332416_8dfd4_sm.jpeg",
+    "HallRating": 22.80,
+    "BAR": 11.46,
+    "OPSPlus": 17.16,
+    "StylePlus": "121",
+    "RatingScore": 4.70,
+    "AdjustedRating": "3.3489230841121495327102803738",
+    "BreweryRank": 26,
+    "BreweryBeerCount": 265,
+    "StyleAvgAbv": 10.76
   },
   {
     "BID": 3618053,
@@ -412,7 +412,7 @@
     "OPSPlus": 17.14,
     "StylePlus": "115",
     "RatingScore": 4.62,
-    "AdjustedRating": "3.8584177774762550881953867028",
+    "AdjustedRating": "3.8585062143826322930800542741",
     "BreweryRank": 10,
     "BreweryBeerCount": 126,
     "StyleAvgAbv": 11.55
@@ -429,31 +429,12 @@
     "HallRating": 22.51,
     "BAR": 11.51,
     "OPSPlus": 17.14,
-    "StylePlus": "116",
+    "StylePlus": "117",
     "RatingScore": 4.68,
-    "AdjustedRating": "3.5060406993865030674846625767",
+    "AdjustedRating": "3.5061739877300613496932515337",
     "BreweryRank": 6,
-    "BreweryBeerCount": 75,
+    "BreweryBeerCount": 74,
     "StyleAvgAbv": 11.55
-  },
-  {
-    "BID": 6027815,
-    "BeerName": "A Deal With the Devil - Triple Oaked (Batch 15 - 2024)",
-    "BeerStyle": "Barleywine - American",
-    "BreweryName": "Anchorage Brewing Company",
-    "Origin": "Anchorage, AK United States",
-    "BeerAbv": 18.66,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6027815_71013_sm.jpeg",
-    "HallRating": 23.04,
-    "BAR": 11.37,
-    "OPSPlus": 17.13,
-    "StylePlus": "122",
-    "RatingScore": 4.72,
-    "AdjustedRating": "3.1900995325630252100840336134",
-    "BreweryRank": 7,
-    "BreweryBeerCount": 210,
-    "StyleAvgAbv": 11.04
   },
   {
     "BID": 6102626,
@@ -469,9 +450,28 @@
     "OPSPlus": 17.13,
     "StylePlus": "111",
     "RatingScore": 4.46,
-    "AdjustedRating": "4.4389741607708321701190865511",
+    "AdjustedRating": "4.4389767601757982308508347225",
     "BreweryRank": 13,
     "BreweryBeerCount": 778,
     "StyleAvgAbv": 8.18
+  },
+  {
+    "BID": 6027815,
+    "BeerName": "A Deal With the Devil - Triple Oaked (Batch 15 - 2024)",
+    "BeerStyle": "Barleywine - American",
+    "BreweryName": "Anchorage Brewing Company",
+    "Origin": "Anchorage, AK United States",
+    "BeerAbv": 18.66,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-6027815_71013_sm.jpeg",
+    "HallRating": 23.04,
+    "BAR": 11.37,
+    "OPSPlus": 17.13,
+    "StylePlus": "122",
+    "RatingScore": 4.72,
+    "AdjustedRating": "3.1902706932773109243697478992",
+    "BreweryRank": 7,
+    "BreweryBeerCount": 210,
+    "StyleAvgAbv": 11.05
   }
 ]

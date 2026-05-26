@@ -13,10 +13,29 @@
     "OPSPlus": 20.38,
     "StylePlus": "122",
     "RatingScore": 4.75,
-    "AdjustedRating": "4.0226894319585082736478142751",
+    "AdjustedRating": "4.0227699184983946653494690047",
     "BreweryRank": 2,
     "BreweryBeerCount": 210,
-    "StyleAvgAbv": 11.04
+    "StyleAvgAbv": 11.05
+  },
+  {
+    "BID": 1218379,
+    "BeerName": "Utopias (2015)",
+    "BeerStyle": "Strong Ale - American",
+    "BreweryName": "Samuel Adams",
+    "Origin": "Boston, MA United States",
+    "BeerAbv": 28.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-bostonUtopias.jpg",
+    "HallRating": 24.98,
+    "BAR": 14.12,
+    "OPSPlus": 20.26,
+    "StylePlus": "121",
+    "RatingScore": 4.63,
+    "AdjustedRating": "4.3172705007216609303874764072",
+    "BreweryRank": 2,
+    "BreweryBeerCount": 643,
+    "StyleAvgAbv": 9.67
   },
   {
     "BID": 6596295,
@@ -32,29 +51,10 @@
     "OPSPlus": 20.26,
     "StylePlus": "116",
     "RatingScore": 4.47,
-    "AdjustedRating": "4.4539402404703826409873666582",
+    "AdjustedRating": "4.4539422179342483707721993665",
     "BreweryRank": 4,
     "BreweryBeerCount": 778,
     "StyleAvgAbv": 6.55
-  },
-  {
-    "BID": 1218379,
-    "BeerName": "Utopias (2015)",
-    "BeerStyle": "Strong Ale - American",
-    "BreweryName": "Samuel Adams",
-    "Origin": "Boston, MA United States",
-    "BeerAbv": 28.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-bostonUtopias.jpg",
-    "HallRating": 24.98,
-    "BAR": 14.12,
-    "OPSPlus": 20.26,
-    "StylePlus": "122",
-    "RatingScore": 4.63,
-    "AdjustedRating": "4.3172343188631064727434217831",
-    "BreweryRank": 2,
-    "BreweryBeerCount": 644,
-    "StyleAvgAbv": 9.67
   },
   {
     "BID": 1220676,
@@ -70,7 +70,7 @@
     "OPSPlus": 20.25,
     "StylePlus": "123",
     "RatingScore": 4.72,
-    "AdjustedRating": "4.0557057035347776510832383124",
+    "AdjustedRating": "4.0557800228050171037628278221",
     "BreweryRank": 1,
     "BreweryBeerCount": 385,
     "StyleAvgAbv": 5.99
@@ -89,7 +89,7 @@
     "OPSPlus": 20.24,
     "StylePlus": "114",
     "RatingScore": 4.46,
-    "AdjustedRating": "4.4469324247111137550006692345",
+    "AdjustedRating": "4.4469340402433039365863089484",
     "BreweryRank": 1,
     "BreweryBeerCount": 84,
     "StyleAvgAbv": 10.76
@@ -108,9 +108,9 @@
     "OPSPlus": 20.17,
     "StylePlus": "113",
     "RatingScore": 4.58,
-    "AdjustedRating": "4.5330798660555131143366437484",
+    "AdjustedRating": "4.5330853985230455818691112809",
     "BreweryRank": 9,
-    "BreweryBeerCount": 797,
+    "BreweryBeerCount": 796,
     "StyleAvgAbv": 11.11
   },
   {
@@ -127,7 +127,7 @@
     "OPSPlus": 20.16,
     "StylePlus": "117",
     "RatingScore": 4.74,
-    "AdjustedRating": "4.220759070960891877543797558",
+    "AdjustedRating": "4.2208167403999292160679525748",
     "BreweryRank": 5,
     "BreweryBeerCount": 778,
     "StyleAvgAbv": 11.11
@@ -144,9 +144,9 @@
     "HallRating": 23.57,
     "BAR": 14.57,
     "OPSPlus": 20.13,
-    "StylePlus": "117",
+    "StylePlus": "116",
     "RatingScore": 4.50,
-    "AdjustedRating": "4.4633003988326848249027237354",
+    "AdjustedRating": "4.4633048638132295719844357977",
     "BreweryRank": 1,
     "BreweryBeerCount": 65,
     "StyleAvgAbv": 8.54
@@ -165,7 +165,7 @@
     "OPSPlus": 20.13,
     "StylePlus": "123",
     "RatingScore": 4.70,
-    "AdjustedRating": "4.0838417877690176859151928404",
+    "AdjustedRating": "4.083911229490730875772427019",
     "BreweryRank": 6,
     "BreweryBeerCount": 265,
     "StyleAvgAbv": 9.67
@@ -182,11 +182,11 @@
     "HallRating": 24.62,
     "BAR": 14.06,
     "OPSPlus": 20.09,
-    "StylePlus": "115",
+    "StylePlus": "116",
     "RatingScore": 4.68,
-    "AdjustedRating": "4.4188947066314927681251705631",
+    "AdjustedRating": "4.4189243518602747202765396161",
     "BreweryRank": 1,
-    "BreweryBeerCount": 477,
+    "BreweryBeerCount": 472,
     "StyleAvgAbv": 11.11
   },
   {
@@ -203,7 +203,7 @@
     "OPSPlus": 20.08,
     "StylePlus": "118",
     "RatingScore": 4.39,
-    "AdjustedRating": "4.375579522991870651023487288",
+    "AdjustedRating": "4.375581357668835994325218997",
     "BreweryRank": 2,
     "BreweryBeerCount": 98,
     "StyleAvgAbv": 6.54
@@ -222,7 +222,7 @@
     "OPSPlus": 20.06,
     "StylePlus": "114",
     "RatingScore": 4.59,
-    "AdjustedRating": "4.5370235910410142824409990071",
+    "AdjustedRating": "4.5370298136408768043992973345",
     "BreweryRank": 6,
     "BreweryBeerCount": 778,
     "StyleAvgAbv": 8.18
@@ -241,7 +241,7 @@
     "OPSPlus": 19.97,
     "StylePlus": "118",
     "RatingScore": 4.78,
-    "AdjustedRating": "3.9732708699186991869918699187",
+    "AdjustedRating": "3.9733591869918699186991869919",
     "BreweryRank": 7,
     "BreweryBeerCount": 265,
     "StyleAvgAbv": 11.11
@@ -260,9 +260,9 @@
     "OPSPlus": 19.93,
     "StylePlus": "116",
     "RatingScore": 4.70,
-    "AdjustedRating": "4.3346183358605003790750568613",
+    "AdjustedRating": "4.3346595147839272175890826384",
     "BreweryRank": 10,
-    "BreweryBeerCount": 797,
+    "BreweryBeerCount": 796,
     "StyleAvgAbv": 11.11
   },
   {
@@ -279,9 +279,9 @@
     "OPSPlus": 19.92,
     "StylePlus": "117",
     "RatingScore": 4.73,
-    "AdjustedRating": "4.2143773386243386243386243386",
+    "AdjustedRating": "4.2144348148148148148148148148",
     "BreweryRank": 2,
-    "BreweryBeerCount": 209,
+    "BreweryBeerCount": 208,
     "StyleAvgAbv": 11.11
   },
   {
@@ -298,9 +298,9 @@
     "OPSPlus": 19.91,
     "StylePlus": "116",
     "RatingScore": 4.69,
-    "AdjustedRating": "4.3647961970877074161869285472",
+    "AdjustedRating": "4.3648329834067050457162207924",
     "BreweryRank": 1,
-    "BreweryBeerCount": 1307,
+    "BreweryBeerCount": 1300,
     "StyleAvgAbv": 11.11
   },
   {
@@ -317,7 +317,7 @@
     "OPSPlus": 19.89,
     "StylePlus": "116",
     "RatingScore": 4.65,
-    "AdjustedRating": "4.3450928681920721882049629391",
+    "AdjustedRating": "4.3451278762487914921044150822",
     "BreweryRank": 2,
     "BreweryBeerCount": 126,
     "StyleAvgAbv": 11.55
@@ -334,31 +334,12 @@
     "HallRating": 23.91,
     "BAR": 13.91,
     "OPSPlus": 19.73,
-    "StylePlus": "114",
+    "StylePlus": "115",
     "RatingScore": 4.64,
-    "AdjustedRating": "4.462923759158369340597407477",
+    "AdjustedRating": "4.4629441668232199887281608116",
     "BreweryRank": 11,
-    "BreweryBeerCount": 797,
+    "BreweryBeerCount": 796,
     "StyleAvgAbv": 11.11
-  },
-  {
-    "BID": 3224634,
-    "BeerName": "Mother of  Berries Triple Puffsicle (Boysenberry, Loganberry, Blackberry, Raspberry)",
-    "BeerStyle": "Fruit Beer",
-    "BreweryName": "The Answer",
-    "Origin": "Richmond, VA United States",
-    "BeerAbv": 9.00,
-    "BeerIbu": 0.00,
-    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3224634_5979f_sm.jpeg",
-    "HallRating": 24.96,
-    "BAR": 13.46,
-    "OPSPlus": 19.66,
-    "StylePlus": "131",
-    "RatingScore": 4.62,
-    "AdjustedRating": "3.9670380432759422987436016752",
-    "BreweryRank": 1,
-    "BreweryBeerCount": 729,
-    "StyleAvgAbv": 5.58
   },
   {
     "BID": 6205786,
@@ -374,7 +355,7 @@
     "OPSPlus": 19.66,
     "StylePlus": "113",
     "RatingScore": 4.56,
-    "AdjustedRating": "4.5232934418791407347922103995",
+    "AdjustedRating": "4.5232978036538847620959646657",
     "BreweryRank": 7,
     "BreweryBeerCount": 778,
     "StyleAvgAbv": 8.18
@@ -393,10 +374,29 @@
     "OPSPlus": 19.66,
     "StylePlus": "119",
     "RatingScore": 4.83,
-    "AdjustedRating": "3.5789345623451692815854665566",
+    "AdjustedRating": "3.5790691164327002477291494633",
     "BreweryRank": 3,
-    "BreweryBeerCount": 209,
+    "BreweryBeerCount": 208,
     "StyleAvgAbv": 11.11
+  },
+  {
+    "BID": 3224634,
+    "BeerName": "Mother of  Berries Triple Puffsicle (Boysenberry, Loganberry, Blackberry, Raspberry)",
+    "BeerStyle": "Fruit Beer",
+    "BreweryName": "The Answer",
+    "Origin": "Richmond, VA United States",
+    "BeerAbv": 9.00,
+    "BeerIbu": 0.00,
+    "BeerLabel": "https://assets.untappd.com/site/beer_logos/beer-3224634_5979f_sm.jpeg",
+    "HallRating": 24.96,
+    "BAR": 13.46,
+    "OPSPlus": 19.66,
+    "StylePlus": "131",
+    "RatingScore": 4.62,
+    "AdjustedRating": "3.9671138669148441135411819451",
+    "BreweryRank": 1,
+    "BreweryBeerCount": 727,
+    "StyleAvgAbv": 5.58
   },
   {
     "BID": 1412784,
@@ -412,10 +412,10 @@
     "OPSPlus": 19.64,
     "StylePlus": "128",
     "RatingScore": 4.72,
-    "AdjustedRating": "3.7630583147174770039421813403",
+    "AdjustedRating": "3.7631653745072273324572930355",
     "BreweryRank": 8,
     "BreweryBeerCount": 265,
-    "StyleAvgAbv": 6.22
+    "StyleAvgAbv": 6.23
   },
   {
     "BID": 1005596,
@@ -431,9 +431,9 @@
     "OPSPlus": 19.56,
     "StylePlus": "117",
     "RatingScore": 4.74,
-    "AdjustedRating": "4.0806223617977528089887640449",
+    "AdjustedRating": "4.0806955955056179775280898876",
     "BreweryRank": 4,
-    "BreweryBeerCount": 209,
+    "BreweryBeerCount": 208,
     "StyleAvgAbv": 11.11
   },
   {
@@ -450,7 +450,7 @@
     "OPSPlus": 19.48,
     "StylePlus": "120",
     "RatingScore": 4.86,
-    "AdjustedRating": "3.3441433217821782178217821782",
+    "AdjustedRating": "3.3443046534653465346534653465",
     "BreweryRank": 9,
     "BreweryBeerCount": 265,
     "StyleAvgAbv": 11.11
@@ -469,9 +469,9 @@
     "OPSPlus": 19.46,
     "StylePlus": "120",
     "RatingScore": 4.86,
-    "AdjustedRating": "3.3396273634558093346573982125",
+    "AdjustedRating": "3.3397891757696127110228401192",
     "BreweryRank": 5,
-    "BreweryBeerCount": 209,
+    "BreweryBeerCount": 208,
     "StyleAvgAbv": 11.11
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "BreweryName": "Birra Cudera",
-    "Location": "Italy"
-  },
-  {
-    "BreweryName": "Birra D'A",
-    "Location": "Torrecuso, Campania Italy"
-  },
-  {
-    "BreweryName": "Birra Damatrà",
-    "Location": "Bellagio, Lombardia Italy"
-  },
-  {
     "BreweryName": "Birra de Madre",
     "Location": "Santa Cruz do Rio Pardo, São Paulo Brazil"
   },
@@ -98,5 +86,17 @@
   {
     "BreweryName": "Birra Del Torèt",
     "Location": "Italy"
+  },
+  {
+    "BreweryName": "Birra dell'Adige",
+    "Location": "Località Produttiva I, Trentino-Alto Adige Italy"
+  },
+  {
+    "BreweryName": "Birra dell'Elba",
+    "Location": "Portoferraio, Toscana Italy"
+  },
+  {
+    "BreweryName": "Birra dell'Eremo",
+    "Location": "Capodacqua, Umbria Italy"
   }
 ]

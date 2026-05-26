@@ -1,13 +1,5 @@
 [
   {
-    "BreweryName": "Bierfirma Hopperdehop",
-    "Location": "Keerbergen, Vlaams Gewest Belgium"
-  },
-  {
-    "BreweryName": "Bierfirma Meelberghs",
-    "Location": "Diepenbeek, Vlaams Gewest Belgium"
-  },
-  {
     "BreweryName": "Bierfirma Schwalbe",
     "Location": "Geel, Vlaams Gewest Belgium"
   },
@@ -37,7 +29,7 @@
   },
   {
     "BreweryName": "Biergilde Cambrinus Zundert",
-    "Location": null
+    "Location": "Zundert, Noord-Brabant Netherlands"
   },
   {
     "BreweryName": "Biergilde Dijleland",
@@ -98,5 +90,13 @@
   {
     "BreweryName": "Bierhof",
     "Location": "Russia"
+  },
+  {
+    "BreweryName": "Bierhoff",
+    "Location": "Oskemen, East Kazakhstan Region Kazakhstan"
+  },
+  {
+    "BreweryName": "Bierhouwerij",
+    "Location": "Vilvoorde, Vlaams Gewest Belgium"
   }
 ]
